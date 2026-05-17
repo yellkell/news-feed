@@ -249,5 +249,6 @@ ${sections}
   console.log(`Curating ${total} candidates with ${MODEL}...`);
   const feed = await curate(candidates);
   writeFileSync("news.html", render(feed));
-  console.log("Wrote news.html");
+  writeFileSync("news.json", JSON.stringify({ updated: new Date().toISOString(), feed }, null, 2));
+  console.log("Wrote news.html and news.json");
 })();
