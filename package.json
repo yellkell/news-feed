@@ -1,0 +1,10 @@
+{
+  "name": "news-feed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-curated VR / AI / NFL news feed",
+  "scripts": {
+    "curate": "node curate.mjs"
+  }
+}

@@ -1,0 +1,41 @@
+name: Curate news feed
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours (UTC)
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: curate
+  cancel-in-progress: false
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate news.html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node curate.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@github.com"
+          git add news.html
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update news feed [skip ci]"
+            git push
+          fi
