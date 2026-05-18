@@ -1,43 +1,43 @@
 {
-  "updated": "2026-05-18T18:24:14.580Z",
+  "updated": "2026-05-18T20:10:36.853Z",
   "feed": {
     "VR": [
       {
         "title": "Pimax Starts Sending Out ‘Dream Air SE’ PC VR Headsets, But Fulfillment Could Take Weeks",
         "url": "https://www.roadtovr.com/pimax-dream-air-se-release-date-shipping/",
-        "summary": "Pimax has begun shipping its Dream Air SE PC VR headsets, though many customers may face delays in fulfillment despite pre-ordering.",
+        "summary": "Pimax has begun shipping its Dream Air SE PC VR headsets, though many customers will face delays despite pre-ordering.",
         "source": "roadtovr.com",
         "date": "Mon, 18 May 2026 11:09:25 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/pimax-dream-air-se-341x220.jpg"
       },
       {
-        "title": "Meta’s Goo Goo Dolls Concert Reminds Us Why Live Music Fits VR So Well",
-        "url": "https://www.uploadvr.com/metas-goo-goo-dolls-concert-reminds-us-why-live-music-fits-vr-so-well/",
-        "summary": "Meta's latest immersive concert features the Goo Goo Dolls performing live in VR at New York's Beacon Theatre, enhancing the virtual music experience.",
-        "source": "uploadvr.com",
-        "date": "Sun, 17 May 2026 15:13:39 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/goo-goo-pic.jpeg"
-      },
-      {
         "title": "VR Platformer ‘Moss’ is Getting a Flatscreen Port Following Cancellation of “major project”",
         "url": "https://www.roadtovr.com/moss-vr-flatscreen-port-project-cancellation/",
-        "summary": "Polyarc Games announced a flatscreen adaptation of its VR puzzle-platformer series Moss, following the cancellation of a major project.",
+        "summary": "Polyarc Games is releasing a flatscreen adaptation of the VR series Moss after canceling a major project.",
         "source": "roadtovr.com",
         "date": "Thu, 14 May 2026 16:27:54 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/moss-port-341x220.jpg"
       },
       {
-        "title": "‘ROG XREAL R1’ Pre-orders Now Live – 240Hz MicroOLED Gaming Glasses Priced at $850",
-        "url": "https://www.roadtovr.com/rog-xreal-r1-pre-orders-now-live-240hz-microoled-gaming-glasses-priced-at-850/",
-        "summary": "Pre-orders are now live for ASUS's ROG XREAL R1 gaming AR glasses, featuring a 240Hz refresh rate and priced at $850.",
+        "title": "Meta Connect Event Set for September 23–24 Alongside New Glasses Tease",
+        "url": "https://www.roadtovr.com/meta-connect-2026-date-announcement/",
+        "summary": "Meta's Connect event is set for September 23–24, teasing new smart glasses and focusing on VR, wearables, and AI.",
         "source": "roadtovr.com",
-        "date": "Fri, 15 May 2026 12:49:43 +0000",
-        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/rog-xreal-r1-341x220.jpg"
+        "date": "Tue, 12 May 2026 17:58:40 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/zuckerberg-glasses-1-341x220.jpg"
+      },
+      {
+        "title": "Meta’s Goo Goo Dolls Concert Reminds Us Why Live Music Fits VR So Well",
+        "url": "https://www.uploadvr.com/metas-goo-goo-dolls-concert-reminds-us-why-live-music-fits-vr-so-well/",
+        "summary": "Quest users can enjoy a live concert featuring the Goo Goo Dolls in a new immersive VR experience.",
+        "source": "uploadvr.com",
+        "date": "Sun, 17 May 2026 15:13:39 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/goo-goo-pic.jpeg"
       },
       {
         "title": "Quest’s Latest PTC Update Turns Web Photos Into 3D",
         "url": "https://www.uploadvr.com/quests-latest-ptc-update-turns-web-photos-into-3d/",
-        "summary": "Meta's latest Quest PTC update introduces AI-powered 3D photo conversion and streamlined uploads from mobile devices.",
+        "summary": "Meta's latest Quest update introduces AI-powered 3D photo conversion and improved upload capabilities.",
         "source": "uploadvr.com",
         "date": "Thu, 14 May 2026 15:03:39 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/ca84e12d434845f9944b50759fe3c50c.jpg"
@@ -45,7 +45,7 @@
       {
         "title": "Fixer Undercover Wrenches Its Way Onto Steam In July With VR & Flatscreen Support",
         "url": "https://www.uploadvr.com/fixer-undercover-wrenches-its-way-onto-steam-in-july-with-vr-flatscreen-support/",
-        "summary": "Espionage escape room game Fixer Undercover will launch on Steam in July, supporting both VR and flatscreen gameplay.",
+        "summary": "Espionage escape room game Fixer Undercover will launch on Steam in July with both VR and flatscreen support.",
         "source": "uploadvr.com",
         "date": "Fri, 15 May 2026 08:55:45 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/250925-Fixer-KA_3.png"
@@ -53,9 +53,9 @@
     ],
     "AI": [
       {
-        "title": "Elon Musk lost his case against Sam Altman",
+        "title": "Elon Musk loses his case against Sam Altman",
         "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
-        "summary": "Elon Musk lost his lawsuit against Sam Altman, with the jury ruling on claims regarding OpenAI's mission and profit focus.",
+        "summary": "Elon Musk lost his high-profile case against Sam Altman, with the jury ruling on multiple claims.",
         "source": "theverge.com",
         "date": "2026-05-18T13:39:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Amazon Alexa Plus can now create AI-generated podcasts",
         "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
-        "summary": "Amazon's Alexa Plus can now create AI-generated podcasts on virtually any topic, enhancing user interaction with the assistant.",
+        "summary": "Amazon's Alexa Plus can now generate podcasts on virtually any topic, enhancing its AI capabilities.",
         "source": "theverge.com",
         "date": "2026-05-18T11:55:25-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/amazon-alexa-podcasts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,23 +71,15 @@
       {
         "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
         "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-        "summary": "YouTube is expanding its AI deepfake detection tool to all adult users, allowing them to monitor for potential likeness misuse.",
+        "summary": "YouTube is expanding its AI deepfake detection tool to all adult users, allowing them to monitor likenesses.",
         "source": "theverge.com",
         "date": "2026-05-15T18:25:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-        "summary": "OpenAI has reorganized its executive structure, appointing Greg Brockman as the lead for its AI agent strategy.",
-        "source": "theverge.com",
-        "date": "2026-05-15T14:21:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Revamped Siri will reportedly offer autodeleting chats",
         "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-        "summary": "Apple's revamped Siri is set to debut with autodeleting chat history, aiming to improve user privacy amidst AI advancements.",
+        "summary": "Apple's revamped Siri, set to debut in iOS 27, will feature autodeleting chat histories for enhanced privacy.",
         "source": "theverge.com",
         "date": "2026-05-17T14:40:28-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10817647/acastro_180510_1777_siri_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,60 +87,68 @@
       {
         "title": "ArXiv will ban researchers who upload papers full of AI slop",
         "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-        "summary": "ArXiv will ban researchers who upload papers containing unverified AI-generated content, aiming to maintain research integrity.",
+        "summary": "ArXiv is implementing a ban on researchers uploading papers with unverified AI-generated content to maintain quality.",
         "source": "theverge.com",
         "date": "2026-05-15T16:38:19-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "summary": "The ongoing trial between Musk and Altman could significantly impact the future direction of OpenAI and its products.",
+        "source": "theverge.com",
+        "date": "2026-05-18T13:49:49-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Aaron Rodgers poised to surpass Peyton Manning for third-most TD passes in NFL history",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-poised-to-surpass-peyton-manning-for-third-most-td-passes-in-nfl-history",
-        "summary": "Aaron Rodgers is officially back with the Steelers for his 22nd NFL season, poised to surpass Peyton Manning in career touchdown passes.",
+        "title": "'Little shocked': Steelers react to Rodgers' retur...",
+        "url": "https://www.espn.com/nfl/story/_/id/48808409/aaron-rodgers-quickly-gets-back-work-steelers-otas",
+        "summary": "Aaron Rodgers returned to practice with the Steelers after signing a one-year contract, marking his official comeback.",
+        "source": "espn.com",
+        "date": "Mon, 18 May 2026 15:34:13 EST",
+        "image": ""
+      },
+      {
+        "title": "Sources: Nashville expected to host 2030 SB",
+        "url": "https://www.espn.com/nfl/story/_/id/48804104/sources-nfl-owners-vote-nashville-super-bowl-lxiv-host",
+        "summary": "Nashville is expected to be named the host city for Super Bowl LXIV in 2030 during the NFL's spring meeting.",
+        "source": "espn.com",
+        "date": "Mon, 18 May 2026 15:34:13 EST",
+        "image": ""
+      },
+      {
+        "title": "Sources: NFL to award 2028 draft to Minneapolis",
+        "url": "https://www.espn.com/nfl/story/_/id/48807793/nfl-expected-award-2028-draft-minneapolis",
+        "summary": "Minneapolis is set to host the 2028 NFL Draft, with U.S. Bank Stadium playing a key role in the event.",
+        "source": "espn.com",
+        "date": "Mon, 18 May 2026 15:34:13 EST",
+        "image": ""
+      },
+      {
+        "title": "Report: Meyer loses grievance, saving Jags $30M",
+        "url": "https://www.espn.com/nfl/story/_/id/48807298/urban-meyer-reportedly-loses-grievance-jaguars-firing",
+        "summary": "Former Jaguars coach Urban Meyer lost his grievance against the team, saving Jacksonville $30 million.",
+        "source": "espn.com",
+        "date": "Mon, 18 May 2026 15:34:13 EST",
+        "image": ""
+      },
+      {
+        "title": "Eagles sign second-round pick Eli Stowers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-second-round-pick-eli-stowers",
+        "summary": "The Eagles have signed second-round pick Eli Stowers to his first NFL contract.",
         "source": "nbcsports.com",
-        "date": "Mon, 18 May 2026 11:50:46 -0400",
+        "date": "Mon, 18 May 2026 14:31:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a5549fc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F214%2F26%2Fnbc_pft_pats_aj_260513.jpg"
+      },
+      {
+        "title": "Would the Steelers keep four quarterbacks on the 53-man roster?",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/would-the-steelers-keep-four-quarterbacks-on-the-53-man-roster",
+        "summary": "With Aaron Rodgers back, the Steelers now have four quarterbacks on their offseason roster, raising questions about roster decisions.",
+        "source": "nbcsports.com",
+        "date": "Mon, 18 May 2026 14:25:34 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/0db298f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F725%2F263%2Fnbc_pft_pitotherqbs_260518.jpg"
-      },
-      {
-        "title": "Steelers announce the re-signing of Aaron Rodgers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-announce-the-re-signing-of-aaron-rodgers",
-        "summary": "The Steelers have re-signed quarterback Aaron Rodgers, confirming his return for another season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 18 May 2026 11:26:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f09defe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F658%2F871%2Fnbc_pftpm_rodgerssigns_260516.jpg"
-      },
-      {
-        "title": "NFL likely to award the 2028 draft to Minnesota this week",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-likely-to-award-the-2028-draft-to-minnesota-this-week",
-        "summary": "The NFL is expected to award the 2028 draft to Minnesota, with an official announcement anticipated this week.",
-        "source": "nbcsports.com",
-        "date": "Mon, 18 May 2026 13:14:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/57ec000/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F81%2F219%2Fnbc_pft_adrianpetersonv4_360512.jpg"
-      },
-      {
-        "title": "NFL owners are expected to vote on adding two more international games for 2027",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-owners-are-expected-to-vote-on-adding-two-more-international-games-for-2027",
-        "summary": "NFL owners are set to vote on adding two more international games for the 2027 season, expanding the league's global reach.",
-        "source": "nbcsports.com",
-        "date": "Mon, 18 May 2026 09:13:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d779cc5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F356%2F119%2Fnbc_pft_internationaltravel_260514.jpg"
-      },
-      {
-        "title": "Owners will get \"special briefing\" on Bears' two stadium options",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/owners-will-get-special-briefing-on-bears-two-stadium-options",
-        "summary": "NFL owners will receive a special briefing on the Chicago Bears' two stadium options during their upcoming meeting.",
-        "source": "nbcsports.com",
-        "date": "Mon, 18 May 2026 13:01:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/723cc1b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F509%2F446%2Fnbc_pft_bearsschedule_260515.jpg"
-      },
-      {
-        "title": "In Week 2, Al Michaels will call the first game at yet another stadium",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-week-2-al-michaels-will-call-the-first-game-at-yet-another-stadium",
-        "summary": "Legendary broadcaster Al Michaels will call the first game at the Bills' new stadium on September 17.",
-        "source": "nbcsports.com",
-        "date": "Mon, 18 May 2026 13:42:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ed9b04/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F61%2F699%2Fnbc_pft_bufdet_260512.jpg"
       }
     ]
   }
