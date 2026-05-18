@@ -3,7 +3,7 @@
 // Runs in GitHub Actions via GitHub Models — auth uses the built-in
 // GITHUB_TOKEN, so no personal API key is ever uploaded.
 
-import { writeFileSync } from "node:fs";
+import { writeFileSync, readFileSync } from "node:fs";
 
 const FEEDS = {
   VR: [
@@ -170,9 +170,8 @@ function esc(s) {
   return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 }
 
-function render(feed) {
-  const now = new Date();
-  const updated = now.toUTCString();
+function render(feed, updatedISO) {
+  const updated = new Date(updatedISO).toUTCString();
   const meta = { VR: ["#7c5cff", "VR / XR"], AI: ["#00d4aa", "Artificial Intelligence"], NFL: ["#ff4d4d", "NFL"] };
 
   const sections = Object.entries(feed)
@@ -236,7 +235,7 @@ ${cards}
 <main>
 ${sections}
 </main>
-<footer>Generated every 12 hours via GitHub Actions. Headlines link to original sources.</footer>
+<footer>Generated every 15 minutes via GitHub Actions. Headlines link to original sources.</footer>
 </body>
 </html>
 `;
@@ -248,7 +247,19 @@ ${sections}
   if (total === 0) throw new Error("No articles fetched from any feed");
   console.log(`Curating ${total} candidates with ${MODEL}...`);
   const feed = await curate(candidates);
-  writeFileSync("news.html", render(feed));
-  writeFileSync("news.json", JSON.stringify({ updated: new Date().toISOString(), feed }, null, 2));
+
+  // Only bump the timestamp when the curated content actually changed, so an
+  // unchanged feed produces byte-identical files and the workflow skips the commit.
+  let updated = new Date().toISOString();
+  try {
+    const prev = JSON.parse(readFileSync("news.json", "utf8"));
+    if (JSON.stringify(prev.feed) === JSON.stringify(feed)) {
+      updated = prev.updated;
+      console.log("Feed unchanged since last run.");
+    }
+  } catch {}
+
+  writeFileSync("news.html", render(feed, updated));
+  writeFileSync("news.json", JSON.stringify({ updated, feed }, null, 2));
   console.log("Wrote news.html and news.json");
 })();

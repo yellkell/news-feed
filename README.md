@@ -1,6 +1,6 @@
 # AI-Curated News Feed — VR / AI / NFL
 
-A GitHub Action runs every 12 hours, fetches RSS feeds, asks an LLM (via
+A GitHub Action runs every 15 minutes, fetches RSS feeds, asks an LLM (via
 **GitHub Models**) to pick and summarize the top stories, and writes a
 self-contained `news.html`.
 

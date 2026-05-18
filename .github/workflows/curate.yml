@@ -2,7 +2,7 @@ name: Curate news feed
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours (UTC)
+    - cron: "*/15 * * * *" # every 15 minutes
   workflow_dispatch: {} # allow manual runs from the Actions tab
 
 permissions:
