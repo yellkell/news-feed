@@ -47,6 +47,20 @@ function tag(block, name) {
   return m ? m[1] : "";
 }
 
+function extractImage(b) {
+  let m =
+    b.match(/<media:content[^>]*medium=["']image["'][^>]*url=["']([^"']+)["']/i) ||
+    b.match(/<media:content[^>]*url=["']([^"']+)["'][^>]*medium=["']image["']/i) ||
+    b.match(/<media:content[^>]*url=["']([^"']+\.(?:jpe?g|png|webp)[^"']*)["']/i) ||
+    b.match(/<media:thumbnail[^>]*url=["']([^"']+)["']/i) ||
+    b.match(/<enclosure[^>]*url=["']([^"']+)["'][^>]*type=["']image/i) ||
+    b.match(/<enclosure[^>]*type=["']image[^>]*url=["']([^"']+)["']/i) ||
+    b.match(/<img[^>]*src=["']([^"']+)["']/i);
+  let url = m ? m[1].trim() : "";
+  if (url) url = url.replace(/&amp;/g, "&");
+  return /^https?:\/\//i.test(url) ? url : "";
+}
+
 function parseFeed(xml) {
   const items = [];
   // RSS <item> and Atom <entry>
@@ -61,7 +75,10 @@ function parseFeed(xml) {
     const desc = decode(tag(b, "description") || tag(b, "summary") || tag(b, "content"));
     const date = decode(tag(b, "pubDate") || tag(b, "published") || tag(b, "updated"));
     if (title && link) {
-      items.push({ title, link, desc: desc.slice(0, 320), date, ts: Date.parse(date) || 0 });
+      items.push({
+        title, link, desc: desc.slice(0, 320), date,
+        ts: Date.parse(date) || 0, image: extractImage(b),
+      });
     }
   }
   return items;
@@ -159,7 +176,10 @@ ${list}`;
           try { return new URL(src.link).hostname.replace(/^www\./, ""); }
           catch { return ""; }
         })();
-        return { title: src.title, url: src.link, summary: p.summary || src.desc, source: host, date: src.date };
+        return {
+          title: src.title, url: src.link, summary: p.summary || src.desc,
+          source: host, date: src.date, image: src.image || "",
+        };
       })
       .filter(Boolean);
   }
@@ -172,26 +192,32 @@ function esc(s) {
 
 function render(feed, updatedISO) {
   const updated = new Date(updatedISO).toUTCString();
-  const meta = { VR: ["#7c5cff", "VR / XR"], AI: ["#00d4aa", "Artificial Intelligence"], NFL: ["#ff4d4d", "NFL"] };
+  const meta = { VR: ["#8b7bff", "VR / XR"], AI: ["#2dd4a7", "Artificial Intelligence"], NFL: ["#ff5a5a", "NFL"] };
 
   const sections = Object.entries(feed)
     .map(([cat, items]) => {
-      const [color, label] = meta[cat];
+      const [color, label] = meta[cat] || ["#8a8a92", cat];
       const cards = items
-        .map(
-          (a) => `        <a class="card" href="${esc(a.url)}" target="_blank" rel="noopener">
+        .map((a) => {
+          const img = a.image
+            ? `<img src="${esc(a.image)}" loading="lazy" alt="" onerror="this.remove()">`
+            : "";
+          return `      <a class="card" href="${esc(a.url)}" target="_blank" rel="noopener">
+        <div class="thumb">${img}</div>
+        <div class="body">
           <h3>${esc(a.title)}</h3>
           <p>${esc(a.summary)}</p>
           <span class="src">${esc(a.source)}</span>
-        </a>`
-        )
+        </div>
+      </a>`;
+        })
         .join("\n");
-      return `    <section>
-      <h2 style="--accent:${color}">${esc(label)}</h2>
-      <div class="grid">
+      return `  <section style="--accent:${color}">
+    <h2><span class="dot"></span>${esc(label)}</h2>
+    <div class="grid">
 ${cards}
-      </div>
-    </section>`;
+    </div>
+  </section>`;
     })
     .join("\n");
 
@@ -200,42 +226,52 @@ ${cards}
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Curated Feed — VR / AI / NFL</title>
+<title>VR / AI / NFL</title>
 <style>
   :root { color-scheme: dark; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { background: #0b0c10; color: #e8e8ec;
-    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif;
-    padding: 32px 20px 64px; }
-  header { max-width: 1100px; margin: 0 auto 32px; }
-  h1 { font-size: 28px; letter-spacing: -0.02em; }
-  .updated { color: #7a7a85; font-size: 13px; margin-top: 6px; }
-  main { max-width: 1100px; margin: 0 auto; }
-  section { margin-top: 40px; }
-  h2 { font-size: 14px; text-transform: uppercase; letter-spacing: 0.12em;
-    color: var(--accent); padding-bottom: 8px; margin-bottom: 16px;
-    border-bottom: 1px solid #1e1f26; }
-  .grid { display: grid; gap: 14px;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
-  .card { display: block; background: #14151c; border: 1px solid #1e1f26;
-    border-radius: 12px; padding: 18px; text-decoration: none; color: inherit;
-    transition: border-color .15s, transform .15s; }
-  .card:hover { border-color: #3a3b46; transform: translateY(-2px); }
-  .card h3 { font-size: 16px; line-height: 1.35; margin-bottom: 8px; }
-  .card p { font-size: 14px; color: #b6b6c0; }
-  .src { display: inline-block; margin-top: 12px; font-size: 12px; color: #6f6f7a; }
-  footer { max-width: 1100px; margin: 56px auto 0; color: #5a5a64; font-size: 12px; }
+  body { background: #0b0b0d; color: #ececee;
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased; padding: 0 24px; }
+  header, main, footer { max-width: 1120px; margin-left: auto; margin-right: auto; }
+  header { padding: 56px 0 8px; }
+  h1 { font-size: 26px; font-weight: 600; letter-spacing: -0.02em; }
+  .updated { color: #6c6c74; font-size: 12.5px; margin-top: 8px; }
+  section { padding: 36px 0; border-bottom: 1px solid #18181c; }
+  section:last-of-type { border-bottom: none; }
+  h2 { display: flex; align-items: center; gap: 9px; font-size: 12px;
+    font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 20px; }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
+  .grid { display: grid; gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
+  .card { display: flex; flex-direction: column; background: #131318;
+    border: 1px solid #1f1f26; border-radius: 14px; overflow: hidden;
+    text-decoration: none; color: inherit;
+    transition: border-color .15s ease, transform .15s ease; }
+  .card:hover { border-color: #36363f; transform: translateY(-3px); }
+  .thumb { aspect-ratio: 16 / 9; position: relative;
+    background: linear-gradient(135deg, var(--accent) -40%, #131318 75%); }
+  .thumb img { position: absolute; inset: 0; width: 100%; height: 100%;
+    object-fit: cover; }
+  .body { padding: 15px 17px 17px; display: flex; flex-direction: column; flex: 1; }
+  .card h3 { font-size: 15.5px; font-weight: 600; line-height: 1.38;
+    letter-spacing: -0.01em; }
+  .card p { margin-top: 8px; font-size: 13.5px; color: #97979f; }
+  .src { margin-top: auto; padding-top: 12px; font-size: 11px;
+    letter-spacing: 0.07em; text-transform: uppercase; color: #5f5f66; }
+  footer { padding: 32px 0 64px; color: #5a5a62; font-size: 12px; }
 </style>
 </head>
 <body>
 <header>
-  <h1>Curated Feed</h1>
-  <div class="updated">VR &middot; AI &middot; NFL &mdash; auto-curated by Claude &middot; updated ${updated}</div>
+  <h1>VR &middot; AI &middot; NFL</h1>
+  <div class="updated">Updated ${updated}</div>
 </header>
 <main>
 ${sections}
 </main>
-<footer>Generated every 15 minutes via GitHub Actions. Headlines link to original sources.</footer>
+<footer>Refreshed every 15 minutes. Headlines link to original sources.</footer>
 </body>
 </html>
 `;
