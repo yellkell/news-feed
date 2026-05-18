@@ -3,145 +3,209 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Curated Feed — VR / AI / NFL</title>
+<title>VR / AI / NFL</title>
 <style>
   :root { color-scheme: dark; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { background: #0b0c10; color: #e8e8ec;
-    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif;
-    padding: 32px 20px 64px; }
-  header { max-width: 1100px; margin: 0 auto 32px; }
-  h1 { font-size: 28px; letter-spacing: -0.02em; }
-  .updated { color: #7a7a85; font-size: 13px; margin-top: 6px; }
-  main { max-width: 1100px; margin: 0 auto; }
-  section { margin-top: 40px; }
-  h2 { font-size: 14px; text-transform: uppercase; letter-spacing: 0.12em;
-    color: var(--accent); padding-bottom: 8px; margin-bottom: 16px;
-    border-bottom: 1px solid #1e1f26; }
-  .grid { display: grid; gap: 14px;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
-  .card { display: block; background: #14151c; border: 1px solid #1e1f26;
-    border-radius: 12px; padding: 18px; text-decoration: none; color: inherit;
-    transition: border-color .15s, transform .15s; }
-  .card:hover { border-color: #3a3b46; transform: translateY(-2px); }
-  .card h3 { font-size: 16px; line-height: 1.35; margin-bottom: 8px; }
-  .card p { font-size: 14px; color: #b6b6c0; }
-  .src { display: inline-block; margin-top: 12px; font-size: 12px; color: #6f6f7a; }
-  footer { max-width: 1100px; margin: 56px auto 0; color: #5a5a64; font-size: 12px; }
+  body { background: #0b0b0d; color: #ececee;
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased; padding: 0 24px; }
+  header, main, footer { max-width: 1120px; margin-left: auto; margin-right: auto; }
+  header { padding: 56px 0 8px; }
+  h1 { font-size: 26px; font-weight: 600; letter-spacing: -0.02em; }
+  .updated { color: #6c6c74; font-size: 12.5px; margin-top: 8px; }
+  section { padding: 36px 0; border-bottom: 1px solid #18181c; }
+  section:last-of-type { border-bottom: none; }
+  h2 { display: flex; align-items: center; gap: 9px; font-size: 12px;
+    font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 20px; }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
+  .grid { display: grid; gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
+  .card { display: flex; flex-direction: column; background: #131318;
+    border: 1px solid #1f1f26; border-radius: 14px; overflow: hidden;
+    text-decoration: none; color: inherit;
+    transition: border-color .15s ease, transform .15s ease; }
+  .card:hover { border-color: #36363f; transform: translateY(-3px); }
+  .thumb { aspect-ratio: 16 / 9; position: relative;
+    background: linear-gradient(135deg, var(--accent) -40%, #131318 75%); }
+  .thumb img { position: absolute; inset: 0; width: 100%; height: 100%;
+    object-fit: cover; }
+  .body { padding: 15px 17px 17px; display: flex; flex-direction: column; flex: 1; }
+  .card h3 { font-size: 15.5px; font-weight: 600; line-height: 1.38;
+    letter-spacing: -0.01em; }
+  .card p { margin-top: 8px; font-size: 13.5px; color: #97979f; }
+  .src { margin-top: auto; padding-top: 12px; font-size: 11px;
+    letter-spacing: 0.07em; text-transform: uppercase; color: #5f5f66; }
+  footer { padding: 32px 0 64px; color: #5a5a62; font-size: 12px; }
 </style>
 </head>
 <body>
 <header>
-  <h1>Curated Feed</h1>
-  <div class="updated">VR &middot; AI &middot; NFL &mdash; auto-curated by Claude &middot; updated Mon, 18 May 2026 02:08:56 GMT</div>
+  <h1>VR &middot; AI &middot; NFL</h1>
+  <div class="updated">Updated Mon, 18 May 2026 13:48:52 GMT</div>
 </header>
 <main>
-    <section>
-      <h2 style="--accent:#7c5cff">VR / XR</h2>
-      <div class="grid">
-        <a class="card" href="https://www.roadtovr.com/play-subnautica-2-vr-guide/" target="_blank" rel="noopener">
-          <h3>How to Play ‘Subnautica 2’ in VR, Although You May Want to Wait</h3>
-          <p>Subnautica 2 launched into early access, selling over two million copies in 12 hours, despite lacking native VR support.</p>
+  <section style="--accent:#8b7bff">
+    <h2><span class="dot"></span>VR / XR</h2>
+    <div class="grid">
+      <a class="card" href="https://www.roadtovr.com/pimax-dream-air-se-release-date-shipping/" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/pimax-dream-air-se-341x220.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
+          <h3>Pimax Starts Sending Out ‘Dream Air SE’ PC VR Headsets, But Fulfillment Could Take Weeks</h3>
+          <p>Pimax has begun shipping its Dream Air SE PC VR headsets, but fulfillment may take weeks for many customers.</p>
           <span class="src">roadtovr.com</span>
-        </a>
-        <a class="card" href="https://www.uploadvr.com/quests-latest-ptc-update-turns-web-photos-into-3d/" target="_blank" rel="noopener">
-          <h3>Quest’s Latest PTC Update Turns Web Photos Into 3D</h3>
-          <p>Meta's latest Quest PTC update introduces AI-powered 3D photo conversion and easy uploads from mobile devices.</p>
-          <span class="src">uploadvr.com</span>
-        </a>
-        <a class="card" href="https://www.roadtovr.com/rog-xreal-r1-pre-orders-now-live-240hz-microoled-gaming-glasses-priced-at-850/" target="_blank" rel="noopener">
+        </div>
+      </a>
+      <a class="card" href="https://www.roadtovr.com/rog-xreal-r1-pre-orders-now-live-240hz-microoled-gaming-glasses-priced-at-850/" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/rog-xreal-r1-341x220.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
           <h3>‘ROG XREAL R1’ Pre-orders Now Live – 240Hz MicroOLED Gaming Glasses Priced at $850</h3>
-          <p>Pre-orders for ASUS ROG XREAL R1 microOLED gaming AR glasses are now live, priced at $850 and featuring a 240Hz refresh rate.</p>
+          <p>Pre-orders for ASUS's ROG XREAL R1 microOLED gaming AR glasses are now live, featuring a 240Hz refresh rate.</p>
           <span class="src">roadtovr.com</span>
-        </a>
-        <a class="card" href="https://www.roadtovr.com/the-boys-vr-psvr-2-release-improvements/" target="_blank" rel="noopener">
+        </div>
+      </a>
+      <a class="card" href="https://www.roadtovr.com/moss-vr-flatscreen-port-project-cancellation/" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/moss-port-341x220.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
+          <h3>VR Platformer ‘Moss’ is Getting a Flatscreen Port Following Cancellation of “major project”</h3>
+          <p>Polyarc Games is releasing a flatscreen adaptation of its popular VR series Moss, following the cancellation of another major project.</p>
+          <span class="src">roadtovr.com</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.roadtovr.com/play-subnautica-2-vr-guide/" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/subnautica-2-vr-341x220.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
+          <h3>How to Play ‘Subnautica 2’ in VR, Although You May Want to Wait</h3>
+          <p>Subnautica 2 launched in early access, selling over two million copies in 12 hours, though it lacks native VR support.</p>
+          <span class="src">roadtovr.com</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.roadtovr.com/subnautica-2-no-vr-support-early-access/" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/subnautica-2-logo-1-341x220.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
+          <h3>‘Subnautica 2’ Devs: Don’t Hold Your Breath for Official VR Support</h3>
+          <p>Developers of Subnautica 2 caution players not to expect official VR support, despite its predecessor's early VR capabilities.</p>
+          <span class="src">roadtovr.com</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.roadtovr.com/the-boys-vr-psvr-2-release-improvements/" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/03/the-boys-vr-logo-341x220.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
           <h3>‘The Boys: Trigger Warning’ Comes to PSVR 2 in June, Promising “community requested” Improvements</h3>
-          <p>The Boys: Trigger Warning is set to launch on PSVR 2 on June 9, featuring community-requested improvements.</p>
+          <p>The Boys: Trigger Warning will launch on PSVR 2 on June 9, featuring community-requested enhancements.</p>
           <span class="src">roadtovr.com</span>
-        </a>
-        <a class="card" href="https://www.roadtovr.com/meta-immersive-web-ai-agent-toolkit-2026/" target="_blank" rel="noopener">
-          <h3>Meta’s New AI-Powered VR Toolkit Lets Anyone Build WebXR Experiences Without Coding</h3>
-          <p>Meta's new AI-powered VR toolkit enables developers to create WebXR experiences without coding expertise.</p>
-          <span class="src">roadtovr.com</span>
-        </a>
-        <a class="card" href="https://www.uploadvr.com/le-dino-labos-latest-dlc-cretacous-predators-prey-out-now/" target="_blank" rel="noopener">
-          <h3>Le Dino Labo's Latest DLC, Cretaceous Predators &amp; Prey, Out Now</h3>
-          <p>Le Dino Labo's new DLC, Cretaceous Predators &amp; Prey, is now available, expanding the mixed-reality dinosaur building experience.</p>
-          <span class="src">uploadvr.com</span>
-        </a>
-      </div>
-    </section>
-    <section>
-      <h2 style="--accent:#00d4aa">Artificial Intelligence</h2>
-      <div class="grid">
-        <a class="card" href="https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults" target="_blank" rel="noopener">
+        </div>
+      </a>
+    </div>
+  </section>
+  <section style="--accent:#2dd4a7">
+    <h2><span class="dot"></span>Artificial Intelligence</h2>
+    <div class="grid">
+      <a class="card" href="https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
           <h3>YouTube is expanding its AI deepfake detection tool to all adult users</h3>
           <p>YouTube is expanding its AI deepfake detection tool to all adult users, allowing them to monitor for lookalikes.</p>
           <span class="src">theverge.com</span>
-        </a>
-        <a class="card" href="https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle" target="_blank" rel="noopener">
+        </div>
+      </a>
+      <a class="card" href="https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
           <h3>OpenAI keeps shuffling its executives in bid to win AI agent battle</h3>
-          <p>OpenAI has announced a reorganization, making Greg Brockman the lead for all product strategies focused on AI agents.</p>
+          <p>OpenAI has reorganized its executive team, appointing Greg Brockman as the lead for all product strategies focused on AI agents.</p>
           <span class="src">theverge.com</span>
-        </a>
-        <a class="card" href="https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers" target="_blank" rel="noopener">
+        </div>
+      </a>
+      <a class="card" href="https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
           <h3>ArXiv will ban researchers who upload papers full of AI slop</h3>
-          <p>ArXiv will ban researchers who upload papers with unverified AI-generated content, aiming to maintain research integrity.</p>
+          <p>ArXiv will ban researchers who submit papers lacking evidence of proper AI result verification, targeting low-quality submissions.</p>
           <span class="src">theverge.com</span>
-        </a>
-        <a class="card" href="https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats" target="_blank" rel="noopener">
-          <h3>Revamped Siri will reportedly offer auto-deleting chats</h3>
-          <p>Apple's revamped Siri will reportedly include auto-deleting chat options, enhancing privacy features in iOS 27.</p>
+        </div>
+      </a>
+      <a class="card" href="https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10817647/acastro_180510_1777_siri_0001.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
+          <h3>Revamped Siri will reportedly offer autodeleting chats</h3>
+          <p>Apple's revamped Siri, set to debut in iOS 27, will feature autodeleting chat histories to enhance user privacy.</p>
           <span class="src">theverge.com</span>
-        </a>
-        <a class="card" href="https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement" target="_blank" rel="noopener">
+        </div>
+      </a>
+      <a class="card" href="https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23350482/1328571726.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
           <h3>University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement</h3>
-          <p>Eric Schmidt faced boos during his AI-themed commencement speech at the University of Arizona, reflecting student concerns about job prospects.</p>
+          <p>University of Arizona students booed Eric Schmidt during his AI-focused commencement speech, reflecting growing discontent over the technology.</p>
           <span class="src">theverge.com</span>
-        </a>
-        <a class="card" href="https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys" target="_blank" rel="noopener">
-          <h3>Chatbots at the drive-thru are just the beginning</h3>
-          <p>McDonald's AI chatbots at drive-thrus mark the beginning of wider AI integration into everyday services.</p>
+        </div>
+      </a>
+      <a class="card" href="https://www.theverge.com/tech/931416/google-ai-search-spam-policy" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
+          <h3>Google updates its spam rules to include attempts to ‘manipulate’ AI</h3>
+          <p>Google has updated its spam policy to include attempts to manipulate AI models in search results.</p>
           <span class="src">theverge.com</span>
-        </a>
-      </div>
-    </section>
-    <section>
-      <h2 style="--accent:#ff4d4d">NFL</h2>
-      <div class="grid">
-        <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-agrees-to-terms-with-steelers" target="_blank" rel="noopener">
+        </div>
+      </a>
+    </div>
+  </section>
+  <section style="--accent:#ff5a5a">
+    <h2><span class="dot"></span>NFL</h2>
+    <div class="grid">
+      <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vote-on-nashville-hosting-super-bowl-lxiv-in-2030-is-expected-this-week" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://nbcsports.brightspotcdn.com/dims4/default/edbf39e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F739%2F427%2Fnbc_pft_superbowlnashville_260518.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
+          <h3>Vote on Nashville hosting Super Bowl LXIV in 2030 is expected this week</h3>
+          <p>Nashville is expected to host Super Bowl LXIV in 2030, pending a vote, as a new stadium for the Titans is under construction.</p>
+          <span class="src">nbcsports.com</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-owners-are-expected-to-vote-on-adding-two-more-international-games-for-2027" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://nbcsports.brightspotcdn.com/dims4/default/d779cc5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F356%2F119%2Fnbc_pft_internationaltravel_260514.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
+          <h3>NFL owners are expected to vote on adding two more international games for 2027</h3>
+          <p>NFL owners are set to vote on adding two more international games for the 2027 season, increasing the total to 11.</p>
+          <span class="src">nbcsports.com</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-reports-to-the-steelers-facility-on-monday" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://nbcsports.brightspotcdn.com/dims4/default/f09defe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F658%2F871%2Fnbc_pftpm_rodgerssigns_260516.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
+          <h3>Aaron Rodgers has reported to the Steelers facility</h3>
+          <p>Aaron Rodgers has reported to the Steelers facility, marking his return for a second season.</p>
+          <span class="src">nbcsports.com</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-agrees-to-terms-with-steelers" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://nbcsports.brightspotcdn.com/dims4/default/f09defe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F658%2F871%2Fnbc_pftpm_rodgerssigns_260516.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
           <h3>Aaron Rodgers agrees to terms with Steelers</h3>
-          <p>Aaron Rodgers has agreed to terms with the Steelers for a second season, potentially earning up to $25 million.</p>
+          <p>Aaron Rodgers has officially agreed to terms with the Steelers, solidifying his return for another season.</p>
           <span class="src">nbcsports.com</span>
-        </a>
-        <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sherman-lewis-longtime-nfl-assistant-coach-and-college-all-american-dies-at-83" target="_blank" rel="noopener">
+        </div>
+      </a>
+      <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sherman-lewis-longtime-nfl-assistant-coach-and-college-all-american-dies-at-83" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://nbcsports.brightspotcdn.com/dims4/default/f09defe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F658%2F871%2Fnbc_pftpm_rodgerssigns_260516.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
           <h3>Sherman Lewis, longtime NFL assistant coach and college All-American, dies at 83</h3>
-          <p>Sherman Lewis, a longtime NFL coach and offensive coordinator, has passed away at the age of 83.</p>
+          <p>Sherman Lewis, a longtime NFL assistant coach and All-American, has passed away at the age of 83.</p>
           <span class="src">nbcsports.com</span>
-        </a>
-        <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-wr-kayshon-boutte-isnt-participating-in-offseason-workouts" target="_blank" rel="noopener">
-          <h3>Patriots WR Kayshon Boutte isn't participating in offseason workouts</h3>
-          <p>Patriots WR Kayshon Boutte is absent from offseason workouts, raising questions about his commitment.</p>
-          <span class="src">nbcsports.com</span>
-        </a>
-        <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-is-spotted-in-pittsburgh-getting-ice-cream-with-steelers-players" target="_blank" rel="noopener">
-          <h3>Aaron Rodgers is spotted in Pittsburgh, getting ice cream with Steelers players</h3>
-          <p>Aaron Rodgers was spotted in Pittsburgh enjoying ice cream with Steelers players, fueling fan excitement.</p>
-          <span class="src">nbcsports.com</span>
-        </a>
-        <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-rodgers-can-earn-up-to-25-million-in-2026" target="_blank" rel="noopener">
+        </div>
+      </a>
+      <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-rodgers-can-earn-up-to-25-million-in-2026" target="_blank" rel="noopener">
+        <div class="thumb"><img src="https://nbcsports.brightspotcdn.com/dims4/default/6a09589/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F732%2F95%2Fnbc_pft_rodgersschedulerelease_260518.jpg" loading="lazy" alt="" onerror="this.remove()"></div>
+        <div class="body">
           <h3>Report: Aaron Rodgers can earn up to $25 million in 2026</h3>
-          <p>Rodgers' contract with the Steelers could see him earning up to $25 million in the upcoming season.</p>
+          <p>Aaron Rodgers could earn up to $25 million in 2026, following a bargain deal last year with the Steelers.</p>
           <span class="src">nbcsports.com</span>
-        </a>
-        <a class="card" href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-is-a-big-believer-in-the-browns" target="_blank" rel="noopener">
-          <h3>Deion Sanders is a big believer in the Browns</h3>
-          <p>Deion Sanders expressed strong support for the Browns during a recent interview, highlighting their potential.</p>
-          <span class="src">nbcsports.com</span>
-        </a>
-      </div>
-    </section>
+        </div>
+      </a>
+    </div>
+  </section>
 </main>
-<footer>Generated every 12 hours via GitHub Actions. Headlines link to original sources.</footer>
+<footer>Refreshed every 15 minutes. Headlines link to original sources.</footer>
 </body>
 </html>
