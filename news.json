@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-19T21:45:20.661Z",
+  "updated": "2026-05-19T22:49:50.723Z",
   "feed": {
     "VR": [
       {
         "title": "Google & Samsung Reveal Smart Glasses for Fall Launch, Aiming to go Head-to-head with Meta",
         "url": "https://www.roadtovr.com/google-samsung-smart-glasses-intelligent-eyewear-announcement-release-date/",
-        "summary": "Google and Samsung unveiled smart glasses aimed to compete directly with Meta's offerings, set for a fall launch.",
+        "summary": "Google and Samsung unveiled smart glasses set to rival Meta's offerings, showcasing their potential at Google I/O.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 18:15:15 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1-341x220.jpg"
@@ -13,7 +13,7 @@
       {
         "title": "First AR Glasses Running Android XR Confirmed for 2026 Launch",
         "url": "https://www.roadtovr.com/first-android-xr-glasses-2026-launch/",
-        "summary": "XREAL confirmed the launch of Project Aura, the first AR glasses running Android XR, scheduled for 2026.",
+        "summary": "XREAL confirmed its Project Aura AR glasses running Android XR will launch globally in 2026, making a significant entry into the AR market.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 17:59:44 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/project-aura-android-xr-341x220.jpg"
@@ -21,41 +21,41 @@
       {
         "title": "Google Announces New Android XR Developer Program with AR Glasses Dev Kits",
         "url": "https://www.roadtovr.com/google-android-xr-developer-program-free-ar-glasses/",
-        "summary": "Google announced the Android XR Developer Catalyst Program at I/O, providing dev kits for upcoming AR glasses.",
+        "summary": "Google launched the Android XR Developer Catalyst Program at I/O, providing dev kits for upcoming AR glasses.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 17:59:07 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2025/12/xreal-aura-android-xr-2-341x220.jpg"
       },
       {
-        "title": "Darts VR2: Bullseye Takes Aim At VR Esports With League Mode Tournaments",
-        "url": "https://www.uploadvr.com/darts-vr2-bullseye-takes-aim-at-vr-esports-with-league-mode-tournaments/",
-        "summary": "Darts VR2: Bullseye is set to introduce competitive tournaments with cash prizes this summer.",
-        "source": "uploadvr.com",
-        "date": "Tue, 19 May 2026 08:37:32 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Darts-VR2-Bullseye-keyart-small.jpg"
-      },
-      {
-        "title": "VR Horde FPS A Long Survive Hits PC VR This Week After Two Delays",
-        "url": "https://www.uploadvr.com/vr-horde-fps-a-long-survive-hits-pc-vr-this-week-after-two-delays/",
-        "summary": "A Long Survive finally releases on PC VR this week after multiple delays.",
-        "source": "uploadvr.com",
-        "date": "Tue, 19 May 2026 08:38:34 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/a-long-survive.jpg"
+        "title": "LG-Backed AR Lens Startup LetinAR Raises $18.5M Ahead of Planned IPO Next Year",
+        "url": "https://www.roadtovr.com/lg-backed-ar-lens-startup-letinar-raises-18-5m-ahead-of-planned-ipo-next-year/",
+        "summary": "LetinAR, a South Korean AR lens startup, raised $18.5 million ahead of its planned IPO next year to boost production.",
+        "source": "roadtovr.com",
+        "date": "Tue, 19 May 2026 11:51:23 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/letinar-module-341x220.jpg"
       },
       {
         "title": "Myst & Riven Remakes Out Now On PlayStation VR2",
         "url": "https://www.uploadvr.com/myst-riven-remakes-out-now-on-playstation-vr2/",
-        "summary": "Remakes of the classic games Myst and Riven are now available on PlayStation VR2.",
+        "summary": "The remakes of the classic games Myst and Riven are now available on PlayStation VR2, enhancing the VR gaming experience.",
         "source": "uploadvr.com",
         "date": "Tue, 19 May 2026 08:38:17 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/myst-and-riven-remakes-on-playstation-vr2-1.jpg"
+      },
+      {
+        "title": "Outblast Brings High-Speed Shmup Action To PC VR & Quest This June",
+        "url": "https://www.uploadvr.com/outblast-brings-high-speed-vshmup-action-to-pc-vr-quest-this-june/",
+        "summary": "High-speed shmup Outblast is set to launch on PC VR and Meta Quest this June, promising an exciting gaming experience.",
+        "source": "uploadvr.com",
+        "date": "Tue, 19 May 2026 10:50:13 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/KEYVISUALDATE.png"
       }
     ],
     "AI": [
       {
         "title": "The 13 biggest announcements at Google I/O 2026",
         "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
-        "summary": "Google's I/O 2026 showcased significant AI advancements, including new Gemini models and updates for Search and Gmail.",
+        "summary": "Google I/O 2026 unveiled major AI advancements, including new Gemini models and features for Search and Gmail.",
         "source": "theverge.com",
         "date": "2026-05-19T13:54:33-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/io2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,91 +63,91 @@
       {
         "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
         "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-        "summary": "The Gemini AI assistant will now utilize Volvo's external cameras for enhanced environmental awareness in the upcoming EX60 SUV.",
+        "summary": "Volvo and Google announced that the Gemini AI will utilize external cameras in the EX60 SUV to interpret parking signs.",
         "source": "theverge.com",
         "date": "2026-05-19T14:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google Search is getting its biggest changes ever",
-        "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
-        "summary": "Google Search is undergoing its most significant transformation yet, integrating AI-generated summaries and a chatbot-like experience.",
+        "title": "Google can now vibe-code you an Android app",
+        "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
+        "summary": "Google's AI Studio now allows users to create native Android apps using AI prompts and an embedded emulator.",
         "source": "theverge.com",
         "date": "2026-05-19T13:45:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/google-search-box-update.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Gmail is going to start talking to you",
         "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
-        "summary": "Gmail is introducing a voice mode feature called Gmail Live, allowing users to interact with their inbox vocally.",
+        "summary": "Google is introducing Gmail Live, an AI-powered voice mode that enables users to interact with their inbox vocally.",
         "source": "theverge.com",
         "date": "2026-05-19T13:45:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google is launching its own version of OpenClaw",
-        "url": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026",
-        "summary": "Google launched Gemini Spark, its own version of an AI agent platform, during the I/O 2026 conference.",
+        "title": "Google Search is getting its biggest changes ever",
+        "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
+        "summary": "Google Search is undergoing its most significant transformation ever, integrating AI-generated summaries and chatbot-like experiences.",
         "source": "theverge.com",
         "date": "2026-05-19T13:45:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-19-at-1.35.50PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/google-search-box-update.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google can now vibe-code you an Android app",
-        "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
-        "summary": "Google's AI Studio now enables users to create native Android apps using vibe coding.",
+        "title": "Would you let robots spend your money? Google is betting on it",
+        "url": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
+        "summary": "Google's new AI-driven shopping tools include a 'Universal Cart' that simplifies purchasing across various retailers.",
         "source": "theverge.com",
         "date": "2026-05-19T13:45:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Universal-Cart-intelligent-insights.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "NFL set to up int'l slate; games can't be protecte...",
-        "url": "https://www.espn.com/nfl/story/_/id/48819165/nfl-oks-10-intl-games-27-teams-protect-games",
-        "summary": "NFL owners approved plans for up to 10 international games per season starting in 2027, eliminating protections for teams.",
-        "source": "espn.com",
-        "date": "Tue, 19 May 2026 17:10:54 EST",
-        "image": ""
+        "title": "Nashville gets Super Bowl LXIV, to be played in 2030",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nashville-gets-super-bowl-lxiv-to-be-played-in-2030",
+        "summary": "Nashville has been awarded Super Bowl LXIV, scheduled for 2030, marking a significant event for the city.",
+        "source": "nbcsports.com",
+        "date": "Tue, 19 May 2026 12:40:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edbf39e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F739%2F427%2Fnbc_pft_superbowlnashville_260518.jpg"
       },
       {
-        "title": "Chiefs' Rice violates probation, ordered to jail",
-        "url": "https://www.espn.com/nfl/story/_/id/48818374/chiefs-rashee-rice-tests-positive-pot-miss-otas-minicamp",
-        "summary": "Chiefs receiver Rashee Rice has been sentenced to 30 days in jail for violating probation with a positive marijuana test.",
-        "source": "espn.com",
-        "date": "Tue, 19 May 2026 17:10:54 EST",
-        "image": ""
-      },
-      {
-        "title": "'Little shocked': Steelers react to Rodgers' retur...",
-        "url": "https://www.espn.com/nfl/story/_/id/48808409/aaron-rodgers-quickly-gets-back-work-steelers-otas",
-        "summary": "Aaron Rodgers returned to practice with the Steelers after signing a one-year contract, surprising teammates.",
-        "source": "espn.com",
-        "date": "Tue, 19 May 2026 17:10:54 EST",
-        "image": ""
+        "title": "Owners approve Minnesota to host 2028 NFL Draft",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/owners-approve-minnesota-to-host-2028-nfl-draft",
+        "summary": "The NFL owners officially approved Minnesota as the host for the 2028 NFL Draft, enhancing the state's football profile.",
+        "source": "nbcsports.com",
+        "date": "Tue, 19 May 2026 12:30:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5180971/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F886%2F898%2Fnbc_pft_internationalgames_260519.jpg"
       },
       {
         "title": "NFL approves 10 international games in 2027, with Jaguars' game making 11",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-approves-10-international-games-in-2027-with-jaguars-game-making-11",
-        "summary": "The NFL will host a record nine international games in 2026, with plans for 10 in 2027.",
+        "summary": "The NFL will host a record nine international games in 2026, expanding its global reach.",
         "source": "nbcsports.com",
         "date": "Tue, 19 May 2026 15:56:35 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5180971/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F886%2F898%2Fnbc_pft_internationalgames_260519.jpg"
       },
       {
-        "title": "Penix, now practicing, says goal to return Week 1",
-        "url": "https://www.espn.com/nfl/story/_/id/48818698/penix-back-practicing-says-goal-return-week-1",
-        "summary": "Falcons QB Michael Penix Jr. is optimistic about returning for Week 1 after limited practice participation.",
-        "source": "espn.com",
-        "date": "Tue, 19 May 2026 17:10:54 EST",
-        "image": ""
+        "title": "Derrick Henry says all is well after practice collision",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-says-all-is-well-after-practice-collision",
+        "summary": "Derrick Henry reassured fans that he is fine after a concerning collision during practice.",
+        "source": "nbcsports.com",
+        "date": "Tue, 19 May 2026 18:32:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/18a543f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F359%2F547%2Fnbc_pft_internationaldraft_260514.jpg"
       },
       {
         "title": "Rashee Rice gets 30 days in jail for probation violation after testing positive for THC",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashee-rice-gets-30-days-in-jail-for-probation-violation-after-testing-positive-for-thc",
-        "summary": "Rashee Rice was sentenced to 30 days in jail for a probation violation linked to a THC positive test.",
+        "summary": "Rashee Rice has been sentenced to 30 days in jail for a probation violation related to a previous incident.",
         "source": "nbcsports.com",
         "date": "Tue, 19 May 2026 14:50:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0a079e9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F506%2F1019%2FUSATSI_27814728_copy.jpg"
+      },
+      {
+        "title": "NFL: We're aware of Rashee Rice report, decline further comment",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-were-aware-of-rashee-rice-matter-decline-further-comment",
+        "summary": "The NFL acknowledged reports regarding Rashee Rice but declined to comment further on the situation.",
+        "source": "nbcsports.com",
+        "date": "Tue, 19 May 2026 16:39:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/0a079e9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F506%2F1019%2FUSATSI_27814728_copy.jpg"
       }
     ]
