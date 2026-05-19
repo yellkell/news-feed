@@ -1,27 +1,43 @@
 {
-  "updated": "2026-05-19T06:01:29.717Z",
+  "updated": "2026-05-19T10:06:04.275Z",
   "feed": {
     "VR": [
       {
-        "title": "Quest’s Latest PTC Update Turns Web Photos Into 3D",
-        "url": "https://www.uploadvr.com/quests-latest-ptc-update-turns-web-photos-into-3d/",
-        "summary": "Meta’s latest Quest update introduces AI-powered 3D photo conversion, enhancing user experience with easy uploads from mobile devices.",
+        "title": "WorldLens VR’s New AI Depth Feature Enables 3D Street View",
+        "url": "https://www.uploadvr.com/worldlens-vrs-new-ai-depth-feature-enables-3d-street-view/",
+        "summary": "WorldLens VR has launched an AI-powered feature that adds 3D depth to Google Street View environments on Quest.",
         "source": "uploadvr.com",
-        "date": "Thu, 14 May 2026 15:03:39 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/ca84e12d434845f9944b50759fe3c50c.jpg"
+        "date": "Mon, 18 May 2026 17:03:26 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/WorldLens-VR-title-image.webp"
       },
       {
         "title": "Pimax Starts Sending Out ‘Dream Air SE’ PC VR Headsets, But Fulfillment Could Take Weeks",
         "url": "https://www.roadtovr.com/pimax-dream-air-se-release-date-shipping/",
-        "summary": "Pimax has begun shipping its Dream Air SE PC VR headsets, though fulfillment may take weeks for many pre-order customers.",
+        "summary": "Pimax has begun shipping its Dream Air SE PC VR headsets, though fulfillment may take weeks for many customers.",
         "source": "roadtovr.com",
         "date": "Mon, 18 May 2026 11:09:25 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/pimax-dream-air-se-341x220.jpg"
       },
       {
+        "title": "Quest’s Latest PTC Update Turns Web Photos Into 3D",
+        "url": "https://www.uploadvr.com/quests-latest-ptc-update-turns-web-photos-into-3d/",
+        "summary": "Meta’s latest Quest update introduces AI-powered 3D photo conversion, enhancing web photos and uploads.",
+        "source": "uploadvr.com",
+        "date": "Thu, 14 May 2026 15:03:39 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/ca84e12d434845f9944b50759fe3c50c.jpg"
+      },
+      {
+        "title": "‘The Boys: Trigger Warning’ Comes to PSVR 2 in June, Promising “community requested” Improvements",
+        "url": "https://www.roadtovr.com/the-boys-vr-psvr-2-release-improvements/",
+        "summary": "The Boys: Trigger Warning is set to launch on PSVR 2 on June 9, featuring community-requested improvements.",
+        "source": "roadtovr.com",
+        "date": "Thu, 14 May 2026 11:54:28 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/03/the-boys-vr-logo-341x220.jpg"
+      },
+      {
         "title": "‘Blade Runner’ Immersive Experience Coming to VR Destinations Next Year",
         "url": "https://www.roadtovr.com/blade-runner-immersive-experience-coming-to-vr-destinations-next-year-developed-by-dead-by-daylight-studio/",
-        "summary": "Behaviour Interactive announced a new immersive VR experience based on the iconic film Blade Runner, set to launch next year.",
+        "summary": "Behaviour Interactive announced an immersive Blade Runner experience for VR, in collaboration with Alcon Entertainment.",
         "source": "roadtovr.com",
         "date": "Wed, 13 May 2026 09:37:15 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/blade-runner-xr-1-341x220.jpg"
@@ -29,33 +45,33 @@
       {
         "title": "Sky Legends: An Aeropostal Epic Takes Off On Quest 3 Next Week",
         "url": "https://www.uploadvr.com/sky-legends-an-aeropostal-epic-takes-off-on-quest-3-next-week/",
-        "summary": "Sky Legends: An Aeropostal Epic is officially set for release on Quest 3 next week, promising an exciting aerial adventure.",
+        "summary": "Sky Legends: An Aeropostal Epic is officially set for release on Quest 3 on May 18.",
         "source": "uploadvr.com",
         "date": "Tue, 12 May 2026 15:40:37 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/SUPERAC-SkyLegends-2560.png"
-      },
-      {
-        "title": "Consumer 360° Camera Drones With Impressive Goggles Are A Thing Now",
-        "url": "https://www.uploadvr.com/consumer-360-camera-drones-are-a-thing-now/",
-        "summary": "Affordable consumer 360° camera drones with impressive goggles are now available, featuring options from DJI and Insta360.",
-        "source": "uploadvr.com",
-        "date": "Mon, 18 May 2026 16:55:36 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/04/360-degree-immersive-camera-drones.png"
-      },
-      {
-        "title": "VR Platformer ‘Moss’ is Getting a Flatscreen Port Following Cancellation of “major project”",
-        "url": "https://www.roadtovr.com/moss-vr-flatscreen-port-project-cancellation/",
-        "summary": "Polyarc Games is bringing the beloved VR puzzle-platformer Moss to flat-screen platforms, following the cancellation of a major project.",
-        "source": "roadtovr.com",
-        "date": "Thu, 14 May 2026 16:27:54 +0000",
-        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/moss-port-341x220.jpg"
       }
     ],
     "AI": [
       {
+        "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "summary": "Elon Musk and Sam Altman faced off in a high-stakes trial over OpenAI's direction, with significant implications for the company's future.",
+        "source": "theverge.com",
+        "date": "2026-05-18T13:49:49-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Elon Musk loses his case against Sam Altman",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+        "summary": "A jury found in favor of Sam Altman in the Musk v. Altman trial, dismissing Musk's claims against OpenAI.",
+        "source": "theverge.com",
+        "date": "2026-05-18T13:39:32-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Amazon Alexa Plus can now create AI-generated podcasts",
         "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
-        "summary": "Amazon's Alexa Plus can now generate AI-created podcasts on virtually any topic, enhancing user interaction with the assistant.",
+        "summary": "Amazon Alexa Plus can now generate podcasts on virtually any topic, expanding the capabilities of the AI assistant.",
         "source": "theverge.com",
         "date": "2026-05-18T11:55:25-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/amazon-alexa-podcasts.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +79,7 @@
       {
         "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
         "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-        "summary": "YouTube is expanding its AI deepfake detection tool to all adult users, allowing them to monitor for potential likeness misuse.",
+        "summary": "YouTube is rolling out its AI deepfake detection tool to all adult users, enhancing user security against likeness misuse.",
         "source": "theverge.com",
         "date": "2026-05-15T18:25:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,31 +87,15 @@
       {
         "title": "Revamped Siri will reportedly offer autodeleting chats",
         "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-        "summary": "Apple's revamped Siri, set to debut in iOS 27, will include autodeleting chat histories to enhance user privacy.",
+        "summary": "Apple's revamped Siri is expected to debut with autodeleting chat history to bolster privacy in iOS 27.",
         "source": "theverge.com",
         "date": "2026-05-17T14:40:28-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10817647/acastro_180510_1777_siri_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Elon Musk loses his case against Sam Altman",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
-        "summary": "Elon Musk lost his high-profile case against Sam Altman, with the jury dismissing key claims in the ongoing OpenAI saga.",
-        "source": "theverge.com",
-        "date": "2026-05-18T13:39:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKE010_MuskvAltman_AParkin05.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "summary": "The trial between Elon Musk and Sam Altman could reshape the future of OpenAI and its flagship product, ChatGPT.",
-        "source": "theverge.com",
-        "date": "2026-05-18T13:49:49-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "ArXiv will ban researchers who upload papers full of AI slop",
         "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-        "summary": "ArXiv will ban researchers who upload papers with unverified AI-generated content, aiming to maintain quality in academic publishing.",
+        "summary": "ArXiv will ban researchers who upload papers deemed to contain AI-generated inaccuracies, aiming to uphold research integrity.",
         "source": "theverge.com",
         "date": "2026-05-15T16:38:19-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -105,7 +105,7 @@
       {
         "title": "Sources: Nashville expected to host 2030 SB",
         "url": "https://www.espn.com/nfl/story/_/id/48804104/sources-nfl-owners-vote-nashville-super-bowl-lxiv-host",
-        "summary": "Nashville is expected to be named the host city for Super Bowl LXIV in 2030 during the NFL's spring meeting.",
+        "summary": "Nashville is expected to be named host of Super Bowl LXIV in 2030 during the NFL's spring meeting.",
         "source": "espn.com",
         "date": "Tue, 19 May 2026 01:08:34 EST",
         "image": ""
@@ -113,42 +113,42 @@
       {
         "title": "Sources: NFL to award 2028 draft to Minneapolis",
         "url": "https://www.espn.com/nfl/story/_/id/48807793/nfl-expected-award-2028-draft-minneapolis",
-        "summary": "Minneapolis is poised to be awarded the 2028 NFL Draft, with U.S. Bank Stadium as a key venue.",
+        "summary": "Minneapolis is poised to host the 2028 NFL Draft, with U.S. Bank Stadium as a key venue.",
         "source": "espn.com",
         "date": "Tue, 19 May 2026 01:08:34 EST",
         "image": ""
+      },
+      {
+        "title": "Packers sign Marlon Jones, undrafted cornerback who battled cancer in college",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-marlon-jones-undrafted-cornerback-who-battled-cancer-in-college",
+        "summary": "The Packers have signed undrafted cornerback Marlon Jones, whose inspiring battle with cancer adds to his compelling story.",
+        "source": "nbcsports.com",
+        "date": "Tue, 19 May 2026 05:26:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2c10162/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F509%2F947%2Fnbc_pft_packersv2_260515.jpg"
       },
       {
         "title": "'Little shocked': Steelers react to Rodgers' retur...",
         "url": "https://www.espn.com/nfl/story/_/id/48808409/aaron-rodgers-quickly-gets-back-work-steelers-otas",
-        "summary": "Aaron Rodgers returned to the practice field with the Steelers after signing a one-year contract, surprising teammates.",
+        "summary": "Aaron Rodgers returned to practice with the Steelers after signing a one-year contract, surprising his teammates.",
         "source": "espn.com",
         "date": "Tue, 19 May 2026 01:08:34 EST",
         "image": ""
+      },
+      {
+        "title": "Browns open OTAs today, don't expect Myles Garrett to be there",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-open-otas-today-dont-expect-myles-garrett-to-be-there",
+        "summary": "Myles Garrett, the NFL's reigning Defensive Player of the Year, is skipping voluntary offseason workouts with the Browns.",
+        "source": "nbcsports.com",
+        "date": "Tue, 19 May 2026 04:12:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8dd5822/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F743%2F331%2Fnbc_pft_deionmonken_260518.jpg"
       },
       {
         "title": "As Brissett holdout lingers, Cardinals open OTAs",
         "url": "https://www.espn.com/mlb/story/_/id/48810874/without-jacoby-brissett-mike-lafleur-cardinals-open-otas",
-        "summary": "The Arizona Cardinals opened OTAs without veteran quarterback Jacoby Brissett, who is holding out for a new contract.",
+        "summary": "The Arizona Cardinals opened OTAs without veteran quarterback Jacoby Brissett, who continues his holdout for a new contract.",
         "source": "espn.com",
         "date": "Tue, 19 May 2026 01:08:34 EST",
         "image": ""
-      },
-      {
-        "title": "Panthers sign DT Tywone Malone, RB Miles Davis",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-sign-dt-tywone-malone-rb-miles-davis",
-        "summary": "The Panthers signed defensive tackle Tywone Malone and running back Miles Davis as part of their offseason roster moves.",
-        "source": "nbcsports.com",
-        "date": "Mon, 18 May 2026 16:55:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/af9c8a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F67%2F707%2Fnbc_pft_freelingpick19_260423.jpg"
-      },
-      {
-        "title": "Steelers sign 2026 draft picks Germie Bernard, Eli Heidenreich",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-sign-2026-draft-picks-germie-bernard-eli-heidenreich",
-        "summary": "The Steelers have officially signed their 2026 draft picks, Germie Bernard and Eli Heidenreich, to their roster.",
-        "source": "nbcsports.com",
-        "date": "Mon, 18 May 2026 16:43:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0db298f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F725%2F263%2Fnbc_pft_pitotherqbs_260518.jpg"
       }
     ]
   }
