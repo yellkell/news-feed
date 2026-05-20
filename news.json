@@ -1,27 +1,43 @@
 {
-  "updated": "2026-05-20T16:17:57.292Z",
+  "updated": "2026-05-20T18:38:36.252Z",
   "feed": {
     "VR": [
       {
         "title": "Google & Samsung Reveal Smart Glasses for Fall Launch, Aiming to go Head-to-head with Meta",
         "url": "https://www.roadtovr.com/google-samsung-smart-glasses-intelligent-eyewear-announcement-release-date/",
-        "summary": "Google and Samsung unveiled new smart glasses aimed at competing with Meta's offerings, showcasing their potential at Google I/O.",
+        "summary": "Google and Samsung unveil smart glasses set to compete with Meta, aiming for a fall launch.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 18:15:15 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1-341x220.jpg"
       },
       {
-        "title": "Gracia's Moving Volumetric Captures Are Now Streamable, A World-First",
+        "title": "Gracia's Moving Volumetric Captures Are Now Streamable",
         "url": "https://www.uploadvr.com/gracia-moving-volumetric-captures-now-streamable/",
-        "summary": "Gracia's volumetric captures can now be streamed on Quest 3, marking a significant advancement in mixed reality technology.",
+        "summary": "Gracia's volumetric captures are now streamable on Quest 3, enhancing mixed reality experiences.",
         "source": "uploadvr.com",
         "date": "Tue, 19 May 2026 16:11:11 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Gracia-streamed-volumetric-scene-on-Apple-Vision-Pro-00.00.06.000.jpeg"
       },
       {
+        "title": "Sugar Madness Is A New Fast-Paced VR Shooter Coming To Quest In June",
+        "url": "https://www.uploadvr.com/sugar-madness-release-date-announced/",
+        "summary": "Sugar Madness, a fast-paced VR shooter, is set to launch on Quest in June.",
+        "source": "uploadvr.com",
+        "date": "Wed, 20 May 2026 08:57:13 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Cover-Art-landscape_2560x1440px--1-.png"
+      },
+      {
+        "title": "Apple Acquires Key Talent & Patents Behind AI Avatar Company ‘Animato’",
+        "url": "https://www.roadtovr.com/apple-acquires-avatar-animato-vision-pro-personas/",
+        "summary": "Apple acquires talent and patents from AI avatar company Animato to bolster its AR initiatives.",
+        "source": "roadtovr.com",
+        "date": "Wed, 20 May 2026 13:43:41 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2017/07/apple-logo-anaglyph-e1779284856833-341x220.png"
+      },
+      {
         "title": "Roboquest VR Quest Port & Cross Platform Co-Op Delayed To July",
         "url": "https://www.uploadvr.com/roboquest-vrs-meta-quest-port-cross-platform-co-op-update-delayed-to-july/",
-        "summary": "The release of Roboquest VR's Quest 3 port and cross-platform co-op has been delayed to July.",
+        "summary": "The release of Roboquest VR's Quest port and cross-platform co-op has been delayed to July.",
         "source": "uploadvr.com",
         "date": "Tue, 19 May 2026 12:48:04 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Copy-of-Roboquest-Cover-Landscape-2560-x-1440.png"
@@ -29,126 +45,110 @@
       {
         "title": "Myst & Riven Remakes Out Now On PlayStation VR2",
         "url": "https://www.uploadvr.com/myst-riven-remakes-out-now-on-playstation-vr2/",
-        "summary": "The remakes of the classic adventure games Myst and Riven are now available on PlayStation VR2.",
+        "summary": "Remakes of the classic games Myst and Riven are now available on PlayStation VR2.",
         "source": "uploadvr.com",
         "date": "Tue, 19 May 2026 08:38:17 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/myst-and-riven-remakes-on-playstation-vr2-1.jpg"
-      },
-      {
-        "title": "Darts VR2: Bullseye Takes Aim At VR Esports With League Mode Tournaments",
-        "url": "https://www.uploadvr.com/darts-vr2-bullseye-takes-aim-at-vr-esports-with-league-mode-tournaments/",
-        "summary": "Darts VR2: Bullseye is set to launch competitive tournaments this summer, complete with cash prizes.",
-        "source": "uploadvr.com",
-        "date": "Tue, 19 May 2026 08:37:32 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Darts-VR2-Bullseye-keyart-small.jpg"
-      },
-      {
-        "title": "VR Horde FPS A Long Survive Hits PC VR This Week After Two Delays",
-        "url": "https://www.uploadvr.com/vr-horde-fps-a-long-survive-hits-pc-vr-this-week-after-two-delays/",
-        "summary": "A Long Survive finally releases on PC VR this week after multiple delays, with a PlayStation VR2 version expected soon.",
-        "source": "uploadvr.com",
-        "date": "Tue, 19 May 2026 08:38:34 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/a-long-survive.jpg"
       }
     ],
     "AI": [
       {
+        "title": "You can now remix other people’s YouTube Shorts with AI",
+        "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+        "summary": "Google introduces a new YouTube Shorts Remix feature that allows users to creatively restyle videos using AI.",
+        "source": "theverge.com",
+        "date": "2026-05-20T12:41:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
         "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-        "summary": "Google's Gemini AI will utilize Volvo's external cameras to enhance parking sign interpretation in the new EX60 SUV.",
+        "summary": "Google's Gemini AI will leverage Volvo's external cameras to interpret parking signs in the upcoming EX60 SUV.",
         "source": "theverge.com",
         "date": "2026-05-19T14:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Google Search’s AI evolution includes more ads",
+        "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+        "summary": "Google's AI evolution extends to ads, generating custom explainers for products in search results.",
+        "source": "theverge.com",
+        "date": "2026-05-20T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/search-ads-ai.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "It’s make or break time for AI labeling systems",
         "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-        "summary": "New technologies SynthID and C2PA are being tested to improve the detection of deepfakes and AI-generated content.",
+        "summary": "The effectiveness of AI labeling systems for identifying deepfakes is being put to the test.",
         "source": "theverge.com",
         "date": "2026-05-20T10:12:54-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The 13 biggest announcements at Google I/O 2026",
-        "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
-        "summary": "Google I/O 2026 showcased significant AI advancements, including new Gemini models and updates for Search and Gmail.",
-        "source": "theverge.com",
-        "date": "2026-05-19T13:54:33-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/io2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Google wants to compete with Anthropic’s Mythos",
-        "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
-        "summary": "Google is expanding its AI security tool, CodeMender, to a broader audience, enhancing cybersecurity measures.",
-        "source": "theverge.com",
-        "date": "2026-05-19T13:48:22-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK453_PRIVACY_B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
         "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-        "summary": "Google DeepMind CEO Demis Hassabis described the current era as a pivotal moment for advancing artificial general intelligence.",
+        "summary": "Google DeepMind's CEO describes current advancements as the 'foothills of the singularity' during Google I/O.",
         "source": "theverge.com",
         "date": "2026-05-19T18:16:02-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google’s AI future demands trust — and your personal data",
-        "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-        "summary": "Google's AI future hinges on user trust and data sharing, as it introduces new tools aimed at simplifying daily tasks.",
-        "source": "theverge.com",
-        "date": "2026-05-19T17:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+        "summary": "Google redesigns its iconic search box for the first time in 25 years, signaling a major shift.",
+        "source": "venturebeat.com",
+        "date": "Tue, 19 May 2026 17:45:00 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       }
     ],
     "NFL": [
       {
+        "title": "NFL set to up int'l slate; games can't be protecte...",
+        "url": "https://www.espn.com/nfl/story/_/id/48819165/nfl-oks-10-intl-games-27-teams-protect-games",
+        "summary": "NFL owners approve up to 10 international games per season starting in 2027, removing scheduling protections.",
+        "source": "espn.com",
+        "date": "Wed, 20 May 2026 14:30:05 EST",
+        "image": ""
+      },
+      {
+        "title": "Chiefs' Rice violates probation, ordered to jail",
+        "url": "https://www.espn.com/nfl/story/_/id/48818374/chiefs-rashee-rice-tests-positive-pot-miss-otas-minicamp",
+        "summary": "Chiefs receiver Rashee Rice is sentenced to 30 days in jail for violating probation after a positive drug test.",
+        "source": "espn.com",
+        "date": "Wed, 20 May 2026 14:30:05 EST",
+        "image": ""
+      },
+      {
+        "title": "Copy of Goodell: NFL cooperating with Florida AG's probe",
+        "url": "https://www.espn.com/nfl/story/_/id/48819566/goodell-nfl-cooperating-florida-ag-receiving-subpoena",
+        "summary": "NFL Commissioner Roger Goodell confirms the league is cooperating with a probe by Florida's Attorney General.",
+        "source": "espn.com",
+        "date": "Wed, 20 May 2026 14:30:05 EST",
+        "image": ""
+      },
+      {
         "title": "Titans say stadium remains on schedule to open in spring of 2027",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-say-stadium-remains-on-schedule-to-open-in-spring-of-2027",
-        "summary": "Nashville's new stadium is on schedule to open in spring 2027, ready for the Titans' home games.",
+        "summary": "Nashville's new stadium is on track to open in spring 2027, ready for the Titans' home games.",
         "source": "nbcsports.com",
         "date": "Wed, 20 May 2026 11:46:42 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfa0a61/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F877%2F115%2Fnbc_pft_lgblount_260519.jpg"
       },
       {
-        "title": "Roger Goodell: Bears' stadium decision will be between two viable sites",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-bears-stadium-decision-will-be-between-two-viable-sites",
-        "summary": "Roger Goodell stated the Bears will soon choose between two viable sites for a new indoor stadium.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 09:40:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/436f611/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F213%2F551%2Fnbc_pft_schedule_williams_260513.jpg"
+        "title": "Burrow: 2026 Bengals 'most talented' in my era",
+        "url": "https://www.espn.com/nfl/story/_/id/48827476/joe-burrow-most-talented-bengals-team-on",
+        "summary": "Joe Burrow claims the 2026 Bengals are the most talented team he has played with during his career.",
+        "source": "espn.com",
+        "date": "Wed, 20 May 2026 14:30:05 EST",
+        "image": ""
       },
       {
-        "title": "Ravens sign second-round pick Zion Young",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-sign-second-round-pick-zion-young",
-        "summary": "The Ravens have officially signed all their 2026 draft picks, including second-rounder Zion Young.",
+        "title": "Aaron Rodgers says this will be his last season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-says-this-will-be-his-last-season",
+        "summary": "Aaron Rodgers announces that the 2026 season will be his last in the NFL.",
         "source": "nbcsports.com",
-        "date": "Tue, 19 May 2026 18:43:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3cc27a8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F513%2F851%2Fnbc_pft_reunionrevenge_260515.jpg"
-      },
-      {
-        "title": "Broncos sign fourth-round pick Jonah Coleman",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-sign-fourth-round-pick-jonah-coleman",
-        "summary": "The Broncos have signed both of their fourth-round picks from the recent NFL draft.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 12:11:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87fb183/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F520%2F182%2Fnbc_pft_playoffrematchesv2_260515.jpg"
-      },
-      {
-        "title": "Broncos agree to terms with fourth-rounder Kage Casey",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-agree-to-terms-with-fourth-rounder-kage-casey",
-        "summary": "The Broncos are set to finalize terms with fourth-round pick Kage Casey.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 10:38:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0697f8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F506%2F1019%2Fnbc_pft_broncos_260515.jpg"
-      },
-      {
-        "title": "Joe Brady pleased with attendance at Bills' voluntary work: Great guys who want to be here",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-brady-pleased-with-attendance-at-bills-voluntary-work-great-guys-who-want-to-be-here",
-        "summary": "Bills head coach Joe Brady expressed satisfaction with player attendance at the start of voluntary workouts.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 06:34:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ed9b04/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F61%2F699%2Fnbc_pft_bufdet_260512.jpg"
+        "date": "Wed, 20 May 2026 14:37:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/badd900/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F881%2F1019%2Fnbc_pft_michaelpittman_260519.jpg"
       }
     ]
   }
