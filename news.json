@@ -1,19 +1,11 @@
 {
-  "updated": "2026-05-21T16:29:46.810Z",
+  "updated": "2026-05-21T18:21:04.578Z",
   "feed": {
     "VR": [
       {
-        "title": "‘Avatar: Fire and Ash’ and ‘Super Mario Galaxy Movie’ Head to Vision Pro in 3D",
-        "url": "https://www.roadtovr.com/avatar-fire-ash-super-mario-galaxy-movie-3d-release-vision-pro/",
-        "summary": "Apple confirms 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie' will debut in 3D on Vision Pro, enhancing its cinematic offerings.",
-        "source": "roadtovr.com",
-        "date": "Thu, 21 May 2026 15:41:37 +0000",
-        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/avatar-fire-and-ash-341x220.jpg"
-      },
-      {
         "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
         "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
-        "summary": "As competitors exit the VR space, VRChat reports record usage and asserts its commitment to remain a key player in the industry.",
+        "summary": "As Horizon Worlds and Rec Room withdraw from VR, VRChat reports record growth and reassures users it's not going anywhere.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 15:51:30 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
@@ -21,15 +13,23 @@
       {
         "title": "Quest's Latest PTC Update Brings Hand Tracking Home Locomotion & Custom App Sorting",
         "url": "https://www.uploadvr.com/quest-ptc-update-adds-hand-movement-and-custom-app-sorting/",
-        "summary": "Meta's latest Quest update introduces hand tracking for home locomotion and custom app sorting, enhancing user experience.",
+        "summary": "Meta’s latest Quest PTC update introduces hand gesture movement and custom app sorting features.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 09:26:15 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/balcony-seat.jpg"
       },
       {
+        "title": "‘Avatar: Fire and Ash’ and ‘Super Mario Galaxy Movie’ Head to Vision Pro in 3D",
+        "url": "https://www.roadtovr.com/avatar-fire-ash-super-mario-galaxy-movie-3d-release-vision-pro/",
+        "summary": "Apple confirms the addition of 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie' to Vision Pro's 3D offerings.",
+        "source": "roadtovr.com",
+        "date": "Thu, 21 May 2026 15:41:37 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/avatar-fire-and-ash-341x220.jpg"
+      },
+      {
         "title": "Google & Samsung Reveal Smart Glasses for Fall Launch, Aiming to go Head-to-head with Meta",
         "url": "https://www.roadtovr.com/google-samsung-smart-glasses-intelligent-eyewear-announcement-release-date/",
-        "summary": "Google and Samsung unveil new smart glasses aimed to compete directly with Meta's offerings, signaling a significant shift in AR technology.",
+        "summary": "Google and Samsung unveil new smart glasses set to compete with Meta's offerings, aiming for a fall launch.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 18:15:15 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1-341x220.jpg"
@@ -37,25 +37,25 @@
       {
         "title": "LG-Backed AR Lens Startup LetinAR Raises $18.5M Ahead of Planned IPO Next Year",
         "url": "https://www.roadtovr.com/lg-backed-ar-lens-startup-letinar-raises-18-5m-ahead-of-planned-ipo-next-year/",
-        "summary": "LetinAR secures $18.5 million in funding to accelerate the production of its augmented reality optics ahead of a planned IPO.",
+        "summary": "South Korean startup LetinAR secures $18.5 million in funding ahead of its planned IPO next year.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 11:51:23 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/letinar-module-341x220.jpg"
       },
       {
-        "title": "WorldLens VR’s New AI Depth Feature Enables 3D Street View",
-        "url": "https://www.uploadvr.com/worldlens-vrs-new-ai-depth-feature-enables-3d-street-view/",
-        "summary": "WorldLens VR launches an AI depth feature that enhances Google Street View with 3D effects, available on Quest.",
-        "source": "uploadvr.com",
-        "date": "Mon, 18 May 2026 17:03:26 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/WorldLens-VR-title-image.webp"
+        "title": "‘Into Black’ Studio Set to Announce Next VR Game on Friday",
+        "url": "https://www.roadtovr.com/into-black-studio-next-vr-game-revealed/",
+        "summary": "Indie studio The Binary Mill is set to reveal a new VR game this Friday during the Ruff Talk VR Gaming Showcase.",
+        "source": "roadtovr.com",
+        "date": "Wed, 20 May 2026 14:56:38 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/binary-mills-games-341x220.jpg"
       }
     ],
     "AI": [
       {
         "title": "Spotify is launching AI-generated remixes",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-        "summary": "Spotify partners with Universal Music Group to launch AI-generated remixes and covers, expanding its Premium subscription offerings.",
+        "summary": "Spotify partners with Universal Music Group to launch AI-generated remixes and covers for Premium subscribers.",
         "source": "theverge.com",
         "date": "2026-05-21T11:54:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
         "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-        "summary": "Spotify introduces Studio, an AI app that creates personalized daily podcasts and playlists based on user preferences.",
+        "summary": "Spotify Studio introduces an AI app that creates personalized daily podcasts and playlists based on user data.",
         "source": "theverge.com",
         "date": "2026-05-21T11:47:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
         "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-        "summary": "Anthropic signs a $15 billion annual deal with SpaceX for access to Elon Musk's data centers, enhancing its AI capabilities.",
+        "summary": "Anthropic signs a $15 billion annual deal with SpaceX for access to Elon Musk's data centers.",
         "source": "theverge.com",
         "date": "2026-05-21T09:35:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,23 +79,23 @@
       {
         "title": "Meta lays off thousands of employees to offset AI investments",
         "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-        "summary": "Meta lays off thousands of employees as part of a strategy to offset significant investments in artificial intelligence.",
+        "summary": "Meta lays off thousands of employees in response to significant investments in AI technology.",
         "source": "theverge.com",
         "date": "2026-05-21T05:20:46-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google publishes exploit code threatening millions of Chromium users",
-        "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-        "summary": "Google publicly shares exploit code affecting millions of Chromium users, raising concerns about cybersecurity.",
+        "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+        "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+        "summary": "The US government invests $2 billion in nine quantum computing firms to bolster the tech sector.",
         "source": "arstechnica.com",
-        "date": "Wed, 20 May 2026 19:10:36 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg"
+        "date": "Thu, 21 May 2026 13:48:38 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
       },
       {
         "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
         "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-        "summary": "Mozilla announces it has fully embraced AI-assisted bug discovery, reporting 271 vulnerabilities found with minimal false positives.",
+        "summary": "Mozilla announces a commitment to AI-assisted bug discovery after finding 271 vulnerabilities with Mythos.",
         "source": "arstechnica.com",
         "date": "Thu, 07 May 2026 19:18:16 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-1152x648.jpg"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Vikings sign defensive lineman Isaiahh Loudermilk",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-defensive-lineman-isaiahh-loudermilk",
-        "summary": "The Minnesota Vikings sign veteran defensive lineman Isaiahh Loudermilk, bolstering their defensive line ahead of the season.",
+        "title": "Lions sign LB Jack Campbell to four-year extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-lb-jack-campbell-to-four-year-extension",
+        "summary": "The Lions secure linebacker Jack Campbell with a four-year contract extension, enhancing their defense.",
         "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 12:22:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f728fd5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1022%2F635%2Fnbc_pft_brianflores_260520.jpg"
+        "date": "Thu, 21 May 2026 14:00:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6157187/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F398%2Fnbc_pft_lionssched_260515.jpg"
       },
       {
-        "title": "Eagles LB Smith arrested after car clocked at 135",
-        "url": "https://www.espn.com/nfl/story/_/id/48832227/police-arrest-eagles-nolan-smith-car-clocked-135-mph-georgia",
-        "summary": "Eagles linebacker Nolan Smith Jr. was arrested for speeding at 135 mph, raising concerns about player conduct.",
-        "source": "espn.com",
-        "date": "Thu, 21 May 2026 10:07:41 EST",
-        "image": ""
+        "title": "Inside the De'Von Achane deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-devon-achane-deal",
+        "summary": "Dolphins running back De'Von Achane signs a long-term deal, solidifying his future with the team.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 13:25:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ff75cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1018%2F731%2Fnbc_pft_nicksabandolphins_260520.jpg"
       },
       {
-        "title": "Rodgers says he'll retire after season: 'This is i...",
-        "url": "https://www.espn.com/nfl/story/_/id/48827851/steelers-aaron-rodgers-says-plans-retire-season",
-        "summary": "Aaron Rodgers announces that the upcoming 2026 season will be his final year in the NFL, marking the end of an era.",
-        "source": "espn.com",
-        "date": "Thu, 21 May 2026 10:07:41 EST",
-        "image": ""
+        "title": "Dolphins sign OL Marques Cox, RB Carlos Washington Jr.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-ol-marques-cox-rb-carlos-washington-jr",
+        "summary": "The Dolphins bolster their roster by signing offensive lineman Marques Cox and running back Carlos Washington Jr.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 14:02:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ff75cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1018%2F731%2Fnbc_pft_nicksabandolphins_260520.jpg"
       },
       {
-        "title": "Burrow: 2026 Bengals 'most talented' in my era",
-        "url": "https://www.espn.com/nfl/story/_/id/48827476/joe-burrow-most-talented-bengals-team-on",
-        "summary": "Bengals quarterback Joe Burrow claims this year's roster is the most talented he has played with since joining the team.",
-        "source": "espn.com",
-        "date": "Thu, 21 May 2026 10:07:41 EST",
-        "image": ""
+        "title": "Buccaneers sign Josiah Trotter, complete 2026 draft class",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-sign-josiah-trotter-complete-2026-draft-class",
+        "summary": "The Buccaneers finalize their 2026 draft class by signing linebacker Josiah Trotter.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 13:36:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bfbbc97/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F557%2F371%2Fnbc_pft_licht_260507.jpg"
       },
       {
-        "title": "Titans hire Gardi as executive VP of football ops",
-        "url": "https://www.espn.com/nfl/story/_/id/48830362/titans-hire-dave-gardi-executive-vp-football-operations",
-        "summary": "The Tennessee Titans hire Dave Gardi as executive vice president of football operations, aiming to strengthen their management team.",
-        "source": "espn.com",
-        "date": "Thu, 21 May 2026 10:07:41 EST",
-        "image": ""
+        "title": "Chargers GM Joe Hortiz: Door's not closed on Keenan Allen returning",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-gm-joe-hortiz-doors-not-closed-on-keenan-allen-returning",
+        "summary": "Chargers GM Joe Hortiz hints at the possibility of wide receiver Keenan Allen returning for another season.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 13:50:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0b2a8e4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1017%2F755%2Fnbc_pft_justinherbertpracticev2_260520.jpg"
       },
       {
-        "title": "Chiefs' Rice violates probation, ordered to jail",
-        "url": "https://www.espn.com/nfl/story/_/id/48818374/chiefs-rashee-rice-tests-positive-pot-miss-otas-minicamp",
-        "summary": "Chiefs receiver Rashee Rice is sentenced to 30 days in jail for violating probation, impacting his availability for the season.",
-        "source": "espn.com",
-        "date": "Thu, 21 May 2026 10:07:41 EST",
-        "image": ""
+        "title": "Bills TE Dalton Kincaid passed on knee surgery, feels \"best I’ve felt in my career\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-te-dalton-kincaid-passed-on-knee-surgery-feels-best-ive-felt-in-my-career",
+        "summary": "Bills tight end Dalton Kincaid opts against knee surgery, feeling the best he has in his career.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 12:29:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/20e1924/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F145%2F107%2Fnbc_pft_joshallen_260521.jpg"
       }
     ]
   }
