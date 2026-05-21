@@ -1,11 +1,19 @@
 {
-  "updated": "2026-05-21T13:42:33.597Z",
+  "updated": "2026-05-21T16:29:46.810Z",
   "feed": {
     "VR": [
       {
+        "title": "‘Avatar: Fire and Ash’ and ‘Super Mario Galaxy Movie’ Head to Vision Pro in 3D",
+        "url": "https://www.roadtovr.com/avatar-fire-ash-super-mario-galaxy-movie-3d-release-vision-pro/",
+        "summary": "Apple confirms 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie' will debut in 3D on Vision Pro, enhancing its cinematic offerings.",
+        "source": "roadtovr.com",
+        "date": "Thu, 21 May 2026 15:41:37 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/avatar-fire-and-ash-341x220.jpg"
+      },
+      {
         "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
         "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
-        "summary": "As Horizon Worlds and Rec Room withdraw from VR, VRChat reports record growth and asserts it is 'not going anywhere'.",
+        "summary": "As competitors exit the VR space, VRChat reports record usage and asserts its commitment to remain a key player in the industry.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 15:51:30 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
@@ -13,7 +21,7 @@
       {
         "title": "Quest's Latest PTC Update Brings Hand Tracking Home Locomotion & Custom App Sorting",
         "url": "https://www.uploadvr.com/quest-ptc-update-adds-hand-movement-and-custom-app-sorting/",
-        "summary": "Meta’s latest Quest PTC update introduces hand gesture movement, custom app sorting, and app crash recovery features.",
+        "summary": "Meta's latest Quest update introduces hand tracking for home locomotion and custom app sorting, enhancing user experience.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 09:26:15 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/balcony-seat.jpg"
@@ -21,41 +29,49 @@
       {
         "title": "Google & Samsung Reveal Smart Glasses for Fall Launch, Aiming to go Head-to-head with Meta",
         "url": "https://www.roadtovr.com/google-samsung-smart-glasses-intelligent-eyewear-announcement-release-date/",
-        "summary": "Google and Samsung unveil smart glasses aimed to compete directly with Meta's AI-based offerings.",
+        "summary": "Google and Samsung unveil new smart glasses aimed to compete directly with Meta's offerings, signaling a significant shift in AR technology.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 18:15:15 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1-341x220.jpg"
       },
       {
-        "title": "‘Into Black’ Studio Set to Announce Next VR Game on Friday",
-        "url": "https://www.roadtovr.com/into-black-studio-next-vr-game-revealed/",
-        "summary": "The Binary Mill is set to announce a new VR game this Friday, following the success of their previous title Into Black.",
+        "title": "LG-Backed AR Lens Startup LetinAR Raises $18.5M Ahead of Planned IPO Next Year",
+        "url": "https://www.roadtovr.com/lg-backed-ar-lens-startup-letinar-raises-18-5m-ahead-of-planned-ipo-next-year/",
+        "summary": "LetinAR secures $18.5 million in funding to accelerate the production of its augmented reality optics ahead of a planned IPO.",
         "source": "roadtovr.com",
-        "date": "Wed, 20 May 2026 14:56:38 +0000",
-        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/binary-mills-games-341x220.jpg"
+        "date": "Tue, 19 May 2026 11:51:23 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/letinar-module-341x220.jpg"
       },
       {
-        "title": "Gracia's Moving Volumetric Captures Are Now Streamable",
-        "url": "https://www.uploadvr.com/gracia-moving-volumetric-captures-now-streamable/",
-        "summary": "Gracia's volumetric captures can now be streamed directly to mixed reality devices, including Quest 3.",
+        "title": "WorldLens VR’s New AI Depth Feature Enables 3D Street View",
+        "url": "https://www.uploadvr.com/worldlens-vrs-new-ai-depth-feature-enables-3d-street-view/",
+        "summary": "WorldLens VR launches an AI depth feature that enhances Google Street View with 3D effects, available on Quest.",
         "source": "uploadvr.com",
-        "date": "Tue, 19 May 2026 16:11:11 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Gracia-streamed-volumetric-scene-on-Apple-Vision-Pro-00.00.06.000.jpeg"
-      },
-      {
-        "title": "Google Announces New Android XR Developer Program with AR Glasses Dev Kits",
-        "url": "https://www.roadtovr.com/google-android-xr-developer-program-free-ar-glasses/",
-        "summary": "Google launches the Android XR Developer Catalyst Program, offering dev kits for its upcoming AR glasses.",
-        "source": "roadtovr.com",
-        "date": "Tue, 19 May 2026 17:59:07 +0000",
-        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2025/12/xreal-aura-android-xr-2-341x220.jpg"
+        "date": "Mon, 18 May 2026 17:03:26 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/WorldLens-VR-title-image.webp"
       }
     ],
     "AI": [
       {
+        "title": "Spotify is launching AI-generated remixes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+        "summary": "Spotify partners with Universal Music Group to launch AI-generated remixes and covers, expanding its Premium subscription offerings.",
+        "source": "theverge.com",
+        "date": "2026-05-21T11:54:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
+        "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+        "summary": "Spotify introduces Studio, an AI app that creates personalized daily podcasts and playlists based on user preferences.",
+        "source": "theverge.com",
+        "date": "2026-05-21T11:47:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
         "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-        "summary": "Anthropic is set to pay $15 billion annually for access to Elon Musk’s data centers as part of a new partnership.",
+        "summary": "Anthropic signs a $15 billion annual deal with SpaceX for access to Elon Musk's data centers, enhancing its AI capabilities.",
         "source": "theverge.com",
         "date": "2026-05-21T09:35:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,92 +79,76 @@
       {
         "title": "Meta lays off thousands of employees to offset AI investments",
         "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-        "summary": "Meta has laid off thousands of employees to offset the costs of its significant investments in AI technology.",
+        "summary": "Meta lays off thousands of employees as part of a strategy to offset significant investments in artificial intelligence.",
         "source": "theverge.com",
         "date": "2026-05-21T05:20:46-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "You can now remix other people’s YouTube Shorts with AI",
-        "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-        "summary": "Google introduces a new YouTube Shorts Remix feature that allows users to creatively modify others' videos using AI.",
-        "source": "theverge.com",
-        "date": "2026-05-20T12:41:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "Google publishes exploit code threatening millions of Chromium users",
+        "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+        "summary": "Google publicly shares exploit code affecting millions of Chromium users, raising concerns about cybersecurity.",
+        "source": "arstechnica.com",
+        "date": "Wed, 20 May 2026 19:10:36 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg"
       },
       {
-        "title": "It’s make or break time for AI labeling systems",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-        "summary": "The effectiveness of AI labeling systems for deepfakes is being put to the test with significant expansions of SynthID and C2PA.",
-        "source": "theverge.com",
-        "date": "2026-05-20T10:12:54-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-        "summary": "Google has redesigned its search box for the first time in 25 years, marking a significant shift in its user interface.",
-        "source": "venturebeat.com",
-        "date": "Tue, 19 May 2026 17:45:00 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
-      },
-      {
-        "title": "Google Search’s AI evolution includes more ads",
-        "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-        "summary": "Google's AI evolution in Search now includes enhanced ads, providing custom explanations for product recommendations.",
-        "source": "theverge.com",
-        "date": "2026-05-20T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/search-ads-ai.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+        "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+        "summary": "Mozilla announces it has fully embraced AI-assisted bug discovery, reporting 271 vulnerabilities found with minimal false positives.",
+        "source": "arstechnica.com",
+        "date": "Thu, 07 May 2026 19:18:16 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-1152x648.jpg"
       }
     ],
     "NFL": [
       {
+        "title": "Vikings sign defensive lineman Isaiahh Loudermilk",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-defensive-lineman-isaiahh-loudermilk",
+        "summary": "The Minnesota Vikings sign veteran defensive lineman Isaiahh Loudermilk, bolstering their defensive line ahead of the season.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 12:22:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f728fd5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1022%2F635%2Fnbc_pft_brianflores_260520.jpg"
+      },
+      {
+        "title": "Eagles LB Smith arrested after car clocked at 135",
+        "url": "https://www.espn.com/nfl/story/_/id/48832227/police-arrest-eagles-nolan-smith-car-clocked-135-mph-georgia",
+        "summary": "Eagles linebacker Nolan Smith Jr. was arrested for speeding at 135 mph, raising concerns about player conduct.",
+        "source": "espn.com",
+        "date": "Thu, 21 May 2026 10:07:41 EST",
+        "image": ""
+      },
+      {
         "title": "Rodgers says he'll retire after season: 'This is i...",
         "url": "https://www.espn.com/nfl/story/_/id/48827851/steelers-aaron-rodgers-says-plans-retire-season",
-        "summary": "Aaron Rodgers announces that the 2026 season will be his last, marking the end of his illustrious career.",
+        "summary": "Aaron Rodgers announces that the upcoming 2026 season will be his final year in the NFL, marking the end of an era.",
         "source": "espn.com",
-        "date": "Thu, 21 May 2026 07:32:50 EST",
+        "date": "Thu, 21 May 2026 10:07:41 EST",
         "image": ""
       },
       {
         "title": "Burrow: 2026 Bengals 'most talented' in my era",
         "url": "https://www.espn.com/nfl/story/_/id/48827476/joe-burrow-most-talented-bengals-team-on",
-        "summary": "Joe Burrow claims the 2026 Bengals are the most talented team he has played with since joining the franchise.",
+        "summary": "Bengals quarterback Joe Burrow claims this year's roster is the most talented he has played with since joining the team.",
         "source": "espn.com",
-        "date": "Thu, 21 May 2026 07:32:50 EST",
+        "date": "Thu, 21 May 2026 10:07:41 EST",
         "image": ""
       },
       {
-        "title": "Perfect team fits for 14 remaining NFL free agents...",
-        "url": "https://www.espn.com/nfl/story/_/id/48751416/2026-nfl-best-team-fits-remaining-free-agents-samuel-bosa-diggs",
-        "summary": "A look at potential new homes for 14 remaining NFL free agents, including notable names like Stefon Diggs.",
+        "title": "Titans hire Gardi as executive VP of football ops",
+        "url": "https://www.espn.com/nfl/story/_/id/48830362/titans-hire-dave-gardi-executive-vp-football-operations",
+        "summary": "The Tennessee Titans hire Dave Gardi as executive vice president of football operations, aiming to strengthen their management team.",
         "source": "espn.com",
-        "date": "Thu, 21 May 2026 08:50:27 EST",
-        "image": ""
-      },
-      {
-        "title": "Eagles LB Smith arrested after car clocked at 135",
-        "url": "https://www.espn.com/nfl/story/_/id/48832227/police-arrest-eagles-nolan-smith-car-clocked-135-mph-georgia",
-        "summary": "Eagles linebacker Nolan Smith Jr. was arrested for speeding and reckless driving, clocked at 135 mph.",
-        "source": "espn.com",
-        "date": "Thu, 21 May 2026 07:32:50 EST",
+        "date": "Thu, 21 May 2026 10:07:41 EST",
         "image": ""
       },
       {
         "title": "Chiefs' Rice violates probation, ordered to jail",
         "url": "https://www.espn.com/nfl/story/_/id/48818374/chiefs-rashee-rice-tests-positive-pot-miss-otas-minicamp",
-        "summary": "Chiefs receiver Rashee Rice has been sentenced to 30 days in jail for violating probation after a positive drug test.",
+        "summary": "Chiefs receiver Rashee Rice is sentenced to 30 days in jail for violating probation, impacting his availability for the season.",
         "source": "espn.com",
-        "date": "Thu, 21 May 2026 07:32:50 EST",
+        "date": "Thu, 21 May 2026 10:07:41 EST",
         "image": ""
-      },
-      {
-        "title": "Aaron Rodgers's incentives are tied to playing time, postseason success",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgerss-incentives-are-tied-to-playing-time-postseason-success",
-        "summary": "Aaron Rodgers's contract incentives for 2026 are tied to his playing time and postseason performance.",
-        "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 05:54:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/badd900/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F881%2F1019%2Fnbc_pft_michaelpittman_260519.jpg"
       }
     ]
   }
