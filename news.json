@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-21T06:36:58.469Z",
+  "updated": "2026-05-21T10:25:11.258Z",
   "feed": {
     "VR": [
       {
         "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
         "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
-        "summary": "As Horizon Worlds and Rec Room withdraw from VR, VRChat reports significant growth, regularly setting new usage records and asserting it is 'not going anywhere'.",
+        "summary": "As Horizon Worlds and Rec Room withdraw from VR, VRChat reports record growth and asserts it is here to stay.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 15:51:30 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
@@ -13,7 +13,7 @@
       {
         "title": "Quest's Latest PTC Update Brings Hand Tracking Home Locomotion & Custom App Sorting",
         "url": "https://www.uploadvr.com/quest-ptc-update-adds-hand-movement-and-custom-app-sorting/",
-        "summary": "Meta’s latest Quest PTC update introduces hand gesture movement in Horizon Home, custom app sorting, and improved app crash recovery.",
+        "summary": "Meta’s latest Quest PTC update introduces hand tracking for home locomotion and custom app sorting features.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 09:26:15 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/balcony-seat.jpg"
@@ -21,7 +21,7 @@
       {
         "title": "Google & Samsung Reveal Smart Glasses for Fall Launch, Aiming to go Head-to-head with Meta",
         "url": "https://www.roadtovr.com/google-samsung-smart-glasses-intelligent-eyewear-announcement-release-date/",
-        "summary": "Google and Samsung unveil upcoming smart glasses set to compete with Meta's AI-based offerings, revealed during Google I/O.",
+        "summary": "Google and Samsung unveil smart glasses set to compete directly with Meta's AI-based offerings this fall.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 18:15:15 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1-341x220.jpg"
@@ -29,7 +29,7 @@
       {
         "title": "Gracia's Moving Volumetric Captures Are Now Streamable",
         "url": "https://www.uploadvr.com/gracia-moving-volumetric-captures-now-streamable/",
-        "summary": "Gracia's volumetric captures are now streamable to mixed reality devices, including Quest 3, with an Apple Vision Pro app on the way.",
+        "summary": "Gracia's volumetric captures can now be streamed on Quest 3, with an Apple Vision Pro app on the way.",
         "source": "uploadvr.com",
         "date": "Tue, 19 May 2026 16:11:11 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Gracia-streamed-volumetric-scene-on-Apple-Vision-Pro-00.00.06.000.jpeg"
@@ -37,25 +37,25 @@
       {
         "title": "‘Into Black’ Studio Set to Announce Next VR Game on Friday",
         "url": "https://www.roadtovr.com/into-black-studio-next-vr-game-revealed/",
-        "summary": "Indie studio The Binary Mill is set to reveal its next VR game this Friday, following the success of Into Black.",
+        "summary": "The Binary Mill is set to reveal a new VR game this Friday, following its success with Into Black.",
         "source": "roadtovr.com",
         "date": "Wed, 20 May 2026 14:56:38 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/binary-mills-games-341x220.jpg"
       },
       {
-        "title": "Into Black & Resist Developer To Announce Next VR Game This Week",
-        "url": "https://www.uploadvr.com/into-black-and-resist-developer-the-binary-mill-to-announce-its-next-vr-game-this-week/",
-        "summary": "Into Black developer The Binary Mill will announce its next VR title at a showcase later this week.",
-        "source": "uploadvr.com",
-        "date": "Tue, 19 May 2026 10:50:02 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/the-binarymill-games.png"
+        "title": "LG-Backed AR Lens Startup LetinAR Raises $18.5M Ahead of Planned IPO Next Year",
+        "url": "https://www.roadtovr.com/lg-backed-ar-lens-startup-letinar-raises-18-5m-ahead-of-planned-ipo-next-year/",
+        "summary": "LetinAR, backed by LG, raises $18.5 million to scale production ahead of its planned IPO next year.",
+        "source": "roadtovr.com",
+        "date": "Tue, 19 May 2026 11:51:23 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/letinar-module-341x220.jpg"
       }
     ],
     "AI": [
       {
         "title": "You can now remix other people’s YouTube Shorts with AI",
         "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-        "summary": "Google introduces a new YouTube Shorts Remix feature that allows users to creatively restyle and insert themselves into existing videos using Gemini Omni.",
+        "summary": "Google introduces a YouTube Shorts Remix feature allowing users to creatively remix videos using AI.",
         "source": "theverge.com",
         "date": "2026-05-20T12:41:40-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Google Search’s AI evolution includes more ads",
         "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-        "summary": "Google's AI-powered Search will now display relevant ads with custom explainers, enhancing the shopping experience for users.",
+        "summary": "Google's AI-enhanced Search will now feature ads with custom explainers to improve product discovery.",
         "source": "theverge.com",
         "date": "2026-05-20T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/search-ads-ai.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
         "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-        "summary": "Google DeepMind CEO Demis Hassabis describes recent advancements as a 'profound moment for humanity' during the Google I/O keynote.",
+        "summary": "Google DeepMind CEO Demis Hassabis describes current advancements as a 'profound moment' for AI's future.",
         "source": "theverge.com",
         "date": "2026-05-19T18:16:02-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,33 +79,33 @@
       {
         "title": "It’s make or break time for AI labeling systems",
         "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-        "summary": "AI labeling systems like SynthID and C2PA are expanding, aiming to improve the detection of deepfakes and AI-generated content.",
+        "summary": "New technologies for tagging AI-generated content are being expanded to improve detection of deepfakes.",
         "source": "theverge.com",
         "date": "2026-05-20T10:12:54-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-        "summary": "Google announces a major redesign of its search box at I/O, marking the first significant change in 25 years.",
-        "source": "venturebeat.com",
-        "date": "Tue, 19 May 2026 17:45:00 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
+        "title": "Google publishes exploit code threatening millions of Chromium users",
+        "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+        "summary": "Google publishes exploit code affecting millions of Chromium users, raising security concerns.",
+        "source": "arstechnica.com",
+        "date": "Wed, 20 May 2026 19:10:36 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg"
       },
       {
-        "title": "The future of Google is a search box that does everything",
-        "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-        "summary": "Google aims to transform its search box into a multifunctional tool, evolving beyond traditional search capabilities.",
+        "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+        "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+        "summary": "Elon Musk's SpaceX IPO reveals complex financial interactions between his various companies.",
         "source": "theverge.com",
-        "date": "2026-05-19T17:24:14-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lcimg-036c9a25-7169-4853-846e-94fd035c259f.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-05-20T23:42:45-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2270729873.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Bears to sign RB Salvon Ahmed, S Anthony Johnson",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-to-sign-rb-salvon-ahmed-s-anthony-johnson",
-        "summary": "The Bears are set to sign running back Salvon Ahmed and safety Anthony Johnson Jr., bolstering their roster.",
+        "summary": "The Bears have signed running back Salvon Ahmed and safety Anthony Johnson Jr. to bolster their roster.",
         "source": "nbcsports.com",
         "date": "Wed, 20 May 2026 22:53:09 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/723cc1b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F509%2F446%2Fnbc_pft_bearsschedule_260515.jpg"
@@ -113,15 +113,23 @@
       {
         "title": "Jaguars wrap up draft class by signing second-rounder Nate Boerkircher",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-wrap-up-draft-class-by-signing-second-rounder-nate-boerkircher",
-        "summary": "The Jaguars finalize their draft class by signing second-round pick Nate Boerkircher, completing their selections from April.",
+        "summary": "The Jaguars finalize their draft class by signing second-round pick Nate Boerkircher.",
         "source": "nbcsports.com",
         "date": "Wed, 20 May 2026 18:32:26 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e0c9d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F743%2F831%2Fnbc_pft_lawrence_260518.jpg"
       },
       {
+        "title": "Nolan Smith Jr. was recently arrested for reckless driving, speeding in Georgia",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nolan-smith-jr-was-recently-arrested-for-reckless-driving-speeding-in-georgia",
+        "summary": "Eagles linebacker Nolan Smith Jr. faces legal issues after being arrested for reckless driving.",
+        "source": "nbcsports.com",
+        "date": "Wed, 20 May 2026 23:24:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a5549fc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F214%2F26%2Fnbc_pft_pats_aj_260513.jpg"
+      },
+      {
         "title": "Chiefs sign fourth-round pick Jadon Canady",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-sign-fourth-round-pick-jadon-canady",
-        "summary": "The Chiefs have signed fourth-round draft pick Jadon Canady, adding depth to their roster.",
+        "summary": "The Chiefs have signed fourth-round draft pick Jadon Canady as they prepare for the upcoming season.",
         "source": "nbcsports.com",
         "date": "Wed, 20 May 2026 16:57:12 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/3d1f6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1023%2F111%2Fnbc_pft_rasheericeV2_260520.jpg"
@@ -129,26 +137,18 @@
       {
         "title": "Titans hire Dave Gardi as executive VP of football operations",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-hire-dave-gardi-as-executive-vp-of-football-operations",
-        "summary": "The Titans announce the hiring of Dave Gardi as executive VP of football operations, signaling a shift in their front office.",
+        "summary": "The Titans announce the hiring of Dave Gardi as executive VP of football operations.",
         "source": "nbcsports.com",
         "date": "Wed, 20 May 2026 18:06:30 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e0ac05/2147483647/strip/false/crop/890x501+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2Ffc%2Fc4fb6dfdba12e274f2fc1741a183%2Fgettyimages-1039389942-e1602352986288.jpg"
       },
       {
-        "title": "Lions sign WR Cedrick Wilson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-wr-cedrick-wilson",
-        "summary": "The Lions have signed free agent wide receiver Cedrick Wilson, strengthening their receiving corps.",
+        "title": "Patriots sign rookie free agent DT Travis Shaw",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-sign-rookie-free-agent-dt-travis-shaw",
+        "summary": "The Patriots have signed undrafted rookie defensive tackle Travis Shaw to their roster.",
         "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 16:35:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6157187/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F398%2Fnbc_pft_lionssched_260515.jpg"
-      },
-      {
-        "title": "Raiders \"counting on\" Maxx Crosby being ready for training camp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-counting-on-maxx-crosby-being-ready-for-training-camp",
-        "summary": "Raiders defensive end Maxx Crosby is expected to be ready for training camp despite not yet returning to practice.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 17:57:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e360a86/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1014%2F827%2Fnbc_pft_pablotorre_260520.jpg"
+        "date": "Wed, 20 May 2026 16:23:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87fb183/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F520%2F182%2Fnbc_pft_playoffrematchesv2_260515.jpg"
       }
     ]
   }
