@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-20T23:46:46.624Z",
+  "updated": "2026-05-21T02:39:02.883Z",
   "feed": {
     "VR": [
       {
         "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
         "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
-        "summary": "As Horizon Worlds and Rec Room withdraw from VR, VRChat reports record growth and asserts it is here to stay.",
+        "summary": "As Horizon Worlds and Rec Room withdraw from VR, VRChat reports record growth and asserts it is 'not going anywhere'.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 15:51:30 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
@@ -13,7 +13,7 @@
       {
         "title": "Quest's Latest PTC Update Brings Hand Tracking Home Locomotion & Custom App Sorting",
         "url": "https://www.uploadvr.com/quest-ptc-update-adds-hand-movement-and-custom-app-sorting/",
-        "summary": "Meta’s latest Quest PTC update introduces hand tracking, custom app sorting, and improved app crash recovery.",
+        "summary": "Meta’s latest Quest PTC update introduces hand tracking, custom app sorting, and crash recovery features.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 09:26:15 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/balcony-seat.jpg"
@@ -21,7 +21,7 @@
       {
         "title": "Google & Samsung Reveal Smart Glasses for Fall Launch, Aiming to go Head-to-head with Meta",
         "url": "https://www.roadtovr.com/google-samsung-smart-glasses-intelligent-eyewear-announcement-release-date/",
-        "summary": "Google and Samsung unveil smart glasses aimed to compete directly with Meta's offerings, set for a fall launch.",
+        "summary": "Google and Samsung unveil smart glasses aimed at competing with Meta's AI-based offerings, set for a fall launch.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 18:15:15 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1-341x220.jpg"
@@ -29,7 +29,7 @@
       {
         "title": "‘Into Black’ Studio Set to Announce Next VR Game on Friday",
         "url": "https://www.roadtovr.com/into-black-studio-next-vr-game-revealed/",
-        "summary": "The Binary Mill is set to announce a new VR game this Friday, following the success of their shooter Into Black.",
+        "summary": "The Binary Mill is set to announce a new VR game this Friday, following their successful title Into Black.",
         "source": "roadtovr.com",
         "date": "Wed, 20 May 2026 14:56:38 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/binary-mills-games-341x220.jpg"
@@ -37,7 +37,7 @@
       {
         "title": "Gracia's Moving Volumetric Captures Are Now Streamable",
         "url": "https://www.uploadvr.com/gracia-moving-volumetric-captures-now-streamable/",
-        "summary": "Gracia's volumetric captures can now be streamed directly to mixed reality devices like the Quest 3, enhancing user experience.",
+        "summary": "Gracia's volumetric captures are now streamable on Quest 3, with an Apple Vision Pro app on the way.",
         "source": "uploadvr.com",
         "date": "Tue, 19 May 2026 16:11:11 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Gracia-streamed-volumetric-scene-on-Apple-Vision-Pro-00.00.06.000.jpeg"
@@ -45,7 +45,7 @@
       {
         "title": "LG-Backed AR Lens Startup LetinAR Raises $18.5M Ahead of Planned IPO Next Year",
         "url": "https://www.roadtovr.com/lg-backed-ar-lens-startup-letinar-raises-18-5m-ahead-of-planned-ipo-next-year/",
-        "summary": "South Korean AR startup LetinAR raises $18.5 million to scale production ahead of its planned IPO next year.",
+        "summary": "LetinAR, backed by LG, raises $18.5 million ahead of its planned IPO to scale AR optics production.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 11:51:23 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/letinar-module-341x220.jpg"
@@ -55,7 +55,7 @@
       {
         "title": "You can now remix other people’s YouTube Shorts with AI",
         "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-        "summary": "Google introduces a new YouTube Shorts Remix feature allowing users to creatively modify clips using its Gemini AI.",
+        "summary": "Google introduces a YouTube Shorts Remix feature allowing users to creatively restyle others' videos using AI.",
         "source": "theverge.com",
         "date": "2026-05-20T12:41:40-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-shorts-remix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Google Search’s AI evolution includes more ads",
         "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-        "summary": "Google's AI-powered Search now includes tailored ads, enhancing product recommendations with custom explanations.",
+        "summary": "Google's AI evolution extends to Search ads, generating custom explanations for product recommendations.",
         "source": "theverge.com",
         "date": "2026-05-20T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/search-ads-ai.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,31 +71,31 @@
       {
         "title": "It’s make or break time for AI labeling systems",
         "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-        "summary": "New AI labeling systems are being tested to improve detection of deepfakes and AI-generated content.",
+        "summary": "AI labeling systems are under scrutiny as technologies aim to enhance detection of deepfakes and AI-generated content.",
         "source": "theverge.com",
         "date": "2026-05-20T10:12:54-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-        "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-        "summary": "Google DeepMind CEO Demis Hassabis describes current advancements in AI as the 'foothills of the singularity' during I/O.",
-        "source": "theverge.com",
-        "date": "2026-05-19T18:16:02-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Google’s AI future demands trust — and your personal data",
         "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-        "summary": "Google emphasizes the importance of user trust in its AI-driven future, showcasing new tools at I/O 2026.",
+        "summary": "Google emphasizes trust and user data as pivotal for its AI-powered future, introducing new tools at I/O 2026.",
         "source": "theverge.com",
         "date": "2026-05-19T17:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+        "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+        "summary": "DeepMind CEO Demis Hassabis describes current advancements as the 'foothills of the singularity' during Google I/O.",
+        "source": "theverge.com",
+        "date": "2026-05-19T18:16:02-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Google publishes exploit code threatening millions of Chromium users",
         "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-        "summary": "Google publishes exploit code affecting millions of Chromium users, fixing a vulnerability reported 29 months earlier.",
+        "summary": "Google publishes exploit code affecting millions of Chromium users, addressing a vulnerability reported 29 months earlier.",
         "source": "arstechnica.com",
         "date": "Wed, 20 May 2026 19:10:36 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg"
@@ -103,20 +103,44 @@
     ],
     "NFL": [
       {
-        "title": "Aaron Rodgers says this will be his last season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-says-this-will-be-his-last-season",
-        "summary": "Aaron Rodgers announces that the upcoming season will be his last in the NFL.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 14:37:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/badd900/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F881%2F1019%2Fnbc_pft_michaelpittman_260519.jpg"
+        "title": "Rodgers says he'll retire after season: 'This is i...",
+        "url": "https://www.espn.com/nfl/story/_/id/48827851/steelers-aaron-rodgers-says-plans-retire-season",
+        "summary": "Aaron Rodgers announces that the 2026 season will be his final year in the NFL.",
+        "source": "espn.com",
+        "date": "Wed, 20 May 2026 20:15:35 EST",
+        "image": ""
       },
       {
-        "title": "Joe Burrow: This is the most talented roster since I've been in Cincinnati",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-this-is-the-most-talented-roster-since-ive-been-in-cincinnati",
-        "summary": "Joe Burrow claims the Bengals have the most talented roster since his arrival, boosting Super Bowl aspirations.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 15:00:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87bb653/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F1023%2Fnbc_pft_lawrence97_260514.jpg"
+        "title": "Burrow: 2026 Bengals 'most talented' in my era",
+        "url": "https://www.espn.com/nfl/story/_/id/48827476/joe-burrow-most-talented-bengals-team-on",
+        "summary": "Joe Burrow claims this year's Bengals are the most talented roster he has played with since joining the team.",
+        "source": "espn.com",
+        "date": "Wed, 20 May 2026 20:15:35 EST",
+        "image": ""
+      },
+      {
+        "title": "Filings: Flores lawyers subpoenaed 25 NFL teams",
+        "url": "https://www.espn.com/nfl/story/_/id/48821516/filings-reveal-flores-lawyers-served-subpoenas-25-teams",
+        "summary": "Brian Flores' lawsuit against the NFL intensifies as his lawyers subpoena 25 teams for communications related to discrimination claims.",
+        "source": "espn.com",
+        "date": "Wed, 20 May 2026 20:15:35 EST",
+        "image": ""
+      },
+      {
+        "title": "Raiders' Kubiak: Mendoza has been 'as advertised'",
+        "url": "https://www.espn.com/nfl/story/_/id/48829357/raiders-rookie-fernando-mendoza-impresses-coaches-teammates",
+        "summary": "Raiders coach Klint Kubiak praises quarterback Fernando Mendoza, stating he has performed 'as advertised' since being drafted.",
+        "source": "espn.com",
+        "date": "Wed, 20 May 2026 20:15:35 EST",
+        "image": ""
+      },
+      {
+        "title": "Titans hire Gardi as executive VP of football ops",
+        "url": "https://www.espn.com/nfl/story/_/id/48830362/titans-hire-dave-gardi-executive-vp-football-operations",
+        "summary": "The Titans appoint Dave Gardi as their new executive vice president of football operations.",
+        "source": "espn.com",
+        "date": "Wed, 20 May 2026 20:15:35 EST",
+        "image": ""
       },
       {
         "title": "Jaguars wrap up draft class by signing second-rounder Nate Boerkircher",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 20 May 2026 18:32:26 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e0c9d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F743%2F831%2Fnbc_pft_lawrence_260518.jpg"
-      },
-      {
-        "title": "Lions sign WR Cedrick Wilson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-wr-cedrick-wilson",
-        "summary": "The Lions have signed free agent wide receiver Cedrick Wilson to bolster their receiving corps.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 16:35:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6157187/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F398%2Fnbc_pft_lionssched_260515.jpg"
-      },
-      {
-        "title": "Titans hire Dave Gardi as executive VP of football operations",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-hire-dave-gardi-as-executive-vp-of-football-operations",
-        "summary": "The Titans appoint Dave Gardi as executive VP of football operations, marking a significant front office change.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 18:06:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e0ac05/2147483647/strip/false/crop/890x501+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2Ffc%2Fc4fb6dfdba12e274f2fc1741a183%2Fgettyimages-1039389942-e1602352986288.jpg"
-      },
-      {
-        "title": "Raiders \"counting on\" Maxx Crosby being ready for training camp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-counting-on-maxx-crosby-being-ready-for-training-camp",
-        "summary": "Raiders defensive end Maxx Crosby is expected to be ready for training camp despite not practicing yet.",
-        "source": "nbcsports.com",
-        "date": "Wed, 20 May 2026 17:57:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e360a86/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1014%2F827%2Fnbc_pft_pablotorre_260520.jpg"
       }
     ]
   }
