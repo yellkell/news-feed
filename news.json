@@ -1,27 +1,27 @@
 {
-  "updated": "2026-05-21T20:17:54.285Z",
+  "updated": "2026-05-21T21:55:40.112Z",
   "feed": {
     "VR": [
       {
-        "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
-        "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
-        "summary": "As Horizon Worlds and Rec Room withdraw from VR, VRChat reports record growth and asserts it is 'not going anywhere'.",
-        "source": "uploadvr.com",
-        "date": "Wed, 20 May 2026 15:51:30 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
-      },
-      {
         "title": "Quest's Latest PTC Update Brings Hand Tracking Home Locomotion & Custom App Sorting",
         "url": "https://www.uploadvr.com/quest-ptc-update-adds-hand-movement-and-custom-app-sorting/",
-        "summary": "Meta's latest Quest PTC update introduces hand gesture movement, custom app sorting, and improved app crash recovery.",
+        "summary": "Meta’s latest Quest PTC update introduces hand gesture movement in Horizon Home and custom app sorting features.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 09:26:15 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/balcony-seat.jpg"
       },
       {
+        "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
+        "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
+        "summary": "As Horizon Worlds and Rec Room decline, VRChat reports record usage and asserts its commitment to the VR landscape.",
+        "source": "uploadvr.com",
+        "date": "Wed, 20 May 2026 15:51:30 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
+      },
+      {
         "title": "‘Avatar: Fire and Ash’ and ‘Super Mario Galaxy Movie’ Head to Vision Pro in 3D",
         "url": "https://www.roadtovr.com/avatar-fire-ash-super-mario-galaxy-movie-3d-release-vision-pro/",
-        "summary": "Apple confirms new 3D movies, including 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie', will be available on Vision Pro.",
+        "summary": "Apple confirms upcoming 3D theatrical releases, including 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie,' for Vision Pro.",
         "source": "roadtovr.com",
         "date": "Thu, 21 May 2026 15:41:37 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/avatar-fire-and-ash-341x220.jpg"
@@ -29,36 +29,44 @@
       {
         "title": "Google & Samsung Reveal Smart Glasses for Fall Launch, Aiming to go Head-to-head with Meta",
         "url": "https://www.roadtovr.com/google-samsung-smart-glasses-intelligent-eyewear-announcement-release-date/",
-        "summary": "Google and Samsung unveil smart glasses aimed to compete directly with Meta's offerings, set for a fall launch.",
+        "summary": "Google and Samsung unveil new smart glasses aimed to compete directly with Meta's offerings.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 18:15:15 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1-341x220.jpg"
       },
       {
-        "title": "Roboquest VR Quest Port & Cross Platform Co-Op Delayed To July",
-        "url": "https://www.uploadvr.com/roboquest-vrs-meta-quest-port-cross-platform-co-op-update-delayed-to-july/",
-        "summary": "Roboquest VR's Quest port and cross-platform co-op features have been delayed to July.",
-        "source": "uploadvr.com",
-        "date": "Tue, 19 May 2026 12:48:04 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Copy-of-Roboquest-Cover-Landscape-2560-x-1440.png"
-      },
-      {
         "title": "LG-Backed AR Lens Startup LetinAR Raises $18.5M Ahead of Planned IPO Next Year",
         "url": "https://www.roadtovr.com/lg-backed-ar-lens-startup-letinar-raises-18-5m-ahead-of-planned-ipo-next-year/",
-        "summary": "LetinAR, an AR lens startup, raises $18.5 million ahead of its planned IPO next year.",
+        "summary": "South Korean AR startup LetinAR raises $18.5 million ahead of its planned IPO next year to scale production.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 11:51:23 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/letinar-module-341x220.jpg"
+      },
+      {
+        "title": "WorldLens VR’s New AI Depth Feature Enables 3D Street View",
+        "url": "https://www.uploadvr.com/worldlens-vrs-new-ai-depth-feature-enables-3d-street-view/",
+        "summary": "WorldLens VR launches an AI feature that enhances Google Street View with 3D depth on Quest.",
+        "source": "uploadvr.com",
+        "date": "Mon, 18 May 2026 17:03:26 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/WorldLens-VR-title-image.webp"
       }
     ],
     "AI": [
       {
         "title": "Spotify is launching AI-generated remixes",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-        "summary": "Spotify partners with Universal Music Group to launch AI-generated remixes and covers for Premium subscribers.",
+        "summary": "Spotify partners with Universal Music Group to launch a paid feature for AI-generated remixes and covers.",
         "source": "theverge.com",
         "date": "2026-05-21T11:54:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+        "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+        "summary": "Anthropic secures a $15 billion annual deal for access to SpaceX's data centers, enhancing its AI capabilities.",
+        "source": "theverge.com",
+        "date": "2026-05-21T09:35:52-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
@@ -69,17 +77,9 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
-        "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-        "summary": "Anthropic signs a $15 billion annual deal with SpaceX for access to its data centers, enhancing AI capabilities.",
-        "source": "theverge.com",
-        "date": "2026-05-21T09:35:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "summary": "The trial between Elon Musk and Sam Altman over OpenAI's direction could significantly impact the future of AI development.",
+        "summary": "Sam Altman and Elon Musk's legal battle over OpenAI could reshape the future of AI development and ethics.",
         "source": "theverge.com",
         "date": "2026-05-21T16:15:18-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "Meta lays off thousands of employees to offset AI investments",
         "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-        "summary": "Meta lays off thousands of employees as part of its strategy to manage costs amid heavy AI investments.",
+        "summary": "Meta lays off thousands of employees as part of its strategy to offset significant investments in AI technology.",
         "source": "theverge.com",
         "date": "2026-05-21T05:20:46-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "US government takes $2 billion equity stake in nine quantum computing firms",
         "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-        "summary": "The US government invests $2 billion in nine quantum computing firms to bolster national technology initiatives.",
+        "summary": "The US government invests $2 billion in nine quantum computing firms, signaling a push for advanced technology development.",
         "source": "arstechnica.com",
         "date": "Thu, 21 May 2026 13:48:38 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Lions ink All-Pro LB Campbell to 4-year extension",
-        "url": "https://www.espn.com/nfl/story/_/id/48836875/lions-sign-all-pro-lb-jack-campbell-four-year-extension",
-        "summary": "The Lions have signed All-Pro linebacker Jack Campbell to a four-year contract extension through the 2030 season.",
-        "source": "espn.com",
-        "date": "Thu, 21 May 2026 14:48:05 EST",
-        "image": ""
-      },
-      {
-        "title": "Rodgers says he'll retire after season: 'This is i...",
-        "url": "https://www.espn.com/nfl/story/_/id/48827851/steelers-aaron-rodgers-says-plans-retire-season",
-        "summary": "Aaron Rodgers announces that the 2026 season will be his last, marking the end of his Hall of Fame career.",
-        "source": "espn.com",
-        "date": "Thu, 21 May 2026 14:48:05 EST",
-        "image": ""
-      },
-      {
-        "title": "Cam Ward is\"perfectly healthy\" after shoulder injury, feeling faster after losing 10 pounds",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-ward-perfectly-healthy-feeling-faster-after-losing-weight",
-        "summary": "Titans quarterback Cam Ward reports he is fully recovered from his shoulder injury and has improved his speed.",
+        "title": "Aaron Rodgers sets up a Derek Jeter-style farewell tour",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-sets-up-a-derek-jeter-style-farewell-tour",
+        "summary": "Aaron Rodgers announces his final NFL season, setting the stage for a farewell tour with the Steelers.",
         "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 16:09:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfa0a61/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F877%2F115%2Fnbc_pft_lgblount_260519.jpg"
+        "date": "Thu, 21 May 2026 16:43:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c650921/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F144%2F631%2Fnbc_pft_rodgersfinalyear_260521.jpg"
       },
       {
-        "title": "Raiders' Kubiak: Mendoza has been 'as advertised'",
-        "url": "https://www.espn.com/nfl/story/_/id/48829357/raiders-rookie-fernando-mendoza-impresses-coaches-teammates",
-        "summary": "Raiders coach Klint Kubiak praises QB Fernando Mendoza, stating he has performed 'as advertised' during training.",
-        "source": "espn.com",
-        "date": "Thu, 21 May 2026 14:48:05 EST",
-        "image": ""
-      },
-      {
-        "title": "Steelers will hold first training camp practice on July 29",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-will-hold-first-training-camp-practice-on-july-29",
-        "summary": "The Steelers have scheduled their first training camp practice for July 29, kicking off their summer preparations.",
+        "title": "Chiefs sign 2026 second-round pick R Mason Thomas",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-sign-2026-second-round-pick-r-mason-thomas",
+        "summary": "The Chiefs officially sign second-round draft pick R Mason Thomas, adding depth to their roster.",
         "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 15:50:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5aa5133/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F143%2F655%2Fnbc_pft_rodgersyoungqbs_260521.jpg"
+        "date": "Thu, 21 May 2026 17:11:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3d1f6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1023%2F111%2Fnbc_pft_rasheericeV2_260520.jpg"
+      },
+      {
+        "title": "Lions sign LB Jack Campbell to four-year extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-lb-jack-campbell-to-four-year-extension",
+        "summary": "The Lions secure linebacker Jack Campbell with a four-year contract extension after declining his fifth-year option.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 14:00:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6157187/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F398%2Fnbc_pft_lionssched_260515.jpg"
       },
       {
         "title": "Dolphins sign OL Marques Cox, RB Carlos Washington Jr.",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-ol-marques-cox-rb-carlos-washington-jr",
-        "summary": "The Dolphins have made several roster moves, including signing offensive lineman Marques Cox and running back Carlos Washington Jr.",
+        "summary": "The Dolphins bolster their roster by signing offensive lineman Marques Cox and running back Carlos Washington Jr.",
         "source": "nbcsports.com",
         "date": "Thu, 21 May 2026 14:02:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ff75cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1018%2F731%2Fnbc_pft_nicksabandolphins_260520.jpg"
+      },
+      {
+        "title": "Bills TE Dalton Kincaid passed on knee surgery, feels \"best I’ve felt in my career\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-te-dalton-kincaid-passed-on-knee-surgery-feels-best-ive-felt-in-my-career",
+        "summary": "Bills tight end Dalton Kincaid feels rejuvenated after opting out of knee surgery, claiming he feels his best ever.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 12:29:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/20e1924/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F145%2F107%2Fnbc_pft_joshallen_260521.jpg"
+      },
+      {
+        "title": "Steelers will hold first training camp practice on July 29",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-will-hold-first-training-camp-practice-on-july-29",
+        "summary": "The Steelers announce the schedule for their upcoming training camp, starting on July 29.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 15:50:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5aa5133/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F143%2F655%2Fnbc_pft_rodgersyoungqbs_260521.jpg"
       }
     ]
   }
