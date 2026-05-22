@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-22T00:06:14.146Z",
+  "updated": "2026-05-22T04:34:36.114Z",
   "feed": {
     "VR": [
       {
         "title": "Snap Specs AR Glasses Reportedly Launch This Fall For Around $2500",
         "url": "https://www.uploadvr.com/snap-specs-ar-glasses-reportedly-launch-this-fall-for-2500/",
-        "summary": "Snap's standalone AR glasses are set to launch this fall, priced around $2500, according to tech journalist Alex Heath.",
+        "summary": "Snap Specs AR glasses are set to launch this fall at a price of around $2500, according to reports.",
         "source": "uploadvr.com",
         "date": "Thu, 21 May 2026 16:34:33 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Snap-Inc.png"
@@ -13,31 +13,15 @@
       {
         "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
         "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
-        "summary": "While Horizon Worlds and Rec Room decline, VRChat reports record usage and reassures users it is here to stay.",
+        "summary": "As Horizon Worlds and Rec Room decline, VRChat reports record usage and asserts it's not going anywhere.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 15:51:30 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
       },
       {
-        "title": "Android XR Got Auto-Spatialization, Window Wall Pinning & Hand Occlusion",
-        "url": "https://www.uploadvr.com/google-android-xr-2026-update-samsung-galaxy-xr/",
-        "summary": "Android XR's latest update introduces auto-spatialization and hand occlusion, enhancing user interaction for Samsung Galaxy XR.",
-        "source": "uploadvr.com",
-        "date": "Thu, 21 May 2026 15:51:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Android-XR-April-update.png"
-      },
-      {
-        "title": "‘Avatar: Fire and Ash’ and ‘Super Mario Galaxy Movie’ Head to Vision Pro in 3D",
-        "url": "https://www.roadtovr.com/avatar-fire-ash-super-mario-galaxy-movie-3d-release-vision-pro/",
-        "summary": "Apple confirms new 3D films, including 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie,' will be available on Vision Pro.",
-        "source": "roadtovr.com",
-        "date": "Thu, 21 May 2026 15:41:37 +0000",
-        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/avatar-fire-and-ash-341x220.jpg"
-      },
-      {
         "title": "Gracia's Moving Volumetric Captures Are Now Streamable",
         "url": "https://www.uploadvr.com/gracia-moving-volumetric-captures-now-streamable/",
-        "summary": "Gracia's volumetric captures are now streamable on Quest 3, with an Apple Vision Pro app on the way.",
+        "summary": "Gracia's volumetric captures can now be streamed directly to mixed reality devices, including Quest 3.",
         "source": "uploadvr.com",
         "date": "Tue, 19 May 2026 16:11:11 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Gracia-streamed-volumetric-scene-on-Apple-Vision-Pro-00.00.06.000.jpeg"
@@ -45,17 +29,33 @@
       {
         "title": "Google & Samsung Reveal Smart Glasses for Fall Launch, Aiming to go Head-to-head with Meta",
         "url": "https://www.roadtovr.com/google-samsung-smart-glasses-intelligent-eyewear-announcement-release-date/",
-        "summary": "Google and Samsung unveil smart glasses aimed to compete directly with Meta's offerings, set for a fall launch.",
+        "summary": "Google and Samsung unveiled smart glasses aimed to compete with Meta, set for a fall launch.",
         "source": "roadtovr.com",
         "date": "Tue, 19 May 2026 18:15:15 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1-341x220.jpg"
+      },
+      {
+        "title": "Quest's Latest PTC Update Brings Hand Tracking Home Locomotion & Custom App Sorting",
+        "url": "https://www.uploadvr.com/quest-ptc-update-adds-hand-movement-and-custom-app-sorting/",
+        "summary": "Meta's latest Quest update introduces hand tracking, custom app sorting, and crash recovery features.",
+        "source": "uploadvr.com",
+        "date": "Wed, 20 May 2026 09:26:15 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/balcony-seat.jpg"
+      },
+      {
+        "title": "‘Avatar: Fire and Ash’ and ‘Super Mario Galaxy Movie’ Head to Vision Pro in 3D",
+        "url": "https://www.roadtovr.com/avatar-fire-ash-super-mario-galaxy-movie-3d-release-vision-pro/",
+        "summary": "Apple confirms that 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie' will be available in 3D on Vision Pro.",
+        "source": "roadtovr.com",
+        "date": "Thu, 21 May 2026 15:41:37 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/avatar-fire-and-ash-341x220.jpg"
       }
     ],
     "AI": [
       {
         "title": "Spotify is launching AI-generated remixes",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-        "summary": "Spotify partners with Universal Music Group to launch AI-generated remixes, allowing users to create custom versions of songs.",
+        "summary": "Spotify has partnered with Universal Music Group to launch AI-generated remixes and covers for Premium subscribers.",
         "source": "theverge.com",
         "date": "2026-05-21T11:54:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
         "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-        "summary": "Anthropic secures a $15 billion annual deal for access to Elon Musk's data centers, enhancing its AI capabilities.",
+        "summary": "Anthropic has secured a $15 billion annual deal for access to Elon Musk's data centers.",
         "source": "theverge.com",
         "date": "2026-05-21T09:35:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "summary": "Elon Musk and Sam Altman's ongoing legal battle over OpenAI could reshape the future of AI development.",
+        "summary": "Elon Musk and Sam Altman's legal battle over OpenAI could significantly impact the future of AI development.",
         "source": "theverge.com",
         "date": "2026-05-21T16:15:18-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "Meta lays off thousands of employees to offset AI investments",
         "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-        "summary": "Meta lays off thousands of employees as it adjusts to the financial impact of its AI investments.",
+        "summary": "Meta has laid off thousands of employees as part of its strategy to fund ongoing AI investments.",
         "source": "theverge.com",
         "date": "2026-05-21T05:20:46-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "US government takes $2 billion equity stake in nine quantum computing firms",
         "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-        "summary": "The US government invests $2 billion in nine quantum computing firms, signaling a push for advancements in AI technology.",
+        "summary": "The U.S. government has taken a $2 billion equity stake in nine quantum computing firms.",
         "source": "arstechnica.com",
         "date": "Thu, 21 May 2026 13:48:38 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Report: Jack Campbell's four-year extension is worth $81 million, with $51.5 million guaranteed",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jack-campbells-four-year-extension-is-worth-81-million-with-51-5-million-guaranteed",
+        "summary": "The Lions have signed linebacker Jack Campbell to a four-year extension worth $81 million, with $51.5 million guaranteed.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 20:04:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9561d6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F142%2F179%2Fnbc_pft_fifa_260521.jpg"
+      },
+      {
         "title": "Rams, Matthew Stafford agree to one-year extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-matthew-stafford-agree-to-one-year-extension",
-        "summary": "Matthew Stafford agrees to a one-year contract extension with the Rams, ensuring his presence through 2027.",
+        "summary": "Matthew Stafford and the Rams have agreed to a one-year contract extension, keeping him under contract through 2027.",
         "source": "nbcsports.com",
         "date": "Thu, 21 May 2026 19:46:05 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d088fe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F142%2F178%2Fnbc_pft_qbstostartteam_260521.jpg"
       },
       {
-        "title": "Giants extend G.M. Joe Schoen's contract",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-extend-g-m-joe-schoens-contract",
-        "summary": "The Giants have extended G.M. Joe Schoen's contract following a significant internal overhaul.",
-        "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 19:16:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/088216b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F881%2F1019%2Fnbc_pft_harbaugh_260519.jpg"
-      },
-      {
         "title": "Aaron Rodgers sets up a Derek Jeter-style farewell tour",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-sets-up-a-derek-jeter-style-farewell-tour",
-        "summary": "Steelers quarterback Aaron Rodgers announces his final season, setting the stage for a farewell tour.",
+        "summary": "Aaron Rodgers has announced that the 2026 season will be his farewell tour, marking the end of his career.",
         "source": "nbcsports.com",
         "date": "Thu, 21 May 2026 16:43:56 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c650921/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F144%2F631%2Fnbc_pft_rodgersfinalyear_260521.jpg"
       },
       {
-        "title": "Lions sign LB Jack Campbell to four-year extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-lb-jack-campbell-to-four-year-extension",
-        "summary": "The Lions sign linebacker Jack Campbell to a four-year extension, securing his future with the team.",
+        "title": "With Olympics looming, USA Football hires Marcel Reece for a key role",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-olympics-looming-usa-football-hires-marcel-reece-for-a-key-role",
+        "summary": "USA Football has hired Marcel Reece to play a key role in assembling the 2028 Olympics flag football team.",
         "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 14:00:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6157187/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F398%2Fnbc_pft_lionssched_260515.jpg"
+        "date": "Thu, 21 May 2026 20:37:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/466847b/2147483647/strip/false/crop/610x343+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F95%2F21e518a1a5d7992215a78e8e336f%2Fm-reece.jpg"
       },
       {
         "title": "Chiefs sign 2026 second-round pick R Mason Thomas",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-sign-2026-second-round-pick-r-mason-thomas",
-        "summary": "The Chiefs have officially signed their 2026 second-round draft pick, R Mason Thomas.",
+        "summary": "The Chiefs have signed their 2026 second-round draft pick, R Mason Thomas, to a contract.",
         "source": "nbcsports.com",
         "date": "Thu, 21 May 2026 17:11:19 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/3d1f6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1023%2F111%2Fnbc_pft_rasheericeV2_260520.jpg"
       },
       {
-        "title": "Dolphins sign OL Marques Cox, RB Carlos Washington Jr.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-ol-marques-cox-rb-carlos-washington-jr",
-        "summary": "The Dolphins have made several roster moves, including signing offensive lineman Marques Cox and running back Carlos Washington Jr.",
+        "title": "Bears say they have \"exhausted every opportunity to stay in Chicago\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-say-they-have-exhausted-every-opportunity-to-stay-in-chicago",
+        "summary": "The Bears have announced they have exhausted all opportunities to remain in Chicago, indicating a potential move.",
         "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 14:02:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ff75cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1018%2F731%2Fnbc_pft_nicksabandolphins_260520.jpg"
+        "date": "Thu, 21 May 2026 21:31:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d088fe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F142%2F178%2Fnbc_pft_qbstostartteam_260521.jpg"
       }
     ]
   }
