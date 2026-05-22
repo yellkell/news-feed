@@ -1,27 +1,19 @@
 {
-  "updated": "2026-05-22T21:34:51.286Z",
+  "updated": "2026-05-22T22:40:30.179Z",
   "feed": {
     "VR": [
       {
         "title": "Real Madrid Turns Club Atmosphere Into One of Apple Immersive's Biggest Wins",
         "url": "https://www.uploadvr.com/real-madrid-apple-immersive-documentary/",
-        "summary": "Real Madrid's immersive production 'The Weight of Greatness' offers Vision Pro users exclusive behind-the-scenes access, marking a significant achievement for Apple Immersive.",
+        "summary": "Real Madrid's immersive production 'The Weight of Greatness' offers Vision Pro users exclusive behind-the-scenes access to the iconic football club.",
         "source": "uploadvr.com",
         "date": "Fri, 22 May 2026 09:00:36 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/RealMadrid_KeyArt-withBranding_2400x1350.png"
       },
       {
-        "title": "Neolithic Dawn Hearthfire Update Brings Base Building & More Next Month",
-        "url": "https://www.uploadvr.com/neolithic-dawn-hearthfire-update-brings-base-building-more-nex/",
-        "summary": "Neolithic Dawn's upcoming Hearthfire update will introduce base building and new features next month for Quest and PC VR users.",
-        "source": "uploadvr.com",
-        "date": "Fri, 22 May 2026 11:00:56 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/neolithic-dawn-update.png"
-      },
-      {
         "title": "Psychedelic Escape Room Horror Game Dark Trip To Get A Hybrid Steam Port",
         "url": "https://www.uploadvr.com/psychedelic-escape-room-horror-game-dark-trip-to-get-a-hybrid-steam-port/",
-        "summary": "The psychedelic escape room horror game Dark Trip will launch a hybrid Steam port, expanding its reach beyond Quest.",
+        "summary": "The psychedelic horror game Dark Trip will launch on Steam with both VR and flatscreen support, expanding its reach beyond Quest.",
         "source": "uploadvr.com",
         "date": "Fri, 22 May 2026 11:00:58 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/DT_Keyart_7_Ritual_Express_04_2.png"
@@ -29,33 +21,41 @@
       {
         "title": "Evil Inside VR Creators Reveal Their Next Game, Order 13 VR",
         "url": "https://www.uploadvr.com/evil-inside-vr-creators-reveal-their-next-game-order-13-vr/",
-        "summary": "The creators of Evil Inside VR have announced their next project, Order 13 VR, a horror game set to release on multiple platforms.",
+        "summary": "The creators of Evil Inside VR have announced their next title, Order 13 VR, a horror game set in an eerie warehouse.",
         "source": "uploadvr.com",
         "date": "Fri, 22 May 2026 11:00:18 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/order-13-vr-header-image-1.png"
       },
       {
-        "title": "Cozy Worlds Together Is A Free Multiplayer Companion App Coming To Quest",
-        "url": "https://www.uploadvr.com/cozy-worlds-together-is-a-free-multiplayer-companion-app-coming-to-quest/",
-        "summary": "Cozy Worlds Together, a free multiplayer app for Quest, will allow up to 12 players to explore user-created environments together.",
+        "title": "Survive The Night Is A VR Co-op Roguelite From The Developers of Into Black & Resist",
+        "url": "https://www.uploadvr.com/survive-the-night-is-a-vr-co-op-roguelite-from-the-developers-of-into-black-resist/",
+        "summary": "Survive The Night, a free-to-play co-op roguelite, is set to launch on Meta Quest, developed by The Binary Mill.",
         "source": "uploadvr.com",
-        "date": "Fri, 22 May 2026 11:00:44 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/cwt_main_capsule_comingSoon_v1-landscape.png"
+        "date": "Fri, 22 May 2026 11:00:49 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/StN_keyart_RuffTalkShowcase--2-.png"
       },
       {
         "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
         "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
-        "summary": "As Horizon Worlds and Rec Room decline, VRChat reports record usage, asserting its position as a leading platform in the VR space.",
+        "summary": "As Horizon Worlds and Rec Room retract, VRChat reports record usage, asserting its position in the VR landscape.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 15:51:30 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
+      },
+      {
+        "title": "‘Avatar: Fire and Ash’ and ‘Super Mario Galaxy Movie’ Head to Vision Pro in 3D",
+        "url": "https://www.roadtovr.com/avatar-fire-ash-super-mario-galaxy-movie-3d-release-vision-pro/",
+        "summary": "Apple's Vision Pro will feature 3D theatrical releases, including 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie'.",
+        "source": "roadtovr.com",
+        "date": "Thu, 21 May 2026 15:41:37 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/avatar-fire-and-ash-341x220.jpg"
       }
     ],
     "AI": [
       {
         "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "summary": "Elon Musk and Sam Altman's ongoing legal battle over OpenAI could significantly impact the future direction of AI development and ChatGPT.",
+        "summary": "Elon Musk and Sam Altman's legal battle over OpenAI could significantly impact the future direction of the AI landscape.",
         "source": "theverge.com",
         "date": "2026-05-21T16:15:18-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Spotify is launching AI-generated remixes",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-        "summary": "Spotify has announced a licensing deal enabling AI-generated remixes and covers for songs, available as a paid feature for Premium users.",
+        "summary": "Spotify is launching a new feature allowing Premium users to create AI-generated remixes and covers of popular songs.",
         "source": "theverge.com",
         "date": "2026-05-21T11:54:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
         "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-        "summary": "Spotify Studio launches an AI app that creates personalized daily podcasts and playlists based on user data, enhancing the listening experience.",
+        "summary": "Spotify Studio introduces an AI agent that generates personalized daily podcasts and playlists based on user preferences.",
         "source": "theverge.com",
         "date": "2026-05-21T11:47:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "A hacker group is poisoning open source code at an unprecedented scale",
         "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
-        "summary": "A hacker group is executing unprecedented software supply chain attacks, with GitHub being one of the latest victims.",
+        "summary": "A hacker group has launched a series of unprecedented software supply chain attacks, targeting open source code repositories.",
         "source": "arstechnica.com",
         "date": "Fri, 22 May 2026 10:30:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg"
@@ -87,68 +87,68 @@
       {
         "title": "US government takes $2 billion equity stake in nine quantum computing firms",
         "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-        "summary": "The US government has invested $2 billion in nine quantum computing firms, signaling a significant push in advancing quantum technologies.",
+        "summary": "The US government has made a $2 billion equity investment in nine quantum computing firms to bolster technological advancements.",
         "source": "arstechnica.com",
         "date": "Thu, 21 May 2026 13:48:38 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
       },
       {
-        "title": "The literary world isn’t prepared for AI",
-        "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-        "summary": "An AI-generated story has raised concerns in the literary community, highlighting the challenges of integrating AI into creative writing.",
+        "title": "Spotify says its AI remix tool is for superfans, but I’m not convinced",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+        "summary": "Spotify's new AI remix tool aims to cater to superfans, despite concerns over the quality of AI-generated music.",
         "source": "theverge.com",
-        "date": "2026-05-22T10:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257664_7_writing_apps_CVirginia.gif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-05-22T10:20:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Lions ink All-Pro LB Campbell to 4-year extension",
-        "url": "https://www.espn.com/nfl/story/_/id/48836875/lions-sign-all-pro-lb-jack-campbell-four-year-extension",
-        "summary": "The Detroit Lions have signed All-Pro linebacker Jack Campbell to a four-year extension worth $81 million, solidifying his role through 2030.",
-        "source": "espn.com",
-        "date": "Fri, 22 May 2026 17:07:04 EST",
-        "image": ""
+        "title": "Report: Jack Campbell's four-year extension is worth $81 million, with $51.5 million guaranteed",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jack-campbells-four-year-extension-is-worth-81-million-with-51-5-million-guaranteed",
+        "summary": "The Lions have signed linebacker Jack Campbell to a four-year extension worth $81 million, including $51.5 million guaranteed.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 20:04:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1cf7631/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F266%2F703%2Fnbc_pft_campbelldeal_260522.jpg"
       },
       {
-        "title": "Sources: Stafford lands 1-year, $55M extension",
-        "url": "https://www.espn.com/nfl/story/_/id/48839342/sources-matthew-stafford-rams-reach-1-year-55m-extension",
-        "summary": "Matthew Stafford has reached a one-year, $55 million extension with the Rams, ensuring his presence in Los Angeles through 2027.",
-        "source": "espn.com",
-        "date": "Fri, 22 May 2026 17:07:03 EST",
-        "image": ""
+        "title": "Rams, Matthew Stafford agree to one-year extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-matthew-stafford-agree-to-one-year-extension",
+        "summary": "Matthew Stafford has agreed to a one-year contract extension with the Rams, securing his place through 2027.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 19:46:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d40c7cd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F258%2F895%2Fnbc_pft_staffordextended_260522.jpg"
       },
       {
-        "title": "Source: Giants give GM Schoen multiyear deal",
-        "url": "https://www.espn.com/nfl/story/_/id/48839144/source-giants-give-gm-joe-schoen-multiyear-extension",
-        "summary": "The New York Giants have agreed to a multiyear extension with general manager Joe Schoen, securing leadership stability.",
-        "source": "espn.com",
-        "date": "Fri, 22 May 2026 17:07:04 EST",
-        "image": ""
+        "title": "\"Teddy Bridgewater Act\" becomes law in Florida",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teddy-bridgewater-act-becomes-law-in-florida",
+        "summary": "Florida has passed the 'Teddy Bridgewater Act,' allowing high-school coaches to spend $15,000 on player support services.",
+        "source": "nbcsports.com",
+        "date": "Fri, 22 May 2026 14:26:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1cf7631/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F266%2F703%2Fnbc_pft_campbelldeal_260522.jpg"
       },
       {
-        "title": "Source: Giants DL Robertson-Harris tears Achilles",
-        "url": "https://www.espn.com/nfl/story/_/id/48843258/source-giants-dl-roy-robertson-harris-tears-achilles",
-        "summary": "Giants defensive lineman Roy Robertson-Harris suffered a torn Achilles during OTA workouts and is expected to miss the entire 2026 season.",
-        "source": "espn.com",
-        "date": "Fri, 22 May 2026 17:07:04 EST",
-        "image": ""
+        "title": "Giants' Roy Robertson-Harris suffers torn Achilles at OTAs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-roy-robertson-harris-suffers-torn-achilles-at-otas",
+        "summary": "Giants defensive lineman Roy Robertson-Harris has suffered a torn Achilles during Organized Team Activities.",
+        "source": "nbcsports.com",
+        "date": "Fri, 22 May 2026 07:59:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d556df0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F144%2F631%2Fnbc_pft_qbsandints_260521.jpg"
       },
       {
-        "title": "Source: Brissett, Cardinals not close on new deal",
-        "url": "https://www.espn.com/nfl/story/_/id/48846780/jacoby-brissett-not-close-reworked-deal-cardinals",
-        "summary": "Negotiations between the Arizona Cardinals and quarterback Jacoby Brissett for a new deal remain stalled, according to sources.",
-        "source": "espn.com",
-        "date": "Fri, 22 May 2026 17:07:04 EST",
-        "image": ""
+        "title": "Report: Cardinals and Jacoby Brissett are \"significantly\" far apart in negotiations",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-cardinals-and-jacoby-brissett-are-significantly-far-apart-in-negotiations",
+        "summary": "Negotiations between the Cardinals and quarterback Jacoby Brissett are reportedly at a significant impasse.",
+        "source": "nbcsports.com",
+        "date": "Fri, 22 May 2026 17:53:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c289e6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F505%2F543%2FUSATSI_27865809.jpg"
       },
       {
-        "title": "Eagles LB Smith arrested after car clocked at 135",
-        "url": "https://www.espn.com/nfl/story/_/id/48832227/police-arrest-eagles-nolan-smith-car-clocked-135-mph-georgia",
-        "summary": "Eagles linebacker Nolan Smith Jr. was arrested for speeding and reckless driving after being clocked at 135 mph in Georgia.",
-        "source": "espn.com",
-        "date": "Fri, 22 May 2026 17:07:04 EST",
-        "image": ""
+        "title": "Bengals are favored in 15 of 17 regular-season games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-are-favored-in-15-of-17-regular-season-games",
+        "summary": "The Bengals are favored to win 15 of their 17 regular-season games, increasing pressure for a playoff return.",
+        "source": "nbcsports.com",
+        "date": "Thu, 21 May 2026 23:24:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9aad357/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F141%2F203%2Fnbc_pft_joeburrow_260521.jpg"
       }
     ]
   }
