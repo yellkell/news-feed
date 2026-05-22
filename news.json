@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T18:03:26.880Z",
+  "updated": "2026-05-22T20:07:04.638Z",
   "feed": {
     "VR": [
       {
@@ -11,67 +11,59 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/RealMadrid_KeyArt-withBranding_2400x1350.png"
       },
       {
-        "title": "Snap Specs True AR Glasses Reportedly Launch This Fall For Around $2500",
-        "url": "https://www.uploadvr.com/snap-specs-ar-glasses-reportedly-launch-this-fall-for-2500/",
-        "summary": "Snap Specs true AR glasses are set to launch this fall, priced around $2500, promising a new level of augmented reality experience.",
-        "source": "uploadvr.com",
-        "date": "Thu, 21 May 2026 16:34:33 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Snap-Inc.png"
-      },
-      {
-        "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
-        "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
-        "summary": "As Horizon Worlds and Rec Room close, VRChat reports record usage, asserting its stability and growth in the VR landscape.",
-        "source": "uploadvr.com",
-        "date": "Wed, 20 May 2026 15:51:30 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
-      },
-      {
         "title": "Evil Inside VR Creators Reveal Their Next Game, Order 13 VR",
         "url": "https://www.uploadvr.com/evil-inside-vr-creators-reveal-their-next-game-order-13-vr/",
-        "summary": "The creators of Evil Inside VR announced their next title, Order 13 VR, a horror game set in an eerie warehouse environment.",
+        "summary": "The creators of Evil Inside VR have announced their next game, Order 13 VR, a horror experience set in an eerie warehouse environment.",
         "source": "uploadvr.com",
         "date": "Fri, 22 May 2026 11:00:18 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/order-13-vr-header-image-1.png"
       },
       {
+        "title": "Psychedelic Escape Room Horror Game Dark Trip To Get A Hybrid Steam Port",
+        "url": "https://www.uploadvr.com/psychedelic-escape-room-horror-game-dark-trip-to-get-a-hybrid-steam-port/",
+        "summary": "The psychedelic escape room horror game Dark Trip will transition from Early Access on Quest to a hybrid Steam port, supporting both VR and flatscreen.",
+        "source": "uploadvr.com",
+        "date": "Fri, 22 May 2026 11:00:58 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/DT_Keyart_7_Ritual_Express_04_2.png"
+      },
+      {
+        "title": "Survive The Night Is A VR Co-op Roguelite From The Developers of Into Black & Resist",
+        "url": "https://www.uploadvr.com/survive-the-night-is-a-vr-co-op-roguelite-from-the-developers-of-into-black-resist/",
+        "summary": "Survive The Night, a free-to-play co-op roguelite from The Binary Mill, is set to launch on Meta Quest, offering a unique multiplayer experience.",
+        "source": "uploadvr.com",
+        "date": "Fri, 22 May 2026 11:00:49 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/StN_keyart_RuffTalkShowcase--2-.png"
+      },
+      {
         "title": "Neolithic Dawn Hearthfire Update Brings Base Building & More Next Month",
         "url": "https://www.uploadvr.com/neolithic-dawn-hearthfire-update-brings-base-building-more-nex/",
-        "summary": "Neolithic Dawn's Hearthfire update, featuring significant base building enhancements, is scheduled for release next month on Quest and PC VR.",
+        "summary": "Neolithic Dawn is preparing to release its largest update to date next month, introducing base building and more features for Quest and PC VR users.",
         "source": "uploadvr.com",
         "date": "Fri, 22 May 2026 11:00:56 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/neolithic-dawn-update.png"
       },
       {
-        "title": "Quest's Latest PTC Update Brings Hand Tracking Home Locomotion & Custom App Sorting",
-        "url": "https://www.uploadvr.com/quest-ptc-update-adds-hand-movement-and-custom-app-sorting/",
-        "summary": "Meta's latest Quest PTC update introduces hand tracking for home locomotion and custom app sorting, enhancing user experience.",
+        "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
+        "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
+        "summary": "As Horizon Worlds and Rec Room exit the VR space, VRChat reports record usage, asserting its commitment to the platform's future.",
         "source": "uploadvr.com",
-        "date": "Wed, 20 May 2026 09:26:15 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/balcony-seat.jpg"
+        "date": "Wed, 20 May 2026 15:51:30 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
       }
     ],
     "AI": [
       {
         "title": "Spotify is launching AI-generated remixes",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-        "summary": "Spotify has partnered with Universal Music Group to launch AI-generated remixes, allowing users to create customized music experiences.",
+        "summary": "Spotify has partnered with Universal Music Group to launch an AI tool that allows Premium users to create AI-generated remixes and covers of songs.",
         "source": "theverge.com",
         "date": "2026-05-21T11:54:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
-        "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-        "summary": "Spotify Studio's new AI app generates personalized daily podcasts and playlists based on user preferences and connected apps.",
-        "source": "theverge.com",
-        "date": "2026-05-21T11:47:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "summary": "Elon Musk and Sam Altman's ongoing legal battle over OpenAI could significantly impact the future direction of AI development.",
+        "summary": "Elon Musk and Sam Altman's ongoing legal battle over OpenAI could significantly impact the future direction of AI development and ChatGPT.",
         "source": "theverge.com",
         "date": "2026-05-21T16:15:18-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,33 +71,41 @@
       {
         "title": "A hacker group is poisoning open source code at an unprecedented scale",
         "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
-        "summary": "A hacker group is conducting widespread attacks on open source code, raising concerns about software supply chain security.",
+        "summary": "A hacker group known as TeamPCP is executing unprecedented software supply chain attacks, raising concerns about the security of open source code.",
         "source": "arstechnica.com",
         "date": "Fri, 22 May 2026 10:30:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg"
       },
       {
+        "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
+        "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+        "summary": "Spotify Studio introduces an AI agent that generates personalized daily podcasts and playlists based on users' listening habits and connected apps.",
+        "source": "theverge.com",
+        "date": "2026-05-21T11:47:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "US government takes $2 billion equity stake in nine quantum computing firms",
         "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-        "summary": "The US government has invested $2 billion in nine quantum computing firms, signaling a strong commitment to advancing quantum technology.",
+        "summary": "The US government has made a $2 billion equity investment in nine quantum computing firms, signaling a strong commitment to advancing quantum technology.",
         "source": "arstechnica.com",
         "date": "Thu, 21 May 2026 13:48:38 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
       },
       {
-        "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-        "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-        "summary": "Mozilla reports that AI-assisted bug discovery has identified 271 vulnerabilities in Firefox, demonstrating the effectiveness of AI in cybersecurity.",
-        "source": "arstechnica.com",
-        "date": "Thu, 07 May 2026 19:18:16 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-1152x648.jpg"
+        "title": "Spotify says its AI remix tool is for superfans, but I’m not convinced",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+        "summary": "Spotify's new AI remix tool aims to cater to superfans, despite skepticism about the quality and originality of AI-generated music.",
+        "source": "theverge.com",
+        "date": "2026-05-22T10:20:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Report: Jack Campbell's four-year extension is worth $81 million, with $51.5 million guaranteed",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jack-campbells-four-year-extension-is-worth-81-million-with-51-5-million-guaranteed",
-        "summary": "The Lions have signed linebacker Jack Campbell to a four-year extension worth $81 million, with $51.5 million guaranteed.",
+        "summary": "The Detroit Lions have signed linebacker Jack Campbell to a four-year contract extension worth $81 million, with $51.5 million guaranteed.",
         "source": "nbcsports.com",
         "date": "Thu, 21 May 2026 20:04:10 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1cf7631/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F266%2F703%2Fnbc_pft_campbelldeal_260522.jpg"
@@ -113,42 +113,42 @@
       {
         "title": "Rams, Matthew Stafford agree to one-year extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-matthew-stafford-agree-to-one-year-extension",
-        "summary": "Matthew Stafford has agreed to a one-year contract extension with the Rams, securing his position through the 2027 season.",
+        "summary": "The Los Angeles Rams have secured MVP quarterback Matthew Stafford with a one-year contract extension, keeping him under contract through 2027.",
         "source": "nbcsports.com",
         "date": "Thu, 21 May 2026 19:46:05 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d40c7cd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F258%2F895%2Fnbc_pft_staffordextended_260522.jpg"
       },
       {
-        "title": "Bengals are favored in 15 of 17 regular-season games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-are-favored-in-15-of-17-regular-season-games",
-        "summary": "The Bengals are favored in 15 of their 17 regular-season games, intensifying expectations after three years without playoff appearances.",
+        "title": "\"Teddy Bridgewater Act\" becomes law in Florida",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teddy-bridgewater-act-becomes-law-in-florida",
+        "summary": "Florida has enacted the 'Teddy Bridgewater Act,' allowing high school coaches to spend $15,000 on player food, transportation, and recovery.",
         "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 23:24:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9aad357/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F141%2F203%2Fnbc_pft_joeburrow_260521.jpg"
-      },
-      {
-        "title": "Derrick Brown: People don’t want to admit how wrong they were about Bryce Young",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-brown-people-dont-want-to-admit-how-wrong-they-were-about-bryce-young",
-        "summary": "Derrick Brown believes critics underestimated Bryce Young, as the Panthers made the postseason for the first time since 2017.",
-        "source": "nbcsports.com",
-        "date": "Fri, 22 May 2026 12:38:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d736d21/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F763%2Fnbc_pft_bryce_young_260416.jpg"
+        "date": "Fri, 22 May 2026 14:26:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1cf7631/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F266%2F703%2Fnbc_pft_campbelldeal_260522.jpg"
       },
       {
         "title": "Giants' Roy Robertson-Harris suffers torn Achilles at OTAs",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-roy-robertson-harris-suffers-torn-achilles-at-otas",
-        "summary": "Giants defensive lineman Roy Robertson-Harris has suffered a torn Achilles during Organized Team Activities, impacting the team's defensive depth.",
+        "summary": "The New York Giants have suffered a significant loss as defensive lineman Roy Robertson-Harris has been diagnosed with a torn Achilles.",
         "source": "nbcsports.com",
         "date": "Fri, 22 May 2026 07:59:34 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d556df0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F144%2F631%2Fnbc_pft_qbsandints_260521.jpg"
       },
       {
-        "title": "With Olympics looming, USA Football hires Marcel Reece for a key role",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-olympics-looming-usa-football-hires-marcel-reece-for-a-key-role",
-        "summary": "USA Football has appointed Marcel Reece to a key role as it prepares for the upcoming 2028 Olympics flag football team.",
+        "title": "Derrick Brown: People don’t want to admit how wrong they were about Bryce Young",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-brown-people-dont-want-to-admit-how-wrong-they-were-about-bryce-young",
+        "summary": "Panthers linebacker Derrick Brown believes people underestimated Bryce Young's impact, following the team's return to the postseason after a lengthy absence.",
         "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 20:37:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/466847b/2147483647/strip/false/crop/610x343+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F95%2F21e518a1a5d7992215a78e8e336f%2Fm-reece.jpg"
+        "date": "Fri, 22 May 2026 12:38:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d736d21/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F763%2Fnbc_pft_bryce_young_260416.jpg"
+      },
+      {
+        "title": "Klint Kubiak wants to challenge Ashton Jeanty, get more out of him in Year 2",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-wants-to-challenge-ashton-jeanty-get-more-out-of-him-in-year-2",
+        "summary": "Raiders coach Klint Kubiak is focused on maximizing running back Ashton Jeanty's potential in his second NFL season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 22 May 2026 15:31:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2e8d865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F135%2F847%2Fnbc_pft_mendoza_260521.jpg"
       }
     ]
   }
