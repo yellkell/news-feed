@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-22T11:16:46.312Z",
+  "updated": "2026-05-22T13:41:35.188Z",
   "feed": {
     "VR": [
       {
         "title": "Snap Specs True AR Glasses Reportedly Launch This Fall For Around $2500",
         "url": "https://www.uploadvr.com/snap-specs-ar-glasses-reportedly-launch-this-fall-for-2500/",
-        "summary": "Snap's standalone true AR glasses are set to launch this fall, priced around $2500, marking a significant entry into the augmented reality market.",
+        "summary": "Snap Specs will launch standalone true AR glasses this fall, priced around $2500, promising advanced augmented reality experiences.",
         "source": "uploadvr.com",
         "date": "Thu, 21 May 2026 16:34:33 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Snap-Inc.png"
@@ -13,7 +13,7 @@
       {
         "title": "‘Avatar: Fire and Ash’ and ‘Super Mario Galaxy Movie’ Head to Vision Pro in 3D",
         "url": "https://www.roadtovr.com/avatar-fire-ash-super-mario-galaxy-movie-3d-release-vision-pro/",
-        "summary": "Apple confirms that 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie' will be available in 3D on the Vision Pro, enhancing its content library.",
+        "summary": "Apple's Vision Pro will soon feature 3D releases of 'Avatar: Fire and Ash' and 'Super Mario Galaxy Movie', enhancing its cinematic offerings.",
         "source": "roadtovr.com",
         "date": "Thu, 21 May 2026 15:41:37 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/avatar-fire-and-ash-341x220.jpg"
@@ -21,134 +21,134 @@
       {
         "title": "As Horizon & Rec Room Fold, VRChat Is Hitting Usage Records & \"Not Going Anywhere\"",
         "url": "https://www.uploadvr.com/vrchat-statement-after-rec-room-and-horizon-worlds-fold/",
-        "summary": "Despite the decline of Horizon Worlds and Rec Room, VRChat reports record usage and asserts its commitment to the VR space.",
+        "summary": "Despite the decline of Horizon Worlds and Rec Room, VRChat reports record usage and asserts its commitment to the platform's future.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 15:51:30 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/VRChat.jpg"
       },
       {
-        "title": "Five Nights At Freddy's: Secret Of The Mimic Available Now On PC VR",
-        "url": "https://www.uploadvr.com/five-nights-at-freddys-secret-of-the-mimic-available-now-on-pc-vr/",
-        "summary": "The long-awaited 'Five Nights At Freddy's: Secret Of The Mimic' is now available on PC VR, promising a thrilling experience for fans.",
-        "source": "uploadvr.com",
-        "date": "Thu, 21 May 2026 09:16:18 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/fnaf-secret-of-the-mimic-creepy.png"
-      },
-      {
         "title": "Quest's Latest PTC Update Brings Hand Tracking Home Locomotion & Custom App Sorting",
         "url": "https://www.uploadvr.com/quest-ptc-update-adds-hand-movement-and-custom-app-sorting/",
-        "summary": "Meta's latest Quest update introduces hand tracking, custom app sorting, and crash recovery, enhancing user experience in Horizon Home.",
+        "summary": "Meta's latest Quest PTC update introduces hand tracking, custom app sorting, and improved app crash recovery for users.",
         "source": "uploadvr.com",
         "date": "Wed, 20 May 2026 09:26:15 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/balcony-seat.jpg"
       },
       {
-        "title": "Apple Acquires Key Talent & Patents Behind AI Avatar Company ‘Animato’",
-        "url": "https://www.roadtovr.com/apple-acquires-avatar-animato-vision-pro-personas/",
-        "summary": "Apple has acquired key talent and patents from AI avatar company Animato, signaling a strategic move into AI-driven virtual experiences.",
+        "title": "Gracia's Moving Volumetric Captures Are Now Streamable",
+        "url": "https://www.uploadvr.com/gracia-moving-volumetric-captures-now-streamable/",
+        "summary": "Gracia's volumetric captures can now be streamed directly to mixed reality devices, including the Quest 3, enhancing user accessibility.",
+        "source": "uploadvr.com",
+        "date": "Tue, 19 May 2026 16:11:11 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Gracia-streamed-volumetric-scene-on-Apple-Vision-Pro-00.00.06.000.jpeg"
+      },
+      {
+        "title": "Google & Samsung Reveal Smart Glasses for Fall Launch, Aiming to go Head-to-head with Meta",
+        "url": "https://www.roadtovr.com/google-samsung-smart-glasses-intelligent-eyewear-announcement-release-date/",
+        "summary": "Google and Samsung revealed smart glasses set to launch this fall, aiming to compete directly with Meta's offerings.",
         "source": "roadtovr.com",
-        "date": "Wed, 20 May 2026 13:43:41 +0000",
-        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2017/07/apple-logo-anaglyph-e1779284856833-341x220.png"
+        "date": "Tue, 19 May 2026 18:15:15 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1-341x220.jpg"
       }
     ],
     "AI": [
       {
         "title": "Spotify is launching AI-generated remixes",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-        "summary": "Spotify partners with Universal Music to launch AI-generated remixes, allowing Premium subscribers to create custom music experiences.",
+        "summary": "Spotify partners with Universal Music to launch AI-generated remixes and covers, available as a paid add-on for Premium subscribers.",
         "source": "theverge.com",
         "date": "2026-05-21T11:54:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
-        "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-        "summary": "Spotify's new AI app generates personalized daily podcasts and playlists based on users' listening habits and connected apps.",
-        "source": "theverge.com",
-        "date": "2026-05-21T11:47:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
         "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-        "summary": "Anthropic secures a $15 billion deal for access to SpaceX's data centers, marking a significant partnership in the AI landscape.",
+        "summary": "Anthropic has secured a $15 billion annual deal for access to Elon Musk’s SpaceX data centers, enhancing its AI capabilities.",
         "source": "theverge.com",
         "date": "2026-05-21T09:35:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "A hacker group is poisoning open source code at an unprecedented scale",
+        "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+        "summary": "A hacker group, TeamPCP, is conducting widespread attacks on open source code, raising significant security concerns.",
+        "source": "arstechnica.com",
+        "date": "Fri, 22 May 2026 10:30:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg"
+      },
+      {
         "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "summary": "Elon Musk and Sam Altman's ongoing legal battle over OpenAI could reshape the future of AI development and its ethical implications.",
+        "summary": "Elon Musk and Sam Altman's legal battle over OpenAI could reshape the future of AI development and its ethical implications.",
         "source": "theverge.com",
         "date": "2026-05-21T16:15:18-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-        "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-        "summary": "The US government invests $2 billion in nine quantum computing firms, aiming to bolster the country's position in advanced technology.",
-        "source": "arstechnica.com",
-        "date": "Thu, 21 May 2026 13:48:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
+        "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
+        "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+        "summary": "Spotify Studio introduces an AI agent that generates personalized daily podcasts and playlists based on user preferences.",
+        "source": "theverge.com",
+        "date": "2026-05-21T11:47:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/spotify-studio-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "This AI guitar pedal let me roll my own effects",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-        "summary": "Polyend introduces an AI guitar pedal, allowing musicians to create custom effects and explore new sound possibilities.",
-        "source": "theverge.com",
-        "date": "2026-05-21T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268540_Polyend_Endles_TOBrien_0036.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+        "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+        "summary": "Mozilla reports 271 vulnerabilities discovered by AI-assisted tools, showcasing a commitment to improving security through advanced technology.",
+        "source": "arstechnica.com",
+        "date": "Thu, 07 May 2026 19:18:16 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2167753513-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Report: Jack Campbell's four-year extension is worth $81 million, with $51.5 million guaranteed",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jack-campbells-four-year-extension-is-worth-81-million-with-51-5-million-guaranteed",
-        "summary": "The Lions have signed linebacker Jack Campbell to a four-year extension worth $81 million, with $51.5 million guaranteed.",
-        "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 20:04:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9561d6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F142%2F179%2Fnbc_pft_fifa_260521.jpg"
+        "title": "Sources: Stafford lands 1-year, $55M extension",
+        "url": "https://www.espn.com/nfl/story/_/id/48839342/sources-matthew-stafford-rams-reach-1-year-55m-extension",
+        "summary": "Matthew Stafford has signed a one-year, $55 million extension with the Rams, securing his position through the 2027 season.",
+        "source": "espn.com",
+        "date": "Fri, 22 May 2026 08:40:02 EST",
+        "image": ""
       },
       {
-        "title": "Rams, Matthew Stafford agree to one-year extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-matthew-stafford-agree-to-one-year-extension",
-        "summary": "Matthew Stafford and the Rams agree to a one-year contract extension, keeping the MVP quarterback with the team through 2027.",
-        "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 19:46:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d088fe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F142%2F178%2Fnbc_pft_qbstostartteam_260521.jpg"
+        "title": "Lions ink All-Pro LB Campbell to 4-year extension",
+        "url": "https://www.espn.com/nfl/story/_/id/48836875/lions-sign-all-pro-lb-jack-campbell-four-year-extension",
+        "summary": "The Lions have extended All-Pro linebacker Jack Campbell for four years, worth $81 million with $51.5 million guaranteed.",
+        "source": "espn.com",
+        "date": "Fri, 22 May 2026 08:40:02 EST",
+        "image": ""
       },
       {
-        "title": "Bengals are favored in 15 of 17 regular-season games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-are-favored-in-15-of-17-regular-season-games",
-        "summary": "The Bengals are favored in 15 of their 17 regular-season games, putting pressure on them to perform after recent playoff struggles.",
-        "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 23:24:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9aad357/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F141%2F203%2Fnbc_pft_joeburrow_260521.jpg"
+        "title": "Source: Giants DL Robertson-Harris tears Achilles",
+        "url": "https://www.espn.com/nfl/story/_/id/48843258/source-giants-dl-roy-robertson-harris-tears-achilles",
+        "summary": "Giants defensive lineman Roy Robertson-Harris has torn his Achilles and is expected to miss the entire 2026 season.",
+        "source": "espn.com",
+        "date": "Fri, 22 May 2026 09:07:13 EST",
+        "image": ""
       },
       {
-        "title": "Robert Saleh: Removing all seed oils from the Titans' facility was a top priority",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-saleh-removing-all-seed-oils-from-the-titans-facility-was-a-top-priority",
-        "summary": "Titans head coach Robert Saleh prioritizes removing seed oils from the team's facility, emphasizing health and nutrition.",
-        "source": "nbcsports.com",
-        "date": "Fri, 22 May 2026 07:03:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edbf39e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F739%2F427%2Fnbc_pft_superbowlnashville_260518.jpg"
+        "title": "Source: Giants give GM Schoen multiyear deal",
+        "url": "https://www.espn.com/nfl/story/_/id/48839144/source-giants-give-gm-joe-schoen-multiyear-extension",
+        "summary": "The Giants have agreed to a multiyear extension with general manager Joe Schoen, solidifying leadership for the franchise.",
+        "source": "espn.com",
+        "date": "Fri, 22 May 2026 08:40:02 EST",
+        "image": ""
       },
       {
-        "title": "Aaron Rodgers sets up a Derek Jeter-style farewell tour",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-sets-up-a-derek-jeter-style-farewell-tour",
-        "summary": "Aaron Rodgers announces his final NFL season, setting the stage for a farewell tour reminiscent of Derek Jeter's.",
-        "source": "nbcsports.com",
-        "date": "Thu, 21 May 2026 16:43:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c650921/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F144%2F631%2Fnbc_pft_rodgersfinalyear_260521.jpg"
+        "title": "Harbaugh: Giants unsure when Nabers will return",
+        "url": "https://www.espn.com/nfl/story/_/id/48837807/harbaugh-nabers-knee-injury-not-simple-clouding-return-date",
+        "summary": "Giants coach John Harbaugh announced uncertainty regarding star receiver Malik Nabers' return from a complex knee injury.",
+        "source": "espn.com",
+        "date": "Fri, 22 May 2026 08:40:02 EST",
+        "image": ""
       },
       {
-        "title": "Sean Mannion: Jalen Hurts can do anything we ask of him",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mannion-jalen-hurts-can-do-anything-we-ask-of-him",
-        "summary": "Sean Mannion, the Eagles' new offensive coordinator, expresses confidence in Jalen Hurts' ability to execute the team's offensive strategy.",
-        "source": "nbcsports.com",
-        "date": "Fri, 22 May 2026 07:06:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a5549fc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F214%2F26%2Fnbc_pft_pats_aj_260513.jpg"
+        "title": "Bears say Chicago stadium options 'exhausted'",
+        "url": "https://www.espn.com/nfl/story/_/id/48839546/bears-reiterate-chicago-stadium-options-exhausted",
+        "summary": "The Bears have exhausted all options to remain in Chicago, indicating a potential move to suburban Illinois or Indiana.",
+        "source": "espn.com",
+        "date": "Fri, 22 May 2026 08:40:02 EST",
+        "image": ""
       }
     ]
   }
