@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T17:00:13.183Z",
+  "updated": "2026-05-27T19:28:18.336Z",
   "feed": {
     "VR": [
       {
@@ -11,25 +11,33 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/No-Man-s-Sky-The-Swarm-Update-KeyArt-4k.png"
       },
       {
-        "title": "Sony Knocks $100 Off PSVR 2 for ‘Days of Play’ Sale, Bringing Headset to Just $300",
-        "url": "https://www.roadtovr.com/sony-knocks-100-off-psvr-2-for-days-of-play-sale-bringing-headset-bundle-to-300/",
-        "summary": "Sony is offering a $100 discount on the PSVR 2 during its 'Days of Play' sale, bringing the headset's price down to $300.",
-        "source": "roadtovr.com",
-        "date": "Tue, 26 May 2026 13:15:42 +0000",
-        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2022/02/psvr-2-front2-e1779801453216-341x220.jpg"
-      },
-      {
         "title": "Demeo x DnD: Battlemarked Adds A New Standalone Adventure",
         "url": "https://www.uploadvr.com/demeo-x-dnd-battlemarked-adds-a-new-standalone-adventure/",
-        "summary": "Demeo x DnD: Battlemarked launches a new standalone adventure, expanding its immersive tabletop experience for players.",
+        "summary": "Demeo x DnD: Battlemarked launches a new standalone adventure, expanding its gameplay based on the Acquisitions Incorporated sourcebook.",
         "source": "uploadvr.com",
         "date": "Tue, 26 May 2026 16:14:10 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/demeo-battlemarked-acquisitions-incorporate-update.jpg"
       },
       {
+        "title": "Sony Knocks $100 Off PSVR 2 for ‘Days of Play’ Sale, Bringing Headset to Just $300",
+        "url": "https://www.roadtovr.com/sony-knocks-100-off-psvr-2-for-days-of-play-sale-bringing-headset-bundle-to-300/",
+        "summary": "Sony has reduced the price of the PSVR 2 by $100 to $300 as part of its annual 'Days of Play' sale.",
+        "source": "roadtovr.com",
+        "date": "Tue, 26 May 2026 13:15:42 +0000",
+        "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2022/02/psvr-2-front2-e1779801453216-341x220.jpg"
+      },
+      {
+        "title": "Multiplayer VR Hero Shooter Larcenauts Shutting Down In October",
+        "url": "https://www.uploadvr.com/vr-hero-shooter-larcenauts-shutting-down-in-october/",
+        "summary": "The multiplayer VR shooter Larcenauts will officially shut down in October, ending its 6v6 gameplay experience.",
+        "source": "uploadvr.com",
+        "date": "Tue, 26 May 2026 08:39:13 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Larcenauts_Keyart_1080_Logo.png"
+      },
+      {
         "title": "XREAL Launches AR Glasses Sub-brand That Could Cause Another Trademark Dispute",
         "url": "https://www.roadtovr.com/xreal-launches-xbx-glasses-brand-china/",
-        "summary": "XREAL has launched a new sub-brand of AR glasses in China, potentially stirring trademark disputes with its budget-friendly XBX A01 model.",
+        "summary": "XREAL has launched a new sub-brand of affordable AR glasses in China, potentially stirring trademark disputes.",
         "source": "roadtovr.com",
         "date": "Tue, 26 May 2026 10:32:44 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/xbx-xreal-colors-341x220.jpg"
@@ -37,25 +45,17 @@
       {
         "title": "‘Five Nights at Freddy’s: Secret of the Mimic’ Finally Comes to PC VR Headsets",
         "url": "https://www.roadtovr.com/five-nights-at-freddys-secrets-mimic-pc-vr-support/",
-        "summary": "Five Nights at Freddy's: Secret of the Mimic is now available on PC VR headsets, allowing players to confront its eerie challenges.",
+        "summary": "Five Nights at Freddy’s: Secret of the Mimic is now available on PC VR headsets, expanding its horror experience.",
         "source": "roadtovr.com",
         "date": "Mon, 25 May 2026 14:04:12 +0000",
         "image": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2026/05/friday-freddys-mimic-341x220.jpg"
-      },
-      {
-        "title": "Multiplayer VR Hero Shooter Larcenauts Shutting Down In October",
-        "url": "https://www.uploadvr.com/vr-hero-shooter-larcenauts-shutting-down-in-october/",
-        "summary": "The multiplayer VR hero shooter Larcenauts will officially shut down in October, marking the end of its 6v6 gameplay.",
-        "source": "uploadvr.com",
-        "date": "Tue, 26 May 2026 08:39:13 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Larcenauts_Keyart_1080_Logo.png"
       }
     ],
     "AI": [
       {
         "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
         "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-        "summary": "Robinhood is enabling users to create accounts for AI agents to trade stocks, allowing automated buying and selling on its platform.",
+        "summary": "Robinhood is allowing users to create separate accounts for AI agents to trade stocks, potentially transforming investment strategies.",
         "source": "theverge.com",
         "date": "2026-05-27T10:36:10-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "YouTube is putting AI labels where you’ll actually see them",
         "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
-        "summary": "YouTube is enhancing its AI labeling by relocating disclosures to make them more visible on both Shorts and long-form videos.",
+        "summary": "YouTube is enhancing AI labeling by relocating disclosures to increase visibility on Shorts and long-form videos.",
         "source": "theverge.com",
         "date": "2026-05-27T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/YouTube-updated-AI-labels.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,84 +71,84 @@
       {
         "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
         "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "A critical vulnerability named 'BadHost' has been discovered in the widely-used Starlette open-source package, endangering millions of AI agents.",
+        "summary": "A critical vulnerability in the Starlette open-source package threatens millions of AI agents, prompting urgent attention.",
         "source": "arstechnica.com",
         "date": "Tue, 26 May 2026 19:50:33 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
       },
       {
-        "title": "AI warfare is already here",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-        "summary": "The UN's Convention on Certain Conventional Weapons is addressing the emerging realities of AI warfare, highlighting the urgent need for regulation.",
-        "source": "theverge.com",
-        "date": "2026-05-26T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268475_AIs_red_line_JMac2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "The Pope isn’t AGI-pilled",
         "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
-        "summary": "Pope Leo XIV has released an encyclical discussing the societal implications of AI, emphasizing its impact on human rights and opportunities.",
+        "summary": "Pope Leo XIV has released an encyclical addressing the societal implications of AI, emphasizing its impact on human rights.",
         "source": "theverge.com",
         "date": "2026-05-27T08:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2214106807.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-        "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-        "summary": "The US government has made a $2 billion equity investment in nine quantum computing firms, signaling a significant commitment to the technology.",
-        "source": "arstechnica.com",
-        "date": "Thu, 21 May 2026 13:48:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
+        "title": "The AI fight brewing inside The New York Times",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+        "summary": "The New York Times is grappling with how to integrate AI into its newsroom amid ongoing debates over its role.",
+        "source": "theverge.com",
+        "date": "2026-05-27T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-1171305932.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "AI warfare is already here",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+        "summary": "The UN is addressing the realities of AI warfare as discussions on lethal autonomous systems intensify.",
+        "source": "theverge.com",
+        "date": "2026-05-26T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268475_AIs_red_line_JMac2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "More arrests are made in connection with Patrick Mahomes, Travis Kelce burglaries",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/more-arrests-are-made-in-connection-with-patrick-mahomes-travis-kelce-burglaries",
-        "summary": "Authorities have made additional arrests linked to a series of burglaries targeting NFL players, including Chiefs' Patrick Mahomes and Travis Kelce.",
-        "source": "nbcsports.com",
-        "date": "Wed, 27 May 2026 09:34:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c241dc1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F588%2F975%2Fnbc_pft_kelceswift_260526.jpg"
+        "title": "Chargers make James highest-paid safety again",
+        "url": "https://www.espn.com/nfl/story/_/id/48885409/chargers-make-derwin-james-nfl-highest-paid-safety-again",
+        "summary": "The Chargers have signed Derwin James Jr. to a three-year, $75.6 million contract extension, making him the highest-paid safety again.",
+        "source": "espn.com",
+        "date": "Wed, 27 May 2026 14:58:51 EST",
+        "image": ""
       },
       {
-        "title": "Patrick Mahomes is back on the field for OTAs after ACL repair",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-is-back-on-the-field-for-otas-after-acl-repair",
-        "summary": "Patrick Mahomes has returned to the field for OTAs following his ACL repair, indicating a strong recovery ahead of the season.",
-        "source": "nbcsports.com",
-        "date": "Tue, 26 May 2026 20:10:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3835ace/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F729%2F591%2FPatrickMahomes5-27.jpg"
+        "title": "Chiefs' Kelce joining Guardians ownership group",
+        "url": "https://www.espn.com/mlb/story/_/id/48889141/chiefs-travis-kelce-purchases-minority-stake-guardians",
+        "summary": "Chiefs tight end Travis Kelce has joined the Guardians' ownership group as a minority investor.",
+        "source": "espn.com",
+        "date": "Wed, 27 May 2026 14:58:51 EST",
+        "image": ""
       },
       {
-        "title": "Matthew Stafford gets a $5 million raise, and the Rams get control of his rights through 2027",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-gets-a-5-million-raise-and-the-rams-get-control-of-his-rights-through-2027",
-        "summary": "Matthew Stafford has received a $5 million raise, extending his contract with the Rams through 2027.",
-        "source": "nbcsports.com",
-        "date": "Wed, 27 May 2026 10:34:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d40c7cd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F258%2F895%2Fnbc_pft_staffordextended_260522.jpg"
+        "title": "Flores' discrimination suit vs. NFL can go to tria...",
+        "url": "https://www.espn.com/nfl/story/_/id/48881804/supreme-court-intervene-brian-flores-suit-vs-nfl",
+        "summary": "The Supreme Court has allowed Brian Flores' discrimination lawsuit against the NFL to proceed toward trial.",
+        "source": "espn.com",
+        "date": "Wed, 27 May 2026 14:58:51 EST",
+        "image": ""
       },
       {
-        "title": "49ers, Mac Jones agree to revised contract that includes a $300K roster bonus",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-mac-jones-agree-to-revised-contract-that-includes-a-300k-roster-bonus",
-        "summary": "The 49ers and quarterback Mac Jones have agreed to a revised contract that includes a $300,000 roster bonus.",
-        "source": "nbcsports.com",
-        "date": "Wed, 27 May 2026 08:57:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b28915/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F590%2F427%2Fnbc_pft_18gamesconvo_260526.jpg"
+        "title": "Sources: Mahomes on field for first OTA practice",
+        "url": "https://www.espn.com/nfl/story/_/id/48884510/sources-mahomes-back-field-chiefs-first-ota-practice",
+        "summary": "Patrick Mahomes returned to the field for his first OTA practice since recovering from a serious knee injury.",
+        "source": "espn.com",
+        "date": "Wed, 27 May 2026 14:58:51 EST",
+        "image": ""
       },
       {
-        "title": "Brendan Sorsby: \"I have a lot of work ahead of me\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brendan-sorsby-i-have-a-lot-of-work-ahead-of-me",
-        "summary": "Texas Tech quarterback Brendan Sorsby has completed treatment for a gambling addiction, expressing determination to move forward.",
-        "source": "nbcsports.com",
-        "date": "Wed, 27 May 2026 11:07:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/39204eb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F731%2F43%2Fnbc_pft_brendansorsby_260527.jpg"
+        "title": "Source: Jets trade returning Charles to Seahawks",
+        "url": "https://www.espn.com/nfl/story/_/id/48891916/source-jets-trade-special-teamer-irv-charles-seahawks",
+        "summary": "The Jets have traded special teams player Irv Charles to the Seahawks, confirming the move to ESPN.",
+        "source": "espn.com",
+        "date": "Wed, 27 May 2026 14:58:51 EST",
+        "image": ""
       },
       {
-        "title": "Recent amendment to Brian Flores lawsuit accuses NFL of \"culture of retaliation\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/recent-amendment-to-brian-flores-lawsuit-accuses-nfl-of-culture-of-retaliation",
-        "summary": "Brian Flores has amended his lawsuit against the NFL, alleging a culture of retaliation affecting his coaching opportunities.",
+        "title": "Matt LaFleur optimistic that Tucker Kraft will be good to go for training camp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-optimistic-that-tucker-kraft-will-be-good-to-go-for-training-camp",
+        "summary": "Packers tight end Tucker Kraft is nearing a return to training camp seven months after tearing his ACL.",
         "source": "nbcsports.com",
-        "date": "Tue, 26 May 2026 23:51:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
+        "date": "Wed, 27 May 2026 15:02:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e337cf7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F730%2F67%2Fnbc_pft_jordanlove_260527.jpg"
       }
     ]
   }
