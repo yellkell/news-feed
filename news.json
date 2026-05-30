@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-30T00:03:54.065Z",
+  "updated": "2026-05-30T04:16:16.336Z",
   "feed": {
     "VR": [
       {
         "title": "‘No Man’s Sky’ Brings Its Biggest Space Battles to Date in ‘The Swarm’ Update",
         "url": "https://roadtovr.com/no-mans-sky-brings-its-biggest-battles-to-date-in-the-swarm-update/",
-        "summary": "Hello Games launched 'The Swarm' update for No Man's Sky, introducing large-scale faction warfare and the game's biggest space battles to date.",
+        "summary": "Hello Games released 'The Swarm' update for No Man's Sky, introducing large-scale faction warfare and the game's biggest space battles to date.",
         "source": "roadtovr.com",
         "date": "Thu, 28 May 2026 14:20:02 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/nms-the-swarm.jpg?resize=1920%2C1080&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "‘Beat Saber’ Turns 8, Bringing 3 New Free Tracks to VR’s Favorite Block-slashing Rhythm Game",
         "url": "https://roadtovr.com/beat-saber-turns-8-bringing-3-new-free-tracks-to-vrs-favorite-block-slashing-rhythm-game/",
-        "summary": "To celebrate its 8th anniversary, Beat Saber released three new free tracks for players on Quest and SteamVR.",
+        "summary": "Beat Saber celebrates its 8th anniversary by adding three new free tracks, enhancing the popular rhythm game experience.",
         "source": "roadtovr.com",
         "date": "Fri, 29 May 2026 14:11:26 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/beat-saber-8th-anniversary.png?resize=1672%2C941&ssl=1"
@@ -21,7 +21,7 @@
       {
         "title": "PlayStation VR2 Gets A Discount For Sony PlayStation Days Of Play",
         "url": "https://www.uploadvr.com/playstation-vr2-gets-on-sale-for-sony-playstation-days-of-play/",
-        "summary": "PlayStation VR2 is available at a $100 discount during Sony's Days of Play event from May 27 to June 10.",
+        "summary": "PlayStation VR2 is now available at a $100 discount during Sony's Days of Play event, running from May 27 to June 10.",
         "source": "uploadvr.com",
         "date": "Fri, 29 May 2026 14:59:21 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/5533116f78ecc1da2fbe8dfe4efe98e5d4ac39e8-scaled.webp"
@@ -29,7 +29,7 @@
       {
         "title": "Little Nightmares VR: Altered Echoes Adds New Comfort Settings After Player Feedback",
         "url": "https://www.uploadvr.com/little-nightmares-vr-altered-echoes-adds-new-comfort-settings-after-player-feedback/",
-        "summary": "Little Nightmares VR: Altered Echoes updated to include new comfort settings based on player feedback.",
+        "summary": "Little Nightmares VR: Altered Echoes has added new comfort settings, including smooth turning and a PC-only toggle for the hood vignette.",
         "source": "uploadvr.com",
         "date": "Thu, 28 May 2026 08:39:45 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Little_Nightmares_VR_Altered_Echoes_KeyArt.jpg"
@@ -37,7 +37,7 @@
       {
         "title": "Multiplayer VR Hero Shooter Larcenauts Shutting Down In October",
         "url": "https://www.uploadvr.com/vr-hero-shooter-larcenauts-shutting-down-in-october/",
-        "summary": "Impulse Gear announced the shutdown of its multiplayer VR hero shooter Larcenauts, effective October.",
+        "summary": "Impulse Gear's multiplayer VR hero shooter Larcenauts is officially shutting down in October, marking the end of its service.",
         "source": "uploadvr.com",
         "date": "Tue, 26 May 2026 08:39:13 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Larcenauts_Keyart_1080_Logo.png"
@@ -45,7 +45,7 @@
       {
         "title": "‘Five Nights at Freddy’s: Secret of the Mimic’ Finally Comes to PC VR Headsets",
         "url": "https://roadtovr.com/five-nights-at-freddys-secrets-mimic-pc-vr-support/",
-        "summary": "Five Nights at Freddy's: Secret of the Mimic has finally launched on PC VR headsets, allowing players to confront its robotic horrors.",
+        "summary": "Five Nights at Freddy’s: Secret of the Mimic has launched SteamVR support, allowing players to experience the horror on PC VR headsets.",
         "source": "roadtovr.com",
         "date": "Mon, 25 May 2026 14:04:12 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/friday-freddys-mimic.jpg?resize=1920%2C1080&ssl=1"
@@ -55,39 +55,31 @@
       {
         "title": "A $2,000 AI-generated film will make its debut at Tribeca",
         "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-        "summary": "The Tribeca Festival will debut 'Dreams of Violets,' a 75-minute AI-generated film about the Iranian government's mass killings.",
+        "summary": "An AI-generated film titled 'Dreams of Violets' will premiere at the Tribeca Festival, depicting the Iranian government's mass killing of protestors.",
         "source": "theverge.com",
         "date": "2026-05-28T12:08:45-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-dreams-of-violets.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Tech companies desperately want to film you doing chores",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+        "summary": "AI startup Shift offers free home cleaning services in exchange for footage to train future robots, expanding its operations to multiple cities.",
+        "source": "theverge.com",
+        "date": "2026-05-29T13:37:43-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
         "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-        "summary": "Microsoft's revamped 365 Copilot now features a cleaner design and improved speed, promising faster and more reliable responses.",
+        "summary": "Microsoft is rolling out an updated version of Microsoft 365 Copilot with a cleaner design and faster response times.",
         "source": "theverge.com",
         "date": "2026-05-28T16:14:07-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Botnet of more than 17 million devices dismantled",
-        "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
-        "summary": "A botnet of over 17 million devices linked to a Russian proxy network has been dismantled.",
-        "source": "arstechnica.com",
-        "date": "Fri, 29 May 2026 18:46:33 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/botnet6.jpg"
-      },
-      {
-        "title": "This AI startup will clean your home for free to train future robots",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-        "summary": "AI startup Shift offers free home cleaning services in exchange for footage to train future robots.",
-        "source": "theverge.com",
-        "date": "2026-05-29T07:58:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Claude’s new model is more ‘honest’ when it messes up",
         "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-        "summary": "Anthropic's Claude Opus 4.8 model focuses on improved honesty in AI responses, addressing common model inaccuracies.",
+        "summary": "Anthropic is releasing Claude Opus 4.8, emphasizing the model's improved honesty in its responses and error handling.",
         "source": "theverge.com",
         "date": "2026-05-28T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,17 +87,25 @@
       {
         "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
         "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
-        "summary": "CNN has filed a lawsuit against Perplexity for allegedly generating verbatim copies of its articles using AI.",
+        "summary": "CNN has filed a lawsuit against Perplexity for allegedly generating 'verbatim' copies of its articles using AI tools.",
         "source": "theverge.com",
         "date": "2026-05-28T10:08:36-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK_Cnn_K_Radtke_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+        "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+        "summary": "A critical vulnerability named 'BadHost' has been discovered in the popular open-source package Starlette, affecting millions of AI agents.",
+        "source": "arstechnica.com",
+        "date": "Tue, 26 May 2026 19:50:33 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
       }
     ],
     "NFL": [
       {
         "title": "Seahawks agree to terms with first-rounder Jadarian Price",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-agree-to-terms-with-first-rounder-jadarian-price",
-        "summary": "The Seahawks have signed first-round draft pick Jadarian Price to his rookie contract.",
+        "summary": "The Seattle Seahawks have agreed to terms with first-round draft pick Jadarian Price, finalizing his entry into the NFL.",
         "source": "nbcsports.com",
         "date": "Fri, 29 May 2026 16:50:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e892719/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F679%2Fnbc_pft_darnoldconvo_260522.jpg"
@@ -113,42 +113,42 @@
       {
         "title": "Giants sign first-round pick Arvell Reese",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-first-round-pick-arvell-reese",
-        "summary": "The Giants secured their first-round pick Arvell Reese by finalizing his contract.",
+        "summary": "The New York Giants have signed their first-round pick Arvell Reese, securing their top draft selection for the upcoming season.",
         "source": "nbcsports.com",
         "date": "Fri, 29 May 2026 15:37:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/0cc8486/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F595%2F307%2Fnbc_pft_maliknabers_260526.jpg"
       },
       {
-        "title": "Lamar Jackson continues to hold the cards in contract talks with the Ravens",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-continues-to-hold-the-cards-in-contract-talks-with-the-ravens",
-        "summary": "Lamar Jackson remains a pivotal figure in contract negotiations with the Ravens after becoming the NFL's highest-paid player.",
+        "title": "WR Gunner Olszewski carted off at Giants OTAs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-gunner-olszewski-carted-off-at-giants-otas",
+        "summary": "Giants receiver Gunner Olszewski was carted off the field during OTA practice, raising concerns about a potential injury.",
         "source": "nbcsports.com",
-        "date": "Fri, 29 May 2026 06:02:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6fb8f80/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F855%2F567%2Fnbc_pft_lamarjacksoncontractagent_260528.jpg"
+        "date": "Fri, 29 May 2026 14:20:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f35c725/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F905%2F366%2Fdnp_pft_jaxsondarttrumpv2_260528.jpg"
       },
       {
-        "title": "Patriots G Mike Onwenu agrees to pay cut for 2026 season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-g-mike-onwenu-agrees-to-pay-cut-for-2026-season",
-        "summary": "Patriots guard Mike Onwenu has agreed to a pay cut for the upcoming 2026 season.",
+        "title": "Report: Giants fear Gunner Olszewski suffered torn Achilles",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-fear-gunner-olszewski-suffered-torn-achilles",
+        "summary": "Reports indicate that the Giants fear receiver Gunner Olszewski may have suffered a torn Achilles during practice.",
         "source": "nbcsports.com",
-        "date": "Fri, 29 May 2026 09:53:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/967d4d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F994%2F231%2Fnbc_pft_mayevssea_260529.jpg"
+        "date": "Fri, 29 May 2026 14:39:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f35c725/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F905%2F366%2Fdnp_pft_jaxsondarttrumpv2_260528.jpg"
       },
       {
         "title": "Patrick Mahomes: Eric Bieniemy's return has been exciting to me",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-eric-bieniemys-return-has-been-exciting-to-me",
-        "summary": "Chiefs quarterback Patrick Mahomes expressed excitement over Eric Bieniemy's return as offensive coordinator.",
+        "summary": "Chiefs quarterback Patrick Mahomes expressed excitement over the return of Eric Bieniemy as offensive coordinator after a disappointing season.",
         "source": "nbcsports.com",
         "date": "Fri, 29 May 2026 09:53:21 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1dd65cc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F991%2F303%2Fnbc_pft_mahomesrecovery_260529.jpg"
       },
       {
-        "title": "WR Gunner Olszewski carted off at Giants OTAs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-gunner-olszewski-carted-off-at-giants-otas",
-        "summary": "Giants receiver Gunner Olszewski was carted off the field during OTAs, raising concerns about a possible injury.",
+        "title": "Patriots G Mike Onwenu agrees to pay cut for 2026 season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-g-mike-onwenu-agrees-to-pay-cut-for-2026-season",
+        "summary": "Patriots guard Mike Onwenu has agreed to a pay cut for the 2026 season, adjusting his contract with the team.",
         "source": "nbcsports.com",
-        "date": "Fri, 29 May 2026 14:20:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f35c725/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F905%2F366%2Fdnp_pft_jaxsondarttrumpv2_260528.jpg"
+        "date": "Fri, 29 May 2026 09:53:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/967d4d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F994%2F231%2Fnbc_pft_mayevssea_260529.jpg"
       }
     ]
   }
