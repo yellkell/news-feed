@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T09:28:48.242Z",
+  "updated": "2026-05-30T10:58:00.975Z",
   "feed": {
     "VR": [
       {
@@ -21,15 +21,23 @@
       {
         "title": "Little Nightmares VR: Altered Echoes Adds New Comfort Settings After Player Feedback",
         "url": "https://www.uploadvr.com/little-nightmares-vr-altered-echoes-adds-new-comfort-settings-after-player-feedback/",
-        "summary": "Little Nightmares VR: Altered Echoes has added new comfort settings, including smooth turning, based on player feedback.",
+        "summary": "Little Nightmares VR: Altered Echoes added new comfort settings based on player feedback, enhancing the gaming experience.",
         "source": "uploadvr.com",
         "date": "Thu, 28 May 2026 08:39:45 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Little_Nightmares_VR_Altered_Echoes_KeyArt.jpg"
       },
       {
+        "title": "XREAL Launches AR Glasses Sub-brand That Could Cause Another Trademark Dispute",
+        "url": "https://roadtovr.com/xreal-launches-xbx-glasses-brand-china/",
+        "summary": "XREAL launched a new sub-brand in China with affordable XR glasses, potentially sparking trademark disputes.",
+        "source": "roadtovr.com",
+        "date": "Tue, 26 May 2026 10:32:44 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-colors.jpg?resize=1920%2C1080&ssl=1"
+      },
+      {
         "title": "PlayStation VR2 Gets A Discount For Sony PlayStation Days Of Play",
         "url": "https://www.uploadvr.com/playstation-vr2-gets-on-sale-for-sony-playstation-days-of-play/",
-        "summary": "Sony is offering a $100 discount on PlayStation VR2 during its Days of Play sale, running from May 27 to June 10.",
+        "summary": "PlayStation VR2 is now available at a $100 discount during Sony's Days of Play event, running until June 10.",
         "source": "uploadvr.com",
         "date": "Fri, 29 May 2026 14:59:21 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/5533116f78ecc1da2fbe8dfe4efe98e5d4ac39e8-scaled.webp"
@@ -37,18 +45,10 @@
       {
         "title": "Multiplayer VR Hero Shooter Larcenauts Shutting Down In October",
         "url": "https://www.uploadvr.com/vr-hero-shooter-larcenauts-shutting-down-in-october/",
-        "summary": "Impulse Gear's multiplayer VR hero shooter Larcenauts will officially shut down in October.",
+        "summary": "Impulse Gear announced the shutdown of multiplayer VR hero shooter Larcenauts, set for October.",
         "source": "uploadvr.com",
         "date": "Tue, 26 May 2026 08:39:13 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Larcenauts_Keyart_1080_Logo.png"
-      },
-      {
-        "title": "XREAL Launches AR Glasses Sub-brand That Could Cause Another Trademark Dispute",
-        "url": "https://roadtovr.com/xreal-launches-xbx-glasses-brand-china/",
-        "summary": "XREAL launched a new sub-brand in China, introducing affordable XR glasses that may lead to trademark disputes.",
-        "source": "roadtovr.com",
-        "date": "Tue, 26 May 2026 10:32:44 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-colors.jpg?resize=1920%2C1080&ssl=1"
       }
     ],
     "AI": [
@@ -63,7 +63,7 @@
       {
         "title": "A $2,000 AI-generated film will make its debut at Tribeca",
         "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-        "summary": "The Tribeca Festival will debut 'Dreams of Violets,' an AI-generated film dramatizing the Iranian government's mass killings of protestors.",
+        "summary": "The Tribeca Festival will debut 'Dreams of Violets,' an AI-generated film depicting the Iranian government's mass killing of protestors.",
         "source": "theverge.com",
         "date": "2026-05-28T12:08:45-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-dreams-of-violets.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
         "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-        "summary": "Microsoft 365 Copilot is set to receive a speed boost and a cleaner design, enhancing user experience.",
+        "summary": "Microsoft is rolling out a revamped version of Microsoft 365 Copilot, featuring a cleaner design and improved speed.",
         "source": "theverge.com",
         "date": "2026-05-28T16:14:07-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "Claude’s new model is more ‘honest’ when it messes up",
         "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-        "summary": "Anthropic's new Claude Opus 4.8 model is designed to be more 'honest' about its limitations and errors.",
+        "summary": "Anthropic's Claude Opus 4.8 model is designed to be more honest about its errors, enhancing user trust.",
         "source": "theverge.com",
         "date": "2026-05-28T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -93,62 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK_Cnn_K_Radtke_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-        "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "A critical vulnerability known as 'BadHost' has been discovered in the popular open-source package Starlette, endangering millions of AI agents.",
-        "source": "arstechnica.com",
-        "date": "Tue, 26 May 2026 19:50:33 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
+        "title": "This AI startup will clean your home for free to train future robots",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+        "summary": "AI startup Shift is offering free home cleaning services to collect footage for training future robots.",
+        "source": "theverge.com",
+        "date": "2026-05-29T07:58:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Sources: Giants fear Olszewski has torn Achilles",
-        "url": "https://www.espn.com/nfl/story/_/id/48913425/giants-fear-wr-gunner-olszewski-torn-achilles-sources-say",
-        "summary": "The Giants fear that wide receiver Gunner Olszewski has suffered a torn Achilles during OTAs.",
-        "source": "espn.com",
-        "date": "Fri, 29 May 2026 17:14:04 EST",
-        "image": ""
-      },
-      {
-        "title": "49ers' Bosa 'far along' in rehab, eyes camp return...",
-        "url": "https://www.espn.com/nfl/story/_/id/48904921/49ers-bosa-making-progress-back-training-camp",
-        "summary": "49ers defensive end Nick Bosa reports significant progress in his recovery from a torn ACL, aiming for a training camp return.",
-        "source": "espn.com",
-        "date": "Fri, 29 May 2026 17:14:03 EST",
-        "image": ""
+        "title": "Seahawks agree to terms with first-rounder Jadarian Price",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-agree-to-terms-with-first-rounder-jadarian-price",
+        "summary": "The Seahawks have agreed to terms with first-round pick Jadarian Price, securing their top draft choice.",
+        "source": "nbcsports.com",
+        "date": "Fri, 29 May 2026 16:50:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e892719/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F679%2Fnbc_pft_darnoldconvo_260522.jpg"
       },
       {
         "title": "Giants sign first-round pick Arvell Reese",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-first-round-pick-arvell-reese",
-        "summary": "The Giants have officially signed their first-round draft pick, Arvell Reese, to his rookie contract.",
+        "summary": "The Giants signed their first-round pick Arvell Reese to a contract, finalizing their top selection from the draft.",
         "source": "nbcsports.com",
         "date": "Fri, 29 May 2026 15:37:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/0cc8486/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F595%2F307%2Fnbc_pft_maliknabers_260526.jpg"
       },
       {
+        "title": "Report: Giants fear Gunner Olszewski suffered torn Achilles",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-fear-gunner-olszewski-suffered-torn-achilles",
+        "summary": "Giants receiver Gunner Olszewski was carted off during OTAs, raising concerns over a potential Achilles injury.",
+        "source": "nbcsports.com",
+        "date": "Fri, 29 May 2026 14:39:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f35c725/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F905%2F366%2Fdnp_pft_jaxsondarttrumpv2_260528.jpg"
+      },
+      {
+        "title": "Patriots G Mike Onwenu agrees to pay cut for 2026 season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-g-mike-onwenu-agrees-to-pay-cut-for-2026-season",
+        "summary": "Patriots guard Mike Onwenu has accepted a pay cut for the upcoming 2026 season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 29 May 2026 09:53:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/967d4d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F994%2F231%2Fnbc_pft_mayevssea_260529.jpg"
+      },
+      {
+        "title": "Patrick Mahomes: Eric Bieniemy's return has been exciting to me",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-eric-bieniemys-return-has-been-exciting-to-me",
+        "summary": "Patrick Mahomes expressed excitement over Eric Bieniemy's return as the Chiefs' offensive coordinator.",
+        "source": "nbcsports.com",
+        "date": "Fri, 29 May 2026 09:53:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1dd65cc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F991%2F303%2Fnbc_pft_mahomesrecovery_260529.jpg"
+      },
+      {
         "title": "First open Vikings OTA reveals clear leader in quarterback competition",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/first-open-vikings-ota-reveals-clear-leader-in-quarterback-competition",
-        "summary": "The Vikings' first open OTA session revealed a clear leader in the quarterback competition, with J.J. McCarthy trailing behind Kyler Murray.",
+        "summary": "In the Vikings' first open OTA, J.J. McCarthy struggled to compete with Kyler Murray for the quarterback position.",
         "source": "nbcsports.com",
         "date": "Fri, 29 May 2026 21:31:05 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/cb9e493/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F864%2F351%2Fnbc_pft_jjmccarthy_260528.jpg"
-      },
-      {
-        "title": "Source: Steelers assistant fired for misconduct",
-        "url": "https://www.espn.com/nfl/story/_/id/48912033/sources-steelers-fire-assistant-swinton-months-job",
-        "summary": "The Steelers have fired senior special teams assistant Derius Swinton II for a violation of club policy.",
-        "source": "espn.com",
-        "date": "Fri, 29 May 2026 17:14:04 EST",
-        "image": ""
-      },
-      {
-        "title": "Reid: Jailed Rice learning life lesson right now",
-        "url": "https://www.espn.com/nfl/story/_/id/48903684/reid-chiefs-moving-forward-get-rice-caught-up",
-        "summary": "Chiefs rookie Rashee Rice is serving a 30-day jail sentence, missing voluntary workouts due to probation violations.",
-        "source": "espn.com",
-        "date": "Fri, 29 May 2026 17:14:03 EST",
-        "image": ""
       }
     ]
   }
