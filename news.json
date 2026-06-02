@@ -1,61 +1,61 @@
 {
-  "updated": "2026-06-02T21:43:58.760Z",
+  "updated": "2026-06-02T23:21:55.931Z",
   "feed": {
     "VR": [
       {
         "title": "Quest 3 Headsets Are Heading To The International Space Station",
         "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
-        "summary": "Two Quest 3 headsets are heading to the International Space Station to train astronauts for spacewalks in collaboration with the European Space Agency.",
+        "summary": "Two Quest 3 headsets are heading to the International Space Station to train astronauts for spacewalks in collaboration with Meta and the ESA.",
         "source": "uploadvr.com",
         "date": "Mon, 01 Jun 2026 08:37:21 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
       },
       {
+        "title": "KRVR Supports Apple Vision Pro's Foveated Streaming For SteamVR Games",
+        "url": "https://www.uploadvr.com/krvr-supports-apple-vision-pros-foveated-streaming-for-steamvr-games/",
+        "summary": "KRVR, a new $15 visionOS app, enables Apple Vision Pro users to play SteamVR games with foveated streaming.",
+        "source": "uploadvr.com",
+        "date": "Tue, 02 Jun 2026 15:26:52 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/KRVR-1.png"
+      },
+      {
         "title": "James Cameron’s 3D Studio Acquires 3D Camera Maker STEREOTEC",
         "url": "https://roadtovr.com/james-cameron-acquires-stereotec/",
-        "summary": "James Cameron’s Lightstorm Vision has acquired 3D camera maker STEREOTEC to enhance its production capabilities for films and immersive experiences.",
+        "summary": "James Cameron’s Lightstorm Vision has acquired 3D camera maker STEREOTEC to enhance its production capabilities.",
         "source": "roadtovr.com",
         "date": "Tue, 02 Jun 2026 14:25:50 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/lightstorm-vision-logo.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "‘Spatial’ Social XR Platform Ends Metaverse Ambitions with Enterprise Pivot",
-        "url": "https://roadtovr.com/spatial-social-xr-enterprise-pivot/",
-        "summary": "Spatial is discontinuing its creator platform and pivoting to original IP development, effectively ending its metaverse ambitions.",
-        "source": "roadtovr.com",
-        "date": "Tue, 02 Jun 2026 10:43:22 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/spatial-xr.jpg?resize=1800%2C1200&ssl=1"
+        "title": "Valve Released A (Flatscreen) 4K Steam Link visionOS App",
+        "url": "https://www.uploadvr.com/valve-released-visionos-steam-link-app-flatscreen/",
+        "summary": "Valve launched a native visionOS app for Steam Link, featuring 4K 120FPS support, eliminating the need for the iPad app.",
+        "source": "uploadvr.com",
+        "date": "Tue, 02 Jun 2026 15:44:51 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Steam-Link-on-visionOS.png"
       },
       {
         "title": "Trombone Champ: Unflattened & Maskmaker Coming To Meta Horizon+ This Month",
         "url": "https://www.uploadvr.com/meta-horizon-catalog-june-2026/",
-        "summary": "Meta Horizon+ is adding Trombone Champ: Unflattened and Maskmaker this month, bringing new games to its subscription service.",
+        "summary": "Meta Horizon+ is set to release Trombone Champ: Unflattened and Maskmaker, adding new games to its subscription service this month.",
         "source": "uploadvr.com",
         "date": "Tue, 02 Jun 2026 10:27:40 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/horizon-june-2026.png"
       },
       {
-        "title": "Beat Saber Drops Three Free New Songs For Its Eight Year Anniversary",
-        "url": "https://www.uploadvr.com/beat-saber-drops-three-free-new-songs-for-its-eight-year-anniversary/",
-        "summary": "Beat Saber celebrates its 8th anniversary by releasing three new free songs for players on Quest and SteamVR.",
-        "source": "uploadvr.com",
-        "date": "Fri, 29 May 2026 09:30:56 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/beat-saber-eight-year-anniversary.png"
-      },
-      {
-        "title": "PlayStation VR2 Gets A Discount For Sony PlayStation Days Of Play",
-        "url": "https://www.uploadvr.com/playstation-vr2-gets-on-sale-for-sony-playstation-days-of-play/",
-        "summary": "PlayStation VR2 is available at a $100 discount during Sony's Days of Play promotion from May 27 to June 10.",
-        "source": "uploadvr.com",
-        "date": "Fri, 29 May 2026 14:59:21 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/5533116f78ecc1da2fbe8dfe4efe98e5d4ac39e8-scaled.webp"
+        "title": "‘No Man’s Sky’ Brings Its Biggest Space Battles to Date in ‘The Swarm’ Update",
+        "url": "https://roadtovr.com/no-mans-sky-brings-its-biggest-battles-to-date-in-the-swarm-update/",
+        "summary": "Hello Games introduced 'The Swarm' update for No Man's Sky, featuring large-scale faction warfare and the game's biggest space battles to date.",
+        "source": "roadtovr.com",
+        "date": "Thu, 28 May 2026 14:20:02 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/nms-the-swarm.jpg?resize=1920%2C1080&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Microsoft’s first advanced reasoning AI is here",
         "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-        "summary": "Microsoft unveiled its first advanced reasoning AI model, MAI-Thinking-1, at Build 2026, marking a significant step in its AI development.",
+        "summary": "Microsoft unveiled MAI-Thinking-1, its first advanced reasoning AI model, marking a significant step in its AI development.",
         "source": "theverge.com",
         "date": "2026-06-02T14:12:44-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
         "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-        "summary": "Microsoft introduced Scout, an AI personal assistant integrated into Microsoft 365 apps, enhancing productivity for businesses.",
+        "summary": "Microsoft launched Scout, an AI personal assistant integrated into Microsoft 365 apps, enhancing productivity for businesses.",
         "source": "theverge.com",
         "date": "2026-06-02T14:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
         "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-        "summary": "Project Solara, a new OS for AI agent gadgets, was announced by Microsoft at Build 2026, designed to power agent-driven experiences.",
+        "summary": "Microsoft announced Project Solara, a new OS designed specifically for gadgets running AI agents, at Build 2026.",
         "source": "theverge.com",
         "date": "2026-06-02T13:31:02-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/projectsolara.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
         "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-        "summary": "Google's Phone app will now flag suspicious calls that appear to be from contacts, helping users avoid AI impersonation scams.",
+        "summary": "Google's Phone app will now alert users to potential AI impersonation scams, enhancing security for incoming calls.",
         "source": "theverge.com",
         "date": "2026-06-02T14:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/0.-Fake-call-detection-header.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,68 +87,68 @@
       {
         "title": "Trump signs executive order to review AI models before they’re released",
         "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-        "summary": "President Trump signed an executive order for AI companies to share models with the federal government to enhance cybersecurity and secure innovation.",
+        "summary": "President Trump signed an executive order to create a voluntary framework for AI companies to share models with the government.",
         "source": "theverge.com",
         "date": "2026-06-02T14:33:42-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft Build 2026: The 7 biggest announcements",
-        "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-        "summary": "Microsoft Build 2026 showcased major announcements, including new Surface hardware and updates to AI models and personal assistant technologies.",
+        "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
+        "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
+        "summary": "Microsoft introduced the Surface RTX Spark Dev Box, a mini PC optimized for AI development, powered by Nvidia's new Arm-based chips.",
         "source": "theverge.com",
-        "date": "2026-06-02T15:23:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-02T12:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Surface-RTX-Spark-Image-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Nick Herbig agrees to four-year extension with Steelers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-herbig-agrees-to-four-year-extension-with-steelers",
-        "summary": "Nick Herbig has agreed to a four-year extension with the Steelers, securing his future with the team.",
-        "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 16:41:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5aa5133/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F143%2F655%2Fnbc_pft_rodgersyoungqbs_260521.jpg"
+        "title": "Falcons, star WR London reach $141M extension",
+        "url": "https://www.espn.com/nfl/story/_/id/48951347/falcons-drake-london-reach-4-year-141m-extension-agent-says",
+        "summary": "The Falcons and wide receiver Drake London finalized a massive four-year, $141 million contract extension.",
+        "source": "espn.com",
+        "date": "Tue, 2 Jun 2026 19:09:03 EST",
+        "image": ""
       },
       {
-        "title": "Eagles sign RB Elijah Mitchell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-rb-elijah-mitchell",
-        "summary": "The Eagles have signed running back Elijah Mitchell to fill the roster spot left by the trade of A.J. Brown.",
-        "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 14:07:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c00c0b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F343%2F779%2Fnbc_pft_patspovbrown_260602.jpg"
+        "title": "Sources: Steelers' Herbig gets 4-year, $100M deal",
+        "url": "https://www.espn.com/nfl/story/_/id/48950830/nick-herbig-lands-four-year-100-million-extension",
+        "summary": "Steelers linebacker Nick Herbig agreed to a four-year, $100 million extension, including $42 million guaranteed.",
+        "source": "espn.com",
+        "date": "Tue, 2 Jun 2026 19:09:03 EST",
+        "image": ""
       },
       {
-        "title": "Dolphins to sign WR Jalen Reagor",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-to-sign-wr-jalen-reagor",
-        "summary": "The Dolphins are set to sign wide receiver Jalen Reagor, adding depth to their receiving corps.",
-        "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 15:01:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
+        "title": "Bucs' Godwin thought Evans' exit news was AI",
+        "url": "https://www.espn.com/nfl/story/_/id/48950798/buccaneers-godwin-believe-news-evans-exit-first",
+        "summary": "Buccaneers receiver Chris Godwin learned about Mike Evans' signing with the 49ers via social media, initially thinking it was a joke.",
+        "source": "espn.com",
+        "date": "Tue, 2 Jun 2026 19:09:03 EST",
+        "image": ""
       },
       {
-        "title": "Ja'Marr Chase: Defensive moves have raised our expectations",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-defensive-moves-have-raised-our-expectations",
-        "summary": "Bengals quarterback Joe Burrow praised the team's offseason defensive moves, calling this year's roster the most talented he's experienced.",
-        "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 16:59:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9aad357/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F141%2F203%2Fnbc_pft_joeburrow_260521.jpg"
+        "title": "Brown elated to join Pats: Feels close to 'heaven'...",
+        "url": "https://www.espn.com/nfl/story/_/id/48949971/aj-brown-elated-join-pats-moving-forward-eagles",
+        "summary": "A.J. Brown expressed his excitement about joining the Patriots, calling it a dream come true.",
+        "source": "espn.com",
+        "date": "Tue, 2 Jun 2026 19:09:03 EST",
+        "image": ""
       },
       {
-        "title": "Bengals-Bears to hold joint practice before their preseason game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-bears-to-hold-joint-practice-before-their-preseason-game",
-        "summary": "The Bengals and Bears will hold a joint practice ahead of their preseason game on August 22.",
+        "title": "Drake London, Falcons agree to a four-year, $141 million extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-london-falcons-agree-to-a-four-year-141-million-extension",
+        "summary": "Drake London’s new contract makes him the third-highest paid receiver in the NFL, with the highest average per year in Falcons history.",
         "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 16:47:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e382704/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F383%2Fnbc_pft_bears_260601.jpg"
+        "date": "Tue, 02 Jun 2026 18:38:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7d6c8e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F343%2F779%2Fnbc_pft_wilsoncbs_260602.jpg"
       },
       {
-        "title": "Howie Roseman: The loss of A.J. Brown will have to be picked up by more than one player",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-the-loss-of-a-j-brown-will-have-to-be-picked-up-by-more-than-one-player",
-        "summary": "Eagles general manager Howie Roseman stated that A.J. Brown's departure will require contributions from multiple players.",
+        "title": "49ers sign S Ashtyn Davis to a one-year deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-s-ashtyn-davis-to-a-one-year-deal",
+        "summary": "The 49ers signed safety Ashtyn Davis to a one-year deal, bolstering their defensive lineup.",
         "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 14:34:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/acabd6f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F335%2F471%2Fnbc_pft_eaglespovbrown_260602.jpg"
+        "date": "Tue, 02 Jun 2026 17:48:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/16822ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F344%2F255%2Fnbc_pft_donaldconvo_260602.jpg"
       }
     ]
   }
