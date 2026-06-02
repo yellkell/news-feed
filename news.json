@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-02T18:53:42.762Z",
+  "updated": "2026-06-02T21:43:58.760Z",
   "feed": {
     "VR": [
       {
         "title": "Quest 3 Headsets Are Heading To The International Space Station",
         "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
-        "summary": "Two Quest 3 headsets are set to be sent to the International Space Station for astronaut training, marking a collaboration between Meta and the ESA.",
+        "summary": "Two Quest 3 headsets are heading to the International Space Station to train astronauts for spacewalks in collaboration with the European Space Agency.",
         "source": "uploadvr.com",
         "date": "Mon, 01 Jun 2026 08:37:21 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
@@ -13,57 +13,65 @@
       {
         "title": "James Cameron’s 3D Studio Acquires 3D Camera Maker STEREOTEC",
         "url": "https://roadtovr.com/james-cameron-acquires-stereotec/",
-        "summary": "James Cameron’s Lightstorm Vision has acquired 3D camera maker STEREOTEC to enhance its production capabilities for immersive content.",
+        "summary": "James Cameron’s Lightstorm Vision has acquired 3D camera maker STEREOTEC to enhance its production capabilities for films and immersive experiences.",
         "source": "roadtovr.com",
         "date": "Tue, 02 Jun 2026 14:25:50 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/lightstorm-vision-logo.jpg?resize=1920%2C1080&ssl=1"
       },
       {
+        "title": "‘Spatial’ Social XR Platform Ends Metaverse Ambitions with Enterprise Pivot",
+        "url": "https://roadtovr.com/spatial-social-xr-enterprise-pivot/",
+        "summary": "Spatial is discontinuing its creator platform and pivoting to original IP development, effectively ending its metaverse ambitions.",
+        "source": "roadtovr.com",
+        "date": "Tue, 02 Jun 2026 10:43:22 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/spatial-xr.jpg?resize=1800%2C1200&ssl=1"
+      },
+      {
         "title": "Trombone Champ: Unflattened & Maskmaker Coming To Meta Horizon+ This Month",
         "url": "https://www.uploadvr.com/meta-horizon-catalog-june-2026/",
-        "summary": "Meta Horizon+ will feature new games this month, including Trombone Champ: Unflattened and Maskmaker, expanding its subscription offerings.",
+        "summary": "Meta Horizon+ is adding Trombone Champ: Unflattened and Maskmaker this month, bringing new games to its subscription service.",
         "source": "uploadvr.com",
         "date": "Tue, 02 Jun 2026 10:27:40 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/horizon-june-2026.png"
       },
       {
-        "title": "Acer Re-enters XR with New AR & Smart Glasses",
-        "url": "https://roadtovr.com/acer-re-enters-xr-with-new-ar-smart-glasses/",
-        "summary": "Acer has re-entered the XR market with the launch of two new AR and smart glasses after a seven-year hiatus.",
-        "source": "roadtovr.com",
-        "date": "Mon, 01 Jun 2026 10:41:54 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/acer.jpg?resize=1920%2C1080&ssl=1"
+        "title": "Beat Saber Drops Three Free New Songs For Its Eight Year Anniversary",
+        "url": "https://www.uploadvr.com/beat-saber-drops-three-free-new-songs-for-its-eight-year-anniversary/",
+        "summary": "Beat Saber celebrates its 8th anniversary by releasing three new free songs for players on Quest and SteamVR.",
+        "source": "uploadvr.com",
+        "date": "Fri, 29 May 2026 09:30:56 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/beat-saber-eight-year-anniversary.png"
       },
       {
         "title": "PlayStation VR2 Gets A Discount For Sony PlayStation Days Of Play",
         "url": "https://www.uploadvr.com/playstation-vr2-gets-on-sale-for-sony-playstation-days-of-play/",
-        "summary": "PlayStation VR2 is being offered at a $100 discount during Sony's Days of Play event, which runs until June 10.",
+        "summary": "PlayStation VR2 is available at a $100 discount during Sony's Days of Play promotion from May 27 to June 10.",
         "source": "uploadvr.com",
         "date": "Fri, 29 May 2026 14:59:21 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/5533116f78ecc1da2fbe8dfe4efe98e5d4ac39e8-scaled.webp"
-      },
-      {
-        "title": "Beat Saber Drops Three Free New Songs For Its Eight Year Anniversary",
-        "url": "https://www.uploadvr.com/beat-saber-drops-three-free-new-songs-for-its-eight-year-anniversary/",
-        "summary": "Beat Saber celebrates its 8th anniversary by releasing three new free songs, enhancing its popular rhythm game experience.",
-        "source": "uploadvr.com",
-        "date": "Fri, 29 May 2026 09:30:56 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/beat-saber-eight-year-anniversary.png"
       }
     ],
     "AI": [
       {
         "title": "Microsoft’s first advanced reasoning AI is here",
         "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-        "summary": "Microsoft unveiled its advanced reasoning AI model, MAI-Thinking-1, at Build 2026, marking a significant step in its AI development.",
+        "summary": "Microsoft unveiled its first advanced reasoning AI model, MAI-Thinking-1, at Build 2026, marking a significant step in its AI development.",
         "source": "theverge.com",
         "date": "2026-06-02T14:12:44-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+        "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+        "summary": "Microsoft introduced Scout, an AI personal assistant integrated into Microsoft 365 apps, enhancing productivity for businesses.",
+        "source": "theverge.com",
+        "date": "2026-06-02T14:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
         "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-        "summary": "Microsoft announced Project Solara, a new operating system designed specifically for gadgets running AI agents, at its Build 2026 conference.",
+        "summary": "Project Solara, a new OS for AI agent gadgets, was announced by Microsoft at Build 2026, designed to power agent-driven experiences.",
         "source": "theverge.com",
         "date": "2026-06-02T13:31:02-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/projectsolara.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,84 +79,76 @@
       {
         "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
         "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-        "summary": "Google's Phone app will now flag calls from scammers impersonating contacts, enhancing user protection against AI-driven fraud.",
+        "summary": "Google's Phone app will now flag suspicious calls that appear to be from contacts, helping users avoid AI impersonation scams.",
         "source": "theverge.com",
         "date": "2026-06-02T14:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/0.-Fake-call-detection-header.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-        "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-        "summary": "Microsoft introduced Scout, an AI personal assistant integrated into Microsoft 365 apps, aimed at improving productivity for businesses.",
+        "title": "Trump signs executive order to review AI models before they’re released",
+        "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+        "summary": "President Trump signed an executive order for AI companies to share models with the federal government to enhance cybersecurity and secure innovation.",
         "source": "theverge.com",
-        "date": "2026-06-02T14:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-02T14:33:42-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Gemini’s new AI agent is about as good as Google’s demo",
-        "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-        "summary": "Google's new AI agent, Gemini Spark, is designed to efficiently handle tasks on behalf of users, showcasing advanced capabilities.",
+        "title": "Microsoft Build 2026: The 7 biggest announcements",
+        "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+        "summary": "Microsoft Build 2026 showcased major announcements, including new Surface hardware and updates to AI models and personal assistant technologies.",
         "source": "theverge.com",
-        "date": "2026-06-01T16:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Google publishes exploit code threatening millions of Chromium users",
-        "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-        "summary": "Google published exploit code for a critical vulnerability affecting millions of Chromium users, raising security concerns.",
-        "source": "arstechnica.com",
-        "date": "Wed, 20 May 2026 19:10:36 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/chromium_logo.jpeg"
+        "date": "2026-06-02T15:23:52-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
+        "title": "Nick Herbig agrees to four-year extension with Steelers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-herbig-agrees-to-four-year-extension-with-steelers",
+        "summary": "Nick Herbig has agreed to a four-year extension with the Steelers, securing his future with the team.",
+        "source": "nbcsports.com",
+        "date": "Tue, 02 Jun 2026 16:41:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5aa5133/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F143%2F655%2Fnbc_pft_rodgersyoungqbs_260521.jpg"
+      },
+      {
         "title": "Eagles sign RB Elijah Mitchell",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-rb-elijah-mitchell",
-        "summary": "The Eagles have signed running back Elijah Mitchell, filling a roster spot opened by the trade of A.J. Brown.",
+        "summary": "The Eagles have signed running back Elijah Mitchell to fill the roster spot left by the trade of A.J. Brown.",
         "source": "nbcsports.com",
         "date": "Tue, 02 Jun 2026 14:07:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c00c0b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F343%2F779%2Fnbc_pft_patspovbrown_260602.jpg"
       },
       {
-        "title": "Seahawks, Derick Hall agree to three-year contract extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-derick-hall-agree-to-three-year-contract-extension",
-        "summary": "The Seahawks have secured a three-year contract extension for key defensive player Derick Hall, solidifying their roster.",
+        "title": "Dolphins to sign WR Jalen Reagor",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-to-sign-wr-jalen-reagor",
+        "summary": "The Dolphins are set to sign wide receiver Jalen Reagor, adding depth to their receiving corps.",
         "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 12:17:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e892719/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F679%2Fnbc_pft_darnoldconvo_260522.jpg"
+        "date": "Tue, 02 Jun 2026 15:01:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
       },
       {
-        "title": "Commanders sign TE Anthony Firkser",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-sign-te-anthony-firkser",
-        "summary": "Veteran tight end Anthony Firkser has signed with the Washington Commanders, adding depth to their tight end position.",
+        "title": "Ja'Marr Chase: Defensive moves have raised our expectations",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-defensive-moves-have-raised-our-expectations",
+        "summary": "Bengals quarterback Joe Burrow praised the team's offseason defensive moves, calling this year's roster the most talented he's experienced.",
         "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 12:46:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0888f6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F885%2F923%2Fnbc_pft_belichick_260519.jpg"
+        "date": "Tue, 02 Jun 2026 16:59:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9aad357/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F141%2F203%2Fnbc_pft_joeburrow_260521.jpg"
       },
       {
-        "title": "Colts get all of their draft class under contract",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-get-all-of-their-draft-class-under-contract",
-        "summary": "The Indianapolis Colts have successfully signed all members of their draft class to contracts ahead of the upcoming season.",
+        "title": "Bengals-Bears to hold joint practice before their preseason game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-bears-to-hold-joint-practice-before-their-preseason-game",
+        "summary": "The Bengals and Bears will hold a joint practice ahead of their preseason game on August 22.",
         "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 13:30:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9de12eb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F729%2F591%2Fnbc_pft_danieljones_260527.jpg"
+        "date": "Tue, 02 Jun 2026 16:47:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e382704/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F383%2Fnbc_pft_bears_260601.jpg"
       },
       {
-        "title": "Vic Fangio wins 2026 Dr. Z Award for lifetime achievement",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vic-fangio-wins-2026-dr-z-award-for-lifetime-achievement",
-        "summary": "Vic Fangio has been awarded the 2026 Dr. Z Award for lifetime achievement by the Pro Football Writers of America.",
+        "title": "Howie Roseman: The loss of A.J. Brown will have to be picked up by more than one player",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-the-loss-of-a-j-brown-will-have-to-be-picked-up-by-more-than-one-player",
+        "summary": "Eagles general manager Howie Roseman stated that A.J. Brown's departure will require contributions from multiple players.",
         "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 14:27:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c00c0b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F343%2F779%2Fnbc_pft_patspovbrown_260602.jpg"
-      },
-      {
-        "title": "The Myles Garrett trade has caused Aaron Donald to consider a comeback",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-myles-garrett-trade-has-caused-aaron-donald-to-consider-a-comeback",
-        "summary": "Aaron Donald is considering a comeback following the trade of Myles Garrett, which has reignited his competitive spirit.",
-        "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 14:13:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/16822ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F344%2F255%2Fnbc_pft_donaldconvo_260602.jpg"
+        "date": "Tue, 02 Jun 2026 14:34:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/acabd6f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F335%2F471%2Fnbc_pft_eaglespovbrown_260602.jpg"
       }
     ]
   }
