@@ -1,19 +1,35 @@
 {
-  "updated": "2026-06-03T07:07:06.435Z",
+  "updated": "2026-06-03T12:08:09.877Z",
   "feed": {
     "VR": [
       {
         "title": "Quest 3 Headsets Are Heading To The International Space Station",
         "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
-        "summary": "Two Quest 3 headsets are heading to the International Space Station to assist astronauts in training for spacewalks, in collaboration with Meta and the ESA.",
+        "summary": "Two Quest 3 headsets are heading to the International Space Station to train astronauts for spacewalks in collaboration with the European Space Agency.",
         "source": "uploadvr.com",
         "date": "Mon, 01 Jun 2026 08:37:21 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
       },
       {
+        "title": "This Quest Accessory Wants to Turn Your Brain Activity Into VR Avatar Control",
+        "url": "https://roadtovr.com/quest-accessory-bci-brain-activity-avatar-control/",
+        "summary": "PiEEG is launching a brain-computer interface for Quest headsets, enabling real-time avatar control via brain signals and facial micro-expressions.",
+        "source": "roadtovr.com",
+        "date": "Wed, 03 Jun 2026 10:18:55 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/pieeg-xr-box.jpg?resize=1800%2C1200&ssl=1"
+      },
+      {
+        "title": "Valve Released A (Flatscreen) 4K Steam Link visionOS App",
+        "url": "https://www.uploadvr.com/valve-released-visionos-steam-link-app-flatscreen/",
+        "summary": "Valve has released a native visionOS client for Steam Link, supporting 4K 120FPS, eliminating the need for the previous iPad app.",
+        "source": "uploadvr.com",
+        "date": "Tue, 02 Jun 2026 15:44:51 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Steam-Link-on-visionOS.png"
+      },
+      {
         "title": "KRVR Supports Apple Vision Pro's Foveated Streaming For SteamVR Games",
         "url": "https://www.uploadvr.com/krvr-supports-apple-vision-pros-foveated-streaming-for-steamvr-games/",
-        "summary": "KRVR, a new $15 visionOS app, enables users to play SteamVR games on Apple Vision Pro with foveated streaming technology.",
+        "summary": "KRVR app enables Apple Vision Pro users to play SteamVR games with foveated streaming, enhancing the gaming experience on the new headset.",
         "source": "uploadvr.com",
         "date": "Tue, 02 Jun 2026 15:26:52 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/KRVR-1.png"
@@ -21,34 +37,18 @@
       {
         "title": "James Cameron’s 3D Studio Acquires 3D Camera Maker STEREOTEC",
         "url": "https://roadtovr.com/james-cameron-acquires-stereotec/",
-        "summary": "James Cameron’s Lightstorm Vision has acquired 3D camera maker STEREOTEC to enhance its film and immersive concert productions.",
+        "summary": "James Cameron’s Lightstorm Vision has acquired 3D camera maker STEREOTEC, aiming to integrate its technology into future projects.",
         "source": "roadtovr.com",
         "date": "Tue, 02 Jun 2026 14:25:50 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/lightstorm-vision-logo.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "Trombone Champ: Unflattened & Maskmaker Coming To Meta Horizon+ This Month",
-        "url": "https://www.uploadvr.com/meta-horizon-catalog-june-2026/",
-        "summary": "Meta's subscription service, Horizon+, is set to launch new games including Trombone Champ: Unflattened and Maskmaker this month.",
-        "source": "uploadvr.com",
-        "date": "Tue, 02 Jun 2026 10:27:40 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/horizon-june-2026.png"
-      },
-      {
-        "title": "PlayStation VR2 Gets A Discount For Sony PlayStation Days Of Play",
-        "url": "https://www.uploadvr.com/playstation-vr2-gets-on-sale-for-sony-playstation-days-of-play/",
-        "summary": "PlayStation VR2 is available at a $100 discount during Sony's Days of Play event, running from May 27 to June 10.",
-        "source": "uploadvr.com",
-        "date": "Fri, 29 May 2026 14:59:21 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/5533116f78ecc1da2fbe8dfe4efe98e5d4ac39e8-scaled.webp"
-      },
-      {
-        "title": "Spatial Is Discontinuing Its Creator Platform In July",
-        "url": "https://www.uploadvr.com/spatial-is-discontinuing-its-creator-platform-in-july/",
-        "summary": "Spatial is discontinuing its creator platform to focus on original IP development, marking a significant shift in its business strategy.",
-        "source": "uploadvr.com",
-        "date": "Tue, 02 Jun 2026 14:16:16 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/spatial-header.png"
+        "title": "‘No Man’s Sky’ Brings Its Biggest Space Battles to Date in ‘The Swarm’ Update",
+        "url": "https://roadtovr.com/no-mans-sky-brings-its-biggest-battles-to-date-in-the-swarm-update/",
+        "summary": "No Man's Sky's latest update, 'The Swarm,' introduces massive space battles and community objectives as it prepares for its 10th anniversary.",
+        "source": "roadtovr.com",
+        "date": "Thu, 28 May 2026 14:20:02 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/nms-the-swarm.jpg?resize=1920%2C1080&ssl=1"
       }
     ],
     "AI": [
@@ -63,92 +63,92 @@
       {
         "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
         "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-        "summary": "Microsoft Scout, an always-on AI personal assistant, integrates with Microsoft 365 apps to streamline tasks for employees.",
+        "summary": "Microsoft introduced Scout, an AI personal assistant integrated into Microsoft 365 apps, enhancing productivity for businesses.",
         "source": "theverge.com",
         "date": "2026-06-02T14:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
-        "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-        "summary": "Microsoft announced Project Solara, a new operating system designed specifically for gadgets running AI agents, at its Build 2026 conference.",
+        "title": "Google must let publishers opt out of AI Search features, rules UK",
+        "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+        "summary": "A UK regulatory ruling mandates Google to allow online publishers to opt out of its AI Search features, increasing content control.",
         "source": "theverge.com",
-        "date": "2026-06-02T13:31:02-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/projectsolara.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-03T04:45:48-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Microsoft Build 2026: The 7 biggest announcements",
+        "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+        "summary": "Microsoft Build 2026 showcased major announcements, including new hardware and updates to in-house AI models, led by CEO Satya Nadella.",
+        "source": "theverge.com",
+        "date": "2026-06-02T15:23:52-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
         "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-        "summary": "Google's Phone app will now alert users if a scammer attempts to impersonate their contacts, enhancing security against AI-related fraud.",
+        "summary": "Google's Phone app will now alert users to potential AI impersonation scams, enhancing security against fraudulent calls.",
         "source": "theverge.com",
         "date": "2026-06-02T14:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/0.-Fake-call-detection-header.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Trump signs executive order to review AI models before they’re released",
-        "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-        "summary": "President Trump signed an executive order requiring AI companies to share their models with the government to bolster cybersecurity and innovation.",
+        "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
+        "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+        "summary": "Microsoft announced 'Project Solara,' a new OS for AI agent gadgets, designed to power agent-driven experiences.",
         "source": "theverge.com",
-        "date": "2026-06-02T14:33:42-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Microsoft Build 2026: The 7 biggest announcements",
-        "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-        "summary": "Microsoft Build 2026 kicked off with major announcements, including new hardware and updates across its AI models and services.",
-        "source": "theverge.com",
-        "date": "2026-06-02T15:23:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-02T13:31:02-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/projectsolara.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Drake London, Falcons agree to a four-year, $141 million extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-london-falcons-agree-to-a-four-year-141-million-extension",
-        "summary": "Drake London signed a four-year, $141 million extension with the Falcons, making him the third-highest paid receiver in the NFL.",
+        "summary": "Drake London signed a four-year, $141 million extension, making him the third-highest paid receiver in the league.",
         "source": "nbcsports.com",
         "date": "Tue, 02 Jun 2026 18:38:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7d6c8e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F343%2F779%2Fnbc_pft_wilsoncbs_260602.jpg"
       },
       {
+        "title": "Dolphins sign 10 of their draft picks",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-10-of-their-draft-picks",
+        "summary": "The Dolphins have signed 10 of their 2026 draft picks in a flurry of activity to finalize their roster.",
+        "source": "nbcsports.com",
+        "date": "Wed, 03 Jun 2026 06:49:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
+      },
+      {
         "title": "Sean McVay: If Aaron Donald is interested in a return, Rams are interested",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-if-aaron-donald-is-interested-in-a-return-rams-are-interested",
-        "summary": "Rams head coach Sean McVay expressed interest in bringing back Aaron Donald if he decides to return to the team.",
+        "summary": "Sean McVay expressed interest in Aaron Donald's potential return to the Rams, following Donald's recent comments on his future.",
         "source": "nbcsports.com",
         "date": "Tue, 02 Jun 2026 20:04:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/16822ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F344%2F255%2Fnbc_pft_donaldconvo_260602.jpg"
       },
       {
-        "title": "Eagles release DE Brandon Graham in a procedural move",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-release-de-brandon-graham-in-a-procedural-move",
-        "summary": "The Eagles released veteran defensive end Brandon Graham in a procedural move, marking a significant roster change.",
+        "title": "Eagles made play for Myles Garrett, but Browns wanted Jalen Carter",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-made-play-for-myles-garrett-but-browns-wanted-jalen-carter",
+        "summary": "The Eagles attempted to acquire Myles Garrett from the Browns, but Cleveland opted for a trade that included Jalen Carter.",
         "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 18:02:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c00c0b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F343%2F779%2Fnbc_pft_patspovbrown_260602.jpg"
-      },
-      {
-        "title": "49ers sign S Ashtyn Davis to a one-year deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-s-ashtyn-davis-to-a-one-year-deal",
-        "summary": "The 49ers signed safety Ashtyn Davis to a one-year contract, bolstering their defensive lineup.",
-        "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 17:48:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/16822ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F344%2F255%2Fnbc_pft_donaldconvo_260602.jpg"
-      },
-      {
-        "title": "Justin Herbert overhauling footwork as he seeks a quicker release",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-overhauling-footwork-as-he-seeks-a-quicker-release",
-        "summary": "Justin Herbert is revamping his footwork to improve his release speed under the guidance of offensive coordinator Mike McDaniel.",
-        "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 21:45:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8c214a8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_derwinjamesextension_260527.jpg"
+        "date": "Tue, 02 Jun 2026 20:00:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/98cc6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F342%2F303%2Fnbc_pft_versetrade_260602.jpg"
       },
       {
         "title": "Report: Roger Goodell will \"politely decline\" invitation to testify on Sport Broadcasting Act",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-roger-goodell-will-politely-decline-invitation-to-testify-on-sport-broadcasting-act",
-        "summary": "NFL Commissioner Roger Goodell will decline an invitation to testify on the Sports Broadcasting Act, as requested by the House Judiciary Committee.",
+        "summary": "NFL Commissioner Roger Goodell will decline an invitation to testify regarding the Sports Broadcasting Act, according to reports.",
         "source": "nbcsports.com",
         "date": "Tue, 02 Jun 2026 23:00:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/07ab11b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F187%2F1023%2Fnbc_pft_carterdartv2_260601.jpg"
+      },
+      {
+        "title": "Nick Herbig agrees to four-year extension with Steelers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-herbig-agrees-to-four-year-extension-with-steelers",
+        "summary": "Nick Herbig has agreed to a four-year extension with the Steelers, securing his future with the team.",
+        "source": "nbcsports.com",
+        "date": "Tue, 02 Jun 2026 16:41:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5aa5133/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F143%2F655%2Fnbc_pft_rodgersyoungqbs_260521.jpg"
       }
     ]
   }
