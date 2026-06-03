@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T12:08:09.877Z",
+  "updated": "2026-06-03T17:15:51.098Z",
   "feed": {
     "VR": [
       {
@@ -13,23 +13,15 @@
       {
         "title": "This Quest Accessory Wants to Turn Your Brain Activity Into VR Avatar Control",
         "url": "https://roadtovr.com/quest-accessory-bci-brain-activity-avatar-control/",
-        "summary": "PiEEG is launching a brain-computer interface for Quest headsets, enabling real-time avatar control via brain signals and facial micro-expressions.",
+        "summary": "PiEEG is launching a brain-computer interface accessory for Quest headsets, enabling real-time avatar control through brain signals and facial micro-expressions.",
         "source": "roadtovr.com",
         "date": "Wed, 03 Jun 2026 10:18:55 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/pieeg-xr-box.jpg?resize=1800%2C1200&ssl=1"
       },
       {
-        "title": "Valve Released A (Flatscreen) 4K Steam Link visionOS App",
-        "url": "https://www.uploadvr.com/valve-released-visionos-steam-link-app-flatscreen/",
-        "summary": "Valve has released a native visionOS client for Steam Link, supporting 4K 120FPS, eliminating the need for the previous iPad app.",
-        "source": "uploadvr.com",
-        "date": "Tue, 02 Jun 2026 15:44:51 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Steam-Link-on-visionOS.png"
-      },
-      {
         "title": "KRVR Supports Apple Vision Pro's Foveated Streaming For SteamVR Games",
         "url": "https://www.uploadvr.com/krvr-supports-apple-vision-pros-foveated-streaming-for-steamvr-games/",
-        "summary": "KRVR app enables Apple Vision Pro users to play SteamVR games with foveated streaming, enhancing the gaming experience on the new headset.",
+        "summary": "KRVR app allows Apple Vision Pro users to play any SteamVR game with foveated streaming, enhancing the gaming experience on the new headset.",
         "source": "uploadvr.com",
         "date": "Tue, 02 Jun 2026 15:26:52 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/KRVR-1.png"
@@ -43,12 +35,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/lightstorm-vision-logo.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "‘No Man’s Sky’ Brings Its Biggest Space Battles to Date in ‘The Swarm’ Update",
-        "url": "https://roadtovr.com/no-mans-sky-brings-its-biggest-battles-to-date-in-the-swarm-update/",
-        "summary": "No Man's Sky's latest update, 'The Swarm,' introduces massive space battles and community objectives as it prepares for its 10th anniversary.",
-        "source": "roadtovr.com",
-        "date": "Thu, 28 May 2026 14:20:02 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/nms-the-swarm.jpg?resize=1920%2C1080&ssl=1"
+        "title": "Spatial Is Discontinuing Its Creator Platform In July",
+        "url": "https://www.uploadvr.com/spatial-is-discontinuing-its-creator-platform-in-july/",
+        "summary": "Spatial is discontinuing its creator platform to focus on original IP development, marking a significant shift in its business strategy.",
+        "source": "uploadvr.com",
+        "date": "Tue, 02 Jun 2026 14:16:16 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/spatial-header.png"
+      },
+      {
+        "title": "PlayStation VR2 Gets A Discount For Sony PlayStation Days Of Play",
+        "url": "https://www.uploadvr.com/playstation-vr2-gets-on-sale-for-sony-playstation-days-of-play/",
+        "summary": "PlayStation VR2 is available at a $100 discount during Sony's Days of Play event, running from May 27 to June 10.",
+        "source": "uploadvr.com",
+        "date": "Fri, 29 May 2026 14:59:21 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/5533116f78ecc1da2fbe8dfe4efe98e5d4ac39e8-scaled.webp"
       }
     ],
     "AI": [
@@ -61,25 +61,33 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832912/STK095_MICROSOFT_2_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-        "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-        "summary": "Microsoft introduced Scout, an AI personal assistant integrated into Microsoft 365 apps, enhancing productivity for businesses.",
+        "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+        "summary": "Microsoft announced new AI initiatives at its Build conference, emphasizing its competitive stance against OpenAI with a range of innovative tools.",
         "source": "theverge.com",
-        "date": "2026-06-02T14:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Microsoft-Scout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-03T10:04:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google must let publishers opt out of AI Search features, rules UK",
         "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-        "summary": "A UK regulatory ruling mandates Google to allow online publishers to opt out of its AI Search features, increasing content control.",
+        "summary": "A UK regulatory ruling mandates Google to allow publishers to opt out of AI Search features, enhancing content control for website owners.",
         "source": "theverge.com",
         "date": "2026-06-03T04:45:48-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Amazon’s search bar will invent AI-generated products you can’t buy",
+        "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+        "summary": "Amazon's search bar now generates AI-created product images based on user descriptions, enhancing the shopping experience with visual suggestions.",
+        "source": "theverge.com",
+        "date": "2026-06-03T12:07:31-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-ai-search.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Microsoft Build 2026: The 7 biggest announcements",
         "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-        "summary": "Microsoft Build 2026 showcased major announcements, including new hardware and updates to in-house AI models, led by CEO Satya Nadella.",
+        "summary": "Microsoft's Build 2026 showcased major announcements, including new hardware and updates across its AI models and personal assistant technologies.",
         "source": "theverge.com",
         "date": "2026-06-02T15:23:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,68 +95,60 @@
       {
         "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
         "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-        "summary": "Google's Phone app will now alert users to potential AI impersonation scams, enhancing security against fraudulent calls.",
+        "summary": "Google's Phone app will now flag calls from scammers impersonating contacts, enhancing user protection against AI-driven impersonation scams.",
         "source": "theverge.com",
         "date": "2026-06-02T14:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/0.-Fake-call-detection-header.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
-        "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-        "summary": "Microsoft announced 'Project Solara,' a new OS for AI agent gadgets, designed to power agent-driven experiences.",
-        "source": "theverge.com",
-        "date": "2026-06-02T13:31:02-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/projectsolara.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Drake London, Falcons agree to a four-year, $141 million extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-london-falcons-agree-to-a-four-year-141-million-extension",
-        "summary": "Drake London signed a four-year, $141 million extension, making him the third-highest paid receiver in the league.",
+        "title": "Caleb Williams chosen for Madden 27 cover",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-chosen-for-madden-27-cover",
+        "summary": "Bears quarterback Caleb Williams has been named the cover model for Madden NFL 27, highlighting his rising star status in the league.",
         "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 18:38:40 -0400",
+        "date": "Wed, 03 Jun 2026 08:50:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7354b72/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F486%2F846%2Fnbc_pft_williamsmadden_260603.jpg"
+      },
+      {
+        "title": "Nolan Teasley will control the Vikings' 53-man roster and run football operations",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nolan-teasley-will-control-the-vikings-53-man-roster-and-run-football-operations",
+        "summary": "The Vikings have appointed Nolan Teasley as the new general manager responsible for controlling the team's 53-man roster and football operations.",
+        "source": "nbcsports.com",
+        "date": "Wed, 03 Jun 2026 12:24:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/41e547f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F168%2F979%2Fnbc_pft_vikings_foward_260601.jpg"
+      },
+      {
+        "title": "Aaron Glenn: Congrats to Russell Wilson on TV job, we're looking at QB options",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-congrats-to-russell-wilson-on-tv-job-were-looking-at-qb-options",
+        "summary": "Russell Wilson will join CBS as an analyst for The NFL Today, opting for broadcasting over a backup quarterback role with the Jets.",
+        "source": "nbcsports.com",
+        "date": "Wed, 03 Jun 2026 09:08:47 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7d6c8e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F343%2F779%2Fnbc_pft_wilsoncbs_260602.jpg"
       },
       {
         "title": "Dolphins sign 10 of their draft picks",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-10-of-their-draft-picks",
-        "summary": "The Dolphins have signed 10 of their 2026 draft picks in a flurry of activity to finalize their roster.",
+        "summary": "The Dolphins have signed 10 of their 2026 draft picks in a flurry of activity, catching up after a slow start to the signing process.",
         "source": "nbcsports.com",
         "date": "Wed, 03 Jun 2026 06:49:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
       },
       {
-        "title": "Sean McVay: If Aaron Donald is interested in a return, Rams are interested",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-if-aaron-donald-is-interested-in-a-return-rams-are-interested",
-        "summary": "Sean McVay expressed interest in Aaron Donald's potential return to the Rams, following Donald's recent comments on his future.",
+        "title": "Joey Porter Jr. doing limited work at Steelers OTAs with contract extension looming",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-doing-limited-work-at-steelers-otas-with-contract-extension-looming",
+        "summary": "Joey Porter Jr. is participating in limited work at Steelers OTAs as he seeks a contract extension amid team negotiations.",
         "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 20:04:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/16822ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F344%2F255%2Fnbc_pft_donaldconvo_260602.jpg"
-      },
-      {
-        "title": "Eagles made play for Myles Garrett, but Browns wanted Jalen Carter",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-made-play-for-myles-garrett-but-browns-wanted-jalen-carter",
-        "summary": "The Eagles attempted to acquire Myles Garrett from the Browns, but Cleveland opted for a trade that included Jalen Carter.",
-        "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 20:00:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/98cc6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F342%2F303%2Fnbc_pft_versetrade_260602.jpg"
+        "date": "Wed, 03 Jun 2026 09:43:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5aa5133/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F143%2F655%2Fnbc_pft_rodgersyoungqbs_260521.jpg"
       },
       {
         "title": "Report: Roger Goodell will \"politely decline\" invitation to testify on Sport Broadcasting Act",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-roger-goodell-will-politely-decline-invitation-to-testify-on-sport-broadcasting-act",
-        "summary": "NFL Commissioner Roger Goodell will decline an invitation to testify regarding the Sports Broadcasting Act, according to reports.",
+        "summary": "NFL Commissioner Roger Goodell is expected to decline an invitation to testify regarding the Sports Broadcasting Act, according to reports.",
         "source": "nbcsports.com",
         "date": "Tue, 02 Jun 2026 23:00:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/07ab11b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F187%2F1023%2Fnbc_pft_carterdartv2_260601.jpg"
-      },
-      {
-        "title": "Nick Herbig agrees to four-year extension with Steelers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-herbig-agrees-to-four-year-extension-with-steelers",
-        "summary": "Nick Herbig has agreed to a four-year extension with the Steelers, securing his future with the team.",
-        "source": "nbcsports.com",
-        "date": "Tue, 02 Jun 2026 16:41:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5aa5133/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F143%2F655%2Fnbc_pft_rodgersyoungqbs_260521.jpg"
       }
     ]
   }
