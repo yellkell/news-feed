@@ -1,46 +1,38 @@
 {
-  "updated": "2026-06-05T22:11:16.763Z",
+  "updated": "2026-06-05T23:37:19.078Z",
   "feed": {
     "VR": [
       {
         "title": "Snap Acquires AR Startup Illumix to Boost Next-gen ‘Specs’ Glasses",
         "url": "https://roadtovr.com/snap-acquires-illumix-specsar-glasses/",
-        "summary": "Snap has acquired AR startup Illumix to enhance its next-generation AR glasses, expanding beyond gaming into broader applications.",
+        "summary": "Snap has acquired AR startup Illumix, enhancing its capabilities for next-gen augmented reality glasses.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 14:39:38 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/09/spectacles-24-1.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "Quest 3 Headsets Are Heading To The International Space Station",
-        "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
-        "summary": "Meta is sending two Quest 3 headsets to the International Space Station to assist astronauts with training for spacewalks.",
-        "source": "uploadvr.com",
-        "date": "Mon, 01 Jun 2026 08:37:21 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
-      },
-      {
-        "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
-        "url": "https://roadtovr.com/meta-spins-out-supernatural/",
-        "summary": "Meta is spinning out its VR fitness app Supernatural into an independent company, promising fresh content and a new direction.",
-        "source": "roadtovr.com",
-        "date": "Thu, 04 Jun 2026 09:56:30 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
-      },
-      {
         "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
         "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
-        "summary": "Valve has confirmed that its standalone VR headset, Steam Frame, and Steam Machine are set to launch this summer.",
+        "summary": "Valve has confirmed a summer release for its standalone VR headset, Steam Frame, and the Steam Machine.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 08:55:10 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "X-Plane & iRacing PC VR Streaming Clients Launched For Apple Vision Pro",
-        "url": "https://www.uploadvr.com/x-plane-iracing-apple-vision-pro-pc-vr-streaming-clients-launched/",
-        "summary": "X-Plane 12 and iRacing are now playable in VR on Apple Vision Pro, integrating physical accessories using camera passthrough.",
+        "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
+        "url": "https://roadtovr.com/meta-spins-out-supernatural/",
+        "summary": "Meta has spun out its VR fitness app Supernatural into an independent company, promising fresh content for users.",
+        "source": "roadtovr.com",
+        "date": "Thu, 04 Jun 2026 09:56:30 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
+      },
+      {
+        "title": "Quest 3 Headsets Are Heading To The International Space Station",
+        "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
+        "summary": "Two Quest 3 headsets are set to be sent to the International Space Station for astronaut training.",
         "source": "uploadvr.com",
-        "date": "Wed, 03 Jun 2026 17:49:50 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/iRacing-and-X-Plane-on-Apple-Vision-Pro.png"
+        "date": "Mon, 01 Jun 2026 08:37:21 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
       },
       {
         "title": "CleanSheet Soccer 2 Heads To PlayStation VR2 Next Week",
@@ -49,13 +41,21 @@
         "source": "uploadvr.com",
         "date": "Thu, 04 Jun 2026 14:41:51 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/cleansheet-soccer-2-16x9-master-image.jpg"
+      },
+      {
+        "title": "X-Plane & iRacing PC VR Streaming Clients Launched For Apple Vision Pro",
+        "url": "https://www.uploadvr.com/x-plane-iracing-apple-vision-pro-pc-vr-streaming-clients-launched/",
+        "summary": "X-Plane 12 and iRacing are now playable in VR on Apple Vision Pro, enhancing the gaming experience with physical accessories.",
+        "source": "uploadvr.com",
+        "date": "Wed, 03 Jun 2026 17:49:50 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/iRacing-and-X-Plane-on-Apple-Vision-Pro.png"
       }
     ],
     "AI": [
       {
         "title": "AI leaders call for tougher protections against AI-aided bioweapons",
         "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-        "summary": "AI industry leaders are urging Congress to implement stricter regulations to prevent the use of AI in developing bioweapons.",
+        "summary": "AI industry leaders are urging US lawmakers to implement stricter regulations to prevent the use of AI in developing bioweapons.",
         "source": "theverge.com",
         "date": "2026-06-04T08:12:12-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Amazon develops a warehouse robot that workers can speak to",
         "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-        "summary": "Amazon has unveiled an AI-powered warehouse robot, Proteus, which can interact with workers using natural language.",
+        "summary": "Amazon has unveiled an AI-powered warehouse robot, Proteus, that can communicate with workers using natural language.",
         "source": "theverge.com",
         "date": "2026-06-04T05:31:14-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
         "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-        "summary": "TSMC is struggling to meet soaring AI demand, highlighting challenges in the semiconductor supply chain.",
+        "summary": "TSMC is struggling to meet the soaring demand for AI chips, despite expanding its production capabilities in the US.",
         "source": "theverge.com",
         "date": "2026-06-04T10:15:44-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "New York lawmakers pass one-year ban on new data centers",
         "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-        "summary": "New York lawmakers have passed a one-year moratorium on new large data centers to assess their environmental impact.",
+        "summary": "New York lawmakers have passed a one-year moratorium on new large data centers to assess environmental impacts.",
         "source": "theverge.com",
         "date": "2026-06-05T11:25:10-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "This AI startup says it can tell if a script will make a hit film",
         "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-        "summary": "AI startup Quilty claims its tool can predict a film's success by analyzing scripts, though skepticism remains.",
+        "summary": "AI startup Quilty claims it can predict a film's success by analyzing scripts, but early testers remain skeptical.",
         "source": "theverge.com",
         "date": "2026-06-05T09:57:31-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "This is your laptop… on AI",
         "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-        "summary": "Big Tech is emphasizing AI's transformative potential at developer conferences, with Nvidia's CEO leading the charge.",
+        "summary": "Big Tech executives are emphasizing AI's transformative potential for everyday technology at recent developer conferences.",
         "source": "theverge.com",
         "date": "2026-06-05T12:39:07-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Sources: Pack, WR Watson reach $110.5M deal",
-        "url": "https://www.espn.com/nfl/story/_/id/48966432/sources-packers-wr-christian-watson-reach-1105m-extension",
-        "summary": "The Packers and WR Christian Watson have agreed to a four-year, $110.5 million contract extension, including a $31 million signing bonus.",
-        "source": "espn.com",
-        "date": "Fri, 5 Jun 2026 13:51:59 EST",
-        "image": ""
-      },
-      {
-        "title": "Bears edge closer to move to Northwest Indiana",
-        "url": "https://www.espn.com/nfl/story/_/id/48976141/bears-edge-closer-move-new-stadium-northwest-indiana",
-        "summary": "The Bears are moving closer to a new stadium in Hammond, Indiana, following a vote by their board of directors.",
-        "source": "espn.com",
-        "date": "Fri, 5 Jun 2026 13:51:59 EST",
-        "image": ""
-      },
-      {
-        "title": "Bucs' Mayfield: Contract talks 'not anywhere close...",
-        "url": "https://www.espn.com/nfl/story/_/id/48976225/mayfield-contract-talks-not-anywhere-close-buccaneers",
-        "summary": "Bucs QB Baker Mayfield stated that contract extension talks are not progressing as expected, emphasizing the need for a long-term deal.",
-        "source": "espn.com",
-        "date": "Fri, 5 Jun 2026 12:53:03 EST",
-        "image": ""
-      },
-      {
-        "title": "Myles Garrett: I don't know Aaron Donald's plans, but I want to talk to him",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-i-dont-know-aaron-donalds-plans-but-i-want-to-talk-to-him",
-        "summary": "Myles Garrett expressed interest in discussing future plans with Aaron Donald after the Rams added him to their defensive line.",
-        "source": "nbcsports.com",
-        "date": "Fri, 05 Jun 2026 16:41:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1e475b0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F477%2F563%2Fnbc_pft_aarondonaldreturn_260603.jpg"
-      },
-      {
         "title": "Bears board of directors votes to advance stadium in Hammond, Indiana",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-board-of-directors-votes-to-advance-stadium-in-hammond-indiana",
-        "summary": "The Bears' board has voted to advance their stadium plans in Hammond, Indiana, moving them closer to leaving Chicago.",
+        "summary": "The Bears' board has voted to advance plans for a new stadium in Hammond, Indiana, moving closer to a potential relocation.",
         "source": "nbcsports.com",
         "date": "Fri, 05 Jun 2026 12:25:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c992df1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F18%2F111%2Fnbc_pft_bearskevinwarren_260330.jpg"
       },
       {
-        "title": "Broncos LB Jonathon Cooper arrested for domestic violence",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-lb-jonathon-cooper-arrested-for-domestic-violence",
-        "summary": "Broncos linebacker Jonathon Cooper has been arrested on charges related to domestic violence.",
+        "title": "Cowboys agree to terms with first-rounder Malachi Lawrence",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-agree-to-terms-with-first-rounder-malachi-lawrence",
+        "summary": "The Cowboys have signed all their draft picks, including first-rounder Malachi Lawrence, to contracts.",
         "source": "nbcsports.com",
-        "date": "Fri, 05 Jun 2026 12:50:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87fb183/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F520%2F182%2Fnbc_pft_playoffrematchesv2_260515.jpg"
+        "date": "Fri, 05 Jun 2026 11:52:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9561d6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F142%2F179%2Fnbc_pft_fifa_260521.jpg"
+      },
+      {
+        "title": "Sean Payton pleased with how fast Jaylen Waddle is picking up the Broncos' offense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-pleased-with-how-fast-jaylen-waddle-is-picking-up-the-broncos-offense",
+        "summary": "Broncos head coach Sean Payton is impressed with Jaylen Waddle's quick adaptation to the team's offense.",
+        "source": "nbcsports.com",
+        "date": "Fri, 05 Jun 2026 11:26:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0697f8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F506%2F1019%2Fnbc_pft_broncos_260515.jpg"
+      },
+      {
+        "title": "Eagles sign rookie DT Zion Wilson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-rookie-dt-zion-wilson",
+        "summary": "The Eagles have signed rookie defensive tackle Zion Wilson, strengthening their defensive lineup.",
+        "source": "nbcsports.com",
+        "date": "Fri, 05 Jun 2026 16:49:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10471b4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F483%2F919%2Fnbc_pft_brownonpats_260603.jpg"
+      },
+      {
+        "title": "NFL defends streaming strategy in letter to Congress",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-defends-streaming-strategy-in-letter-to-congress",
+        "summary": "The NFL is defending its streaming strategy in a letter to Congress ahead of a hearing on the Sports Broadcasting Act.",
+        "source": "nbcsports.com",
+        "date": "Fri, 05 Jun 2026 13:02:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/40a68b1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F630%2F891%2Fnbc_pft_maxxcrosby_260604.jpg"
+      },
+      {
+        "title": "More details emerge in Jonathon Cooper's arrest",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/more-details-emerge-in-jonathon-coopers-arrest",
+        "summary": "Details have emerged regarding the arrest of Broncos linebacker Jonathon Cooper on domestic violence charges.",
+        "source": "nbcsports.com",
+        "date": "Fri, 05 Jun 2026 15:43:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0697f8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F506%2F1019%2Fnbc_pft_broncos_260515.jpg"
       }
     ]
   }
