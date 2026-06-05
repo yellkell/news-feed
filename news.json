@@ -1,35 +1,35 @@
 {
-  "updated": "2026-06-05T17:02:18.662Z",
+  "updated": "2026-06-05T19:06:36.738Z",
   "feed": {
     "VR": [
       {
         "title": "Snap Acquires AR Startup Illumix to Boost Next-gen ‘Specs’ Glasses",
         "url": "https://roadtovr.com/snap-acquires-illumix-specsar-glasses/",
-        "summary": "Snap has acquired AR startup Illumix to enhance its next-generation ‘Specs’ glasses, expanding beyond gaming into broader AR applications.",
+        "summary": "Snap has acquired AR startup Illumix to enhance its next-generation 'Specs' glasses, expanding its capabilities beyond gaming.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 14:39:38 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/09/spectacles-24-1.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
-        "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
-        "summary": "Valve has confirmed a summer release for its standalone VR headset, Steam Frame, and the Steam Machine console.",
-        "source": "roadtovr.com",
-        "date": "Fri, 05 Jun 2026 08:55:10 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg?resize=1920%2C1080&ssl=1"
-      },
-      {
         "title": "Quest 3 Headsets Are Heading To The International Space Station",
         "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
-        "summary": "Two Quest 3 headsets are heading to the International Space Station to assist astronauts in training for spacewalks.",
+        "summary": "Meta is sending two Quest 3 headsets to the International Space Station to train astronauts for spacewalks.",
         "source": "uploadvr.com",
         "date": "Mon, 01 Jun 2026 08:37:21 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
       },
       {
+        "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
+        "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
+        "summary": "Valve has confirmed a summer release window for its standalone VR headset, Steam Frame, and the Steam Machine console.",
+        "source": "roadtovr.com",
+        "date": "Fri, 05 Jun 2026 08:55:10 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg?resize=1920%2C1080&ssl=1"
+      },
+      {
         "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
         "url": "https://roadtovr.com/meta-spins-out-supernatural/",
-        "summary": "Meta is spinning out its VR fitness app Supernatural into an independent company, promising more fresh content for users.",
+        "summary": "Meta is spinning out the VR fitness app Supernatural into an independent company, Supernatural Health, to provide fresh content.",
         "source": "roadtovr.com",
         "date": "Thu, 04 Jun 2026 09:56:30 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
@@ -37,7 +37,7 @@
       {
         "title": "X-Plane & iRacing PC VR Streaming Clients Launched For Apple Vision Pro",
         "url": "https://www.uploadvr.com/x-plane-iracing-apple-vision-pro-pc-vr-streaming-clients-launched/",
-        "summary": "X-Plane 12 and iRacing are now playable in VR on Apple Vision Pro, integrating physical accessories with camera passthrough.",
+        "summary": "X-Plane 12 and iRacing are now available for VR on Apple Vision Pro, blending physical accessories with virtual gameplay.",
         "source": "uploadvr.com",
         "date": "Wed, 03 Jun 2026 17:49:50 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/iRacing-and-X-Plane-on-Apple-Vision-Pro.png"
@@ -45,7 +45,7 @@
       {
         "title": "CleanSheet Soccer 2 Heads To PlayStation VR2 Next Week",
         "url": "https://www.uploadvr.com/cleansheet-soccer-2-heads-to-playstation-vr2-next-week/",
-        "summary": "CleanSheet Soccer 2, a redesigned version of the original, is set to launch on PlayStation VR2 next week without subscription fees.",
+        "summary": "CleanSheet Soccer 2, a redesigned version of the Quest-exclusive game, launches on PlayStation VR2 next week without subscription fees.",
         "source": "uploadvr.com",
         "date": "Thu, 04 Jun 2026 14:41:51 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/cleansheet-soccer-2-16x9-master-image.jpg"
@@ -55,7 +55,7 @@
       {
         "title": "AI leaders call for tougher protections against AI-aided bioweapons",
         "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-        "summary": "Leading AI industry figures are urging US lawmakers to implement stricter regulations to prevent the use of AI in developing bioweapons.",
+        "summary": "Major AI industry leaders are urging US lawmakers to impose stricter regulations to prevent the use of AI in developing bioweapons.",
         "source": "theverge.com",
         "date": "2026-06-04T08:12:12-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
         "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-        "summary": "TSMC is struggling to meet the surging demand for AI chips, despite expanding its manufacturing capabilities in the US.",
+        "summary": "TSMC is struggling to meet the high demand for AI chips, despite ongoing factory expansions in the US.",
         "source": "theverge.com",
         "date": "2026-06-04T10:15:44-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,68 +87,68 @@
       {
         "title": "This AI startup says it can tell if a script will make a hit film",
         "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-        "summary": "AI startup Quilty claims its technology can predict a film's success from the script, though early tests have left users skeptical.",
+        "summary": "AI startup Quilty claims its tool can predict a film's success from the script, but initial tests have left users skeptical.",
         "source": "theverge.com",
         "date": "2026-06-05T09:57:31-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-        "summary": "Kevin O’Leary has agreed to downsize his controversial Utah data center project amid community opposition.",
-        "source": "theverge.com",
-        "date": "2026-06-04T14:38:04-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "A hacker group is poisoning open source code at an unprecedented scale",
+        "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+        "summary": "A hacker group has launched unprecedented attacks on open source code, compromising GitHub and other platforms.",
+        "source": "arstechnica.com",
+        "date": "Fri, 22 May 2026 10:30:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Broncos LB Jonathon Cooper arrested for domestic violence",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-lb-jonathon-cooper-arrested-for-domestic-violence",
-        "summary": "Broncos linebacker Jonathon Cooper was arrested in Colorado on charges of domestic violence.",
-        "source": "nbcsports.com",
-        "date": "Fri, 05 Jun 2026 12:50:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87fb183/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F520%2F182%2Fnbc_pft_playoffrematchesv2_260515.jpg"
-      },
-      {
         "title": "Bears board of directors votes to advance stadium in Hammond, Indiana",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-board-of-directors-votes-to-advance-stadium-in-hammond-indiana",
-        "summary": "The Chicago Bears' board has voted to advance plans for a new stadium in Hammond, Indiana.",
+        "summary": "The Bears' board has voted to advance plans for a new stadium in Hammond, Indiana, moving closer to the project.",
         "source": "nbcsports.com",
         "date": "Fri, 05 Jun 2026 12:25:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c992df1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F18%2F111%2Fnbc_pft_bearskevinwarren_260330.jpg"
       },
       {
+        "title": "Broncos LB Jonathon Cooper arrested for domestic violence",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-lb-jonathon-cooper-arrested-for-domestic-violence",
+        "summary": "Broncos linebacker Jonathon Cooper was arrested on domestic violence charges, raising concerns for the team.",
+        "source": "nbcsports.com",
+        "date": "Fri, 05 Jun 2026 12:50:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87fb183/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F520%2F182%2Fnbc_pft_playoffrematchesv2_260515.jpg"
+      },
+      {
         "title": "Cowboys agree to terms with first-rounder Malachi Lawrence",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-agree-to-terms-with-first-rounder-malachi-lawrence",
-        "summary": "The Dallas Cowboys have successfully signed their first-round draft pick, Malachi Lawrence, to a contract.",
+        "summary": "The Cowboys have successfully signed all of their draft picks, including first-rounder Malachi Lawrence.",
         "source": "nbcsports.com",
         "date": "Fri, 05 Jun 2026 11:52:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9561d6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F142%2F179%2Fnbc_pft_fifa_260521.jpg"
       },
       {
-        "title": "Bears agree to terms with top 2026 draft picks, Dillon Thieneman, Logan Jones",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-agree-to-terms-with-top-2026-draft-picks-dillon-thieneman-logan-jones",
-        "summary": "The Bears have secured contracts for their top two draft picks, Dillon Thieneman and Logan Jones.",
+        "title": "NFL defends streaming strategy in letter to Congress",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-defends-streaming-strategy-in-letter-to-congress",
+        "summary": "The NFL is defending its streaming strategy in a letter to Congress ahead of a hearing on the Sports Broadcasting Act.",
         "source": "nbcsports.com",
-        "date": "Fri, 05 Jun 2026 10:25:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a050147/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F632%2F343%2Fnbc_pft_williamsmistakes_260604.jpg"
+        "date": "Fri, 05 Jun 2026 13:02:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/40a68b1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F630%2F891%2Fnbc_pft_maxxcrosby_260604.jpg"
       },
       {
-        "title": "Baker Mayfield, Buccaneers are \"not anywhere close\" in talks on new contract",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-buccaneers-are-not-anywhere-close-in-talks-on-new-contract",
-        "summary": "Baker Mayfield and the Buccaneers are reportedly far from reaching a new contract agreement as he enters the final year of his deal.",
+        "title": "Dan Campbell: Jahmyr Gibbs is going to be our bell cow now",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-jahmyr-gibbs-is-going-to-be-our-bell-cow-now",
+        "summary": "Lions running back Jahmyr Gibbs has been promoted to starter, signaling a shift in the team's offensive strategy.",
         "source": "nbcsports.com",
-        "date": "Fri, 05 Jun 2026 11:11:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5dba1ec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F1023%2Fnbc_pft_quarterback_260514.jpg"
+        "date": "Fri, 05 Jun 2026 09:51:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1cf7631/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F266%2F703%2Fnbc_pft_campbelldeal_260522.jpg"
       },
       {
-        "title": "Vikings LT Christian Darrisaw says knee feels best it has since 2024 injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-lt-christian-darrisaw-says-knee-feels-best-it-has-since-2024-injury",
-        "summary": "Vikings left tackle Christian Darrisaw reports that his knee feels the best it has since his 2024 injury.",
+        "title": "Mike Evans thought he'd easily break the record for consecutive 1,000-yard seasons in 2025",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-evans-thought-hed-easily-break-the-record-for-consecutive-1-000-yard-seasons-in-2025",
+        "summary": "Mike Evans aimed to break the record for consecutive 1,000-yard seasons but faced challenges in 2025.",
         "source": "nbcsports.com",
-        "date": "Fri, 05 Jun 2026 07:17:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cb9e493/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F864%2F351%2Fnbc_pft_jjmccarthy_260528.jpg"
+        "date": "Fri, 05 Jun 2026 09:50:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/753af55/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F638%2F198%2Fnbc_pft_49erscancel_260604.jpg"
       }
     ]
   }
