@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T17:34:05.643Z",
+  "updated": "2026-06-06T18:52:08.001Z",
   "feed": {
     "VR": [
       {
@@ -21,7 +21,7 @@
       {
         "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
         "url": "https://roadtovr.com/meta-spins-out-supernatural/",
-        "summary": "Meta has spun out its VR fitness app Supernatural into an independent company, allowing for fresh content and new directions.",
+        "summary": "Meta has spun out its VR fitness app Supernatural into an independent company, allowing for new content and growth.",
         "source": "roadtovr.com",
         "date": "Thu, 04 Jun 2026 09:56:30 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
@@ -29,23 +29,23 @@
       {
         "title": "X-Plane & iRacing PC VR Streaming Clients Launched For Apple Vision Pro",
         "url": "https://www.uploadvr.com/x-plane-iracing-apple-vision-pro-pc-vr-streaming-clients-launched/",
-        "summary": "X-Plane 12 and iRacing are now available for VR play on Apple Vision Pro, integrating physical accessories with virtual experiences.",
+        "summary": "X-Plane 12 and iRacing are now playable in VR on Apple Vision Pro, integrating physical accessories through camera passthrough.",
         "source": "uploadvr.com",
         "date": "Wed, 03 Jun 2026 17:49:50 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/iRacing-and-X-Plane-on-Apple-Vision-Pro.png"
       },
       {
-        "title": "Quest 3 Headsets Are Heading To The International Space Station",
-        "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
-        "summary": "Two Quest 3 headsets are set to be sent to the International Space Station to assist astronauts in training for spacewalks.",
-        "source": "uploadvr.com",
-        "date": "Mon, 01 Jun 2026 08:37:21 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
+        "title": "Vertigo Games Shutters ‘Metro Awakening’ Studio Amid “challenging” VR Market",
+        "url": "https://roadtovr.com/vertigo-games-shuts-down-metro-awakening-studio/",
+        "summary": "Vertigo Games has closed its Amsterdam studio, citing ongoing challenges in the VR gaming market.",
+        "source": "roadtovr.com",
+        "date": "Fri, 05 Jun 2026 16:24:05 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/07/metro-awakening.jpg?resize=1920%2C1080&ssl=1"
       },
       {
         "title": "CleanSheet Soccer 2 Heads To PlayStation VR2 Next Week",
         "url": "https://www.uploadvr.com/cleansheet-soccer-2-heads-to-playstation-vr2-next-week/",
-        "summary": "CleanSheet Soccer 2 is launching on PlayStation VR2 next week, featuring a complete redesign and no subscription fees.",
+        "summary": "CleanSheet Soccer 2, a redesigned soccer game, is set to launch on PlayStation VR2 next week without subscription fees.",
         "source": "uploadvr.com",
         "date": "Thu, 04 Jun 2026 14:41:51 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/cleansheet-soccer-2-16x9-master-image.jpg"
@@ -53,25 +53,9 @@
     ],
     "AI": [
       {
-        "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-        "summary": "AI industry leaders are urging Congress to implement stricter regulations to prevent the use of AI in developing bioweapons.",
-        "source": "theverge.com",
-        "date": "2026-06-04T08:12:12-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Amazon develops a warehouse robot that workers can speak to",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-        "summary": "Amazon has unveiled an AI-powered warehouse robot, Proteus, capable of interacting with workers using natural language.",
-        "source": "theverge.com",
-        "date": "2026-06-04T05:31:14-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "New York lawmakers pass one-year ban on new data centers",
         "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-        "summary": "New York lawmakers have passed a one-year ban on new large data centers to assess their environmental impact.",
+        "summary": "New York lawmakers have passed a one-year moratorium on new large data centers, pending environmental impact assessments.",
         "source": "theverge.com",
         "date": "2026-06-05T11:25:10-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,23 +63,39 @@
       {
         "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
         "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-        "summary": "TSMC is struggling to meet the surging demand for AI chips, despite expanding its manufacturing capabilities in the US.",
+        "summary": "TSMC is struggling to meet the high demand for AI chips, despite its ongoing factory expansion in the US.",
         "source": "theverge.com",
         "date": "2026-06-04T10:15:44-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Meta made its own AI-generated clickbait news feed",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+        "summary": "Meta has launched an AI-generated clickbait news feed, creating a new section in its standalone Meta AI app.",
+        "source": "theverge.com",
+        "date": "2026-06-06T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "This AI startup says it can tell if a script will make a hit film",
         "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-        "summary": "An AI startup claims its tool can predict a film's success by analyzing scripts, though initial tests have raised skepticism.",
+        "summary": "AI startup Quilty claims it can predict film success by analyzing scripts, though early users remain skeptical.",
         "source": "theverge.com",
         "date": "2026-06-05T09:57:31-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "This is your laptop… on AI",
+        "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+        "summary": "Big Tech companies are emphasizing AI's transformative potential for laptops during the ongoing developer conference season.",
+        "source": "theverge.com",
+        "date": "2026-06-05T12:39:07-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "US government takes $2 billion equity stake in nine quantum computing firms",
         "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-        "summary": "The US government has invested $2 billion in nine quantum computing firms, marking a significant step in the country's tech strategy.",
+        "summary": "The US government has invested $2 billion in nine quantum computing firms, signaling a significant commitment to the technology.",
         "source": "arstechnica.com",
         "date": "Thu, 21 May 2026 13:48:38 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
@@ -105,50 +105,50 @@
       {
         "title": "Sources: Pack, WR Watson reach $110.5M deal",
         "url": "https://www.espn.com/nfl/story/_/id/48966432/sources-packers-wr-christian-watson-reach-1105m-extension",
-        "summary": "The Packers have signed wide receiver Christian Watson to a four-year, $110.5 million contract extension with a $31 million signing bonus.",
+        "summary": "The Packers and wide receiver Christian Watson have agreed to a four-year, $110.5 million contract extension.",
         "source": "espn.com",
-        "date": "Fri, 5 Jun 2026 13:51:59 EST",
+        "date": "Sat, 6 Jun 2026 13:44:48 EST",
         "image": ""
       },
       {
         "title": "Bears edge closer to move to Northwest Indiana",
         "url": "https://www.espn.com/nfl/story/_/id/48976141/bears-edge-closer-move-new-stadium-northwest-indiana",
-        "summary": "The Chicago Bears are advancing plans for a new stadium in Northwest Indiana, signaling a potential move from Chicago.",
+        "summary": "The Chicago Bears are moving closer to relocating to Northwest Indiana after advancing their stadium development plans.",
         "source": "espn.com",
-        "date": "Fri, 5 Jun 2026 13:51:59 EST",
+        "date": "Sat, 6 Jun 2026 13:44:48 EST",
+        "image": ""
+      },
+      {
+        "title": "Broncos LB Cooper accused of domestic violence",
+        "url": "https://www.espn.com/nfl/story/_/id/48976390/broncos-lb-jonathon-cooper-arrested-domestic-violence-charges",
+        "summary": "Broncos linebacker Jonathon Cooper has been arrested on suspicion of domestic violence, raising concerns for the team.",
+        "source": "espn.com",
+        "date": "Sat, 6 Jun 2026 13:44:48 EST",
         "image": ""
       },
       {
         "title": "Bucs' Mayfield: Contract talks 'not anywhere close...",
         "url": "https://www.espn.com/nfl/story/_/id/48976225/mayfield-contract-talks-not-anywhere-close-buccaneers",
-        "summary": "Buccaneers QB Baker Mayfield revealed that contract extension talks are not progressing as expected, emphasizing the need for a long-term deal.",
+        "summary": "Baker Mayfield expressed frustration over stalled contract extension talks with the Buccaneers, indicating a need for resolution.",
         "source": "espn.com",
-        "date": "Fri, 5 Jun 2026 13:51:59 EST",
+        "date": "Sat, 6 Jun 2026 13:44:48 EST",
         "image": ""
       },
       {
         "title": "Myles Garrett is the betting favorite to win Defensive Player of the Year",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-is-the-betting-favorite-to-win-defensive-player-of-the-year",
-        "summary": "Myles Garrett is favored to win the Defensive Player of the Year award, potentially becoming a three-time recipient.",
+        "summary": "Myles Garrett is favored to win the NFL Defensive Player of the Year award, potentially making him a three-time recipient.",
         "source": "nbcsports.com",
         "date": "Sat, 06 Jun 2026 10:34:56 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b26aa94/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F484%2F395%2Fnbc_pft_brownstrade_260603.jpg"
       },
       {
-        "title": "How Declan Doyle's crash course can reboot Ravens'...",
-        "url": "https://www.espn.com/nfl/story/_/id/48958657/baltimore-ravens-2026-nfl-offensive-coordinator-declan-doyle-reboot-offense",
-        "summary": "Declan Doyle is taking over the Ravens' offense as they aim to improve from a disappointing previous season.",
-        "source": "espn.com",
-        "date": "Sat, 6 Jun 2026 07:53:35 EST",
-        "image": ""
-      },
-      {
-        "title": "NFL Network remains off Comcast Xfinity cable",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-network-remains-off-comcast-xfinity-cable",
-        "summary": "NFL Network remains unavailable on Comcast Xfinity, risking subscriber access to NFL RedZone Channel as the season approaches.",
+        "title": "Eagles sign rookie DT Zion Wilson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-rookie-dt-zion-wilson",
+        "summary": "The Eagles have signed rookie defensive tackle Zion Wilson, bolstering their defensive lineup ahead of the upcoming season.",
         "source": "nbcsports.com",
-        "date": "Sat, 06 Jun 2026 04:57:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/88f30a4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F631%2F367%2Fnbc_pft_williamsmadden_260604.jpg"
+        "date": "Fri, 05 Jun 2026 16:49:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10471b4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F483%2F919%2Fnbc_pft_brownonpats_260603.jpg"
       }
     ]
   }
