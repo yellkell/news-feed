@@ -1,61 +1,61 @@
 {
-  "updated": "2026-06-07T06:17:06.580Z",
+  "updated": "2026-06-07T09:44:30.836Z",
   "feed": {
     "VR": [
       {
         "title": "Snap Acquires AR Startup Illumix to Boost Next-gen ‘Specs’ Glasses",
         "url": "https://roadtovr.com/snap-acquires-illumix-specsar-glasses/",
-        "summary": "Snap has acquired AR startup Illumix to enhance its upcoming augmented reality glasses, expanding beyond gaming into broader applications.",
+        "summary": "Snap has acquired AR startup Illumix to enhance its upcoming augmented reality glasses with advanced software capabilities.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 14:39:38 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/09/spectacles-24-1.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
-        "url": "https://roadtovr.com/meta-spins-out-supernatural/",
-        "summary": "Meta has spun out its VR fitness app Supernatural into an independent company, allowing for more fresh content and user engagement.",
-        "source": "roadtovr.com",
-        "date": "Thu, 04 Jun 2026 09:56:30 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
-      },
-      {
         "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
         "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
-        "summary": "Valve has confirmed a summer release window for its standalone VR headset, Steam Frame, and Steam Machine console.",
+        "summary": "Valve has confirmed a summer release window for its standalone VR headset, Steam Frame, and its console-style PC, Steam Machine.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 08:55:10 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "Quest 3 Headsets Are Heading To The International Space Station",
-        "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
-        "summary": "Two Quest 3 headsets are being sent to the International Space Station for astronaut training, showcasing VR's potential in space.",
-        "source": "uploadvr.com",
-        "date": "Mon, 01 Jun 2026 08:37:21 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
+        "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
+        "url": "https://roadtovr.com/meta-spins-out-supernatural/",
+        "summary": "Meta has spun out its VR fitness app Supernatural into an independent company, allowing for new content and development.",
+        "source": "roadtovr.com",
+        "date": "Thu, 04 Jun 2026 09:56:30 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
       },
       {
         "title": "X-Plane & iRacing PC VR Streaming Clients Launched For Apple Vision Pro",
         "url": "https://www.uploadvr.com/x-plane-iracing-apple-vision-pro-pc-vr-streaming-clients-launched/",
-        "summary": "X-Plane 12 and iRacing are now playable in VR on Apple Vision Pro, integrating physical accessories with virtual environments.",
+        "summary": "X-Plane 12 and iRacing are now playable in VR on Apple Vision Pro, integrating physical accessories with PC streaming.",
         "source": "uploadvr.com",
         "date": "Wed, 03 Jun 2026 17:49:50 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/iRacing-and-X-Plane-on-Apple-Vision-Pro.png"
       },
       {
-        "title": "CleanSheet Soccer 2 Heads To PlayStation VR2 Next Week",
-        "url": "https://www.uploadvr.com/cleansheet-soccer-2-heads-to-playstation-vr2-next-week/",
-        "summary": "CleanSheet Soccer 2 launches on PlayStation VR2 next week, featuring a redesign that eliminates subscription fees.",
+        "title": "Vertigo Games Shutters ‘Metro Awakening’ Studio Amid “challenging” VR Market",
+        "url": "https://roadtovr.com/vertigo-games-shuts-down-metro-awakening-studio/",
+        "summary": "Vertigo Games has closed its Amsterdam studio, citing ongoing challenges in the VR gaming market.",
+        "source": "roadtovr.com",
+        "date": "Fri, 05 Jun 2026 16:24:05 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/07/metro-awakening.jpg?resize=1920%2C1080&ssl=1"
+      },
+      {
+        "title": "Quest 3 Headsets Are Heading To The International Space Station",
+        "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
+        "summary": "Two Quest 3 headsets are being sent to the International Space Station to assist astronauts in training for spacewalks.",
         "source": "uploadvr.com",
-        "date": "Thu, 04 Jun 2026 14:41:51 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/cleansheet-soccer-2-16x9-master-image.jpg"
+        "date": "Mon, 01 Jun 2026 08:37:21 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
       }
     ],
     "AI": [
       {
         "title": "New York lawmakers pass one-year ban on new data centers",
         "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-        "summary": "New York lawmakers have passed a one-year moratorium on new large data centers, pending environmental impact assessments.",
+        "summary": "New York lawmakers have passed a one-year ban on new large data centers to assess their environmental impact.",
         "source": "theverge.com",
         "date": "2026-06-05T11:25:10-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
         "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-        "summary": "TSMC is struggling to meet surging AI demand, with CEO stating they can only support so much despite U.S. factory expansions.",
+        "summary": "TSMC is struggling to meet the high demand for AI chips, despite ongoing factory expansions in the US.",
         "source": "theverge.com",
         "date": "2026-06-04T10:15:44-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Meta made its own AI-generated clickbait news feed",
         "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-        "summary": "Meta has launched an AI-generated clickbait news feed within its standalone app, raising questions about content authenticity.",
+        "summary": "Meta has launched an AI-generated clickbait news feed within its standalone Meta AI app.",
         "source": "theverge.com",
         "date": "2026-06-06T10:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,49 +79,41 @@
       {
         "title": "This AI startup says it can tell if a script will make a hit film",
         "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-        "summary": "AI startup Quilty claims to predict film success by analyzing scripts, though early users remain skeptical of its accuracy.",
+        "summary": "AI startup Quilty claims it can predict a film's success by analyzing scripts, though skepticism remains among users.",
         "source": "theverge.com",
         "date": "2026-06-05T09:57:31-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "This is your laptop… on AI",
-        "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-        "summary": "Nvidia's CEO emphasizes AI's transformative potential for laptops during recent developer conferences, signaling a shift in computing.",
-        "source": "theverge.com",
-        "date": "2026-06-05T12:39:07-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+        "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+        "summary": "Texas Attorney General has filed a lawsuit against Meta, alleging that WhatsApp fails to provide end-to-end encryption.",
+        "source": "arstechnica.com",
+        "date": "Fri, 22 May 2026 18:13:05 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg"
       },
       {
-        "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-        "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-        "summary": "The U.S. government has taken a $2 billion equity stake in nine quantum computing firms to bolster national technology initiatives.",
+        "title": "A hacker group is poisoning open source code at an unprecedented scale",
+        "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+        "summary": "A hacker group is reportedly poisoning open source code at an unprecedented scale, affecting multiple platforms.",
         "source": "arstechnica.com",
-        "date": "Thu, 21 May 2026 13:48:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
+        "date": "Fri, 22 May 2026 10:30:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg"
       }
     ],
     "NFL": [
       {
         "title": "Seahawks are getting their Super Bowl LX rings on June 11",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-are-getting-their-super-bowl-lx-rings-on-june-11",
-        "summary": "The Seahawks will receive their Super Bowl LX rings on June 11, with former MVP Kenneth Walker III expected to attend.",
+        "summary": "The Seahawks will receive their Super Bowl LX rings on June 11, with MVP Kenneth Walker III expected to attend.",
         "source": "nbcsports.com",
         "date": "Sat, 06 Jun 2026 21:08:34 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/10daf43/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F276%2F114%2Fnbc_pft_kennethwalkerleaving_260505.jpg"
       },
       {
-        "title": "Rams, Chargers, 49ers support the proposed California workers' compensation law change",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-chargers-49ers-support-the-proposed-california-workers-compensation-law-change",
-        "summary": "The NFL Players Association opposes proposed changes to California's workers' compensation laws that could limit athletes' rights.",
-        "source": "nbcsports.com",
-        "date": "Sat, 06 Jun 2026 20:32:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d63340/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F632%2F343%2Fnbc_pft_protectcollegesportsact_260604.jpg"
-      },
-      {
         "title": "Baker Mayfield, Buccaneers are on a contractual collision course",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-buccaneers-are-on-a-contractual-collision-course",
-        "summary": "Baker Mayfield's contract negotiations with the Buccaneers are reportedly not progressing well as the season approaches.",
+        "summary": "Baker Mayfield's contract negotiations with the Buccaneers are reportedly not progressing well, indicating potential issues ahead.",
         "source": "nbcsports.com",
         "date": "Sat, 06 Jun 2026 13:34:04 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7f59583/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F883%2F275%2FNbc_pft_bakercontract_260414.jpg"
@@ -129,7 +121,7 @@
       {
         "title": "Myles Garrett is the betting favorite to win Defensive Player of the Year",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-is-the-betting-favorite-to-win-defensive-player-of-the-year",
-        "summary": "Myles Garrett is favored to win the Defensive Player of the Year award, aiming to join an elite group of three-time winners.",
+        "summary": "Myles Garrett is the favorite to win the Defensive Player of the Year award for the third time.",
         "source": "nbcsports.com",
         "date": "Sat, 06 Jun 2026 10:34:56 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b26aa94/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F484%2F395%2Fnbc_pft_brownstrade_260603.jpg"
@@ -137,18 +129,26 @@
       {
         "title": "Eagles sign rookie DT Zion Wilson",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-rookie-dt-zion-wilson",
-        "summary": "The Eagles have signed rookie defensive tackle Zion Wilson, bolstering their defensive lineup ahead of the upcoming season.",
+        "summary": "The Eagles have officially signed rookie defensive tackle Zion Wilson, bolstering their roster ahead of the season.",
         "source": "nbcsports.com",
         "date": "Fri, 05 Jun 2026 16:49:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/10471b4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F483%2F919%2Fnbc_pft_brownonpats_260603.jpg"
       },
       {
-        "title": "Baker Mayfield: Disappointing to lose Mike Evans, but we have a lot of weapons",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-disappointing-to-lose-mike-evans-but-we-have-a-lot-of-weapons",
-        "summary": "Baker Mayfield expressed disappointment over losing Mike Evans but remains optimistic about the Buccaneers' offensive weapons.",
+        "title": "Kayshon Boutte says he will attend Patriots' mandatory minicamp amid talk of a trade",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kayshon-boutte-says-he-will-attend-patriots-mandatory-minicamp-amid-talk-of-a-trade",
+        "summary": "Patriots wide receiver Kayshon Boutte plans to attend mandatory minicamp amid trade speculation.",
         "source": "nbcsports.com",
-        "date": "Fri, 05 Jun 2026 13:32:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5dba1ec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F1023%2Fnbc_pft_quarterback_260514.jpg"
+        "date": "Sun, 07 Jun 2026 04:11:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6f4458f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F322%2Fnbc_pft_mcdanielsonaj_260603.jpg"
+      },
+      {
+        "title": "Denzel Ward says he wants to stay with the Browns",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/denzel-ward-says-he-wants-to-stay-with-the-browns",
+        "summary": "Browns cornerback Denzel Ward expresses his desire to remain with the team despite recent trade talks.",
+        "source": "nbcsports.com",
+        "date": "Sat, 06 Jun 2026 14:10:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/015e306/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F634%2F795%2Fnbc_pft_jimschwartz_260604.jpg"
       }
     ]
   }
