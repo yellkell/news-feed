@@ -1,11 +1,19 @@
 {
-  "updated": "2026-06-08T17:18:29.618Z",
+  "updated": "2026-06-08T19:38:44.376Z",
   "feed": {
     "VR": [
       {
+        "title": "Meta Plans New Best Buy Pop-ups to Unify Demos of AI Glasses and VR Headsets",
+        "url": "https://roadtovr.com/meta-plans-best-buy-pop-up-ray-ban-ai-glasses-vr-headset-quest/",
+        "summary": "Meta is launching updated kiosks in Best Buy for customers to demo its AI glasses and VR headsets.",
+        "source": "roadtovr.com",
+        "date": "Mon, 08 Jun 2026 18:30:40 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/meta-labs-at-best-buy-2.jpg?resize=999%2C666&ssl=1"
+      },
+      {
         "title": "Snap Acquires AR Startup Illumix to Boost Next-gen ‘Specs’ Glasses",
         "url": "https://roadtovr.com/snap-acquires-illumix-specsar-glasses/",
-        "summary": "Snap has acquired AR startup Illumix to enhance its upcoming next-gen augmented reality glasses.",
+        "summary": "Snap has acquired AR startup Illumix to enhance its next-generation AR glasses.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 14:39:38 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/09/spectacles-24-1.jpg?resize=1920%2C1080&ssl=1"
@@ -13,7 +21,7 @@
       {
         "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
         "url": "https://roadtovr.com/meta-spins-out-supernatural/",
-        "summary": "Meta has spun out the VR fitness app Supernatural into an independent company, promising fresh content for users.",
+        "summary": "Meta has spun out its VR fitness app Supernatural into an independent company, Supernatural Health.",
         "source": "roadtovr.com",
         "date": "Thu, 04 Jun 2026 09:56:30 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
@@ -21,7 +29,7 @@
       {
         "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
         "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
-        "summary": "Valve has confirmed a summer release window for its standalone VR headset, Steam Frame, and console-style PC, Steam Machine.",
+        "summary": "Valve confirmed a summer release window for its standalone VR headset, Steam Frame, and Steam Machine.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 08:55:10 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg?resize=1920%2C1080&ssl=1"
@@ -29,23 +37,15 @@
       {
         "title": "Vertigo Games Shutters ‘Metro Awakening’ Studio Amid “challenging” VR Market",
         "url": "https://roadtovr.com/vertigo-games-shuts-down-metro-awakening-studio/",
-        "summary": "Vertigo Games has shut down its Amsterdam studio amid ongoing challenges in the VR market.",
+        "summary": "Vertigo Games announced the closure of its Amsterdam studio due to ongoing challenges in the VR market.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 16:24:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/07/metro-awakening.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "X-Plane & iRacing PC VR Streaming Clients Launched For Apple Vision Pro",
-        "url": "https://www.uploadvr.com/x-plane-iracing-apple-vision-pro-pc-vr-streaming-clients-launched/",
-        "summary": "X-Plane 12 and iRacing are now playable in VR on Apple Vision Pro, integrating physical accessories with camera passthrough.",
-        "source": "uploadvr.com",
-        "date": "Wed, 03 Jun 2026 17:49:50 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/iRacing-and-X-Plane-on-Apple-Vision-Pro.png"
-      },
-      {
         "title": "CleanSheet Soccer 2 Heads To PlayStation VR2 Next Week",
         "url": "https://www.uploadvr.com/cleansheet-soccer-2-heads-to-playstation-vr2-next-week/",
-        "summary": "CleanSheet Soccer 2, a redesigned VR soccer game, is set to launch on PlayStation VR2 next week.",
+        "summary": "CleanSheet Soccer 2, a redesigned soccer game, is set to launch on PlayStation VR2 next week.",
         "source": "uploadvr.com",
         "date": "Thu, 04 Jun 2026 14:41:51 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/cleansheet-soccer-2-16x9-master-image.jpg"
@@ -53,33 +53,41 @@
     ],
     "AI": [
       {
+        "title": "Amazon is launching AI-generated custom merch",
+        "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+        "summary": "Amazon is launching AI-generated custom merchandise using Alexa for Shopping, allowing users to create designs for various products.",
+        "source": "theverge.com",
+        "date": "2026-06-08T13:52:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+        "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+        "summary": "Apple unveiled a new version of Siri with enhanced capabilities and personalization during its WWDC announcement.",
+        "source": "theverge.com",
+        "date": "2026-06-08T13:34:24-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-Siri-AI-and-its-next-generation-of-Apple-Intelligence.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
         "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-        "summary": "Google's NotebookLM has received a significant upgrade with the rollout of the Gemini 3.5 model for enhanced note-taking capabilities.",
+        "summary": "Google's NotebookLM app receives an upgrade with the Gemini 3.5 model, improving accuracy and reliability in note-taking.",
         "source": "theverge.com",
         "date": "2026-06-08T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "New York lawmakers pass one-year ban on new data centers",
-        "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-        "summary": "New York lawmakers have passed a one-year moratorium on new large data centers to assess their environmental impact.",
+        "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+        "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+        "summary": "Microsoft's AI chief predicts superintelligence is near but reassures that it won't replace jobs.",
         "source": "theverge.com",
-        "date": "2026-06-05T11:25:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "This AI startup says it can tell if a script will make a hit film",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-        "summary": "AI startup Quilty claims it can predict a film's success by analyzing scripts, though initial user feedback is skeptical.",
-        "source": "theverge.com",
-        "date": "2026-06-05T09:57:31-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-08T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meta made its own AI-generated clickbait news feed",
         "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-        "summary": "Meta has launched a standalone AI app that generates clickbait news articles, raising questions about content authenticity.",
+        "summary": "Meta has introduced an AI-generated clickbait news feed in its standalone AI app.",
         "source": "theverge.com",
         "date": "2026-06-06T10:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,68 +95,60 @@
       {
         "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
         "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "A critical vulnerability in the popular open-source package Starlette puts millions of AI agents at risk.",
+        "summary": "A critical vulnerability in the open-source package Starlette threatens millions of AI agents.",
         "source": "arstechnica.com",
         "date": "Tue, 26 May 2026 19:50:33 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
-      },
-      {
-        "title": "US government takes $2 billion equity stake in nine quantum computing firms",
-        "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
-        "summary": "The US government has taken a $2 billion equity stake in nine quantum computing firms to bolster its tech industry.",
-        "source": "arstechnica.com",
-        "date": "Thu, 21 May 2026 13:48:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/Screen-Shot-2017-03-31-at-1.37.22-PM.png"
       }
     ],
     "NFL": [
       {
-        "title": "NFL and Fox reach agreement to show games on Mexican TV platforms",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-and-fox-reach-agreement-to-show-games-on-mexican-tv-platforms",
-        "summary": "The NFL and Fox have reached an agreement to broadcast games on Mexican TV platforms, expanding their international presence.",
-        "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 11:25:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3f9f694/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F994%2F155%2Fnbc_pft_bearsstadium_260608.jpg"
+        "title": "Sources: Pack, WR Watson reach $110.5M deal",
+        "url": "https://www.espn.com/nfl/story/_/id/48966432/sources-packers-wr-christian-watson-reach-1105m-extension",
+        "summary": "The Packers and WR Christian Watson have agreed to a four-year, $110.5 million contract extension.",
+        "source": "espn.com",
+        "date": "Mon, 8 Jun 2026 14:19:32 EST",
+        "image": ""
       },
       {
-        "title": "Chiefs agree to terms with first-round pick Peter Woods",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-agree-to-terms-with-first-round-pick-peter-woods",
-        "summary": "The Kansas City Chiefs have finalized an agreement with first-round draft pick Peter Woods.",
+        "title": "Chiefs agree to terms with first-round pick Mansoor Delane",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-agree-to-terms-with-first-round-pick-mansoor-delane",
+        "summary": "The Chiefs have finalized contracts for both of their first-round draft picks.",
         "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 13:11:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6bdd54/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F992%2F279%2Fnbc_pft_mahomesdetermine_260529.jpg"
+        "date": "Mon, 08 Jun 2026 14:55:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/51df396/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F995%2F207%2Fnbc_pft_rice_260529.jpg"
       },
       {
-        "title": "Seahawks TE AJ Barner expects to be ready for camp after two offseason surgeries",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-te-aj-barner-expects-to-be-ready-for-camp-after-two-offseason-surgeries",
-        "summary": "Seahawks tight end AJ Barner expects to be ready for training camp following two offseason surgeries.",
-        "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 10:51:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/967d4d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F994%2F231%2Fnbc_pft_mayevssea_260529.jpg"
+        "title": "Bears edge closer to move to Northwest Indiana",
+        "url": "https://www.espn.com/nfl/story/_/id/48976141/bears-edge-closer-move-new-stadium-northwest-indiana",
+        "summary": "The Bears are advancing their plans to move to a new stadium in Northwest Indiana.",
+        "source": "espn.com",
+        "date": "Mon, 8 Jun 2026 14:19:32 EST",
+        "image": ""
       },
       {
-        "title": "Kevin Stefanski: We'll see if Michael Penix is cleared for 11-on-11 work at minicamp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-well-see-if-michael-penix-is-cleared-for-11-on-11-work-at-minicamp",
-        "summary": "Falcons coach Kevin Stefanski is uncertain about quarterback Michael Penix's participation in upcoming minicamp.",
-        "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 12:14:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e993aa/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F322%2Fnbc_pft_london_260603.jpg"
+        "title": "Broncos' Cooper pleads not guilty; trial date set",
+        "url": "https://www.espn.com/nfl/story/_/id/49001482/broncos-cooper-pleads-not-guilty-trial-set-late-july",
+        "summary": "Broncos linebacker Jonathon Cooper pleaded not guilty to misdemeanor domestic violence charges.",
+        "source": "espn.com",
+        "date": "Mon, 8 Jun 2026 14:19:32 EST",
+        "image": ""
       },
       {
-        "title": "Will Anderson: New contract isn't pressure, it's opportunity",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-anderson-new-contract-isnt-pressure-its-opportunity",
-        "summary": "Texans defensive end Will Anderson views his new contract as an opportunity rather than pressure heading into the season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 06:59:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38317e9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1002%2F38%2Fnbc_pft_texans_260529.jpg"
+        "title": "Bucs' Mayfield: Contract talks 'not anywhere close...",
+        "url": "https://www.espn.com/nfl/story/_/id/48976225/mayfield-contract-talks-not-anywhere-close-buccaneers",
+        "summary": "Bucs QB Baker Mayfield stated that contract extension talks are not progressing as expected.",
+        "source": "espn.com",
+        "date": "Mon, 8 Jun 2026 14:19:32 EST",
+        "image": ""
       },
       {
-        "title": "Eric Bieniemy returns Chiefs' focus to fundamentals",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eric-bieniemy-returns-chiefs-focus-to-fundamentals",
-        "summary": "Eric Bieniemy's return as offensive coordinator could revitalize the Chiefs' offensive strategy.",
+        "title": "Abdul Carter limps off Giants' practice field",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/abdul-carter-limps-off-giants-practice-field",
+        "summary": "Giants edge rusher Abdul Carter suffered an injury during mandatory minicamp practice.",
         "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 06:40:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6bdd54/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F992%2F279%2Fnbc_pft_mahomesdetermine_260529.jpg"
+        "date": "Mon, 08 Jun 2026 15:18:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7d6c8e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F343%2F779%2Fnbc_pft_wilsoncbs_260602.jpg"
       }
     ]
   }
