@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T09:27:12.602Z",
+  "updated": "2026-06-08T13:50:13.111Z",
   "feed": {
     "VR": [
       {
@@ -13,7 +13,7 @@
       {
         "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
         "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
-        "summary": "Valve has confirmed a summer release for its standalone VR headset Steam Frame and the Steam Machine console.",
+        "summary": "Valve has confirmed a summer release window for its standalone VR headset Steam Frame and the Steam Machine console.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 08:55:10 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg?resize=1920%2C1080&ssl=1"
@@ -21,7 +21,7 @@
       {
         "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
         "url": "https://roadtovr.com/meta-spins-out-supernatural/",
-        "summary": "Meta is spinning out its VR fitness app Supernatural into an independent company, promising fresh content for users.",
+        "summary": "Meta is spinning out its VR fitness app Supernatural into an independent company after a $400 million acquisition.",
         "source": "roadtovr.com",
         "date": "Thu, 04 Jun 2026 09:56:30 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
@@ -29,23 +29,23 @@
       {
         "title": "X-Plane & iRacing PC VR Streaming Clients Launched For Apple Vision Pro",
         "url": "https://www.uploadvr.com/x-plane-iracing-apple-vision-pro-pc-vr-streaming-clients-launched/",
-        "summary": "X-Plane 12 and iRacing are now playable in VR on Apple Vision Pro, integrating physical accessories with camera passthrough.",
+        "summary": "X-Plane 12 and iRacing are now playable in VR on Apple Vision Pro, offering a new immersive experience.",
         "source": "uploadvr.com",
         "date": "Wed, 03 Jun 2026 17:49:50 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/iRacing-and-X-Plane-on-Apple-Vision-Pro.png"
       },
       {
-        "title": "Quest 3 Headsets Are Heading To The International Space Station",
-        "url": "https://www.uploadvr.com/quest-3-headsets-are-heading-to-the-international-space-station/",
-        "summary": "Two Quest 3 headsets are set to be sent to the International Space Station for astronaut training.",
+        "title": "Supernatural To Return Under New Independent Company As Coaches Rejoin Platform",
+        "url": "https://www.uploadvr.com/supernatural-to-return-under-new-independent-company-as-coaches-rejoin-platform/",
+        "summary": "Supernatural is returning as an independent company, reuniting its original founders and coaches for new content.",
         "source": "uploadvr.com",
-        "date": "Mon, 01 Jun 2026 08:37:21 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/International-Space-Station.png"
+        "date": "Wed, 03 Jun 2026 16:02:13 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SN-Image.jpg"
       },
       {
         "title": "CleanSheet Soccer 2 Heads To PlayStation VR2 Next Week",
         "url": "https://www.uploadvr.com/cleansheet-soccer-2-heads-to-playstation-vr2-next-week/",
-        "summary": "CleanSheet Soccer 2 launches on PlayStation VR2 next week, featuring a redesign and no subscription fees.",
+        "summary": "CleanSheet Soccer 2 launches on PlayStation VR2 next week, featuring a redesign without subscription fees.",
         "source": "uploadvr.com",
         "date": "Thu, 04 Jun 2026 14:41:51 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/cleansheet-soccer-2-16x9-master-image.jpg"
@@ -53,49 +53,49 @@
     ],
     "AI": [
       {
-        "title": "New York lawmakers pass one-year ban on new data centers",
-        "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-        "summary": "New York lawmakers have passed a one-year moratorium on new large data centers, pending environmental impact assessments.",
-        "source": "theverge.com",
-        "date": "2026-06-05T11:25:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
         "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-        "summary": "TSMC is struggling to meet the high demand for AI chips, despite expanding its manufacturing capabilities in the US.",
+        "summary": "TSMC is struggling to meet the soaring demand for AI chips, despite its ongoing factory expansions in the US.",
         "source": "theverge.com",
         "date": "2026-06-04T10:15:44-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_210430_1777_semiCon_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "New York lawmakers pass one-year ban on new data centers",
+        "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+        "summary": "New York lawmakers have passed a one-year ban on new large data centers to assess their environmental impact.",
+        "source": "theverge.com",
+        "date": "2026-06-05T11:25:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Meta made its own AI-generated clickbait news feed",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+        "summary": "Meta has launched an AI-generated clickbait news feed in its standalone Meta AI app, raising concerns about content quality.",
+        "source": "theverge.com",
+        "date": "2026-06-06T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Here comes new Siri again",
+        "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+        "summary": "Apple is expected to unveil significant updates for Siri at WWDC, aiming to enhance its AI capabilities.",
+        "source": "theverge.com",
+        "date": "2026-06-06T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/wwdc_2024.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "This AI startup says it can tell if a script will make a hit film",
         "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-        "summary": "AI startup Quilty claims it can predict film success from scripts, though initial user tests have raised skepticism.",
+        "summary": "AI startup Quilty claims it can predict a film's success by analyzing scripts, but early tests leave users skeptical.",
         "source": "theverge.com",
         "date": "2026-06-05T09:57:31-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268573_This_AI_startup_wants_tell_you_if_your_script_will_make_a_hit_film_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-        "summary": "A proposed $2 billion data center in Shelbyville, Indiana, has sparked controversy and political backlash.",
-        "source": "theverge.com",
-        "date": "2026-06-06T11:05:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-        "summary": "Kevin O’Leary has agreed to reduce the size of his planned 40,000-acre data center in Utah amid public pressure.",
-        "source": "theverge.com",
-        "date": "2026-06-04T14:38:04-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP224_KEVIN_O_LEARY_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "A hacker group is poisoning open source code at an unprecedented scale",
         "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
-        "summary": "A hacker group has been poisoning open source code at an unprecedented scale, affecting platforms like GitHub.",
+        "summary": "A hacker group has been poisoning open source code at an unprecedented scale, targeting GitHub and other platforms.",
         "source": "arstechnica.com",
         "date": "Fri, 22 May 2026 10:30:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2270725355-1152x648.jpg"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Myles Garrett is the betting favorite to win Defensive Player of the Year",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-is-the-betting-favorite-to-win-defensive-player-of-the-year",
-        "summary": "Myles Garrett is the betting favorite to win the Defensive Player of the Year award for a third time.",
+        "title": "Seahawks are getting their Super Bowl LX rings on June 11",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-are-getting-their-super-bowl-lx-rings-on-june-11",
+        "summary": "The Seahawks will receive their Super Bowl LX rings on June 11, with MVP Kenneth Walker III expected to attend.",
         "source": "nbcsports.com",
-        "date": "Sat, 06 Jun 2026 10:34:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b26aa94/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F484%2F395%2Fnbc_pft_brownstrade_260603.jpg"
+        "date": "Sat, 06 Jun 2026 21:08:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10daf43/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F276%2F114%2Fnbc_pft_kennethwalkerleaving_260505.jpg"
       },
       {
-        "title": "Kayshon Boutte says he will attend Patriots' mandatory minicamp amid talk of a trade",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kayshon-boutte-says-he-will-attend-patriots-mandatory-minicamp-amid-talk-of-a-trade",
-        "summary": "Patriots wide receiver Kayshon Boutte plans to attend mandatory minicamp amid trade rumors.",
+        "title": "Will Anderson: New contract isn't pressure, it's opportunity",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-anderson-new-contract-isnt-pressure-its-opportunity",
+        "summary": "Texans defensive end Will Anderson views his new contract as an opportunity rather than pressure heading into the season.",
         "source": "nbcsports.com",
-        "date": "Sun, 07 Jun 2026 04:11:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6f4458f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F322%2Fnbc_pft_mcdanielsonaj_260603.jpg"
+        "date": "Mon, 08 Jun 2026 06:59:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38317e9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1002%2F38%2Fnbc_pft_texans_260529.jpg"
       },
       {
-        "title": "Plenty of tickets still available for Texans-Jaguars game at London's Wembley Stadium",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/plenty-of-tickets-still-available-for-texans-jaguars-game-at-londons-wembley-stadium",
-        "summary": "Ticket sales for the Texans-Jaguars game at Wembley Stadium are sluggish, with plenty still available.",
+        "title": "Jacoby Brissett plans to attend Cardinals' mandatory minicamp, despite contract dispute",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-plans-to-attend-cardinals-mandatory-minicamp-despite-contract-dispute",
+        "summary": "Jacoby Brissett plans to attend the Cardinals' mandatory minicamp despite an ongoing contract dispute.",
         "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 04:32:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e0c9d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F743%2F831%2Fnbc_pft_lawrence_260518.jpg"
+        "date": "Mon, 08 Jun 2026 05:22:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c289e6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F505%2F543%2FUSATSI_27865809.jpg"
+      },
+      {
+        "title": "CeeDee Lamb: Our new defense is \"annoying to prepare against\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-our-new-defense-is-annoying-to-prepare-against",
+        "summary": "Cowboys wide receiver CeeDee Lamb describes the team's new defense as challenging to prepare against ahead of the season.",
+        "source": "nbcsports.com",
+        "date": "Mon, 08 Jun 2026 09:19:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9561d6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F142%2F179%2Fnbc_pft_fifa_260521.jpg"
+      },
+      {
+        "title": "Will Campbell: I'm 22 years old, so I'm a long way from where I'm going to be",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-campbell-im-22-years-old-so-im-a-long-way-from-where-im-going-to-be",
+        "summary": "Patriots left tackle Will Campbell reflects on his rookie season, acknowledging room for growth after a tough Super Bowl loss.",
+        "source": "nbcsports.com",
+        "date": "Mon, 08 Jun 2026 09:30:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/df32700/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F993%2F179%2Fnbc_pft_availablewrs_260608.jpg"
       },
       {
         "title": "Rams, Chargers, 49ers support the proposed California workers' compensation law change",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-chargers-49ers-support-the-proposed-california-workers-compensation-law-change",
-        "summary": "The NFL Players Association opposes proposed changes to California workers' compensation laws that would limit athletes' rights.",
+        "summary": "The NFL Players Association opposes proposed changes to California workers' compensation laws that could limit athletes' rights.",
         "source": "nbcsports.com",
         "date": "Sat, 06 Jun 2026 20:32:15 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d63340/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F632%2F343%2Fnbc_pft_protectcollegesportsact_260604.jpg"
-      },
-      {
-        "title": "Baker Mayfield, Buccaneers are on a contractual collision course",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-buccaneers-are-on-a-contractual-collision-course",
-        "summary": "Baker Mayfield's contract negotiations with the Buccaneers are reportedly not progressing well.",
-        "source": "nbcsports.com",
-        "date": "Sat, 06 Jun 2026 13:34:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7f59583/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F883%2F275%2FNbc_pft_bakercontract_260414.jpg"
-      },
-      {
-        "title": "Aaron Glenn on Jets having no prime-time games: \"You earn the right\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-on-jets-having-no-prime-time-games-you-earn-the-right",
-        "summary": "Aaron Glenn commented on the Jets' lack of prime-time games, emphasizing that teams must earn such opportunities.",
-        "source": "nbcsports.com",
-        "date": "Sun, 07 Jun 2026 18:56:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7d6c8e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F343%2F779%2Fnbc_pft_wilsoncbs_260602.jpg"
       }
     ]
   }
