@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-08T21:26:36.323Z",
+  "updated": "2026-06-08T22:55:13.000Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Plans New Best Buy Pop-ups to Unify Demos of AI Glasses and VR Headsets",
         "url": "https://roadtovr.com/meta-plans-best-buy-pop-up-ray-ban-ai-glasses-vr-headset-quest/",
-        "summary": "Meta is launching updated pop-up kiosks in Best Buy to showcase its AI glasses and VR headsets.",
+        "summary": "Meta is launching updated kiosks at Best Buy for customers to demo its AI glasses and VR headsets.",
         "source": "roadtovr.com",
         "date": "Mon, 08 Jun 2026 18:30:40 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/meta-labs-at-best-buy-2.jpg?resize=999%2C666&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Snap Acquires AR Startup Illumix to Boost Next-gen ‘Specs’ Glasses",
         "url": "https://roadtovr.com/snap-acquires-illumix-specsar-glasses/",
-        "summary": "Snap has acquired AR startup Illumix to enhance its next-generation AR glasses.",
+        "summary": "Snap has acquired AR startup Illumix to enhance its upcoming AR glasses.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 14:39:38 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/09/spectacles-24-1.jpg?resize=1920%2C1080&ssl=1"
@@ -21,41 +21,49 @@
       {
         "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
         "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
-        "summary": "Valve has confirmed a summer release window for its standalone VR headset, Steam Frame, and the Steam Machine.",
+        "summary": "Valve has confirmed a summer release window for its standalone VR headset, Steam Frame, and Steam Machine.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 08:55:10 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
-        "url": "https://roadtovr.com/meta-spins-out-supernatural/",
-        "summary": "Meta is spinning out its VR fitness app Supernatural into an independent company after a $400M acquisition.",
-        "source": "roadtovr.com",
-        "date": "Thu, 04 Jun 2026 09:56:30 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
-      },
-      {
-        "title": "Supernatural To Return Under New Independent Company As Coaches Rejoin Platform",
-        "url": "https://www.uploadvr.com/supernatural-to-return-under-new-independent-company-as-coaches-rejoin-platform/",
-        "summary": "Supernatural is returning under new ownership, with its original founders and coaches reuniting to continue the VR fitness service.",
-        "source": "uploadvr.com",
-        "date": "Wed, 03 Jun 2026 16:02:13 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SN-Image.jpg"
-      },
-      {
         "title": "CleanSheet Soccer 2 Heads To PlayStation VR2 Next Week",
         "url": "https://www.uploadvr.com/cleansheet-soccer-2-heads-to-playstation-vr2-next-week/",
-        "summary": "CleanSheet Soccer 2, a redesigned soccer game, is set to launch on PlayStation VR2 next week.",
+        "summary": "CleanSheet Soccer 2, a redesigned VR soccer game, is set to launch on PlayStation VR2 next week.",
         "source": "uploadvr.com",
         "date": "Thu, 04 Jun 2026 14:41:51 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/cleansheet-soccer-2-16x9-master-image.jpg"
+      },
+      {
+        "title": "Vertigo Games Shutters ‘Metro Awakening’ Studio Amid “challenging” VR Market",
+        "url": "https://roadtovr.com/vertigo-games-shuts-down-metro-awakening-studio/",
+        "summary": "Vertigo Games has shut down its Amsterdam studio, citing ongoing challenges in the VR market.",
+        "source": "roadtovr.com",
+        "date": "Fri, 05 Jun 2026 16:24:05 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/07/metro-awakening.jpg?resize=1920%2C1080&ssl=1"
+      },
+      {
+        "title": "Following Parent Company Merger, ‘Walking Dead VR’ Studio’s Next Project Won’t Be in VR",
+        "url": "https://roadtovr.com/merger-walking-dead-studio-no-more-vr/",
+        "summary": "The studio behind The Walking Dead: Saints & Sinners is shifting focus from VR to traditional PC and console games.",
+        "source": "roadtovr.com",
+        "date": "Mon, 08 Jun 2026 12:24:42 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/walking-dead-saints-and-sinners-release-date-psvr.jpg?resize=1920%2C1080&ssl=1"
       }
     ],
     "AI": [
       {
+        "title": "OpenAI files for IPO, following Anthropic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+        "summary": "OpenAI has confidentially filed for an IPO, following rival Anthropic's similar move.",
+        "source": "theverge.com",
+        "date": "2026-06-08T17:38:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
         "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-        "summary": "Apple unveiled a new generation of Siri with enhanced AI features at WWDC, promising a more personalized experience.",
+        "summary": "Apple announced a new version of Siri, featuring enhanced AI capabilities and personalization.",
         "source": "theverge.com",
         "date": "2026-06-08T13:34:24-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-Siri-AI-and-its-next-generation-of-Apple-Intelligence.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +71,7 @@
       {
         "title": "Amazon is launching AI-generated custom merch",
         "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-        "summary": "Amazon is launching AI-generated custom merchandise, allowing shoppers to create unique designs through Alexa.",
+        "summary": "Amazon is launching a print-on-demand service for AI-generated custom merchandise.",
         "source": "theverge.com",
         "date": "2026-06-08T13:52:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,23 +79,15 @@
       {
         "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
         "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-        "summary": "Google's NotebookLM is getting a significant upgrade with the rollout of the Gemini 3.5 model for improved accuracy.",
+        "summary": "Google's NotebookLM app has been updated with the new Gemini 3.5 model for improved note-taking.",
         "source": "theverge.com",
         "date": "2026-06-08T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
-        "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-        "summary": "Microsoft's AI chief predicts that superintelligence is near but assures it won't replace jobs.",
-        "source": "theverge.com",
-        "date": "2026-06-08T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Meta made its own AI-generated clickbait news feed",
         "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-        "summary": "Meta has introduced an AI-generated clickbait news feed within its standalone AI app.",
+        "summary": "Meta has introduced an AI-generated clickbait news feed within its standalone Meta AI app.",
         "source": "theverge.com",
         "date": "2026-06-06T10:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
         "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "A critical vulnerability in the open-source package Starlette poses risks to millions of AI agents.",
+        "summary": "A critical vulnerability in the popular Starlette package threatens millions of AI agents.",
         "source": "arstechnica.com",
         "date": "Tue, 26 May 2026 19:50:33 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
@@ -103,9 +103,17 @@
     ],
     "NFL": [
       {
+        "title": "Bijan Robinson on whether he's next in line for extension: We'll see",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-on-whether-hes-the-next-falcon-to-sign-extension-well-see",
+        "summary": "Bijan Robinson has expressed uncertainty about his potential contract extension with the Falcons.",
+        "source": "nbcsports.com",
+        "date": "Mon, 08 Jun 2026 17:29:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e993aa/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F322%2Fnbc_pft_london_260603.jpg"
+      },
+      {
         "title": "Chiefs will sign L'Jarius Sneed",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-to-sign-ljarius-sneed",
-        "summary": "The Chiefs have signed cornerback L'Jarius Sneed to a new contract.",
+        "summary": "The Chiefs are set to re-sign cornerback L'Jarius Sneed, bolstering their defense.",
         "source": "nbcsports.com",
         "date": "Mon, 08 Jun 2026 16:35:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/62e3b08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F638%2F198%2Fnbc_pft_qbrankings_260604.jpg"
@@ -113,42 +121,34 @@
       {
         "title": "Patriots sign first-round pick Caleb Lomu",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-sign-first-round-pick-caleb-lomu",
-        "summary": "The Patriots have officially signed first-round pick Caleb Lomu to his rookie contract.",
+        "summary": "The Patriots have signed first-round pick Caleb Lomu, finalizing their rookie class.",
         "source": "nbcsports.com",
         "date": "Mon, 08 Jun 2026 16:12:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8363333/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_ajbrown_260608.jpg"
       },
       {
-        "title": "Panthers sign WR Malick Meiga",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-sign-wr-malick-meiga",
-        "summary": "The Panthers have added wide receiver Malick Meiga to their 90-man roster.",
+        "title": "Seahawks sign OT Bobby Hart",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-ot-bobby-hart",
+        "summary": "The Seahawks have signed offensive tackle Bobby Hart to enhance their offensive line depth.",
         "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 16:27:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/df32700/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F993%2F179%2Fnbc_pft_availablewrs_260608.jpg"
+        "date": "Mon, 08 Jun 2026 18:00:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6d882e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F992%2F203%2Fnbc_pft_nbaconvo_260608.jpg"
       },
       {
-        "title": "Bucs sign K B.T. Potter",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-sign-k-b-t-potter",
-        "summary": "The Buccaneers have signed kicker B.T. Potter to their roster.",
+        "title": "Chiefs agree to terms with first-round pick Mansoor Delane",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-agree-to-terms-with-first-round-pick-mansoor-delane",
+        "summary": "The Chiefs have agreed to terms with first-round pick Mansoor Delane, completing their draft signings.",
         "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 16:23:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/877bfd6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F775%2Fnbc_pft_bakercontract_260608.jpg"
+        "date": "Mon, 08 Jun 2026 14:55:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/51df396/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F995%2F207%2Fnbc_pft_rice_260529.jpg"
       },
       {
-        "title": "House Judiciary Committee report suggests NFL misled Congress about Sunday Ticket",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/house-judiciary-committee-report-suggests-nfl-misled-congress-about-sunday-ticket",
-        "summary": "A House Judiciary Committee report alleges the NFL misled Congress regarding the Sunday Ticket.",
+        "title": "Broncos LB Jonathon Cooper pleads not guilty to domestic violence charges",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-lb-jonathon-cooper-pleads-not-guilty-to-domestic-violence-charges",
+        "summary": "Broncos linebacker Jonathon Cooper has pleaded not guilty to domestic violence charges.",
         "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 14:58:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d63340/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F632%2F343%2Fnbc_pft_protectcollegesportsact_260604.jpg"
-      },
-      {
-        "title": "Broncos TE Caleb Lohner undergoes cleanup procedure",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-te-caleb-lohner-undergoes-cleanup-procedure",
-        "summary": "Broncos tight end Caleb Lohner will miss the remainder of the offseason after undergoing a cleanup procedure.",
-        "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 16:48:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0697f8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F506%2F1019%2Fnbc_pft_broncos_260515.jpg"
+        "date": "Mon, 08 Jun 2026 14:11:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c8e532f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F69%2F1007%2Fnbc_pft_craigmorton_260512.jpg"
       }
     ]
   }
