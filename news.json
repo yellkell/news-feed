@@ -1,19 +1,27 @@
 {
-  "updated": "2026-06-09T16:21:01.322Z",
+  "updated": "2026-06-09T18:28:59.613Z",
   "feed": {
     "VR": [
       {
         "title": "Apple Enables Third-party Motion Controllers & Tracked Accessories in visionOS 27",
         "url": "https://roadtovr.com/apple-enables-third-party-motion-controllers-tracked-accessories-in-visionos-27/",
-        "summary": "Apple's visionOS 27 now supports third-party motion controllers and tracked accessories for Vision Pro, enhancing its VR ecosystem.",
+        "summary": "Apple's visionOS 27 now supports third-party motion controllers, enhancing the capabilities of the Vision Pro headset.",
         "source": "roadtovr.com",
         "date": "Tue, 09 Jun 2026 02:19:58 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&ssl=1"
       },
       {
+        "title": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses",
+        "url": "https://www.uploadvr.com/meta-muse-spark-ai-model-replaces-llama-on-smart-glasses/",
+        "summary": "Meta's Muse Spark AI model replaces LLama 4 on smart glasses, significantly improving performance.",
+        "source": "uploadvr.com",
+        "date": "Mon, 08 Jun 2026 18:22:56 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-AI-with-Muse-Spark.jpg"
+      },
+      {
         "title": "Meta Extends \"Multi‑Year\" Partnership With Unity To \"Power Next‑Generation VR Experiences\"",
         "url": "https://www.uploadvr.com/meta-extends-multi-year-partnership-with-unity/",
-        "summary": "Meta has extended its multi-year partnership with Unity to develop next-generation VR experiences.",
+        "summary": "Meta has extended its partnership with Unity to develop next-generation VR experiences.",
         "source": "uploadvr.com",
         "date": "Mon, 08 Jun 2026 17:35:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Unity-Meta-parntership.png"
@@ -21,57 +29,57 @@
       {
         "title": "Meta's New 'Navigator' System UI Finally Rolled Out To All Quest Headsets",
         "url": "https://www.uploadvr.com/meta-horizon-os-navigator-ui-finally-rolled-out-to-all-quest-headsets/",
-        "summary": "Meta's new Horizon OS 'Navigator' system UI is now available on all Quest headsets after a year of testing.",
+        "summary": "Meta's new Horizon OS 'Navigator' system UI is now available on all Quest headsets.",
         "source": "uploadvr.com",
         "date": "Mon, 08 Jun 2026 17:21:45 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Horizon-OS-2026-Navigator-UI-crop.png"
       },
       {
-        "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
-        "url": "https://roadtovr.com/meta-spins-out-supernatural/",
-        "summary": "Meta has spun out the VR fitness app Supernatural into an independent company, allowing for fresh content and development.",
-        "source": "roadtovr.com",
-        "date": "Thu, 04 Jun 2026 09:56:30 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
-      },
-      {
         "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
         "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
-        "summary": "Valve has confirmed that its standalone VR headset Steam Frame and Steam Machine will launch this summer.",
+        "summary": "Valve has confirmed a summer release window for its standalone VR headset, Steam Frame, and Steam Machine.",
         "source": "roadtovr.com",
         "date": "Fri, 05 Jun 2026 08:55:10 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg?resize=1920%2C1080&ssl=1"
       },
       {
-        "title": "Snap Acquires AR Startup Illumix to Boost Next-gen ‘Specs’ Glasses",
-        "url": "https://roadtovr.com/snap-acquires-illumix-specsar-glasses/",
-        "summary": "Snap has acquired AR startup Illumix, aiming to enhance its next-generation AR glasses with new technology.",
+        "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
+        "url": "https://roadtovr.com/meta-spins-out-supernatural/",
+        "summary": "Meta is spinning out its VR fitness app Supernatural into an independent company after a $400M acquisition.",
         "source": "roadtovr.com",
-        "date": "Fri, 05 Jun 2026 14:39:38 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/09/spectacles-24-1.jpg?resize=1920%2C1080&ssl=1"
+        "date": "Thu, 04 Jun 2026 09:56:30 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
       }
     ],
     "AI": [
       {
+        "title": "Anthropic releases its first Mythos-class model Claude Fable",
+        "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+        "summary": "Anthropic has launched Claude Fable 5, its most powerful AI model to date, excelling in software engineering and vision tasks.",
+        "source": "theverge.com",
+        "date": "2026-06-09T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "OpenAI files for IPO, following Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-        "summary": "OpenAI has confidentially submitted a Form S-1 for an IPO, following rival Anthropic's similar move.",
+        "summary": "OpenAI has confidentially filed for an IPO, following Anthropic's similar move earlier this month.",
         "source": "theverge.com",
         "date": "2026-06-08T17:38:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
-        "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-        "summary": "Apple has unveiled a new version of Siri, promising enhanced capabilities and personalization during its WWDC keynote.",
+        "title": "Apple is embracing the fantasy of AI photo editing",
+        "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+        "summary": "Apple unveiled new AI-powered photo editing tools at WWDC 2026, shifting its stance on generative AI.",
         "source": "theverge.com",
-        "date": "2026-06-08T13:34:24-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-Siri-AI-and-its-next-generation-of-Apple-Intelligence.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-09T12:13:14-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-generative-AI-photo-editing-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Amazon is launching AI-generated custom merch",
         "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-        "summary": "Amazon is launching AI-generated custom merchandise, allowing shoppers to create designs using Alexa for Shopping.",
+        "summary": "Amazon is introducing AI-generated custom merchandise, allowing users to create designs via Alexa for Shopping.",
         "source": "theverge.com",
         "date": "2026-06-08T13:52:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +87,68 @@
       {
         "title": "Apple is using AI to fix Safari’s extension problem",
         "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-        "summary": "Apple is leveraging AI to enhance Safari's extension capabilities, inviting users to create their own extensions.",
+        "summary": "Apple is leveraging AI to enhance Safari's extension capabilities, inviting users to create their own.",
         "source": "theverge.com",
         "date": "2026-06-08T18:14:17-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/describe-extension-safari.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
-        "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
-        "summary": "Microsoft's AI chief clarifies that AI will assist, not replace, white-collar jobs, walking back earlier statements.",
+        "title": "Apple’s AI promises are finally, almost, sort of here",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+        "summary": "Apple's WWDC keynote featured ambitious AI promises, signaling its commitment to catch up in the AI landscape.",
         "source": "theverge.com",
-        "date": "2026-06-09T10:54:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2219304754.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-        "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-        "summary": "Google's NotebookLM has received an upgrade to Gemini 3.5, improving its accuracy and reliability in note-taking.",
-        "source": "theverge.com",
-        "date": "2026-06-08T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-09T10:18:18-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-e9a9ad41-eb47-49f2-80a4-3fb06df3a0d1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Rams' Alaric Jackson arrested for felony domestic battery",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-alaric-jackson-arrested-for-felony-domestic-battery",
-        "summary": "Rams offensive lineman Alaric Jackson has been arrested for felony domestic battery in Los Angeles.",
-        "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 12:06:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
+        "title": "Browns star LG Bitonio retires after 12 seasons",
+        "url": "https://www.espn.com/nfl/story/_/id/49009259/long-browns-guard-joel-bitonio-retires-12-seasons",
+        "summary": "Browns left guard Joel Bitonio has announced his retirement after 12 seasons in the NFL.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 14:22:06 EST",
+        "image": ""
       },
       {
-        "title": "Joel Bitonio announces his retirement after 12 seasons with the Browns",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joel-bitonio-announces-his-retirement-after-12-seasons-with-the-browns",
-        "summary": "Browns guard Joel Bitonio has announced his retirement after a 12-season career in the NFL.",
-        "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 09:11:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/015e306/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F634%2F795%2Fnbc_pft_jimschwartz_260604.jpg"
+        "title": "Rams' Jackson faces domestic violence charge",
+        "url": "https://www.espn.com/nfl/story/_/id/49010238/rams-alaric-jackson-arrested-domestic-violence-charge",
+        "summary": "Rams left tackle Alaric Jackson has been arrested on a felony domestic violence charge.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 14:22:06 EST",
+        "image": ""
       },
       {
-        "title": "Seahawks sign OT Bobby Hart",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-ot-bobby-hart",
-        "summary": "The Seahawks have signed offensive tackle Bobby Hart to bolster their offensive line depth.",
-        "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 18:00:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6d882e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F992%2F203%2Fnbc_pft_nbaconvo_260608.jpg"
+        "title": "Bears edge closer to move to Northwest Indiana",
+        "url": "https://www.espn.com/nfl/story/_/id/48976141/bears-edge-closer-move-new-stadium-northwest-indiana",
+        "summary": "The Chicago Bears are advancing plans to move to a new stadium in nearby Hammond, Indiana.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 14:22:06 EST",
+        "image": ""
       },
       {
-        "title": "Chiefs will sign L'Jarius Sneed",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-to-sign-ljarius-sneed",
-        "summary": "Cornerback L'Jarius Sneed is set to return to the Kansas City Chiefs after signing a new contract.",
-        "source": "nbcsports.com",
-        "date": "Mon, 08 Jun 2026 16:35:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/62e3b08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F638%2F198%2Fnbc_pft_qbrankings_260604.jpg"
+        "title": "Chiefs reunite with CB Sneed 2 years after trade",
+        "url": "https://www.espn.com/nfl/story/_/id/49002989/chiefs-signing-veteran-cb-ljarius-sneed-agents-say",
+        "summary": "The Chiefs have signed cornerback L'Jarius Sneed, reuniting him with the team after two years.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 14:22:05 EST",
+        "image": ""
       },
       {
-        "title": "Patriots to hold 13 open training camp practices",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-to-hold-13-open-training-camp-practices",
-        "summary": "The New England Patriots will hold 13 open training camp practices this summer for fans.",
+        "title": "Patriots second-rounder Gabe Jacas is not signed and not at minicamp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-second-rounder-gabe-jacas-is-not-signed-and-not-at-minicamp",
+        "summary": "Patriots second-round draft pick Gabe Jacas is absent from minicamp as he remains unsigned.",
         "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 10:09:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/25d4267/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F115%2F175%2Fnbc_pft_minicamps_260609.jpg"
+        "date": "Tue, 09 Jun 2026 12:59:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/57ec813/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F699%2Fnbc_pft_kayshonboutte_260609.jpg"
       },
       {
-        "title": "House Judiciary Committee disputes NFL's claim that \"87 percent\" of games are on free TV",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/house-judiciary-committee-disputes-nfls-claim-that-87-percent-of-games-are-on-free-tv",
-        "summary": "The House Judiciary Committee has challenged the NFL's claim that 87 percent of games are available on free TV.",
-        "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 10:52:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b1e0d86/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F118%2F602%2Fnbc_pft_impactofruling_260609.jpg"
+        "title": "Jags RB Rodriguez still out because of foot injury...",
+        "url": "https://www.espn.com/nfl/story/_/id/49011003/jaguars-rb-chris-rodriguez-foot-expected-training-camp",
+        "summary": "Jaguars running back Chris Rodriguez Jr. is recovering from foot surgery but is expected to return for training camp.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 14:22:05 EST",
+        "image": ""
       }
     ]
   }
