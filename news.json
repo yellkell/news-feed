@@ -1,19 +1,27 @@
 {
-  "updated": "2026-06-09T20:28:46.554Z",
+  "updated": "2026-06-09T22:07:38.243Z",
   "feed": {
     "VR": [
       {
         "title": "Apple Enables Third-party Motion Controllers & Tracked Accessories in visionOS 27",
         "url": "https://roadtovr.com/apple-enables-third-party-motion-controllers-tracked-accessories-in-visionos-27/",
-        "summary": "Apple's visionOS 27 now supports third-party motion controllers, enhancing the capabilities of the Vision Pro headset.",
+        "summary": "Apple's visionOS 27 now supports third-party motion controllers and tracked accessories, enhancing the capabilities of the Vision Pro headset.",
         "source": "roadtovr.com",
         "date": "Tue, 09 Jun 2026 02:19:58 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&ssl=1"
       },
       {
+        "title": "Meta's Muse Spark AI Model Replaces LLama 4 On Its Smart Glasses",
+        "url": "https://www.uploadvr.com/meta-muse-spark-ai-model-replaces-llama-on-smart-glasses/",
+        "summary": "Meta's Muse Spark AI model replaces LLama 4 on its smart glasses, significantly improving performance and narrowing the gap with leading AI systems.",
+        "source": "uploadvr.com",
+        "date": "Mon, 08 Jun 2026 18:22:56 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-AI-with-Muse-Spark.jpg"
+      },
+      {
         "title": "Meta Extends \"Multi‑Year\" Partnership With Unity To \"Power Next‑Generation VR Experiences\"",
         "url": "https://www.uploadvr.com/meta-extends-multi-year-partnership-with-unity/",
-        "summary": "Meta has extended its partnership with Unity to develop next-generation VR experiences.",
+        "summary": "Meta has extended its partnership with Unity to develop next-generation VR experiences, signaling ongoing investment in immersive technology.",
         "source": "uploadvr.com",
         "date": "Mon, 08 Jun 2026 17:35:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Unity-Meta-parntership.png"
@@ -21,7 +29,7 @@
       {
         "title": "Meta's New 'Navigator' System UI Finally Rolled Out To All Quest Headsets",
         "url": "https://www.uploadvr.com/meta-horizon-os-navigator-ui-finally-rolled-out-to-all-quest-headsets/",
-        "summary": "Meta's new Horizon OS 'Navigator' system UI is now available on all Quest headsets.",
+        "summary": "Meta's new Horizon OS 'Navigator' system UI has been rolled out to all Quest headsets, enhancing user experience after extensive testing.",
         "source": "uploadvr.com",
         "date": "Mon, 08 Jun 2026 17:21:45 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Horizon-OS-2026-Navigator-UI-crop.png"
@@ -29,7 +37,7 @@
       {
         "title": "Meta is Spinning out ‘Supernatural’ a Mere 3 Years After $400M Acquisition",
         "url": "https://roadtovr.com/meta-spins-out-supernatural/",
-        "summary": "Meta has spun out its VR fitness app Supernatural into an independent company, promising fresh content.",
+        "summary": "Meta has spun out its VR fitness app Supernatural into an independent company, promising more fresh content for users.",
         "source": "roadtovr.com",
         "date": "Thu, 04 Jun 2026 09:56:30 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/01/supernatural-quest-3.jpg?resize=1920%2C1080&ssl=1"
@@ -37,118 +45,110 @@
       {
         "title": "The Boys: Trigger Warning Is Out Now On PlayStation VR2",
         "url": "https://www.uploadvr.com/the-boys-trigger-warning-is-out-now-on-playstation-vr2/",
-        "summary": "The Boys: Trigger Warning is now available on PlayStation VR2, expanding the franchise's reach.",
+        "summary": "The immersive VR game 'The Boys: Trigger Warning' has been released on PlayStation VR2, coinciding with the TV series finale.",
         "source": "uploadvr.com",
         "date": "Tue, 09 Jun 2026 09:02:14 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/the-boys-psvr2.jpg"
-      },
-      {
-        "title": "Valve Confirms Summer Release Window for Steam Frame and Steam Machine",
-        "url": "https://roadtovr.com/valve-steam-frame-machine-release-window-confirmed/",
-        "summary": "Valve has confirmed a summer release for its standalone VR headset, Steam Frame, and Steam Machine.",
-        "source": "roadtovr.com",
-        "date": "Fri, 05 Jun 2026 08:55:10 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-machine-controller.jpg?resize=1920%2C1080&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases its first Mythos-class model Claude Fable",
         "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-        "summary": "Anthropic has unveiled Claude Fable 5, its most powerful AI model yet, excelling in software engineering and vision tasks.",
+        "summary": "Anthropic has launched Claude Fable 5, its most powerful AI model yet, excelling in software engineering and vision tasks.",
         "source": "theverge.com",
         "date": "2026-06-09T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI files for IPO, following Anthropic",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-        "summary": "OpenAI has filed for an IPO, marking a significant step in its business evolution.",
+        "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+        "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+        "summary": "General Motors announced vehicle-to-grid capabilities for EVs to help mitigate the energy demands of AI data centers.",
         "source": "theverge.com",
-        "date": "2026-06-08T17:38:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Apple’s AI promises are finally, almost, sort of here",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
-        "summary": "Apple has announced new AI-powered photo editing tools at WWDC 2026, signaling a shift in its approach to generative AI.",
-        "source": "theverge.com",
-        "date": "2026-06-09T10:18:18-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-e9a9ad41-eb47-49f2-80a4-3fb06df3a0d1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-09T17:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Apple is embracing the fantasy of AI photo editing",
         "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
-        "summary": "Apple is launching AI-driven photo editing features, moving away from its previous skepticism about generative AI.",
+        "summary": "Apple unveiled new AI-powered photo editing tools at WWDC 2026, embracing generative AI to enhance user creativity.",
         "source": "theverge.com",
         "date": "2026-06-09T12:13:14-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-generative-AI-photo-editing-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Apple’s AI promises are finally, almost, sort of here",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+        "summary": "Apple's WWDC 2026 showcased ambitious AI promises, including an enhanced Siri, as the company aims to catch up in the AI landscape.",
+        "source": "theverge.com",
+        "date": "2026-06-09T10:18:18-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-e9a9ad41-eb47-49f2-80a4-3fb06df3a0d1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
         "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
-        "summary": "Microsoft's AI chief clarified comments about AI's role in white-collar job automation, emphasizing AI's supportive function.",
+        "summary": "Microsoft AI chief Mustafa Suleyman clarified that AI will assist rather than replace white-collar jobs, walking back earlier comments.",
         "source": "theverge.com",
         "date": "2026-06-09T10:54:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2219304754.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Apple is using AI to fix Safari’s extension problem",
-        "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-        "summary": "Apple is leveraging AI to enhance Safari's extension capabilities, inviting users to create their own.",
+        "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+        "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+        "summary": "Microsoft's AI head criticized Anthropic for suggesting its Claude model possesses consciousness, calling it a dangerous narrative.",
         "source": "theverge.com",
-        "date": "2026-06-08T18:14:17-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/describe-extension-safari.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-09T16:24:25-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Bengals sign second-rounder Cashius Howell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-sign-second-rounder-cashius-howell",
-        "summary": "The Bengals have signed all their 2026 draft picks, including second-rounder Cashius Howell.",
-        "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 15:33:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9aad357/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F141%2F203%2Fnbc_pft_joeburrow_260521.jpg"
+        "title": "Sources: Bengals restructure Burrow's contract",
+        "url": "https://www.espn.com/nfl/story/_/id/49012436/sources-bengals-restructure-burrow-deal-free-cap-space",
+        "summary": "The Bengals have restructured quarterback Joe Burrow's contract, creating $10 million in cap space for the upcoming season.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 17:46:18 EST",
+        "image": ""
       },
       {
-        "title": "Bengals restructure Joe Burrow's contract for cap space",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-restructure-joe-burrows-contract-for-cap-space",
-        "summary": "The Bengals have restructured Joe Burrow's contract to create additional cap space.",
-        "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 15:25:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9aad357/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F141%2F203%2Fnbc_pft_joeburrow_260521.jpg"
+        "title": "Pats' Gonzalez, desiring new deal, shows at camp",
+        "url": "https://www.espn.com/nfl/story/_/id/49013401/patriots-christian-gonzalez-reports-mandatory-minicamp",
+        "summary": "Patriots cornerback Christian Gonzalez reported for mandatory minicamp, seeking a contract extension after missing voluntary workouts.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 17:46:18 EST",
+        "image": ""
+      },
+      {
+        "title": "Rams' Jackson faces domestic violence charge",
+        "url": "https://www.espn.com/nfl/story/_/id/49010238/rams-alaric-jackson-arrested-domestic-violence-charge",
+        "summary": "Rams left tackle Alaric Jackson was arrested on a felony domestic violence charge, confirmed by the Los Angeles Police Department.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 17:46:18 EST",
+        "image": ""
+      },
+      {
+        "title": "Panthers' Canales has skin cancer cell removal",
+        "url": "https://www.espn.com/nfl/story/_/id/49013165/panthers-coach-dave-canales-basal-cell-carcinoma-removed-nose",
+        "summary": "Panthers head coach Dave Canales revealed he underwent a procedure to remove a basal cell carcinoma spot.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 17:46:18 EST",
+        "image": ""
       },
       {
         "title": "Todd Monken not ready to name QB1, Shedeur Sanders, Deshaun Watson to continue competition",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-not-ready-to-name-qb1-shedeur-sanders-deshaun-watson-to-continue-competition",
-        "summary": "Browns head coach Todd Monken is yet to name a starting quarterback, keeping competition open.",
+        "summary": "Browns coach Todd Monken indicated that the competition between Deshaun Watson and Shedeur Sanders for QB1 will continue.",
         "source": "nbcsports.com",
         "date": "Tue, 09 Jun 2026 16:13:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/0038bb6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F630%2F891%2Fnbc_pft_jaredversebrowns_260604.jpg"
       },
       {
-        "title": "Calais Campbell expects 2026 to be his final NFL season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/calais-campbell-expects-2026-to-be-his-final-nfl-season",
-        "summary": "Calais Campbell is set to return for his 19th NFL season, indicating it may be his last.",
-        "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 15:09:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/62e3b08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F638%2F198%2Fnbc_pft_qbrankings_260604.jpg"
-      },
-      {
-        "title": "Rams sign OLB Tomon Fox",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-sign-olb-tomon-fox",
-        "summary": "The Rams have signed outside linebacker Tomon Fox, bolstering their defensive lineup.",
-        "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 14:36:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
-      },
-      {
-        "title": "Patriots second-rounder Gabe Jacas is not signed and not at minicamp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-second-rounder-gabe-jacas-is-not-signed-and-not-at-minicamp",
-        "summary": "Patriots second-round draft pick Gabe Jacas is absent from minicamp, yet to sign his contract.",
-        "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 12:59:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/57ec813/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F699%2Fnbc_pft_kayshonboutte_260609.jpg"
+        "title": "Ravens' Campbell says 19th season likely his last",
+        "url": "https://www.espn.com/nfl/story/_/id/49013335/ravens-calais-campbell-says-2026-season-19th-likely-last",
+        "summary": "Ravens defensive end Calais Campbell suggested that his 19th NFL season will likely be his last.",
+        "source": "espn.com",
+        "date": "Tue, 9 Jun 2026 17:46:17 EST",
+        "image": ""
       }
     ]
   }
