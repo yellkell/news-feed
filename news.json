@@ -1,27 +1,19 @@
 {
-  "updated": "2026-06-10T10:39:14.819Z",
+  "updated": "2026-06-10T14:00:52.289Z",
   "feed": {
     "VR": [
       {
         "title": "The Met's Immersive Future Extends Beyond The Museum",
         "url": "https://www.uploadvr.com/the-mets-immersive-future-extends-beyond-the-museum/",
-        "summary": "The Metropolitan Museum of Art is launching an immersive experience featuring the Temple of Dendur for Quest headsets and the web.",
+        "summary": "The Metropolitan Museum of Art is launching an immersive experience featuring the Temple of Dendur for Quest headsets and online access.",
         "source": "uploadvr.com",
         "date": "Tue, 09 Jun 2026 15:40:44 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Screenshot-2026-06-07-at-10.05.26---PM.png"
       },
       {
-        "title": "Into the Dead: Crimson Heights Crafts VR Horror From The Geometry Of Your Room",
-        "url": "https://www.uploadvr.com/into-the-dead-crimson-heights-crafts-vr-horror-from-the-geometry-of-your-room/",
-        "summary": "Into the Dead: Crimson Heights introduces a unique VR horror game that adapts its levels based on the physical layout of players' rooms.",
-        "source": "uploadvr.com",
-        "date": "Tue, 09 Jun 2026 15:17:41 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ITDCrimson-Heights_KeyArt_Anouncement_01_Logo.png"
-      },
-      {
         "title": "Apple Enables Third-party Motion Controllers & Tracked Accessories in visionOS 27",
         "url": "https://roadtovr.com/apple-enables-third-party-motion-controllers-tracked-accessories-in-visionos-27/",
-        "summary": "Apple's visionOS 27 now supports third-party motion controllers and accessories, expanding capabilities for its Vision Pro headset.",
+        "summary": "Apple's visionOS 27 now supports third-party motion controllers and tracked accessories for enhanced functionality on Vision Pro.",
         "source": "roadtovr.com",
         "date": "Tue, 09 Jun 2026 02:19:58 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&ssl=1"
@@ -29,33 +21,41 @@
       {
         "title": "Meta's New 'Navigator' System UI Finally Rolled Out To All Quest Headsets",
         "url": "https://www.uploadvr.com/meta-horizon-os-navigator-ui-finally-rolled-out-to-all-quest-headsets/",
-        "summary": "Meta has rolled out its new 'Navigator' system UI to all Quest headsets, enhancing user experience over a year after initial testing.",
+        "summary": "Meta's new 'Navigator' system UI has been fully rolled out to all Quest headsets, improving user experience.",
         "source": "uploadvr.com",
         "date": "Mon, 08 Jun 2026 17:21:45 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Horizon-OS-2026-Navigator-UI-crop.png"
       },
       {
-        "title": "Meta Plans New Best Buy Pop-ups to Unify Demos of AI Glasses and VR Headsets",
-        "url": "https://roadtovr.com/meta-plans-best-buy-pop-up-ray-ban-ai-glasses-vr-headset-quest/",
-        "summary": "Meta plans to launch updated kiosks in Best Buy for customers to demo its AI glasses and VR headsets.",
-        "source": "roadtovr.com",
-        "date": "Mon, 08 Jun 2026 18:30:40 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/meta-labs-at-best-buy-2.jpg?resize=999%2C666&ssl=1"
+        "title": "Into the Dead: Crimson Heights Crafts VR Horror From The Geometry Of Your Room",
+        "url": "https://www.uploadvr.com/into-the-dead-crimson-heights-crafts-vr-horror-from-the-geometry-of-your-room/",
+        "summary": "Into the Dead: Crimson Heights introduces a unique VR horror experience that adapts its environment based on your physical room.",
+        "source": "uploadvr.com",
+        "date": "Tue, 09 Jun 2026 15:17:41 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ITDCrimson-Heights_KeyArt_Anouncement_01_Logo.png"
       },
       {
-        "title": "CleanSheet Soccer 2 Heads To PlayStation VR2 Next Week",
-        "url": "https://www.uploadvr.com/cleansheet-soccer-2-heads-to-playstation-vr2-next-week/",
-        "summary": "CleanSheet Soccer 2, a redesigned soccer game, is set to launch on PlayStation VR2 next week without subscription fees.",
+        "title": "Meta Extends \"Multi‑Year\" Partnership With Unity To \"Power Next‑Generation VR Experiences\"",
+        "url": "https://www.uploadvr.com/meta-extends-multi-year-partnership-with-unity/",
+        "summary": "Meta has extended its partnership with Unity to develop next-generation VR experiences, enhancing their collaborative efforts.",
         "source": "uploadvr.com",
-        "date": "Thu, 04 Jun 2026 14:41:51 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/cleansheet-soccer-2-16x9-master-image.jpg"
+        "date": "Mon, 08 Jun 2026 17:35:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Unity-Meta-parntership.png"
+      },
+      {
+        "title": "Vertigo Games Shutters ‘Metro Awakening’ Studio Amid “challenging” VR Market",
+        "url": "https://roadtovr.com/vertigo-games-shuts-down-metro-awakening-studio/",
+        "summary": "Vertigo Games has shut down its Amsterdam studio, citing ongoing challenges in the VR market.",
+        "source": "roadtovr.com",
+        "date": "Fri, 05 Jun 2026 16:24:05 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/07/metro-awakening.jpg?resize=1920%2C1080&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases its first Mythos-class model Claude Fable",
         "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-        "summary": "Anthropic has unveiled Claude Fable 5, its most powerful AI model yet, excelling in software engineering and vision tasks.",
+        "summary": "Anthropic has launched Claude Fable 5, its most powerful AI model, excelling in software engineering and vision tasks.",
         "source": "theverge.com",
         "date": "2026-06-09T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
         "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-        "summary": "GM announced new vehicle-to-grid capabilities for its EVs to help offset the energy demands of AI data centers.",
+        "summary": "General Motors announced new vehicle-to-grid capabilities to help mitigate the energy demands of AI data centers.",
         "source": "theverge.com",
         "date": "2026-06-09T17:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Apple’s AI promises are finally, almost, sort of here",
         "url": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
-        "summary": "Apple's WWDC 2026 showcased new AI features for Siri, marking a significant step in the company's AI capabilities.",
+        "summary": "Apple unveiled new AI-powered features for Siri, aiming to enhance user experience with advanced functionalities.",
         "source": "theverge.com",
         "date": "2026-06-09T10:18:18-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-e9a9ad41-eb47-49f2-80a4-3fb06df3a0d1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
         "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-        "summary": "Microsoft's AI chief criticized Anthropic for its claims about Claude's consciousness, emphasizing the dangers of such speculation.",
+        "summary": "Microsoft's AI chief criticized Anthropic for suggesting its AI model Claude has consciousness, calling it a dangerous notion.",
         "source": "theverge.com",
         "date": "2026-06-09T16:24:25-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "Apple’s AI pitch will live or die by its privacy promise",
         "url": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
-        "summary": "Apple's latest AI initiatives focus on privacy, as the company aims to differentiate its offerings in a crowded market.",
+        "summary": "Apple's AI strategy emphasizes privacy, positioning its late entry into the field as a commitment to user data protection.",
         "source": "theverge.com",
         "date": "2026-06-09T08:55:33-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/apple-intelligence-siri-ai-private-cloud-compute.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
         "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "A critical vulnerability in the widely-used Starlette package threatens millions of AI agents, prompting urgent attention from developers.",
+        "summary": "A critical vulnerability in the open-source package Starlette, affecting millions of AI agents, has been identified as 'BadHost'.",
         "source": "arstechnica.com",
         "date": "Tue, 26 May 2026 19:50:33 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
@@ -105,7 +105,7 @@
       {
         "title": "Deion Sanders says he's fully back to health after fighting and beating cancer",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-says-hes-fully-back-to-health-after-fighting-and-beating-cancer",
-        "summary": "Deion Sanders announces he is fully healthy and ready for the 2026 season after overcoming bladder cancer.",
+        "summary": "Deion Sanders announces he is fully healthy and ready for the 2026 season after battling bladder cancer.",
         "source": "nbcsports.com",
         "date": "Wed, 10 Jun 2026 06:28:03 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8dd5822/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F743%2F331%2Fnbc_pft_deionmonken_260518.jpg"
@@ -113,7 +113,7 @@
       {
         "title": "Browns sign WR KC Concepcion to complete draft class signings",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-sign-wr-kc-concepcion-to-complete-draft-class-signings",
-        "summary": "The Browns have finalized their draft class signings by inking first-round wide receiver KC Concepcion to a contract.",
+        "summary": "The Browns have signed first-round wide receiver KC Concepcion, completing their draft class signings.",
         "source": "nbcsports.com",
         "date": "Tue, 09 Jun 2026 21:51:09 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d0c96e2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F113%2F723%2FGettyImages-2278486909.jpg"
@@ -121,34 +121,34 @@
       {
         "title": "Audit finds evidence of fraud in the pursuit of concussion settlement claims",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/audit-finds-evidence-of-fraud-in-the-pursuit-of-concussion-settlement-claims",
-        "summary": "An audit has uncovered over $87 million in fraud related to concussion settlement claims within the NFL.",
+        "summary": "An audit revealed over $87 million in losses due to fraudulent practices in concussion settlement claims.",
         "source": "nbcsports.com",
         "date": "Tue, 09 Jun 2026 23:44:54 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec34b38/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F199%2Fnbc_pft_turfmonster_260609.jpg"
       },
       {
-        "title": "Giants GM Joe Schoen thinks Malik Nabers will be ready to go for Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-gm-joe-schoen-thinks-malik-nabers-will-be-ready-to-go-for-week-1",
-        "summary": "Giants GM Joe Schoen is optimistic that rookie Malik Nabers will be ready for the team's season opener.",
+        "title": "Report: Chiefs, Wanya Morris exploring trade options",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chiefs-wanya-morris-exploring-trade-options",
+        "summary": "The Chiefs are exploring trade options involving offensive lineman Wanya Morris as part of roster adjustments.",
         "source": "nbcsports.com",
-        "date": "Wed, 10 Jun 2026 04:18:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec34b38/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F199%2Fnbc_pft_turfmonster_260609.jpg"
+        "date": "Wed, 10 Jun 2026 06:59:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/51df396/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F995%2F207%2Fnbc_pft_rice_260529.jpg"
       },
       {
-        "title": "Dave Canales has skin cancer removed from his nose",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dave-canales-has-skin-cancer-removed-from-his-nose",
-        "summary": "Panthers coach Dave Canales revealed he recently had skin cancer removed from his nose.",
+        "title": "Dallas Goedert on Eagles return: Had other opportunities, none better than Eagles return",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dallas-goedert-on-eagles-return-had-other-opportunities-none-better-than-eagles-return",
+        "summary": "Tight end Dallas Goedert expresses satisfaction in returning to the Eagles after exploring other free agency opportunities.",
         "source": "nbcsports.com",
-        "date": "Tue, 09 Jun 2026 20:43:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/af9c8a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F67%2F707%2Fnbc_pft_freelingpick19_260423.jpg"
+        "date": "Wed, 10 Jun 2026 08:49:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0515e1d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F254%2F839%2Fnbc_pft_siriannibrown_260610.jpg"
       },
       {
-        "title": "Sean McVay: I've seen improvement at OTAs, but it isn't real football until we put pads on",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-ive-seen-improvement-at-otas-but-it-isnt-real-football-until-we-put-pads-on",
-        "summary": "Rams coach Sean McVay notes improvements at OTAs but reminds that true evaluations come with full pads.",
+        "title": "In retirement press conference, Joel Bitinio pokes fun at Johnny Manziel",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-retirement-press-conference-joel-bitinio-pokes-fun-at-johnny-manziel",
+        "summary": "Long-time Browns offensive lineman Joel Bitonio announced his retirement after 12 seasons with the team.",
         "source": "nbcsports.com",
-        "date": "Wed, 10 Jun 2026 05:23:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
+        "date": "Tue, 09 Jun 2026 20:23:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0038bb6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F630%2F891%2Fnbc_pft_jaredversebrowns_260604.jpg"
       }
     ]
   }
