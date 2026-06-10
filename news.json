@@ -1,51 +1,51 @@
 {
-  "updated": "2026-06-10T19:57:05.263Z",
+  "updated": "2026-06-10T21:59:12.720Z",
   "feed": {
     "VR": [
       {
-        "title": "The Met's Immersive Future Extends Beyond The Museum",
-        "url": "https://www.uploadvr.com/the-mets-immersive-future-extends-beyond-the-museum/",
-        "summary": "The Metropolitan Museum of Art launches an immersive experience featuring the Temple of Dendur for Quest headsets and the web.",
-        "source": "uploadvr.com",
-        "date": "Tue, 09 Jun 2026 15:40:44 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Screenshot-2026-06-07-at-10.05.26---PM.png"
-      },
-      {
-        "title": "Amplium Makes Room For A Wider Range Of Apple Immersive Video On Vision Pro",
-        "url": "https://www.uploadvr.com/amplium-makes-room-for-a-wider-range-of-apple-immersive-video-on-vision-pro/",
-        "summary": "Amplium introduces a dedicated platform for immersive video on Apple Vision Pro, featuring a mix of documentaries and music experiences.",
-        "source": "uploadvr.com",
-        "date": "Wed, 10 Jun 2026 09:41:31 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Home-of-Amplium-2.png"
-      },
-      {
-        "title": "Siri on Vision Pro is Getting Eye-tracked Activation and Visual Awareness Alongside New AI Features",
-        "url": "https://roadtovr.com/siri-on-vision-pro-is-getting-eye-tracked-activation-and-visual-awareness-alongside-new-ai-features/",
-        "summary": "Apple's Vision Pro will enhance Siri with eye-tracked activation and new AI features, showcased at WWDC 2026.",
-        "source": "roadtovr.com",
-        "date": "Tue, 09 Jun 2026 17:50:47 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/siri-ai-vision-pro-1.jpg?resize=1920%2C1280&quality=89&ssl=1"
-      },
-      {
         "title": "Into the Dead: Crimson Heights Crafts VR Horror From The Geometry Of Your Room",
         "url": "https://www.uploadvr.com/into-the-dead-crimson-heights-crafts-vr-horror-from-the-geometry-of-your-room/",
-        "summary": "Into the Dead: Crimson Heights utilizes room geometry to create a unique horror experience on Quest 3 headsets.",
+        "summary": "Into the Dead: Crimson Heights crafts a unique VR horror experience by using the geometry of your room to create immersive gameplay.",
         "source": "uploadvr.com",
         "date": "Tue, 09 Jun 2026 15:17:41 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ITDCrimson-Heights_KeyArt_Anouncement_01_Logo.png"
       },
       {
+        "title": "Amplium Makes Room For A Wider Range Of Apple Immersive Video On Vision Pro",
+        "url": "https://www.uploadvr.com/amplium-makes-room-for-a-wider-range-of-apple-immersive-video-on-vision-pro/",
+        "summary": "Amplium launches as a dedicated platform for immersive video content on Apple Vision Pro, featuring a curated selection of documentaries and music experiences.",
+        "source": "uploadvr.com",
+        "date": "Wed, 10 Jun 2026 09:41:31 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Home-of-Amplium-2.png"
+      },
+      {
+        "title": "The Met's Immersive Future Extends Beyond The Museum",
+        "url": "https://www.uploadvr.com/the-mets-immersive-future-extends-beyond-the-museum/",
+        "summary": "The Metropolitan Museum of Art introduces an immersive VR experience of the Temple of Dendur, accessible via Quest headsets and the web.",
+        "source": "uploadvr.com",
+        "date": "Tue, 09 Jun 2026 15:40:44 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Screenshot-2026-06-07-at-10.05.26---PM.png"
+      },
+      {
         "title": "Apple Enables Third-party Motion Controllers & Tracked Accessories in visionOS 27",
         "url": "https://roadtovr.com/apple-enables-third-party-motion-controllers-tracked-accessories-in-visionos-27/",
-        "summary": "Apple's visionOS 27 now supports third-party motion controllers and tracked accessories for the Vision Pro.",
+        "summary": "Apple's visionOS 27 now supports third-party motion controllers and tracked accessories for enhanced functionality on Vision Pro.",
         "source": "roadtovr.com",
         "date": "Tue, 09 Jun 2026 02:19:58 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
       },
       {
+        "title": "Meta Extends \"Multi‑Year\" Partnership With Unity To \"Power Next‑Generation VR Experiences\"",
+        "url": "https://www.uploadvr.com/meta-extends-multi-year-partnership-with-unity/",
+        "summary": "Meta has extended its partnership with Unity to develop next-generation VR experiences, signaling continued investment in immersive technology.",
+        "source": "uploadvr.com",
+        "date": "Mon, 08 Jun 2026 17:35:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Unity-Meta-parntership.png"
+      },
+      {
         "title": "Meta's New 'Navigator' System UI Finally Rolled Out To All Quest Headsets",
         "url": "https://www.uploadvr.com/meta-horizon-os-navigator-ui-finally-rolled-out-to-all-quest-headsets/",
-        "summary": "Meta's new Horizon OS 'Navigator' system UI is now available on all Quest headsets after extensive testing.",
+        "summary": "Meta's new 'Navigator' system UI has been rolled out to all Quest headsets, enhancing user experience after extensive testing.",
         "source": "uploadvr.com",
         "date": "Mon, 08 Jun 2026 17:21:45 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Horizon-OS-2026-Navigator-UI-crop.png"
@@ -55,7 +55,7 @@
       {
         "title": "Anthropic releases its first Mythos-class model Claude Fable",
         "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-        "summary": "Anthropic unveils Claude Fable 5, its most powerful AI model to date, boasting exceptional performance in various tasks.",
+        "summary": "Anthropic has launched Claude Fable 5, its most powerful AI model to date, showcasing exceptional performance in various complex tasks.",
         "source": "theverge.com",
         "date": "2026-06-09T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
         "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-        "summary": "Microsoft restricts the use of Anthropic's Claude Fable for employees due to new data retention concerns.",
+        "summary": "Microsoft is limiting the use of Anthropic's Claude Fable 5 among employees due to new data retention concerns.",
         "source": "theverge.com",
         "date": "2026-06-10T12:50:23-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
         "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-        "summary": "Google faces a lawsuit from musicians alleging unauthorized use of their songs to train its Lyria music AI.",
+        "summary": "Independent musicians are suing Google for allegedly using their YouTube-uploaded songs to train its Lyria music AI without consent.",
         "source": "theverge.com",
         "date": "2026-06-10T13:20:36-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +79,76 @@
       {
         "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
         "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-        "summary": "Google announces it will save user interactions with Search, including images and audio, for AI training purposes.",
+        "summary": "Google will now save user interactions from Search, Lens, and Translate for AI training under a new 'Search Services History' setting.",
         "source": "theverge.com",
         "date": "2026-06-10T12:18:45-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-        "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-        "summary": "Microsoft AI CEO warns against Anthropic's claims of consciousness in its Claude model, calling it dangerous.",
-        "source": "theverge.com",
-        "date": "2026-06-09T16:24:25-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
         "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-        "summary": "General Motors reveals plans to utilize vehicle-to-grid technology to offset energy demands from AI data centers.",
+        "summary": "General Motors announced vehicle-to-grid technology for its EVs to help offset the energy demands of AI data centers.",
         "source": "theverge.com",
         "date": "2026-06-09T17:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+        "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+        "summary": "Microsoft AI CEO Mustafa Suleyman criticized Anthropic for suggesting its Claude model possesses consciousness, calling it a dangerous narrative.",
+        "source": "theverge.com",
+        "date": "2026-06-09T16:24:25-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
+        "title": "Mahomes to make over $500M in reworked deal",
+        "url": "https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal",
+        "summary": "Patrick Mahomes has restructured his contract with the Chiefs, making him the first NFL player to secure a deal worth over $500 million.",
+        "source": "espn.com",
+        "date": "Wed, 10 Jun 2026 16:31:33 EST",
+        "image": ""
+      },
+      {
         "title": "Sources: Bengals restructure Burrow's contract",
         "url": "https://www.espn.com/nfl/story/_/id/49012436/sources-bengals-restructure-burrow-deal-free-cap-space",
-        "summary": "The Cincinnati Bengals restructure Joe Burrow's contract, freeing up $10 million in cap space for the upcoming season.",
+        "summary": "The Bengals have restructured quarterback Joe Burrow's contract, freeing up $10 million in cap space for the upcoming season.",
         "source": "espn.com",
-        "date": "Wed, 10 Jun 2026 15:03:18 EST",
+        "date": "Wed, 10 Jun 2026 17:35:36 EST",
         "image": ""
       },
       {
-        "title": "Harbaugh 'hopeful' ailing Nabers will return soon",
-        "url": "https://www.espn.com/nfl/story/_/id/49020972/giants-john-harbaugh-hopeful-malik-nabers-back-soon",
-        "summary": "Giants coach John Harbaugh expresses optimism about wide receiver Malik Nabers' recovery progress.",
-        "source": "espn.com",
-        "date": "Wed, 10 Jun 2026 15:03:18 EST",
-        "image": ""
-      },
-      {
-        "title": "Colts' Pierce could be out well into training camp...",
-        "url": "https://www.espn.com/nfl/story/_/id/49020768/colts-wr-alec-pierce-says-ankle-surgery-was-unavoidable",
-        "summary": "Colts wide receiver Alec Pierce may miss significant training camp time due to ankle surgery.",
-        "source": "espn.com",
-        "date": "Wed, 10 Jun 2026 15:03:18 EST",
-        "image": ""
-      },
-      {
-        "title": "Firms accused of defrauding NFL's concussion fund",
-        "url": "https://www.espn.com/nfl/story/_/id/49014557/five-law-firms-accused-defrauding-nfl-concussion-fund",
-        "summary": "Five law firms are accused of defrauding the NFL's concussion settlement fund of over $87 million.",
-        "source": "espn.com",
-        "date": "Wed, 10 Jun 2026 15:03:18 EST",
-        "image": ""
-      },
-      {
-        "title": "Ravens' Campbell says 19th season likely his last",
-        "url": "https://www.espn.com/nfl/story/_/id/49013335/ravens-calais-campbell-says-2026-season-19th-likely-last",
-        "summary": "Ravens defensive end Calais Campbell hints that his 19th NFL season may be his last.",
-        "source": "espn.com",
-        "date": "Wed, 10 Jun 2026 15:03:18 EST",
-        "image": ""
-      },
-      {
-        "title": "Cardinals fourth-rounder Kaleb Proctor could miss entire season with torn meniscus",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-fourth-rounder-kaleb-proctor-could-miss-entire-season-with-torn-meniscus",
-        "summary": "Cardinals rookie defensive lineman Kaleb Proctor risks missing the entire 2026 season due to a torn meniscus.",
+        "title": "Dolphins C Aaron Brewer agrees to a three-year extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-c-aaron-brewer-agrees-to-a-three-year-extension",
+        "summary": "Dolphins center Aaron Brewer has signed a three-year extension worth $52.5 million, solidifying his position on the team.",
         "source": "nbcsports.com",
-        "date": "Wed, 10 Jun 2026 15:24:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69cd210/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F116%2F150%2Fnbc_pft_cardscamp_260609.jpg"
+        "date": "Wed, 10 Jun 2026 17:49:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
+      },
+      {
+        "title": "Eagles add Epenesa after Browns balked on deal",
+        "url": "https://www.espn.com/nfl/story/_/id/49022394/eagles-sign-aj-epenesa-months-browns-balked-deal",
+        "summary": "The Eagles have signed defensive end A.J. Epenesa after the Browns backed out of a previous deal.",
+        "source": "espn.com",
+        "date": "Wed, 10 Jun 2026 17:35:36 EST",
+        "image": ""
+      },
+      {
+        "title": "Packers TE Kraft (ACL) expects to be ready Wk. 1",
+        "url": "https://www.espn.com/nfl/story/_/id/49021670/packers-te-kraft-acl-expects-start-week-1-no-pitch-count",
+        "summary": "Packers tight end Tucker Kraft, recovering from an ACL injury, expects to be ready for Week 1 without restrictions.",
+        "source": "espn.com",
+        "date": "Wed, 10 Jun 2026 17:35:36 EST",
+        "image": ""
+      },
+      {
+        "title": "Seth Ryan: Return to Jets means a lot to family",
+        "url": "https://www.espn.com/nfl/story/_/id/49022057/seth-ryan-says-jets-homecoming-means-lot-family",
+        "summary": "Seth Ryan expressed how meaningful his return to the Jets is for his family, who have deep ties to the organization.",
+        "source": "espn.com",
+        "date": "Wed, 10 Jun 2026 17:35:36 EST",
+        "image": ""
       }
     ]
   }
