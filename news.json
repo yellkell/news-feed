@@ -1,14 +1,22 @@
 {
-  "updated": "2026-06-11T21:07:52.651Z",
+  "updated": "2026-06-11T22:57:57.570Z",
   "feed": {
     "VR": [
       {
         "title": "Qualcomm Teases Next-Gen Snapdragon XR Chipset, Possibly Debuting in Pico’s Next Flagship",
         "url": "https://roadtovr.com/qualcomm-next-gen-snapdragon-xr-pico-swan/",
-        "summary": "Qualcomm teases its next-gen Snapdragon XR chipset, potentially debuting in Pico's upcoming flagship headset.",
+        "summary": "Qualcomm teases its next-gen Snapdragon XR chipset aimed at standalone headsets, with more details expected soon.",
         "source": "roadtovr.com",
         "date": "Thu, 11 Jun 2026 06:23:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snapdragon-xr-lrg.jpg?resize=1536%2C1024&quality=89&ssl=1"
+      },
+      {
+        "title": "Pico’s Next Flagship XR Headset Reportedly Leaks, Showing Some Very Familiar Design",
+        "url": "https://roadtovr.com/picos-flagship-xr-headset-leaked-video-vision-pro-galaxy-xr/",
+        "summary": "Pico's next flagship XR headset design has leaked, showcasing familiar features ahead of its official announcement.",
+        "source": "roadtovr.com",
+        "date": "Thu, 11 Jun 2026 11:39:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/pico-project-swan.jpg?resize=1500%2C1000&quality=89&ssl=1"
       },
       {
         "title": "Goalkeeping Sim CleanSheet Soccer 2 Kicks Off On PlayStation VR2",
@@ -19,43 +27,35 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/CS-2--1920x1080----Promo-Image.png"
       },
       {
-        "title": "Meta Smart Glasses Daily Usage Tripled Year-Over-Year",
-        "url": "https://www.uploadvr.com/meta-smart-glasses-daily-usage-tripled-year-over-year/",
-        "summary": "Meta reports that daily usage of its smart glasses has tripled year-over-year, highlighting rapid growth in the consumer electronics market.",
-        "source": "uploadvr.com",
-        "date": "Wed, 10 Jun 2026 17:47:31 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Ray-Ban-Meta-glasses.png"
-      },
-      {
         "title": "The Met's Immersive Future Extends Beyond The Museum",
         "url": "https://www.uploadvr.com/the-mets-immersive-future-extends-beyond-the-museum/",
-        "summary": "The Metropolitan Museum of Art is launching an immersive experience featuring the Temple of Dendur for Quest headsets and the web.",
+        "summary": "The Metropolitan Museum of Art is launching an immersive experience featuring the Temple of Dendur for Quest headsets.",
         "source": "uploadvr.com",
         "date": "Tue, 09 Jun 2026 15:40:44 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Screenshot-2026-06-07-at-10.05.26---PM.png"
       },
       {
-        "title": "Into the Dead: Crimson Heights Crafts VR Horror From The Geometry Of Your Room",
-        "url": "https://www.uploadvr.com/into-the-dead-crimson-heights-crafts-vr-horror-from-the-geometry-of-your-room/",
-        "summary": "Into the Dead: Crimson Heights creates horror experiences based on the physical layout of players' rooms using Quest 3.",
-        "source": "uploadvr.com",
-        "date": "Tue, 09 Jun 2026 15:17:41 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ITDCrimson-Heights_KeyArt_Anouncement_01_Logo.png"
-      },
-      {
         "title": "Meta's New 'Navigator' System UI Finally Rolled Out To All Quest Headsets",
         "url": "https://www.uploadvr.com/meta-horizon-os-navigator-ui-finally-rolled-out-to-all-quest-headsets/",
-        "summary": "Meta's new 'Navigator' system UI has been rolled out to all Quest headsets after a year of testing.",
+        "summary": "Meta's new 'Navigator' system UI has been rolled out to all Quest headsets after extensive testing.",
         "source": "uploadvr.com",
         "date": "Mon, 08 Jun 2026 17:21:45 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Horizon-OS-2026-Navigator-UI-crop.png"
+      },
+      {
+        "title": "Meta Says Smart Glasses Daily Usage Tripled Year-Over-Year",
+        "url": "https://www.uploadvr.com/meta-smart-glasses-daily-usage-tripled-year-over-year/",
+        "summary": "Meta reports that daily usage of its smart glasses has tripled year-over-year, marking significant growth in the category.",
+        "source": "uploadvr.com",
+        "date": "Wed, 10 Jun 2026 17:47:31 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Ray-Ban-Meta-glasses.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "summary": "Anthropic apologizes for secretly throttling its Claude Fable AI model, promising more transparency on its guardrails.",
+        "summary": "Anthropic has apologized for secretly throttling its Claude Fable 5 AI model with hidden guardrails, promising greater transparency moving forward.",
         "source": "theverge.com",
         "date": "2026-06-11T07:40:43-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
         "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-        "summary": "Independent musicians are suing Google for allegedly using their YouTube songs to train its Lyria music AI without permission.",
+        "summary": "Google faces a lawsuit from independent musicians alleging unauthorized use of their songs to train its Lyria music AI.",
         "source": "theverge.com",
         "date": "2026-06-10T13:20:36-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
         "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-        "summary": "Amazon reveals its data centers consumed 2.5 billion gallons of water last year amid growing scrutiny over resource usage.",
+        "summary": "Amazon disclosed its data centers used 2.5 billion gallons of water last year, amid growing scrutiny over resource consumption.",
         "source": "theverge.com",
         "date": "2026-06-11T13:26:57-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
         "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-        "summary": "Microsoft is restricting employee access to Anthropic's Claude Fable AI model due to new data retention concerns.",
+        "summary": "Microsoft is restricting employee access to Anthropic's Claude Fable due to concerns about new data retention policies.",
         "source": "theverge.com",
         "date": "2026-06-10T12:50:23-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "Deezer launches an AI music detector for other streaming services",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-        "summary": "Deezer launches an AI music detector that scans playlists on other platforms to identify AI-generated music.",
+        "summary": "Deezer has launched an AI music detector that scans playlists on other platforms to identify AI-generated music.",
         "source": "theverge.com",
         "date": "2026-06-11T04:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
         "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-        "summary": "Google will now save user interactions with Search, including images and audio, for AI training under a new setting.",
+        "summary": "Google will now save user interactions with its Search and Lens services under a new 'Search Services History' setting for AI training.",
         "source": "theverge.com",
         "date": "2026-06-10T12:18:45-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Broncos reward Payton with new 5-year contract",
-        "url": "https://www.espn.com/nfl/story/_/id/49031235/broncos-reward-coach-sean-payton-new-5-year-contract",
-        "summary": "The Broncos have signed coach Sean Payton to a new five-year contract, extending his tenure through the 2030 season.",
-        "source": "espn.com",
-        "date": "Thu, 11 Jun 2026 16:44:47 EST",
-        "image": ""
+        "title": "Sean Payton signs new five-year contract with Broncos",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-signs-new-five-year-contract-with-broncos",
+        "summary": "Sean Payton has signed a new five-year contract with the Broncos, aligning with G.M. George Paton through 2030.",
+        "source": "nbcsports.com",
+        "date": "Thu, 11 Jun 2026 13:04:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0697f8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F506%2F1019%2Fnbc_pft_broncos_260515.jpg"
       },
       {
-        "title": "Falcons trade for Chiefs OT Morris, sources say",
-        "url": "https://www.espn.com/nfl/story/_/id/49032113/falcons-acquire-wanya-morris-trade-chiefs-sources-say",
-        "summary": "The Falcons have traded for offensive tackle Wanya Morris from the Chiefs, bolstering their offensive line.",
-        "source": "espn.com",
-        "date": "Thu, 11 Jun 2026 16:44:47 EST",
-        "image": ""
+        "title": "Chiefs agree to trade Wanya Morris to the Falcons",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-agree-to-trade-wanya-morris-to-the-falcons",
+        "summary": "The Chiefs have agreed to trade offensive tackle Wanya Morris to the Falcons, marking a significant roster move.",
+        "source": "nbcsports.com",
+        "date": "Thu, 11 Jun 2026 14:12:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/395e35f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F391%2F550%2Fnbc_pft_patrickmahomesnewmoney_260611.jpg"
       },
       {
-        "title": "Ruggs denied parole nearly five years after crash",
-        "url": "https://www.espn.com/nfl/story/_/id/49032484/ex-raiders-wr-henry-ruggs-denied-parole-nearly-5-years-crash",
-        "summary": "Ex-NFL player Henry Ruggs was denied parole nearly five years after causing a fatal car crash in Las Vegas.",
-        "source": "espn.com",
-        "date": "Thu, 11 Jun 2026 16:44:47 EST",
-        "image": ""
+        "title": "Darron Lee is formally indicted on first-degree murder charge",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darron-lee-is-formally-indicted-on-first-degree-murder-charge",
+        "summary": "Former Jets first-round pick Darron Lee has been formally indicted on a first-degree murder charge.",
+        "source": "nbcsports.com",
+        "date": "Thu, 11 Jun 2026 13:21:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ddc7dd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F390%2F575%2Fnbc_pft_sorsbyruling_260611.jpg"
       },
       {
-        "title": "Ex-NFL linebacker Lee indicted on murder charge",
-        "url": "https://www.espn.com/nfl/story/_/id/49033300/ex-nfl-linebacker-darron-lee-indicted-murder-charge",
-        "summary": "Former NFL linebacker Darron Lee has been indicted on a murder charge related to the death of his partner.",
-        "source": "espn.com",
-        "date": "Thu, 11 Jun 2026 16:44:47 EST",
-        "image": ""
+        "title": "Former NFL WR Lance Rentzel dies at 82",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-nfl-wr-lance-rentzel-dies-at-82",
+        "summary": "Former NFL wide receiver Lance Rentzel has passed away at the age of 82.",
+        "source": "nbcsports.com",
+        "date": "Thu, 11 Jun 2026 17:23:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4ad392a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F257%2F767%2Fnbc_pft_moredak_260610.jpg"
       },
       {
-        "title": "Bucs lose an OTA practice for being too physical",
-        "url": "https://www.espn.com/nfl/story/_/id/49032098/bucs-docked-ota-too-many-guys-ground-says-bowles",
-        "summary": "The Buccaneers forfeited an OTA practice due to excessive physicality, as confirmed by coach Todd Bowles.",
-        "source": "espn.com",
-        "date": "Thu, 11 Jun 2026 16:44:47 EST",
-        "image": ""
+        "title": "Bo Nix did some walkthrough work today, will participate in next week's minicamp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-did-some-walkthrough-work-today-will-participate-in-next-weeks-minicamp",
+        "summary": "Broncos quarterback Bo Nix is progressing in his recovery and will participate in next week's minicamp.",
+        "source": "nbcsports.com",
+        "date": "Thu, 11 Jun 2026 15:16:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0697f8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F506%2F1019%2Fnbc_pft_broncos_260515.jpg"
       },
       {
-        "title": "Lions won't rush Branch return from Achilles tear",
-        "url": "https://www.espn.com/nfl/story/_/id/49030831/lions-campbell-rush-branch-return-achilles-tear",
-        "summary": "Lions coach Dan Campbell states that DB Brian Branch is recovering well from an Achilles injury, with no set return date.",
-        "source": "espn.com",
-        "date": "Thu, 11 Jun 2026 16:44:47 EST",
-        "image": ""
+        "title": "Andy Reid: I think Rashee Rice will be ready for training camp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-i-think-rashee-rice-will-be-ready-for-training-camp",
+        "summary": "Chiefs receiver Rashee Rice is expected to be ready for training camp despite currently serving a jail sentence.",
+        "source": "nbcsports.com",
+        "date": "Thu, 11 Jun 2026 16:17:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/395e35f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F391%2F550%2Fnbc_pft_patrickmahomesnewmoney_260611.jpg"
       }
     ]
   }
