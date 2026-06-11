@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-11T11:47:09.702Z",
+  "updated": "2026-06-11T15:40:57.981Z",
   "feed": {
     "VR": [
       {
         "title": "Qualcomm Teases Next-Gen Snapdragon XR Chipset, Possibly Debuting in Pico’s Next Flagship",
         "url": "https://roadtovr.com/qualcomm-next-gen-snapdragon-xr-pico-swan/",
-        "summary": "Qualcomm teases a next-gen Snapdragon XR chipset aimed at standalone headsets, potentially debuting with Pico's upcoming flagship.",
+        "summary": "Qualcomm teases a next-gen Snapdragon XR chipset aimed at standalone headsets, potentially debuting in Pico's upcoming flagship device.",
         "source": "roadtovr.com",
         "date": "Thu, 11 Jun 2026 06:23:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snapdragon-xr-lrg.jpg?resize=1536%2C1024&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Google Gemini Smart Glasses Launching In Fall To Take On Meta",
         "url": "https://www.uploadvr.com/gemini-smart-glasses-are-launching-in-fall-to-take-on-ray-ban-meta/",
-        "summary": "Google's smart glasses, powered by Warby Parker and Gentle Monster, are set to launch this fall to compete with Meta's offerings.",
+        "summary": "Google's smart glasses, developed with Warby Parker and Gentle Monster, are set to launch this fall to compete with Meta's offerings.",
         "source": "uploadvr.com",
         "date": "Wed, 10 Jun 2026 17:38:01 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Warby-Parker-and-Gentle-Monster-Google-Gemini-smart-glasses.png"
@@ -21,57 +21,49 @@
       {
         "title": "Meta Smart Glasses Daily Usage Tripled Year-Over-Year",
         "url": "https://www.uploadvr.com/meta-smart-glasses-daily-usage-tripled-year-over-year/",
-        "summary": "Meta reports a tripling in daily usage of its smart glasses year-over-year, highlighting rapid growth in consumer electronics.",
+        "summary": "Meta reports a year-over-year tripling in daily usage of its smart glasses, highlighting rapid growth in the consumer electronics sector.",
         "source": "uploadvr.com",
         "date": "Wed, 10 Jun 2026 17:47:31 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Ray-Ban-Meta-glasses.png"
       },
       {
-        "title": "Siri on Vision Pro is Getting Eye-tracked Activation and Visual Awareness Alongside New AI Features",
-        "url": "https://roadtovr.com/siri-on-vision-pro-is-getting-eye-tracked-activation-and-visual-awareness-alongside-new-ai-features/",
-        "summary": "Apple's Vision Pro will feature enhanced Siri capabilities with eye-tracked activation and new AI features as part of visionOS 27.",
-        "source": "roadtovr.com",
-        "date": "Tue, 09 Jun 2026 17:50:47 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/siri-ai-vision-pro-1.jpg?resize=1920%2C1280&quality=89&ssl=1"
+        "title": "Into the Dead: Crimson Heights Crafts VR Horror From The Geometry Of Your Room",
+        "url": "https://www.uploadvr.com/into-the-dead-crimson-heights-crafts-vr-horror-from-the-geometry-of-your-room/",
+        "summary": "Into the Dead: Crimson Heights introduces a unique horror experience on Quest 3 by utilizing the physical layout of players' rooms.",
+        "source": "uploadvr.com",
+        "date": "Tue, 09 Jun 2026 15:17:41 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ITDCrimson-Heights_KeyArt_Anouncement_01_Logo.png"
       },
       {
         "title": "Meta Plans New Best Buy Pop-ups to Unify Demos of AI Glasses and VR Headsets",
         "url": "https://roadtovr.com/meta-plans-best-buy-pop-up-ray-ban-ai-glasses-vr-headset-quest/",
-        "summary": "Meta plans to roll out updated kiosks in Best Buy for customers to demo its AI glasses and VR headsets.",
+        "summary": "Meta is launching new demo pop-ups at Best Buy to showcase its AI glasses and VR headsets in a unified retail space.",
         "source": "roadtovr.com",
         "date": "Mon, 08 Jun 2026 18:30:40 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/meta-labs-at-best-buy-2.jpg?resize=999%2C666&quality=89&ssl=1"
       },
       {
-        "title": "Meta's New 'Navigator' System UI Finally Rolled Out To All Quest Headsets",
-        "url": "https://www.uploadvr.com/meta-horizon-os-navigator-ui-finally-rolled-out-to-all-quest-headsets/",
-        "summary": "Meta's new Horizon OS 'Navigator' system UI has been fully rolled out to all Quest headsets after extensive testing.",
+        "title": "The Boys: Trigger Warning Is Out Now On PlayStation VR2",
+        "url": "https://www.uploadvr.com/the-boys-trigger-warning-is-out-now-on-playstation-vr2/",
+        "summary": "The immersive VR title The Boys: Trigger Warning is now available on PlayStation VR2, following the conclusion of its TV series.",
         "source": "uploadvr.com",
-        "date": "Mon, 08 Jun 2026 17:21:45 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Horizon-OS-2026-Navigator-UI-crop.png"
+        "date": "Tue, 09 Jun 2026 09:02:14 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/the-boys-psvr2.jpg"
       }
     ],
     "AI": [
       {
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "summary": "Anthropic has apologized for hidden guardrails in its Claude Fable 5 AI model that limited its functionality, promising greater transparency moving forward.",
+        "summary": "Anthropic has apologized for secretly implementing restrictive guardrails on its Claude Fable AI model, promising increased transparency moving forward.",
         "source": "theverge.com",
         "date": "2026-06-11T07:40:43-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Deezer launches an AI music detector for other streaming services",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-        "summary": "Deezer launches an AI music detector that scans playlists across streaming services to identify AI-generated tracks.",
-        "source": "theverge.com",
-        "date": "2026-06-11T04:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
         "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-        "summary": "Google faces a lawsuit from musicians claiming it illegally used their YouTube songs to train its Lyria music AI.",
+        "summary": "Google faces a lawsuit from musicians alleging it illegally used their songs to train its Lyria music AI without permission.",
         "source": "theverge.com",
         "date": "2026-06-10T13:20:36-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,15 +71,23 @@
       {
         "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
         "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-        "summary": "Microsoft has restricted employee access to Anthropic's Claude Fable due to concerns over new data retention policies.",
+        "summary": "Microsoft is restricting employee access to Anthropic's Claude Fable AI due to concerns over new data retention policies.",
         "source": "theverge.com",
         "date": "2026-06-10T12:50:23-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Deezer launches an AI music detector for other streaming services",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+        "summary": "Deezer launches an AI music detector that scans playlists on other platforms to identify AI-generated tracks, enhancing music transparency.",
+        "source": "theverge.com",
+        "date": "2026-06-11T04:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
         "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-        "summary": "General Motors announced vehicle-to-grid technology for its EVs to help offset energy consumption from growing AI data centers.",
+        "summary": "General Motors announced new vehicle-to-grid capabilities for its EVs, aiming to offset energy consumption from AI data centers.",
         "source": "theverge.com",
         "date": "2026-06-09T17:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/GM-Energy-home-energy-system-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
         "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-        "summary": "Google will save user interactions from its services for AI training, including images and audio from Search and Lens.",
+        "summary": "Google will now save user interactions from Search, Lens, and Translate for AI training under a new 'Search Services History' setting.",
         "source": "theverge.com",
         "date": "2026-06-10T12:18:45-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Report: Patrick Mahomes, Chiefs agree to first NFL deal worth over $500M",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-patrick-mahomes-chiefs-agree-to-first-nfl-deal-worth-over-500m",
-        "summary": "Patrick Mahomes and the Chiefs have agreed to a groundbreaking contract extension worth over $500 million, setting a new NFL record.",
-        "source": "nbcsports.com",
-        "date": "Wed, 10 Jun 2026 16:41:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6bdd54/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F992%2F279%2Fnbc_pft_mahomesdetermine_260529.jpg"
+        "title": "Mahomes to make over $500M in reworked deal",
+        "url": "https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal",
+        "summary": "Patrick Mahomes has restructured his contract with the Chiefs, extending it through 2033 for a total value of $504.75 million.",
+        "source": "espn.com",
+        "date": "Thu, 11 Jun 2026 07:20:15 EST",
+        "image": ""
       },
       {
-        "title": "Dolphins C Aaron Brewer agrees to a three-year extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-c-aaron-brewer-agrees-to-a-three-year-extension",
-        "summary": "Dolphins center Aaron Brewer has signed a three-year contract extension worth $52.5 million.",
-        "source": "nbcsports.com",
-        "date": "Wed, 10 Jun 2026 17:49:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
+        "title": "Dolphins, C Brewer reach 3-year, $52.5M deal",
+        "url": "https://www.espn.com/nfl/story/_/id/49022536/dolphins-center-brewer-reach-3-year-525-million-extension",
+        "summary": "The Dolphins have signed center Aaron Brewer to a three-year, $52.5 million extension, making him one of the highest-paid at his position.",
+        "source": "espn.com",
+        "date": "Thu, 11 Jun 2026 07:20:15 EST",
+        "image": ""
       },
       {
-        "title": "Inside the Drake London deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-drake-london-deal",
-        "summary": "The Falcons have finalized a long-term deal with receiver Drake London, securing one of their key offensive players.",
+        "title": "Chris Jones: I gotta get more sacks in 2026",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-jones-i-gotta-get-more-sacks-in-2026",
+        "summary": "Chris Jones emphasizes the need for improvement in his sack count as the Chiefs aim to bounce back from last season's playoff miss.",
         "source": "nbcsports.com",
-        "date": "Wed, 10 Jun 2026 20:38:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f04fcb2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F120%2F55%2Fnbc_pft_bijanrobinson_260609.jpg"
+        "date": "Thu, 11 Jun 2026 09:55:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/39515c2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F381%2F791%2Fnbc_pft_patrickmahomesextension_260611.jpg"
       },
       {
-        "title": "Eagles release Za'Darius Smith from reserve/retired list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-release-zadarius-smith-from-reserve-retired-list",
-        "summary": "Za'Darius Smith has been released from the Eagles' reserve/retired list, opening the door for a potential return to play.",
+        "title": "Steelers sign WR Joaquin Davis, DB Daryl Porter",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-sign-wr-joaquin-davis-db-daryl-porter",
+        "summary": "The Steelers have signed wide receiver Joaquin Davis and defensive back Daryl Porter as they finalize their offseason roster.",
         "source": "nbcsports.com",
-        "date": "Wed, 10 Jun 2026 18:04:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8363333/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_ajbrown_260608.jpg"
+        "date": "Thu, 11 Jun 2026 10:13:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8e9e504/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F629%2F915%2Fnbc_pft_nickherbigimpact_260604.jpg"
       },
       {
-        "title": "Cardinals CB Garrett Williams \"for sure\" has a chance to play Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-cb-garrett-williams-for-sure-has-a-chance-to-play-week-1",
-        "summary": "Cardinals cornerback Garrett Williams is on track to play in Week 1 after recovering from a torn Achilles.",
-        "source": "nbcsports.com",
-        "date": "Wed, 10 Jun 2026 18:53:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69cd210/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F116%2F150%2Fnbc_pft_cardscamp_260609.jpg"
+        "title": "Lamar sees 'explosiveness' in new Ravens offense",
+        "url": "https://www.espn.com/nfl/story/_/id/49023246/lamar-jackson-touts-new-ravens-oc-declan-doyle-offense-mind-blowing",
+        "summary": "Lamar Jackson expresses excitement about the new Ravens offense, anticipating increased explosiveness in the upcoming season.",
+        "source": "espn.com",
+        "date": "Thu, 11 Jun 2026 07:20:15 EST",
+        "image": ""
       },
       {
-        "title": "Saints WR Chris Olave still not fully cleared",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-wr-chris-olave-still-not-fully-cleared",
-        "summary": "Saints wide receiver Chris Olave is still not fully cleared to play following a serious health issue.",
-        "source": "nbcsports.com",
-        "date": "Wed, 10 Jun 2026 21:33:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fecd8f1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F58%2F423%2Fnbc_pft_tysonpick8_260423.jpg"
+        "title": "Watson keen to start again, downplays Haslam jab",
+        "url": "https://www.espn.com/nfl/story/_/id/49022643/qb-deshaun-watson-eager-compete-browns-starting-job-downplays-jimmy-haslam-swing-miss-comment",
+        "summary": "Browns quarterback Deshaun Watson addressed reporters for the first time since his Achilles injury, focusing on his recovery and future.",
+        "source": "espn.com",
+        "date": "Thu, 11 Jun 2026 07:20:15 EST",
+        "image": ""
       }
     ]
   }
