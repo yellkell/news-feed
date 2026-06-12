@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-12T12:30:32.648Z",
+  "updated": "2026-06-12T15:48:21.610Z",
   "feed": {
     "VR": [
       {
         "title": "Steam Frame is Poised for Launch as Units Begin Reaching the US",
         "url": "https://roadtovr.com/valve-steam-frame-imported-us-release/",
-        "summary": "Valve is gearing up for the imminent launch of its long-awaited Steam Frame standalone VR headset, with units arriving in US warehouses.",
+        "summary": "Valve is set to launch its long-awaited Steam Frame VR headset, with units arriving at US warehouses.",
         "source": "roadtovr.com",
         "date": "Fri, 12 Jun 2026 07:58:19 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Steam Frame Is Shipping \"This Summer\", Valve Confirms",
+        "title": "Steam Frame Shipping \"This Summer\", Valve Confirms, As Pallets Arrive In US",
         "url": "https://www.uploadvr.com/steam-frame-is-shipping-this-summer-valve-confirms/",
-        "summary": "Valve confirmed that the Steam Frame headset is shipping this summer, alongside a new 'Steam Frame Verified' label.",
+        "summary": "Steam Frame is confirmed to ship this summer, with pallets of the headset already spotted in the US.",
         "source": "uploadvr.com",
         "date": "Thu, 11 Jun 2026 18:06:46 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Steam-Frame-headsetControllers_front_b.jpg"
@@ -21,23 +21,23 @@
       {
         "title": "Developers Are Building Impressive Apps For Meta Ray-Ban Display's HUD & Neural Band",
         "url": "https://www.uploadvr.com/meta-ray-ban-display-amazing-hud-apps/",
-        "summary": "Meta has enabled developers to create visual apps for its Ray-Ban Display, controlled by the Meta Neural Band, sparking innovative projects.",
+        "summary": "Developers are creating innovative apps for Meta's Ray-Ban Display, utilizing its HUD and Neural Band technology.",
         "source": "uploadvr.com",
         "date": "Thu, 11 Jun 2026 16:21:27 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Ray-Ban-Display-visual-app-support-examples.png"
       },
       {
-        "title": "Goalkeeping Sim CleanSheet Soccer 2 Kicks Off On PlayStation VR2",
-        "url": "https://www.uploadvr.com/goalkeeping-sim-cleansheet-soccer-2-kicks-off-on-playstation-vr2/",
-        "summary": "CleanSheet Soccer 2, a goalkeeping simulator designed for PlayStation VR2, has officially launched.",
-        "source": "uploadvr.com",
-        "date": "Thu, 11 Jun 2026 11:29:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/CS-2--1920x1080----Promo-Image.png"
+        "title": "Pico’s Next Flagship XR Headset Reportedly Leaks, Showing Some Very Familiar Design",
+        "url": "https://roadtovr.com/picos-flagship-xr-headset-leaked-video-vision-pro-galaxy-xr/",
+        "summary": "Pico's next flagship XR headset has reportedly leaked, showcasing a familiar design ahead of its launch.",
+        "source": "roadtovr.com",
+        "date": "Thu, 11 Jun 2026 11:39:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/pico-project-swan.jpg?resize=1500%2C1000&quality=89&ssl=1"
       },
       {
         "title": "Qualcomm Teases Next-Gen Snapdragon XR Chipset, Possibly Debuting in Pico’s Next Flagship",
         "url": "https://roadtovr.com/qualcomm-next-gen-snapdragon-xr-pico-swan/",
-        "summary": "Qualcomm teased its next-gen Snapdragon XR chipset aimed at standalone headsets, with details expected soon.",
+        "summary": "Qualcomm teases its next-gen Snapdragon XR chipset, potentially debuting in Pico's upcoming flagship headset.",
         "source": "roadtovr.com",
         "date": "Thu, 11 Jun 2026 06:23:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snapdragon-xr-lrg.jpg?resize=1536%2C1024&quality=89&ssl=1"
@@ -45,7 +45,7 @@
       {
         "title": "Google Gemini Smart Glasses Launching In Fall To Take On Meta",
         "url": "https://www.uploadvr.com/gemini-smart-glasses-are-launching-in-fall-to-take-on-ray-ban-meta/",
-        "summary": "Google's smart glasses, developed with Warby Parker and Gentle Monster, are set to launch this fall to compete with Meta's offerings.",
+        "summary": "Google is launching smart glasses this fall, aiming to compete directly with Meta's offerings.",
         "source": "uploadvr.com",
         "date": "Wed, 10 Jun 2026 17:38:01 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Warby-Parker-and-Gentle-Monster-Google-Gemini-smart-glasses.png"
@@ -53,17 +53,17 @@
     ],
     "AI": [
       {
-        "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
-        "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-        "summary": "Amazon revealed its data centers consumed 2.5 billion gallons of water last year amidst growing concerns over resource usage.",
+        "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+        "summary": "Jeff Bezos' new AI startup, Prometheus, aims to develop an 'artificial general engineer' for product design.",
         "source": "theverge.com",
-        "date": "2026-06-11T13:26:57-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-12T10:03:39-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "summary": "Anthropic apologized for secretly implementing guardrails in its Claude Fable 5 AI model, promising greater transparency moving forward.",
+        "summary": "Anthropic has apologized for secretly throttling its Claude Fable AI model with hidden guardrails.",
         "source": "theverge.com",
         "date": "2026-06-11T07:40:43-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Deezer launches an AI music detector for other streaming services",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-        "summary": "Deezer launched an AI music detector that identifies AI-generated tracks across various streaming platforms.",
+        "summary": "Deezer has launched an AI music detector that scans playlists on other platforms for AI-generated music.",
         "source": "theverge.com",
         "date": "2026-06-11T04:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +79,76 @@
       {
         "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
         "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-        "summary": "Independent musicians are suing Google for allegedly using their YouTube songs to train its Lyria music AI without consent.",
+        "summary": "Google faces a lawsuit from independent musicians over allegedly using their YouTube songs to train its music AI.",
         "source": "theverge.com",
         "date": "2026-06-10T13:20:36-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-        "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-        "summary": "Microsoft has restricted the use of Anthropic's Claude Fable AI model for employees due to new data retention concerns.",
+        "title": "SpaceX’s massive IPO: all the latest news",
+        "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+        "summary": "SpaceX's IPO allows public investment in its combined rocket, AI, and social media ventures, potentially making Elon Musk a trillionaire.",
         "source": "theverge.com",
-        "date": "2026-06-10T12:50:23-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-12T10:35:48-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
-        "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-        "summary": "Google announced it will save user interactions, including images and audio, for AI training under a new 'Search Services History' setting.",
+        "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
+        "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+        "summary": "Amazon revealed its data centers consumed 2.5 billion gallons of water last year amid scrutiny over resource use.",
         "source": "theverge.com",
-        "date": "2026-06-10T12:18:45-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-11T13:26:57-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "WR Jalen Coker agrees to three-year extension with Panthers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-jalen-coker-agrees-to-three-year-extension-with-panthers",
-        "summary": "The Panthers have signed wide receiver Jalen Coker to a three-year, $35 million contract extension.",
-        "source": "nbcsports.com",
-        "date": "Thu, 11 Jun 2026 19:31:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/af9c8a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F67%2F707%2Fnbc_pft_freelingpick19_260423.jpg"
+        "title": "Coker, Panthers reach 3-year, $35M extension",
+        "url": "https://www.espn.com/nfl/story/_/id/49035006/wr-jalen-coker-panthers-reach-3-year-35m-extension",
+        "summary": "The Panthers have signed receiver Jalen Coker to a three-year, $35 million contract extension.",
+        "source": "espn.com",
+        "date": "Fri, 12 Jun 2026 10:22:45 EST",
+        "image": ""
       },
       {
-        "title": "Seahawks receive their Super Bowl LX rings",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-receive-their-super-bowl-lx-rings",
-        "summary": "The Seattle Seahawks proudly unveiled their Super Bowl LX championship rings during a special ceremony.",
-        "source": "nbcsports.com",
-        "date": "Fri, 12 Jun 2026 08:02:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/23e4734/2147483647/strip/false/crop/2560x1440+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F53%2F7977d63d4688a7acf76f838b3a6e%2Fsk7bbzminfvav7p4jy39.webp"
+        "title": "Broncos' Cooper arrested for alleged harassment",
+        "url": "https://www.espn.com/nfl/story/_/id/49040520/jonathon-cooper-arrested-again-allegedly-violated-protection-order",
+        "summary": "Broncos linebacker Jonathon Cooper was arrested for allegedly violating a protection order against him.",
+        "source": "espn.com",
+        "date": "Fri, 12 Jun 2026 10:23:10 EST",
+        "image": ""
       },
       {
-        "title": "With new five-year contract in hand, Sean Payton plans to keep going as long as he enjoys it",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-new-five-year-contract-in-hand-sean-payton-plans-to-keep-going-as-long-as-he-enjoys-it",
-        "summary": "Sean Payton has secured a new five-year contract with the Broncos, expressing his intent to continue coaching as long as he enjoys it.",
+        "title": "Broncos' Jonathon Cooper now faces felony charge after domestic violence accusation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-jonathon-cooper-now-faces-felony-charge-after-domestic-violence-accusation",
+        "summary": "Jonathon Cooper faces a felony charge after being accused of domestic violence, following a previous misdemeanor arrest.",
         "source": "nbcsports.com",
-        "date": "Thu, 11 Jun 2026 20:20:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0697f8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F506%2F1019%2Fnbc_pft_broncos_260515.jpg"
+        "date": "Fri, 12 Jun 2026 09:46:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
       },
       {
-        "title": "Todd Bowles: Baker Mayfield's a true pro, contract will take care of itself",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-baker-mayfields-a-true-pro-contract-will-take-care-of-itself",
-        "summary": "Buccaneers coach Todd Bowles stated that quarterback Baker Mayfield is a true professional, emphasizing that contract issues will resolve themselves.",
-        "source": "nbcsports.com",
-        "date": "Fri, 12 Jun 2026 08:11:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/877bfd6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F775%2Fnbc_pft_bakercontract_260608.jpg"
+        "title": "Sources: No NFL discipline for Chiefs coach Merrit...",
+        "url": "https://www.espn.com/nfl/story/_/id/49039791/sources-no-league-discipline-chiefs-dbs-coach-merritt",
+        "summary": "The NFL found insufficient evidence to discipline Chiefs coach Dave Merritt after his personal conduct investigation.",
+        "source": "espn.com",
+        "date": "Fri, 12 Jun 2026 10:22:45 EST",
+        "image": ""
       },
       {
-        "title": "Raiders expect Jermod McCoy to be healthy enough to do plenty of work in training camp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-expect-jermod-mccoy-to-be-healthy-enough-to-do-plenty-of-work-in-training-camp",
-        "summary": "The Raiders are optimistic about Jermod McCoy's recovery, expecting him to participate fully in training camp.",
+        "title": "All first-round picks are signed, except quarterbacks Fernando Mendoza and Ty Simpson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/all-first-round-picks-are-signed-except-quarterbacks-fernando-mendoza-and-ty-simpson",
+        "summary": "All first-round NFL draft picks are signed, except for quarterbacks Fernando Mendoza and Ty Simpson.",
         "source": "nbcsports.com",
-        "date": "Fri, 12 Jun 2026 04:35:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5e174e6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F623%2Fnbc_pft_cousins_260611.jpg"
+        "date": "Fri, 12 Jun 2026 11:29:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9545e3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_coacheslandjob_260612.jpg"
       },
       {
-        "title": "Henry Ruggs denied parole on Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/henry-ruggs-denied-parole-on-thursday",
-        "summary": "Henry Ruggs III was denied parole by the Nevada Board of Parole Commissioners in a recent ruling.",
-        "source": "nbcsports.com",
-        "date": "Thu, 11 Jun 2026 15:45:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72cc466/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F390%2F575%2Fnbc_pft_texastechsuing_260611.jpg"
+        "title": "Bowles backs Mayfield as long-term QB amid talks",
+        "url": "https://www.espn.com/nfl/story/_/id/49037608/bucs-bowles-backs-mayfield-long-term-qb-amid-contract-talks",
+        "summary": "Bucs coach Todd Bowles expressed confidence in Baker Mayfield as the long-term quarterback for the team.",
+        "source": "espn.com",
+        "date": "Fri, 12 Jun 2026 10:22:45 EST",
+        "image": ""
       }
     ]
   }
