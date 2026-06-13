@@ -1,19 +1,35 @@
 {
-  "updated": "2026-06-13T06:41:38.235Z",
+  "updated": "2026-06-13T09:45:43.817Z",
   "feed": {
     "VR": [
       {
         "title": "Hyperlane Highway Announces Meta Quest Release Alongside PC VR Later This Year",
         "url": "https://www.uploadvr.com/hyperlane-highway-announces-meta-quest-release-alongside-pc-vr-later-this-year/",
-        "summary": "Futuristic FPS Hyperlane Highway announces a release on Meta Quest alongside its previously confirmed SteamVR launch later this year.",
+        "summary": "Futuristic hoverboard roguelite FPS Hyperlane Highway will launch on Meta Quest alongside PC VR later this year.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:35:47 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/HyperlaneHighway3.png"
       },
       {
+        "title": "Sci-Fi Survival Thriller Project NEOS Announcement Trailer And Playtests Revealed",
+        "url": "https://www.uploadvr.com/sci-fi-survival-thriller-project-neos-announcement-trailer-and-playtests-revealed/",
+        "summary": "Project NEOS, a futuristic survival thriller, has announced open alpha playtests for players trapped in a space station run by a killer AI.",
+        "source": "uploadvr.com",
+        "date": "Fri, 12 Jun 2026 10:26:55 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ProjectNEOS3.png"
+      },
+      {
+        "title": "Downhill Skateboarding Game Bomb The Hill Coming To SteamVR",
+        "url": "https://www.uploadvr.com/downhill-skateboarding-game-bomb-the-hill-coming-to-steamvr/",
+        "summary": "Cinematic VR downhill skateboarding game Bomb the Hill is set to release on SteamVR this summer.",
+        "source": "uploadvr.com",
+        "date": "Fri, 12 Jun 2026 10:38:50 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/BTH_KeyArt_2560x1440.webp"
+      },
+      {
         "title": "VR Cyberpunk Street Racer Pedal Rebel Reveals October Release Date In New Story Trailer",
         "url": "https://www.uploadvr.com/pedal-rebel-reveals-october-release-date/",
-        "summary": "VR cyberpunk street racer Pedal Rebel reveals an October 5 release date for both SteamVR and Meta Quest.",
+        "summary": "VR cyberpunk street racer Pedal Rebel is scheduled to hit SteamVR and Meta Quest on October 5.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:13:39 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/PedalRebelVR3.png"
@@ -21,41 +37,25 @@
       {
         "title": "Survival Horror The Obsessive Shadow Chapter 2 Announced for PC VR, PlayStation VR2, & Meta Quest",
         "url": "https://www.uploadvr.com/survival-horror-the-obsessive-shadow-chapter-2-announced-for-pc-vr-playstation-vr2-meta-quest/",
-        "summary": "The Obsessive Shadow Chapter 2, a survival horror game, is set to launch on PC VR, PS VR2, and Meta Quest.",
+        "summary": "The Obsessive Shadow Chapter 2, a survival horror game, is set to launch on PC VR, PlayStation VR2, and Meta Quest.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:30:04 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/TheObsessiveShadow3.png"
       },
       {
-        "title": "Sci-Fi Survival Thriller Project NEOS Announcement Trailer And Playtests Revealed",
-        "url": "https://www.uploadvr.com/sci-fi-survival-thriller-project-neos-announcement-trailer-and-playtests-revealed/",
-        "summary": "Project NEOS, a sci-fi survival thriller, announces open alpha playtests for players trapped in a space station run by a killer AI.",
-        "source": "uploadvr.com",
-        "date": "Fri, 12 Jun 2026 10:26:55 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ProjectNEOS3.png"
-      },
-      {
         "title": "Free-To-Play Social Playground Jetpack Clankers Hits Early Access On Meta Quest Next Week",
         "url": "https://www.uploadvr.com/jetpack-clankers-hits-early-access-on-meta-quest-next-week/",
-        "summary": "Jetpack Clankers, a free-to-play social playground, will enter Early Access on Meta Quest starting June 16.",
+        "summary": "Free-to-play social playground Jetpack Clankers will enter Early Access on Meta Quest on June 16.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:31:19 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/JetpackClankers3.png"
-      },
-      {
-        "title": "Mixed Reality Platformer Disembodied Is Coming To Quest This October",
-        "url": "https://www.uploadvr.com/mixed-reality-platformer-disembodied-is-coming-to-quest-this-october/",
-        "summary": "Mixed reality platformer Disembodied is confirmed for release on Quest 3 and 3s this October.",
-        "source": "uploadvr.com",
-        "date": "Fri, 12 Jun 2026 10:19:56 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Disembodied_4KBack.png"
       }
     ],
     "AI": [
       {
         "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-        "summary": "Jeff Bezos' new AI startup, Prometheus, aims to create an 'artificial general engineer' for product design.",
+        "summary": "Jeff Bezos' new AI startup Prometheus aims to develop an 'artificial general engineer' to assist in product design.",
         "source": "theverge.com",
         "date": "2026-06-12T10:03:39-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
         "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-        "summary": "A critical vulnerability in Oracle's PeopleSoft software has compromised data for hundreds of organizations.",
+        "summary": "A critical vulnerability in Oracle's PeopleSoft software has exposed sensitive data across hundreds of organizations.",
         "source": "arstechnica.com",
         "date": "Fri, 12 Jun 2026 19:26:47 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-1152x648.jpg"
@@ -71,7 +71,7 @@
       {
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "summary": "Anthropic has apologized for hidden guardrails in its Claude Fable 5 AI model, promising increased transparency.",
+        "summary": "Anthropic has apologized for stealthily implementing hidden guardrails in its Claude Fable AI model, promising greater transparency.",
         "source": "theverge.com",
         "date": "2026-06-11T07:40:43-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,37 +79,29 @@
       {
         "title": "Deezer launches an AI music detector for other streaming services",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-        "summary": "Deezer launches an AI music detector that scans playlists on other platforms for AI-generated music.",
+        "summary": "Deezer has launched an AI music detector to identify AI-generated music across various streaming platforms.",
         "source": "theverge.com",
         "date": "2026-06-11T04:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Elon Musk is the world’s first trillionaire",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+        "summary": "Elon Musk has become the world's first trillionaire following SpaceX's successful IPO.",
+        "source": "theverge.com",
+        "date": "2026-06-12T12:24:39-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "SpaceX’s massive IPO: all the latest news",
         "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-        "summary": "SpaceX's IPO has made Elon Musk the world's first trillionaire, significantly increasing his wealth.",
+        "summary": "SpaceX's IPO allows public investment in the company, significantly boosting Elon Musk's net worth.",
         "source": "theverge.com",
         "date": "2026-06-12T10:35:48-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268591_SPaceX_IPO_AKrales_0072.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-        "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "A critical vulnerability in the open-source package Starlette threatens millions of AI agents.",
-        "source": "arstechnica.com",
-        "date": "Tue, 26 May 2026 19:50:33 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
       }
     ],
     "NFL": [
-      {
-        "title": "NFL closes personal conduct review of WR Diggs",
-        "url": "https://www.espn.com/nfl/story/_/id/49042034/nfl-closes-personal-conduct-review-wr-stefon-diggs",
-        "summary": "The NFL has closed its investigation into Stefon Diggs, finding insufficient evidence of a personal conduct policy violation.",
-        "source": "espn.com",
-        "date": "Fri, 12 Jun 2026 19:27:54 EST",
-        "image": ""
-      },
       {
         "title": "Seahawks' SB LX rings salute fans, city, history",
         "url": "https://www.espn.com/nfl/story/_/id/49038108/seahawks-super-bowl-lx-title-rings-salute-fans-city-history",
@@ -119,33 +111,41 @@
         "image": ""
       },
       {
+        "title": "NFL closes personal conduct review of WR Diggs",
+        "url": "https://www.espn.com/nfl/story/_/id/49042034/nfl-closes-personal-conduct-review-wr-stefon-diggs",
+        "summary": "The NFL has closed its investigation into Stefon Diggs, finding insufficient evidence of a conduct policy violation.",
+        "source": "espn.com",
+        "date": "Fri, 12 Jun 2026 19:27:54 EST",
+        "image": ""
+      },
+      {
         "title": "Bowles backs Mayfield as long-term QB amid talks",
         "url": "https://www.espn.com/nfl/story/_/id/49037608/bucs-bowles-backs-mayfield-long-term-qb-amid-contract-talks",
-        "summary": "Bucs coach Todd Bowles expresses confidence in Baker Mayfield as the team's long-term quarterback amid contract discussions.",
+        "summary": "Bucs coach Todd Bowles expressed confidence in Baker Mayfield as the team's long-term quarterback despite contract discussions.",
         "source": "espn.com",
         "date": "Fri, 12 Jun 2026 19:27:54 EST",
         "image": ""
       },
       {
-        "title": "Ruggs denied parole nearly five years after crash",
-        "url": "https://www.espn.com/nfl/story/_/id/49032484/ex-raiders-wr-henry-ruggs-denied-parole-nearly-5-years-crash",
-        "summary": "Former NFL player Henry Ruggs was denied parole nearly five years after a fatal car crash.",
+        "title": "Sources: No NFL discipline for Chiefs coach Merrit...",
+        "url": "https://www.espn.com/nfl/story/_/id/49039791/sources-no-league-discipline-chiefs-dbs-coach-merritt",
+        "summary": "The NFL concluded its investigation of Chiefs coach Dave Merritt, finding no evidence of personal conduct policy violations.",
         "source": "espn.com",
         "date": "Fri, 12 Jun 2026 19:27:54 EST",
         "image": ""
-      },
-      {
-        "title": "Vikings hire Andrew Healy, Trent Kirchner as assistant GMs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-hire-andrew-healy-trent-kirchner-as-assistant-gms",
-        "summary": "The Vikings have hired Andrew Healy and Trent Kirchner as assistant General Managers under new GM Nolan Teasley.",
-        "source": "nbcsports.com",
-        "date": "Fri, 12 Jun 2026 20:03:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1847b2e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_vikings_260612.jpg"
       },
       {
         "title": "Broncos' Cooper arrested for alleged harassment",
         "url": "https://www.espn.com/nfl/story/_/id/49040520/jonathon-cooper-arrested-again-allegedly-violated-protection-order",
         "summary": "Broncos linebacker Jonathon Cooper was arrested for allegedly violating a protection order.",
+        "source": "espn.com",
+        "date": "Fri, 12 Jun 2026 19:27:54 EST",
+        "image": ""
+      },
+      {
+        "title": "Retired Ragnow: Body told me to stop playing",
+        "url": "https://www.espn.com/nfl/story/_/id/49043269/frank-ragnow-reflects-abrupt-lions-retirement-aborted-return",
+        "summary": "Former Lions center Frank Ragnow opened up about his abrupt retirement and the physical challenges he faced.",
         "source": "espn.com",
         "date": "Fri, 12 Jun 2026 19:27:54 EST",
         "image": ""
