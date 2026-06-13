@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-13T21:05:46.194Z",
+  "updated": "2026-06-13T22:17:47.800Z",
   "feed": {
     "VR": [
       {
         "title": "Hyperlane Highway Announces Meta Quest Release Alongside PC VR Later This Year",
         "url": "https://www.uploadvr.com/hyperlane-highway-announces-meta-quest-release-alongside-pc-vr-later-this-year/",
-        "summary": "Futuristic hoverboard roguelite FPS Hyperlane Highway will launch on Meta Quest alongside its previously announced SteamVR release later this year.",
+        "summary": "Futuristic hoverboard roguelite FPS Hyperlane Highway is set to launch on Meta Quest alongside its previously announced SteamVR release later this year.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:35:47 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/HyperlaneHighway3.png"
@@ -13,7 +13,7 @@
       {
         "title": "Sci-Fi Survival Thriller Project NEOS Announcement Trailer And Playtests Revealed",
         "url": "https://www.uploadvr.com/sci-fi-survival-thriller-project-neos-announcement-trailer-and-playtests-revealed/",
-        "summary": "Project NEOS, a survival thriller set in a space station with a killer AI, has announced open alpha playtests starting now.",
+        "summary": "Project NEOS, a sci-fi survival thriller featuring a killer AI, has announced open alpha playtests for players eager to experience its immersive gameplay.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:26:55 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ProjectNEOS3.png"
@@ -21,7 +21,7 @@
       {
         "title": "VR Cyberpunk Street Racer Pedal Rebel Reveals October Release Date In New Story Trailer",
         "url": "https://www.uploadvr.com/pedal-rebel-reveals-october-release-date/",
-        "summary": "VR cyberpunk street racer Pedal Rebel is set to release on SteamVR and Meta Quest on October 5.",
+        "summary": "VR cyberpunk street racer Pedal Rebel has revealed its release date for October 5 on SteamVR and Meta Quest.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:13:39 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/PedalRebelVR3.png"
@@ -35,20 +35,20 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/TheObsessiveShadow3.png"
       },
       {
-        "title": "Free-To-Play Social Playground Jetpack Clankers Hits Early Access On Meta Quest Next Week",
-        "url": "https://www.uploadvr.com/jetpack-clankers-hits-early-access-on-meta-quest-next-week/",
-        "summary": "Free-to-play social playground Jetpack Clankers will hit Early Access on Meta Quest starting June 16.",
-        "source": "uploadvr.com",
-        "date": "Fri, 12 Jun 2026 10:31:19 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/JetpackClankers3.png"
-      },
-      {
         "title": "Mixed Reality Platformer Disembodied Is Coming To Quest This October",
         "url": "https://www.uploadvr.com/mixed-reality-platformer-disembodied-is-coming-to-quest-this-october/",
-        "summary": "Mixed reality platformer Disembodied is scheduled for release on Quest 3/3s in October.",
+        "summary": "Mixed reality platformer Disembodied is set to launch on Quest 3/3s in October, offering a unique hand tracking experience.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:19:56 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Disembodied_4KBack.png"
+      },
+      {
+        "title": "Free-To-Play Social Playground Jetpack Clankers Hits Early Access On Meta Quest Next Week",
+        "url": "https://www.uploadvr.com/jetpack-clankers-hits-early-access-on-meta-quest-next-week/",
+        "summary": "Free-to-play social playground Jetpack Clankers will enter Early Access on Meta Quest on June 16.",
+        "source": "uploadvr.com",
+        "date": "Fri, 12 Jun 2026 10:31:19 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/JetpackClankers3.png"
       }
     ],
     "AI": [
@@ -63,7 +63,7 @@
       {
         "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-        "summary": "Jeff Bezos' new AI startup, Prometheus, aims to develop an 'artificial general engineer' to enhance product design.",
+        "summary": "Jeff Bezos' new AI startup, Prometheus, aims to develop an 'artificial general engineer' to enhance physical product design.",
         "source": "theverge.com",
         "date": "2026-06-12T10:03:39-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
         "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-        "summary": "Apple has introduced new AI photo editing tools in iOS 27, marking a significant upgrade for the iPhone camera.",
+        "summary": "Apple has introduced new AI photo editing tools in iOS 27, enhancing the capabilities of its popular camera.",
         "source": "theverge.com",
         "date": "2026-06-13T08:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03778_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "Siri is good now??",
         "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-        "summary": "Apple's latest Siri update shows significant improvements, finally enhancing its functionality after years of criticism.",
+        "summary": "Apple's latest Siri update shows significant improvements, transforming the voice assistant into a more reliable tool.",
         "source": "theverge.com",
         "date": "2026-06-12T13:17:04-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VST_0612_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
         "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
-        "summary": "A critical vulnerability in Oracle's PeopleSoft software has exposed gigabytes of data, affecting hundreds of organizations.",
+        "summary": "A critical vulnerability in Oracle's PeopleSoft software has been identified, affecting hundreds of organizations and risking significant data theft.",
         "source": "arstechnica.com",
         "date": "Fri, 12 Jun 2026 19:26:47 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1867844462-1152x648.jpg"
@@ -95,7 +95,7 @@
       {
         "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
         "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "A critical vulnerability in the open-source package Starlette puts millions of AI agents at risk.",
+        "summary": "A critical vulnerability named 'BadHost' has been discovered in the widely used Starlette open source package, endangering millions of AI agents.",
         "source": "arstechnica.com",
         "date": "Tue, 26 May 2026 19:50:33 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Vikings hire Andrew Healy, Trent Kirchner as assistant GMs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-hire-andrew-healy-trent-kirchner-as-assistant-gms",
-        "summary": "The Vikings have hired Andrew Healy and Trent Kirchner as assistant General Managers under new GM Nolan Teasley.",
-        "source": "nbcsports.com",
-        "date": "Fri, 12 Jun 2026 20:03:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1847b2e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_vikings_260612.jpg"
-      },
-      {
         "title": "What's next in the Congressional scrutiny of the NFL's antitrust exemption?",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/whats-next-in-the-congressional-scrutiny-of-the-nfls-antitrust-exemption",
-        "summary": "Congressional scrutiny of the NFL's antitrust exemption intensified during a recent House Judiciary Committee hearing.",
+        "summary": "Congress is intensifying scrutiny of the NFL's antitrust exemption, with a House Judiciary Committee hearing focusing on broadcast regulations.",
         "source": "nbcsports.com",
         "date": "Sat, 13 Jun 2026 08:28:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f8aca6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F394%2F979%2Fnbc_pft_jalencarter_260611.jpg"
       },
       {
-        "title": "Signs continue to point to a Seahawks sale by September",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/signs-continue-to-point-to-a-seahawks-sale-by-september",
-        "summary": "Reports suggest the Seattle Seahawks could be sold by September amid ongoing stadium discussions.",
+        "title": "Andy Reid \"can't talk about\" the upcoming Travis Kelce, Taylor Swift wedding",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-cant-talk-about-the-upcoming-travis-kelce-taylor-swift-wedding",
+        "summary": "Andy Reid has declined to comment on the highly publicized upcoming wedding of Chiefs tight end Travis Kelce.",
         "source": "nbcsports.com",
-        "date": "Sat, 13 Jun 2026 09:56:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e892719/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F679%2Fnbc_pft_darnoldconvo_260522.jpg"
+        "date": "Sat, 13 Jun 2026 10:17:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9545e3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_coacheslandjob_260612.jpg"
       },
       {
-        "title": "Evidence in Mark Sanchez criminal case includes more than 50 video clips",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/evidence-in-mark-sanchez-criminal-case-includes-more-than-50-video-clips",
-        "summary": "Evidence in Mark Sanchez's criminal case includes over 50 video clips as his trial approaches.",
+        "title": "Terrelle Pryor was recently arrested for drug possession",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrelle-pryor-was-recently-arrested-for-drug-possession",
+        "summary": "Former NFL player Terrelle Pryor was recently arrested for drug possession, adding to his legal troubles.",
         "source": "nbcsports.com",
-        "date": "Sat, 13 Jun 2026 14:02:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8a57511/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F619%2F923%2Fnbc_pft_marksanchezv2_251007.jpg"
+        "date": "Sat, 13 Jun 2026 16:36:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72cc466/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F390%2F575%2Fnbc_pft_texastechsuing_260611.jpg"
       },
       {
         "title": "Xavier Worthy: Lessons learned rehabbing my shoulder might have been the best thing for me",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavier-worthy-lessons-learned-rehabbing-my-shoulder-might-have-been-the-best-thing-for-me",
-        "summary": "Xavier Worthy, the Chiefs' first-round draft pick, reflects on his shoulder rehab as a pivotal learning experience.",
+        "summary": "Xavier Worthy, the Chiefs' first-round draft pick, reflects on the lessons learned during his shoulder rehab as he joins the team's wide receiver lineup.",
         "source": "nbcsports.com",
         "date": "Sat, 13 Jun 2026 08:04:34 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/395e35f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F391%2F550%2Fnbc_pft_patrickmahomesnewmoney_260611.jpg"
       },
       {
-        "title": "Terrelle Pryor was recently arrested for drug possession",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrelle-pryor-was-recently-arrested-for-drug-possession",
-        "summary": "Former NFL player Terrelle Pryor has been arrested for drug possession, adding to his legal troubles.",
+        "title": "World Cup only amplifies NFL players' desire for a...",
+        "url": "https://www.espn.com/nfl/story/_/id/49030490/fifa-world-cup-grass-nfl-stadiums-debate-field-surface",
+        "summary": "The World Cup has sparked renewed discussions among NFL players about the feasibility of maintaining grass fields in all stadiums.",
+        "source": "espn.com",
+        "date": "Sat, 13 Jun 2026 16:59:32 EST",
+        "image": ""
+      },
+      {
+        "title": "U.S. World Cup opener was a sign of what SoFi Stadium could be",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u-s-world-cup-opener-was-a-sign-of-what-sofi-stadium-could-be",
+        "summary": "The U.S. World Cup opener has highlighted the potential for grass fields at SoFi Stadium, reinforcing NFL players' desires for improved playing surfaces.",
         "source": "nbcsports.com",
-        "date": "Sat, 13 Jun 2026 16:36:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72cc466/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F390%2F575%2Fnbc_pft_texastechsuing_260611.jpg"
+        "date": "Sat, 13 Jun 2026 07:59:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec34b38/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F199%2Fnbc_pft_turfmonster_260609.jpg"
       }
     ]
   }
