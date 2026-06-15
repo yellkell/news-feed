@@ -1,35 +1,27 @@
 {
-  "updated": "2026-06-15T07:00:04.455Z",
+  "updated": "2026-06-15T13:21:04.369Z",
   "feed": {
     "VR": [
       {
+        "title": "Snap Teases Next-gen ‘Specs’ AR Glasses Ahead of June 16th Reveal",
+        "url": "https://roadtovr.com/snap-next-gen-specs-ar-glasses-reveal-june-16/",
+        "summary": "Snap is set to unveil its next-gen AR glasses, Specs, on June 16, showcasing its new XR subsidiary's advancements.",
+        "source": "roadtovr.com",
+        "date": "Mon, 15 Jun 2026 10:22:41 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/specs.jpg?resize=1920%2C1280&quality=89&ssl=1"
+      },
+      {
         "title": "Meta Opening Quest & Smart Glasses Demo Section In 50 Best Buys",
         "url": "https://www.uploadvr.com/meta-lab-sections-coming-to-best-buy/",
-        "summary": "Meta is launching dedicated demo sections for its Quest headsets and smart glasses in 50 Best Buy stores across the US and Canada.",
+        "summary": "Meta will launch dedicated demo sections for its Quest headsets and smart glasses in 50 Best Buy locations across the U.S. and Canada.",
         "source": "uploadvr.com",
         "date": "Sun, 14 Jun 2026 21:38:58 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/meta-lab-best-buy-image-1-original.webp"
       },
       {
-        "title": "The Design Of Pico's Next Headset Leaked Via SDK Videos",
-        "url": "https://www.uploadvr.com/picos-next-headset-leaks-via-sdk-videos/",
-        "summary": "Leaked SDK videos reveal the design of Pico's upcoming headset, resembling a blend of Apple Vision Pro and Samsung Galaxy XR.",
-        "source": "uploadvr.com",
-        "date": "Sun, 14 Jun 2026 22:11:44 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Pico-Project-Swan-SDK-video-leak.png"
-      },
-      {
-        "title": "Sci-Fi Survival Thriller Project NEOS Announcement Trailer And Playtests Revealed",
-        "url": "https://www.uploadvr.com/sci-fi-survival-thriller-project-neos-announcement-trailer-and-playtests-revealed/",
-        "summary": "Project NEOS, a futuristic survival thriller, has announced open alpha playtests for players trapped in a space station run by a killer AI.",
-        "source": "uploadvr.com",
-        "date": "Fri, 12 Jun 2026 10:26:55 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ProjectNEOS3.png"
-      },
-      {
         "title": "Hyperlane Highway Announces Meta Quest Release Alongside PC VR Later This Year",
         "url": "https://www.uploadvr.com/hyperlane-highway-announces-meta-quest-release-alongside-pc-vr-later-this-year/",
-        "summary": "Futuristic hoverboard roguelite FPS Hyperlane Highway is set to release on Meta Quest alongside its SteamVR launch later this year.",
+        "summary": "Hyperlane Highway, a futuristic hoverboard roguelite FPS, will now also be available on Meta Quest later this year.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:35:47 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/HyperlaneHighway3.png"
@@ -37,7 +29,7 @@
       {
         "title": "Survival Horror The Obsessive Shadow Chapter 2 Announced for PC VR, PlayStation VR2, & Meta Quest",
         "url": "https://www.uploadvr.com/survival-horror-the-obsessive-shadow-chapter-2-announced-for-pc-vr-playstation-vr2-meta-quest/",
-        "summary": "The Obsessive Shadow Chapter 2 has been announced for PC VR, PlayStation VR2, and Meta Quest, featuring a shadowy creature stalking players.",
+        "summary": "The Obsessive Shadow Chapter 2, a survival horror game, is set to launch on PC VR, PlayStation VR2, and Meta Quest on September 9.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:30:04 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/TheObsessiveShadow3.png"
@@ -45,17 +37,25 @@
       {
         "title": "VR Cyberpunk Street Racer Pedal Rebel Reveals October Release Date In New Story Trailer",
         "url": "https://www.uploadvr.com/pedal-rebel-reveals-october-release-date/",
-        "summary": "VR cyberpunk street racer Pedal Rebel will launch on SteamVR and Meta Quest on October 5, 2026.",
+        "summary": "Pedal Rebel, a VR cyberpunk street racing game, has announced an October 5 release date for both SteamVR and Meta Quest.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:13:39 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/PedalRebelVR3.png"
+      },
+      {
+        "title": "Free-To-Play Social Playground Jetpack Clankers Hits Early Access On Meta Quest Next Week",
+        "url": "https://www.uploadvr.com/jetpack-clankers-hits-early-access-on-meta-quest-next-week/",
+        "summary": "The free-to-play social playground Jetpack Clankers will enter Early Access on Meta Quest starting June 16.",
+        "source": "uploadvr.com",
+        "date": "Fri, 12 Jun 2026 10:31:19 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/JetpackClankers3.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-        "summary": "Anthropic has cut off access to its Fable 5 and Mythos 5 AI models following a government order due to national security concerns.",
+        "summary": "Anthropic has cut off access to its AI models Fable 5 and Mythos 5 for all foreign nations following a government order over national security concerns.",
         "source": "theverge.com",
         "date": "2026-06-13T08:55:49-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-        "summary": "Jeff Bezos' new AI startup, Prometheus, aims to create an 'artificial general engineer' to assist in product design.",
+        "summary": "Jeff Bezos' new AI startup, Prometheus, aims to create an 'artificial general engineer' to enhance product design capabilities.",
         "source": "theverge.com",
         "date": "2026-06-12T10:03:39-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
         "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-        "summary": "Apple has introduced AI photo editing tools in iOS 27, marking a significant upgrade for its popular camera app.",
+        "summary": "Apple has introduced new AI photo editing tools in iOS 27, marking a significant upgrade for its camera features.",
         "source": "theverge.com",
         "date": "2026-06-13T08:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03778_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "China may have accessed Mythos",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-        "summary": "Concerns arise as a report suggests that China may have accessed Anthropic's AI models, raising national security alarms.",
+        "summary": "Concerns arise as a report suggests that a Chinese group may have accessed Anthropic's AI models, prompting U.S. export restrictions.",
         "source": "theverge.com",
         "date": "2026-06-14T14:27:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
         "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "A critical vulnerability in the widely-used Starlette package puts millions of AI agents at risk, highlighting serious security concerns.",
+        "summary": "A critical vulnerability in the popular open-source package Starlette, known as 'BadHost,' threatens millions of AI agents.",
         "source": "arstechnica.com",
         "date": "Tue, 26 May 2026 19:50:33 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
@@ -103,51 +103,51 @@
     ],
     "NFL": [
       {
-        "title": "Former defensive lineman Aldon Smith dies at 36",
-        "url": "https://www.espn.com/nfl/story/_/id/49054479/former-nfl-defensive-lineman-aldon-smith-dies-age-36",
-        "summary": "Former NFL defensive end Aldon Smith has died at age 36, leaving behind a troubled but impactful legacy.",
-        "source": "espn.com",
-        "date": "Sat, 13 Jun 2026 19:54:27 EST",
-        "image": ""
-      },
-      {
-        "title": "Seahawks' SB LX rings salute fans, city, history",
-        "url": "https://www.espn.com/nfl/story/_/id/49038108/seahawks-super-bowl-lx-title-rings-salute-fans-city-history",
-        "summary": "The Seahawks received their Super Bowl LX rings in a private ceremony, featuring tributes to the team's fans and history.",
-        "source": "espn.com",
-        "date": "Sat, 13 Jun 2026 19:54:27 EST",
-        "image": ""
-      },
-      {
-        "title": "Jets are swapping speed for size",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-are-swapping-speed-for-size",
-        "summary": "The Jets are shifting their strategy by prioritizing size over speed in their roster adjustments this offseason.",
+        "title": "Broncos to sign UFL offensive player of the year Hakeem Butler",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-to-sign-ufl-offensive-player-of-the-year-hakeem-butler",
+        "summary": "The Broncos are set to sign UFL offensive player of the year Hakeem Butler, giving him another chance in the NFL.",
         "source": "nbcsports.com",
-        "date": "Sun, 14 Jun 2026 18:45:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e4ab515/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F141%2F203%2Fnbc_pft_joenamath_260521.jpg"
+        "date": "Mon, 15 Jun 2026 08:50:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
+      },
+      {
+        "title": "Jets agree to four-year extension with G Joe Tippmann",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-agree-to-four-year-extension-with-g-joe-tippmann",
+        "summary": "The Jets have agreed to a four-year contract extension with right guard Joe Tippmann, solidifying their offensive line.",
+        "source": "nbcsports.com",
+        "date": "Mon, 15 Jun 2026 08:35:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9545e3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_coacheslandjob_260612.jpg"
+      },
+      {
+        "title": "Andy Reid, Patrick Mahomes pleased with what Kenneth Walker is bringing to Chiefs' offense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-patrick-mahomes-pleased-with-what-kenneth-walker-is-bringing-to-chiefs-offense",
+        "summary": "The Chiefs are excited about their offseason acquisition of running back Kenneth Walker, the reigning Super Bowl MVP.",
+        "source": "nbcsports.com",
+        "date": "Mon, 15 Jun 2026 03:56:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/395e35f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F391%2F550%2Fnbc_pft_patrickmahomesnewmoney_260611.jpg"
       },
       {
         "title": "Patriots hope to \"weaponize\" Drake Maye's mind",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-hope-to-weaponize-drake-mayes-mind",
-        "summary": "Patriots coach Josh McDaniels aims to leverage quarterback Drake Maye's improved understanding of the offense in his second season.",
+        "summary": "The Patriots are looking to maximize quarterback Drake Maye's potential in his second season under Josh McDaniels.",
         "source": "nbcsports.com",
         "date": "Sun, 14 Jun 2026 18:25:52 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b4ca767/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F254%2F839%2Fnbc_pft_brownvrabel_260610.jpg"
       },
       {
-        "title": "Broncos' Cooper arrested for alleged harassment",
-        "url": "https://www.espn.com/nfl/story/_/id/49040520/jonathon-cooper-arrested-again-allegedly-violated-protection-order",
-        "summary": "Broncos linebacker Jonathon Cooper was arrested for allegedly violating a protection order, raising concerns for the team's offseason.",
-        "source": "espn.com",
-        "date": "Sat, 13 Jun 2026 19:54:27 EST",
-        "image": ""
+        "title": "Raiders mourn the passing of Aldon Smith",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-mourn-the-passing-of-aldon-smith",
+        "summary": "The NFL mourns the passing of former defensive end Aldon Smith, who died at the age of 36.",
+        "source": "nbcsports.com",
+        "date": "Sat, 13 Jun 2026 23:55:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/40a68b1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F630%2F891%2Fnbc_pft_maxxcrosby_260604.jpg"
       },
       {
-        "title": "Aldon Smith's last act was delivering pizza to a charity that feeds the homeless",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aldon-smiths-last-act-was-delivering-pizza-to-a-charity-that-feeds-the-homeless",
-        "summary": "On his last day, Aldon Smith delivered pizza to a charity, showcasing a moment of kindness amid his troubled past.",
+        "title": "Aldon Smith's final interview, from a recent barber shop visit, was posted last week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aldon-smiths-final-interview-from-a-recent-barber-shop-visit-was-posted-last-week",
+        "summary": "Aldon Smith's final moments were captured in a recent interview, highlighting his charitable efforts before his unexpected death.",
         "source": "nbcsports.com",
-        "date": "Sun, 14 Jun 2026 09:03:25 -0400",
+        "date": "Mon, 15 Jun 2026 07:17:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/a8e6ef6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F258%2F243%2Fnbc_pft_brandonaiyuk_260610.jpg"
       }
     ]
