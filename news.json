@@ -1,35 +1,43 @@
 {
-  "updated": "2026-06-15T18:06:55.706Z",
+  "updated": "2026-06-15T21:23:32.456Z",
   "feed": {
     "VR": [
       {
         "title": "‘Wanderer 2’ Cancelled Amid “volatile” VR Gaming Market",
         "url": "https://roadtovr.com/wanderer-2-cancelled-vr-market-woes/",
-        "summary": "Mighty Eyes has cancelled the development of Wanderer 2, citing a volatile VR gaming market as the reason for the decision.",
+        "summary": "Mighty Eyes cancels 'Wanderer 2' due to the volatile VR gaming market, halting development of the anticipated sequel.",
         "source": "roadtovr.com",
         "date": "Mon, 15 Jun 2026 14:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/02/wanderer-2-flag.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Snap Teases Next-gen ‘Specs’ AR Glasses Ahead of June 16th Reveal",
-        "url": "https://roadtovr.com/snap-next-gen-specs-ar-glasses-reveal-june-16/",
-        "summary": "Snap is set to unveil its next-gen AR glasses, Specs, on June 16, teasing a glimpse of the device on Instagram.",
-        "source": "roadtovr.com",
-        "date": "Mon, 15 Jun 2026 10:22:41 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/specs.jpg?resize=1920%2C1280&quality=89&ssl=1"
-      },
-      {
         "title": "Meta Opening Quest & Smart Glasses Demo Section In 50 Best Buys",
         "url": "https://www.uploadvr.com/meta-lab-sections-coming-to-best-buy/",
-        "summary": "Meta will open dedicated demo sections for its Quest headsets and smart glasses in 50 Best Buy stores across the US and Canada.",
+        "summary": "Meta is launching dedicated demo sections for its Quest headsets and smart glasses in 50 Best Buy stores across the US and Canada.",
         "source": "uploadvr.com",
         "date": "Sun, 14 Jun 2026 21:38:58 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/meta-lab-best-buy-image-1-original.webp"
       },
       {
+        "title": "Snap Teases Next-gen ‘Specs’ AR Glasses Ahead of June 16th Reveal",
+        "url": "https://roadtovr.com/snap-next-gen-specs-ar-glasses-reveal-june-16/",
+        "summary": "Snap is set to unveil its next-generation AR glasses, Specs, on June 16, teasing a glimpse of the device on Instagram.",
+        "source": "roadtovr.com",
+        "date": "Mon, 15 Jun 2026 10:22:41 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/specs.jpg?resize=1920%2C1280&quality=89&ssl=1"
+      },
+      {
+        "title": "The Design Of Pico's Next Headset Leaked Via SDK Videos",
+        "url": "https://www.uploadvr.com/picos-next-headset-leaks-via-sdk-videos/",
+        "summary": "Leaked SDK videos reveal the design of Pico's upcoming headset, resembling a mix of Apple Vision Pro and Samsung Galaxy XR.",
+        "source": "uploadvr.com",
+        "date": "Sun, 14 Jun 2026 22:11:44 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Pico-Project-Swan-SDK-video-leak.png"
+      },
+      {
         "title": "Hyperlane Highway Announces Meta Quest Release Alongside PC VR Later This Year",
         "url": "https://www.uploadvr.com/hyperlane-highway-announces-meta-quest-release-alongside-pc-vr-later-this-year/",
-        "summary": "Futuristic FPS Hyperlane Highway will launch on both Meta Quest and SteamVR later this year, expanding its audience.",
+        "summary": "Hyperlane Highway, a futuristic hoverboard roguelite FPS, announces its release for Meta Quest alongside SteamVR later this year.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:35:47 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/HyperlaneHighway3.png"
@@ -37,41 +45,41 @@
       {
         "title": "VR Cyberpunk Street Racer Pedal Rebel Reveals October Release Date In New Story Trailer",
         "url": "https://www.uploadvr.com/pedal-rebel-reveals-october-release-date/",
-        "summary": "VR cyberpunk street racer Pedal Rebel has announced an October 5 release date for SteamVR and Meta Quest.",
+        "summary": "The VR cyberpunk street racer Pedal Rebel reveals its release date for October 5, with a new story trailer now available.",
         "source": "uploadvr.com",
         "date": "Fri, 12 Jun 2026 10:13:39 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/PedalRebelVR3.png"
-      },
-      {
-        "title": "Survival Horror The Obsessive Shadow Chapter 2 Announced for PC VR, PlayStation VR2, & Meta Quest",
-        "url": "https://www.uploadvr.com/survival-horror-the-obsessive-shadow-chapter-2-announced-for-pc-vr-playstation-vr2-meta-quest/",
-        "summary": "The Obsessive Shadow Chapter 2 has been announced for PC VR, PlayStation VR2, and Meta Quest, heightening anticipation for horror fans.",
-        "source": "uploadvr.com",
-        "date": "Fri, 12 Jun 2026 10:30:04 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/TheObsessiveShadow3.png"
       }
     ],
     "AI": [
       {
-        "title": "China may have accessed Mythos",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-        "summary": "A report suggests that the White House's export restrictions on Anthropic's Mythos were influenced by concerns over potential access by a Chinese-linked group.",
+        "title": "All the news about Anthropic’s new AI fight with the White House",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+        "summary": "Anthropic faces a government dispute as the White House orders it to block foreign access to its latest AI models, Fable 5 and Mythos 5.",
         "source": "theverge.com",
-        "date": "2026-06-14T14:27:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-15T15:04:53-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-        "summary": "Anthropic has cut off access to its AI models Fable 5 and Mythos 5 for all foreign nations following a government order citing national security.",
+        "summary": "Following a government directive, Anthropic has completely cut off access to its Fable 5 and Mythos 5 AI models for all foreign nations.",
         "source": "theverge.com",
         "date": "2026-06-13T08:55:49-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "China may have accessed Mythos",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+        "summary": "Reports suggest that the White House's export restrictions on Anthropic's Mythos were influenced by fears of Chinese access to the AI model.",
+        "source": "theverge.com",
+        "date": "2026-06-14T14:27:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-        "summary": "Amazon's security research reportedly led to the White House's decision to impose export controls on Anthropic's AI models.",
+        "summary": "Amazon's security research reportedly prompted the White House's order to restrict access to Anthropic's AI models due to national security concerns.",
         "source": "theverge.com",
         "date": "2026-06-13T17:39:26-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +87,68 @@
       {
         "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
         "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-        "summary": "Apple has introduced new AI photo editing tools in iOS 27, marking a significant upgrade for one of the world's most popular cameras.",
+        "summary": "Apple introduces new AI photo editing tools in iOS 27, offering a mix of innovative features and limitations compared to competitors.",
         "source": "theverge.com",
         "date": "2026-06-13T08:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03778_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Siri is good now??",
-        "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-        "summary": "Apple's latest update has significantly improved Siri, transforming it into a more reliable voice assistant after years of mixed performance.",
+        "title": "Facebook’s new AI Mode search gets its info from public posts",
+        "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+        "summary": "Meta launches an AI Mode search on Facebook that utilizes public posts to enhance AI-generated results.",
         "source": "theverge.com",
-        "date": "2026-06-12T13:17:04-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VST_0612_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-        "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-        "summary": "A critical vulnerability in the open-source package Starlette affects millions of AI agents, prompting urgent security measures.",
-        "source": "arstechnica.com",
-        "date": "Tue, 26 May 2026 19:50:33 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
+        "date": "2026-06-15T17:15:08-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Andy Reid, Patrick Mahomes pleased with what Kenneth Walker is bringing to Chiefs' offense",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-patrick-mahomes-pleased-with-what-kenneth-walker-is-bringing-to-chiefs-offense",
-        "summary": "The Chiefs have signed Super Bowl MVP Kenneth Walker, enhancing their offensive lineup ahead of the upcoming season.",
+        "title": "Injuries mount for Patriots' Gabe Jacas, NFL's only unsigned second-round pick",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injuries-mount-for-patriots-gabe-jacas-nfls-only-unsigned-second-round-pick",
+        "summary": "Patriots linebacker Gabe Jacas remains unsigned as the only second-round pick from the 2026 NFL draft, raising questions about his offseason absence.",
         "source": "nbcsports.com",
-        "date": "Mon, 15 Jun 2026 03:56:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/395e35f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F391%2F550%2Fnbc_pft_patrickmahomesnewmoney_260611.jpg"
+        "date": "Mon, 15 Jun 2026 15:07:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/08baf39/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F146%2Fnbc_pft_browninne_260611.jpg"
       },
       {
-        "title": "Broncos to sign UFL offensive player of the year Hakeem Butler",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-to-sign-ufl-offensive-player-of-the-year-hakeem-butler",
-        "summary": "The Broncos are set to sign UFL offensive player of the year Hakeem Butler, giving him another chance in the NFL.",
+        "title": "Steelers sign WR Levi Wentz",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-sign-wr-levi-wentz",
+        "summary": "The Steelers have signed wide receiver Levi Wentz as part of their roster moves announced on Monday.",
         "source": "nbcsports.com",
-        "date": "Mon, 15 Jun 2026 08:50:14 -0400",
+        "date": "Mon, 15 Jun 2026 16:32:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a57cdec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F629%2F915%2Fnbc_pft_nickherbigextended_260604.jpg"
+      },
+      {
+        "title": "Packers sign TE Luke Lachey",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-te-luke-lachey",
+        "summary": "The Packers have re-signed tight end Luke Lachey, marking his second signing with the team this offseason.",
+        "source": "nbcsports.com",
+        "date": "Mon, 15 Jun 2026 16:10:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/126d73f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F510%2F194%2Fnbc_pft_packers_260612.jpg"
+      },
+      {
+        "title": "Broncos agree to terms with CB/PR/KR Sean Fresch",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-agree-to-terms-with-cb-pr-kr-sean-fresch",
+        "summary": "The Broncos have agreed to terms with cornerback Sean Fresch, adding another player from the spring league.",
+        "source": "nbcsports.com",
+        "date": "Mon, 15 Jun 2026 16:31:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
       },
       {
-        "title": "Reports: George Pickens is taking his Cowboys physical Monday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-george-pickens-is-taking-his-cowboys-physical-monday",
-        "summary": "George Pickens is expected to take his physical with the Cowboys as he prepares for mandatory minicamp this week.",
+        "title": "Dolphins sign UFL S Major Burns",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-ufl-s-major-burns",
+        "summary": "The Dolphins have signed UFL standout safety Major Burns, bolstering their defensive lineup.",
         "source": "nbcsports.com",
-        "date": "Mon, 15 Jun 2026 12:51:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d58fc04/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F257%2F767%2Fnbc_pft_pickensleak_260610.jpg"
+        "date": "Mon, 15 Jun 2026 14:28:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b06c78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F171%2Fnbc_pft_predictionmrkts_260612.jpg"
       },
       {
-        "title": "Jets agree to four-year extension with G Joe Tippmann",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-agree-to-four-year-extension-with-g-joe-tippmann",
-        "summary": "The Jets have agreed to a four-year contract extension with right guard Joe Tippmann, solidifying their offensive line for the future.",
+        "title": "Chiefs announce 2026 training camp schedule",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-announced-2026-training-camp-schedule",
+        "summary": "The Chiefs have announced their training camp schedule for 2026, detailing plans for the upcoming summer.",
         "source": "nbcsports.com",
-        "date": "Mon, 15 Jun 2026 08:35:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9545e3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_coacheslandjob_260612.jpg"
-      },
-      {
-        "title": "Texans WR Tank Dell sees \"light at the end of the tunnel\" in recovery from 2024 knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-wr-tank-dell-sees-light-at-the-end-of-the-tunnel-in-recovery-from-2024-knee-injury",
-        "summary": "Texans wide receiver Tank Dell is optimistic about his recovery from a knee injury, hinting at a potential return to the field soon.",
-        "source": "nbcsports.com",
-        "date": "Mon, 15 Jun 2026 09:30:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ddc7dd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F390%2F575%2Fnbc_pft_sorsbyruling_260611.jpg"
-      },
-      {
-        "title": "Big 12 sues Texas Tech in federal court over Brendan Sorsby",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/big-12-sues-texas-tech-in-federal-court-over-brendan-sorsby",
-        "summary": "The Big 12 has filed a federal lawsuit against Texas Tech over Brendan Sorsby, impacting his potential supplemental draft application.",
-        "source": "nbcsports.com",
-        "date": "Mon, 15 Jun 2026 13:13:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72cc466/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F390%2F575%2Fnbc_pft_texastechsuing_260611.jpg"
+        "date": "Mon, 15 Jun 2026 13:26:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/395e35f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F391%2F550%2Fnbc_pft_patrickmahomesnewmoney_260611.jpg"
       }
     ]
   }
