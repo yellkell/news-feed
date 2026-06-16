@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-16T22:28:09.551Z",
+  "updated": "2026-06-16T23:55:45.722Z",
   "feed": {
     "VR": [
       {
         "title": "Qualcomm Announces Snapdragon Reality Elite, Its New Flagship XR Chipset",
         "url": "https://www.uploadvr.com/qualcomm-snapdragon-reality-elite-new-flagship-xr-chipset/",
-        "summary": "Qualcomm has unveiled its Snapdragon Reality Elite, a new flagship XR chipset debuting in Xreal's Aura device this fall.",
+        "summary": "Qualcomm has unveiled its Snapdragon Reality Elite, a new flagship XR chipset set to debut in Xreal's Aura device this fall.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 09:59:02 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Qualcomm-Snapdragon-Reality-Elite-hero.PNG"
@@ -13,7 +13,7 @@
       {
         "title": "Snap Opens Preorders For Specs, True AR Glasses Shipping This Fall For $2195",
         "url": "https://www.uploadvr.com/snap-specs-design-revealed-preorders-open-price/",
-        "summary": "Snap has officially opened preorders for its Specs AR glasses, priced at $2,195 and set to ship this fall.",
+        "summary": "Snap has opened preorders for its standalone AR glasses, Specs, priced at $2,195 and shipping this fall.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 09:49:54 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SPECS27_3-4_View.png"
@@ -21,7 +21,7 @@
       {
         "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
         "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
-        "summary": "Xreal Aura is now available for preorder and will feature Qualcomm's Snapdragon Reality Elite in its compute puck, though pricing remains undisclosed.",
+        "summary": "Xreal Aura is now available for preorder, featuring Qualcomm's Snapdragon Reality Elite, with a launch planned for this fall.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 11:53:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
@@ -29,33 +29,33 @@
       {
         "title": "Raven Prism Smart Glasses Announced with Unique Hot-swappable Battery",
         "url": "https://roadtovr.com/raven-prism-smart-glasses-reveal-awe-2026/",
-        "summary": "Raven Resonance has announced its Raven Prism smart glasses, featuring a unique hot-swappable battery system, at the Augmented World Expo.",
+        "summary": "Raven Resonance has announced its smart glasses, Raven Prism, featuring a unique hot-swappable battery system for all-day use.",
         "source": "roadtovr.com",
         "date": "Tue, 16 Jun 2026 10:40:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Raven-Prism-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "‘Wanderer 2’ Cancelled Amid “volatile” VR Gaming Market",
-        "url": "https://roadtovr.com/wanderer-2-cancelled-vr-market-woes/",
-        "summary": "Mighty Eyes has canceled the development of Wanderer 2, citing the volatile state of the VR gaming market.",
-        "source": "roadtovr.com",
-        "date": "Mon, 15 Jun 2026 14:41:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/02/wanderer-2-flag.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "No, Apple Didn't Cancel The Vision Headset Line Forever - Here's What's Happening",
         "url": "https://www.uploadvr.com/apple-didnt-cancel-the-vision-headset-line-forever/",
-        "summary": "Reports suggesting Apple has canceled its Vision headset line have been debunked, indicating ongoing development.",
+        "summary": "Reports of Apple's cancellation of the Vision headset line have been debunked, clarifying that development is still ongoing.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 05:26:41 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses.png"
+      },
+      {
+        "title": "The Design Of Pico's Next Headset Leaked Via SDK Videos",
+        "url": "https://www.uploadvr.com/picos-next-headset-leaks-via-sdk-videos/",
+        "summary": "The design of Pico's next headset has leaked, resembling a hybrid of Apple Vision Pro and Samsung Galaxy XR.",
+        "source": "uploadvr.com",
+        "date": "Sun, 14 Jun 2026 22:11:44 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Pico-Project-Swan-SDK-video-leak.png"
       }
     ],
     "AI": [
       {
         "title": "SpaceX is officially buying Cursor for $60 billion",
         "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-        "summary": "SpaceX has announced its acquisition of Cursor for $60 billion, aiming to enhance its competitive edge in the AI sector.",
+        "summary": "SpaceX has announced its acquisition of Cursor for $60 billion, aiming to enhance its capabilities in AI and enterprise solutions.",
         "source": "theverge.com",
         "date": "2026-06-16T07:41:31-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
         "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-        "summary": "Rumors suggest Apple is planning to launch AirPods with cameras for AI features and a second folding iPhone by late 2027.",
+        "summary": "Rumors suggest Apple is planning to release camera-equipped AirPods and a folding iPhone by late 2027.",
         "source": "theverge.com",
         "date": "2026-06-16T13:04:05-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0078.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,31 +71,31 @@
       {
         "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
         "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-        "summary": "A critical vulnerability in Microsoft's Copilot has been exploited, allowing hackers to steal two-factor authentication codes from users.",
+        "summary": "A critical vulnerability in Copilot allowed hackers to steal two-factor authentication codes from users.",
         "source": "arstechnica.com",
         "date": "Tue, 16 Jun 2026 11:15:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       },
       {
-        "title": "Facebook’s new AI Mode search gets its info from public posts",
-        "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
-        "summary": "Meta has launched a new AI Mode search feature on Facebook, utilizing public posts to inform AI-generated results.",
-        "source": "theverge.com",
-        "date": "2026-06-15T17:15:08-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "China may have accessed Mythos",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-        "summary": "Concerns arise as reports indicate that China's government may have accessed Anthropic's Mythos AI model, prompting US export restrictions.",
+        "summary": "Concerns have emerged that the Chinese government may have accessed Anthropic's Mythos AI models, prompting U.S. export restrictions.",
         "source": "theverge.com",
         "date": "2026-06-14T14:27:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Facebook’s new AI Mode search gets its info from public posts",
+        "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+        "summary": "Meta has launched a new AI Mode for Facebook search that utilizes information from public posts.",
+        "source": "theverge.com",
+        "date": "2026-06-15T17:15:08-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Big Tech’s desperate last push at AI regulation",
         "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-        "summary": "Big Tech is intensifying efforts to push for comprehensive federal AI regulation amid ongoing legislative negotiations.",
+        "summary": "Big Tech is pushing for comprehensive federal AI regulations to streamline the current state-by-state legal landscape.",
         "source": "theverge.com",
         "date": "2026-06-15T13:44:10-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2163958194.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Sources: Saints bring back franchise star Jordan",
-        "url": "https://www.espn.com/nfl/story/_/id/49083952/sources-cameron-jordan-return-saints-1-year-deal",
-        "summary": "Cameron Jordan has signed a one-year deal to finish his career with the New Orleans Saints.",
-        "source": "espn.com",
-        "date": "Tue, 16 Jun 2026 17:35:17 EST",
-        "image": ""
-      },
-      {
-        "title": "Chiefs' Rice released from jail, dodges reporters",
-        "url": "https://www.espn.com/nfl/story/_/id/49083151/chiefs-rashee-rice-released-jail-dodges-reporters",
-        "summary": "Chiefs WR Rashee Rice has been released from jail after serving a 30-day sentence for probation violations.",
-        "source": "espn.com",
-        "date": "Tue, 16 Jun 2026 17:35:17 EST",
-        "image": ""
-      },
-      {
-        "title": "NFL, NBA tells Congress it backs new college bill",
-        "url": "https://www.espn.com/college-sports/story/_/id/49085786/nflpa-nbpa-tell-congress-back-college-sports-bill",
-        "summary": "The NFL and NBA have expressed support for the Protect College Sports Act in a joint statement to Congress.",
-        "source": "espn.com",
-        "date": "Tue, 16 Jun 2026 17:35:16 EST",
-        "image": ""
-      },
-      {
-        "title": "Pickens at Cowboys minicamp, OK with franchise tag...",
-        "url": "https://www.espn.com/nfl/story/_/id/49086294/ok-franchise-tag-george-pickens-cowboys-minicamp",
-        "summary": "Cowboys wide receiver George Pickens has reported to mandatory minicamp, expressing readiness to play under the franchise tag.",
-        "source": "espn.com",
-        "date": "Tue, 16 Jun 2026 17:35:17 EST",
-        "image": ""
-      },
-      {
-        "title": "Family to have Smith's brain checked for CTE",
-        "url": "https://www.espn.com/nfl/story/_/id/49081473/family-aldon-smith-having-brain-checked-cte",
-        "summary": "The family of Aldon Smith plans to have his brain examined for CTE following his death.",
-        "source": "espn.com",
-        "date": "Tue, 16 Jun 2026 17:35:17 EST",
-        "image": ""
+        "title": "After extension, Jalen Coker is hoping for eight more years in Carolina",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-extension-jalen-coker-is-hoping-for-eight-more-years-in-carolina",
+        "summary": "Jalen Coker, an undrafted rookie, has secured a contract extension with the Carolina Panthers after two impressive seasons.",
+        "source": "nbcsports.com",
+        "date": "Tue, 16 Jun 2026 19:45:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/af9c8a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F67%2F707%2Fnbc_pft_freelingpick19_260423.jpg"
       },
       {
         "title": "Construction worker's death halts work on Broncos' training facility",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/construction-workers-death-halts-work-on-broncos-training-facility",
-        "summary": "Construction on the Broncos' new training facility has been halted due to an ongoing investigation into a worker's death.",
+        "summary": "Work on the Broncos' new training facility has been halted following the tragic death of a construction worker.",
         "source": "nbcsports.com",
         "date": "Tue, 16 Jun 2026 16:57:30 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
+      },
+      {
+        "title": "Vikings sign TE Marshall Lang, DL Jahvaree Ritzie",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-te-marshall-lang-dl-jahvaree-ritzie",
+        "summary": "The Vikings have signed tight end Marshall Lang and defensive lineman Jahvaree Ritzie to bolster their roster.",
+        "source": "nbcsports.com",
+        "date": "Tue, 16 Jun 2026 15:38:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/66cd849/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F262%2F647%2Fnbc_pftjjorkyler_260610.jpg"
+      },
+      {
+        "title": "Report: Chris Olave will get off blood thinners on June 29",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chris-olave-will-get-off-blood-thinners-on-june-29",
+        "summary": "Saints wide receiver Chris Olave is set to stop taking blood thinners on June 29, aiming for a full return.",
+        "source": "nbcsports.com",
+        "date": "Tue, 16 Jun 2026 18:00:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b06c78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F171%2Fnbc_pft_predictionmrkts_260612.jpg"
+      },
+      {
+        "title": "Cincinnati coach Scott Satterfield has been hearing from NFL teams about Brendan Sorsby",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cincinnati-coach-scott-satterfield-has-been-hearing-from-nfl-teams-about-brendan-sorsby",
+        "summary": "Cincinnati coach Scott Satterfield reports NFL teams are showing interest in quarterback Brendan Sorsby ahead of the supplemental draft.",
+        "source": "nbcsports.com",
+        "date": "Tue, 16 Jun 2026 15:57:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a05f032/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F895%2F455%2Fnbc_pftpm_shyawaysorsby_260616.jpg"
+      },
+      {
+        "title": "Cameron Jordan announces the 2026 season will be his last",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cameron-jordan-announces-the-2026-season-will-be-his-last",
+        "summary": "Veteran defensive end Cameron Jordan has announced that the upcoming 2026 season will be his last.",
+        "source": "nbcsports.com",
+        "date": "Tue, 16 Jun 2026 15:22:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/318f75c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F807%2F67%2Fnbc_pft_brendansorsby_260615.jpg"
       }
     ]
   }
