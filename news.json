@@ -1,46 +1,46 @@
 {
-  "updated": "2026-06-17T03:27:12.231Z",
+  "updated": "2026-06-17T08:40:23.365Z",
   "feed": {
     "VR": [
       {
         "title": "Qualcomm Announces Snapdragon Reality Elite, Its New Flagship XR Chipset",
         "url": "https://www.uploadvr.com/qualcomm-snapdragon-reality-elite-new-flagship-xr-chipset/",
-        "summary": "Qualcomm has unveiled its Snapdragon Reality Elite, a new flagship XR chipset set to debut in Xreal's Aura device this fall.",
+        "summary": "Qualcomm has unveiled its Snapdragon Reality Elite chipset, set to enhance performance and energy efficiency in upcoming XR devices.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 09:59:02 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Qualcomm-Snapdragon-Reality-Elite-hero.PNG"
       },
       {
-        "title": "Snap Opens Preorders For Specs, True AR Glasses Shipping This Fall For $2195",
-        "url": "https://www.uploadvr.com/snap-specs-design-revealed-preorders-open-price/",
-        "summary": "Snap has opened preorders for its Specs AR glasses, priced at $2,195, with shipments expected this fall.",
-        "source": "uploadvr.com",
-        "date": "Tue, 16 Jun 2026 09:49:54 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SPECS27_3-4_View.png"
-      },
-      {
-        "title": "Raven Prism Smart Glasses Announced with Unique Hot-swappable Battery",
-        "url": "https://roadtovr.com/raven-prism-smart-glasses-reveal-awe-2026/",
-        "summary": "Raven Resonance has announced Raven Prism smart glasses featuring a unique hot-swappable battery system, aiming for all-day use.",
-        "source": "roadtovr.com",
-        "date": "Tue, 16 Jun 2026 10:40:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Raven-Prism-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
         "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
         "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
-        "summary": "Xreal Aura is now available for preorder and will launch this fall, equipped with Qualcomm's Snapdragon Reality Elite.",
+        "summary": "Xreal Aura is now available for preorder, featuring Qualcomm's Snapdragon Reality Elite in its compute puck, with a fall launch expected.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 11:53:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
       },
       {
-        "title": "G-Smash Hopes to Bring VR Developers Together & Grow the Japanese Market For All",
-        "url": "https://www.uploadvr.com/g-smash-hopes-to-bring-vr-developers-together-and-grow-the-japanese-market-for-all/",
-        "summary": "The G-Smash initiative aims to unite VR developers and strengthen the Japanese market amid global industry challenges.",
+        "title": "Snap Opens Preorders For Specs, True AR Glasses Shipping This Fall For $2195",
+        "url": "https://www.uploadvr.com/snap-specs-design-revealed-preorders-open-price/",
+        "summary": "Snap has opened preorders for its Specs AR glasses, priced at $2,195, with shipping scheduled for this fall.",
         "source": "uploadvr.com",
-        "date": "Tue, 16 Jun 2026 05:31:19 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/HI9zPBGawAAnzc5.jpg"
+        "date": "Tue, 16 Jun 2026 09:49:54 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SPECS27_3-4_View.png"
+      },
+      {
+        "title": "Snap Reveals Next-gen Specs AR Glasses, Priced at $2,200",
+        "url": "https://roadtovr.com/snap-specs-2026-ar-glasses-release-date-price/",
+        "summary": "Snap introduced its next-gen AR glasses at AWE 2026, boasting advanced features and a consumer-friendly design.",
+        "source": "roadtovr.com",
+        "date": "Tue, 16 Jun 2026 16:50:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
+        "title": "Raven Prism Smart Glasses Announced with Unique Hot-swappable Battery",
+        "url": "https://roadtovr.com/raven-prism-smart-glasses-reveal-awe-2026/",
+        "summary": "Raven Prism smart glasses were announced, featuring a unique hot-swappable battery system for all-day use.",
+        "source": "roadtovr.com",
+        "date": "Tue, 16 Jun 2026 10:40:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Raven-Prism-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "‘Wanderer 2’ Cancelled Amid “volatile” VR Gaming Market",
@@ -55,7 +55,7 @@
       {
         "title": "SpaceX is officially buying Cursor for $60 billion",
         "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-        "summary": "SpaceX has officially acquired Cursor for $60 billion, aiming to enhance its AI capabilities and enterprise offerings.",
+        "summary": "SpaceX has officially acquired Cursor for $60 billion, aiming to enhance its AI capabilities and enterprise customer offerings.",
         "source": "theverge.com",
         "date": "2026-06-16T07:41:31-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,15 +63,23 @@
       {
         "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
         "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-        "summary": "Apple is rumored to be developing AirPods with cameras for AI features, expected to launch in late 2027.",
+        "summary": "Rumors suggest Apple is planning to launch camera-equipped AirPods and a folding iPhone by late 2027.",
         "source": "theverge.com",
         "date": "2026-06-16T13:04:05-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0078.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Inside the fight over Claude Mythos 5",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+        "summary": "Anthropic is in a legal battle with the Trump administration over its latest AI models, facing export restrictions.",
+        "source": "theverge.com",
+        "date": "2026-06-15T23:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
         "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-        "summary": "A critical vulnerability in Copilot allowed hackers to steal two-factor authentication codes, highlighting security flaws in LLMs.",
+        "summary": "A critical vulnerability in Copilot allowed hackers to steal two-factor authentication codes from users.",
         "source": "arstechnica.com",
         "date": "Tue, 16 Jun 2026 11:15:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
@@ -79,18 +87,10 @@
       {
         "title": "China may have accessed Mythos",
         "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-        "summary": "Concerns arise as reports suggest that the Chinese government may have accessed Anthropic's Mythos AI model.",
+        "summary": "Reports indicate that the White House's export restrictions on Anthropic's Mythos were influenced by concerns of access by Chinese entities.",
         "source": "theverge.com",
         "date": "2026-06-14T14:27:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "All the news about Anthropic’s new AI fight with the White House",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-        "summary": "Anthropic faces government scrutiny as it navigates restrictions on its latest AI models, Fable 5 and Mythos 5.",
-        "source": "theverge.com",
-        "date": "2026-06-15T15:04:53-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Facebook’s new AI Mode search gets its info from public posts",
@@ -105,49 +105,49 @@
       {
         "title": "Report: Vita Vea's non-participation in minicamp is \"contract-related\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-vita-veas-non-participation-in-minicamp-is-contract-related",
-        "summary": "Vita Vea is attending the Buccaneers' mandatory minicamp, avoiding a significant fine for missing practice.",
+        "summary": "Vita Vea attends Buccaneers' minicamp, avoiding a hefty fine for missing sessions due to contract-related issues.",
         "source": "nbcsports.com",
         "date": "Tue, 16 Jun 2026 21:17:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/accaa8b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F896%2F431%2Fnbc_pftpm_rice_260616.jpg"
       },
       {
-        "title": "After extension, Jalen Coker is hoping for eight more years in Carolina",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-extension-jalen-coker-is-hoping-for-eight-more-years-in-carolina",
-        "summary": "Jalen Coker, an undrafted rookie, aims for an eight-year career extension with the Carolina Panthers after two strong seasons.",
+        "title": "Bears make official the signings of UFL players Kaden Davis, Tony Fields II",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-make-official-the-signings-of-ufl-players-kaden-davis-tony-fields-ii",
+        "summary": "The Bears have officially signed UFL players Kaden Davis and Tony Fields II as part of their roster moves.",
         "source": "nbcsports.com",
-        "date": "Tue, 16 Jun 2026 19:45:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/af9c8a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F67%2F707%2Fnbc_pft_freelingpick19_260423.jpg"
-      },
-      {
-        "title": "Former Baylor QB Sawyer Robertson trying out for Broncos at minicamp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-baylor-qb-sawyer-robertson-trying-out-for-broncos-at-minicamp",
-        "summary": "Former Baylor quarterback Sawyer Robertson is trying out for the Broncos during their mandatory minicamp.",
-        "source": "nbcsports.com",
-        "date": "Tue, 16 Jun 2026 16:07:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
-      },
-      {
-        "title": "Eagles place Joe Tryon-Shoyinka on reserve/retired list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-place-joe-tryon-shoyinka-on-reserve-retired-list",
-        "summary": "The Eagles have placed Joe Tryon-Shoyinka on the reserve/retired list, marking the end of his playing career.",
-        "source": "nbcsports.com",
-        "date": "Tue, 16 Jun 2026 17:14:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f8aca6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F394%2F979%2Fnbc_pft_jalencarter_260611.jpg"
-      },
-      {
-        "title": "Bo Nix: I could be full go right now",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-i-could-be-full-go-right-now",
-        "summary": "Broncos quarterback Bo Nix is participating fully in minicamp as he recovers from a fractured ankle.",
-        "source": "nbcsports.com",
-        "date": "Tue, 16 Jun 2026 16:29:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
+        "date": "Tue, 16 Jun 2026 16:34:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9545e3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_coacheslandjob_260612.jpg"
       },
       {
         "title": "Construction worker's death halts work on Broncos' training facility",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/construction-workers-death-halts-work-on-broncos-training-facility",
-        "summary": "Construction on the Broncos' new training facility has been halted following the death of a worker.",
+        "summary": "Construction on the Broncos' new training facility has been halted following the death of a worker on site.",
         "source": "nbcsports.com",
         "date": "Tue, 16 Jun 2026 16:57:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
+      },
+      {
+        "title": "Report: Chris Olave will get off blood thinners on June 29",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chris-olave-will-get-off-blood-thinners-on-june-29",
+        "summary": "Saints wide receiver Chris Olave is set to discontinue blood thinners on June 29, aiming for a full return to practice.",
+        "source": "nbcsports.com",
+        "date": "Tue, 16 Jun 2026 18:00:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b06c78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F171%2Fnbc_pft_predictionmrkts_260612.jpg"
+      },
+      {
+        "title": "George Pickens on playing on tag: Trying to win a Super Bowl is most important to me",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-pickens-on-playing-on-tag-trying-to-win-a-super-bowl-is-most-important-to-me",
+        "summary": "George Pickens emphasizes his focus on winning a Super Bowl despite not securing a long-term contract.",
+        "source": "nbcsports.com",
+        "date": "Tue, 16 Jun 2026 16:07:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b1c964/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F763%2F123%2Fnbc_pftpm_pickens_2606015.jpg"
+      },
+      {
+        "title": "Bo Nix: I could be full go right now",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-i-could-be-full-go-right-now",
+        "summary": "Bo Nix is progressing well in Broncos' minicamp, indicating he could be fully ready for action soon.",
+        "source": "nbcsports.com",
+        "date": "Tue, 16 Jun 2026 16:29:31 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
       }
     ]
