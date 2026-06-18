@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-18T00:03:08.580Z",
+  "updated": "2026-06-18T05:00:33.397Z",
   "feed": {
     "VR": [
       {
         "title": "XREAL AURA AR Glasses Get Fall Release Window, $1,500 Price Ceiling",
         "url": "https://roadtovr.com/xreal-aura-release-date-price-1500/",
-        "summary": "XREAL AURA AR glasses, developed with Google and Qualcomm, will launch this fall with a price cap of $1,500.",
+        "summary": "XREAL AURA AR glasses, developed with Google and Qualcomm, are set for a fall release with a price cap of $1,500.",
         "source": "roadtovr.com",
         "date": "Wed, 17 Jun 2026 12:17:49 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,15 +13,23 @@
       {
         "title": "Qualcomm’s New Snapdragon Chip Paves the Way for More Compact XR Headsets and Glasses",
         "url": "https://roadtovr.com/qualcomm-snapdragon-reality-elite-compact-headsets-glasses/",
-        "summary": "Qualcomm unveiled the Snapdragon Reality Elite, a new processor designed to enhance the performance and compactness of future XR headsets and glasses.",
+        "summary": "Qualcomm unveiled the Snapdragon Reality Elite processor, designed to enhance performance and reduce power consumption in future XR headsets and glasses.",
         "source": "roadtovr.com",
         "date": "Wed, 17 Jun 2026 08:32:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/qualcomm-snapdragon-reality-elite-2.jpg?resize=1920%2C1280&quality=89&ssl=1"
       },
       {
+        "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
+        "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
+        "summary": "Preorders for Xreal Aura AR glasses are now open, featuring Qualcomm's Snapdragon Reality Elite in its compute puck.",
+        "source": "uploadvr.com",
+        "date": "Tue, 16 Jun 2026 11:53:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
+      },
+      {
         "title": "Qualcomm Announces Snapdragon Reality Elite, Its New Flagship XR Chipset",
         "url": "https://www.uploadvr.com/qualcomm-snapdragon-reality-elite-new-flagship-xr-chipset/",
-        "summary": "Qualcomm's Snapdragon Reality Elite chipset will debut in Xreal's Aura Android XR device this fall, promising improved capabilities.",
+        "summary": "Qualcomm's Snapdragon Reality Elite, its new flagship XR chipset, will debut in Xreal's Aura device this fall.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 09:59:02 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Qualcomm-Snapdragon-Reality-Elite-hero.PNG"
@@ -29,7 +37,7 @@
       {
         "title": "Snap Opens Preorders For Specs, True AR Glasses Shipping This Fall For $2195",
         "url": "https://www.uploadvr.com/snap-specs-design-revealed-preorders-open-price/",
-        "summary": "Snap has opened preorders for its new Specs AR glasses, priced at $2,195 and set to ship this fall.",
+        "summary": "Snap has opened preorders for its new Specs AR glasses, priced at $2,195, shipping this fall in select countries.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 09:49:54 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SPECS27_3-4_View.png"
@@ -37,57 +45,41 @@
       {
         "title": "Raven Prism Smart Glasses Announced with Unique Hot-swappable Battery",
         "url": "https://roadtovr.com/raven-prism-smart-glasses-reveal-awe-2026/",
-        "summary": "Raven Resonance showcased its Raven Prism smart glasses featuring a unique hot-swappable battery at Augmented World Expo.",
+        "summary": "Raven Prism smart glasses, featuring a unique hot-swappable battery, were announced at Augmented World Expo.",
         "source": "roadtovr.com",
         "date": "Tue, 16 Jun 2026 10:40:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Raven-Prism-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Meta Opening Quest & Smart Glasses Demo Section In 50 Best Buys",
-        "url": "https://www.uploadvr.com/meta-lab-sections-coming-to-best-buy/",
-        "summary": "Meta will open dedicated demo sections for its Quest and smart glasses in 50 Best Buy stores across the US and Canada.",
-        "source": "uploadvr.com",
-        "date": "Sun, 14 Jun 2026 21:38:58 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/meta-lab-best-buy-image-1-original.webp"
       }
     ],
     "AI": [
       {
-        "title": "SpaceX is officially buying Cursor for $60 billion",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-        "summary": "SpaceX has announced its acquisition of Cursor for $60 billion, aiming to enhance its AI capabilities.",
+        "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+        "summary": "Midjourney has transitioned from generating images to unveiling a full-body ultrasound scanner, showcasing its first hardware product.",
         "source": "theverge.com",
-        "date": "2026-06-16T07:41:31-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-17T23:12:31-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Massive breach spills credentials for thousands of sensitive networks",
+        "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+        "summary": "A massive data breach has compromised credentials for thousands of sensitive networks, affecting major companies like Oracle and FedEx.",
+        "source": "arstechnica.com",
+        "date": "Wed, 17 Jun 2026 19:54:31 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
         "title": "Anthropic got hit by export rules nobody understands",
         "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-        "summary": "Anthropic is facing challenges in restoring access to its AI models after a sudden export order from the Trump administration.",
+        "summary": "Anthropic faces challenges in restoring access to its AI models after the Trump administration imposed abrupt export restrictions.",
         "source": "theverge.com",
         "date": "2026-06-17T14:28:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "\"Dangerous\" AI models are coming no matter what",
-        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "summary": "Experts warn that advanced AI models with hacking capabilities are on the horizon, raising security concerns.",
-        "source": "arstechnica.com",
-        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
-      },
-      {
-        "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-        "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-        "summary": "Tesco is moving 40,000 server workloads off VMware, citing a significant price hike by Broadcom.",
-        "source": "arstechnica.com",
-        "date": "Wed, 17 Jun 2026 19:43:13 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg"
-      },
-      {
         "title": "Two-thirds of Americans think AI is advancing too quickly",
         "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-        "summary": "A Pew Research poll reveals that two-thirds of Americans believe AI is advancing too quickly, despite increased usage.",
+        "summary": "A Pew Research poll reveals that two-thirds of Americans believe AI is advancing too quickly, despite increased usage of chatbots.",
         "source": "theverge.com",
         "date": "2026-06-17T13:20:24-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,60 +87,68 @@
       {
         "title": "The next humanoid robot might not look human at all",
         "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-        "summary": "The next humanoid robot from Genesis AI may not resemble humans at all, featuring a unique design.",
+        "summary": "The next humanoid robot from Genesis AI may not resemble humans at all, featuring a unique design focused on functionality.",
         "source": "theverge.com",
         "date": "2026-06-17T05:46:56-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Genesis-Eno-Home-Pebble-Beach-CA-06062026-Pouring.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+        "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+        "summary": "A critical vulnerability in Microsoft's Copilot allowed hackers to steal two-factor authentication codes from users.",
+        "source": "arstechnica.com",
+        "date": "Tue, 16 Jun 2026 11:15:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       }
     ],
     "NFL": [
       {
         "title": "Sources: Saints bring back franchise star Jordan",
         "url": "https://www.espn.com/nfl/story/_/id/49083952/sources-cameron-jordan-return-saints-1-year-deal",
-        "summary": "Cameron Jordan will finish his career with the Saints after signing a one-year deal during minicamp.",
+        "summary": "Cameron Jordan has signed a one-year deal to finish his career with the New Orleans Saints.",
         "source": "espn.com",
-        "date": "Wed, 17 Jun 2026 18:05:32 EST",
+        "date": "Wed, 17 Jun 2026 21:32:47 EST",
         "image": ""
       },
       {
-        "title": "Cincy coach expecting flood of calls on Sorsby",
-        "url": "https://www.espn.com/nfl/story/_/id/49096329/cincy-coach-expecting-flood-queries-nfl-teams-sorsby",
-        "summary": "Cincinnati coach Scott Satterfield anticipates increased interest in quarterback Brendan Sorsby, who has applied for the NFL supplemental draft.",
+        "title": "Sunday Ticket appeal ruling could come at any time",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-ticket-appeal-ruling-could-come-at-any-time",
+        "summary": "A ruling on the Sunday Ticket appeal could significantly impact the NFL's broadcasting landscape.",
+        "source": "nbcsports.com",
+        "date": "Wed, 17 Jun 2026 22:45:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/689296d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1006%2F790%2Fnbc_pft_mailbag_260617.jpg"
+      },
+      {
+        "title": "Bowles confirms Bucs' Vea a minicamp hold-in",
+        "url": "https://www.espn.com/nfl/story/_/id/49097816/vita-vea-hold-not-concerning",
+        "summary": "Bucs defensive tackle Vita Vea is not participating in minicamp as he enters the final year of his contract.",
         "source": "espn.com",
-        "date": "Wed, 17 Jun 2026 18:27:51 EST",
+        "date": "Wed, 17 Jun 2026 21:32:47 EST",
         "image": ""
       },
       {
         "title": "Pickens at Cowboys minicamp, OK with franchise tag...",
         "url": "https://www.espn.com/nfl/story/_/id/49086294/ok-franchise-tag-george-pickens-cowboys-minicamp",
-        "summary": "Cowboys wide receiver George Pickens is prepared to play the 2026 season on a franchise tag after attending minicamp.",
+        "summary": "Cowboys wide receiver George Pickens is prepared to play the 2026 season on the franchise tag after attending minicamp.",
         "source": "espn.com",
-        "date": "Wed, 17 Jun 2026 18:05:32 EST",
+        "date": "Wed, 17 Jun 2026 21:32:46 EST",
         "image": ""
       },
       {
-        "title": "Dolphins sign OT Gottlieb Ayedze",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-ot-gottlieb-ayedze",
-        "summary": "The Dolphins have signed offensive tackle Gottlieb Ayedze, adding depth to their roster.",
-        "source": "nbcsports.com",
-        "date": "Wed, 17 Jun 2026 17:37:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
-      },
-      {
-        "title": "Burrow: Bengals have same vibes as LSU title team",
-        "url": "https://www.espn.com/nfl/story/_/id/49098918/burrow-says-bengals-remind-2019-national-champion-lsu",
-        "summary": "Joe Burrow compares the vibes of this year's Bengals team to those of his 2019 LSU championship squad.",
+        "title": "Broncos excuse Cooper from minicamp after arrests",
+        "url": "https://www.espn.com/nfl/story/_/id/49088120/broncos-excuse-jonathon-cooper-minicamp-arrests",
+        "summary": "Broncos linebacker Jonathon Cooper was excused from minicamp following multiple arrests related to domestic violence.",
         "source": "espn.com",
-        "date": "Wed, 17 Jun 2026 18:05:32 EST",
+        "date": "Wed, 17 Jun 2026 21:32:47 EST",
         "image": ""
       },
       {
-        "title": "Cowboys to sign CB Ameer Speed",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-to-sign-cb-ameer-speed",
-        "summary": "The Cowboys are set to sign UFL defensive back Ameer Speed, bolstering their secondary.",
+        "title": "Agent: Brendan Sorsby has a \"short window\" for supplemental draft, \"but we'll make it happen\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/agent-brendan-sorsby-has-a-short-window-for-supplemental-draft-but-well-make-it-happen",
+        "summary": "Brendan Sorsby is applying for the NFL supplemental draft, with his agent indicating a need for swift action.",
         "source": "nbcsports.com",
-        "date": "Wed, 17 Jun 2026 17:30:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
+        "date": "Wed, 17 Jun 2026 20:13:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a05f032/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F895%2F455%2Fnbc_pftpm_shyawaysorsby_260616.jpg"
       }
     ]
   }
