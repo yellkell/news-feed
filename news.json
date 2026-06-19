@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-19T22:37:35.273Z",
+  "updated": "2026-06-19T23:46:29.962Z",
   "feed": {
     "VR": [
       {
         "title": "Canon Reveals Concept Handheld MR Device, Glass Waveguide & Collaboration Software",
         "url": "https://roadtovr.com/canon-concept-mr-device-ar-waveguide-reveal/",
-        "summary": "Canon showcased a concept handheld mixed reality device and new XR collaboration software at the Augmented World Expo, highlighting advancements in XR technology.",
+        "summary": "Canon showcased a concept handheld mixed reality device and new XR collaboration software at AWE, highlighting advancements in augmented reality technology.",
         "source": "roadtovr.com",
         "date": "Thu, 18 Jun 2026 12:01:55 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/canon-ar-xr.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,23 +13,15 @@
       {
         "title": "Qualcomm Announces Snapdragon Reality Elite, Its New Flagship XR Chipset",
         "url": "https://www.uploadvr.com/qualcomm-snapdragon-reality-elite-new-flagship-xr-chipset/",
-        "summary": "Qualcomm unveiled the Snapdragon Reality Elite, its new flagship XR chipset, aimed at enhancing future XR headsets and glasses.",
+        "summary": "Qualcomm unveiled the Snapdragon Reality Elite, its new flagship XR chipset, set to enhance future XR headsets and glasses.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 09:59:02 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Qualcomm-Snapdragon-Reality-Elite-hero.PNG"
       },
       {
-        "title": "XREAL AURA AR Glasses Get Fall Release Window, $1,500 Price Ceiling",
-        "url": "https://roadtovr.com/xreal-aura-release-date-price-1500/",
-        "summary": "XREAL AURA AR glasses, developed with Google and Qualcomm, are set for a fall release with a price cap of $1,500.",
-        "source": "roadtovr.com",
-        "date": "Wed, 17 Jun 2026 12:17:49 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
         "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
         "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
-        "summary": "Preorders for Xreal Aura have begun, featuring Qualcomm's Snapdragon Reality Elite, with a launch scheduled for this fall.",
+        "summary": "Xreal Aura is now available for preorder, featuring Qualcomm's Snapdragon Reality Elite, and is expected to launch this fall.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 11:53:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
@@ -37,7 +29,7 @@
       {
         "title": "Makoa Shelf, Subside's New Expansion, Is A Must-Own Experience On PlayStation VR2 and PC VR",
         "url": "https://www.uploadvr.com/makoa-shelf-subsides-new-expansion-is-a-must-own-experience-on-playstation-vr2-and-pc-vr/",
-        "summary": "Subside's Makoa Shelf expansion is now available, enhancing one of the most breathtaking VR experiences on PlayStation VR2 and PC VR.",
+        "summary": "Subside's Makoa Shelf expansion enhances the PlayStation VR2 experience, offering breathtaking visuals and gameplay.",
         "source": "uploadvr.com",
         "date": "Thu, 18 Jun 2026 06:54:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/makoa-shelf-dlc.jpg"
@@ -45,17 +37,25 @@
       {
         "title": "Demeo x DnD: Battlemarked Adds A Druid Orc In New Update",
         "url": "https://www.uploadvr.com/demeo-x-dnd-battlemarked-adds-a-druid-orc-in-new-update/",
-        "summary": "Demeo x Dungeons & Dragons: Battlemarked has introduced a new druid orc hero in its latest update.",
+        "summary": "Demeo x Dungeons & Dragons: Battlemarked introduces a new druid orc hero in its latest update, expanding gameplay options.",
         "source": "uploadvr.com",
         "date": "Fri, 19 Jun 2026 14:06:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/battlemarked-druid.jpg"
+      },
+      {
+        "title": "FunFitLand's SwingFit Finds Its Own Rhythm In VR Fitness",
+        "url": "https://www.uploadvr.com/funfitlands-swingfit-finds-its-own-rhythm-in-vr-fitness/",
+        "summary": "FunFitLand's SwingFit mode offers a unique approach to VR fitness, gaining positive feedback during its public preview.",
+        "source": "uploadvr.com",
+        "date": "Fri, 19 Jun 2026 14:05:31 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SwingFit_Hero_01.png"
       }
     ],
     "AI": [
       {
         "title": "Photoshop and Premiere now have AI assistants",
         "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "summary": "Adobe has rolled out AI assistants for Photoshop, Premiere, and other Creative Cloud apps, enhancing user experience with new chatbots.",
+        "summary": "Adobe has rolled out AI assistants for Photoshop and Premiere, integrating advanced features into its Creative Cloud suite.",
         "source": "theverge.com",
         "date": "2026-06-18T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Adobe’s redesigned AI studio remembers what your creations look like",
         "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-        "summary": "Adobe's Firefly AI studio is launching a redesigned interface that allows users to edit and generate designs with persistent context.",
+        "summary": "Adobe's Firefly AI studio is launching a redesigned interface that enhances design editing and generation capabilities.",
         "source": "theverge.com",
         "date": "2026-06-18T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Barret Zoph is out at OpenAI again after just five months",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-        "summary": "Barret Zoph has left OpenAI again after a brief five-month tenure as head of enterprise AI sales.",
+        "summary": "Barret Zoph has left OpenAI again after just five months, marking another leadership change at the company.",
         "source": "theverge.com",
         "date": "2026-06-19T00:49:33-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "Anthropic got hit by export rules nobody understands",
         "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-        "summary": "Anthropic is facing challenges with export rules that have restricted access to its latest AI models.",
+        "summary": "Anthropic faces challenges with export rules, affecting access to its newest AI models amid regulatory scrutiny.",
         "source": "theverge.com",
         "date": "2026-06-17T14:28:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,68 +87,68 @@
       {
         "title": "Massive breach spills credentials for thousands of sensitive networks",
         "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-        "summary": "A massive breach has exposed sensitive credentials for thousands of networks, affecting major companies like Oracle and FedEx.",
+        "summary": "A significant data breach has exposed credentials for sensitive networks, impacting major companies like Oracle and FedEx.",
         "source": "arstechnica.com",
         "date": "Wed, 17 Jun 2026 19:54:31 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
-        "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-        "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-        "summary": "A critical vulnerability in Copilot allowed hackers to steal two-factor authentication codes from users, highlighting security flaws in LLMs.",
-        "source": "arstechnica.com",
-        "date": "Tue, 16 Jun 2026 11:15:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
+        "title": "Two-thirds of Americans think AI is advancing too quickly",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+        "summary": "A Pew Research poll reveals that two-thirds of Americans believe AI technology is advancing too quickly.",
+        "source": "theverge.com",
+        "date": "2026-06-17T13:20:24-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Titans, DT Simmons agree to $105M+ extension",
         "url": "https://www.espn.com/nfl/story/_/id/49119435/titans-dt-simmons-agree-3-year-extension-100m-guaranteed",
-        "summary": "The Titans have agreed to a three-year, $105.8 million extension with defensive tackle Jeffery Simmons.",
+        "summary": "The Tennessee Titans have signed defensive tackle Jeffery Simmons to a three-year, $105.8 million contract extension.",
         "source": "espn.com",
         "date": "Fri, 19 Jun 2026 18:18:32 EST",
+        "image": ""
+      },
+      {
+        "title": "YouTube walked away from NFL package after Australia game went to Netflix",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/youtube-walked-away-from-nfl-package-after-australia-game-went-to-netflix",
+        "summary": "YouTube has withdrawn from negotiations for an NFL package after Netflix secured a five-game deal for 2026.",
+        "source": "nbcsports.com",
+        "date": "Fri, 19 Jun 2026 18:36:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5164edf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1004%2F339%2Fnbc_pft_packersantitrust_260617.jpg"
+      },
+      {
+        "title": "Daniels still adjusting to new Washington offense",
+        "url": "https://www.espn.com/nfl/story/_/id/49099896/daniels-long-way-go-master-commanders-offense",
+        "summary": "Commanders quarterback Jayden Daniels is adapting to a new offense while recovering from an injury-plagued season.",
+        "source": "espn.com",
+        "date": "Fri, 19 Jun 2026 18:18:32 EST",
+        "image": ""
+      },
+      {
+        "title": "ESPN: Pennel knew woman whose body found",
+        "url": "https://www.espn.com/nfl/story/_/id/49111387/espn-investigation-pennel-knew-woman-body-found-dr",
+        "summary": "An ESPN investigation reveals Michael Pennel Jr. had a relationship with a woman whose body was found on his property.",
+        "source": "espn.com",
+        "date": "Fri, 19 Jun 2026 18:18:32 EST",
+        "image": ""
+      },
+      {
+        "title": "Burrow: Bengals have same vibes as LSU title team",
+        "url": "https://www.espn.com/nfl/story/_/id/49098918/burrow-says-bengals-remind-2019-national-champion-lsu",
+        "summary": "Bengals quarterback Joe Burrow compares the team's current vibes to those of his championship-winning LSU squad.",
+        "source": "espn.com",
+        "date": "Fri, 19 Jun 2026 18:18:31 EST",
         "image": ""
       },
       {
         "title": "Roger Goodell \"absolutely\" expects to see active and retired NFL players in 2028 Olympics",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-absolutely-expects-to-see-active-and-retired-nfl-players-in-2028-olympics",
-        "summary": "Roger Goodell anticipates that active and retired NFL players will participate in the 2028 Olympics, where flag football will debut.",
+        "summary": "Roger Goodell anticipates the participation of active and retired NFL players in the 2028 Olympics, marking flag football's debut.",
         "source": "nbcsports.com",
         "date": "Fri, 19 Jun 2026 12:28:04 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc85eef/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F153%2F187%2Fnbc_pftpm_ufl_v2_260618.jpg"
-      },
-      {
-        "title": "Titans sign Jeffery Simmons to a three-year extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-sign-jeffery-simmons-to-a-three-year-extension",
-        "summary": "Jeffery Simmons' new contract sets a record for defensive tackle average annual value at $35.2 million.",
-        "source": "nbcsports.com",
-        "date": "Fri, 19 Jun 2026 16:25:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
-      },
-      {
-        "title": "Cards QB Beck trying to speed up learning curve",
-        "url": "https://www.espn.com/nfl/story/_/id/49100833/cardinals-rookie-carson-beck-trying-speed-learning-curve",
-        "summary": "Cardinals quarterback Carson Beck is fully immersing himself in the early stages of his NFL career.",
-        "source": "espn.com",
-        "date": "Fri, 19 Jun 2026 18:18:32 EST",
-        "image": ""
-      },
-      {
-        "title": "Daniels still adjusting to new Washington offense",
-        "url": "https://www.espn.com/nfl/story/_/id/49099896/daniels-long-way-go-master-commanders-offense",
-        "summary": "Commanders quarterback Jayden Daniels is adapting to a new offensive scheme while recovering from a challenging previous season.",
-        "source": "espn.com",
-        "date": "Fri, 19 Jun 2026 18:18:32 EST",
-        "image": ""
-      },
-      {
-        "title": "Can Sorsby start for an NFL team? Sizing up his ga...",
-        "url": "https://www.espn.com/nfl/story/_/id/49074719/2026-nfl-supplemental-draft-brendan-sorsby-strengths-weaknesses-quarterback-ranking-team-fits",
-        "summary": "Brendan Sorsby has applied for the NFL supplemental draft, prompting interest from teams as his college career concludes.",
-        "source": "espn.com",
-        "date": "Fri, 19 Jun 2026 12:52:15 EST",
-        "image": ""
       }
     ]
   }
