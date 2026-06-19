@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T18:51:11.954Z",
+  "updated": "2026-06-19T20:24:21.160Z",
   "feed": {
     "VR": [
       {
@@ -13,7 +13,7 @@
       {
         "title": "Qualcomm’s New Snapdragon Chip Paves the Way for More Compact XR Headsets and Glasses",
         "url": "https://roadtovr.com/qualcomm-snapdragon-reality-elite-compact-headsets-glasses/",
-        "summary": "Qualcomm unveiled the Snapdragon Reality Elite processor, designed to create more compact and efficient XR headsets and glasses.",
+        "summary": "Qualcomm unveiled its Snapdragon Reality Elite chipset at AWE, aiming to enhance the performance and compactness of future XR headsets.",
         "source": "roadtovr.com",
         "date": "Wed, 17 Jun 2026 08:32:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/qualcomm-snapdragon-reality-elite-2.jpg?resize=1920%2C1280&quality=89&ssl=1"
@@ -21,41 +21,41 @@
       {
         "title": "Canon Reveals Concept Handheld MR Device, Glass Waveguide & Collaboration Software",
         "url": "https://roadtovr.com/canon-concept-mr-device-ar-waveguide-reveal/",
-        "summary": "Canon showcased a concept handheld mixed reality device and new XR collaboration software at the Augmented World Expo.",
+        "summary": "Canon showcased a concept handheld mixed reality device and new collaboration software at the Augmented World Expo.",
         "source": "roadtovr.com",
         "date": "Thu, 18 Jun 2026 12:01:55 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/canon-ar-xr.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
-        "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
-        "summary": "Preorders for Xreal Aura have begun, featuring Qualcomm's Snapdragon Reality Elite, with a launch expected this fall.",
-        "source": "uploadvr.com",
-        "date": "Tue, 16 Jun 2026 11:53:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
-      },
-      {
         "title": "Makoa Shelf, Subside's New Expansion, Is A Must-Own Experience On PlayStation VR2 and PC VR",
         "url": "https://www.uploadvr.com/makoa-shelf-subsides-new-expansion-is-a-must-own-experience-on-playstation-vr2-and-pc-vr/",
-        "summary": "Subside's Makoa Shelf expansion enhances the PlayStation VR2 and PC VR experience, now available for players.",
+        "summary": "Subside's Makoa Shelf expansion for PlayStation VR2 and PC VR enhances one of the most breathtaking VR experiences available.",
         "source": "uploadvr.com",
         "date": "Thu, 18 Jun 2026 06:54:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/makoa-shelf-dlc.jpg"
       },
       {
-        "title": "‘Wanderer 2’ Cancelled Amid “volatile” VR Gaming Market",
-        "url": "https://roadtovr.com/wanderer-2-cancelled-vr-market-woes/",
-        "summary": "Mighty Eyes has canceled the development of 'Wanderer 2', citing instability in the VR gaming market.",
+        "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
+        "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
+        "summary": "Xreal Aura is now available for preorder, featuring Qualcomm's Snapdragon Reality Elite in its compute puck.",
+        "source": "uploadvr.com",
+        "date": "Tue, 16 Jun 2026 11:53:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
+      },
+      {
+        "title": "‘Subnautica 2’ VR Mod Now Includes Motion Controller Support",
+        "url": "https://roadtovr.com/subnautica-2-vr-mod-vr-controller-support/",
+        "summary": "A new VR mod for 'Subnautica 2' introduces motion controller support, enhancing the gameplay experience for PC VR fans.",
         "source": "roadtovr.com",
-        "date": "Mon, 15 Jun 2026 14:41:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/02/wanderer-2-flag.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Fri, 19 Jun 2026 11:46:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/subnautica-2-vr-controller.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Photoshop and Premiere now have AI assistants",
         "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "summary": "Adobe has rolled out AI assistants for Photoshop and Premiere, enhancing the Creative Cloud suite's functionality.",
+        "summary": "Adobe has rolled out AI assistants for Photoshop and Premiere as part of its Creative Cloud suite.",
         "source": "theverge.com",
         "date": "2026-06-18T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-        "summary": "Midjourney has introduced its first hardware product, a full-body ultrasound scanner, expanding beyond AI-generated images.",
+        "summary": "Midjourney has unveiled its first hardware product, a full-body ultrasound scanner, expanding beyond digital image generation.",
         "source": "theverge.com",
         "date": "2026-06-17T23:12:31-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -77,78 +77,78 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Anthropic got hit by export rules nobody understands",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+        "summary": "Anthropic is facing challenges in restoring access to its AI models after being hit by unexpected export restrictions.",
+        "source": "theverge.com",
+        "date": "2026-06-17T14:28:50-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Massive breach spills credentials for thousands of sensitive networks",
+        "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+        "summary": "A significant data breach has exposed credentials for thousands of sensitive networks, affecting major companies.",
+        "source": "arstechnica.com",
+        "date": "Wed, 17 Jun 2026 19:54:31 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+      },
+      {
         "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
         "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
         "summary": "A critical vulnerability in Copilot allowed hackers to steal two-factor authentication codes from users.",
         "source": "arstechnica.com",
         "date": "Tue, 16 Jun 2026 11:15:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
-      },
-      {
-        "title": "Anthropic got hit by export rules nobody understands",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-        "summary": "Anthropic is facing challenges with export rules, impacting access to its latest AI models.",
-        "source": "theverge.com",
-        "date": "2026-06-17T14:28:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Two-thirds of Americans think AI is advancing too quickly",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-        "summary": "A Pew Research poll reveals two-thirds of Americans believe AI is advancing too quickly, despite increased usage.",
-        "source": "theverge.com",
-        "date": "2026-06-17T13:20:24-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Roger Goodell \"absolutely\" expects to see active and retired NFL players in 2028 Olympics",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-absolutely-expects-to-see-active-and-retired-nfl-players-in-2028-olympics",
-        "summary": "Roger Goodell anticipates the participation of active and retired NFL players in the 2028 Olympics as flag football debuts.",
+        "summary": "Roger Goodell confirmed that active and retired NFL players are expected to participate in flag football at the 2028 Olympics.",
         "source": "nbcsports.com",
         "date": "Fri, 19 Jun 2026 12:28:04 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc85eef/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F153%2F187%2Fnbc_pftpm_ufl_v2_260618.jpg"
       },
       {
-        "title": "Chargers sign fourth-round WR Brenen Thompson, complete draft class signings",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-sign-fourth-round-wr-brenen-thompson-complete-draft-class-signings",
-        "summary": "The Chargers have signed fourth-round wide receiver Brenen Thompson, completing their draft class signings.",
-        "source": "nbcsports.com",
-        "date": "Thu, 18 Jun 2026 20:50:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b71ae27/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F623%2Fnbc_pftpm_mailbag_260618.jpg"
+        "title": "Burrow: Bengals have same vibes as LSU title team",
+        "url": "https://www.espn.com/nfl/story/_/id/49098918/burrow-says-bengals-remind-2019-national-champion-lsu",
+        "summary": "Joe Burrow likened the current Bengals team vibes to those of his 2019 LSU championship squad.",
+        "source": "espn.com",
+        "date": "Fri, 19 Jun 2026 12:01:56 EST",
+        "image": ""
       },
       {
-        "title": "Lawrence Taylor will participate in annual Sack Summit for NFL pass rushers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lawrence-taylor-will-participate-in-annual-sack-summit-for-nfl-pass-rushers",
-        "summary": "NFL legend Lawrence Taylor will join this year's annual Sack Summit, focusing on pass rushing techniques.",
-        "source": "nbcsports.com",
-        "date": "Fri, 19 Jun 2026 08:24:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/40a68b1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F630%2F891%2Fnbc_pft_maxxcrosby_260604.jpg"
+        "title": "Bowles confirms Bucs' Vea a minicamp hold-in",
+        "url": "https://www.espn.com/nfl/story/_/id/49097816/vita-vea-hold-not-concerning",
+        "summary": "Bucs defensive tackle Vita Vea is participating in minicamp as a hold-in, entering the final year of his contract.",
+        "source": "espn.com",
+        "date": "Fri, 19 Jun 2026 12:01:56 EST",
+        "image": ""
       },
       {
-        "title": "Saints G Cesar Ruiz wants to \"change the narrative\" after 2025 criticism",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-g-cesar-ruiz-wants-to-change-the-narrative-after-2025-criticism",
-        "summary": "Saints guard Cesar Ruiz aims to improve his reputation after a disappointing 2025 season.",
-        "source": "nbcsports.com",
-        "date": "Fri, 19 Jun 2026 12:38:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b77449d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F117%2F50%2Fnbc_pftpm_cincyinvest_260618.jpg"
+        "title": "Broncos excuse Cooper from minicamp after arrests",
+        "url": "https://www.espn.com/nfl/story/_/id/49088120/broncos-excuse-jonathon-cooper-minicamp-arrests",
+        "summary": "Broncos linebacker Jonathon Cooper was excused from minicamp following two arrests in a week.",
+        "source": "espn.com",
+        "date": "Fri, 19 Jun 2026 12:01:56 EST",
+        "image": ""
       },
       {
-        "title": "Lions sign WR Lawrence Keys",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-wr-lawrence-keys",
-        "summary": "The Lions have signed wide receiver Lawrence Keys from the UFL, adding depth to their roster.",
-        "source": "nbcsports.com",
-        "date": "Fri, 19 Jun 2026 12:09:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c3a1764/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F153%2F187%2Fsorsby_mpx.jpg"
+        "title": "Cincy coach expecting flood of calls on Sorsby",
+        "url": "https://www.espn.com/nfl/story/_/id/49096329/cincy-coach-expecting-flood-queries-nfl-teams-sorsby",
+        "summary": "University of Cincinnati coach Scott Satterfield anticipates increased interest in quarterback Brendan Sorsby after his supplemental draft application.",
+        "source": "espn.com",
+        "date": "Fri, 19 Jun 2026 12:01:56 EST",
+        "image": ""
       },
       {
-        "title": "Drew Brees says he couldn't return to the NFL, throws better left-handed now",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-brees-says-he-couldnt-return-to-the-nfl-throws-better-left-handed-now",
-        "summary": "Drew Brees claims he couldn't return to the NFL but feels he throws better left-handed now.",
-        "source": "nbcsports.com",
-        "date": "Fri, 19 Jun 2026 06:15:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fecd8f1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F58%2F423%2Fnbc_pft_tysonpick8_260423.jpg"
+        "title": "NFL execs choose their favorite offseason moves: W...",
+        "url": "https://www.espn.com/nfl/story/_/id/49071567/2026-offseason-nfl-execs-favorite-trades-signings-draft-picks-moves-waddle-garrett",
+        "summary": "NFL executives shared their favorite offseason moves, highlighting key trades and draft picks.",
+        "source": "espn.com",
+        "date": "Fri, 19 Jun 2026 10:43:09 EST",
+        "image": ""
       }
     ]
   }
