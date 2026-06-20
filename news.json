@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T11:57:21.390Z",
+  "updated": "2026-06-20T13:59:52.384Z",
   "feed": {
     "VR": [
       {
@@ -13,7 +13,7 @@
       {
         "title": "Qualcomm Announces Snapdragon Reality Elite, Its New Flagship XR Chipset",
         "url": "https://www.uploadvr.com/qualcomm-snapdragon-reality-elite-new-flagship-xr-chipset/",
-        "summary": "Qualcomm announced Snapdragon Reality Elite, its new flagship XR chipset, set to debut in Xreal's Aura device this fall.",
+        "summary": "Qualcomm announced its new Snapdragon Reality Elite chipset, set to enhance XR headsets and glasses with improved performance and lower power consumption.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 09:59:02 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Qualcomm-Snapdragon-Reality-Elite-hero.PNG"
@@ -21,102 +21,94 @@
       {
         "title": "XREAL AURA AR Glasses Get Fall Release Window, $1,500 Price Ceiling",
         "url": "https://roadtovr.com/xreal-aura-release-date-price-1500/",
-        "summary": "XREAL AURA AR glasses, developed with Google and Qualcomm, are set for a fall release with a price cap of $1,500.",
+        "summary": "XREAL AURA AR glasses, featuring Qualcomm's Snapdragon Reality Elite, are set for a fall release with a price ceiling of $1,500.",
         "source": "roadtovr.com",
         "date": "Wed, 17 Jun 2026 12:17:49 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
+        "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
+        "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
+        "summary": "Preorders for Xreal Aura have opened, confirming the inclusion of Qualcomm's Snapdragon Reality Elite in its Android XR puck.",
+        "source": "uploadvr.com",
+        "date": "Tue, 16 Jun 2026 11:53:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
+      },
+      {
         "title": "Makoa Shelf, Subside's New Expansion, Is A Must-Own Experience On PlayStation VR2 and PC VR",
         "url": "https://www.uploadvr.com/makoa-shelf-subsides-new-expansion-is-a-must-own-experience-on-playstation-vr2-and-pc-vr/",
-        "summary": "Subside's Makoa Shelf expansion enhances the breathtaking VR experience on PlayStation VR2 and PC VR, now available.",
+        "summary": "The Makoa Shelf expansion for Subside is now available, enhancing the breathtaking VR experience on PlayStation VR2 and PC VR.",
         "source": "uploadvr.com",
         "date": "Thu, 18 Jun 2026 06:54:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/makoa-shelf-dlc.jpg"
       },
       {
-        "title": "Demeo x DnD: Battlemarked Adds A Druid Orc In New Update",
-        "url": "https://www.uploadvr.com/demeo-x-dnd-battlemarked-adds-a-druid-orc-in-new-update/",
-        "summary": "Demeo x Dungeons & Dragons: Battlemarked introduces a new druid orc hero in its latest update, expanding gameplay options.",
+        "title": "The Longest Day Explores New Paths for Immersive Sports Stories",
+        "url": "https://www.uploadvr.com/the-longest-day-explores-new-paths-for-immersive-sports-stories/",
+        "summary": "The Longest Day, a free immersive sports documentary, is now available on Amplium and Theater apps for Apple Vision Pro.",
         "source": "uploadvr.com",
-        "date": "Fri, 19 Jun 2026 14:06:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/battlemarked-druid.jpg"
-      },
-      {
-        "title": "VR Games Showcase Returns June 23rd, Promising New Game Reveals, Updates & More",
-        "url": "https://roadtovr.com/vr-games-showcase-summer-2026-quest-pc-vr-psvr-2/",
-        "summary": "The VR Games Showcase is returning on June 23rd, promising new game reveals and updates from anticipated VR titles.",
-        "source": "roadtovr.com",
-        "date": "Fri, 19 Jun 2026 10:11:53 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/vr-games-showcase-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Fri, 19 Jun 2026 14:06:08 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/5.39-1.jpg"
       }
     ],
     "AI": [
       {
         "title": "Photoshop and Premiere now have AI assistants",
         "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "summary": "Adobe has launched AI assistants for Photoshop and Premiere, marking a significant expansion of AI features across its Creative Cloud suite.",
+        "summary": "Adobe has rolled out AI assistants for Photoshop and Premiere as part of its ongoing integration of AI across its Creative Cloud suite.",
         "source": "theverge.com",
         "date": "2026-06-18T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-        "summary": "Midjourney revealed its first hardware product, the Midjourney Scanner, a full-body ultrasound device that showcases the company's innovative direction.",
-        "source": "theverge.com",
-        "date": "2026-06-17T23:12:31-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Barret Zoph is out at OpenAI again after just five months",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-        "summary": "Barret Zoph has left OpenAI after just five months, marking another leadership change at the company.",
+        "summary": "Barret Zoph has left OpenAI again just five months after returning, highlighting ongoing leadership changes within the company.",
         "source": "theverge.com",
         "date": "2026-06-19T00:49:33-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+        "summary": "Midjourney has introduced its first hardware product, a full-body ultrasound scanner, marking a significant expansion beyond image generation.",
+        "source": "theverge.com",
+        "date": "2026-06-17T23:12:31-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+        "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+        "summary": "Adobe's Firefly AI assistant has been redesigned to enhance user experience with persistent context and organized workflows.",
+        "source": "theverge.com",
+        "date": "2026-06-18T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Anthropic got hit by export rules nobody understands",
         "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-        "summary": "Anthropic faces challenges as export rules disrupt access to its latest AI models, impacting its operations significantly.",
+        "summary": "Anthropic is facing challenges with export rules that have restricted access to its latest AI models, impacting its operations.",
         "source": "theverge.com",
         "date": "2026-06-17T14:28:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-        "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-        "summary": "Microsoft uncovered a new lightweight backdoor that steals cryptocurrency, raising concerns about security vulnerabilities.",
+        "title": "Massive breach spills credentials for thousands of sensitive networks",
+        "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+        "summary": "A massive data breach has exposed credentials for thousands of sensitive networks, affecting major companies like Oracle and FedEx.",
         "source": "arstechnica.com",
-        "date": "Thu, 18 Jun 2026 23:28:52 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg"
-      },
-      {
-        "title": "Two-thirds of Americans think AI is advancing too quickly",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-        "summary": "A Pew Research poll reveals that two-thirds of Americans believe AI is advancing too quickly, reflecting growing public concern.",
-        "source": "theverge.com",
-        "date": "2026-06-17T13:20:24-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "Wed, 17 Jun 2026 19:54:31 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       }
     ],
     "NFL": [
       {
         "title": "Titans sign Jeffery Simmons to a three-year extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-sign-jeffery-simmons-to-a-three-year-extension",
-        "summary": "The Titans have signed defensive tackle Jeffery Simmons to a three-year extension, setting a new benchmark for APY at his position.",
+        "summary": "The Titans have signed defensive tackle Jeffery Simmons to a three-year extension, setting a new APY benchmark at $35.2 million.",
         "source": "nbcsports.com",
         "date": "Fri, 19 Jun 2026 16:25:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
-      },
-      {
-        "title": "Roger Goodell \"absolutely\" expects to see active and retired NFL players in 2028 Olympics",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-absolutely-expects-to-see-active-and-retired-nfl-players-in-2028-olympics",
-        "summary": "Commissioner Roger Goodell anticipates active and retired NFL players participating in the 2028 Olympics as flag football makes its debut.",
-        "source": "nbcsports.com",
-        "date": "Fri, 19 Jun 2026 12:28:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc85eef/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F153%2F187%2Fnbc_pftpm_ufl_v2_260618.jpg"
       },
       {
         "title": "YouTube walked away from NFL package after Australia game went to Netflix",
@@ -127,28 +119,36 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5164edf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1004%2F339%2Fnbc_pft_packersantitrust_260617.jpg"
       },
       {
-        "title": "Jahmyr Gibbs has embraced MMA training",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-has-embraced-mma-training",
-        "summary": "Running back Jahmyr Gibbs is enhancing his training regimen by incorporating MMA techniques as he prepares for his prime years.",
+        "title": "Goodell on girls' flag football: If you play, you're more likely to be a lifelong fan",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/goodell-on-girls-flag-football-if-you-play-youre-more-likely-to-be-a-lifelong-fan",
+        "summary": "NFL Commissioner Roger Goodell emphasized the league's commitment to girls' flag football as a strategy to foster lifelong fans.",
         "source": "nbcsports.com",
-        "date": "Fri, 19 Jun 2026 13:04:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b516f8f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F994%2F155%2Fnbc_pft_jahmyrgibbs_260608.jpg"
+        "date": "Sat, 20 Jun 2026 07:39:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/97490a6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F312%2F903%2Fnbc_pft_nfltvdeals_260417.jpg"
       },
       {
-        "title": "Saints G Cesar Ruiz wants to \"change the narrative\" after 2025 criticism",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-g-cesar-ruiz-wants-to-change-the-narrative-after-2025-criticism",
-        "summary": "Saints guard Cesar Ruiz aims to shift perceptions following a disappointing 2025 season, focusing on a positive outlook for 2026.",
+        "title": "Family of victim in Darron Lee murder case plans to pursue potential claim against ChatGPT",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/family-of-victim-in-darron-lee-murder-case-plans-to-pursue-potential-claim-against-chatgpt",
+        "summary": "The family of a murder victim plans to pursue a claim against ChatGPT, linking it to the case of former NFL player Darron Lee.",
         "source": "nbcsports.com",
-        "date": "Fri, 19 Jun 2026 12:38:00 -0400",
+        "date": "Sat, 20 Jun 2026 09:15:16 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b77449d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F117%2F50%2Fnbc_pftpm_cincyinvest_260618.jpg"
       },
       {
-        "title": "Lawrence Taylor will participate in annual Sack Summit for NFL pass rushers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lawrence-taylor-will-participate-in-annual-sack-summit-for-nfl-pass-rushers",
-        "summary": "NFL legend Lawrence Taylor will participate in this year's annual Sack Summit, joining pass rushers for the summer event.",
+        "title": "Roger Goodell \"absolutely\" expects to see active and retired NFL players in 2028 Olympics",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-absolutely-expects-to-see-active-and-retired-nfl-players-in-2028-olympics",
+        "summary": "Roger Goodell expects to see both active and retired NFL players participating in the 2028 Olympics as flag football makes its debut.",
         "source": "nbcsports.com",
-        "date": "Fri, 19 Jun 2026 08:24:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/40a68b1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F630%2F891%2Fnbc_pft_maxxcrosby_260604.jpg"
+        "date": "Fri, 19 Jun 2026 12:28:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc85eef/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F153%2F187%2Fnbc_pftpm_ufl_v2_260618.jpg"
+      },
+      {
+        "title": "Patriots WR DeMario Douglas: Josh McDaniels wants me adding my swagger to his playbook",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-wr-demario-douglas-josh-mcdaniels-wants-me-adding-my-swagger-to-his-playbook",
+        "summary": "Patriots WR DeMario Douglas is eager to bring his unique style to the playbook under coach Josh McDaniels.",
+        "source": "nbcsports.com",
+        "date": "Sat, 20 Jun 2026 05:09:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b71ae27/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F623%2Fnbc_pftpm_mailbag_260618.jpg"
       }
     ]
   }
