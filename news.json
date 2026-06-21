@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-21T05:17:01.550Z",
+  "updated": "2026-06-21T09:06:28.941Z",
   "feed": {
     "VR": [
       {
         "title": "Canon Reveals Concept Handheld MR Device, Glass Waveguide & Collaboration Software",
         "url": "https://roadtovr.com/canon-concept-mr-device-ar-waveguide-reveal/",
-        "summary": "Canon unveiled a concept handheld mixed reality device and new XR collaboration software at AWE, showcasing advancements in augmented reality technology.",
+        "summary": "Canon unveiled a concept handheld mixed reality device and new XR collaboration software at Augmented World Expo, showcasing advancements in XR technology.",
         "source": "roadtovr.com",
         "date": "Thu, 18 Jun 2026 12:01:55 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/canon-ar-xr.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,23 +13,15 @@
       {
         "title": "Qualcomm Announces Snapdragon Reality Elite, Its New Flagship XR Chipset",
         "url": "https://www.uploadvr.com/qualcomm-snapdragon-reality-elite-new-flagship-xr-chipset/",
-        "summary": "Qualcomm announced its Snapdragon Reality Elite chipset, designed to enhance performance and reduce power consumption in future XR headsets and glasses.",
+        "summary": "Qualcomm announced Snapdragon Reality Elite, a new flagship XR chipset designed to enhance the performance and compactness of future XR headsets and glasses.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 09:59:02 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Qualcomm-Snapdragon-Reality-Elite-hero.PNG"
       },
       {
-        "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
-        "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
-        "summary": "Xreal Aura AR glasses are now available for preorder, featuring Qualcomm's Snapdragon Reality Elite, and set to launch this fall.",
-        "source": "uploadvr.com",
-        "date": "Tue, 16 Jun 2026 11:53:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
-      },
-      {
         "title": "XREAL AURA AR Glasses Get Fall Release Window, $1,500 Price Ceiling",
         "url": "https://roadtovr.com/xreal-aura-release-date-price-1500/",
-        "summary": "XREAL AURA AR glasses, developed with Google and Qualcomm, are slated for a fall release with a price ceiling of $1,500.",
+        "summary": "XREAL AURA AR glasses, developed with Google and Qualcomm, are set for a fall release with a price cap of $1,500.",
         "source": "roadtovr.com",
         "date": "Wed, 17 Jun 2026 12:17:49 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -37,41 +29,49 @@
       {
         "title": "Makoa Shelf, Subside's New Expansion, Is A Must-Own Experience On PlayStation VR2 and PC VR",
         "url": "https://www.uploadvr.com/makoa-shelf-subsides-new-expansion-is-a-must-own-experience-on-playstation-vr2-and-pc-vr/",
-        "summary": "Subside's Makoa Shelf expansion enhances PlayStation VR2 and PC VR experiences, delivering breathtaking visuals and gameplay.",
+        "summary": "Subside's Makoa Shelf expansion enhances the breathtaking VR experience on PlayStation VR2 and PC VR, now available for users.",
         "source": "uploadvr.com",
         "date": "Thu, 18 Jun 2026 06:54:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/makoa-shelf-dlc.jpg"
       },
       {
-        "title": "The Longest Day Explores New Paths for Immersive Sports Stories",
-        "url": "https://www.uploadvr.com/the-longest-day-explores-new-paths-for-immersive-sports-stories/",
-        "summary": "The Longest Day, a 7-minute immersive documentary about triathlete Jules Wagner, is now available for free on Apple Vision Pro.",
+        "title": "Demeo x DnD: Battlemarked Adds A Druid Orc In New Update",
+        "url": "https://www.uploadvr.com/demeo-x-dnd-battlemarked-adds-a-druid-orc-in-new-update/",
+        "summary": "Demeo x Dungeons & Dragons: Battlemarked introduces a new druid orc hero in its latest update, expanding gameplay options.",
         "source": "uploadvr.com",
-        "date": "Fri, 19 Jun 2026 14:06:08 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/5.39-1.jpg"
+        "date": "Fri, 19 Jun 2026 14:06:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/battlemarked-druid.jpg"
+      },
+      {
+        "title": "VR Games Showcase Returns June 23rd, Promising New Game Reveals, Updates & More",
+        "url": "https://roadtovr.com/vr-games-showcase-summer-2026-quest-pc-vr-psvr-2/",
+        "summary": "The VR Games Showcase will return on June 23rd, featuring new trailers and updates from highly anticipated VR games.",
+        "source": "roadtovr.com",
+        "date": "Fri, 19 Jun 2026 10:11:53 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/vr-games-showcase-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Photoshop and Premiere now have AI assistants",
         "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "summary": "Adobe has rolled out AI assistants for Photoshop and Premiere, marking a significant expansion of AI capabilities across its Creative Cloud suite.",
+        "summary": "Adobe has launched AI assistants in Photoshop and Premiere, marking a significant step in integrating AI across its Creative Cloud suite.",
         "source": "theverge.com",
         "date": "2026-06-18T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Adobe’s redesigned AI studio remembers what your creations look like",
-        "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-        "summary": "Adobe's redesigned AI studio introduces a new Firefly experience, enabling users to edit and generate designs with persistent context.",
+        "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+        "summary": "Midjourney has revealed its first hardware product, a full-body ultrasound scanner, showcasing a shift from generating images to medical technology.",
         "source": "theverge.com",
-        "date": "2026-06-18T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-17T23:12:31-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "The film about Sam Altman has been dropped by Amazon MGM",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-        "summary": "Amazon MGM has dropped the film about OpenAI CEO Sam Altman, which was set to star Andrew Garfield and cover Altman's tumultuous 2023.",
+        "summary": "Amazon MGM has dropped Luca Guadagnino's film about OpenAI CEO Sam Altman, which was in development for about a year.",
         "source": "theverge.com",
         "date": "2026-06-19T10:15:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +79,76 @@
       {
         "title": "Barret Zoph is out at OpenAI again after just five months",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-        "summary": "Barret Zoph has left OpenAI after just five months, marking another significant departure from the company.",
+        "summary": "Barret Zoph has left OpenAI again after just five months, marking another shakeup in the company's leadership.",
         "source": "theverge.com",
         "date": "2026-06-19T00:49:33-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-        "summary": "Midjourney has announced its first hardware product, a full-body ultrasound scanner, expanding its capabilities beyond AI image generation.",
-        "source": "theverge.com",
-        "date": "2026-06-17T23:12:31-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+        "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+        "summary": "Apple has patched a high-severity eavesdropping vulnerability affecting Beats Studio Buds, addressing security concerns disclosed a year ago.",
+        "source": "arstechnica.com",
+        "date": "Thu, 18 Jun 2026 19:41:35 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Beats-Studio-Buds-1152x648.jpg"
       },
       {
-        "title": "\"Dangerous\" AI models are coming no matter what",
-        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "summary": "Experts warn that advanced AI models with hacking capabilities are on the horizon, raising concerns about their potential dangers.",
+        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+        "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+        "summary": "Microsoft has discovered a new lightweight backdoor that steals cryptocurrency, raising alarms about cybersecurity vulnerabilities.",
         "source": "arstechnica.com",
-        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
+        "date": "Thu, 18 Jun 2026 23:28:52 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Titans, DT Simmons agree to $105M+ extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49119435/titans-dt-simmons-agree-3-year-extension-100m-guaranteed",
-        "summary": "The Tennessee Titans and defensive tackle Jeffery Simmons have agreed to a three-year, $105.8 million contract extension.",
-        "source": "espn.com",
-        "date": "Sat, 20 Jun 2026 22:15:11 EST",
-        "image": ""
+        "title": "Inside the new Jeffery Simmons deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-new-jeffery-simmons-deal",
+        "summary": "The Titans signed defensive tackle Jeffery Simmons to a three-year extension, setting a new market standard for his position.",
+        "source": "nbcsports.com",
+        "date": "Sat, 20 Jun 2026 09:46:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
       },
       {
-        "title": "Burrow: Bengals have same vibes as LSU title team",
-        "url": "https://www.espn.com/nfl/story/_/id/49098918/burrow-says-bengals-remind-2019-national-champion-lsu",
-        "summary": "Joe Burrow likens the current Bengals team vibes to those of his 2019 LSU championship squad, hinting at a promising season ahead.",
-        "source": "espn.com",
-        "date": "Sat, 20 Jun 2026 22:15:11 EST",
-        "image": ""
+        "title": "YouTube walked away from NFL package after Australia game went to Netflix",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/youtube-walked-away-from-nfl-package-after-australia-game-went-to-netflix",
+        "summary": "YouTube withdrew from negotiations for an NFL package after Netflix secured a five-game regular-season deal for 2026.",
+        "source": "nbcsports.com",
+        "date": "Fri, 19 Jun 2026 18:36:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5164edf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1004%2F339%2Fnbc_pft_packersantitrust_260617.jpg"
       },
       {
-        "title": "Bowles confirms Bucs' Vea a minicamp hold-in",
-        "url": "https://www.espn.com/nfl/story/_/id/49097816/vita-vea-hold-not-concerning",
-        "summary": "Bucs defensive tackle Vita Vea is holding out of practice as he enters the final year of his $71 million contract.",
-        "source": "espn.com",
-        "date": "Sat, 20 Jun 2026 22:15:11 EST",
-        "image": ""
+        "title": "Goodell on girls' flag football: If you play, you're more likely to be a lifelong fan",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/goodell-on-girls-flag-football-if-you-play-youre-more-likely-to-be-a-lifelong-fan",
+        "summary": "NFL Commissioner Roger Goodell emphasized the league's support for girls' flag football as a long-term strategy to grow football's fanbase.",
+        "source": "nbcsports.com",
+        "date": "Sat, 20 Jun 2026 07:39:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/97490a6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F312%2F903%2Fnbc_pft_nfltvdeals_260417.jpg"
       },
       {
-        "title": "NFL minicamp updates: Last practices before summer...",
-        "url": "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts",
-        "summary": "ESPN's NFL Nation provides insights from minicamps, highlighting key player developments and team strategies before summer break.",
-        "source": "espn.com",
-        "date": "Sat, 20 Jun 2026 22:15:08 EST",
-        "image": ""
+        "title": "Uar Bernard sees untapped NFL talent in his home country of Nigeria",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/uar-bernard-sees-untapped-nfl-talent-in-his-home-country-of-nigeria",
+        "summary": "Eagles rookie Uar Bernard sees potential in untapped NFL talent from Nigeria, highlighting the global reach of American football.",
+        "source": "nbcsports.com",
+        "date": "Sat, 20 Jun 2026 18:24:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f8aca6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F394%2F979%2Fnbc_pft_jalencarter_260611.jpg"
       },
       {
-        "title": "Fresher than listed: Sauce says he's 24, not 25",
-        "url": "https://www.espn.com/nfl/story/_/id/49112158/colts-sauce-gardner-says-24-not-25-listed-widely",
-        "summary": "Colts cornerback Sauce Gardner insists he is 24 years old, contradicting various online sources that list him as 25.",
-        "source": "espn.com",
-        "date": "Sat, 20 Jun 2026 22:15:11 EST",
-        "image": ""
+        "title": "Former Steelers G.M. Kevin Colbert defends decision to draft Kenny Pickett",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-steelers-g-m-kevin-colbert-defends-decision-to-draft-kenny-pickett",
+        "summary": "Former Steelers G.M. Kevin Colbert defended the decision to draft Kenny Pickett, reflecting on the team's past choices.",
+        "source": "nbcsports.com",
+        "date": "Sat, 20 Jun 2026 12:39:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7eec2d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F135%2F847%2Fnbc_pft_bigben_260521.jpg"
       },
       {
-        "title": "👀 Broncos may have started a salary cap trend",
-        "url": "https://www.espn.com/nfl/story/_/id/49083979/denver-broncos-russell-wilson-release-dead-money-turnaround-nfl-convention-wisdom-altered",
-        "summary": "The Broncos' record $85 million dead money hit from parting with Russell Wilson has sparked discussions about salary cap strategies.",
-        "source": "espn.com",
-        "date": "Sat, 20 Jun 2026 22:15:11 EST",
-        "image": ""
+        "title": "Titans sign Jeffery Simmons to a three-year extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-sign-jeffery-simmons-to-a-three-year-extension",
+        "summary": "Jeffery Simmons' new deal raises the stakes for Jalen Carter's contract negotiations in Philadelphia.",
+        "source": "nbcsports.com",
+        "date": "Fri, 19 Jun 2026 16:25:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
       }
     ]
   }
