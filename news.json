@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-22T19:45:05.040Z",
+  "updated": "2026-06-22T21:50:01.954Z",
   "feed": {
     "VR": [
       {
         "title": "EssilorLuxottica Partners with Applied Materials to Scale AR & Smart Glasses Optics",
         "url": "https://roadtovr.com/essilorluxottica-parter-applied-materials-ar-waveguides/",
-        "summary": "EssilorLuxottica partners with Applied Materials to accelerate AR and smart glasses optics commercialization through a long-term joint development agreement.",
+        "summary": "EssilorLuxottica partners with Applied Materials to accelerate the commercialization of next-gen optical systems for AR and AI-powered smart glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 22 Jun 2026 08:44:44 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/meta-ray-ban-display-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "XREAL AURA AR Glasses Get Fall Release Window, $1,500 Price Ceiling",
         "url": "https://roadtovr.com/xreal-aura-release-date-price-1500/",
-        "summary": "XREAL AURA AR glasses, developed with Google and Qualcomm, are set to launch this fall with a price not exceeding $1,500.",
+        "summary": "XREAL AURA AR glasses are set for a fall release, priced under $1,500, featuring Qualcomm's Snapdragon Reality Elite.",
         "source": "roadtovr.com",
         "date": "Wed, 17 Jun 2026 12:17:49 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -21,23 +21,15 @@
       {
         "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
         "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
-        "summary": "Xreal Aura is now available for preorder, featuring Qualcomm's Snapdragon Reality Elite chipset, and is expected to launch this fall.",
+        "summary": "Preorders for Xreal Aura have opened, confirming the integration of Qualcomm's Snapdragon Reality Elite in its Android XR device.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 11:53:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
       },
       {
-        "title": "Qualcomm’s New Snapdragon Chip Paves the Way for More Compact XR Headsets and Glasses",
-        "url": "https://roadtovr.com/qualcomm-snapdragon-reality-elite-compact-headsets-glasses/",
-        "summary": "Qualcomm unveils Snapdragon Reality Elite, a new processor aimed at creating more compact XR headsets and glasses with enhanced performance.",
-        "source": "roadtovr.com",
-        "date": "Wed, 17 Jun 2026 08:32:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/qualcomm-snapdragon-reality-elite-2.jpg?resize=1920%2C1280&quality=89&ssl=1"
-      },
-      {
         "title": "Canon Reveals Concept Handheld MR Device, Glass Waveguide & Collaboration Software",
         "url": "https://roadtovr.com/canon-concept-mr-device-ar-waveguide-reveal/",
-        "summary": "Canon showcases a concept handheld mixed reality device and advanced optical systems at Augmented World Expo.",
+        "summary": "Canon showcased a concept handheld mixed reality device and new AR waveguide optics at Augmented World Expo.",
         "source": "roadtovr.com",
         "date": "Thu, 18 Jun 2026 12:01:55 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/canon-ar-xr.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -45,110 +37,118 @@
       {
         "title": "GOLF+ Adds Omni La Costa Course In Latest DLC",
         "url": "https://www.uploadvr.com/golf-adds-omni-la-costa-course-in-latest-dlc/",
-        "summary": "GOLF+ enhances its VR experience by adding the Omni La Costa course in its latest DLC.",
+        "summary": "GOLF+ enhances its VR experience by adding the North Course at Omni La Costa Resort & Spa in its latest DLC.",
         "source": "uploadvr.com",
         "date": "Mon, 22 Jun 2026 07:32:07 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/omni-la-costa-golfff.webp"
+      },
+      {
+        "title": "The Longest Day Explores New Paths for Immersive Sports Stories",
+        "url": "https://www.uploadvr.com/the-longest-day-explores-new-paths-for-immersive-sports-stories/",
+        "summary": "The Longest Day, a free immersive documentary, is now available on Amplium and Theater apps for Apple Vision Pro.",
+        "source": "uploadvr.com",
+        "date": "Fri, 19 Jun 2026 14:06:08 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/5.39-1.jpg"
       }
     ],
     "AI": [
       {
         "title": "Photoshop and Premiere now have AI assistants",
         "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "summary": "Adobe rolls out AI assistants for Photoshop and Premiere, marking a significant expansion of AI capabilities across its Creative Cloud suite.",
+        "summary": "Adobe rolls out AI assistants for Photoshop and Premiere as part of its strategy to integrate AI across its Creative Cloud suite.",
         "source": "theverge.com",
         "date": "2026-06-18T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-        "summary": "Midjourney reveals its first hardware product, a full-body ultrasound scanner, showcasing its evolution beyond AI-generated images.",
-        "source": "theverge.com",
-        "date": "2026-06-17T23:12:31-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Barret Zoph is out at OpenAI again after just five months",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-        "summary": "Barret Zoph has departed OpenAI again after a brief five-month stint, raising questions about leadership stability.",
-        "source": "theverge.com",
-        "date": "2026-06-19T00:49:33-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "The film about Sam Altman has been dropped by Amazon MGM",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-        "summary": "Amazon MGM has dropped the film about OpenAI CEO Sam Altman, which was set to explore his tumultuous tenure.",
-        "source": "theverge.com",
-        "date": "2026-06-19T10:15:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "The Atlantic created a searchable database of the music used to train AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-        "summary": "The Atlantic launches a searchable database of music datasets used to train AI models, enhancing transparency in AI training data.",
+        "summary": "The Atlantic has created a searchable database of music used to train AI models, featuring millions of tracks.",
         "source": "theverge.com",
         "date": "2026-06-20T14:46:48-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-        "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-        "summary": "Microsoft discovers a new backdoor vulnerability that allows cryptocurrency theft via USB, highlighting ongoing security challenges.",
+        "title": "The film about Sam Altman has been dropped by Amazon MGM",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "summary": "Amazon MGM has dropped the film about OpenAI CEO Sam Altman, which was set to cover his dramatic tenure at the company.",
+        "source": "theverge.com",
+        "date": "2026-06-19T10:15:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Barret Zoph is out at OpenAI again after just five months",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+        "summary": "Barret Zoph has left OpenAI again after a brief five-month tenure as head of enterprise AI sales.",
+        "source": "theverge.com",
+        "date": "2026-06-19T00:49:33-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
+        "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+        "summary": "A critical vulnerability in Microsoft's Copilot allowed hackers to steal two-factor authentication codes from users.",
         "source": "arstechnica.com",
-        "date": "Thu, 18 Jun 2026 23:28:52 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg"
+        "date": "Tue, 16 Jun 2026 11:15:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
+      },
+      {
+        "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+        "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+        "summary": "AMD has reinstated memory encryption in consumer CPUs following user backlash against its previous removal.",
+        "source": "arstechnica.com",
+        "date": "Mon, 22 Jun 2026 19:16:52 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg"
       }
     ],
     "NFL": [
       {
+        "title": "Cardinals sign fourth-rounder Kaleb Proctor",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-sign-fourth-rounder-kaleb-proctor",
+        "summary": "The Arizona Cardinals have signed fourth-round draft pick Kaleb Proctor to their roster.",
+        "source": "nbcsports.com",
+        "date": "Mon, 22 Jun 2026 17:35:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69cd210/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F116%2F150%2Fnbc_pft_cardscamp_260609.jpg"
+      },
+      {
         "title": "George Kittle says he's running 16 mph in his rehab",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-says-hes-running-16-mph-in-his-rehab",
-        "summary": "George Kittle reports he is running 16 mph in rehab, targeting a return for Week 1 after tearing his Achilles.",
+        "summary": "George Kittle reports he is running 16 mph in rehab, aiming for a Week 1 return after his Achilles injury.",
         "source": "nbcsports.com",
         "date": "Mon, 22 Jun 2026 15:41:39 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/be5afe4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F46%2Fnbc_pftpm_worldcup_260622.jpg"
       },
       {
-        "title": "Broncos sign third-round pick Tyler Onyedim as logjam of unsigned third-round picks breaks",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-sign-third-round-pick-tyler-onyedim-as-logjam-breaks-of-unsigned-third-round-picks",
-        "summary": "The Broncos sign third-round pick Tyler Onyedim, marking a breakthrough in the signing of unsigned third-round draft picks.",
-        "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 04:14:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
-      },
-      {
-        "title": "Steelers rookie CB Daylen Everette says practicing against DK Metcalf is making him better",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-rookie-cb-daylen-everette-says-practicing-against-dk-metcalf-is-making-him-better",
-        "summary": "Steelers rookie CB Daylen Everette credits practicing against DK Metcalf for improving his skills as he prepares for the season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 15:33:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a57cdec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F629%2F915%2Fnbc_pft_nickherbigextended_260604.jpg"
-      },
-      {
-        "title": "Mike Mayock: NFL Network prioritized name recognition over knowledge for draft coverage",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mayock-nfl-network-prioritized-name-recognition-over-knowledge-for-draft-coverage",
-        "summary": "Mike Mayock criticizes NFL Network's draft coverage, claiming it prioritized name recognition over in-depth knowledge.",
-        "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 14:41:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d499c6b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F378%2F287%2Fnbc_pftpm_refereecomp_260622.jpg"
-      },
-      {
-        "title": "Cowboys' Shavon Revel expects to be the best cornerback in the NFL some day",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-shavon-revel-expects-to-be-the-best-cornerback-in-the-nfl-some-day",
-        "summary": "Cowboys cornerback Shavon Revel aims to become the best cornerback in the NFL, overcoming a slow start due to injury.",
-        "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 06:31:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
-      },
-      {
         "title": "NFL announces 2026 training camp report dates for all 32 teams",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-announces-training-camp-report-dates-for-all-32-teams",
-        "summary": "The NFL announces training camp report dates for all 32 teams, signaling the start of the 2026 season preparations.",
+        "summary": "The NFL has announced training camp report dates for all 32 teams ahead of the 2026 season.",
         "source": "nbcsports.com",
         "date": "Mon, 22 Jun 2026 12:56:21 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b71ae27/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F623%2Fnbc_pftpm_mailbag_260618.jpg"
+      },
+      {
+        "title": "28 teams will take part in joint practices this summer",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/28-teams-will-take-part-in-joint-practices-this-summer",
+        "summary": "Twenty-eight NFL teams will participate in joint practices during the upcoming training camps.",
+        "source": "nbcsports.com",
+        "date": "Mon, 22 Jun 2026 12:49:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4544f6f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F985%2F795%2Fnbc_pftpm_worldcupgrass_260617.jpg"
+      },
+      {
+        "title": "Police investigated assault allegation against Geno Smith",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/police-investigated-assault-allegation-against-geno-smith",
+        "summary": "Police investigated an assault allegation against Geno Smith but did not take anyone into custody.",
+        "source": "nbcsports.com",
+        "date": "Mon, 22 Jun 2026 12:47:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2bee977/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F214%2F26%2Fnbc_pft_breecehallextension_260513.jpg"
+      },
+      {
+        "title": "Fernando Mendoza says Tom Brady is teaching him how to lead an NFL team",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendoza-says-tom-brady-is-teaching-him-how-to-lead-an-nfl-team",
+        "summary": "Fernando Mendoza credits Tom Brady for mentoring him on leadership as he prepares for his first season as the Saints' QB.",
+        "source": "nbcsports.com",
+        "date": "Mon, 22 Jun 2026 11:28:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5e174e6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F623%2Fnbc_pft_cousins_260611.jpg"
       }
     ]
   }
