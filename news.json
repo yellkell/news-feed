@@ -1,64 +1,64 @@
 {
-  "updated": "2026-06-23T11:54:09.376Z",
+  "updated": "2026-06-23T14:32:50.086Z",
   "feed": {
     "VR": [
       {
+        "title": "Omni One is the First VR Treadmill with Official Support for Meta Quest",
+        "url": "https://roadtovr.com/omni-one-first-vr-treadmill-quest-support/",
+        "summary": "Virtuix's Omni One becomes the first VR treadmill officially supporting Meta Quest, enhancing immersive fitness experiences.",
+        "source": "roadtovr.com",
+        "date": "Tue, 23 Jun 2026 13:00:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/quest-virtuix.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "EssilorLuxottica Partners with Applied Materials to Scale AR & Smart Glasses Optics",
         "url": "https://roadtovr.com/essilorluxottica-parter-applied-materials-ar-waveguides/",
-        "summary": "EssilorLuxottica and Applied Materials have partnered to accelerate the development of next-gen optical systems for AR and AI-powered smart glasses.",
+        "summary": "EssilorLuxottica partners with Applied Materials to accelerate the development of next-gen optics for AR and smart glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 22 Jun 2026 08:44:44 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/meta-ray-ban-display-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "XREAL AURA AR Glasses Get Fall Release Window, $1,500 Price Ceiling",
-        "url": "https://roadtovr.com/xreal-aura-release-date-price-1500/",
-        "summary": "XREAL AURA AR glasses, developed with Google and Qualcomm, are set to launch this fall with a price not exceeding $1,500.",
-        "source": "roadtovr.com",
-        "date": "Wed, 17 Jun 2026 12:17:49 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
-        "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
-        "summary": "Xreal Aura is now available for pre-order, featuring Qualcomm's Snapdragon Reality Elite, and is set to launch this fall.",
-        "source": "uploadvr.com",
-        "date": "Tue, 16 Jun 2026 11:53:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
-      },
-      {
-        "title": "Qualcomm’s New Snapdragon Chip Paves the Way for More Compact XR Headsets and Glasses",
-        "url": "https://roadtovr.com/qualcomm-snapdragon-reality-elite-compact-headsets-glasses/",
-        "summary": "Qualcomm unveiled Snapdragon Reality Elite, a new processor designed to create more compact XR headsets and glasses.",
-        "source": "roadtovr.com",
-        "date": "Wed, 17 Jun 2026 08:32:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/qualcomm-snapdragon-reality-elite-2.jpg?resize=1920%2C1280&quality=89&ssl=1"
-      },
-      {
         "title": "Canon Reveals Concept Handheld MR Device, Glass Waveguide & Collaboration Software",
         "url": "https://roadtovr.com/canon-concept-mr-device-ar-waveguide-reveal/",
-        "summary": "Canon showcased a concept handheld mixed reality device and new XR collaboration software at the Augmented World Expo.",
+        "summary": "Canon showcases a concept handheld mixed reality device and new waveguide optics at Augmented World Expo.",
         "source": "roadtovr.com",
         "date": "Thu, 18 Jun 2026 12:01:55 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/canon-ar-xr.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "GOLF+ Adds Omni La Costa Course In Latest DLC",
-        "url": "https://www.uploadvr.com/golf-adds-omni-la-costa-course-in-latest-dlc/",
-        "summary": "GOLF+ has added the North Course at Omni La Costa Resort & Spa to its lineup of real-world courses.",
+        "title": "Qualcomm’s New Snapdragon Chip Paves the Way for More Compact XR Headsets and Glasses",
+        "url": "https://roadtovr.com/qualcomm-snapdragon-reality-elite-compact-headsets-glasses/",
+        "summary": "Qualcomm unveils Snapdragon Reality Elite, a new chip designed to enhance compact XR headsets and glasses.",
+        "source": "roadtovr.com",
+        "date": "Wed, 17 Jun 2026 08:32:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/qualcomm-snapdragon-reality-elite-2.jpg?resize=1920%2C1280&quality=89&ssl=1"
+      },
+      {
+        "title": "XREAL AURA AR Glasses Get Fall Release Window, $1,500 Price Ceiling",
+        "url": "https://roadtovr.com/xreal-aura-release-date-price-1500/",
+        "summary": "XREAL AURA AR glasses, featuring Qualcomm's Snapdragon Reality Elite, are set for a fall release at a price under $1,500.",
+        "source": "roadtovr.com",
+        "date": "Wed, 17 Jun 2026 12:17:49 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
+        "title": "Makoa Shelf, Subside's New Expansion, Is A Must-Own Experience On PlayStation VR2 and PC VR",
+        "url": "https://www.uploadvr.com/makoa-shelf-subsides-new-expansion-is-a-must-own-experience-on-playstation-vr2-and-pc-vr/",
+        "summary": "Subside's Makoa Shelf expansion enhances the PlayStation VR2 experience with breathtaking new content.",
         "source": "uploadvr.com",
-        "date": "Mon, 22 Jun 2026 07:32:07 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/omni-la-costa-golfff.webp"
+        "date": "Thu, 18 Jun 2026 06:54:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/makoa-shelf-dlc.jpg"
       }
     ],
     "AI": [
       {
-        "title": "Photoshop and Premiere now have AI assistants",
-        "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "summary": "Adobe has launched AI assistants for its Creative Cloud apps, including Photoshop and Premiere, as part of a public beta.",
+        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+        "summary": "Nvidia claims its new liquid-cooled data center design significantly reduces both power and water usage.",
         "source": "theverge.com",
-        "date": "2026-06-18T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-22T19:24:32-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "The Atlantic created a searchable database of the music used to train AI",
@@ -71,84 +71,84 @@
       {
         "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
         "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-        "summary": "AMD has reinstated memory encryption in its consumer CPUs following user backlash over its previous removal.",
+        "summary": "AMD reinstates memory encryption in consumer CPUs following user backlash over its initial removal.",
         "source": "arstechnica.com",
         "date": "Mon, 22 Jun 2026 19:16:52 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg"
       },
       {
-        "title": "The film about Sam Altman has been dropped by Amazon MGM",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-        "summary": "Amazon MGM has dropped the film about OpenAI CEO Sam Altman, titled 'Artificial,' after a year of development.",
+        "title": "Barret Zoph is out at OpenAI again after just five months",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+        "summary": "Barret Zoph has left OpenAI again after a brief five-month tenure as head of enterprise AI sales.",
         "source": "theverge.com",
-        "date": "2026-06-19T10:15:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-19T00:49:33-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
         "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-        "summary": "A critical vulnerability in Copilot allowed hackers to steal 2FA codes from users, highlighting security flaws in LLMs.",
+        "summary": "A critical vulnerability in Copilot allowed hackers to steal two-factor authentication codes from users.",
         "source": "arstechnica.com",
         "date": "Tue, 16 Jun 2026 11:15:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       },
       {
-        "title": "\"Dangerous\" AI models are coming no matter what",
-        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "summary": "Experts warn that advanced AI models capable of hacking will soon become commonplace, raising safety concerns.",
-        "source": "arstechnica.com",
-        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
+        "title": "Meta launches cheaper smart glasses without Ray-Ban",
+        "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+        "summary": "Meta launches a new line of smart glasses without Ray-Ban branding, offering various styles and colors.",
+        "source": "theverge.com",
+        "date": "2026-06-23T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&#038;strip=all&#038;crop=8.55,21.565660205136,82.25546875,73.01650212582"
       }
     ],
     "NFL": [
       {
-        "title": "Chiefs undrafted rookie Kahlil Benson will compete to start at right tackle",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-undrafted-rookie-kahlil-benson-will-compete-to-start-at-right-tackle",
-        "summary": "Undrafted rookie Kahlil Benson is set to compete for the starting right tackle position on the Chiefs.",
+        "title": "Harry Kane, a big NFL and Tom Brady fan, makes his Gillette Stadium debut today",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/harry-kane-a-big-nfl-and-tom-brady-fan-makes-his-gillette-stadium-debut-today",
+        "summary": "Harry Kane makes his Gillette Stadium debut, showcasing his enthusiasm for NFL and American football.",
         "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 06:14:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/accaa8b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F896%2F431%2Fnbc_pftpm_rice_260616.jpg"
+        "date": "Tue, 23 Jun 2026 10:10:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/be5afe4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F46%2Fnbc_pftpm_worldcup_260622.jpg"
       },
       {
         "title": "Cardinals sign fourth-rounder Kaleb Proctor",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-sign-fourth-rounder-kaleb-proctor",
-        "summary": "The Cardinals have signed fourth-round draft pick Kaleb Proctor, adding him to their roster.",
+        "summary": "The Cardinals have signed fourth-round draft pick Kaleb Proctor, adding depth to their roster.",
         "source": "nbcsports.com",
         "date": "Mon, 22 Jun 2026 17:35:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/69cd210/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F116%2F150%2Fnbc_pft_cardscamp_260609.jpg"
       },
       {
+        "title": "Details of NFL-UFL arrangement for underperforming officials are still being worked out",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/details-of-nfl-ufl-arrangement-for-underperforming-officials-are-still-being-worked-out",
+        "summary": "The NFL and its referees association are finalizing details on a new labor agreement focusing on accountability.",
+        "source": "nbcsports.com",
+        "date": "Tue, 23 Jun 2026 09:50:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d499c6b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F378%2F287%2Fnbc_pftpm_refereecomp_260622.jpg"
+      },
+      {
+        "title": "Jets CB Brandon Stephens: Interception-less season hard to believe, we're taking it personally",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-cb-brandon-stephens-interception-less-season-hard-to-believe-were-taking-it-personally",
+        "summary": "Jets cornerback Brandon Stephens reflects on the team's interception-less season, emphasizing a personal commitment to improvement.",
+        "source": "nbcsports.com",
+        "date": "Tue, 23 Jun 2026 08:46:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b1a9fed/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F396%2F355%2Fnbc_pftpm_supplementaldraftv2_260622.jpg"
+      },
+      {
+        "title": "Tom Brady: \"There's no greater passer of the football than Aaron Rodgers\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-theres-no-greater-passer-of-the-football-than-aaron-rodgers",
+        "summary": "Tom Brady praises Aaron Rodgers, declaring him the greatest passer of the football.",
+        "source": "nbcsports.com",
+        "date": "Mon, 22 Jun 2026 20:35:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c650921/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F144%2F631%2Fnbc_pft_rodgersfinalyear_260521.jpg"
+      },
+      {
         "title": "Rams to hold seven open practices during training camp",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-to-hold-seven-open-practices-during-training-camp",
-        "summary": "The Rams will hold seven open practices during their upcoming training camp this summer.",
+        "summary": "The Rams announce seven open practices for their upcoming training camp, inviting fans to attend.",
         "source": "nbcsports.com",
         "date": "Mon, 22 Jun 2026 16:12:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9545e3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_coacheslandjob_260612.jpg"
-      },
-      {
-        "title": "Dak Prescott: Making the postseason in 2026 is \"the minimum\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-making-the-postseason-in-2026-is-the-minimum",
-        "summary": "Dak Prescott stated that making the postseason in 2026 is the minimum expectation for the Cowboys.",
-        "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 17:21:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
-      },
-      {
-        "title": "NFL announces 2026 training camp report dates for all 32 teams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-announces-training-camp-report-dates-for-all-32-teams",
-        "summary": "The NFL has announced training camp report dates for all 32 teams as offseason programs conclude.",
-        "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 12:56:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b71ae27/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F623%2Fnbc_pftpm_mailbag_260618.jpg"
-      },
-      {
-        "title": "28 teams will take part in joint practices this summer",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/28-teams-will-take-part-in-joint-practices-this-summer",
-        "summary": "Twenty-eight NFL teams will participate in joint practices during this summer's training camps.",
-        "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 12:49:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4544f6f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F985%2F795%2Fnbc_pftpm_worldcupgrass_260617.jpg"
       }
     ]
   }
