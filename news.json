@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T23:14:28.195Z",
+  "updated": "2026-06-23T01:24:02.669Z",
   "feed": {
     "VR": [
       {
@@ -13,7 +13,7 @@
       {
         "title": "XREAL AURA AR Glasses Get Fall Release Window, $1,500 Price Ceiling",
         "url": "https://roadtovr.com/xreal-aura-release-date-price-1500/",
-        "summary": "XREAL AURA AR glasses, featuring Qualcomm's Snapdragon R chip, are set for a fall release at a price not exceeding $1,500.",
+        "summary": "XREAL AURA AR glasses set for fall release with a price not exceeding $1,500, featuring Qualcomm's Snapdragon technology.",
         "source": "roadtovr.com",
         "date": "Wed, 17 Jun 2026 12:17:49 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -21,41 +21,41 @@
       {
         "title": "Qualcomm’s New Snapdragon Chip Paves the Way for More Compact XR Headsets and Glasses",
         "url": "https://roadtovr.com/qualcomm-snapdragon-reality-elite-compact-headsets-glasses/",
-        "summary": "Qualcomm unveils Snapdragon Reality Elite, a new processor designed to enhance compact XR headsets and glasses.",
+        "summary": "Qualcomm unveils Snapdragon Reality Elite, a new chipset aimed at compact XR headsets and glasses.",
         "source": "roadtovr.com",
         "date": "Wed, 17 Jun 2026 08:32:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/qualcomm-snapdragon-reality-elite-2.jpg?resize=1920%2C1280&quality=89&ssl=1"
       },
       {
-        "title": "The Longest Day Explores New Paths for Immersive Sports Stories",
-        "url": "https://www.uploadvr.com/the-longest-day-explores-new-paths-for-immersive-sports-stories/",
-        "summary": "The Longest Day, a documentary about triathlete Jules Wagner, is now available for free on Apple Vision Pro.",
-        "source": "uploadvr.com",
-        "date": "Fri, 19 Jun 2026 14:06:08 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/5.39-1.jpg"
-      },
-      {
-        "title": "Makoa Shelf, Subside's New Expansion, Is A Must-Own Experience On PlayStation VR2 and PC VR",
-        "url": "https://www.uploadvr.com/makoa-shelf-subsides-new-expansion-is-a-must-own-experience-on-playstation-vr2-and-pc-vr/",
-        "summary": "Subside's Makoa Shelf expansion enhances the PlayStation VR2 experience, launching today.",
-        "source": "uploadvr.com",
-        "date": "Thu, 18 Jun 2026 06:54:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/makoa-shelf-dlc.jpg"
+        "title": "Canon Reveals Concept Handheld MR Device, Glass Waveguide & Collaboration Software",
+        "url": "https://roadtovr.com/canon-concept-mr-device-ar-waveguide-reveal/",
+        "summary": "Canon showcases a concept handheld mixed reality device and new XR collaboration software at AWE.",
+        "source": "roadtovr.com",
+        "date": "Thu, 18 Jun 2026 12:01:55 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/canon-ar-xr.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
         "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
-        "summary": "Xreal Aura opens preorders ahead of its fall launch, featuring Qualcomm's new Snapdragon Reality Elite.",
+        "summary": "Xreal Aura opens preorders for its upcoming AR glasses, featuring Qualcomm's latest technology.",
         "source": "uploadvr.com",
         "date": "Tue, 16 Jun 2026 11:53:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
+      },
+      {
+        "title": "Makoa Shelf, Subside's New Expansion, Is A Must-Own Experience On PlayStation VR2 and PC VR",
+        "url": "https://www.uploadvr.com/makoa-shelf-subsides-new-expansion-is-a-must-own-experience-on-playstation-vr2-and-pc-vr/",
+        "summary": "Subside's Makoa Shelf expansion enhances the PlayStation VR2 experience with breathtaking new content.",
+        "source": "uploadvr.com",
+        "date": "Thu, 18 Jun 2026 06:54:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/makoa-shelf-dlc.jpg"
       }
     ],
     "AI": [
       {
         "title": "Photoshop and Premiere now have AI assistants",
         "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-        "summary": "Adobe rolls out AI assistants for Photoshop and Premiere, enhancing its Creative Cloud suite with new capabilities.",
+        "summary": "Adobe rolls out AI assistants for Photoshop and Premiere as part of its Creative Cloud suite.",
         "source": "theverge.com",
         "date": "2026-06-18T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,26 +63,34 @@
       {
         "title": "The Atlantic created a searchable database of the music used to train AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-        "summary": "The Atlantic has created a searchable database of music datasets used to train AI models, featuring millions of tracks.",
+        "summary": "The Atlantic unveils a searchable database of music used to train AI models, featuring millions of tracks.",
         "source": "theverge.com",
         "date": "2026-06-20T14:46:48-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Barret Zoph is out at OpenAI again after just five months",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-        "summary": "Barret Zoph has left OpenAI again after just five months, marking another leadership change at the company.",
-        "source": "theverge.com",
-        "date": "2026-06-19T00:49:33-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
         "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-        "summary": "AMD has reinstated memory encryption in consumer CPUs following user backlash over its initial removal.",
+        "summary": "AMD reinstates memory encryption in consumer CPUs following user backlash over previous removal.",
         "source": "arstechnica.com",
         "date": "Mon, 22 Jun 2026 19:16:52 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg"
+      },
+      {
+        "title": "The film about Sam Altman has been dropped by Amazon MGM",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "summary": "Amazon MGM drops the film about OpenAI CEO Sam Altman, which was in development for a year.",
+        "source": "theverge.com",
+        "date": "2026-06-19T10:15:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Barret Zoph is out at OpenAI again after just five months",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+        "summary": "Barret Zoph departs OpenAI again after a brief five-month tenure as head of enterprise AI sales.",
+        "source": "theverge.com",
+        "date": "2026-06-19T00:49:33-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
@@ -91,64 +99,56 @@
         "source": "arstechnica.com",
         "date": "Tue, 16 Jun 2026 11:15:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
-      },
-      {
-        "title": "\"Dangerous\" AI models are coming no matter what",
-        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "summary": "AI models with advanced hacking capabilities are expected to become commonplace, raising security concerns.",
-        "source": "arstechnica.com",
-        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Titans, DT Simmons agree to $105M+ extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49119435/titans-dt-simmons-agree-3-year-extension-100m-guaranteed",
-        "summary": "The Titans have signed defensive tackle Jeffery Simmons to a three-year, $105.8 million contract extension.",
-        "source": "espn.com",
-        "date": "Mon, 22 Jun 2026 19:01:07 EST",
-        "image": ""
-      },
-      {
-        "title": "George Kittle says he's running 16 mph in his rehab",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-says-hes-running-16-mph-in-his-rehab",
-        "summary": "49ers tight end George Kittle is targeting a Week 1 return after recovering from a torn Achilles.",
+        "title": "NFL announces 2026 training camp report dates for all 32 teams",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-announces-training-camp-report-dates-for-all-32-teams",
+        "summary": "The NFL announces training camp report dates for all 32 teams ahead of the 2026 season.",
         "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 15:41:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/be5afe4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F46%2Fnbc_pftpm_worldcup_260622.jpg"
+        "date": "Mon, 22 Jun 2026 12:56:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b71ae27/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F623%2Fnbc_pftpm_mailbag_260618.jpg"
       },
       {
         "title": "Cardinals sign fourth-rounder Kaleb Proctor",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-sign-fourth-rounder-kaleb-proctor",
-        "summary": "The Cardinals have signed fourth-round draft pick Kaleb Proctor, adding to their 2026 class.",
+        "summary": "The Cardinals sign fourth-round pick Kaleb Proctor, adding him to their 2023 draft class.",
         "source": "nbcsports.com",
         "date": "Mon, 22 Jun 2026 17:35:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/69cd210/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F116%2F150%2Fnbc_pft_cardscamp_260609.jpg"
       },
       {
-        "title": "NFL minicamp updates: Last practices before summer...",
-        "url": "https://www.espn.com/nfl/story/_/id/48950554/2026-nfl-minicamp-live-updates-teams-mandatory-camps-news-notes-depth-charts",
-        "summary": "NFL minicamps conclude with insights from various teams, highlighting offseason developments and player performances.",
-        "source": "espn.com",
-        "date": "Mon, 22 Jun 2026 14:47:56 EST",
-        "image": ""
+        "title": "George Kittle says he's running 16 mph in his rehab",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-says-hes-running-16-mph-in-his-rehab",
+        "summary": "George Kittle reports running 16 mph in rehab, targeting a Week 1 return after an Achilles injury.",
+        "source": "nbcsports.com",
+        "date": "Mon, 22 Jun 2026 15:41:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/be5afe4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F46%2Fnbc_pftpm_worldcup_260622.jpg"
       },
       {
-        "title": "Daniels still adjusting to new Washington offense",
-        "url": "https://www.espn.com/nfl/story/_/id/49099896/daniels-long-way-go-master-commanders-offense",
-        "summary": "Commanders quarterback Jayden Daniels is adapting to a new offense, emphasizing the need for further improvement.",
-        "source": "espn.com",
-        "date": "Mon, 22 Jun 2026 19:01:07 EST",
-        "image": ""
+        "title": "Brendan Sorsby's agent on whether NFL will reject application for supplemental draft: \"I would hope not\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brendan-sorsbys-agent-on-whether-nfl-will-reject-application-for-supplemental-draft-i-would-hope-not",
+        "summary": "Brendan Sorsby's agent expresses hope that the NFL will accept his application for the supplemental draft.",
+        "source": "nbcsports.com",
+        "date": "Mon, 22 Jun 2026 19:21:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b1a9fed/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F396%2F355%2Fnbc_pftpm_supplementaldraftv2_260622.jpg"
       },
       {
-        "title": "👀 Broncos may have started a salary cap trend",
-        "url": "https://www.espn.com/nfl/story/_/id/49083979/denver-broncos-russell-wilson-release-dead-money-turnaround-nfl-convention-wisdom-altered",
-        "summary": "The Broncos' substantial salary cap maneuvering has sparked discussions about potential trends across the league.",
-        "source": "espn.com",
-        "date": "Mon, 22 Jun 2026 19:01:06 EST",
-        "image": ""
+        "title": "Police investigated assault allegation against Geno Smith",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/police-investigated-assault-allegation-against-geno-smith",
+        "summary": "Police investigated an assault allegation against Geno Smith but no one was taken into custody.",
+        "source": "nbcsports.com",
+        "date": "Mon, 22 Jun 2026 12:47:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2bee977/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F214%2F26%2Fnbc_pft_breecehallextension_260513.jpg"
+      },
+      {
+        "title": "Steelers rookie CB Daylen Everette says practicing against DK Metcalf is making him better",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-rookie-cb-daylen-everette-says-practicing-against-dk-metcalf-is-making-him-better",
+        "summary": "Steelers rookie CB Daylen Everette credits practicing against DK Metcalf for improving his skills.",
+        "source": "nbcsports.com",
+        "date": "Mon, 22 Jun 2026 15:33:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a57cdec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F629%2F915%2Fnbc_pft_nickherbigextended_260604.jpg"
       }
     ]
   }
