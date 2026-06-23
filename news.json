@@ -1,61 +1,61 @@
 {
-  "updated": "2026-06-23T17:03:25.178Z",
+  "updated": "2026-06-23T19:18:11.377Z",
   "feed": {
     "VR": [
       {
-        "title": "Virtuix Brings Native VR Treadmill Support to Meta Quest Games With Omni One For Quest",
-        "url": "https://www.uploadvr.com/virtuix-brings-native-vr-treadmill-support-to-meta-quest-games-with-omni-one-for-quest/",
-        "summary": "Virtuix has launched the Omni One, a VR treadmill with full integration for Meta Quest games, enhancing immersive gaming experiences.",
+        "title": "Qualcomm announces the Snapdragon Reality Elite XR chipset",
+        "url": "https://mixed-news.com/en/qualcomm-announces-snapdragon-reality-elite-xr-chipset/",
+        "summary": "Qualcomm unveils the Snapdragon Reality Elite XR chipset, promising advancements for lightweight AR and VR headsets.",
+        "source": "mixed-news.com",
+        "date": "Tue, 23 Jun 2026 17:42:22 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/SnapdragonReality.jpeg"
+      },
+      {
+        "title": "Drifters: Blackout Crew Is A New Co-op Sci-Fi Extraction Shooter Coming To PC VR & Quest",
+        "url": "https://www.uploadvr.com/drifters-blackout-crew-is-a-new-co-op-sci-fi-extraction-shooter-coming-to-pc-vr-quest/",
+        "summary": "Drifters: Blackout Crew, a new co-op sci-fi extraction shooter, is set to launch on PC VR and Quest.",
         "source": "uploadvr.com",
-        "date": "Tue, 23 Jun 2026 08:26:40 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/O1Q-Launch-Bundle.jpg"
+        "date": "Tue, 23 Jun 2026 11:38:02 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/drifters-cover_landscape.png"
       },
       {
-        "title": "Omni One is the First VR Treadmill with Official Support for Meta Quest",
-        "url": "https://roadtovr.com/omni-one-first-vr-treadmill-quest-support/",
-        "summary": "The Omni One becomes the first VR treadmill officially supported by Meta Quest, expanding its compatibility with various VR platforms.",
+        "title": "‘Forefront’ Studio Unveils New Zombie-killing Extraction Shooter ‘Breachers: Outbreak’",
+        "url": "https://roadtovr.com/forefront-zombie-shooter-breachers-outbreak-reveal/",
+        "summary": "Triangle Factory announces Breachers: Outbreak, a hybrid four-player co-op zombie extraction shooter for VR and flatscreen.",
         "source": "roadtovr.com",
-        "date": "Tue, 23 Jun 2026 13:00:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/quest-virtuix.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Tue, 23 Jun 2026 18:32:10 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/breachers-zombie.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "EssilorLuxottica Partners with Applied Materials to Scale AR & Smart Glasses Optics",
-        "url": "https://roadtovr.com/essilorluxottica-parter-applied-materials-ar-waveguides/",
-        "summary": "EssilorLuxottica partners with Applied Materials to accelerate the development of next-gen optical systems for AR and AI-powered smart glasses.",
+        "title": "High-speed Parkour Roguelite ‘The Rifted Skies’ Revealed, Coming to Quest & PC VR This Year",
+        "url": "https://roadtovr.com/parkour-roguelite-rifted-skies-reveal-quest-pc-vr/",
+        "summary": "The Rifted Skies, a high-speed parkour roguelite game, is coming to Quest and PC VR later this year.",
         "source": "roadtovr.com",
-        "date": "Mon, 22 Jun 2026 08:44:44 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/meta-ray-ban-display-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Tue, 23 Jun 2026 18:35:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/rifted-skies-art.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Canon Reveals Concept Handheld MR Device, Glass Waveguide & Collaboration Software",
-        "url": "https://roadtovr.com/canon-concept-mr-device-ar-waveguide-reveal/",
-        "summary": "Canon showcased a concept handheld mixed reality device and new XR collaboration software at the Augmented World Expo.",
-        "source": "roadtovr.com",
-        "date": "Thu, 18 Jun 2026 12:01:55 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/canon-ar-xr.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Qualcomm’s New Snapdragon Chip Paves the Way for More Compact XR Headsets and Glasses",
-        "url": "https://roadtovr.com/qualcomm-snapdragon-reality-elite-compact-headsets-glasses/",
-        "summary": "Qualcomm unveiled Snapdragon Reality Elite, a new chipset aimed at creating more compact XR headsets and glasses.",
-        "source": "roadtovr.com",
-        "date": "Wed, 17 Jun 2026 08:32:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/qualcomm-snapdragon-reality-elite-2.jpg?resize=1920%2C1280&quality=89&ssl=1"
-      },
-      {
-        "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
-        "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
-        "summary": "Xreal Aura AR glasses are available for preorder, featuring Qualcomm's Snapdragon Reality Elite, and are set to launch this fall.",
+        "title": "Co-op Pirate Game Skeleton Crew Out Now In Early Access On Meta Quest 3",
+        "url": "https://www.uploadvr.com/co-op-pirate-game-skeleton-crew-out-now-in-early-access-on-meta-quest-3/",
+        "summary": "Skeleton Crew, a two-player co-op pirate game, is now available in Early Access on Meta Quest 3.",
         "source": "uploadvr.com",
-        "date": "Tue, 16 Jun 2026 11:53:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
+        "date": "Tue, 23 Jun 2026 11:22:43 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Keyart_WithLogo-1.png"
+      },
+      {
+        "title": "Motorcycle Street Racer Lanesplit Officially Adds VR Support",
+        "url": "https://www.uploadvr.com/motorcycle-street-racer-lanesplit-officially-adds-vr-support/",
+        "summary": "Motorcycle street racer Lanesplit adds full VR support, enhancing the racing experience for players.",
+        "source": "uploadvr.com",
+        "date": "Tue, 23 Jun 2026 11:05:06 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/1280X720--VR-UPDATE-1.png"
       }
     ],
     "AI": [
       {
         "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
         "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-        "summary": "Nvidia claims its new liquid-cooled data center design significantly reduces both power and water usage, addressing environmental concerns.",
+        "summary": "Nvidia claims its new AI data center design significantly reduces water usage while maintaining efficiency.",
         "source": "theverge.com",
         "date": "2026-06-22T19:24:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Something’s off with Midjourney’s pivot to body scanners",
         "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-        "summary": "Midjourney pivots to medical imaging with a futuristic ultrasound scanner, aiming to revolutionize the field with AI technology.",
+        "summary": "Midjourney pivots to medical imaging with a futuristic ultrasound scanner, aiming for spa-like user experiences.",
         "source": "theverge.com",
         "date": "2026-06-23T11:56:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "The film about Sam Altman has been dropped by Amazon MGM",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-        "summary": "Amazon MGM has dropped Luca Guadagnino's film about OpenAI CEO Sam Altman, which covered his controversial termination and reinstatement.",
+        "summary": "Amazon MGM drops the film about OpenAI CEO Sam Altman, which was set to portray his tumultuous tenure.",
         "source": "theverge.com",
         "date": "2026-06-19T10:15:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,73 +79,73 @@
       {
         "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
         "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-        "summary": "A critical vulnerability in Microsoft’s Copilot allowed hackers to steal two-factor authentication codes, highlighting ongoing security issues in AI.",
+        "summary": "A critical vulnerability in Microsoft's Copilot allowed hackers to steal two-factor authentication codes from users.",
         "source": "arstechnica.com",
         "date": "Tue, 16 Jun 2026 11:15:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       },
       {
-        "title": "Meta launches cheaper smart glasses without Ray-Ban",
-        "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-        "summary": "Meta has launched new smart glasses without Ray-Ban branding, offering three styles starting at $300.",
-        "source": "theverge.com",
-        "date": "2026-06-23T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&#038;strip=all&#038;crop=8.55,21.565660205136,82.25546875,73.01650212582"
+        "title": "\"Dangerous\" AI models are coming no matter what",
+        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+        "summary": "Experts warn that dangerous AI models with advanced hacking capabilities are on the horizon.",
+        "source": "arstechnica.com",
+        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
       },
       {
-        "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
-        "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-        "summary": "Sony's new AI Camera Assistant has received criticism for producing subpar images with its Xperia 1 VIII smartphone.",
-        "source": "theverge.com",
-        "date": "2026-06-23T09:25:42-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sony-xperia-1-viii-ai-camera-assistant-samples.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+        "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+        "summary": "Apple patches a high-severity eavesdropping vulnerability affecting Beats Studio Buds, enhancing user security.",
+        "source": "arstechnica.com",
+        "date": "Thu, 18 Jun 2026 19:41:35 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Beats-Studio-Buds-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Eagles sign 2026 third-round pick Markel Bell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-2026-third-round-pick-markel-bell",
-        "summary": "The Eagles have signed third-round pick Markel Bell, finalizing another member of their 2026 draft class.",
-        "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 12:22:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f8aca6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F394%2F979%2Fnbc_pft_jalencarter_260611.jpg"
-      },
-      {
         "title": "23 UFL players have signed with NFL teams since conclusion of spring league's season",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/23-ufl-players-have-signed-with-nfl-teams-since-conclusion-of-spring-leagues-season",
-        "summary": "Since the UFL's conclusion, 23 players have signed with NFL teams, showcasing the league's growing influence.",
+        "summary": "Since the UFL's conclusion, 23 players have signed with NFL teams, showcasing the league's growing talent pool.",
         "source": "nbcsports.com",
         "date": "Tue, 23 Jun 2026 10:59:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc85eef/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F153%2F187%2Fnbc_pftpm_ufl_v2_260618.jpg"
       },
       {
-        "title": "Jeffery Simmons: It's my first year in an attack defense, that's my game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeffery-simmons-its-my-first-year-in-an-attack-defense-thats-my-game",
-        "summary": "Titans' defensive tackle Jeffery Simmons emphasizes his readiness for the new attack defense scheme this season.",
+        "title": "Eagles sign 2026 third-round pick Markel Bell",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-2026-third-round-pick-markel-bell",
+        "summary": "The Eagles have signed 2026 third-round pick Markel Bell, adding depth to their roster.",
         "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 11:50:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfa0a61/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F877%2F115%2Fnbc_pft_lgblount_260519.jpg"
+        "date": "Tue, 23 Jun 2026 12:22:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f8aca6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F394%2F979%2Fnbc_pft_jalencarter_260611.jpg"
       },
       {
-        "title": "Rookie WR Germie Bernard: Aaron Rodgers pouring as much into me as he can",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rookie-wr-germie-bernard-aaron-rodgers-pouring-as-much-into-me-as-he-can",
-        "summary": "Rookie WR Germie Bernard is benefiting from Aaron Rodgers’ mentorship as he prepares for a pivotal season.",
+        "title": "Jeffrey Kessler: Exclusion of Brendan Sorsby from supplemental draft violates the CBA",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeffrey-kessler-exclusion-of-brendan-sorsby-from-supplemental-draft-violates-the-cba",
+        "summary": "Brendan Sorsby's lawyer argues the NFL's exclusion of his client from the supplemental draft violates the CBA.",
         "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 11:08:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a57cdec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F629%2F915%2Fnbc_pft_nickherbigextended_260604.jpg"
+        "date": "Tue, 23 Jun 2026 13:54:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b1a9fed/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F396%2F355%2Fnbc_pftpm_supplementaldraftv2_260622.jpg"
       },
       {
-        "title": "After Scottish takeover of Boston, Robert Kraft wants Patriots to play in Scotland",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-scottish-takeover-of-boston-robert-kraft-wants-patriots-to-play-in-scotland",
-        "summary": "Patriots owner Robert Kraft expresses interest in having the team play in Scotland following a recent takeover.",
+        "title": "NFL keeps Brendan Sorsby out of supplemental draft",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-keeps-brendan-sorsby-out-of-supplemental-draft",
+        "summary": "The NFL has officially kept Brendan Sorsby out of the supplemental draft until 2027, raising legal questions.",
         "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 08:55:25 -0400",
+        "date": "Tue, 23 Jun 2026 13:47:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0ddd455/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F410%2F1019%2Fnbc_pftpm_suspensionv2_260622.jpg"
+      },
+      {
+        "title": "Harry Kane, a big NFL and Tom Brady fan, makes his Gillette Stadium debut today",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/harry-kane-a-big-nfl-and-tom-brady-fan-makes-his-gillette-stadium-debut-today",
+        "summary": "Harry Kane, a fan of NFL and Tom Brady, makes his debut at Gillette Stadium, promoting cross-sport enthusiasm.",
+        "source": "nbcsports.com",
+        "date": "Tue, 23 Jun 2026 10:10:51 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/be5afe4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F46%2Fnbc_pftpm_worldcup_260622.jpg"
       },
       {
         "title": "Lions relying on free agent addition Chuck Clark for leadership in the secondary",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-relying-on-free-agent-addition-chuck-clark-for-leadership-in-the-secondary",
-        "summary": "The Lions are counting on free agent Chuck Clark for leadership in their secondary as the season approaches.",
+        "summary": "The Lions are counting on free agent Chuck Clark for leadership in their secondary this upcoming season.",
         "source": "nbcsports.com",
         "date": "Tue, 23 Jun 2026 08:28:19 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/04b08cf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F117%2F50%2Fnbc_pftpm_lionsnewoc_260618.jpg"
