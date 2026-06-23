@@ -1,11 +1,19 @@
 {
-  "updated": "2026-06-23T14:32:50.086Z",
+  "updated": "2026-06-23T17:03:25.178Z",
   "feed": {
     "VR": [
       {
+        "title": "Virtuix Brings Native VR Treadmill Support to Meta Quest Games With Omni One For Quest",
+        "url": "https://www.uploadvr.com/virtuix-brings-native-vr-treadmill-support-to-meta-quest-games-with-omni-one-for-quest/",
+        "summary": "Virtuix has launched the Omni One, a VR treadmill with full integration for Meta Quest games, enhancing immersive gaming experiences.",
+        "source": "uploadvr.com",
+        "date": "Tue, 23 Jun 2026 08:26:40 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/O1Q-Launch-Bundle.jpg"
+      },
+      {
         "title": "Omni One is the First VR Treadmill with Official Support for Meta Quest",
         "url": "https://roadtovr.com/omni-one-first-vr-treadmill-quest-support/",
-        "summary": "Virtuix's Omni One becomes the first VR treadmill officially supporting Meta Quest, enhancing immersive fitness experiences.",
+        "summary": "The Omni One becomes the first VR treadmill officially supported by Meta Quest, expanding its compatibility with various VR platforms.",
         "source": "roadtovr.com",
         "date": "Tue, 23 Jun 2026 13:00:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/quest-virtuix.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,7 +21,7 @@
       {
         "title": "EssilorLuxottica Partners with Applied Materials to Scale AR & Smart Glasses Optics",
         "url": "https://roadtovr.com/essilorluxottica-parter-applied-materials-ar-waveguides/",
-        "summary": "EssilorLuxottica partners with Applied Materials to accelerate the development of next-gen optics for AR and smart glasses.",
+        "summary": "EssilorLuxottica partners with Applied Materials to accelerate the development of next-gen optical systems for AR and AI-powered smart glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 22 Jun 2026 08:44:44 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/meta-ray-ban-display-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,7 +29,7 @@
       {
         "title": "Canon Reveals Concept Handheld MR Device, Glass Waveguide & Collaboration Software",
         "url": "https://roadtovr.com/canon-concept-mr-device-ar-waveguide-reveal/",
-        "summary": "Canon showcases a concept handheld mixed reality device and new waveguide optics at Augmented World Expo.",
+        "summary": "Canon showcased a concept handheld mixed reality device and new XR collaboration software at the Augmented World Expo.",
         "source": "roadtovr.com",
         "date": "Thu, 18 Jun 2026 12:01:55 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/canon-ar-xr.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -29,65 +37,49 @@
       {
         "title": "Qualcomm’s New Snapdragon Chip Paves the Way for More Compact XR Headsets and Glasses",
         "url": "https://roadtovr.com/qualcomm-snapdragon-reality-elite-compact-headsets-glasses/",
-        "summary": "Qualcomm unveils Snapdragon Reality Elite, a new chip designed to enhance compact XR headsets and glasses.",
+        "summary": "Qualcomm unveiled Snapdragon Reality Elite, a new chipset aimed at creating more compact XR headsets and glasses.",
         "source": "roadtovr.com",
         "date": "Wed, 17 Jun 2026 08:32:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/qualcomm-snapdragon-reality-elite-2.jpg?resize=1920%2C1280&quality=89&ssl=1"
       },
       {
-        "title": "XREAL AURA AR Glasses Get Fall Release Window, $1,500 Price Ceiling",
-        "url": "https://roadtovr.com/xreal-aura-release-date-price-1500/",
-        "summary": "XREAL AURA AR glasses, featuring Qualcomm's Snapdragon Reality Elite, are set for a fall release at a price under $1,500.",
-        "source": "roadtovr.com",
-        "date": "Wed, 17 Jun 2026 12:17:49 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Makoa Shelf, Subside's New Expansion, Is A Must-Own Experience On PlayStation VR2 and PC VR",
-        "url": "https://www.uploadvr.com/makoa-shelf-subsides-new-expansion-is-a-must-own-experience-on-playstation-vr2-and-pc-vr/",
-        "summary": "Subside's Makoa Shelf expansion enhances the PlayStation VR2 experience with breathtaking new content.",
+        "title": "Xreal Aura Ships This Fall, With Snapdragon Reality Elite In Its Puck",
+        "url": "https://www.uploadvr.com/xreal-aura-ships-this-fall-with-snapdragon-reality-elite-in-its-puck/",
+        "summary": "Xreal Aura AR glasses are available for preorder, featuring Qualcomm's Snapdragon Reality Elite, and are set to launch this fall.",
         "source": "uploadvr.com",
-        "date": "Thu, 18 Jun 2026 06:54:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/makoa-shelf-dlc.jpg"
+        "date": "Tue, 16 Jun 2026 11:53:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Xreal-Aura.jpg"
       }
     ],
     "AI": [
       {
         "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
         "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-        "summary": "Nvidia claims its new liquid-cooled data center design significantly reduces both power and water usage.",
+        "summary": "Nvidia claims its new liquid-cooled data center design significantly reduces both power and water usage, addressing environmental concerns.",
         "source": "theverge.com",
         "date": "2026-06-22T19:24:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The Atlantic created a searchable database of the music used to train AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-        "summary": "The Atlantic has created a searchable database of music used to train AI models, featuring millions of tracks.",
+        "title": "Something’s off with Midjourney’s pivot to body scanners",
+        "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+        "summary": "Midjourney pivots to medical imaging with a futuristic ultrasound scanner, aiming to revolutionize the field with AI technology.",
         "source": "theverge.com",
-        "date": "2026-06-20T14:46:48-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-23T11:56:35-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
-        "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-        "summary": "AMD reinstates memory encryption in consumer CPUs following user backlash over its initial removal.",
-        "source": "arstechnica.com",
-        "date": "Mon, 22 Jun 2026 19:16:52 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg"
-      },
-      {
-        "title": "Barret Zoph is out at OpenAI again after just five months",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-        "summary": "Barret Zoph has left OpenAI again after a brief five-month tenure as head of enterprise AI sales.",
+        "title": "The film about Sam Altman has been dropped by Amazon MGM",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "summary": "Amazon MGM has dropped Luca Guadagnino's film about OpenAI CEO Sam Altman, which covered his controversial termination and reinstatement.",
         "source": "theverge.com",
-        "date": "2026-06-19T00:49:33-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-19T10:15:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
         "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-        "summary": "A critical vulnerability in Copilot allowed hackers to steal two-factor authentication codes from users.",
+        "summary": "A critical vulnerability in Microsoft’s Copilot allowed hackers to steal two-factor authentication codes, highlighting ongoing security issues in AI.",
         "source": "arstechnica.com",
         "date": "Tue, 16 Jun 2026 11:15:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
@@ -95,60 +87,68 @@
       {
         "title": "Meta launches cheaper smart glasses without Ray-Ban",
         "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-        "summary": "Meta launches a new line of smart glasses without Ray-Ban branding, offering various styles and colors.",
+        "summary": "Meta has launched new smart glasses without Ray-Ban branding, offering three styles starting at $300.",
         "source": "theverge.com",
         "date": "2026-06-23T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&#038;strip=all&#038;crop=8.55,21.565660205136,82.25546875,73.01650212582"
+      },
+      {
+        "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+        "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+        "summary": "Sony's new AI Camera Assistant has received criticism for producing subpar images with its Xperia 1 VIII smartphone.",
+        "source": "theverge.com",
+        "date": "2026-06-23T09:25:42-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sony-xperia-1-viii-ai-camera-assistant-samples.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Harry Kane, a big NFL and Tom Brady fan, makes his Gillette Stadium debut today",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/harry-kane-a-big-nfl-and-tom-brady-fan-makes-his-gillette-stadium-debut-today",
-        "summary": "Harry Kane makes his Gillette Stadium debut, showcasing his enthusiasm for NFL and American football.",
+        "title": "Eagles sign 2026 third-round pick Markel Bell",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-2026-third-round-pick-markel-bell",
+        "summary": "The Eagles have signed third-round pick Markel Bell, finalizing another member of their 2026 draft class.",
         "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 10:10:51 -0400",
+        "date": "Tue, 23 Jun 2026 12:22:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f8aca6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F394%2F979%2Fnbc_pft_jalencarter_260611.jpg"
+      },
+      {
+        "title": "23 UFL players have signed with NFL teams since conclusion of spring league's season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/23-ufl-players-have-signed-with-nfl-teams-since-conclusion-of-spring-leagues-season",
+        "summary": "Since the UFL's conclusion, 23 players have signed with NFL teams, showcasing the league's growing influence.",
+        "source": "nbcsports.com",
+        "date": "Tue, 23 Jun 2026 10:59:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc85eef/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F153%2F187%2Fnbc_pftpm_ufl_v2_260618.jpg"
+      },
+      {
+        "title": "Jeffery Simmons: It's my first year in an attack defense, that's my game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeffery-simmons-its-my-first-year-in-an-attack-defense-thats-my-game",
+        "summary": "Titans' defensive tackle Jeffery Simmons emphasizes his readiness for the new attack defense scheme this season.",
+        "source": "nbcsports.com",
+        "date": "Tue, 23 Jun 2026 11:50:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfa0a61/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F877%2F115%2Fnbc_pft_lgblount_260519.jpg"
+      },
+      {
+        "title": "Rookie WR Germie Bernard: Aaron Rodgers pouring as much into me as he can",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rookie-wr-germie-bernard-aaron-rodgers-pouring-as-much-into-me-as-he-can",
+        "summary": "Rookie WR Germie Bernard is benefiting from Aaron Rodgers’ mentorship as he prepares for a pivotal season.",
+        "source": "nbcsports.com",
+        "date": "Tue, 23 Jun 2026 11:08:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a57cdec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F629%2F915%2Fnbc_pft_nickherbigextended_260604.jpg"
+      },
+      {
+        "title": "After Scottish takeover of Boston, Robert Kraft wants Patriots to play in Scotland",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-scottish-takeover-of-boston-robert-kraft-wants-patriots-to-play-in-scotland",
+        "summary": "Patriots owner Robert Kraft expresses interest in having the team play in Scotland following a recent takeover.",
+        "source": "nbcsports.com",
+        "date": "Tue, 23 Jun 2026 08:55:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/be5afe4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F46%2Fnbc_pftpm_worldcup_260622.jpg"
       },
       {
-        "title": "Cardinals sign fourth-rounder Kaleb Proctor",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-sign-fourth-rounder-kaleb-proctor",
-        "summary": "The Cardinals have signed fourth-round draft pick Kaleb Proctor, adding depth to their roster.",
+        "title": "Lions relying on free agent addition Chuck Clark for leadership in the secondary",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-relying-on-free-agent-addition-chuck-clark-for-leadership-in-the-secondary",
+        "summary": "The Lions are counting on free agent Chuck Clark for leadership in their secondary as the season approaches.",
         "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 17:35:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69cd210/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F116%2F150%2Fnbc_pft_cardscamp_260609.jpg"
-      },
-      {
-        "title": "Details of NFL-UFL arrangement for underperforming officials are still being worked out",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/details-of-nfl-ufl-arrangement-for-underperforming-officials-are-still-being-worked-out",
-        "summary": "The NFL and its referees association are finalizing details on a new labor agreement focusing on accountability.",
-        "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 09:50:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d499c6b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F378%2F287%2Fnbc_pftpm_refereecomp_260622.jpg"
-      },
-      {
-        "title": "Jets CB Brandon Stephens: Interception-less season hard to believe, we're taking it personally",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-cb-brandon-stephens-interception-less-season-hard-to-believe-were-taking-it-personally",
-        "summary": "Jets cornerback Brandon Stephens reflects on the team's interception-less season, emphasizing a personal commitment to improvement.",
-        "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 08:46:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b1a9fed/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F396%2F355%2Fnbc_pftpm_supplementaldraftv2_260622.jpg"
-      },
-      {
-        "title": "Tom Brady: \"There's no greater passer of the football than Aaron Rodgers\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-theres-no-greater-passer-of-the-football-than-aaron-rodgers",
-        "summary": "Tom Brady praises Aaron Rodgers, declaring him the greatest passer of the football.",
-        "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 20:35:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c650921/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F144%2F631%2Fnbc_pft_rodgersfinalyear_260521.jpg"
-      },
-      {
-        "title": "Rams to hold seven open practices during training camp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-to-hold-seven-open-practices-during-training-camp",
-        "summary": "The Rams announce seven open practices for their upcoming training camp, inviting fans to attend.",
-        "source": "nbcsports.com",
-        "date": "Mon, 22 Jun 2026 16:12:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9545e3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_coacheslandjob_260612.jpg"
+        "date": "Tue, 23 Jun 2026 08:28:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/04b08cf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F117%2F50%2Fnbc_pftpm_lionsnewoc_260618.jpg"
       }
     ]
   }
