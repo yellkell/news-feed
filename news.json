@@ -1,19 +1,11 @@
 {
-  "updated": "2026-06-24T20:04:37.415Z",
+  "updated": "2026-06-24T21:43:14.901Z",
   "feed": {
     "VR": [
       {
-        "title": "Qualcomm announces the Snapdragon Reality Elite XR chipset",
-        "url": "https://mixed-news.com/en/qualcomm-announces-snapdragon-reality-elite-xr-chipset/",
-        "summary": "Qualcomm has announced the Snapdragon Reality Elite XR chipset, designed to enhance the performance of next-generation AR and VR headsets.",
-        "source": "mixed-news.com",
-        "date": "Tue, 23 Jun 2026 17:42:22 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/SnapdragonReality.jpeg"
-      },
-      {
         "title": "The Lightkeepers Confirms September Release Date For Meta Quest 3 In New Trailer",
         "url": "https://www.uploadvr.com/the-lightkeepers-confirms-september-release-date-for-meta-quest-3-in-new-trailer/",
-        "summary": "The Lightkeepers, a co-op action-survival game, is set to launch on Meta Quest 3 on September 10.",
+        "summary": "Co-op action-survival game The Lightkeepers is set to launch on Meta Quest 3 on September 10.",
         "source": "uploadvr.com",
         "date": "Wed, 24 Jun 2026 10:02:41 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/TheLightkeepers_SummerShowcase_thumbnail-1.png"
@@ -21,81 +13,89 @@
       {
         "title": "Transformers: Beyond Reality Redux Is Coming To Meta Quest In September",
         "url": "https://www.uploadvr.com/transformers-beyond-reality-redux-is-coming-to-meta-quest-in-september/",
-        "summary": "Transformers: Beyond Reality Redux will bring on-rails FPS action to Meta Quest in September.",
+        "summary": "Transformers: Beyond Reality Redux will bring on-rails FPS action to Meta Quest this September.",
         "source": "uploadvr.com",
         "date": "Wed, 24 Jun 2026 10:02:20 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Couverture-paysage-1.png"
       },
       {
+        "title": "VRacer Hoverbike Launches New Tracks & Supporter DLC Packs",
+        "url": "https://www.uploadvr.com/vracer-hoverbike-launches-new-tracks-supporter-dlc-packs/",
+        "summary": "VRacer Hoverbike has launched new tracks and paid DLC packs alongside scheduled multiplayer meetups.",
+        "source": "uploadvr.com",
+        "date": "Wed, 24 Jun 2026 14:25:40 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/maxresdefault-1.jpg"
+      },
+      {
         "title": "Co-op Extraction Horror Game Inwigo Is Out Now On Meta Quest For Free",
         "url": "https://www.uploadvr.com/co-op-extraction-horror-game-inwigo-is-out-now-on-meta-quest-for-free/",
-        "summary": "Inwigo, a free-to-play co-op horror extraction game, is now available on Meta Quest.",
+        "summary": "The co-op extraction horror game Inwigo is now available for free on Meta Quest.",
         "source": "uploadvr.com",
         "date": "Tue, 23 Jun 2026 11:54:53 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/inwigo-Cover.png"
       },
       {
-        "title": "Virtuix Brings Native Omni Treadmill Support To Quest Games",
-        "url": "https://www.uploadvr.com/virtuix-brings-native-vr-treadmill-support-to-meta-quest-games-with-omni-one-for-quest/",
-        "summary": "Virtuix has launched a new VR treadmill that supports full integration with Meta Quest standalone games.",
-        "source": "uploadvr.com",
-        "date": "Tue, 23 Jun 2026 08:26:40 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/O1Q-Launch-Bundle.jpg"
+        "title": "Qualcomm announces the Snapdragon Reality Elite XR chipset",
+        "url": "https://mixed-news.com/en/qualcomm-announces-snapdragon-reality-elite-xr-chipset/",
+        "summary": "Qualcomm has announced the Snapdragon Reality Elite XR chipset to power next-gen AR and VR headsets.",
+        "source": "mixed-news.com",
+        "date": "Tue, 23 Jun 2026 17:42:22 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/SnapdragonReality.jpeg"
       },
       {
-        "title": "Triangle Factory Announces Hybrid Zombie Extraction Shooter Breachers: Outbreak",
-        "url": "https://www.uploadvr.com/triangle-factory-announces-hybrid-zombie-extraction-shooter-breachers-outbreak/",
-        "summary": "Triangle Factory announced Breachers: Outbreak, a hybrid co-op zombie extraction shooter coming to Meta Quest and Steam.",
-        "source": "uploadvr.com",
-        "date": "Tue, 23 Jun 2026 11:03:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/breachers-outbreak-key-art.png"
+        "title": "‘Forefront’ Studio Unveils New Zombie-killing Extraction Shooter ‘Breachers: Outbreak’",
+        "url": "https://roadtovr.com/forefront-zombie-shooter-breachers-outbreak-reveal/",
+        "summary": "Triangle Factory has unveiled Breachers: Outbreak, a new co-op zombie extraction shooter for VR and flatscreen.",
+        "source": "roadtovr.com",
+        "date": "Tue, 23 Jun 2026 18:32:10 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/breachers-zombie.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "OpenAI reveals its first AI processor: Jalapeño",
         "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-        "summary": "OpenAI has unveiled its first AI processor, Jalapeño, designed to power large language models.",
+        "summary": "OpenAI has introduced its first AI processor, Jalapeño, designed to enhance large language models.",
         "source": "theverge.com",
         "date": "2026-06-24T10:36:47-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Figma now has AI motion graphics and shader tools",
-        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "summary": "Figma has introduced AI motion graphics and shader tools to enhance creative workflows.",
-        "source": "theverge.com",
-        "date": "2026-06-24T12:15:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
         "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-        "summary": "The $27 million political proxy war between Anthropic and OpenAI ended in a draw with Alex Bores losing the Democratic primary.",
+        "summary": "The $27 million political proxy war between Anthropic and OpenAI concluded in a draw after a tight primary race.",
         "source": "theverge.com",
         "date": "2026-06-24T13:25:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282522212.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-        "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-        "summary": "Oracle's recent layoffs are fueling its significant investments in AI data center infrastructure.",
-        "source": "arstechnica.com",
-        "date": "Tue, 23 Jun 2026 20:17:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg"
+        "title": "Figma now has AI motion graphics and shader tools",
+        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+        "summary": "Figma has launched AI motion graphics and shader tools to streamline creative workflows at its annual conference.",
+        "source": "theverge.com",
+        "date": "2026-06-24T12:15:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "\"Dangerous\" AI models are coming no matter what",
         "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "summary": "Experts warn that advanced AI models with hacking capabilities are on the horizon, raising security concerns.",
+        "summary": "Experts warn that advanced AI models capable of hacking will soon become commonplace.",
         "source": "arstechnica.com",
         "date": "Wed, 17 Jun 2026 17:50:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
       },
       {
+        "title": "Congresswoman denies staff used AI to write defense funding amendment",
+        "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+        "summary": "Congresswoman Anna Paulina Luna denies using AI to draft a defense funding amendment amid controversy.",
+        "source": "theverge.com",
+        "date": "2026-06-24T15:36:46-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Something’s off with Midjourney’s pivot to body scanners",
         "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-        "summary": "Midjourney is pivoting to medical imaging with a futuristic ultrasound scanner that aims to rival MRI technology.",
+        "summary": "Midjourney has pivoted to medical imaging, announcing a futuristic ultrasound scanner.",
         "source": "theverge.com",
         "date": "2026-06-23T11:56:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "California workers' compensation bill opposed by NFLPA has been pulled",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/california-workers-compensation-bill-opposed-by-nflpa-has-been-pulled",
-        "summary": "A California workers' compensation bill opposed by the NFLPA has been withdrawn, preserving current athlete protections.",
-        "source": "nbcsports.com",
-        "date": "Wed, 24 Jun 2026 15:57:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/571d140/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_mailbag_260624.jpg"
+        "title": "Titans, DT Simmons agree to $105M+ extension",
+        "url": "https://www.espn.com/nfl/story/_/id/49119435/titans-dt-simmons-agree-3-year-extension-100m-guaranteed",
+        "summary": "The Titans have signed defensive tackle Jeffery Simmons to a three-year, $105.8 million extension.",
+        "source": "espn.com",
+        "date": "Wed, 24 Jun 2026 17:14:08 EST",
+        "image": ""
       },
       {
-        "title": "Jaguars sign tight end Brenton Strange to three-year contract extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-sign-tight-end-brenton-strange-to-three-year-contract-extension",
-        "summary": "The Jaguars have signed tight end Brenton Strange to a three-year contract extension.",
-        "source": "nbcsports.com",
-        "date": "Wed, 24 Jun 2026 15:18:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e0c9d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F743%2F831%2Fnbc_pft_lawrence_260518.jpg"
+        "title": "Sources: Falcons, TE Pitts agree to $54M deal",
+        "url": "https://www.espn.com/nfl/story/_/id/49157000/sources-falcons-te-kyle-pitts-agree-3-year-54m-deal",
+        "summary": "Tight end Kyle Pitts has agreed to a three-year, $54 million contract with the Falcons.",
+        "source": "espn.com",
+        "date": "Wed, 24 Jun 2026 17:14:08 EST",
+        "image": ""
       },
       {
-        "title": "Report: Joey Bosa has \"more likely than not\" played his final NFL snap",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-joey-bosa-has-more-likely-than-not-played-his-final-nfl-snap",
-        "summary": "Reports suggest Joey Bosa may have played his final NFL snap, as he focuses on golf.",
-        "source": "nbcsports.com",
-        "date": "Wed, 24 Jun 2026 15:53:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/571d140/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_mailbag_260624.jpg"
+        "title": "Jaguars, TE Strange agree to 3-year extension",
+        "url": "https://www.espn.com/nfl/story/_/id/49167201/jaguars-brenton-strange-agree-3-year-deal-worth-48m",
+        "summary": "The Jaguars have extended tight end Brenton Strange's contract for three years, worth up to $48 million.",
+        "source": "espn.com",
+        "date": "Wed, 24 Jun 2026 17:14:08 EST",
+        "image": ""
       },
       {
-        "title": "Cowboys announce training camp schedule in Oxnard",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-announce-training-camp-schedule-in-oxnard",
-        "summary": "The Cowboys have announced their training camp schedule, set to open in Oxnard on July 29.",
-        "source": "nbcsports.com",
-        "date": "Wed, 24 Jun 2026 15:47:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b1c964/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F763%2F123%2Fnbc_pftpm_pickens_2606015.jpg"
+        "title": "NFL nixes 2026 supplemental draft; Sorsby stuck",
+        "url": "https://www.espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused",
+        "summary": "The NFL has canceled the 2026 supplemental draft, impacting Texas Tech quarterback Brendan Sorsby's career.",
+        "source": "espn.com",
+        "date": "Wed, 24 Jun 2026 17:14:08 EST",
+        "image": ""
       },
       {
-        "title": "Buccaneers name Tony Castricone their new radio play-by-play announcer",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-name-tony-castricone-their-new-radio-play-by-play-announcer",
-        "summary": "The Buccaneers have named Tony Castricone as their new radio play-by-play announcer, marking a significant change.",
-        "source": "nbcsports.com",
-        "date": "Wed, 24 Jun 2026 10:13:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd00dde/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F998%2F983%2Fnbc_pft_mayfieldcontract_260617.jpg"
+        "title": "Aiyuk: I'll sign with Commanders if 49ers cut me",
+        "url": "https://www.espn.com/nfl/story/_/id/49168245/aiyuk-49ers-cut-sign-commanders-tomorrow",
+        "summary": "Brandon Aiyuk expressed interest in joining the Commanders if the 49ers release him.",
+        "source": "espn.com",
+        "date": "Wed, 24 Jun 2026 17:14:08 EST",
+        "image": ""
       },
       {
-        "title": "Lamar Jackson: The way Declan Doyle calls plays is mind-blowing",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-the-way-declan-doyle-calls-plays-is-mind-blowing",
-        "summary": "Lamar Jackson praises Declan Doyle's innovative play-calling as a key offseason change for the Ravens.",
-        "source": "nbcsports.com",
-        "date": "Wed, 24 Jun 2026 09:07:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
+        "title": "Cops look at battery claim against Jets QB Smith",
+        "url": "https://www.espn.com/nfl/story/_/id/49154427/cops-investigate-jets-qb-geno-smith-battery-accusation",
+        "summary": "Jets quarterback Geno Smith is under police investigation following a battery accusation.",
+        "source": "espn.com",
+        "date": "Wed, 24 Jun 2026 17:14:08 EST",
+        "image": ""
       }
     ]
   }
