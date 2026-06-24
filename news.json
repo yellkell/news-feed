@@ -1,35 +1,43 @@
 {
-  "updated": "2026-06-24T21:43:14.901Z",
+  "updated": "2026-06-24T22:52:17.669Z",
   "feed": {
     "VR": [
       {
+        "title": "Symphonic VR Rhythm Game Maestro Announces Orchestral Attack On Titan DLC",
+        "url": "https://www.uploadvr.com/symphonic-vr-rhythm-game-maestro-announces-orchestral-attack-on-titan-dlc/",
+        "summary": "Maestro's VR rhythm game announces an Attack On Titan DLC and updates during the VR Games Showcase.",
+        "source": "uploadvr.com",
+        "date": "Wed, 24 Jun 2026 14:25:40 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/maestro-ss.jpg"
+      },
+      {
         "title": "The Lightkeepers Confirms September Release Date For Meta Quest 3 In New Trailer",
         "url": "https://www.uploadvr.com/the-lightkeepers-confirms-september-release-date-for-meta-quest-3-in-new-trailer/",
-        "summary": "Co-op action-survival game The Lightkeepers is set to launch on Meta Quest 3 on September 10.",
+        "summary": "The Lightkeepers co-op action-survival game confirms a September 10 release date for Meta Quest 3.",
         "source": "uploadvr.com",
         "date": "Wed, 24 Jun 2026 10:02:41 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/TheLightkeepers_SummerShowcase_thumbnail-1.png"
       },
       {
-        "title": "Transformers: Beyond Reality Redux Is Coming To Meta Quest In September",
-        "url": "https://www.uploadvr.com/transformers-beyond-reality-redux-is-coming-to-meta-quest-in-september/",
-        "summary": "Transformers: Beyond Reality Redux will bring on-rails FPS action to Meta Quest this September.",
-        "source": "uploadvr.com",
-        "date": "Wed, 24 Jun 2026 10:02:20 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Couverture-paysage-1.png"
-      },
-      {
         "title": "VRacer Hoverbike Launches New Tracks & Supporter DLC Packs",
         "url": "https://www.uploadvr.com/vracer-hoverbike-launches-new-tracks-supporter-dlc-packs/",
-        "summary": "VRacer Hoverbike has launched new tracks and paid DLC packs alongside scheduled multiplayer meetups.",
+        "summary": "VRacer Hoverbike introduces new tracks and supporter DLC packs in a free update.",
         "source": "uploadvr.com",
         "date": "Wed, 24 Jun 2026 14:25:40 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/maxresdefault-1.jpg"
       },
       {
+        "title": "Transformers: Beyond Reality Redux Is Coming To Meta Quest In September",
+        "url": "https://www.uploadvr.com/transformers-beyond-reality-redux-is-coming-to-meta-quest-in-september/",
+        "summary": "Transformers: Beyond Reality Redux is set to launch on Meta Quest in September.",
+        "source": "uploadvr.com",
+        "date": "Wed, 24 Jun 2026 10:02:20 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Couverture-paysage-1.png"
+      },
+      {
         "title": "Co-op Extraction Horror Game Inwigo Is Out Now On Meta Quest For Free",
         "url": "https://www.uploadvr.com/co-op-extraction-horror-game-inwigo-is-out-now-on-meta-quest-for-free/",
-        "summary": "The co-op extraction horror game Inwigo is now available for free on Meta Quest.",
+        "summary": "Inwigo, a co-op horror extraction game, is now available for free on Meta Quest.",
         "source": "uploadvr.com",
         "date": "Tue, 23 Jun 2026 11:54:53 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/inwigo-Cover.png"
@@ -37,49 +45,49 @@
       {
         "title": "Qualcomm announces the Snapdragon Reality Elite XR chipset",
         "url": "https://mixed-news.com/en/qualcomm-announces-snapdragon-reality-elite-xr-chipset/",
-        "summary": "Qualcomm has announced the Snapdragon Reality Elite XR chipset to power next-gen AR and VR headsets.",
+        "summary": "Qualcomm announces the Snapdragon Reality Elite XR chipset, designed for next-gen AR and VR headsets.",
         "source": "mixed-news.com",
         "date": "Tue, 23 Jun 2026 17:42:22 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/SnapdragonReality.jpeg"
-      },
-      {
-        "title": "‘Forefront’ Studio Unveils New Zombie-killing Extraction Shooter ‘Breachers: Outbreak’",
-        "url": "https://roadtovr.com/forefront-zombie-shooter-breachers-outbreak-reveal/",
-        "summary": "Triangle Factory has unveiled Breachers: Outbreak, a new co-op zombie extraction shooter for VR and flatscreen.",
-        "source": "roadtovr.com",
-        "date": "Tue, 23 Jun 2026 18:32:10 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/breachers-zombie.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "OpenAI reveals its first AI processor: Jalapeño",
         "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-        "summary": "OpenAI has introduced its first AI processor, Jalapeño, designed to enhance large language models.",
+        "summary": "OpenAI unveils its first AI processor, Jalapeño, designed for powering large language models.",
         "source": "theverge.com",
         "date": "2026-06-24T10:36:47-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-        "summary": "The $27 million political proxy war between Anthropic and OpenAI concluded in a draw after a tight primary race.",
-        "source": "theverge.com",
-        "date": "2026-06-24T13:25:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282522212.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+        "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+        "summary": "Operation Endgame disrupts cybercrime tools in a coordinated global operation.",
+        "source": "arstechnica.com",
+        "date": "Wed, 24 Jun 2026 21:03:34 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg"
       },
       {
         "title": "Figma now has AI motion graphics and shader tools",
         "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "summary": "Figma has launched AI motion graphics and shader tools to streamline creative workflows at its annual conference.",
+        "summary": "Figma introduces AI motion graphics and shader tools to enhance creative workflows.",
         "source": "theverge.com",
         "date": "2026-06-24T12:15:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+        "summary": "The $27 million political proxy war over Alex Bores ends in a draw between Anthropic and OpenAI.",
+        "source": "theverge.com",
+        "date": "2026-06-24T13:25:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282522212.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "\"Dangerous\" AI models are coming no matter what",
         "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "summary": "Experts warn that advanced AI models capable of hacking will soon become commonplace.",
+        "summary": "Experts warn that advanced AI models capable of hacking are on the horizon.",
         "source": "arstechnica.com",
         "date": "Wed, 17 Jun 2026 17:50:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
@@ -87,68 +95,60 @@
       {
         "title": "Congresswoman denies staff used AI to write defense funding amendment",
         "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-        "summary": "Congresswoman Anna Paulina Luna denies using AI to draft a defense funding amendment amid controversy.",
+        "summary": "Congresswoman Anna Paulina Luna denies her staff used AI to draft a defense funding amendment.",
         "source": "theverge.com",
         "date": "2026-06-24T15:36:46-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Something’s off with Midjourney’s pivot to body scanners",
-        "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-        "summary": "Midjourney has pivoted to medical imaging, announcing a futuristic ultrasound scanner.",
-        "source": "theverge.com",
-        "date": "2026-06-23T11:56:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Titans, DT Simmons agree to $105M+ extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49119435/titans-dt-simmons-agree-3-year-extension-100m-guaranteed",
-        "summary": "The Titans have signed defensive tackle Jeffery Simmons to a three-year, $105.8 million extension.",
-        "source": "espn.com",
-        "date": "Wed, 24 Jun 2026 17:14:08 EST",
-        "image": ""
+        "title": "Jaguars sign tight end Brenton Strange to three-year contract extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-sign-tight-end-brenton-strange-to-three-year-contract-extension",
+        "summary": "The Jaguars sign tight end Brenton Strange to a three-year contract extension.",
+        "source": "nbcsports.com",
+        "date": "Wed, 24 Jun 2026 15:18:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e0c9d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F743%2F831%2Fnbc_pft_lawrence_260518.jpg"
       },
       {
-        "title": "Sources: Falcons, TE Pitts agree to $54M deal",
-        "url": "https://www.espn.com/nfl/story/_/id/49157000/sources-falcons-te-kyle-pitts-agree-3-year-54m-deal",
-        "summary": "Tight end Kyle Pitts has agreed to a three-year, $54 million contract with the Falcons.",
-        "source": "espn.com",
-        "date": "Wed, 24 Jun 2026 17:14:08 EST",
-        "image": ""
+        "title": "Cowboys announce training camp schedule in Oxnard",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-announce-training-camp-schedule-in-oxnard",
+        "summary": "The Cowboys announce their training camp schedule, returning to Oxnard, California on July 29.",
+        "source": "nbcsports.com",
+        "date": "Wed, 24 Jun 2026 15:47:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b1c964/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F763%2F123%2Fnbc_pftpm_pickens_2606015.jpg"
       },
       {
-        "title": "Jaguars, TE Strange agree to 3-year extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49167201/jaguars-brenton-strange-agree-3-year-deal-worth-48m",
-        "summary": "The Jaguars have extended tight end Brenton Strange's contract for three years, worth up to $48 million.",
-        "source": "espn.com",
-        "date": "Wed, 24 Jun 2026 17:14:08 EST",
-        "image": ""
+        "title": "Buccaneers name Tony Castricone their new radio play-by-play announcer",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-name-tony-castricone-their-new-radio-play-by-play-announcer",
+        "summary": "The Buccaneers appoint Tony Castricone as their new radio play-by-play announcer.",
+        "source": "nbcsports.com",
+        "date": "Wed, 24 Jun 2026 10:13:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd00dde/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F998%2F983%2Fnbc_pft_mayfieldcontract_260617.jpg"
       },
       {
-        "title": "NFL nixes 2026 supplemental draft; Sorsby stuck",
-        "url": "https://www.espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused",
-        "summary": "The NFL has canceled the 2026 supplemental draft, impacting Texas Tech quarterback Brendan Sorsby's career.",
-        "source": "espn.com",
-        "date": "Wed, 24 Jun 2026 17:14:08 EST",
-        "image": ""
+        "title": "Ravens hire Kyle Youmans as radio play-by-play announcer",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-hire-kyle-youmans-as-radio-play-by-play-announcer",
+        "summary": "The Ravens hire Kyle Youmans as their new radio play-by-play announcer after two decades.",
+        "source": "nbcsports.com",
+        "date": "Wed, 24 Jun 2026 09:51:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
       },
       {
-        "title": "Aiyuk: I'll sign with Commanders if 49ers cut me",
-        "url": "https://www.espn.com/nfl/story/_/id/49168245/aiyuk-49ers-cut-sign-commanders-tomorrow",
-        "summary": "Brandon Aiyuk expressed interest in joining the Commanders if the 49ers release him.",
-        "source": "espn.com",
-        "date": "Wed, 24 Jun 2026 17:14:08 EST",
-        "image": ""
+        "title": "Report: Joey Bosa has \"more likely than not\" played his final NFL snap",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-joey-bosa-has-more-likely-than-not-played-his-final-nfl-snap",
+        "summary": "Reports suggest Joey Bosa may have played his final NFL snap as he focuses on golf.",
+        "source": "nbcsports.com",
+        "date": "Wed, 24 Jun 2026 15:53:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/571d140/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_mailbag_260624.jpg"
       },
       {
-        "title": "Cops look at battery claim against Jets QB Smith",
-        "url": "https://www.espn.com/nfl/story/_/id/49154427/cops-investigate-jets-qb-geno-smith-battery-accusation",
-        "summary": "Jets quarterback Geno Smith is under police investigation following a battery accusation.",
-        "source": "espn.com",
-        "date": "Wed, 24 Jun 2026 17:14:08 EST",
-        "image": ""
+        "title": "TE Chig Okonkwo feels he \"can finally just unleash\" in Commanders offense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/te-chig-okonkwo-feels-he-can-finally-just-unleash-in-commanders-offense",
+        "summary": "Tight end Chig Okonkwo expresses excitement about unleashing his potential in the Commanders' offense.",
+        "source": "nbcsports.com",
+        "date": "Wed, 24 Jun 2026 13:07:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c1da540/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F143%2Fnbc_pftpm_aiyuk_260622.jpg"
       }
     ]
   }
