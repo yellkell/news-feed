@@ -1,80 +1,72 @@
 {
-  "updated": "2026-06-24T16:11:27.043Z",
+  "updated": "2026-06-24T18:06:37.255Z",
   "feed": {
     "VR": [
       {
+        "title": "Qualcomm announces the Snapdragon Reality Elite XR chipset",
+        "url": "https://mixed-news.com/en/qualcomm-announces-snapdragon-reality-elite-xr-chipset/",
+        "summary": "Qualcomm has announced the Snapdragon Reality Elite XR chipset, designed to enhance the performance of next-generation lightweight AR and VR headsets.",
+        "source": "mixed-news.com",
+        "date": "Tue, 23 Jun 2026 17:42:22 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/SnapdragonReality.jpeg"
+      },
+      {
+        "title": "The Lightkeepers Confirms September Release Date For Meta Quest 3 In New Trailer",
+        "url": "https://www.uploadvr.com/the-lightkeepers-confirms-september-release-date-for-meta-quest-3-in-new-trailer/",
+        "summary": "The Lightkeepers, a co-op action-survival game, is set to release on Meta Quest 3 on September 10.",
+        "source": "uploadvr.com",
+        "date": "Wed, 24 Jun 2026 10:02:41 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/TheLightkeepers_SummerShowcase_thumbnail-1.png"
+      },
+      {
+        "title": "Transformers: Beyond Reality Redux Is Coming To Meta Quest In September",
+        "url": "https://www.uploadvr.com/transformers-beyond-reality-redux-is-coming-to-meta-quest-in-september/",
+        "summary": "Transformers: Beyond Reality Redux will launch on Meta Quest in September, featuring on-rails FPS action.",
+        "source": "uploadvr.com",
+        "date": "Wed, 24 Jun 2026 10:02:20 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Couverture-paysage-1.png"
+      },
+      {
         "title": "Co-op Extraction Horror Game Inwigo Is Out Now On Meta Quest For Free",
         "url": "https://www.uploadvr.com/co-op-extraction-horror-game-inwigo-is-out-now-on-meta-quest-for-free/",
-        "summary": "Co-op horror extraction game Inwigo is now available for free on Meta Quest, offering players a thrilling multiplayer experience.",
+        "summary": "Inwigo, a free-to-play co-op horror extraction game, is now available on Meta Quest.",
         "source": "uploadvr.com",
         "date": "Tue, 23 Jun 2026 11:54:53 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/inwigo-Cover.png"
       },
       {
-        "title": "Drifters: Blackout Crew Is A New Co-op Sci-Fi Extraction Shooter Coming To PC VR & Quest",
-        "url": "https://www.uploadvr.com/drifters-blackout-crew-is-a-new-co-op-sci-fi-extraction-shooter-coming-to-pc-vr-quest/",
-        "summary": "Drifters: Blackout Crew, a new co-op sci-fi extraction shooter, is set to launch on PC VR and Quest.",
+        "title": "Roguelike Revenge Shooter I Am Your Beast Roars To PC VR Early Access Later This Year",
+        "url": "https://www.uploadvr.com/roguelike-revenge-shooter-i-am-your-beast-roars-to-pc-vr-early-access-later-this-year/",
+        "summary": "I Am Your Beast, a roguelike revenge shooter, is coming to PC VR in early access later this year.",
         "source": "uploadvr.com",
-        "date": "Tue, 23 Jun 2026 11:38:02 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/drifters-cover_landscape.png"
+        "date": "Tue, 23 Jun 2026 11:32:03 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/VR-Showcase_I-AM-Your-Beast-Thumbnail.png"
       },
       {
-        "title": "‘Forefront’ Studio Unveils New Zombie-killing Extraction Shooter ‘Breachers: Outbreak’",
-        "url": "https://roadtovr.com/forefront-zombie-shooter-breachers-outbreak-reveal/",
-        "summary": "Triangle Factory announced Breachers: Outbreak, a four-player online co-op zombie extraction shooter, unveiled at the VR Games Showcase.",
-        "source": "roadtovr.com",
-        "date": "Tue, 23 Jun 2026 18:32:10 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/breachers-zombie.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "High-speed Parkour Roguelite ‘The Rifted Skies’ Revealed, Coming to Quest & PC VR This Year",
-        "url": "https://roadtovr.com/parkour-roguelite-rifted-skies-reveal-quest-pc-vr/",
-        "summary": "The Rifted Skies, an acrobatic parkour roguelite action game, is coming to Quest and PC VR later this year.",
-        "source": "roadtovr.com",
-        "date": "Tue, 23 Jun 2026 18:35:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/rifted-skies-art.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Triangle Factory Announces Hybrid Zombie Extraction Shooter Breachers: Outbreak",
-        "url": "https://www.uploadvr.com/triangle-factory-announces-hybrid-zombie-extraction-shooter-breachers-outbreak/",
-        "summary": "Breachers: Outbreak will feature cross-platform support for Meta Quest, Pico, and Steam, enhancing its multiplayer capabilities.",
+        "title": "Virtuix Brings Native Omni Treadmill Support To Quest Games",
+        "url": "https://www.uploadvr.com/virtuix-brings-native-vr-treadmill-support-to-meta-quest-games-with-omni-one-for-quest/",
+        "summary": "Virtuix has introduced native Omni treadmill support for Meta Quest games, enhancing the VR gaming experience.",
         "source": "uploadvr.com",
-        "date": "Tue, 23 Jun 2026 11:03:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/breachers-outbreak-key-art.png"
-      },
-      {
-        "title": "Qualcomm announces the Snapdragon Reality Elite XR chipset",
-        "url": "https://mixed-news.com/en/qualcomm-announces-snapdragon-reality-elite-xr-chipset/",
-        "summary": "Qualcomm launched the Snapdragon Reality Elite XR chipset, aimed at powering the next generation of lightweight AR and VR headsets.",
-        "source": "mixed-news.com",
-        "date": "Tue, 23 Jun 2026 17:42:22 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/SnapdragonReality.jpeg"
+        "date": "Tue, 23 Jun 2026 08:26:40 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/O1Q-Launch-Bundle.jpg"
       }
     ],
     "AI": [
       {
         "title": "OpenAI reveals its first AI processor: Jalapeño",
         "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-        "summary": "OpenAI unveiled its first AI processor, Jalapeño, designed to enhance large language models, in collaboration with Broadcom.",
+        "summary": "OpenAI has unveiled its first AI processor, Jalapeño, designed to power large language models.",
         "source": "theverge.com",
         "date": "2026-06-24T10:36:47-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-        "summary": "Nvidia claims its new AI data center design significantly reduces water usage while maintaining high performance.",
+        "title": "Figma now has AI motion graphics and shader tools",
+        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+        "summary": "Figma has launched AI motion graphics and shader tools to streamline creative workflows for designers.",
         "source": "theverge.com",
-        "date": "2026-06-22T19:24:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "\"Dangerous\" AI models are coming no matter what",
-        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "summary": "Experts warn that advanced AI models capable of sophisticated hacking will soon become commonplace.",
-        "source": "arstechnica.com",
-        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
+        "date": "2026-06-24T12:15:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
@@ -87,68 +79,76 @@
       {
         "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
         "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-        "summary": "Oracle's recent layoffs are fueling its multi-billion dollar investments in AI data center infrastructure.",
+        "summary": "Oracle's recent layoffs are fueling its significant investments in AI data center infrastructure.",
         "source": "arstechnica.com",
         "date": "Tue, 23 Jun 2026 20:17:38 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg"
       },
       {
-        "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
-        "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
-        "summary": "AMD has reinstated memory encryption in consumer CPUs following criticism over a previous decision to remove it.",
+        "title": "Something’s off with Midjourney’s pivot to body scanners",
+        "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+        "summary": "Midjourney is pivoting to medical imaging with a new ultrasound scanner that aims to rival MRI technology.",
+        "source": "theverge.com",
+        "date": "2026-06-23T11:56:35-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "\"Dangerous\" AI models are coming no matter what",
+        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+        "summary": "Experts warn that advanced AI models capable of hacking will soon become commonplace.",
         "source": "arstechnica.com",
-        "date": "Mon, 22 Jun 2026 19:16:52 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg"
+        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
       }
     ],
     "NFL": [
       {
         "title": "Falcons, Kyle Pitts agree to three-year contract",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-kyle-pitts-agree-to-three-year-contract",
-        "summary": "Kyle Pitts has signed a three-year contract with the Falcons, positioning him among the highest-paid tight ends in the league.",
+        "summary": "Kyle Pitts has agreed to a three-year contract with the Falcons, positioning him among the league's highest-paid tight ends.",
         "source": "nbcsports.com",
         "date": "Tue, 23 Jun 2026 16:51:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f04fcb2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F120%2F55%2Fnbc_pft_bijanrobinson_260609.jpg"
       },
       {
-        "title": "Ravens hire Kyle Youmans as radio play-by-play announcer",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-hire-kyle-youmans-as-radio-play-by-play-announcer",
-        "summary": "The Ravens have hired Kyle Youmans as their new radio play-by-play announcer, marking a change after two decades.",
+        "title": "TE Chig Okonkwo feels he \"can finally just unleash\" in Commanders offense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/te-chig-okonkwo-feels-he-can-finally-just-unleash-in-commanders-offense",
+        "summary": "Tight end Chig Okonkwo believes he can thrive in the Commanders' offense after signing with the team.",
         "source": "nbcsports.com",
-        "date": "Wed, 24 Jun 2026 09:51:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
+        "date": "Wed, 24 Jun 2026 13:07:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c1da540/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F143%2Fnbc_pftpm_aiyuk_260622.jpg"
       },
       {
         "title": "Buccaneers name Tony Castricone their new radio play-by-play announcer",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-name-tony-castricone-their-new-radio-play-by-play-announcer",
-        "summary": "The Buccaneers have appointed Tony Castricone as their new radio play-by-play announcer, ending a long-standing era.",
+        "summary": "The Buccaneers have appointed Tony Castricone as their new radio play-by-play announcer, marking a significant change since 1989.",
         "source": "nbcsports.com",
         "date": "Wed, 24 Jun 2026 10:13:49 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd00dde/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F998%2F983%2Fnbc_pft_mayfieldcontract_260617.jpg"
       },
       {
-        "title": "NFL is \"aware\" of Geno Smith investigation but declines further comment",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-is-aware-of-geno-smith-investigation-but-declines-further-comment",
-        "summary": "The NFL acknowledges an ongoing investigation into Geno Smith but has not provided further comments on the allegations.",
+        "title": "Ravens hire Kyle Youmans as radio play-by-play announcer",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-hire-kyle-youmans-as-radio-play-by-play-announcer",
+        "summary": "The Ravens have hired Kyle Youmans as their new radio play-by-play announcer, replacing a long-time voice.",
         "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 16:00:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1059603/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2FGenoFlorio6-23.jpg"
+        "date": "Wed, 24 Jun 2026 09:51:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
       },
       {
         "title": "Lamar Jackson: The way Declan Doyle calls plays is mind-blowing",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-the-way-declan-doyle-calls-plays-is-mind-blowing",
-        "summary": "Lamar Jackson praises Declan Doyle's innovative play-calling, highlighting a significant offseason for the Ravens.",
+        "summary": "Lamar Jackson praises Declan Doyle's play-calling, calling it a game-changer for the Ravens this offseason.",
         "source": "nbcsports.com",
         "date": "Wed, 24 Jun 2026 09:07:18 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
       },
       {
-        "title": "NFLPA has not decided whether (or how) to challenge the NFL's position on Brendan Sorsby",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-has-not-decided-whether-or-how-to-challenge-the-nfls-position-on-brendan-sorsby",
-        "summary": "The NFLPA is considering how to challenge the league's decision regarding quarterback Brendan Sorsby's eligibility for the supplemental draft.",
+        "title": "49ers are \"exploring\" relocation of their practice facililty",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-are-exploring-relocation-of-their-practice-facililty",
+        "summary": "The 49ers are considering relocating their practice facility to resolve ongoing electrical substation issues.",
         "source": "nbcsports.com",
-        "date": "Tue, 23 Jun 2026 18:43:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/395b541/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F519%2F403%2Fnbc_pftpm_whatsnext_260623.jpg"
+        "date": "Tue, 23 Jun 2026 19:48:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c1da540/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F143%2Fnbc_pftpm_aiyuk_260622.jpg"
       }
     ]
   }
