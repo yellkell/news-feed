@@ -1,146 +1,122 @@
 {
-  "updated": "2026-06-26T11:40:20.430Z",
+  "updated": "2026-06-26T13:35:49.856Z",
   "feed": {
     "VR": [
       {
-        "title": "Apple Raises Price Of Many Products, Including Vision Pro",
-        "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
-        "summary": "Apple has raised the price of its Vision Pro headset to $3700, citing a global memory crisis.",
-        "source": "uploadvr.com",
-        "date": "Thu, 25 Jun 2026 10:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png"
+        "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
+        "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
+        "summary": "Combat Waffle Studios, developer of 'Ghosts of Tabor,' announces layoffs to align with the current state of the VR industry after generating over $30 million in revenue.",
+        "source": "roadtovr.com",
+        "date": "Fri, 26 Jun 2026 11:01:29 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Layoffs At Ghosts Of Tabor Developer & Shutdowns For 3 Other VR Games",
         "url": "https://www.uploadvr.com/layoffs-at-ghosts-of-tabor-developer-shutdowns-for-3-other-vr-games/",
-        "summary": "Combat Waffle Studios, developer of Ghosts of Tabor, announced layoffs alongside shutdowns of other VR games due to poor sales.",
+        "summary": "The shutdown of 'A Township Tale' and layoffs at Combat Waffle Studios highlight ongoing challenges in the VR gaming sector.",
         "source": "uploadvr.com",
         "date": "Thu, 25 Jun 2026 12:56:01 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/uvr-badnewsJune.png"
       },
       {
-        "title": "‘Synth Riders’ Gets Surprise Linkin Park DLC Drop, Its Biggest Music Pack to Date",
-        "url": "https://roadtovr.com/synth-riders-linkin-park-dlc-music-pack-release/",
-        "summary": "Synth Riders launched its biggest DLC yet, featuring 13 iconic tracks from Linkin Park.",
-        "source": "roadtovr.com",
-        "date": "Thu, 25 Jun 2026 14:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/linkin-park-synth-riders.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "title": "Apple Raises Price Of Many Products, Including Vision Pro",
+        "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
+        "summary": "Apple has raised the price of its Vision Pro headset to $3,700, citing a global memory crisis.",
+        "source": "uploadvr.com",
+        "date": "Thu, 25 Jun 2026 10:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png"
       },
       {
-        "title": "Co-op Extraction Horror Game Inwigo Is Out Now On Meta Quest For Free",
-        "url": "https://www.uploadvr.com/co-op-extraction-horror-game-inwigo-is-out-now-on-meta-quest-for-free/",
-        "summary": "The co-op horror extraction game Inwigo is now available for free on Meta Quest.",
-        "source": "uploadvr.com",
-        "date": "Tue, 23 Jun 2026 11:54:53 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/inwigo-Cover.png"
+        "title": "Meta’s new AI glasses cost $299, last 8 hours, and finally look worth buying",
+        "url": "https://mixed-news.com/en/metas-new-ai-glasses-cost-299-last-8-hours-and-finally-look-worth-buying/",
+        "summary": "Meta launches new AI glasses starting at $299, featuring enhanced styles and options in collaboration with EssilorLuxottica.",
+        "source": "mixed-news.com",
+        "date": "Thu, 25 Jun 2026 02:02:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Meta-Glasses.webp"
+      },
+      {
+        "title": "Meta Quest gets 28 new VR games and updates, including PAYDAY, Transformers and H3VR2",
+        "url": "https://mixed-news.com/en/meta-quest-gets-28-new-vr-games-and-updates-including-payday-transformers-and-h3vr2/",
+        "summary": "Meta showcases 28 new VR games and updates, including highly anticipated titles like PAYDAY and Transformers.",
+        "source": "mixed-news.com",
+        "date": "Wed, 24 Jun 2026 23:12:25 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/VR-Games-Meta.webp"
       },
       {
         "title": "The Lightkeepers Confirms September Release Date For Meta Quest 3 In New Trailer",
         "url": "https://www.uploadvr.com/the-lightkeepers-confirms-september-release-date-for-meta-quest-3-in-new-trailer/",
-        "summary": "The Lightkeepers, a co-op action-survival game, is set to release on Meta Quest 3 on September 10.",
+        "summary": "The co-op action-survival game 'The Lightkeepers' is set to release on Meta Quest 3 on September 10.",
         "source": "uploadvr.com",
         "date": "Wed, 24 Jun 2026 10:02:41 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/TheLightkeepers_SummerShowcase_thumbnail-1.png"
-      },
-      {
-        "title": "Meta Preempts Google's Gentle Monster Glasses With Kylie Jenner 'Starfire' Design",
-        "url": "https://www.uploadvr.com/meta-starfire-smart-glasses-kylie-jenner-designed/",
-        "summary": "Meta has unveiled new 'Starfire' smart glasses designed in collaboration with Kylie Jenner.",
-        "source": "uploadvr.com",
-        "date": "Wed, 24 Jun 2026 16:56:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Glasses-Starfire-Kylie-style-feature.png"
       }
     ],
     "AI": [
       {
         "title": "OpenAI reveals its first AI processor: Jalapeño",
         "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-        "summary": "OpenAI has introduced its first AI processor, Jalapeño, designed to support large language models.",
+        "summary": "OpenAI unveils its first AI processor, Jalapeño, designed to power future large language models in partnership with Broadcom.",
         "source": "theverge.com",
         "date": "2026-06-24T10:36:47-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
-        "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-        "summary": "Operation Endgame successfully disrupted two widely used cybercrime tools in a coordinated global operation.",
-        "source": "arstechnica.com",
-        "date": "Wed, 24 Jun 2026 21:03:34 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg"
-      },
-      {
-        "title": "Figma now has AI motion graphics and shader tools",
-        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "summary": "Figma has launched new AI motion graphics and shader tools to enhance design capabilities for creatives.",
-        "source": "theverge.com",
-        "date": "2026-06-24T12:15:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Facebook’s Creator Studio has been revived as an AI companion app",
         "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "summary": "Meta has revived Facebook's Creator Studio as an AI companion app to assist creators in audience engagement.",
+        "summary": "Meta revives Facebook’s Creator Studio as an AI companion app to assist creators in audience engagement and growth.",
         "source": "theverge.com",
         "date": "2026-06-25T05:06:19-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-        "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-        "summary": "Ford has rehired former engineers to address issues stemming from its reliance on automated systems.",
+        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "summary": "OpenAI will delay the release of GPT-5.6 following a request from the Trump administration over security concerns.",
         "source": "theverge.com",
-        "date": "2026-06-25T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-25T17:57:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
         "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-        "summary": "Notion is discontinuing its Skiff-influenced email app, opting to focus on AI agents for inbox management.",
+        "summary": "Notion is discontinuing its Skiff-influenced email app to focus on AI agents for inbox management.",
         "source": "arstechnica.com",
         "date": "Thu, 25 Jun 2026 19:04:57 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg"
+      },
+      {
+        "title": "Figma now has AI motion graphics and shader tools",
+        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+        "summary": "Figma introduces AI motion graphics and shader tools to enhance creative workflows and automate design tasks.",
+        "source": "theverge.com",
+        "date": "2026-06-24T12:15:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+        "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+        "summary": "A global operation disrupts cybercrime tools, marking a significant step in combating organized cybercrime efforts.",
+        "source": "arstechnica.com",
+        "date": "Wed, 24 Jun 2026 21:03:34 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Jaguars, TE Strange agree to 3-year extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49167201/jaguars-brenton-strange-agree-3-year-deal-worth-48m",
-        "summary": "The Jaguars have signed tight end Brenton Strange to a three-year extension worth up to $48 million.",
-        "source": "espn.com",
-        "date": "Fri, 26 Jun 2026 00:04:16 EST",
-        "image": ""
-      },
-      {
-        "title": "2027 NFL draft to be held April 29-May 1 in D.C.",
-        "url": "https://www.espn.com/nfl/story/_/id/49178055/nfl-releases-dates-details-2027-nfl-draft-washington",
-        "summary": "The NFL has announced that the 2027 draft will take place from April 29 to May 1 in Washington, D.C.",
-        "source": "espn.com",
-        "date": "Fri, 26 Jun 2026 00:04:16 EST",
-        "image": ""
-      },
-      {
-        "title": "Prosecutors want Lions' Arnold jailed until trial",
-        "url": "https://www.espn.com/nfl/story/_/id/49178216/prosecutors-argue-lions-arnold-jailed-trial",
-        "summary": "Lions cornerback Terrion Arnold faces felony charges and has been ordered held without bail until trial.",
-        "source": "espn.com",
-        "date": "Fri, 26 Jun 2026 00:04:16 EST",
-        "image": ""
-      },
-      {
-        "title": "Sam Darnold: I didn't play great in the Super Bowl, \"kinda bummed\" to win that way",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-i-didnt-play-great-in-the-super-bowl-kinda-bummed-to-win-that-way",
-        "summary": "Seahawks quarterback Sam Darnold expressed disappointment over his performance despite winning the Super Bowl.",
+        "title": "Vikings announce front office hirings, promotions under new G.M. Nolan Teasley",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-announce-front-office-hirings-promotions-under-new-g-m-nolan-teasley",
+        "summary": "The Vikings announce multiple front office hirings and promotions as they prepare for their first season under new GM Nolan Teasley.",
         "source": "nbcsports.com",
-        "date": "Fri, 26 Jun 2026 06:04:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e892719/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F679%2Fnbc_pft_darnoldconvo_260522.jpg"
+        "date": "Thu, 25 Jun 2026 16:45:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/746f30f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F496%2F955%2Fnbc_pftpm_mailbag_260623.jpg"
       },
       {
-        "title": "Excessive force alleged in death of ex-RB Martin",
-        "url": "https://www.espn.com/nfl/story/_/id/49180059/parents-allege-excessive-force-death-ex-nfl-player-martin",
-        "summary": "The parents of former NFL running back Doug Martin have filed a wrongful death lawsuit alleging excessive force by police.",
-        "source": "espn.com",
-        "date": "Fri, 26 Jun 2026 00:04:16 EST",
-        "image": ""
+        "title": "Cardinals will have seven open practices",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-will-have-seven-open-practices",
+        "summary": "The Cardinals will host seven open practices starting July 22 at State Farm Stadium.",
+        "source": "nbcsports.com",
+        "date": "Thu, 25 Jun 2026 19:59:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/571d140/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_mailbag_260624.jpg"
       },
       {
         "title": "Steelers sign DB Ahmari Harvey, cut DE K.J. Henry",
@@ -149,6 +125,30 @@
         "source": "nbcsports.com",
         "date": "Thu, 25 Jun 2026 15:33:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/dfa6273/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2Fpft_pm_porter.jpg"
+      },
+      {
+        "title": "Zach Ertz \"doing everything I can\" to get back",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zach-ertz-doing-everything-i-can-to-get-back",
+        "summary": "Zach Ertz is determined to return from his torn ACL, aiming to continue his NFL career beyond last season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 26 Jun 2026 08:50:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/143e280/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2Fnbc_pftpm_mailbag_260625_copy.jpg"
+      },
+      {
+        "title": "Sam Darnold: I didn't play great in the Super Bowl, \"kinda bummed\" to win that way",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-i-didnt-play-great-in-the-super-bowl-kinda-bummed-to-win-that-way",
+        "summary": "Seahawks quarterback Sam Darnold expresses mixed feelings about winning the Super Bowl despite his performance.",
+        "source": "nbcsports.com",
+        "date": "Fri, 26 Jun 2026 06:04:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e892719/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F679%2Fnbc_pft_darnoldconvo_260522.jpg"
+      },
+      {
+        "title": "USPTO denies Caleb Williams's effort to trademark \"Iceman\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/uspto-denies-caleb-williamss-effort-to-trademark-iceman",
+        "summary": "The USPTO denies Caleb Williams's attempt to trademark 'Iceman,' leaving his branding aspirations on hold.",
+        "source": "nbcsports.com",
+        "date": "Thu, 25 Jun 2026 13:09:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9044b84/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F655%2F290%2FCalebSimmsMPX6-5.jpg"
       }
     ]
   }
