@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-26T13:35:49.856Z",
+  "updated": "2026-06-26T15:59:12.994Z",
   "feed": {
     "VR": [
       {
         "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
         "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
-        "summary": "Combat Waffle Studios, developer of 'Ghosts of Tabor,' announces layoffs to align with the current state of the VR industry after generating over $30 million in revenue.",
+        "summary": "Combat Waffle Studios announces layoffs amid changing VR industry conditions, despite their game Ghosts of Tabor generating over $30 million in revenue.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 11:01:29 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Layoffs At Ghosts Of Tabor Developer & Shutdowns For 3 Other VR Games",
         "url": "https://www.uploadvr.com/layoffs-at-ghosts-of-tabor-developer-shutdowns-for-3-other-vr-games/",
-        "summary": "The shutdown of 'A Township Tale' and layoffs at Combat Waffle Studios highlight ongoing challenges in the VR gaming sector.",
+        "summary": "Ghosts of Tabor's developer lays off staff and announces shutdowns for multiple VR games, including A Township Tale and Quantaar.",
         "source": "uploadvr.com",
         "date": "Thu, 25 Jun 2026 12:56:01 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/uvr-badnewsJune.png"
@@ -21,7 +21,7 @@
       {
         "title": "Apple Raises Price Of Many Products, Including Vision Pro",
         "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
-        "summary": "Apple has raised the price of its Vision Pro headset to $3,700, citing a global memory crisis.",
+        "summary": "Apple raises the price of its Vision Pro headset to $3,700, citing a global memory crisis affecting multiple products.",
         "source": "uploadvr.com",
         "date": "Thu, 25 Jun 2026 10:00:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png"
@@ -29,7 +29,7 @@
       {
         "title": "Meta’s new AI glasses cost $299, last 8 hours, and finally look worth buying",
         "url": "https://mixed-news.com/en/metas-new-ai-glasses-cost-299-last-8-hours-and-finally-look-worth-buying/",
-        "summary": "Meta launches new AI glasses starting at $299, featuring enhanced styles and options in collaboration with EssilorLuxottica.",
+        "summary": "Meta launches new AI glasses starting at $299, expanding its lineup with more styles and features.",
         "source": "mixed-news.com",
         "date": "Thu, 25 Jun 2026 02:02:43 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Meta-Glasses.webp"
@@ -37,7 +37,7 @@
       {
         "title": "Meta Quest gets 28 new VR games and updates, including PAYDAY, Transformers and H3VR2",
         "url": "https://mixed-news.com/en/meta-quest-gets-28-new-vr-games-and-updates-including-payday-transformers-and-h3vr2/",
-        "summary": "Meta showcases 28 new VR games and updates, including highly anticipated titles like PAYDAY and Transformers.",
+        "summary": "Meta reveals 28 new VR games and updates during its June 2026 VR Games Showcase, highlighting upcoming titles for the Meta Quest.",
         "source": "mixed-news.com",
         "date": "Wed, 24 Jun 2026 23:12:25 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/VR-Games-Meta.webp"
@@ -45,7 +45,7 @@
       {
         "title": "The Lightkeepers Confirms September Release Date For Meta Quest 3 In New Trailer",
         "url": "https://www.uploadvr.com/the-lightkeepers-confirms-september-release-date-for-meta-quest-3-in-new-trailer/",
-        "summary": "The co-op action-survival game 'The Lightkeepers' is set to release on Meta Quest 3 on September 10.",
+        "summary": "The co-op action-survival game The Lightkeepers confirms a September 10 release date for Meta Quest 3.",
         "source": "uploadvr.com",
         "date": "Wed, 24 Jun 2026 10:02:41 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/TheLightkeepers_SummerShowcase_thumbnail-1.png"
@@ -53,9 +53,17 @@
     ],
     "AI": [
       {
+        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "summary": "OpenAI delays the release of GPT-5.6 following a request from the Trump administration due to security concerns.",
+        "source": "theverge.com",
+        "date": "2026-06-25T17:57:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "OpenAI reveals its first AI processor: Jalapeño",
         "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-        "summary": "OpenAI unveils its first AI processor, Jalapeño, designed to power future large language models in partnership with Broadcom.",
+        "summary": "OpenAI unveils its first AI processor, Jalapeño, designed to enhance performance for large language models.",
         "source": "theverge.com",
         "date": "2026-06-24T10:36:47-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,42 +71,34 @@
       {
         "title": "Facebook’s Creator Studio has been revived as an AI companion app",
         "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "summary": "Meta revives Facebook’s Creator Studio as an AI companion app to assist creators in audience engagement and growth.",
+        "summary": "Meta revives the Facebook Creator Studio as an AI companion app to assist creators in audience engagement.",
         "source": "theverge.com",
         "date": "2026-06-25T05:06:19-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-        "summary": "OpenAI will delay the release of GPT-5.6 following a request from the Trump administration over security concerns.",
+        "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+        "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+        "summary": "Ford reveals it had to rehire former engineers to rectify issues caused by its automated systems in production.",
         "source": "theverge.com",
-        "date": "2026-06-25T17:57:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-        "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-        "summary": "Notion is discontinuing its Skiff-influenced email app to focus on AI agents for inbox management.",
-        "source": "arstechnica.com",
-        "date": "Thu, 25 Jun 2026 19:04:57 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg"
+        "date": "2026-06-25T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Figma now has AI motion graphics and shader tools",
         "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "summary": "Figma introduces AI motion graphics and shader tools to enhance creative workflows and automate design tasks.",
+        "summary": "Figma introduces AI motion graphics and shader tools to streamline design and coding processes.",
         "source": "theverge.com",
         "date": "2026-06-24T12:15:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
-        "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-        "summary": "A global operation disrupts cybercrime tools, marking a significant step in combating organized cybercrime efforts.",
+        "title": "\"Dangerous\" AI models are coming no matter what",
+        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+        "summary": "Experts warn that advanced AI models capable of hacking will soon become prevalent, raising security concerns.",
         "source": "arstechnica.com",
-        "date": "Wed, 24 Jun 2026 21:03:34 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg"
+        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
       }
     ],
     "NFL": [
@@ -121,7 +121,7 @@
       {
         "title": "Steelers sign DB Ahmari Harvey, cut DE K.J. Henry",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-sign-db-ahmari-harvey-cut-de-k-j-henry",
-        "summary": "The Steelers have signed defensive back Ahmari Harvey while cutting defensive end K.J. Henry.",
+        "summary": "The Steelers sign defensive back Ahmari Harvey while cutting defensive end K.J. Henry.",
         "source": "nbcsports.com",
         "date": "Thu, 25 Jun 2026 15:33:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/dfa6273/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2Fpft_pm_porter.jpg"
@@ -129,7 +129,7 @@
       {
         "title": "Zach Ertz \"doing everything I can\" to get back",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zach-ertz-doing-everything-i-can-to-get-back",
-        "summary": "Zach Ertz is determined to return from his torn ACL, aiming to continue his NFL career beyond last season.",
+        "summary": "Zach Ertz expresses determination to return to the NFL after recovering from a torn ACL.",
         "source": "nbcsports.com",
         "date": "Fri, 26 Jun 2026 08:50:52 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/143e280/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2Fnbc_pftpm_mailbag_260625_copy.jpg"
@@ -137,18 +137,18 @@
       {
         "title": "Sam Darnold: I didn't play great in the Super Bowl, \"kinda bummed\" to win that way",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-i-didnt-play-great-in-the-super-bowl-kinda-bummed-to-win-that-way",
-        "summary": "Seahawks quarterback Sam Darnold expresses mixed feelings about winning the Super Bowl despite his performance.",
+        "summary": "Seahawks quarterback Sam Darnold reflects on his Super Bowl win, expressing disappointment in his performance.",
         "source": "nbcsports.com",
         "date": "Fri, 26 Jun 2026 06:04:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e892719/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F679%2Fnbc_pft_darnoldconvo_260522.jpg"
       },
       {
-        "title": "USPTO denies Caleb Williams's effort to trademark \"Iceman\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/uspto-denies-caleb-williamss-effort-to-trademark-iceman",
-        "summary": "The USPTO denies Caleb Williams's attempt to trademark 'Iceman,' leaving his branding aspirations on hold.",
+        "title": "C.J. Gardner-Johnson blames his release in Houston on confrontation with \"GM's friend\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-gardner-johnson-blames-his-release-in-houston-on-confrontation-with-gms-friend",
+        "summary": "C.J. Gardner-Johnson attributes his release from the Texans to a confrontation with a team executive.",
         "source": "nbcsports.com",
-        "date": "Thu, 25 Jun 2026 13:09:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9044b84/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F655%2F290%2FCalebSimmsMPX6-5.jpg"
+        "date": "Fri, 26 Jun 2026 07:21:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9529ddc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F735%2F446%2Fnbc_pft_cjstroud_260527.jpg"
       }
     ]
   }
