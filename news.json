@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T01:34:44.256Z",
+  "updated": "2026-06-26T05:54:24.825Z",
   "feed": {
     "VR": [
       {
@@ -11,25 +11,25 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png"
       },
       {
-        "title": "‘Synth Riders’ Gets Surprise Linkin Park DLC Drop, Its Biggest Music Pack to Date",
-        "url": "https://roadtovr.com/synth-riders-linkin-park-dlc-music-pack-release/",
-        "summary": "Synth Riders has launched its largest music pack to date, featuring 13 iconic tracks from Linkin Park.",
-        "source": "roadtovr.com",
-        "date": "Thu, 25 Jun 2026 14:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/linkin-park-synth-riders.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
         "title": "Meta’s new AI glasses cost $299, last 8 hours, and finally look worth buying",
         "url": "https://mixed-news.com/en/metas-new-ai-glasses-cost-299-last-8-hours-and-finally-look-worth-buying/",
-        "summary": "Meta's new AI glasses, starting at $299, offer improved styles and features, enhancing their appeal in the smart eyewear market.",
+        "summary": "Meta's new AI glasses, priced at $299, offer improved styles and features, marking a significant upgrade in their product lineup.",
         "source": "mixed-news.com",
         "date": "Thu, 25 Jun 2026 02:02:43 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Meta-Glasses.webp"
       },
       {
+        "title": "‘Synth Riders’ Gets Surprise Linkin Park DLC Drop, Its Biggest Music Pack to Date",
+        "url": "https://roadtovr.com/synth-riders-linkin-park-dlc-music-pack-release/",
+        "summary": "Synth Riders has released its largest music pack to date featuring 13 iconic tracks from Linkin Park.",
+        "source": "roadtovr.com",
+        "date": "Thu, 25 Jun 2026 14:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/linkin-park-synth-riders.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "Meta Quest gets 28 new VR games and updates, including PAYDAY, Transformers and H3VR2",
         "url": "https://mixed-news.com/en/meta-quest-gets-28-new-vr-games-and-updates-including-payday-transformers-and-h3vr2/",
-        "summary": "Meta announced 28 new VR games and updates during its June 2026 VR Games Showcase, including major titles like PAYDAY and Transformers.",
+        "summary": "Meta announced 28 new VR games and updates during its June 2026 VR Games Showcase.",
         "source": "mixed-news.com",
         "date": "Wed, 24 Jun 2026 23:12:25 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/VR-Games-Meta.webp"
@@ -37,7 +37,7 @@
       {
         "title": "Meta Is Giving Free Smart Glasses To Every Blind US Veteran",
         "url": "https://www.uploadvr.com/meta-is-giving-free-smart-glasses-to-every-blind-us-veteran/",
-        "summary": "Meta is providing free smart glasses to every legally blind US veteran, aiming to support over 130,000 eligible individuals.",
+        "summary": "Meta is providing free smart glasses to all legally blind U.S. veterans, aiming to enhance accessibility.",
         "source": "uploadvr.com",
         "date": "Wed, 24 Jun 2026 14:45:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-giving-free-smart-glasses-to-blind-US-veterans.png"
@@ -45,7 +45,7 @@
       {
         "title": "Co-op Extraction Horror Game Inwigo Is Out Now On Meta Quest For Free",
         "url": "https://www.uploadvr.com/co-op-extraction-horror-game-inwigo-is-out-now-on-meta-quest-for-free/",
-        "summary": "Inwigo, a co-op horror extraction game, is now available for free on Meta Quest, expanding the platform's game offerings.",
+        "summary": "Inwigo, a co-op horror extraction game, is now available for free on Meta Quest.",
         "source": "uploadvr.com",
         "date": "Tue, 23 Jun 2026 11:54:53 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/inwigo-Cover.png"
@@ -55,34 +55,10 @@
       {
         "title": "OpenAI reveals its first AI processor: Jalapeño",
         "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-        "summary": "OpenAI has unveiled its first AI processor, Jalapeño, designed to enhance the performance of large language models.",
+        "summary": "OpenAI has unveiled its first AI processor, Jalapeño, designed for powering large language models.",
         "source": "theverge.com",
         "date": "2026-06-24T10:36:47-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "summary": "Meta has relaunched Facebook's Creator Studio as an AI companion app to assist creators in audience engagement and growth.",
-        "source": "theverge.com",
-        "date": "2026-06-25T05:06:19-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-        "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-        "summary": "Notion is discontinuing its Skiff-influenced email app, focusing instead on AI agents to manage user inboxes.",
-        "source": "arstechnica.com",
-        "date": "Thu, 25 Jun 2026 19:04:57 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg"
-      },
-      {
-        "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-        "summary": "The $27 million political proxy war between Anthropic and OpenAI concluded in a draw, impacting New York's 12th Congressional district primary.",
-        "source": "theverge.com",
-        "date": "2026-06-24T13:25:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282522212.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
@@ -93,9 +69,33 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg"
       },
       {
+        "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+        "summary": "Meta has relaunched Facebook’s Creator Studio as an AI companion app to assist content creators.",
+        "source": "theverge.com",
+        "date": "2026-06-25T05:06:19-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Figma now has AI motion graphics and shader tools",
+        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+        "summary": "Figma introduced AI-driven motion graphics and shader tools to enhance creative workflows at its annual conference.",
+        "source": "theverge.com",
+        "date": "2026-06-24T12:15:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+        "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+        "summary": "Ford has rehired former engineers to address issues stemming from its reliance on automated systems in production.",
+        "source": "theverge.com",
+        "date": "2026-06-25T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
         "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
-        "summary": "The White House has shortened the deadline for adopting post-quantum cryptography due to national security concerns.",
+        "summary": "The White House has shortened the deadline for adopting post-quantum cryptography due to national security risks.",
         "source": "arstechnica.com",
         "date": "Tue, 23 Jun 2026 22:30:57 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Jaguars, TE Strange agree to 3-year extension",
-        "url": "https://www.espn.com/nfl/story/_/id/49167201/jaguars-brenton-strange-agree-3-year-deal-worth-48m",
-        "summary": "The Jaguars have signed tight end Brenton Strange to a three-year extension worth up to $48 million, with $25 million guaranteed.",
-        "source": "espn.com",
-        "date": "Thu, 25 Jun 2026 18:53:06 EST",
-        "image": ""
-      },
-      {
-        "title": "Prosecutors want Lions' Arnold jailed until trial",
-        "url": "https://www.espn.com/nfl/story/_/id/49178216/prosecutors-argue-lions-arnold-jailed-trial",
-        "summary": "Lions cornerback Terrion Arnold faces felony charges and will remain jailed until his pretrial hearing, following armed robbery and kidnapping allegations.",
-        "source": "espn.com",
-        "date": "Thu, 25 Jun 2026 18:53:07 EST",
-        "image": ""
-      },
-      {
-        "title": "2027 NFL draft to be held April 29-May 1 in D.C.",
-        "url": "https://www.espn.com/nfl/story/_/id/49178055/nfl-releases-dates-details-2027-nfl-draft-washington",
-        "summary": "The NFL has announced that the 2027 draft will take place from April 29 to May 1 in Washington, D.C.",
-        "source": "espn.com",
-        "date": "Thu, 25 Jun 2026 18:53:06 EST",
-        "image": ""
-      },
-      {
         "title": "Cardinals will have seven open practices",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-will-have-seven-open-practices",
-        "summary": "The Arizona Cardinals will hold seven open practices during their training camp starting July 22 at State Farm Stadium.",
+        "summary": "The Arizona Cardinals will host seven open practices at State Farm Stadium starting July 22.",
         "source": "nbcsports.com",
         "date": "Thu, 25 Jun 2026 19:59:54 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/571d140/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_mailbag_260624.jpg"
       },
       {
+        "title": "Vikings announce front office hirings, promotions under new G.M. Nolan Teasley",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-announce-front-office-hirings-promotions-under-new-g-m-nolan-teasley",
+        "summary": "The Minnesota Vikings have announced several front office hirings and promotions under new General Manager Nolan Teasley.",
+        "source": "nbcsports.com",
+        "date": "Thu, 25 Jun 2026 16:45:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/746f30f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F496%2F955%2Fnbc_pftpm_mailbag_260623.jpg"
+      },
+      {
         "title": "Steelers sign DB Ahmari Harvey, cut DE K.J. Henry",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-sign-db-ahmari-harvey-cut-de-k-j-henry",
-        "summary": "The Steelers have signed defensive back Ahmari Harvey while cutting defensive end K.J. Henry from their roster.",
+        "summary": "The Pittsburgh Steelers signed defensive back Ahmari Harvey and released defensive end K.J. Henry.",
         "source": "nbcsports.com",
         "date": "Thu, 25 Jun 2026 15:33:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/dfa6273/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2Fpft_pm_porter.jpg"
       },
       {
-        "title": "Excessive force alleged in death of ex-RB Martin",
-        "url": "https://www.espn.com/nfl/story/_/id/49180059/parents-allege-excessive-force-death-ex-nfl-player-martin",
-        "summary": "The parents of former NFL running back Doug Martin have filed a wrongful death lawsuit, alleging excessive force by police contributed to his death.",
-        "source": "espn.com",
-        "date": "Thu, 25 Jun 2026 18:53:07 EST",
-        "image": ""
+        "title": "The 2027 NFL Draft will be held April 29-May 1 in Washington D.C.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-2027-nfl-draft-will-be-held-april-29-may-1-in-washington-d-c",
+        "summary": "The 2027 NFL Draft is scheduled to take place from April 29 to May 1 in Washington D.C.",
+        "source": "nbcsports.com",
+        "date": "Thu, 25 Jun 2026 12:42:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7faf518/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_supplementaldraft_260624.jpg"
+      },
+      {
+        "title": "Jaguars announce open practice schedule for 2026 training camp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-announce-open-practice-schedule-for-2026-training-camp",
+        "summary": "The Jacksonville Jaguars will hold their first open practice of training camp on July 29.",
+        "source": "nbcsports.com",
+        "date": "Thu, 25 Jun 2026 12:28:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e0c9d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F743%2F831%2Fnbc_pft_lawrence_260518.jpg"
+      },
+      {
+        "title": "Steve Zabel, throwback two-way player, dies at 78",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steve-zabel-throwback-two-way-player-dies-at-78",
+        "summary": "Former NFL player Steve Zabel, known for being Oklahoma's last two-way player, has passed away at 78.",
+        "source": "nbcsports.com",
+        "date": "Thu, 25 Jun 2026 08:41:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f972711/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_whatsnext_260624.jpg"
       }
     ]
   }
