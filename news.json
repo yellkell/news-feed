@@ -1,19 +1,27 @@
 {
-  "updated": "2026-06-27T19:07:16.191Z",
+  "updated": "2026-06-27T20:18:49.393Z",
   "feed": {
     "VR": [
       {
         "title": "SpatialGen Zeus Streams Live Immersive Video To Apple Vision Pro",
         "url": "https://www.uploadvr.com/spatialgen-zeus-streams-live-immersive-video-to-apple-vision-pro/",
-        "summary": "SpatialGen Zeus can now stream live immersive video directly to Apple Vision Pro headsets, enhancing sports and event experiences.",
+        "summary": "SpatialGen Zeus can now stream live immersive video directly to Apple Vision Pro headsets, enhancing sports and event viewing experiences.",
         "source": "uploadvr.com",
         "date": "Fri, 26 Jun 2026 15:08:17 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SpatialGen-Zeus-overlay-on-Apple-Immersive-Video-Wolves-at-Lakers.jpg"
       },
       {
+        "title": "Apple Raises Price Of Many Products, Including Vision Pro",
+        "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
+        "summary": "Apple has raised the starting price of the Vision Pro headset to $3,700, citing a global memory crisis.",
+        "source": "uploadvr.com",
+        "date": "Thu, 25 Jun 2026 10:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png"
+      },
+      {
         "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
         "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
-        "summary": "Combat Waffle Studios announces layoffs as it aligns with the current state of the VR industry following the success of 'Ghosts of Tabor'.",
+        "summary": "Combat Waffle Studios, the developer of 'Ghosts of Tabor', announced layoffs to align with the current state of the VR industry.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 11:01:29 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,68 +29,44 @@
       {
         "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
         "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
-        "summary": "A Township Tale is shutting down next month, marking a significant loss for the multiplayer VR RPG community.",
+        "summary": "The multiplayer RPG 'A Township Tale' is shutting down in July, marking a significant closure for the studio.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 13:28:30 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
       },
       {
-        "title": "Apple Raises Price Of Many Products, Including Vision Pro",
-        "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
-        "summary": "Apple has raised the price of the Vision Pro headset to $3,700, citing a global memory crisis.",
-        "source": "uploadvr.com",
-        "date": "Thu, 25 Jun 2026 10:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png"
-      },
-      {
         "title": "Meta Quest gets 28 new VR games and updates, including PAYDAY, Transformers and H3VR2",
         "url": "https://mixed-news.com/en/meta-quest-gets-28-new-vr-games-and-updates-including-payday-transformers-and-h3vr2/",
-        "summary": "Meta's June 2026 VR Games Showcase revealed 28 new game announcements and updates for the Meta Quest platform.",
+        "summary": "Meta announced 28 new VR games and updates during its June 2026 VR Games Showcase, featuring popular titles like PAYDAY and Transformers.",
         "source": "mixed-news.com",
         "date": "Wed, 24 Jun 2026 23:12:25 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/VR-Games-Meta.webp"
       },
       {
-        "title": "Apple Raises Price of Vision Pro by $200 Amid RAM & Storage Shortage",
-        "url": "https://roadtovr.com/apple-raises-price-of-vision-pro-by-200-amid-ram-storage-shortage/",
-        "summary": "Apple's Vision Pro sees a $200 price increase amid RAM and storage shortages affecting multiple devices.",
-        "source": "roadtovr.com",
-        "date": "Thu, 25 Jun 2026 14:48:29 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-2-1.jpg?resize=1538%2C865&quality=89&ssl=1"
+        "title": "Meta’s new AI glasses cost $299, last 8 hours, and finally look worth buying",
+        "url": "https://mixed-news.com/en/metas-new-ai-glasses-cost-299-last-8-hours-and-finally-look-worth-buying/",
+        "summary": "Meta launched a new line of AI glasses starting at $299, expanding its smart eyewear offerings.",
+        "source": "mixed-news.com",
+        "date": "Thu, 25 Jun 2026 02:02:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Meta-Glasses.webp"
       }
     ],
     "AI": [
       {
         "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
         "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-        "summary": "OpenAI has unveiled GPT-5.6 amid regulatory scrutiny, introducing new models designed for various workloads.",
+        "summary": "OpenAI has unveiled GPT-5.6, a new model suite, amid regulatory pressures from the Trump administration.",
         "source": "theverge.com",
         "date": "2026-06-26T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Anthropic’s Mythos mess is only getting worse",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-        "summary": "Anthropic's Mythos-class models remain offline as the company struggles to resolve issues with the Trump administration.",
-        "source": "theverge.com",
-        "date": "2026-06-26T10:07:03-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "OpenAI will delay GPT-5.6 after Trump administration request",
         "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-        "summary": "The Trump administration has requested OpenAI to stagger the release of GPT-5.6 due to security concerns.",
+        "summary": "The Trump administration has requested OpenAI to stagger the release of its GPT-5.6 model due to security concerns.",
         "source": "theverge.com",
         "date": "2026-06-25T17:57:06-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-        "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-        "summary": "Ford has rehired former engineers to address issues stemming from its reliance on automated systems in production.",
-        "source": "theverge.com",
-        "date": "2026-06-25T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Facebook’s Creator Studio has been revived as an AI companion app",
@@ -93,9 +77,25 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+        "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+        "summary": "Ford has rehired former engineers to address issues stemming from mistakes made by its automated systems.",
+        "source": "theverge.com",
+        "date": "2026-06-25T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+        "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+        "summary": "Apple has increased prices across its product lineup, citing unsustainable costs associated with its AI initiatives.",
+        "source": "theverge.com",
+        "date": "2026-06-27T09:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "\"Dangerous\" AI models are coming no matter what",
         "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "summary": "Experts warn that advanced AI models with hacking capabilities are on the horizon, raising security concerns.",
+        "summary": "Experts warn that advanced AI models capable of hacking will soon become commonplace.",
         "source": "arstechnica.com",
         "date": "Wed, 17 Jun 2026 17:50:46 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
@@ -105,7 +105,7 @@
       {
         "title": "Jaguars, TE Strange agree to 3-year extension",
         "url": "https://www.espn.com/nfl/story/_/id/49167201/jaguars-brenton-strange-agree-3-year-deal-worth-48m",
-        "summary": "The Jaguars have signed tight end Brenton Strange to a three-year extension worth up to $48 million.",
+        "summary": "The Jacksonville Jaguars have signed tight end Brenton Strange to a three-year extension worth up to $48 million.",
         "source": "espn.com",
         "date": "Sat, 27 Jun 2026 14:41:17 EST",
         "image": ""
@@ -113,23 +113,7 @@
       {
         "title": "Prosecutors want Lions' Arnold jailed until trial",
         "url": "https://www.espn.com/nfl/story/_/id/49178216/prosecutors-argue-lions-arnold-jailed-trial",
-        "summary": "Lions cornerback Terrion Arnold faces felony charges and is being held without bail pending trial.",
-        "source": "espn.com",
-        "date": "Sat, 27 Jun 2026 14:41:17 EST",
-        "image": ""
-      },
-      {
-        "title": "Excessive force alleged in death of ex-RB Martin",
-        "url": "https://www.espn.com/nfl/story/_/id/49180059/parents-allege-excessive-force-death-ex-nfl-player-martin",
-        "summary": "The parents of former NFL running back Doug Martin have filed a wrongful death lawsuit alleging excessive force by police.",
-        "source": "espn.com",
-        "date": "Sat, 27 Jun 2026 14:41:17 EST",
-        "image": ""
-      },
-      {
-        "title": "2027 NFL draft to be held April 29-May 1 in D.C.",
-        "url": "https://www.espn.com/nfl/story/_/id/49178055/nfl-releases-dates-details-2027-nfl-draft-washington",
-        "summary": "The NFL has announced that the 2027 draft will take place in Washington, D.C. from April 29 to May 1.",
+        "summary": "Lions cornerback Terrion Arnold faces felony charges and has been ordered held without bail pending trial.",
         "source": "espn.com",
         "date": "Sat, 27 Jun 2026 14:41:17 EST",
         "image": ""
@@ -137,15 +121,31 @@
       {
         "title": "Aiyuk blames ex-agent for causing 49ers issues",
         "url": "https://www.espn.com/nfl/story/_/id/49199010/brandon-aiyuk-blames-ex-agent-push-leaves-49ers-continues",
-        "summary": "Brandon Aiyuk claims his former agent has contributed to ongoing issues with the 49ers, prompting GM John Lynch to visit him.",
+        "summary": "Brandon Aiyuk claims his former agent has negatively impacted his relationship with the 49ers, prompting a visit from GM John Lynch.",
         "source": "espn.com",
         "date": "Sat, 27 Jun 2026 14:41:17 EST",
         "image": ""
       },
       {
-        "title": "CFL won't allow Brendan Sorsby to join league",
-        "url": "https://www.espn.com/college-football/story/_/id/49188893/cfl-says-brendan-sorsby-allowed-join-league",
-        "summary": "The CFL has denied quarterback Brendan Sorsby the opportunity to join any of its teams for the upcoming season.",
+        "title": "2027 NFL draft to be held April 29-May 1 in D.C.",
+        "url": "https://www.espn.com/nfl/story/_/id/49178055/nfl-releases-dates-details-2027-nfl-draft-washington",
+        "summary": "The NFL has announced that the 2027 draft will take place from April 29 to May 1 in Washington, D.C.",
+        "source": "espn.com",
+        "date": "Sat, 27 Jun 2026 14:41:17 EST",
+        "image": ""
+      },
+      {
+        "title": "Mark Andrews: Lamar Jackson is evolving and getting better in \"totally different\" offense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-andrews-lamar-jackson-is-evolving-and-getting-better-in-totally-different-offense",
+        "summary": "Ravens quarterback Lamar Jackson praises new offensive coordinator Declan Doyle for evolving the team's offensive strategy.",
+        "source": "nbcsports.com",
+        "date": "Sat, 27 Jun 2026 14:20:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38d7835/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_lamarjackson_260624.jpg"
+      },
+      {
+        "title": "QB Williams' attempt to trademark 'Iceman' denied",
+        "url": "https://www.espn.com/nfl/story/_/id/49176534/caleb-williams-attempt-trademark-iceman-initially-refused",
+        "summary": "Caleb Williams' attempt to trademark 'Iceman' has been denied by the United States Patent and Trademark Office.",
         "source": "espn.com",
         "date": "Sat, 27 Jun 2026 14:41:17 EST",
         "image": ""
