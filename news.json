@@ -1,51 +1,51 @@
 {
-  "updated": "2026-06-28T11:23:48.218Z",
+  "updated": "2026-06-28T12:51:46.031Z",
   "feed": {
     "VR": [
       {
-        "title": "OpenAI just poached Apple’s Vision Pro chief, and the timing could not be worse",
-        "url": "https://mixed-news.com/en/openai-just-poached-apples-vision-pro-chief-and-the-timing-could-not-be-worse/",
-        "summary": "OpenAI has hired Apple’s Vision Pro chief Paul Meade, signaling a significant shift in the tech landscape for smart glasses and spatial computing.",
-        "source": "mixed-news.com",
-        "date": "Sat, 27 Jun 2026 01:19:11 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2024/02/Apple-Vision-Pro_mit-Schutzhuelle-und-Batterie.jpg"
-      },
-      {
         "title": "SpatialGen Zeus Streams Live Immersive Video To Apple Vision Pro",
         "url": "https://www.uploadvr.com/spatialgen-zeus-streams-live-immersive-video-to-apple-vision-pro/",
-        "summary": "SpatialGen Zeus can now stream live immersive video directly to Apple Vision Pro headsets, enhancing sports and event viewing experiences.",
+        "summary": "SpatialGen Zeus can now stream live immersive video directly to Apple Vision Pro headsets, enhancing the sports viewing experience.",
         "source": "uploadvr.com",
         "date": "Fri, 26 Jun 2026 15:08:17 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SpatialGen-Zeus-overlay-on-Apple-Immersive-Video-Wolves-at-Lakers.jpg"
       },
       {
-        "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
-        "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
-        "summary": "The multiplayer RPG A Township Tale will shut down in July, marking a disappointing end for the game after its recent cancellation.",
-        "source": "roadtovr.com",
-        "date": "Fri, 26 Jun 2026 13:28:30 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
-      },
-      {
-        "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
-        "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
-        "summary": "Combat Waffle Studios, the developer of Ghosts of Tabor, announced layoffs to align with the current state of the VR industry.",
-        "source": "roadtovr.com",
-        "date": "Fri, 26 Jun 2026 11:01:29 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Apple Raises Price Of Many Products, Including Vision Pro",
         "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
-        "summary": "Apple has raised the starting price of the Vision Pro headset to $3,700, attributing the increase to a global memory crisis.",
+        "summary": "Apple has raised the starting price of its Vision Pro headset to $3700, citing a global memory crisis.",
         "source": "uploadvr.com",
         "date": "Thu, 25 Jun 2026 10:00:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png"
       },
       {
+        "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
+        "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
+        "summary": "Combat Waffle Studios, the developer of 'Ghosts of Tabor,' announced layoffs to align with the current state of the VR industry.",
+        "source": "roadtovr.com",
+        "date": "Fri, 26 Jun 2026 11:01:29 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
+        "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
+        "summary": "The multiplayer RPG 'A Township Tale' will shut down in July, marking a significant loss for the VR gaming community.",
+        "source": "roadtovr.com",
+        "date": "Fri, 26 Jun 2026 13:28:30 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
+      },
+      {
+        "title": "Meta’s new AI glasses cost $299, last 8 hours, and finally look worth buying",
+        "url": "https://mixed-news.com/en/metas-new-ai-glasses-cost-299-last-8-hours-and-finally-look-worth-buying/",
+        "summary": "Meta has launched new AI glasses starting at $299, expanding its offerings in the smart eyewear market.",
+        "source": "mixed-news.com",
+        "date": "Thu, 25 Jun 2026 02:02:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Meta-Glasses.webp"
+      },
+      {
         "title": "Meta Quest gets 28 new VR games and updates, including PAYDAY, Transformers and H3VR2",
         "url": "https://mixed-news.com/en/meta-quest-gets-28-new-vr-games-and-updates-including-payday-transformers-and-h3vr2/",
-        "summary": "Meta revealed 28 new VR games and updates during its June 2026 VR Games Showcase, showcasing upcoming titles for the Meta Horizon Store.",
+        "summary": "Meta announced 28 new VR games and updates during its June 2026 VR Games Showcase, including popular titles like PAYDAY.",
         "source": "mixed-news.com",
         "date": "Wed, 24 Jun 2026 23:12:25 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/VR-Games-Meta.webp"
@@ -55,7 +55,7 @@
       {
         "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
         "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-        "summary": "OpenAI has unveiled GPT-5.6, a new model suite, amid regulatory scrutiny from the Trump administration.",
+        "summary": "OpenAI has unveiled GPT-5.6, a new model suite, amid ongoing regulatory discussions with the Trump administration.",
         "source": "theverge.com",
         "date": "2026-06-26T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -69,9 +69,17 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+        "summary": "The $27 million political proxy war between Anthropic and OpenAI concluded in a draw, impacting AI industry dynamics.",
+        "source": "theverge.com",
+        "date": "2026-06-24T13:25:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282522212.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
         "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-        "summary": "Ford has rehired former engineers to address issues caused by its reliance on automated systems in production.",
+        "summary": "Ford has rehired former engineers to rectify issues caused by its reliance on automated systems in production.",
         "source": "theverge.com",
         "date": "2026-06-25T08:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,18 +87,10 @@
       {
         "title": "Facebook’s Creator Studio has been revived as an AI companion app",
         "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "summary": "Meta has relaunched Facebook’s Creator Studio as an AI companion app, aiming to assist creators in audience engagement.",
+        "summary": "Meta has revived Facebook's Creator Studio as an AI companion app to assist creators in audience engagement.",
         "source": "theverge.com",
         "date": "2026-06-25T05:06:19-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
-        "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
-        "summary": "The White House has shortened the deadline for adopting post-quantum cryptography due to national security risks.",
-        "source": "arstechnica.com",
-        "date": "Tue, 23 Jun 2026 22:30:57 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg"
       },
       {
         "title": "\"Dangerous\" AI models are coming no matter what",
@@ -105,17 +105,33 @@
       {
         "title": "Prosecutors want Lions' Arnold jailed until trial",
         "url": "https://www.espn.com/nfl/story/_/id/49178216/prosecutors-argue-lions-arnold-jailed-trial",
-        "summary": "Lions cornerback Terrion Arnold faces felony charges of armed robbery and kidnapping, with prosecutors seeking to hold him without bail.",
+        "summary": "Lions cornerback Terrion Arnold faces felony charges of armed robbery and kidnapping, with prosecutors seeking to jail him until trial.",
         "source": "espn.com",
         "date": "Sat, 27 Jun 2026 16:55:43 EST",
         "image": ""
       },
       {
-        "title": "$1M recovery: How the Jets' Demario Davis avoided retirement by investing in his body",
-        "url": "https://www.espn.com/nfl/story/_/id/49166500/new-york-jets-demario-davis-body-recovery-1-million",
-        "summary": "Jets linebacker Demario Davis extended his career by investing $1 million in recovery and training after nearly retiring.",
+        "title": "Will Christian Gonzalez's extension get done befor...",
+        "url": "https://www.espn.com/nfl/story/_/id/49190165/will-new-england-patriots-christian-gonzalez-extension-get-done-training-camp",
+        "summary": "Christian Gonzalez's contract extension negotiations are heating up as training camp approaches.",
         "source": "espn.com",
-        "date": "Sun, 28 Jun 2026 06:00:07 EST",
+        "date": "Sun, 28 Jun 2026 07:20:41 EST",
+        "image": ""
+      },
+      {
+        "title": "Baker Mayfield on contract talks: \"It's a matter of finding that middle ground\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-on-contract-talks-its-a-matter-of-finding-that-middle-ground",
+        "summary": "Baker Mayfield emphasizes the need for compromise in ongoing contract discussions as the deadline looms.",
+        "source": "nbcsports.com",
+        "date": "Sat, 27 Jun 2026 23:14:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd00dde/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F998%2F983%2Fnbc_pft_mayfieldcontract_260617.jpg"
+      },
+      {
+        "title": "Bills will not recognize Simpson at new stadium",
+        "url": "https://www.espn.com/nfl/story/_/id/49200181/bills-not-honor-oj-simpson-wall-fame-new-stadium",
+        "summary": "The Buffalo Bills will not honor O.J. Simpson at their new stadium, a decision that has sparked controversy.",
+        "source": "espn.com",
+        "date": "Sat, 27 Jun 2026 16:55:43 EST",
         "image": ""
       },
       {
@@ -127,25 +143,9 @@
         "image": ""
       },
       {
-        "title": "Bills will not recognize Simpson at new stadium",
-        "url": "https://www.espn.com/nfl/story/_/id/49200181/bills-not-honor-oj-simpson-wall-fame-new-stadium",
-        "summary": "The Buffalo Bills will not honor O.J. Simpson at their new stadium, despite his Hall of Fame status.",
-        "source": "espn.com",
-        "date": "Sat, 27 Jun 2026 16:55:43 EST",
-        "image": ""
-      },
-      {
-        "title": "Baker Mayfield on contract talks: \"It's a matter of finding that middle ground\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-on-contract-talks-its-a-matter-of-finding-that-middle-ground",
-        "summary": "Baker Mayfield discussed ongoing contract negotiations, emphasizing the need to find a middle ground.",
-        "source": "nbcsports.com",
-        "date": "Sat, 27 Jun 2026 23:14:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd00dde/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F998%2F983%2Fnbc_pft_mayfieldcontract_260617.jpg"
-      },
-      {
         "title": "Mark Andrews: Lamar Jackson is evolving and getting better in \"totally different\" offense",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-andrews-lamar-jackson-is-evolving-and-getting-better-in-totally-different-offense",
-        "summary": "Ravens quarterback Lamar Jackson is showing improvement under new offensive coordinator Declan Doyle, according to teammate Mark Andrews.",
+        "summary": "Ravens quarterback Lamar Jackson is adapting well to new offensive coordinator Declan Doyle's system, impressing teammates.",
         "source": "nbcsports.com",
         "date": "Sat, 27 Jun 2026 14:20:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/38d7835/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_lamarjackson_260624.jpg"
