@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-29T04:58:58.580Z",
+  "updated": "2026-06-29T09:49:24.437Z",
   "feed": {
     "VR": [
       {
+        "title": "OpenAI just poached Apple’s Vision Pro chief, and the timing could not be worse",
+        "url": "https://mixed-news.com/en/openai-just-poached-apples-vision-pro-chief-and-the-timing-could-not-be-worse/",
+        "summary": "OpenAI has reportedly hired Apple’s Vision Pro chief Paul Meade, raising concerns about Apple's future in smart glasses and spatial computing.",
+        "source": "mixed-news.com",
+        "date": "Sat, 27 Jun 2026 01:19:11 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2024/02/Apple-Vision-Pro_mit-Schutzhuelle-und-Batterie.jpg"
+      },
+      {
         "title": "SpatialGen Zeus Streams Live Immersive Video To Apple Vision Pro",
         "url": "https://www.uploadvr.com/spatialgen-zeus-streams-live-immersive-video-to-apple-vision-pro/",
-        "summary": "SpatialGen Zeus can now stream live immersive video directly to Apple Vision Pro headsets, enhancing sports and event viewing experiences.",
+        "summary": "SpatialGen Zeus can now stream live immersive video to Apple Vision Pro headsets, enhancing the viewing experience for sports and events.",
         "source": "uploadvr.com",
         "date": "Fri, 26 Jun 2026 15:08:17 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SpatialGen-Zeus-overlay-on-Apple-Immersive-Video-Wolves-at-Lakers.jpg"
       },
       {
-        "title": "Apple Raises Price Of Many Products, Including Vision Pro",
-        "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
-        "summary": "Apple has raised the starting price of the Vision Pro headset to $3700, citing a global memory crisis.",
-        "source": "uploadvr.com",
-        "date": "Thu, 25 Jun 2026 10:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png"
-      },
-      {
         "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
         "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
-        "summary": "Combat Waffle Studios, the developer of 'Ghosts of Tabor', has announced layoffs to align with the current VR industry state.",
+        "summary": "Combat Waffle Studios, developer of 'Ghosts of Tabor,' announced layoffs as part of a strategy to align with the current VR industry state.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 11:01:29 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -29,23 +29,23 @@
       {
         "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
         "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
-        "summary": "A Township Tale, a multiplayer RPG, is set to shut down in July, marking a significant loss for the VR gaming community.",
+        "summary": "The multiplayer RPG 'A Township Tale' will shut down in July, marking a second cancellation for Alta this year.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 13:28:30 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
       },
       {
-        "title": "Meta Quest gets 28 new VR games and updates, including PAYDAY, Transformers and H3VR2",
-        "url": "https://mixed-news.com/en/meta-quest-gets-28-new-vr-games-and-updates-including-payday-transformers-and-h3vr2/",
-        "summary": "Meta announced 28 new VR games and updates during its June 2026 VR Games Showcase, highlighting upcoming titles for the Meta Quest.",
-        "source": "mixed-news.com",
-        "date": "Wed, 24 Jun 2026 23:12:25 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/VR-Games-Meta.webp"
+        "title": "Apple Raises Price of Vision Pro by $200 Amid RAM & Storage Shortage",
+        "url": "https://roadtovr.com/apple-raises-price-of-vision-pro-by-200-amid-ram-storage-shortage/",
+        "summary": "Apple has raised the price of the Vision Pro headset by $200, citing a global memory crisis affecting production costs.",
+        "source": "roadtovr.com",
+        "date": "Thu, 25 Jun 2026 14:48:29 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-2-1.jpg?resize=1538%2C865&quality=89&ssl=1"
       },
       {
         "title": "Meta’s new AI glasses cost $299, last 8 hours, and finally look worth buying",
         "url": "https://mixed-news.com/en/metas-new-ai-glasses-cost-299-last-8-hours-and-finally-look-worth-buying/",
-        "summary": "Meta's new AI glasses, priced at $299, offer improved styles and features, expanding its smart glasses lineup.",
+        "summary": "Meta's new AI glasses, priced at $299, offer improved features and styles, expanding their smart glasses lineup.",
         "source": "mixed-news.com",
         "date": "Thu, 25 Jun 2026 02:02:43 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Meta-Glasses.webp"
@@ -55,7 +55,7 @@
       {
         "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
         "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-        "summary": "OpenAI has unveiled GPT-5.6, a new model suite, amid ongoing regulatory discussions with the Trump administration.",
+        "summary": "OpenAI has unveiled GPT-5.6 amid regulatory scrutiny, offering a limited preview of its new model suite.",
         "source": "theverge.com",
         "date": "2026-06-26T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-        "summary": "China’s Z.ai claims its new GLM-5.2 model can match Mythos in cybersecurity capabilities, narrowing the gap with Western AI models.",
+        "summary": "China's Z.ai claims its GLM-5.2 model matches Mythos in cybersecurity capabilities, narrowing the gap with leading AI models.",
         "source": "theverge.com",
         "date": "2026-06-28T17:42:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,57 +71,57 @@
       {
         "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-        "summary": "Suno has launched the Spark incubator program to support independent artists with grants and mentorship, aiming to enhance its AI offerings.",
+        "summary": "Suno has launched the Spark incubator program to support independent artists with grants and mentorship in the AI music space.",
         "source": "theverge.com",
         "date": "2026-06-28T16:27:36-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-        "summary": "The Trump administration has requested OpenAI to stagger the release of GPT-5.6 due to security concerns.",
+        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+        "summary": "Prosecutors used ChatGPT logs as evidence in a high-profile arson trial, showcasing AI's growing role in legal cases.",
         "source": "theverge.com",
-        "date": "2026-06-25T17:57:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-28T10:12:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
         "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-        "summary": "Ford has rehired former engineers to address issues caused by its reliance on automated systems in production.",
+        "summary": "Ford revealed it had to rehire former engineers to address issues caused by its reliance on automated systems in production.",
         "source": "theverge.com",
         "date": "2026-06-25T08:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
-        "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-        "summary": "Operation Endgame has successfully disrupted two major tools used in cybercrime, marking a significant law enforcement achievement.",
+        "title": "\"Dangerous\" AI models are coming no matter what",
+        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+        "summary": "Experts warn that advanced AI models with hacking capabilities are imminent, raising concerns about cybersecurity.",
         "source": "arstechnica.com",
-        "date": "Wed, 24 Jun 2026 21:03:34 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg"
+        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
       }
     ],
     "NFL": [
       {
         "title": "Judge David Doty, who presided over the case that resulted in the NFL's salary-cap era, dies at 96",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/judge-david-doty-who-presided-over-the-case-that-resulted-in-the-nfls-salary-cap-era-dies-at-96",
-        "summary": "Judge David Doty, who played a key role in establishing the NFL's salary-cap era, has passed away at 96.",
+        "summary": "Judge David Doty, who played a crucial role in establishing the NFL's salary-cap era, has passed away at 96.",
         "source": "nbcsports.com",
         "date": "Sun, 28 Jun 2026 21:07:47 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/12f7d9e/2147483647/strip/false/crop/650x366+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fc5%2Fdae1357a66c0bcb8c1725ed886ef%2Fdoty-nfl.jpg"
       },
       {
-        "title": "Tom Brady expects a \"massive improvement\" from the Raiders in 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-expects-a-massive-improvement-from-the-raiders-in-2026",
-        "summary": "Tom Brady anticipates significant improvements from the Raiders in 2026, expressing confidence in their progress.",
+        "title": "Jets' Demario Davis spends nearly $1 million a year staying in shape to play at age 37",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-demario-davis-spends-nearly-1-million-a-year-staying-in-shape-to-play-at-age-37",
+        "summary": "Jets linebacker Demario Davis invests nearly $1 million annually in his fitness regimen to maintain peak performance at age 37.",
         "source": "nbcsports.com",
-        "date": "Sun, 28 Jun 2026 19:35:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/40a68b1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F630%2F891%2Fnbc_pft_maxxcrosby_260604.jpg"
+        "date": "Mon, 29 Jun 2026 04:50:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1059603/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2FGenoFlorio6-23.jpg"
       },
       {
         "title": "Raiders minority owner Tom Brady bashes the NFL's fine system for on-field \"mistakes\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-minority-owner-tom-brady-bashes-the-nfls-fine-system-for-on-field-mistakes",
-        "summary": "Tom Brady criticized the NFL's fine system for on-field mistakes, highlighting ongoing concerns among players.",
+        "summary": "Tom Brady criticized the NFL's fine system for on-field mistakes, voicing concerns as a minority owner of the Raiders.",
         "source": "nbcsports.com",
         "date": "Sun, 28 Jun 2026 13:51:09 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/143a84a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_grassvturf_260623.jpg"
@@ -129,26 +129,26 @@
       {
         "title": "The possibility of a Patriots game in Scotland is in the \"conversation\" phase",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-possibility-of-a-patriots-game-in-scotland-is-in-the-conversation-phase",
-        "summary": "Patriots owner Robert Kraft is exploring the possibility of hosting an NFL game in Scotland.",
+        "summary": "Patriots owner Robert Kraft expressed interest in hosting a game in Scotland, following the World Cup's success in Boston.",
         "source": "nbcsports.com",
         "date": "Sun, 28 Jun 2026 11:26:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/be5afe4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F46%2Fnbc_pftpm_worldcup_260622.jpg"
       },
       {
+        "title": "$1M recovery: How the Jets' Demario Davis avoided retirement by investing in his body",
+        "url": "https://www.espn.com/nfl/story/_/id/49166500/new-york-jets-demario-davis-body-recovery-1-million",
+        "summary": "Demario Davis avoided retirement by investing in recovery and training, extending his NFL career after nearly retiring in 2016.",
+        "source": "espn.com",
+        "date": "Sun, 28 Jun 2026 06:00:07 EST",
+        "image": ""
+      },
+      {
         "title": "Josh Allen: Bills are lucky to have Bo Hardegree as new quarterbacks coach",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-bills-are-lucky-to-have-bo-hardegree-as-new-quarterbacks-coach",
-        "summary": "Josh Allen praised new quarterbacks coach Bo Hardegree, emphasizing the positive impact on the Bills' offense.",
+        "summary": "Bills quarterback Josh Allen praised new quarterbacks coach Bo Hardegree, highlighting the team's optimism for the upcoming season.",
         "source": "nbcsports.com",
         "date": "Sun, 28 Jun 2026 05:47:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/96afc08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F510%2F194%2Fnbc_pft_afcnuts_260612.jpg"
-      },
-      {
-        "title": "Mark Andrews: Lamar Jackson is evolving and getting better in \"totally different\" offense",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-andrews-lamar-jackson-is-evolving-and-getting-better-in-totally-different-offense",
-        "summary": "Mark Andrews noted that Lamar Jackson is evolving under new offensive coordinator Declan Doyle, showcasing his adaptability.",
-        "source": "nbcsports.com",
-        "date": "Sat, 27 Jun 2026 14:20:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38d7835/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_lamarjackson_260624.jpg"
       }
     ]
   }
