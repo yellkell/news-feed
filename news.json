@@ -1,54 +1,54 @@
 {
-  "updated": "2026-06-28T22:59:18.137Z",
+  "updated": "2026-06-29T00:12:09.346Z",
   "feed": {
     "VR": [
       {
-        "title": "OpenAI just poached Apple’s Vision Pro chief, and the timing could not be worse",
-        "url": "https://mixed-news.com/en/openai-just-poached-apples-vision-pro-chief-and-the-timing-could-not-be-worse/",
-        "summary": "OpenAI has hired Apple’s Vision Pro hardware chief, potentially impacting Apple's future in smart glasses and spatial computing.",
-        "source": "mixed-news.com",
-        "date": "Sat, 27 Jun 2026 01:19:11 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2024/02/Apple-Vision-Pro_mit-Schutzhuelle-und-Batterie.jpg"
-      },
-      {
         "title": "SpatialGen Zeus Streams Live Immersive Video To Apple Vision Pro",
         "url": "https://www.uploadvr.com/spatialgen-zeus-streams-live-immersive-video-to-apple-vision-pro/",
-        "summary": "SpatialGen Zeus can now stream live immersive video directly to Apple Vision Pro headsets, enhancing sports and event viewing.",
+        "summary": "SpatialGen Zeus now streams live immersive video to Apple Vision Pro headsets, enhancing sports and event viewing experiences.",
         "source": "uploadvr.com",
         "date": "Fri, 26 Jun 2026 15:08:17 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SpatialGen-Zeus-overlay-on-Apple-Immersive-Video-Wolves-at-Lakers.jpg"
       },
       {
+        "title": "Apple Raises Price Of Many Products, Including Vision Pro",
+        "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
+        "summary": "Apple has raised the price of the Vision Pro headset to $3,700, citing a global memory crisis.",
+        "source": "uploadvr.com",
+        "date": "Thu, 25 Jun 2026 10:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png"
+      },
+      {
         "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
         "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
-        "summary": "Combat Waffle Studios, the developer behind 'Ghosts of Tabor,' announced layoffs in response to the current state of the VR industry.",
+        "summary": "Combat Waffle Studios, the developer of 'Ghosts of Tabor,' announced layoffs to align with the current state of the VR industry.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 11:01:29 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
-        "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
-        "summary": "Multiplayer RPG 'A Township Tale' will shut down next month, marking a significant loss in the VR gaming community.",
-        "source": "roadtovr.com",
-        "date": "Fri, 26 Jun 2026 13:28:30 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
-      },
-      {
-        "title": "Apple Raises Price of Vision Pro by $200 Amid RAM & Storage Shortage",
-        "url": "https://roadtovr.com/apple-raises-price-of-vision-pro-by-200-amid-ram-storage-shortage/",
-        "summary": "Apple has increased the price of the Vision Pro headset by $200 amid a global RAM and storage shortage.",
-        "source": "roadtovr.com",
-        "date": "Thu, 25 Jun 2026 14:48:29 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-2-1.jpg?resize=1538%2C865&quality=89&ssl=1"
+        "title": "Layoffs At Ghosts Of Tabor Developer & Shutdowns For 3 Other VR Games",
+        "url": "https://www.uploadvr.com/layoffs-at-ghosts-of-tabor-developer-shutdowns-for-3-other-vr-games/",
+        "summary": "Multiple VR games, including 'A Township Tale,' are shutting down as Ghosts of Tabor's developer announces staff reductions.",
+        "source": "uploadvr.com",
+        "date": "Thu, 25 Jun 2026 12:56:01 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/uvr-badnewsJune.png"
       },
       {
         "title": "Meta Quest gets 28 new VR games and updates, including PAYDAY, Transformers and H3VR2",
         "url": "https://mixed-news.com/en/meta-quest-gets-28-new-vr-games-and-updates-including-payday-transformers-and-h3vr2/",
-        "summary": "Meta announced 28 new VR games and updates during its June 2026 VR Games Showcase, including popular titles like PAYDAY.",
+        "summary": "Meta Quest revealed 28 new VR games and updates during its June 2026 showcase, highlighting upcoming titles and features.",
         "source": "mixed-news.com",
         "date": "Wed, 24 Jun 2026 23:12:25 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/VR-Games-Meta.webp"
+      },
+      {
+        "title": "Meta’s new AI glasses cost $299, last 8 hours, and finally look worth buying",
+        "url": "https://mixed-news.com/en/metas-new-ai-glasses-cost-299-last-8-hours-and-finally-look-worth-buying/",
+        "summary": "Meta's new AI glasses, priced at $299, offer enhanced styles and features, expanding its smart glasses lineup.",
+        "source": "mixed-news.com",
+        "date": "Thu, 25 Jun 2026 02:02:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Meta-Glasses.webp"
       }
     ],
     "AI": [
@@ -63,18 +63,34 @@
       {
         "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-        "summary": "China's Zhipu AI claims its GLM-5.2 model matches Mythos in cybersecurity capabilities, narrowing the gap with leading models.",
+        "summary": "China's Z.ai claims its GLM-5.2 model matches Mythos in cybersecurity capabilities, narrowing the gap with leading models.",
         "source": "theverge.com",
         "date": "2026-06-28T17:42:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+        "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+        "summary": "Ford has rehired former engineers to address issues caused by its reliance on automated systems in production.",
+        "source": "theverge.com",
+        "date": "2026-06-25T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-        "summary": "Suno has launched the Spark incubator program to support independent artists with grants and mentorship in the AI music space.",
+        "summary": "Suno launches the Spark incubator program to support independent artists with grants and mentorship in the AI music space.",
         "source": "theverge.com",
         "date": "2026-06-28T16:27:36-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+        "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+        "summary": "Operation Endgame successfully disrupts two widely used cybercrime tools, marking a significant blow to organized cybercrime.",
+        "source": "arstechnica.com",
+        "date": "Wed, 24 Jun 2026 21:03:34 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg"
       },
       {
         "title": "OpenAI will delay GPT-5.6 after Trump administration request",
@@ -83,72 +99,56 @@
         "source": "theverge.com",
         "date": "2026-06-25T17:57:06-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-        "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-        "summary": "Ford is rehiring former engineers to address issues caused by its reliance on automated systems in production.",
-        "source": "theverge.com",
-        "date": "2026-06-25T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "\"Dangerous\" AI models are coming no matter what",
-        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "summary": "Experts warn that advanced AI models capable of sophisticated hacking will soon become commonplace.",
-        "source": "arstechnica.com",
-        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Prosecutors want Lions' Arnold jailed until trial",
-        "url": "https://www.espn.com/nfl/story/_/id/49178216/prosecutors-argue-lions-arnold-jailed-trial",
-        "summary": "Lions cornerback Terrion Arnold faces felony charges of armed robbery and kidnapping and has been ordered held without bail.",
-        "source": "espn.com",
-        "date": "Sat, 27 Jun 2026 16:55:43 EST",
-        "image": ""
-      },
-      {
-        "title": "$1M recovery: How the Jets' Demario Davis avoided retirement by investing in his body",
-        "url": "https://www.espn.com/nfl/story/_/id/49166500/new-york-jets-demario-davis-body-recovery-1-million",
-        "summary": "Demario Davis of the Jets shares how investing in recovery techniques helped him prolong his NFL career.",
-        "source": "espn.com",
-        "date": "Sun, 28 Jun 2026 06:00:07 EST",
-        "image": ""
-      },
-      {
-        "title": "The possibility of a Patriots game in Scotland is in the \"conversation\" phase",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-possibility-of-a-patriots-game-in-scotland-is-in-the-conversation-phase",
-        "summary": "Patriots owner Robert Kraft expresses interest in hosting an NFL game in Scotland following the World Cup's success.",
+        "title": "Tom Brady expects a \"massive improvement\" from the Raiders in 2026",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-expects-a-massive-improvement-from-the-raiders-in-2026",
+        "summary": "Tom Brady anticipates significant improvements from the Raiders in 2026, emphasizing the need for daily progress.",
         "source": "nbcsports.com",
-        "date": "Sun, 28 Jun 2026 11:26:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/be5afe4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F46%2Fnbc_pftpm_worldcup_260622.jpg"
+        "date": "Sun, 28 Jun 2026 19:35:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/40a68b1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F630%2F891%2Fnbc_pft_maxxcrosby_260604.jpg"
       },
       {
         "title": "Raiders minority owner Tom Brady bashes the NFL's fine system for on-field \"mistakes\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-minority-owner-tom-brady-bashes-the-nfls-fine-system-for-on-field-mistakes",
-        "summary": "Tom Brady criticizes the NFL's fine system for on-field mistakes, voicing concerns about fairness.",
+        "summary": "Tom Brady criticized the NFL's fine system for on-field mistakes, expressing frustration over its inconsistencies.",
         "source": "nbcsports.com",
         "date": "Sun, 28 Jun 2026 13:51:09 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/143a84a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_grassvturf_260623.jpg"
       },
       {
-        "title": "2025 awards result in gold shields for Rams teammates Matthew Stafford, Myles Garrett",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2025-awards-result-in-gold-shields-for-rams-teammates-matthew-stafford-myles-garrett",
-        "summary": "In 2025, the NFL introduced gold shields on jerseys for award winners, honoring standout players like Matthew Stafford.",
+        "title": "Josh Allen: Bills are lucky to have Bo Hardegree as new quarterbacks coach",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-bills-are-lucky-to-have-bo-hardegree-as-new-quarterbacks-coach",
+        "summary": "Josh Allen praised the Bills' new quarterbacks coach Bo Hardegree, highlighting his positive impact on the team's offense.",
         "source": "nbcsports.com",
-        "date": "Sun, 28 Jun 2026 16:32:44 -0400",
+        "date": "Sun, 28 Jun 2026 05:47:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96afc08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F510%2F194%2Fnbc_pft_afcnuts_260612.jpg"
+      },
+      {
+        "title": "Mark Andrews: Lamar Jackson is evolving and getting better in \"totally different\" offense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-andrews-lamar-jackson-is-evolving-and-getting-better-in-totally-different-offense",
+        "summary": "Mark Andrews noted that Lamar Jackson is evolving under new offensive coordinator Declan Doyle, showcasing his adaptability.",
+        "source": "nbcsports.com",
+        "date": "Sat, 27 Jun 2026 14:20:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/38d7835/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_lamarjackson_260624.jpg"
       },
       {
-        "title": "Bills will not recognize Simpson at new stadium",
-        "url": "https://www.espn.com/nfl/story/_/id/49200181/bills-not-honor-oj-simpson-wall-fame-new-stadium",
-        "summary": "The Buffalo Bills announced they will not honor former running back O.J. Simpson at their new stadium.",
-        "source": "espn.com",
-        "date": "Sat, 27 Jun 2026 16:55:43 EST",
-        "image": ""
+        "title": "The possibility of a Patriots game in Scotland is in the \"conversation\" phase",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-possibility-of-a-patriots-game-in-scotland-is-in-the-conversation-phase",
+        "summary": "Patriots owner Robert Kraft is exploring the possibility of hosting an NFL game in Scotland following the World Cup.",
+        "source": "nbcsports.com",
+        "date": "Sun, 28 Jun 2026 11:26:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/be5afe4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F388%2F46%2Fnbc_pftpm_worldcup_260622.jpg"
+      },
+      {
+        "title": "Brandon Aiyuk has complaints about the NFLPA, too",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-aiyuk-has-complaints-about-the-nflpa-too",
+        "summary": "Brandon Aiyuk voiced complaints about the NFLPA and his former agent, reflecting dissatisfaction with his current situation.",
+        "source": "nbcsports.com",
+        "date": "Sun, 28 Jun 2026 19:13:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/23c8f75/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F853%2F387%2Fnbc_pft_pftpm_brandonaiyuk_260626.jpg"
       }
     ]
   }
