@@ -1,69 +1,77 @@
 {
-  "updated": "2026-06-29T23:15:05.780Z",
+  "updated": "2026-06-30T01:25:55.406Z",
   "feed": {
     "VR": [
       {
-        "title": "Cyberpunk 2077 is getting the VR mod fans have wanted for years",
-        "url": "https://mixed-news.com/en/cyberpunk-2077-is-getting-the-vr-mod-fans-have-wanted-for-years/",
-        "summary": "Cyberpunk 2077 is set to receive a long-awaited VR mod, enhancing the immersive experience of Night City for players.",
-        "source": "mixed-news.com",
-        "date": "Mon, 29 Jun 2026 20:54:26 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Cyberpunk-2077.jpg"
-      },
-      {
-        "title": "Watch: Rustmourne looks like the Dead Space VR game we never got",
-        "url": "https://mixed-news.com/en/watch-rustmourne-looks-like-the-dead-space-vr-game-we-never-got/",
-        "summary": "Rustmourne, a new sci-fi horror VR game, promises a chilling experience reminiscent of Dead Space, targeting fans of the genre.",
-        "source": "mixed-news.com",
-        "date": "Mon, 29 Jun 2026 20:04:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Rustmourne-3.jpg"
-      },
-      {
         "title": "Apple Vision Pro & Smart Glasses Exec Reportedly Leaves for OpenAI Hardware Team",
         "url": "https://roadtovr.com/apple-vision-pro-smart-glasses-exec-openai-move/",
-        "summary": "Apple's Vision Pro hardware chief Paul Meade is reportedly leaving for OpenAI, raising questions about Apple's future in smart glasses.",
+        "summary": "Apple's Vision Pro chief Paul Meade is reportedly leaving to join OpenAI's hardware team, signaling a significant shift in the tech landscape.",
         "source": "roadtovr.com",
         "date": "Mon, 29 Jun 2026 08:31:20 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-10.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "SpatialGen Zeus Streams Live Immersive Video To Apple Vision Pro",
-        "url": "https://www.uploadvr.com/spatialgen-zeus-streams-live-immersive-video-to-apple-vision-pro/",
-        "summary": "SpatialGen Zeus now streams live immersive video to Apple Vision Pro headsets, enhancing sports and event experiences.",
-        "source": "uploadvr.com",
-        "date": "Fri, 26 Jun 2026 15:08:17 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/SpatialGen-Zeus-overlay-on-Apple-Immersive-Video-Wolves-at-Lakers.jpg"
+        "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
+        "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
+        "summary": "The multiplayer VR RPG A Township Tale is shutting down in July, marking a disappointing end for the title after a recent game cancellation.",
+        "source": "roadtovr.com",
+        "date": "Fri, 26 Jun 2026 13:28:30 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
       },
       {
         "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
         "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
-        "summary": "Combat Waffle Studios, creators of the successful VR game Ghosts of Tabor, announced layoffs amid industry challenges.",
+        "summary": "Combat Waffle Studios, the developer of VR shooter Ghosts of Tabor, announced layoffs to align with the current state of the VR industry.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 11:01:29 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
-        "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
-        "summary": "A Township Tale, a multiplayer VR RPG, will shut down next month following the cancellation of its sequel.",
+        "title": "Apple Raises Price of Vision Pro by $200 Amid RAM & Storage Shortage",
+        "url": "https://roadtovr.com/apple-raises-price-of-vision-pro-by-200-amid-ram-storage-shortage/",
+        "summary": "Apple has raised the price of the Vision Pro headset by $200 amid ongoing RAM and storage shortages affecting multiple products.",
         "source": "roadtovr.com",
-        "date": "Fri, 26 Jun 2026 13:28:30 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
+        "date": "Thu, 25 Jun 2026 14:48:29 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-2-1.jpg?resize=1538%2C865&quality=89&ssl=1"
+      },
+      {
+        "title": "Meta’s new AI glasses cost $299, last 8 hours, and finally look worth buying",
+        "url": "https://mixed-news.com/en/metas-new-ai-glasses-cost-299-last-8-hours-and-finally-look-worth-buying/",
+        "summary": "Meta has launched new AI glasses priced at $299, featuring improved styles and functionality in partnership with EssilorLuxottica.",
+        "source": "mixed-news.com",
+        "date": "Thu, 25 Jun 2026 02:02:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Meta-Glasses.webp"
+      },
+      {
+        "title": "‘Synth Riders’ Gets Surprise Linkin Park DLC Drop, Its Biggest Music Pack to Date",
+        "url": "https://roadtovr.com/synth-riders-linkin-park-dlc-music-pack-release/",
+        "summary": "Synth Riders has released its biggest music pack to date, featuring 13 iconic tracks from Linkin Park.",
+        "source": "roadtovr.com",
+        "date": "Thu, 25 Jun 2026 14:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/linkin-park-synth-riders.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
         "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-        "summary": "OpenAI has unveiled GPT-5.6, amidst regulatory scrutiny and requests from the Trump administration to stagger its release.",
+        "summary": "OpenAI has unveiled GPT-5.6, a new model suite that includes Sol, Terra, and Luna, amid ongoing regulatory discussions.",
         "source": "theverge.com",
         "date": "2026-06-26T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+        "summary": "Tidal will label AI-generated music tracks but will not ban them outright, aiming to protect artists while informing listeners.",
+        "source": "theverge.com",
+        "date": "2026-06-29T15:47:35-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-        "summary": "China's Zhipu AI claims its GLM-5.2 model can match Mythos in cybersecurity capabilities, narrowing the gap with Western models.",
+        "summary": "China's Zhipu AI claims its GLM-5.2 model can match Mythos in cybersecurity tasks, narrowing the gap with leading AI models.",
         "source": "theverge.com",
         "date": "2026-06-28T17:42:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,84 +79,76 @@
       {
         "title": "Lawmakers want to ban AI companies from selling your health data",
         "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-        "summary": "Lawmakers are proposing a ban on AI companies selling health data, aiming to protect consumer privacy.",
+        "summary": "Lawmakers are proposing a ban on AI companies selling Americans' health and location data to protect user privacy.",
         "source": "theverge.com",
         "date": "2026-06-29T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-        "summary": "Prosecutors used ChatGPT logs as evidence in a high-profile arson trial, marking a novel use of AI in legal proceedings.",
+        "title": "OpenAI is teasing new hardware… for Codex",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+        "summary": "OpenAI is set to launch new hardware related to its Codex AI tool, enhancing user experience with a square-shaped device.",
         "source": "theverge.com",
-        "date": "2026-06-28T10:12:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-29T14:52:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
         "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-        "summary": "Operation Endgame successfully disrupted a cybercrime assembly line, targeting widely used criminal tools.",
+        "summary": "Operation Endgame has disrupted major cybercrime tools, delivering a significant blow to organized cybercriminal activities.",
         "source": "arstechnica.com",
         "date": "Wed, 24 Jun 2026 21:03:34 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg"
-      },
-      {
-        "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-        "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-        "summary": "Oracle's significant layoffs are part of a strategy to fund extensive AI investments in data center infrastructure.",
-        "source": "arstechnica.com",
-        "date": "Tue, 23 Jun 2026 20:17:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg"
       }
     ],
     "NFL": [
       {
+        "title": "Judge Doty, who ruled on many NFL cases, dies",
+        "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
+        "summary": "David Doty, the influential U.S. District Judge known for pivotal NFL labor rulings, has passed away at the age of 96.",
+        "source": "espn.com",
+        "date": "Mon, 29 Jun 2026 17:52:19 EST",
+        "image": ""
+      },
+      {
+        "title": "Ex-Titans, Cards RB Johnson says he has ALS",
+        "url": "https://www.espn.com/nfl/story/_/id/49214999/former-nfl-rb-chris-johnson-discusses-als-diagnosis",
+        "summary": "Former NFL running back Chris Johnson revealed he was diagnosed with ALS, sharing his journey on national television.",
+        "source": "espn.com",
+        "date": "Mon, 29 Jun 2026 19:35:01 EST",
+        "image": ""
+      },
+      {
+        "title": "Lions release Arnold after CB's bond set at $1M",
+        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
+        "summary": "The Detroit Lions have released cornerback Terrion Arnold following his arrest on felony charges of armed robbery and kidnapping.",
+        "source": "espn.com",
+        "date": "Mon, 29 Jun 2026 17:52:19 EST",
+        "image": ""
+      },
+      {
         "title": "Report: First round of bids for Seahawks were due today",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-first-round-of-bids-for-seahawks-were-due-today",
-        "summary": "The Seahawks are progressing towards a new ownership, with the first round of bids due today.",
+        "summary": "The Seattle Seahawks are moving closer to a new ownership as the first round of bids was due today.",
         "source": "nbcsports.com",
         "date": "Mon, 29 Jun 2026 18:04:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e892719/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F679%2Fnbc_pft_darnoldconvo_260522.jpg"
       },
       {
-        "title": "Ian Cunningham: We're excited about who Kyle Pitts is today and the trajectory he's on",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ian-cunningham-were-excited-about-who-kyle-pitts-is-today-and-the-trajectory-hes-on",
-        "summary": "Falcons tight end Kyle Pitts has secured a new deal, signaling confidence in his future performance.",
-        "source": "nbcsports.com",
-        "date": "Mon, 29 Jun 2026 16:21:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f04fcb2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F120%2F55%2Fnbc_pft_bijanrobinson_260609.jpg"
+        "title": "Bills will not recognize Simpson at new stadium",
+        "url": "https://www.espn.com/nfl/story/_/id/49200181/bills-not-honor-oj-simpson-wall-fame-new-stadium",
+        "summary": "The Buffalo Bills announced they will not honor O.J. Simpson at their new stadium, a decision that has sparked discussion.",
+        "source": "espn.com",
+        "date": "Mon, 29 Jun 2026 17:52:19 EST",
+        "image": ""
       },
       {
-        "title": "Terrion Arnold is released on $1 million bond, will be able to practice and play for Lions",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-is-released-on-1-million-bond-will-be-able-to-practice-with-lions",
-        "summary": "Lions cornerback Terrion Arnold has been released on a $1 million bond, allowing him to practice pending trial.",
+        "title": "The Dianna Russini traffic stop bodycam emerges, with no FaceTime to any NFL coach",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-dianna-russini-traffic-stop-bodycam-emerges-with-no-facetime-to-any-nfl-coach",
+        "summary": "Bodycam footage from the traffic stop of former reporter Dianna Russini has emerged, revealing details about the incident.",
         "source": "nbcsports.com",
-        "date": "Mon, 29 Jun 2026 13:45:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6710e3f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2FArnoldPFTnew.jpg"
-      },
-      {
-        "title": "Browns announce Ryan Grigson's return, Chris Cooper's promotion in front office",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-announce-ryan-grigsons-return-chris-coopers-promotion-in-front-office",
-        "summary": "The Browns have announced the return of Ryan Grigson and the promotion of Chris Cooper within their front office.",
-        "source": "nbcsports.com",
-        "date": "Mon, 29 Jun 2026 14:46:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f26fd2a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2FPFTPMJimmyHaslamNEW.jpg"
-      },
-      {
-        "title": "Jameson Williams has worked to go from \"good to truly elite\" this offseason",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameson-williams-has-worked-to-go-from-good-to-truly-elite-this-offseason",
-        "summary": "Lions wide receiver Jameson Williams aims to elevate his game from good to elite after a breakout season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 29 Jun 2026 09:49:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6710e3f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2FArnoldPFTnew.jpg"
-      },
-      {
-        "title": "The Travis Kelce-Taylor Swift wedding is expected to be attended by \"many\" tight ends",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-travis-kelce-taylor-swift-wedding-is-expected-to-be-attended-by-many-tight-ends",
-        "summary": "The upcoming Travis Kelce-Taylor Swift wedding is expected to attract numerous tight ends, playfully dubbed National Tight Ends Day.",
-        "source": "nbcsports.com",
-        "date": "Mon, 29 Jun 2026 14:18:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/02fcf4e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F36%2F919%2Fnbc_pft_bradyfines_260629.jpg"
+        "date": "Mon, 29 Jun 2026 20:42:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bc07b67/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F854%2F363%2FRussiniTimeline6-26.jpg"
       }
     ]
   }
