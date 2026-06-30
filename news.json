@@ -1,11 +1,19 @@
 {
-  "updated": "2026-06-30T11:40:11.723Z",
+  "updated": "2026-06-30T13:29:01.091Z",
   "feed": {
     "VR": [
       {
+        "title": "Meta’s Brain AI Takes a Step Closer to Telepathy With Improved Thought-to-Text Decoding",
+        "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
+        "summary": "Meta's Brain2Qwerty v2 advances thought-to-text decoding, aiming to assist those with speech impairments.",
+        "source": "roadtovr.com",
+        "date": "Tue, 30 Jun 2026 12:22:19 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "Cyberpunk 2077 is getting the VR mod fans have wanted for years",
         "url": "https://mixed-news.com/en/cyberpunk-2077-is-getting-the-vr-mod-fans-have-wanted-for-years/",
-        "summary": "Cyberpunk 2077 is set to receive a long-awaited VR mod, enhancing the immersive experience of navigating Night City.",
+        "summary": "Cyberpunk 2077 is set to receive a long-awaited VR mod, enhancing immersion in its vibrant world.",
         "source": "mixed-news.com",
         "date": "Mon, 29 Jun 2026 20:54:26 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Cyberpunk-2077.jpg"
@@ -13,7 +21,7 @@
       {
         "title": "Watch: Rustmourne looks like the Dead Space VR game we never got",
         "url": "https://mixed-news.com/en/watch-rustmourne-looks-like-the-dead-space-vr-game-we-never-got/",
-        "summary": "Rustmourne, a new sci-fi horror VR game, promises a chilling experience reminiscent of classics like Dead Space and Alien Isolation.",
+        "summary": "Rustmourne, a new sci-fi horror VR game, is generating buzz for its intense atmosphere reminiscent of Dead Space.",
         "source": "mixed-news.com",
         "date": "Mon, 29 Jun 2026 20:04:00 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Rustmourne-3.jpg"
@@ -21,134 +29,126 @@
       {
         "title": "Apple Vision Pro & Smart Glasses Exec Reportedly Leaves for OpenAI Hardware Team",
         "url": "https://roadtovr.com/apple-vision-pro-smart-glasses-exec-openai-move/",
-        "summary": "Apple's Vision Pro hardware chief is reportedly leaving for OpenAI, raising questions about the future of Apple's smart glasses.",
+        "summary": "Apple's Vision Pro hardware chief is leaving to join OpenAI, raising questions about Apple's future in smart glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 29 Jun 2026 08:31:20 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-10.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
-        "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
-        "summary": "Combat Waffle Studios, the developer of VR shooter Ghosts of Tabor, has announced layoffs amid industry challenges.",
-        "source": "roadtovr.com",
-        "date": "Fri, 26 Jun 2026 11:01:29 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
         "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
-        "summary": "The multiplayer RPG A Township Tale is shutting down in July following the cancellation of its sequel, marking a tough year for the studio.",
+        "summary": "A Township Tale is shutting down, marking a significant loss in the VR gaming landscape.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 13:28:30 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
       },
       {
-        "title": "Meta Summer Sale Offers Massive Savings On Hundreds Of Quest Games",
-        "url": "https://www.uploadvr.com/meta-summer-sale-offers-massive-savings-on-hundreds-of-quest-games/",
-        "summary": "Meta's Peak Summer Sale is offering significant discounts on hundreds of Quest games, making VR titles more accessible.",
-        "source": "uploadvr.com",
-        "date": "Mon, 29 Jun 2026 15:00:42 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Peak-Summer-Sale-2026.png"
+        "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
+        "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
+        "summary": "Combat Waffle Studios announced layoffs and game cancellations, reflecting challenges in the current VR industry.",
+        "source": "roadtovr.com",
+        "date": "Fri, 26 Jun 2026 11:01:29 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-        "summary": "OpenAI has unveiled GPT-5.6 amid ongoing regulatory discussions, introducing new models tailored for various applications.",
-        "source": "theverge.com",
-        "date": "2026-06-26T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal will label AI-generated music tracks starting July 15, aiming to balance artist protection with the growing presence of AI in music.",
-        "source": "theverge.com",
-        "date": "2026-06-29T15:47:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+        "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+        "summary": "The US government is offering $10 million for information on Russian hackers targeting Signal and WhatsApp.",
+        "source": "arstechnica.com",
+        "date": "Mon, 29 Jun 2026 22:05:33 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/russia-hacking-binary-1152x648.jpg"
       },
       {
         "title": "Lawmakers want to ban AI companies from selling your health data",
         "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-        "summary": "New legislation is being proposed to prevent AI companies from selling Americans' health data to data brokers.",
+        "summary": "Lawmakers propose a ban on AI companies selling Americans' health and location data to protect privacy.",
         "source": "theverge.com",
         "date": "2026-06-29T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "OpenAI is teasing new hardware… for Codex",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+        "summary": "OpenAI is teasing a new hardware device related to its Codex AI coding tool, set to launch on July 15.",
+        "source": "theverge.com",
+        "date": "2026-06-29T14:52:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-        "summary": "China's Z.ai claims its new GLM-5.2 model matches Mythos in cybersecurity capabilities, narrowing the gap with leading AI models.",
+        "summary": "China's Z.ai claims its new AI model can match Mythos in cybersecurity, narrowing the gap with Western technologies.",
         "source": "theverge.com",
         "date": "2026-06-28T17:42:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
-        "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-        "summary": "Operation Endgame has disrupted two major cybercrime tools, marking a significant blow to organized cybercrime operations.",
-        "source": "arstechnica.com",
-        "date": "Wed, 24 Jun 2026 21:03:34 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-459908461-1152x648.jpg"
+        "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+        "summary": "Suno launches the Spark incubator program to support independent artists in the AI music space.",
+        "source": "theverge.com",
+        "date": "2026-06-28T16:27:36-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-        "summary": "Prosecutors in a high-profile arson case used ChatGPT logs as evidence, showcasing the increasing role of AI in legal proceedings.",
-        "source": "theverge.com",
-        "date": "2026-06-28T10:12:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "\"Dangerous\" AI models are coming no matter what",
+        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+        "summary": "Experts warn that advanced AI models capable of hacking will soon become commonplace, raising security concerns.",
+        "source": "arstechnica.com",
+        "date": "Wed, 17 Jun 2026 17:50:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Lions release Arnold after CB's bond set at $1M",
-        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
-        "summary": "The Detroit Lions have released cornerback Terrion Arnold following his arrest on felony charges of armed robbery and kidnapping.",
-        "source": "espn.com",
-        "date": "Tue, 30 Jun 2026 07:15:41 EST",
-        "image": ""
+        "title": "NFL says Terrion Arnold case \"remains under review\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-says-terrion-arnold-case-remains-under-review",
+        "summary": "The NFL is reviewing the case of Lions cornerback Terrion Arnold, who is facing multiple felony charges.",
+        "source": "nbcsports.com",
+        "date": "Mon, 29 Jun 2026 13:58:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6710e3f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2FArnoldPFTnew.jpg"
       },
       {
-        "title": "Judge Doty, who ruled on many NFL cases, dies",
-        "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
-        "summary": "David Doty, the influential U.S. District Judge known for pivotal NFL rulings, has passed away at age 96.",
-        "source": "espn.com",
-        "date": "Tue, 30 Jun 2026 07:15:41 EST",
-        "image": ""
+        "title": "Terrion Arnold is released on $1 million bond, will be able to practice and play for Lions",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-is-released-on-1-million-bond-will-be-able-to-practice-with-lions",
+        "summary": "Terrion Arnold has been released on a $1 million bond and is allowed to practice and play for the Lions.",
+        "source": "nbcsports.com",
+        "date": "Mon, 29 Jun 2026 13:45:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6710e3f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2FArnoldPFTnew.jpg"
       },
       {
         "title": "Report: First round of bids for Seahawks were due today",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-first-round-of-bids-for-seahawks-were-due-today",
-        "summary": "The Seattle Seahawks are moving closer to a new ownership, with the first round of bids due today.",
+        "summary": "The Seahawks are moving closer to a new ownership structure, with bids due today.",
         "source": "nbcsports.com",
         "date": "Mon, 29 Jun 2026 18:04:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e892719/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F679%2Fnbc_pft_darnoldconvo_260522.jpg"
       },
       {
-        "title": "Ex-Titans, Cards RB Johnson says he has ALS",
-        "url": "https://www.espn.com/nfl/story/_/id/49214999/former-nfl-rb-chris-johnson-discusses-als-diagnosis",
-        "summary": "Former NFL running back Chris Johnson has revealed his diagnosis of ALS, sharing his story on national television.",
-        "source": "espn.com",
-        "date": "Tue, 30 Jun 2026 07:15:41 EST",
-        "image": ""
-      },
-      {
-        "title": "'They're growing much closer': Why the Texans are ...",
-        "url": "https://www.espn.com/nfl/story/_/id/49215850/houston-texans-qb-cj-stroud-oc-nick-caley-growth-optimistic",
-        "summary": "Houston Texans coach DeMeco Ryans reports positive progress in Year 2 for the team's quarterback and offensive coordinator.",
-        "source": "espn.com",
-        "date": "Tue, 30 Jun 2026 07:19:16 EST",
-        "image": ""
-      },
-      {
-        "title": "Raiders' fifth-round rookie cornerback Hezekiah Masses is in the mix for a starting job",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-fifth-round-rookie-cornerback-hezekiah-masses-is-in-the-mix-for-a-starting-job",
-        "summary": "Raiders' fifth-round rookie cornerback Hezekiah Masses is competing for a starting position as training camp approaches.",
+        "title": "Ian Cunningham: We're excited about who Kyle Pitts is today and the trajectory he's on",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ian-cunningham-were-excited-about-who-kyle-pitts-is-today-and-the-trajectory-hes-on",
+        "summary": "Kyle Pitts has officially signed a new deal with the Falcons, signaling confidence in his future performance.",
         "source": "nbcsports.com",
-        "date": "Tue, 30 Jun 2026 04:43:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/02fcf4e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F36%2F919%2Fnbc_pft_bradyfines_260629.jpg"
+        "date": "Mon, 29 Jun 2026 16:21:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f04fcb2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F120%2F55%2Fnbc_pft_bijanrobinson_260609.jpg"
+      },
+      {
+        "title": "Browns announce Ryan Grigson's return, Chris Cooper's promotion in front office",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-announce-ryan-grigsons-return-chris-coopers-promotion-in-front-office",
+        "summary": "The Browns announced Ryan Grigson's return and Chris Cooper's promotion in their front office.",
+        "source": "nbcsports.com",
+        "date": "Mon, 29 Jun 2026 14:46:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f26fd2a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2FPFTPMJimmyHaslamNEW.jpg"
+      },
+      {
+        "title": "Lions release Terrion Arnold",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-release-terrion-arnold",
+        "summary": "The Lions have released cornerback Terrion Arnold following his legal troubles, impacting their roster decisions.",
+        "source": "nbcsports.com",
+        "date": "Mon, 29 Jun 2026 16:15:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6710e3f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2FArnoldPFTnew.jpg"
       }
     ]
   }
