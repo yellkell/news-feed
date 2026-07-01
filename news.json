@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-30T23:04:09.586Z",
+  "updated": "2026-07-01T00:19:49.833Z",
   "feed": {
     "VR": [
       {
         "title": "Meta’s Brain AI Takes a Step Closer to Telepathy With Improved Thought-to-Text Decoding",
         "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
-        "summary": "Meta's Brain2Qwerty v2 aims to enhance thought-to-text decoding for individuals with speech impairments, marking a significant advancement in brain-computer interface technology.",
+        "summary": "Meta's Brain2Qwerty v2 aims to decode brain activity into text, enhancing communication for those with neurological impairments.",
         "source": "roadtovr.com",
         "date": "Tue, 30 Jun 2026 12:22:19 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg?resize=1920%2C1080&quality=89&ssl=1"
@@ -13,57 +13,73 @@
       {
         "title": "‘Cave Crave’ Brings Flooded Cave from Thai Rescue Mission in July Update",
         "url": "https://roadtovr.com/cave-crave-2018-tham-luang-trapped-boys-update/",
-        "summary": "3R Games is set to release 'Cave Crave,' a VR experience based on the Tham Luang cave rescue that captivated the world in 2018.",
+        "summary": "Cave Crave is set to bring the Tham Luang cave rescue experience to VR, launching next month.",
         "source": "roadtovr.com",
         "date": "Tue, 30 Jun 2026 14:24:20 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/cave-crave-thai-cave.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Steam Frame is not just a wireless VR headset, and Valve just made that clear",
-        "url": "https://mixed-news.com/en/steam-frame-is-not-just-a-wireless-vr-headset-and-valve-just-made-that-clear/",
-        "summary": "Valve expands its Verified program for the upcoming Steam Frame, ensuring compatibility for new hardware with existing VR games.",
-        "source": "mixed-news.com",
-        "date": "Mon, 29 Jun 2026 21:59:57 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
-      },
-      {
-        "title": "Cyberpunk 2077 is getting the VR mod fans have wanted for years",
-        "url": "https://mixed-news.com/en/cyberpunk-2077-is-getting-the-vr-mod-fans-have-wanted-for-years/",
-        "summary": "A long-awaited VR mod for Cyberpunk 2077 is finally in development, promising an immersive experience in the vibrant world of Night City.",
-        "source": "mixed-news.com",
-        "date": "Mon, 29 Jun 2026 20:54:26 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Cyberpunk-2077.jpg"
+        "title": "Apple Vision Pro & Smart Glasses Exec Reportedly Leaves for OpenAI Hardware Team",
+        "url": "https://roadtovr.com/apple-vision-pro-smart-glasses-exec-openai-move/",
+        "summary": "Apple's Vision Pro hardware chief Paul Meade is reportedly leaving to join OpenAI's hardware team.",
+        "source": "roadtovr.com",
+        "date": "Mon, 29 Jun 2026 08:31:20 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-10.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
         "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
-        "summary": "Combat Waffle Studios, creators of 'Ghosts of Tabor,' announced layoffs amid a challenging VR market and the cancellation of multiple games.",
+        "summary": "Combat Waffle Studios announces layoffs amid challenges in the VR industry, impacting the team behind Ghosts of Tabor.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 11:01:29 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Layoffs At Ghosts Of Tabor Developer & Shutdowns For 3 Other VR Games",
-        "url": "https://www.uploadvr.com/layoffs-at-ghosts-of-tabor-developer-shutdowns-for-3-other-vr-games/",
-        "summary": "The shutdown of 'A Township Tale' and layoffs at its developer highlight ongoing struggles within the VR gaming industry.",
-        "source": "uploadvr.com",
-        "date": "Thu, 25 Jun 2026 12:56:01 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/uvr-badnewsJune.png"
+        "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
+        "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
+        "summary": "A Township Tale is shutting down next month, marking a second cancellation for the studio this year.",
+        "source": "roadtovr.com",
+        "date": "Fri, 26 Jun 2026 13:28:30 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
+      },
+      {
+        "title": "Cyberpunk 2077 is getting the VR mod fans have wanted for years",
+        "url": "https://mixed-news.com/en/cyberpunk-2077-is-getting-the-vr-mod-fans-have-wanted-for-years/",
+        "summary": "Cyberpunk 2077 is finally getting the long-awaited VR mod that fans have desired for years.",
+        "source": "mixed-news.com",
+        "date": "Mon, 29 Jun 2026 20:54:26 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Cyberpunk-2077.jpg"
       }
     ],
     "AI": [
       {
+        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "summary": "Anthropic's Claude Fable 5 is set to return online after the U.S. lifted export controls.",
+        "source": "theverge.com",
+        "date": "2026-06-30T20:03:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM now generates TikTok-style videos summarizing research notes, enhancing the way users can digest information.",
+        "summary": "Google's NotebookLM now generates TikTok-style video summaries of uploaded research for users.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+        "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+        "summary": "Netflix will feature an AI-generated voice of Gene Wilder in its upcoming Willy Wonka reality show.",
+        "source": "theverge.com",
+        "date": "2026-06-30T13:19:15-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
         "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal will label AI-generated music tracks starting July 15, balancing artist protection with the platform's acceptance of AI content.",
+        "summary": "Tidal will label AI-generated music tracks but will not ban them outright, starting July 15.",
         "source": "theverge.com",
         "date": "2026-06-29T15:47:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,31 +87,15 @@
       {
         "title": "OpenAI is teasing new hardware… for Codex",
         "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-        "summary": "OpenAI is teasing a new hardware device related to its Codex AI, set to launch on July 15, aimed at enhancing coding tools.",
+        "summary": "OpenAI is teasing new hardware related to its Codex AI coding tool, set for release on July 15.",
         "source": "theverge.com",
         "date": "2026-06-29T14:52:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Lawmakers want to ban AI companies from selling your health data",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-        "summary": "A new proposal seeks to prohibit AI companies from selling Americans' health data, addressing growing privacy concerns.",
-        "source": "theverge.com",
-        "date": "2026-06-29T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Meet the lawyer who beat Elon Musk — twice",
-        "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-        "summary": "Lawyer Bill Savitt successfully defended against Elon Musk's lawsuits related to OpenAI, showcasing a significant legal victory.",
-        "source": "theverge.com",
-        "date": "2026-06-30T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-        "summary": "China's Z.ai claims its GLM-5.2 model rivals Mythos in cybersecurity capabilities, signaling advancements in AI technology.",
+        "summary": "China's Z.ai claims its GLM-5.2 model matches Mythos in cybersecurity capabilities.",
         "source": "theverge.com",
         "date": "2026-06-28T17:42:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Lions release Arnold after CB's bond set at $1M",
-        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
-        "summary": "The Lions have released cornerback Terrion Arnold following his arrest on felony charges, marking a significant team decision.",
-        "source": "espn.com",
-        "date": "Tue, 30 Jun 2026 17:22:34 EST",
-        "image": ""
+        "title": "Titans will have eight open training camp practices",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-will-have-eight-open-training-camp-practices",
+        "summary": "The Titans will hold eight open training camp practices this summer, providing fans with more access.",
+        "source": "nbcsports.com",
+        "date": "Tue, 30 Jun 2026 17:33:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/04a4cfd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F151%2F158%2Fnbc_pft_pftpm_alsfootball_260630.jpg"
       },
       {
-        "title": "Ex-Titans, Cards RB Johnson says he has ALS",
-        "url": "https://www.espn.com/nfl/story/_/id/49214999/former-nfl-rb-chris-johnson-discusses-als-diagnosis",
-        "summary": "Former NFL running back Chris Johnson revealed his ALS diagnosis, raising awareness about the disease within the sports community.",
-        "source": "espn.com",
-        "date": "Tue, 30 Jun 2026 17:22:34 EST",
-        "image": ""
-      },
-      {
-        "title": "Judge Doty, who ruled on many NFL cases, dies",
-        "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
-        "summary": "David Doty, a pivotal U.S. District Judge in NFL labor matters, has passed away at age 96, leaving a lasting legacy.",
-        "source": "espn.com",
-        "date": "Tue, 30 Jun 2026 17:22:33 EST",
-        "image": ""
-      },
-      {
-        "title": "Bills will not recognize Simpson at new stadium",
-        "url": "https://www.espn.com/nfl/story/_/id/49200181/bills-not-honor-oj-simpson-wall-fame-new-stadium",
-        "summary": "The Buffalo Bills announced they will not honor O.J. Simpson at their new stadium, a decision that has sparked discussion.",
-        "source": "espn.com",
-        "date": "Tue, 30 Jun 2026 17:22:34 EST",
-        "image": ""
+        "title": "Brendan Sorsby: I will focus on my recovery and preparing for the 2027 draft",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brendan-sorsby-i-will-focus-on-my-recovery-and-preparing-for-the-2027-draft",
+        "summary": "Brendan Sorsby will focus on recovery and preparation for the 2027 NFL draft after a settlement.",
+        "source": "nbcsports.com",
+        "date": "Tue, 30 Jun 2026 17:08:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f972711/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_whatsnext_260624.jpg"
       },
       {
         "title": "Ron Rivera signs three-year deal to serve as Cal's G.M.",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ron-rivera-signs-three-year-deal-to-serve-as-cals-g-m",
-        "summary": "Ron Rivera has signed a three-year deal to become the general manager at Cal, transitioning from his NFL coaching career.",
+        "summary": "Ron Rivera signs a three-year deal to serve as the general manager for Cal after his NFL coaching career.",
         "source": "nbcsports.com",
         "date": "Tue, 30 Jun 2026 15:00:00 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/140413a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F45%2F203%2Fnbc_pft_brendansorsby_260629.jpg"
       },
       {
-        "title": "Titans will have eight open training camp practices",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-will-have-eight-open-training-camp-practices",
-        "summary": "The Tennessee Titans will host eight open training camp practices this summer, providing fans with opportunities to engage with the team.",
+        "title": "Cardinals CB Will Johnson: We have a good opportunity to surprise people",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-cb-will-johnson-we-have-a-good-opportunity-to-surprise-people",
+        "summary": "Cardinals cornerback Will Johnson believes the team has a chance to surprise critics this season.",
         "source": "nbcsports.com",
-        "date": "Tue, 30 Jun 2026 17:33:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/04a4cfd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F151%2F158%2Fnbc_pft_pftpm_alsfootball_260630.jpg"
+        "date": "Tue, 30 Jun 2026 14:21:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/722d479/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F139%2F947%2Fnbc_pft_pftpm_worldcupshootouts_260630.jpg"
+      },
+      {
+        "title": "Deshaun Watson returned to Browns facility to train this week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-returned-to-browns-facility-to-train-this-week",
+        "summary": "Deshaun Watson has returned to the Browns facility to train, aiming to enhance his competitive edge.",
+        "source": "nbcsports.com",
+        "date": "Tue, 30 Jun 2026 13:56:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a3ca966/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_browns_260612.jpg"
+      },
+      {
+        "title": "Lamar Jackson on Zay Flowers' next contract: \"His value is out of this world\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-on-zay-flowers-next-contract-his-value-is-out-of-this-world",
+        "summary": "Ravens wide receiver Zay Flowers is eligible for a second contract, with Lamar Jackson praising his value.",
+        "source": "nbcsports.com",
+        "date": "Tue, 30 Jun 2026 13:15:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38d7835/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F633%2F166%2Fnbc_pftpm_lamarjackson_260624.jpg"
       }
     ]
   }
