@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-01T05:00:42.800Z",
+  "updated": "2026-07-01T08:55:04.193Z",
   "feed": {
     "VR": [
       {
         "title": "Meta’s Brain AI Takes a Step Closer to Telepathy With Improved Thought-to-Text Decoding",
         "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
-        "summary": "Meta's Brain2Qwerty v2 aims to enhance thought-to-text decoding, potentially aiding those with speech impairments through improved brain-computer interface technology.",
+        "summary": "Meta's Brain2Qwerty v2 aims to enhance thought-to-text decoding for individuals with speech impairments, marking a significant advancement in brain-computer interface technology.",
         "source": "roadtovr.com",
         "date": "Tue, 30 Jun 2026 12:22:19 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg?resize=1920%2C1080&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "‘Cave Crave’ Brings Flooded Cave from Thai Rescue Mission in July Update",
         "url": "https://roadtovr.com/cave-crave-2018-tham-luang-trapped-boys-update/",
-        "summary": "3R Games is set to release a VR experience based on Thailand's Tham Luang cave rescue mission, adding a unique historical element to gaming.",
+        "summary": "3R Games is set to release 'Cave Crave,' a VR experience based on the Thai cave rescue, next month.",
         "source": "roadtovr.com",
         "date": "Tue, 30 Jun 2026 14:24:20 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/cave-crave-thai-cave.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -21,7 +21,7 @@
       {
         "title": "Apple Vision Pro & Smart Glasses Exec Reportedly Leaves for OpenAI Hardware Team",
         "url": "https://roadtovr.com/apple-vision-pro-smart-glasses-exec-openai-move/",
-        "summary": "Apple's Vision Pro hardware chief is leaving for OpenAI, raising questions about the future of Apple's smart glasses initiatives.",
+        "summary": "Apple's Vision Pro and smart glasses chief, Paul Meade, is reportedly leaving for OpenAI's hardware team, signaling a shift in leadership.",
         "source": "roadtovr.com",
         "date": "Mon, 29 Jun 2026 08:31:20 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-10.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -29,23 +29,23 @@
       {
         "title": "Studio Behind Top-selling VR Extraction Shooter ‘Ghosts of Tabor’ Announces Layoffs",
         "url": "https://roadtovr.com/ghosts-of-tabor-combar-waffle-layoffs-2026/",
-        "summary": "Combat Waffle Studios announced layoffs as it aligns with the current state of the VR industry following the success of 'Ghosts of Tabor'.",
+        "summary": "Combat Waffle Studios, the developer behind 'Ghosts of Tabor,' announced layoffs amid challenges in the VR industry.",
         "source": "roadtovr.com",
         "date": "Fri, 26 Jun 2026 11:01:29 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Steam Frame is not just a wireless VR headset, and Valve just made that clear",
-        "url": "https://mixed-news.com/en/steam-frame-is-not-just-a-wireless-vr-headset-and-valve-just-made-that-clear/",
-        "summary": "Valve is expanding its Verified program for new hardware, enhancing compatibility checks for upcoming devices like Steam Frame.",
-        "source": "mixed-news.com",
-        "date": "Mon, 29 Jun 2026 21:59:57 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
+        "title": "VR RPG ‘Township Tale’ is Shutting Down in July Following Second Game Cancellation",
+        "url": "https://roadtovr.com/township-tale-shutting-down-july-2026/",
+        "summary": "The multiplayer RPG 'A Township Tale' will shut down in July, marking another setback for its developer, Alta.",
+        "source": "roadtovr.com",
+        "date": "Fri, 26 Jun 2026 13:28:30 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/06/a-township-tale-14.jpg?resize=1280%2C720&quality=89&ssl=1"
       },
       {
         "title": "Cyberpunk 2077 is getting the VR mod fans have wanted for years",
         "url": "https://mixed-news.com/en/cyberpunk-2077-is-getting-the-vr-mod-fans-have-wanted-for-years/",
-        "summary": "Fans of Cyberpunk 2077 can expect a long-awaited VR mod that brings the immersive world of Night City to virtual reality.",
+        "summary": "Fans of 'Cyberpunk 2077' can look forward to a long-awaited VR mod, enhancing the immersive experience in Night City.",
         "source": "mixed-news.com",
         "date": "Mon, 29 Jun 2026 20:54:26 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Cyberpunk-2077.jpg"
@@ -53,67 +53,75 @@
     ],
     "AI": [
       {
-        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-        "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM introduces TikTok-style AI videos to summarize research, enhancing the way users engage with their notes.",
-        "source": "theverge.com",
-        "date": "2026-06-30T15:24:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-        "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-        "summary": "Netflix's upcoming reality show features an AI-generated voice of Gene Wilder, blending nostalgia with innovative technology.",
-        "source": "theverge.com",
-        "date": "2026-06-30T13:19:15-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal announces it will label AI-generated music tracks instead of banning them, aiming to protect artists while adapting to new technologies.",
-        "source": "theverge.com",
-        "date": "2026-06-29T15:47:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "OpenAI is teasing new hardware… for Codex",
         "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-        "summary": "OpenAI is set to unveil new hardware related to its Codex tool on July 15, promising enhancements for developers.",
+        "summary": "OpenAI is teasing a new hardware device related to its Codex AI coding tool, set to be revealed on July 15th.",
         "source": "theverge.com",
         "date": "2026-06-29T14:52:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+        "summary": "Tidal will label AI-generated music starting July 15, balancing artist protection with the platform's acceptance of AI content.",
+        "source": "theverge.com",
+        "date": "2026-06-29T15:47:35-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Lawmakers want to ban AI companies from selling your health data",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+        "summary": "Lawmakers are proposing a ban on AI companies selling Americans' health data, aiming to protect user privacy.",
+        "source": "theverge.com",
+        "date": "2026-06-29T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-        "summary": "China's Z.ai claims its new AI model can compete with Mythos in cybersecurity, narrowing the gap with leading AI technologies.",
+        "summary": "China's Z.ai claims its new GLM-5.2 model matches Mythos in cybersecurity capabilities, narrowing the gap with leading AI models.",
         "source": "theverge.com",
         "date": "2026-06-28T17:42:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Lawmakers want to ban AI companies from selling your health data",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-        "summary": "Lawmakers propose a ban on AI companies selling Americans' health data, aiming to protect privacy in the digital age.",
+        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+        "summary": "Prosecutors utilized ChatGPT logs as evidence in a high-profile arson trial, showcasing AI's growing role in legal proceedings.",
         "source": "theverge.com",
-        "date": "2026-06-29T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-28T10:12:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Meet the lawyer who beat Elon Musk — twice",
+        "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+        "summary": "Bill Savitt, the lawyer who successfully represented Sam Altman against Elon Musk, faced intense scrutiny during the trial.",
+        "source": "theverge.com",
+        "date": "2026-06-30T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Lions release Arnold after CB's bond set at $1M",
-        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
-        "summary": "The Detroit Lions released cornerback Terrion Arnold following his arrest on felony charges, highlighting ongoing legal issues surrounding NFL players.",
+        "title": "Calais Campbell's brother charged with murder in the death of their mother",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/calais-campbells-brother-charged-with-murder-in-the-death-of-their-mother",
+        "summary": "Ciarre Campbell, brother of NFL player Calais Campbell, has been charged with murder in connection to their mother's death.",
+        "source": "nbcsports.com",
+        "date": "Wed, 01 Jul 2026 04:44:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dc3d77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F989%2F699%2Fnbc_pft_lamarjacksonnewdeal_260617.jpg"
+      },
+      {
+        "title": "Ex-Titans, Cards RB Johnson says he has ALS",
+        "url": "https://www.espn.com/nfl/story/_/id/49214999/former-nfl-rb-chris-johnson-discusses-als-diagnosis",
+        "summary": "Former NFL running back Chris Johnson revealed his ALS diagnosis, bringing attention to the disease's impact on athletes.",
         "source": "espn.com",
         "date": "Tue, 30 Jun 2026 17:22:34 EST",
         "image": ""
       },
       {
-        "title": "Ex-Titans, Cards RB Johnson says he has ALS",
-        "url": "https://www.espn.com/nfl/story/_/id/49214999/former-nfl-rb-chris-johnson-discusses-als-diagnosis",
-        "summary": "Former NFL running back Chris Johnson announced his ALS diagnosis, raising awareness about the disease within the sports community.",
+        "title": "Lions release Arnold after CB's bond set at $1M",
+        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
+        "summary": "The Detroit Lions have released cornerback Terrion Arnold following his arrest on felony charges of armed robbery and kidnapping.",
         "source": "espn.com",
         "date": "Tue, 30 Jun 2026 17:22:34 EST",
         "image": ""
@@ -121,7 +129,7 @@
       {
         "title": "Judge Doty, who ruled on many NFL cases, dies",
         "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
-        "summary": "Judge David Doty, known for pivotal rulings in NFL labor matters, has passed away at the age of 96.",
+        "summary": "David Doty, a U.S. District Judge known for his rulings on NFL labor matters, has passed away at the age of 96.",
         "source": "espn.com",
         "date": "Tue, 30 Jun 2026 17:22:33 EST",
         "image": ""
@@ -129,26 +137,18 @@
       {
         "title": "Sorsby won't sue NFL, will prepare for '27 draft",
         "url": "https://www.espn.com/nfl/story/_/id/49229498/brendan-sorsby-sue-nfl-now-prepare-2027-draft",
-        "summary": "Brendan Sorsby will not pursue legal action against the NFL after the cancellation of this year's supplemental draft.",
+        "summary": "Brendan Sorsby will not pursue litigation against the NFL after the league canceled this year's supplemental draft.",
         "source": "espn.com",
         "date": "Tue, 30 Jun 2026 17:22:34 EST",
         "image": ""
       },
       {
-        "title": "Jaguars announce promotions for Shane Waldron, Heath Farwell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-announce-promotions-for-shane-waldron-heath-farwell",
-        "summary": "The Jacksonville Jaguars have promoted Shane Waldron and Heath Farwell within their coaching staff, signaling a shift in team strategy.",
+        "title": "Terrion Arnold released from jail after posting $1 million bond",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-released-from-jail-after-posting-1-million-bond",
+        "summary": "Terrion Arnold was released from jail after posting a $1 million bond, following his arrest last week.",
         "source": "nbcsports.com",
-        "date": "Tue, 30 Jun 2026 15:40:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7ba5859/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F147%2F255%2Fnbc_pft_pftpm_diannarussinibodycam_260630.jpg"
-      },
-      {
-        "title": "Bills will not recognize Simpson at new stadium",
-        "url": "https://www.espn.com/nfl/story/_/id/49200181/bills-not-honor-oj-simpson-wall-fame-new-stadium",
-        "summary": "The Buffalo Bills announced they will not honor O.J. Simpson at their new stadium, reflecting ongoing controversies surrounding the former player.",
-        "source": "espn.com",
-        "date": "Tue, 30 Jun 2026 17:22:34 EST",
-        "image": ""
+        "date": "Tue, 30 Jun 2026 15:40:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5271f95/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F139%2F947%2Fnbc_pft_pftpm_terrionarnoldreleased_260630.jpg"
       }
     ]
   }
