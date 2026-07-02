@@ -1,27 +1,35 @@
 {
-  "updated": "2026-07-02T17:17:34.092Z",
+  "updated": "2026-07-02T18:55:08.448Z",
   "feed": {
     "VR": [
       {
-        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
-        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark has been released for Quest headsets and PC, bringing nostalgia to modern gaming.",
-        "source": "uploadvr.com",
-        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
-      },
-      {
         "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
         "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
-        "summary": "Apple's Vision Pro hardware chief has left the company to join OpenAI, raising questions about future developments in Apple's AR/VR initiatives.",
+        "summary": "Apple’s Vision Pro hardware chief has left the company to join OpenAI, marking a significant shift in leadership for Apple's headset initiatives.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:04:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
       },
       {
+        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
+        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
+        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark has been released for Quest and PC, allowing players to experience the game in virtual reality.",
+        "source": "uploadvr.com",
+        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
+      },
+      {
+        "title": "How ArtQuest VR Became One Of VR's Most Ambitious Virtual Museums",
+        "url": "https://www.uploadvr.com/how-artquest-vr-became-one-of-vrs-most-ambitious-virtual-museums/",
+        "summary": "ArtQuest VR has emerged as one of the most ambitious virtual museums, created by Eric Mosinger to fulfill a personal vision of immersive art experiences.",
+        "source": "uploadvr.com",
+        "date": "Wed, 01 Jul 2026 15:32:24 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ArtQuest-VR.png"
+      },
+      {
         "title": "Official Discord App Finally Comes to Quest After Years of Waiting",
         "url": "https://roadtovr.com/official-discord-meta-quest-app-release/",
-        "summary": "The official Discord app has finally launched on Quest, providing a long-awaited communication platform for VR users.",
+        "summary": "Discord has officially launched its app for Quest, finally fulfilling a long-standing request from users for better communication options in VR.",
         "source": "roadtovr.com",
         "date": "Wed, 01 Jul 2026 14:47:21 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/discord-quest-3.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -29,126 +37,118 @@
       {
         "title": "Quest’s Most Popular Game ‘Gorilla Tag’ is Going Mobile in ‘Monke Mayhem’ Next Year",
         "url": "https://roadtovr.com/gorilla-tag-mobile-game-announce-2027/",
-        "summary": "Quest's popular game Gorilla Tag is set to launch a mobile version titled Monke Mayhem, expanding its reach to iOS and Android.",
+        "summary": "Quest’s most popular game, Gorilla Tag, is set to launch a mobile version titled 'Monke Mayhem' next year, expanding its player base beyond VR.",
         "source": "roadtovr.com",
         "date": "Wed, 01 Jul 2026 12:44:54 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gorilla-tag.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Cyberpunk 2077 is getting the VR mod fans have wanted for years",
-        "url": "https://mixed-news.com/en/cyberpunk-2077-is-getting-the-vr-mod-fans-have-wanted-for-years/",
-        "summary": "Cyberpunk 2077 is receiving a long-anticipated VR mod, enhancing the immersive experience of its vibrant world.",
-        "source": "mixed-news.com",
-        "date": "Tue, 30 Jun 2026 16:00:26 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Cyberpunk-2077.jpg"
-      },
-      {
-        "title": "Meta’s Brain AI Takes a Step Closer to Telepathy With Improved Thought-to-Text Decoding",
-        "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
-        "summary": "Meta's new Brain2Qwerty v2 aims to decode brain activity into text, potentially aiding those with speech impairments.",
+        "title": "Elon Musk’s Brain-chip Startup Aims for Scalability with New Transdural Procedure",
+        "url": "https://roadtovr.com/elon-musk-brain-neuralink-transdural-implant/",
+        "summary": "Neuralink has successfully performed its first transdural brain implant surgery, aiming to enhance the scalability of its brain-computer interface technology.",
         "source": "roadtovr.com",
-        "date": "Tue, 30 Jun 2026 12:22:19 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Wed, 01 Jul 2026 11:25:32 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/neuralink-transdural.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 is set to return online after negotiations with the Trump administration, restoring access to users globally.",
-        "source": "theverge.com",
-        "date": "2026-06-30T20:03:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal will label AI-generated music tracks starting July 15, balancing artist protection with the rise of AI in music.",
-        "source": "theverge.com",
-        "date": "2026-06-29T15:47:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "OpenAI is teasing new hardware… for Codex",
         "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-        "summary": "OpenAI is teasing new hardware related to its AI coding tool Codex, set to be unveiled on July 15.",
+        "summary": "OpenAI is set to unveil new hardware related to its AI-powered coding tool, Codex, on July 15, enhancing user experience with upgraded shortcuts.",
         "source": "theverge.com",
         "date": "2026-06-29T14:52:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
+        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+        "summary": "Tidal will label AI-generated music tracks starting July 15, allowing listeners to identify songs created entirely by artificial intelligence.",
+        "source": "theverge.com",
+        "date": "2026-06-29T15:47:35-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "summary": "Anthropic has received approval to bring its Claude Fable 5 back online after negotiations with the Trump administration, restoring access globally.",
+        "source": "theverge.com",
+        "date": "2026-06-30T20:03:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Lawmakers want to ban AI companies from selling your health data",
         "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-        "summary": "A new proposal aims to ban AI companies from selling Americans' health data, addressing privacy concerns in the tech landscape.",
+        "summary": "A new proposal aims to ban AI companies from selling Americans' health data, addressing privacy concerns related to AI chatbot interactions.",
         "source": "theverge.com",
         "date": "2026-06-29T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+        "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+        "summary": "T-Mobile is transitioning tens of thousands of virtual machines off VMware amid a lawsuit, seeking continued support for its VMware licenses.",
+        "source": "arstechnica.com",
+        "date": "Wed, 01 Jul 2026 21:21:21 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg"
+      },
+      {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM is introducing TikTok-style AI videos to summarize research, enhancing user engagement with content.",
+        "summary": "Google's NotebookLM is introducing TikTok-style AI videos to summarize research notes, enhancing the way users can digest information.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI is considering offering the U.S. government a 5 percent stake in the company to mitigate public backlash against AI.",
-        "source": "theverge.com",
-        "date": "2026-07-02T06:23:27-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "6-foot-9, 268-pound Aussie Ben Te Kura quits rugby to pursue NFL career",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/6-foot-9-268-pound-aussie-ben-te-kura-quits-rugby-to-pursue-nfl-career",
-        "summary": "Ben Te Kura, the tallest player in Australia's rugby league history, is leaving the sport to pursue a career in the NFL.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 07:19:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1592c6b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F261%2F19%2FCampbellPFT7-1.jpg"
+        "title": "Report: Chiefs' Kelce, Swift to marry at MSG Fri.",
+        "url": "https://www.espn.com/nfl/story/_/id/49241315/taylor-swift-travis-kelce-wedding-madison-square-garden-official-confirms",
+        "summary": "Travis Kelce and Taylor Swift are reportedly set to marry at Madison Square Garden, generating excitement around their high-profile relationship.",
+        "source": "espn.com",
+        "date": "Thu, 2 Jul 2026 14:08:20 EST",
+        "image": ""
       },
       {
-        "title": "Matt Miller's serious car accident has sparked scrutiny over his business dealings",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-millers-serious-car-accident-has-sparked-scrutiny-over-his-business-dealings",
-        "summary": "ESPN draft analyst Matt Miller was seriously injured in a car accident, leading to significant public support and a GoFundMe campaign.",
-        "source": "nbcsports.com",
-        "date": "Wed, 01 Jul 2026 20:32:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/963a4ff/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F265%2F422%2Fnbc_pft_mikepennel_260701.jpg"
+        "title": "Calais Cambell's mother dead, brother charged",
+        "url": "https://www.espn.com/nfl/story/_/id/49236930/calais-campbell-mother-found-dead-brother-charged-murder",
+        "summary": "Ravens defensive lineman Calais Campbell's brother has been charged with murder following the death of their mother during a welfare check.",
+        "source": "espn.com",
+        "date": "Thu, 2 Jul 2026 14:08:20 EST",
+        "image": ""
       },
       {
-        "title": "Jury convicts Blaise Taylor of murdering his pregnant girlfriend",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jury-convicts-blaise-taylor-of-murdering-his-pregnant-girlfriend",
-        "summary": "Former Titans scout Blaise Taylor has been convicted of murdering his pregnant girlfriend, leading to a significant legal outcome.",
-        "source": "nbcsports.com",
-        "date": "Wed, 01 Jul 2026 16:46:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5271f95/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F139%2F947%2Fnbc_pft_pftpm_terrionarnoldreleased_260630.jpg"
+        "title": "Former Titans scout Taylor found guilty of murder",
+        "url": "https://www.espn.com/nfl/story/_/id/49241520/ex-titans-scout-arkansas-state-db-taylor-found-guilty-murder",
+        "summary": "Former Titans scout Blaise Taylor has been found guilty of murdering his girlfriend and her unborn child in a Nashville courtroom.",
+        "source": "espn.com",
+        "date": "Thu, 2 Jul 2026 14:08:20 EST",
+        "image": ""
       },
       {
-        "title": "NFL Network-Comcast standoff enters its third month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-network-comcast-standoff-enters-its-third-month",
-        "summary": "The ongoing standoff between NFL Network and Comcast continues, affecting viewers' access to NFL content as the season approaches.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 04:51:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/963a4ff/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F265%2F422%2Fnbc_pft_mikepennel_260701.jpg"
+        "title": "Judge Doty, who ruled on many NFL cases, dies",
+        "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
+        "summary": "David Doty, the influential U.S. District Judge who shaped NFL labor relations, has passed away at the age of 96.",
+        "source": "espn.com",
+        "date": "Thu, 2 Jul 2026 14:08:20 EST",
+        "image": ""
       },
       {
-        "title": "CB Riley Moss on future with Broncos: Trust myself, rest will take care of itself",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-riley-moss-on-future-with-broncos-trust-myself-rest-will-take-care-of-itself",
-        "summary": "Broncos cornerback Riley Moss expresses confidence in his future role within the team's defensive lineup.",
+        "title": "Netflix will have a consistent studio presence for all five 2026 NFL games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-will-have-a-consistent-studio-presence-for-all-five-2026-nfl-games",
+        "summary": "Netflix plans to enhance its NFL offerings with a consistent studio presence for all five of its NFL games in 2026.",
         "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 12:42:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
+        "date": "Thu, 02 Jul 2026 13:52:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a215bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F23%2Fnbc_pft_netflixgames_260514.jpg"
       },
       {
-        "title": "Terrion Arnold's lawyer informs court he has been contacted by three teams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnolds-lawyer-informs-court-he-has-been-contacted-by-three-teams",
-        "summary": "Terrion Arnold's lawyer reports that three NFL teams have contacted him, indicating potential movement in the player's career.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 10:12:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5271f95/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F139%2F947%2Fnbc_pft_pftpm_terrionarnoldreleased_260630.jpg"
+        "title": "Lions release Arnold after CB's bond set at $1M",
+        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
+        "summary": "The Detroit Lions have released cornerback Terrion Arnold following his arrest on felony charges of armed robbery and kidnapping.",
+        "source": "espn.com",
+        "date": "Thu, 2 Jul 2026 14:08:20 EST",
+        "image": ""
       }
     ]
   }
