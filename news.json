@@ -1,61 +1,61 @@
 {
-  "updated": "2026-07-02T21:33:41.214Z",
+  "updated": "2026-07-02T22:45:19.687Z",
   "feed": {
     "VR": [
       {
-        "title": "Samsung Galaxy Glasses leak shows the smart glasses Meta should worry about",
-        "url": "https://mixed-news.com/en/samsung-galaxy-glasses-leak-shows-the-smart-glasses-meta-should-worry-about/",
-        "summary": "A leak reveals Samsung's Galaxy Glasses Manager app, showcasing features that could challenge Meta's smart glasses.",
-        "source": "mixed-news.com",
-        "date": "Thu, 02 Jul 2026 12:58:02 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Galaxy-Glass.jpg"
-      },
-      {
         "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
         "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
-        "summary": "Apple's Vision Pro hardware chief has left the company to join OpenAI, signaling potential shifts in its AR/VR strategy.",
+        "summary": "Apple's Vision Pro hardware chief has left the company to join OpenAI, signaling potential shifts in the tech landscape.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:04:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
       },
       {
-        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
-        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC VR.",
-        "source": "uploadvr.com",
-        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
-      },
-      {
         "title": "Official Discord App Finally Comes to Quest After Years of Waiting",
         "url": "https://roadtovr.com/official-discord-meta-quest-app-release/",
-        "summary": "After years of anticipation, Discord has launched its official app for Quest, enhancing social interaction in VR.",
+        "summary": "Discord has officially launched its long-awaited app for Quest, enhancing communication options for VR users.",
         "source": "roadtovr.com",
         "date": "Wed, 01 Jul 2026 14:47:21 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/discord-quest-3.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Steam Frame release date looks closer than ever after Valve’s new driver update",
-        "url": "https://mixed-news.com/en/steam-frame-looks-closer-than-ever-after-valves-new-driver-update/",
-        "summary": "Valve's recent driver update suggests the Steam Frame's release is imminent, completing its anticipated hardware lineup.",
-        "source": "mixed-news.com",
-        "date": "Thu, 02 Jul 2026 13:05:48 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Steam-Frame-device.jpg"
+        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
+        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
+        "summary": "A fanmade VR port of the classic Nintendo 64 game Perfect Dark is now available for Quest and PC.",
+        "source": "uploadvr.com",
+        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
       },
       {
         "title": "Quest’s Most Popular Game ‘Gorilla Tag’ is Going Mobile in ‘Monke Mayhem’ Next Year",
         "url": "https://roadtovr.com/gorilla-tag-mobile-game-announce-2027/",
-        "summary": "Quest's popular game 'Gorilla Tag' is set to launch a mobile version titled 'Monke Mayhem' next year.",
+        "summary": "Quest's popular game Gorilla Tag is set to debut a mobile version titled 'Monke Mayhem' next year.",
         "source": "roadtovr.com",
         "date": "Wed, 01 Jul 2026 12:44:54 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gorilla-tag.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
+        "title": "How ArtQuest VR Became One Of VR's Most Ambitious Virtual Museums",
+        "url": "https://www.uploadvr.com/how-artquest-vr-became-one-of-vrs-most-ambitious-virtual-museums/",
+        "summary": "ArtQuest VR, a groundbreaking virtual museum, has emerged as one of the most ambitious projects in the VR space.",
+        "source": "uploadvr.com",
+        "date": "Wed, 01 Jul 2026 15:32:24 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ArtQuest-VR.png"
+      },
+      {
+        "title": "Elon Musk’s Brain-chip Startup Aims for Scalability with New Transdural Procedure",
+        "url": "https://roadtovr.com/elon-musk-brain-neuralink-transdural-implant/",
+        "summary": "Neuralink has successfully performed its first transdural brain implant surgery, aiming to enhance scalability in brain-computer interfaces.",
+        "source": "roadtovr.com",
+        "date": "Wed, 01 Jul 2026 11:25:32 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/neuralink-transdural.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI is considering offering the U.S. government a 5% stake in the company to mitigate AI-related tensions.",
+        "summary": "OpenAI is considering offering the Trump administration a 5% stake in the company to ease tensions and address public backlash.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic has greenlit the return of its AI model Claude Fable 5 after negotiations with the Trump administration.",
+        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM will now create TikTok-style AI videos to summarize research notes for users.",
+        "summary": "Google's NotebookLM now generates TikTok-style video summaries of research notes for its users.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
         "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal will label AI-generated music tracks instead of banning them, starting July 15, to protect artists.",
+        "summary": "Tidal will label AI-generated music but will not outright ban it, starting July 15.",
         "source": "theverge.com",
         "date": "2026-06-29T15:47:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "Lawmakers want to ban AI companies from selling your health data",
         "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-        "summary": "Legislators are proposing a ban on AI companies selling Americans' health data to data brokers.",
+        "summary": "Lawmakers are proposing a ban on AI companies selling Americans' health data, including information shared with chatbots.",
         "source": "theverge.com",
         "date": "2026-06-29T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -105,10 +105,26 @@
       {
         "title": "Rams All-Pro cornerback and punt returner LeRoy Irvin dies at 68",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-all-pro-cornerback-and-punt-returner-leroy-irvin-dies-at-68",
-        "summary": "Former Rams All-Pro cornerback LeRoy Irvin has passed away at the age of 68.",
+        "summary": "LeRoy Irvin, a former All-Pro cornerback for the Rams, has passed away at the age of 68.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 14:50:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
+      },
+      {
+        "title": "Netflix will have a consistent studio presence for all five 2026 NFL games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-will-have-a-consistent-studio-presence-for-all-five-2026-nfl-games",
+        "summary": "Netflix plans to enhance its NFL coverage with a consistent studio presence for all five of its 2026 games.",
+        "source": "nbcsports.com",
+        "date": "Thu, 02 Jul 2026 13:52:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a215bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F23%2Fnbc_pft_netflixgames_260514.jpg"
+      },
+      {
+        "title": "Austin Schlottmann focused on himself as he competes for Titans' center job",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/austin-schlottmann-focused-on-himself-as-he-competes-for-titans-center-job",
+        "summary": "Austin Schlottmann is competing for the Titans' center position after signing a three-year, $7 million deal.",
+        "source": "nbcsports.com",
+        "date": "Thu, 02 Jul 2026 17:17:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cdad191/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_blaisetaylor_260702.jpg"
       },
       {
         "title": "6-foot-9, 268-pound Aussie Ben Te Kura quits rugby to pursue NFL career",
@@ -121,34 +137,18 @@
       {
         "title": "Jury convicts Blaise Taylor of murdering his pregnant girlfriend",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jury-convicts-blaise-taylor-of-murdering-his-pregnant-girlfriend",
-        "summary": "Former Titans scout Blaise Taylor has been convicted of murdering his pregnant girlfriend and their unborn child.",
+        "summary": "Former Titans scout Blaise Taylor has been convicted of murdering his pregnant girlfriend and her unborn child.",
         "source": "nbcsports.com",
         "date": "Wed, 01 Jul 2026 16:46:57 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/cdad191/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_blaisetaylor_260702.jpg"
       },
       {
-        "title": "Terrion Arnold's lawyer informs court he has been contacted by three teams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnolds-lawyer-informs-court-he-has-been-contacted-by-three-teams",
-        "summary": "Terrion Arnold's lawyer reports that three NFL teams have contacted him regarding a potential signing.",
+        "title": "Texans waive DB Ajani Carter, LB Xavier Thomas off of IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-waive-db-ajani-carter-lb-xavier-thomas-off-of-ir",
+        "summary": "The Texans have waived DB Ajani Carter and LB Xavier Thomas from their injured reserve list.",
         "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 10:12:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb0e579/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_tarnold_260702.jpg"
-      },
-      {
-        "title": "NFL Network-Comcast standoff enters its third month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-network-comcast-standoff-enters-its-third-month",
-        "summary": "The ongoing standoff between NFL Network and Comcast continues, affecting viewers ahead of the new season.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 04:51:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/963a4ff/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F265%2F422%2Fnbc_pft_mikepennel_260701.jpg"
-      },
-      {
-        "title": "Netflix will have a consistent studio presence for all five 2026 NFL games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-will-have-a-consistent-studio-presence-for-all-five-2026-nfl-games",
-        "summary": "Netflix plans to enhance its NFL coverage with a consistent studio presence for all five games in 2026.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 13:52:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a215bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F23%2Fnbc_pft_netflixgames_260514.jpg"
+        "date": "Thu, 02 Jul 2026 08:23:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/722d479/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F139%2F947%2Fnbc_pft_pftpm_worldcupshootouts_260630.jpg"
       }
     ]
   }
