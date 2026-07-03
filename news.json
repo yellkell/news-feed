@@ -1,51 +1,51 @@
 {
-  "updated": "2026-07-03T17:16:14.554Z",
+  "updated": "2026-07-03T18:45:03.648Z",
   "feed": {
     "VR": [
       {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's crowdfunding campaign for the MemoMind One smart glasses has surpassed $500,000, featuring dual displays and audio capabilities without a built-in camera.",
+        "summary": "MemoMind's smart glasses, featuring dual displays and microphones, surpassed $500K in crowdfunding just days after their CES 2026 debut.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Samsung Galaxy Glasses leak shows the smart glasses Meta should worry about",
-        "url": "https://mixed-news.com/en/samsung-galaxy-glasses-leak-shows-the-smart-glasses-meta-should-worry-about/",
-        "summary": "A leak reveals Samsung's Galaxy Glasses Manager app, hinting at advanced features that could challenge Meta in the smart glasses market.",
-        "source": "mixed-news.com",
-        "date": "Thu, 02 Jul 2026 12:58:02 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Galaxy-Glass.jpg"
-      },
-      {
         "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
         "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
-        "summary": "Apple's Vision Pro hardware chief has left the company to join OpenAI, signaling potential shifts in Apple's AR/VR strategy.",
+        "summary": "Apple's Vision Pro hardware chief has left the company to join OpenAI, raising questions about future headset developments.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:04:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
       },
       {
-        "title": "Quest’s Most Popular Game ‘Gorilla Tag’ is Going Mobile in ‘Monke Mayhem’ Next Year",
-        "url": "https://roadtovr.com/gorilla-tag-mobile-game-announce-2027/",
-        "summary": "Quest's popular game 'Gorilla Tag' is set to launch a mobile version titled 'Monke Mayhem' next year, expanding its reach to iOS and Android.",
-        "source": "roadtovr.com",
-        "date": "Wed, 01 Jul 2026 12:44:54 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gorilla-tag.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "title": "Samsung Galaxy Glasses leak shows the smart glasses Meta should worry about",
+        "url": "https://mixed-news.com/en/samsung-galaxy-glasses-leak-shows-the-smart-glasses-meta-should-worry-about/",
+        "summary": "Leaked details about Samsung's Galaxy Glasses reveal a competitive new smart eyewear product set to challenge Meta.",
+        "source": "mixed-news.com",
+        "date": "Thu, 02 Jul 2026 12:58:02 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Galaxy-Glass.jpg"
       },
       {
         "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
         "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic 'Perfect Dark' is now available for Quest headsets and PC, offering a nostalgic experience.",
+        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest headsets and PC.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:15:54 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
       },
       {
+        "title": "Quest’s Most Popular Game ‘Gorilla Tag’ is Going Mobile in ‘Monke Mayhem’ Next Year",
+        "url": "https://roadtovr.com/gorilla-tag-mobile-game-announce-2027/",
+        "summary": "Quest's popular game Gorilla Tag is set to launch a mobile version titled 'Monke Mayhem' next year.",
+        "source": "roadtovr.com",
+        "date": "Wed, 01 Jul 2026 12:44:54 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gorilla-tag.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "Meta’s Brain AI Takes a Step Closer to Telepathy With Improved Thought-to-Text Decoding",
         "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
-        "summary": "Meta's Brain2Qwerty v2 AI system aims to enhance thought-to-text decoding, potentially aiding those with speech impairments.",
+        "summary": "Meta's latest brain AI system, Brain2Qwerty v2, aims to enhance thought-to-text decoding for those with speech impairments.",
         "source": "roadtovr.com",
         "date": "Tue, 30 Jun 2026 12:22:19 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg?resize=1920%2C1080&quality=89&ssl=1"
@@ -55,7 +55,7 @@
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic has launched Claude Science, an AI workbench for scientists that consolidates tools and datasets to enhance research capabilities.",
+        "summary": "Anthropic announced Claude Science, an AI workbench for scientists, at the 'AI for Science' event, aiming to streamline research.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,15 +63,23 @@
       {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM introduces a feature that generates TikTok-style video summaries of research notes for subscribers.",
+        "summary": "Google's NotebookLM will now create TikTok-style video summaries of research notes for subscribers, enhancing note-taking efficiency.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+        "summary": "OpenAI proposed giving the Trump administration a 5% stake in the company to mitigate public backlash against AI technologies.",
+        "source": "theverge.com",
+        "date": "2026-07-02T06:23:27-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration, restoring access to users globally.",
+        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +87,68 @@
       {
         "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
         "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal will label AI-generated music tracks but will not outright ban them, aiming to balance artist protection with listener transparency.",
+        "summary": "Tidal announced it will label AI-generated music tracks while not outright banning them, aiming to protect artists.",
         "source": "theverge.com",
         "date": "2026-06-29T15:47:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-        "summary": "Midjourney showcased its medical scanner but provided little evidence of its functionality, raising questions about its potential impact on healthcare.",
-        "source": "theverge.com",
-        "date": "2026-07-03T07:49:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-        "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-        "summary": "T-Mobile is moving thousands of virtual machines off VMware amid an ongoing lawsuit, sparking concerns over Broadcom's support for its licenses.",
+        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+        "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+        "summary": "Microsoft discovered a new backdoor that steals cryptocurrency, spreading via USB and communicating over Tor.",
         "source": "arstechnica.com",
-        "date": "Wed, 01 Jul 2026 21:21:21 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg"
+        "date": "Thu, 18 Jun 2026 23:28:52 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg"
       }
     ],
     "NFL": [
       {
+        "title": "Former Saints LB Keith Mitchell dies at 51",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-saints-lb-keith-mitchell-dies-at-51",
+        "summary": "Former NFL linebacker Keith Mitchell has died at the age of 51, as confirmed by Texas A&M athletics.",
+        "source": "nbcsports.com",
+        "date": "Thu, 02 Jul 2026 18:50:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b06c78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F171%2Fnbc_pft_predictionmrkts_260612.jpg"
+      },
+      {
         "title": "Rams All-Pro cornerback and punt returner LeRoy Irvin dies at 68",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-all-pro-cornerback-and-punt-returner-leroy-irvin-dies-at-68",
-        "summary": "Former Rams All-Pro cornerback LeRoy Irvin has passed away at the age of 68, leaving a legacy in the NFL.",
+        "summary": "Rams All-Pro cornerback LeRoy Irvin has passed away at 68, remembered for his dual All-Pro status in the 1980s.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 14:50:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
       },
       {
-        "title": "6-foot-9, 268-pound Aussie Ben Te Kura quits rugby to pursue NFL career",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/6-foot-9-268-pound-aussie-ben-te-kura-quits-rugby-to-pursue-nfl-career",
-        "summary": "Ben Te Kura, the tallest player in Australia's rugby history, has quit the sport to pursue a career in the NFL.",
+        "title": "As expected, the Travis Kelce-Taylor Swift wedding is happening today",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-expected-the-travis-kelce-taylor-swift-wedding-is-happening-today",
+        "summary": "Travis Kelce and Taylor Swift's wedding is reportedly happening today, coinciding with the Fourth of July weekend.",
         "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 07:19:32 -0400",
+        "date": "Fri, 03 Jul 2026 13:46:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
-      },
-      {
-        "title": "Texans waive DB Ajani Carter, LB Xavier Thomas off of IR",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-waive-db-ajani-carter-lb-xavier-thomas-off-of-ir",
-        "summary": "The Texans have waived DB Ajani Carter and LB Xavier Thomas from injured reserve, making roster adjustments ahead of the season.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 08:23:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/722d479/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F139%2F947%2Fnbc_pft_pftpm_worldcupshootouts_260630.jpg"
       },
       {
         "title": "Netflix will have a consistent studio presence for all five 2026 NFL games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-will-have-a-consistent-studio-presence-for-all-five-2026-nfl-games",
-        "summary": "Netflix plans to establish a consistent studio presence for all five of its NFL games in 2026, aiming to enhance viewer experience.",
+        "summary": "Netflix is set to enhance its NFL presence with a consistent studio for all five games in 2026.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 13:52:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a215bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F23%2Fnbc_pft_netflixgames_260514.jpg"
       },
       {
-        "title": "Missouri attorney general launches investigation of ESPN's Matt Miller",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-attorney-general-launches-investigation-of-espns-matt-miller",
-        "summary": "The Missouri Attorney General's Office has launched an investigation into ESPN draft analyst Matt Miller amid scrutiny over his business dealings.",
+        "title": "The Matt Miller GoFundMe campaign has been \"paused\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-matt-miller-gofundme-campaign-has-been-paused",
+        "summary": "The GoFundMe campaign for ESPN draft analyst Matt Miller has been paused amid an investigation into his business dealings.",
         "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 16:35:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea1cc65/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F381%2F639%2Fnbc_pftpm_jjonescbs_260702.jpg"
+        "date": "Fri, 03 Jul 2026 08:23:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b59b38f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F254%2F687%2FRussini7-1.jpg"
       },
       {
-        "title": "Johnny Manziel deletes over-the-top social media attack on Cleveland radio host",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/johnny-manziel-deletes-over-the-top-social-media-attack-on-cleveland-radio-host",
-        "summary": "Johnny Manziel has deleted a controversial social media post attacking a Cleveland radio host, marking a rare moment of restraint.",
+        "title": "Austin Schlottmann focused on himself as he competes for Titans' center job",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/austin-schlottmann-focused-on-himself-as-he-competes-for-titans-center-job",
+        "summary": "Austin Schlottmann is competing for the Titans' center position after signing a three-year, $7 million contract.",
         "source": "nbcsports.com",
-        "date": "Fri, 03 Jul 2026 09:43:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
+        "date": "Thu, 02 Jul 2026 17:17:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cdad191/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_blaisetaylor_260702.jpg"
       }
     ]
   }
