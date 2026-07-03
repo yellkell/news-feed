@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-03T11:54:48.030Z",
+  "updated": "2026-07-03T13:47:21.093Z",
   "feed": {
     "VR": [
       {
-        "title": "Official Discord App Finally Comes to Quest After Years of Waiting",
-        "url": "https://roadtovr.com/official-discord-meta-quest-app-release/",
-        "summary": "Discord has officially launched its app for Meta Quest, allowing users to stream and chat, though it faces technical issues at launch.",
-        "source": "roadtovr.com",
-        "date": "Wed, 01 Jul 2026 14:47:21 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/discord-quest-3.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
         "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark has been released for Quest headsets and PC.",
+        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest headsets and PC, offering a nostalgic experience for gamers.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:15:54 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
       },
       {
+        "title": "Official Discord App Finally Comes to Quest After Years of Waiting",
+        "url": "https://roadtovr.com/official-discord-meta-quest-app-release/",
+        "summary": "After years of anticipation, Discord has officially launched its app for Meta Quest, enabling users to communicate and stream directly from their VR headsets.",
+        "source": "roadtovr.com",
+        "date": "Wed, 01 Jul 2026 14:47:21 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/discord-quest-3.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
         "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
-        "summary": "Contractors Showdown: ExfilZone has introduced a mid-season update featuring new DLC content and mission lines.",
+        "summary": "Contractors Showdown: ExfilZone has released a mid-season update featuring new DLC content and mission lines, enhancing the gameplay experience for players.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:56:14 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
@@ -29,57 +29,41 @@
       {
         "title": "Quest’s Most Popular Game ‘Gorilla Tag’ is Going Mobile in ‘Monke Mayhem’ Next Year",
         "url": "https://roadtovr.com/gorilla-tag-mobile-game-announce-2027/",
-        "summary": "Gorilla Tag, Quest's most popular game, is set to launch a mobile version titled 'Monke Mayhem' next year.",
+        "summary": "Gorilla Tag, Quest’s most popular game, is set to launch a mobile version titled 'Monke Mayhem' next year, expanding its player base.",
         "source": "roadtovr.com",
         "date": "Wed, 01 Jul 2026 12:44:54 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gorilla-tag.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Legendary Tales Adds Sandbox Mode & Friendly Fire In New Update",
-        "url": "https://www.uploadvr.com/legendary-tales-adds-sandbox-mode-and-friendly-fire/",
-        "summary": "Legendary Tales has added a sandbox mode and friendly fire in its latest update, enhancing the co-op VR experience.",
-        "source": "uploadvr.com",
-        "date": "Thu, 02 Jul 2026 11:49:52 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/legendary-tales-sandbox.png"
-      },
-      {
         "title": "Samsung Galaxy Glasses leak shows the smart glasses Meta should worry about",
         "url": "https://mixed-news.com/en/samsung-galaxy-glasses-leak-shows-the-smart-glasses-meta-should-worry-about/",
-        "summary": "Leaked details of Samsung's Galaxy Glasses suggest a competitive edge against Meta's offerings in the smart glasses market.",
+        "summary": "Leaks reveal Samsung's Galaxy Glasses Manager app, hinting at innovative features that could challenge Meta's dominance in the smart glasses market.",
         "source": "mixed-news.com",
         "date": "Thu, 02 Jul 2026 12:58:02 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Galaxy-Glass.jpg"
+      },
+      {
+        "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
+        "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
+        "summary": "Apple’s Vision Pro hardware chief has left the company to join OpenAI, raising questions about the future of Apple's AR/VR initiatives.",
+        "source": "uploadvr.com",
+        "date": "Wed, 01 Jul 2026 08:04:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
       }
     ],
     "AI": [
       {
-        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI is considering offering the Trump administration a 5% stake in the company to ease tensions amid growing public backlash against AI.",
-        "source": "theverge.com",
-        "date": "2026-07-02T06:23:27-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM is rolling out a feature that generates TikTok-style AI videos to summarize research notes for users.",
+        "summary": "Google's NotebookLM is introducing TikTok-style AI videos to summarize research notes, enhancing how users engage with their information.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-        "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-        "summary": "Netflix will feature an AI-generated voice of Gene Wilder in its upcoming reality show based on Willy Wonka.",
-        "source": "theverge.com",
-        "date": "2026-06-30T13:19:15-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration.",
+        "summary": "Anthropic has greenlit the return of its Claude Fable 5 AI after negotiations with the Trump administration, restoring access to users globally.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,68 +71,84 @@
       {
         "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
         "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal will label AI-generated music tracks starting July 15, aiming to inform listeners while protecting artists.",
+        "summary": "Tidal will label AI-generated music tracks to inform listeners while not outright banning them, aiming to balance artist protection and innovation.",
         "source": "theverge.com",
         "date": "2026-06-29T15:47:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+        "summary": "OpenAI is considering offering the U.S. government a 5 percent stake in its company to ease tensions and address public concerns about AI.",
+        "source": "theverge.com",
+        "date": "2026-07-02T06:23:27-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Newly discovered PamStealer isn't your typical macOS malware",
         "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-        "summary": "A newly discovered macOS malware named PamStealer highlights the increasing threat posed to Mac users.",
+        "summary": "A newly discovered macOS malware, PamStealer, highlights the increasing sophistication of threats targeting Apple users.",
         "source": "arstechnica.com",
         "date": "Thu, 02 Jul 2026 19:38:57 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg"
+      },
+      {
+        "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+        "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+        "summary": "Google's smart speaker Gemini struggles to find its purpose beyond basic tasks, despite advancements in AI technology.",
+        "source": "theverge.com",
+        "date": "2026-07-01T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Former Saints LB Keith Mitchell dies at 51",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-saints-lb-keith-mitchell-dies-at-51",
-        "summary": "Former NFL linebacker Keith Mitchell has passed away at the age of 51, as confirmed by Texas A&M athletics.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 18:50:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b06c78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F171%2Fnbc_pft_predictionmrkts_260612.jpg"
+        "title": "Report: Chiefs' Kelce, Swift to marry at MSG Fri.",
+        "url": "https://www.espn.com/nfl/story/_/id/49241315/taylor-swift-travis-kelce-wedding-madison-square-garden-official-confirms",
+        "summary": "Travis Kelce and Taylor Swift are reportedly set to marry at Madison Square Garden, creating a buzz around their high-profile relationship.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 07:21:00 EST",
+        "image": ""
       },
       {
-        "title": "Rams All-Pro cornerback and punt returner LeRoy Irvin dies at 68",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-all-pro-cornerback-and-punt-returner-leroy-irvin-dies-at-68",
-        "summary": "LeRoy Irvin, a former All-Pro cornerback and punt returner for the Rams, has died at 68.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 14:50:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
+        "title": "Judge Doty, who ruled on many NFL cases, dies",
+        "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
+        "summary": "David Doty, the influential U.S. District Judge known for pivotal NFL labor rulings, has passed away at the age of 96.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 07:21:00 EST",
+        "image": ""
       },
       {
-        "title": "6-foot-9, 268-pound Aussie Ben Te Kura quits rugby to pursue NFL career",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/6-foot-9-268-pound-aussie-ben-te-kura-quits-rugby-to-pursue-nfl-career",
-        "summary": "Ben Te Kura, a 6-foot-9 rugby player from Australia, has decided to pursue a career in the NFL.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 07:19:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
+        "title": "Lions release Arnold after CB's bond set at $1M",
+        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
+        "summary": "The Lions have released cornerback Terrion Arnold following his arrest on felony charges of armed robbery and kidnapping.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 07:21:00 EST",
+        "image": ""
       },
       {
-        "title": "Netflix will have a consistent studio presence for all five 2026 NFL games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-will-have-a-consistent-studio-presence-for-all-five-2026-nfl-games",
-        "summary": "Netflix is expanding its NFL presence with a consistent studio setup for all five of its 2026 NFL games.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 13:52:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a215bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F23%2Fnbc_pft_netflixgames_260514.jpg"
+        "title": "Sorsby won't sue NFL, will prepare for '27 draft",
+        "url": "https://www.espn.com/nfl/story/_/id/49229498/brendan-sorsby-sue-nfl-now-prepare-2027-draft",
+        "summary": "Brendan Sorsby will not pursue litigation against the NFL after the league's decision not to hold a supplemental draft this year.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 07:21:00 EST",
+        "image": ""
       },
       {
-        "title": "Austin Schlottmann focused on himself as he competes for Titans' center job",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/austin-schlottmann-focused-on-himself-as-he-competes-for-titans-center-job",
-        "summary": "Austin Schlottmann is focused on securing the center position with the Titans after signing a three-year deal.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 17:17:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cdad191/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_blaisetaylor_260702.jpg"
+        "title": "Former Titans scout Taylor found guilty of murder",
+        "url": "https://www.espn.com/nfl/story/_/id/49241520/ex-titans-scout-arkansas-state-db-taylor-found-guilty-murder",
+        "summary": "Former Titans scout Blaise Taylor has been found guilty of murdering his girlfriend and her unborn child in a Nashville courtroom.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 07:21:00 EST",
+        "image": ""
       },
       {
-        "title": "NFL Network-Comcast standoff enters its third month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-network-comcast-standoff-enters-its-third-month",
-        "summary": "The ongoing standoff between NFL Network and Comcast continues, affecting viewers' access to NFL content.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 04:51:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/963a4ff/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F265%2F422%2Fnbc_pft_mikepennel_260701.jpg"
+        "title": "Chris Johnson aims to revive Ice Bucket Challenge",
+        "url": "https://www.espn.com/nfl/story/_/id/49244639/chris-johnson-seeking-revival-ice-bucket-challenge-amid-als-diagnosis",
+        "summary": "Chris Johnson is advocating for a revival of the Ice Bucket Challenge to raise awareness for ALS as he battles the disease.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 07:21:00 EST",
+        "image": ""
       }
     ]
   }
