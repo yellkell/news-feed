@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-03T18:45:03.648Z",
+  "updated": "2026-07-03T20:03:59.531Z",
   "feed": {
     "VR": [
       {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's smart glasses, featuring dual displays and microphones, surpassed $500K in crowdfunding just days after their CES 2026 debut.",
+        "summary": "MemoMind's smart glasses, the MemoMind One, have surpassed $500K in crowdfunding, featuring dual displays and open ear speakers, but lacking a built-in camera.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
         "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
-        "summary": "Apple's Vision Pro hardware chief has left the company to join OpenAI, raising questions about future headset developments.",
+        "summary": "Apple's Vision Pro hardware chief has departed to join OpenAI, raising questions about the future of Apple's headset development.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:04:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
@@ -21,7 +21,7 @@
       {
         "title": "Samsung Galaxy Glasses leak shows the smart glasses Meta should worry about",
         "url": "https://mixed-news.com/en/samsung-galaxy-glasses-leak-shows-the-smart-glasses-meta-should-worry-about/",
-        "summary": "Leaked details about Samsung's Galaxy Glasses reveal a competitive new smart eyewear product set to challenge Meta.",
+        "summary": "A leak reveals Samsung's Galaxy Glasses Manager app, hinting at innovative features for their upcoming smart glasses.",
         "source": "mixed-news.com",
         "date": "Thu, 02 Jul 2026 12:58:02 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Galaxy-Glass.jpg"
@@ -29,10 +29,18 @@
       {
         "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
         "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest headsets and PC.",
+        "summary": "A fanmade VR port of the classic Nintendo 64 game Perfect Dark is now available for Quest and PC VR.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:15:54 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
+      },
+      {
+        "title": "Meta’s Brain AI Takes a Step Closer to Telepathy With Improved Thought-to-Text Decoding",
+        "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
+        "summary": "Meta's Brain2Qwerty v2 aims to decode brain activity into text, advancing their brain-computer interface technology.",
+        "source": "roadtovr.com",
+        "date": "Tue, 30 Jun 2026 12:22:19 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Quest’s Most Popular Game ‘Gorilla Tag’ is Going Mobile in ‘Monke Mayhem’ Next Year",
@@ -41,29 +49,29 @@
         "source": "roadtovr.com",
         "date": "Wed, 01 Jul 2026 12:44:54 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gorilla-tag.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Meta’s Brain AI Takes a Step Closer to Telepathy With Improved Thought-to-Text Decoding",
-        "url": "https://roadtovr.com/meta-brain-ai-telepathy-improved-bci/",
-        "summary": "Meta's latest brain AI system, Brain2Qwerty v2, aims to enhance thought-to-text decoding for those with speech impairments.",
-        "source": "roadtovr.com",
-        "date": "Tue, 30 Jun 2026 12:22:19 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic announced Claude Science, an AI workbench for scientists, at the 'AI for Science' event, aiming to streamline research.",
+        "summary": "Anthropic has announced Claude Science, an AI workbench for scientists that integrates tools and datasets to enhance research.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "summary": "After negotiations, Anthropic is set to restore access to Claude Fable 5, resuming service on major cloud platforms.",
+        "source": "theverge.com",
+        "date": "2026-06-30T20:03:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM will now create TikTok-style video summaries of research notes for subscribers, enhancing note-taking efficiency.",
+        "summary": "Google's NotebookLM now generates TikTok-style video summaries of research notes for its AI Ultra and Pro subscribers.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,84 +79,76 @@
       {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI proposed giving the Trump administration a 5% stake in the company to mitigate public backlash against AI technologies.",
+        "summary": "OpenAI proposes giving the US government a 5% stake in its company to ease tensions with the Trump administration.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration.",
+        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+        "summary": "Midjourney has unveiled a behind-the-scenes look at its futuristic medical scanner, though its effectiveness remains unproven.",
         "source": "theverge.com",
-        "date": "2026-06-30T20:03:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-03T07:49:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
         "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal announced it will label AI-generated music tracks while not outright banning them, aiming to protect artists.",
+        "summary": "Tidal will label AI-generated music tracks but will not ban them, aiming to protect artists while informing listeners.",
         "source": "theverge.com",
         "date": "2026-06-29T15:47:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-        "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-        "summary": "Microsoft discovered a new backdoor that steals cryptocurrency, spreading via USB and communicating over Tor.",
-        "source": "arstechnica.com",
-        "date": "Thu, 18 Jun 2026 23:28:52 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Former Saints LB Keith Mitchell dies at 51",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-saints-lb-keith-mitchell-dies-at-51",
-        "summary": "Former NFL linebacker Keith Mitchell has died at the age of 51, as confirmed by Texas A&M athletics.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 18:50:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b06c78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F171%2Fnbc_pft_predictionmrkts_260612.jpg"
+        "title": "Calais Cambell's mother dead, brother charged",
+        "url": "https://www.espn.com/nfl/story/_/id/49236930/calais-campbell-mother-found-dead-brother-charged-murder",
+        "summary": "Ravens defensive lineman Calais Campbell's brother has been charged with murder following the death of their mother.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 14:21:40 EST",
+        "image": ""
       },
       {
-        "title": "Rams All-Pro cornerback and punt returner LeRoy Irvin dies at 68",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-all-pro-cornerback-and-punt-returner-leroy-irvin-dies-at-68",
-        "summary": "Rams All-Pro cornerback LeRoy Irvin has passed away at 68, remembered for his dual All-Pro status in the 1980s.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 14:50:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
+        "title": "Former Titans scout Taylor found guilty of murder",
+        "url": "https://www.espn.com/nfl/story/_/id/49241520/ex-titans-scout-arkansas-state-db-taylor-found-guilty-murder",
+        "summary": "Former Titans scout Blaise Taylor has been found guilty of murdering his girlfriend and her unborn child.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 14:21:40 EST",
+        "image": ""
       },
       {
-        "title": "As expected, the Travis Kelce-Taylor Swift wedding is happening today",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-expected-the-travis-kelce-taylor-swift-wedding-is-happening-today",
-        "summary": "Travis Kelce and Taylor Swift's wedding is reportedly happening today, coinciding with the Fourth of July weekend.",
-        "source": "nbcsports.com",
-        "date": "Fri, 03 Jul 2026 13:46:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
+        "title": "Judge Doty, who ruled on many NFL cases, dies",
+        "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
+        "summary": "David Doty, the influential U.S. District Judge known for pivotal NFL labor rulings, has passed away at age 96.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 14:21:40 EST",
+        "image": ""
       },
       {
-        "title": "Netflix will have a consistent studio presence for all five 2026 NFL games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-will-have-a-consistent-studio-presence-for-all-five-2026-nfl-games",
-        "summary": "Netflix is set to enhance its NFL presence with a consistent studio for all five games in 2026.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 13:52:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a215bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F23%2Fnbc_pft_netflixgames_260514.jpg"
+        "title": "Lions release Arnold after CB's bond set at $1M",
+        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
+        "summary": "The Lions have released cornerback Terrion Arnold after his arrest on felony charges including armed robbery and kidnapping.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 14:21:40 EST",
+        "image": ""
       },
       {
-        "title": "The Matt Miller GoFundMe campaign has been \"paused\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-matt-miller-gofundme-campaign-has-been-paused",
-        "summary": "The GoFundMe campaign for ESPN draft analyst Matt Miller has been paused amid an investigation into his business dealings.",
-        "source": "nbcsports.com",
-        "date": "Fri, 03 Jul 2026 08:23:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b59b38f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F254%2F687%2FRussini7-1.jpg"
+        "title": "Sorsby won't sue NFL, will prepare for '27 draft",
+        "url": "https://www.espn.com/nfl/story/_/id/49229498/brendan-sorsby-sue-nfl-now-prepare-2027-draft",
+        "summary": "Brendan Sorsby will not pursue litigation against the NFL after the league's decision not to hold a supplemental draft.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 14:21:40 EST",
+        "image": ""
       },
       {
-        "title": "Austin Schlottmann focused on himself as he competes for Titans' center job",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/austin-schlottmann-focused-on-himself-as-he-competes-for-titans-center-job",
-        "summary": "Austin Schlottmann is competing for the Titans' center position after signing a three-year, $7 million contract.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 17:17:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cdad191/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_blaisetaylor_260702.jpg"
+        "title": "Report: Chiefs' Kelce, Swift to marry at MSG Fri.",
+        "url": "https://www.espn.com/nfl/story/_/id/49241315/taylor-swift-travis-kelce-wedding-madison-square-garden-official-confirms",
+        "summary": "Travis Kelce and Taylor Swift are set to marry at Madison Square Garden, according to security plans.",
+        "source": "espn.com",
+        "date": "Fri, 3 Jul 2026 14:21:40 EST",
+        "image": ""
       }
     ]
   }
