@@ -1,43 +1,19 @@
 {
-  "updated": "2026-07-04T01:15:34.715Z",
+  "updated": "2026-07-04T05:03:09.432Z",
   "feed": {
     "VR": [
       {
-        "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
-        "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
-        "summary": "VirtualGo's new mixed reality multiplayer system allows remote players to join games via a VR representation of their homes.",
-        "source": "uploadvr.com",
-        "date": "Fri, 03 Jul 2026 17:16:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
-      },
-      {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's crowdfunding campaign for its smart glasses, featuring dual displays and microphones, surpassed $500,000 within a week.",
+        "summary": "MemoMind's smart glasses crowdfunding campaign surpasses $500K, featuring dual displays and open ear speakers, aiming to revolutionize augmented reality experiences.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Darts VR2: Bullseye Rolls Out New Experience System",
-        "url": "https://www.uploadvr.com/darts-vr2-bullseye-rolls-out-new-experience-system/",
-        "summary": "Darts VR2: Bullseye has introduced a new experience system with skill achievements and unlockable rewards based on player feedback.",
-        "source": "uploadvr.com",
-        "date": "Thu, 02 Jul 2026 17:56:23 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Darts-VR2-Bullseye-keyart-small--1-.jpg"
-      },
-      {
-        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
-        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
-        "summary": "Contractors Showdown: ExfilZone has released a mid-season update with new DLC content and mission lines.",
-        "source": "uploadvr.com",
-        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
-      },
-      {
         "title": "Quest’s Most Popular Game ‘Gorilla Tag’ is Going Mobile in ‘Monke Mayhem’ Next Year",
         "url": "https://roadtovr.com/gorilla-tag-mobile-game-announce-2027/",
-        "summary": "Quest’s popular game 'Gorilla Tag' is set to launch a mobile version titled 'Monke Mayhem' next year.",
+        "summary": "Quest's popular game 'Gorilla Tag' will launch a mobile version titled 'Monke Mayhem' next year, expanding its reach to iOS and Android.",
         "source": "roadtovr.com",
         "date": "Wed, 01 Jul 2026 12:44:54 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gorilla-tag.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -45,49 +21,65 @@
       {
         "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
         "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
-        "summary": "Apple's Vision Pro hardware chief has left the company to join OpenAI, raising questions about future headset developments.",
+        "summary": "Apple's Vision Pro hardware chief has departed to join OpenAI, raising questions about the future of Apple's AR/VR development.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:04:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
+      },
+      {
+        "title": "Darts VR2: Bullseye Rolls Out New Experience System",
+        "url": "https://www.uploadvr.com/darts-vr2-bullseye-rolls-out-new-experience-system/",
+        "summary": "Darts VR2: Bullseye introduces a new experience system with skill achievements and unlockable content based on player feedback.",
+        "source": "uploadvr.com",
+        "date": "Thu, 02 Jul 2026 17:56:23 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Darts-VR2-Bullseye-keyart-small--1-.jpg"
+      },
+      {
+        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
+        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
+        "summary": "Contractors Showdown: ExfilZone releases a mid-season update featuring new DLC and mission lines to enhance gameplay.",
+        "source": "uploadvr.com",
+        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
+      },
+      {
+        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
+        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
+        "summary": "A fanmade VR port of the classic Nintendo 64 game Perfect Dark is now available for Quest headsets and PC.",
+        "source": "uploadvr.com",
+        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic has announced Claude Science, an AI workbench for scientists aimed at streamlining research tools and datasets.",
+        "summary": "Anthropic unveils Claude Science, an AI workbench designed to streamline scientific research by integrating fragmented tools and datasets.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI proposed giving the Trump administration a 5 percent stake in its company to ease tensions and public backlash.",
-        "source": "theverge.com",
-        "date": "2026-07-02T06:23:27-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM will now generate TikTok-style video summaries of research notes for AI Ultra and Pro subscribers.",
+        "summary": "Google's NotebookLM now generates TikTok-style video summaries of research notes, enhancing user engagement with academic content.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-        "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-        "summary": "Netflix's upcoming reality show 'Wonka's The Golden Ticket' features an AI-generated voice of Gene Wilder.",
+        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+        "summary": "OpenAI proposes a 5% ownership stake for the US government to ease tensions with the Trump administration amid growing AI scrutiny.",
         "source": "theverge.com",
-        "date": "2026-06-30T13:19:15-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-02T06:23:27-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
         "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal will label AI-generated music tracks starting July 15, aiming to protect artists while not banning the content.",
+        "summary": "Tidal announces it will label AI-generated music tracks but will not ban them outright, aiming to balance artist protection and innovation.",
         "source": "theverge.com",
         "date": "2026-06-29T15:47:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,10 +87,18 @@
       {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration.",
+        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration, restoring access globally.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+        "summary": "Midjourney reveals a behind-the-scenes look at its medical scanner, sparking curiosity despite a lack of proof of its effectiveness.",
+        "source": "theverge.com",
+        "date": "2026-07-03T07:49:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
@@ -113,7 +113,7 @@
       {
         "title": "Rams All-Pro cornerback and punt returner LeRoy Irvin dies at 68",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-all-pro-cornerback-and-punt-returner-leroy-irvin-dies-at-68",
-        "summary": "Rams All-Pro cornerback LeRoy Irvin has died at 68, remembered for his exceptional dual-role performance in the 1980s.",
+        "summary": "LeRoy Irvin, a Rams All-Pro cornerback and punt returner, has died at 68, leaving a legacy in NFL history.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 14:50:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
@@ -121,7 +121,7 @@
       {
         "title": "Netflix will have a consistent studio presence for all five 2026 NFL games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-will-have-a-consistent-studio-presence-for-all-five-2026-nfl-games",
-        "summary": "Netflix will have a consistent studio presence for all five NFL games it plans to stream in 2026.",
+        "summary": "Netflix plans a consistent studio presence for all five of its NFL games in 2026, aiming to enhance its football coverage.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 13:52:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a215bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F23%2Fnbc_pft_netflixgames_260514.jpg"
@@ -129,23 +129,23 @@
       {
         "title": "Austin Schlottmann focused on himself as he competes for Titans' center job",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/austin-schlottmann-focused-on-himself-as-he-competes-for-titans-center-job",
-        "summary": "Austin Schlottmann is competing for the Titans' center position after signing a three-year, $7 million deal.",
+        "summary": "Austin Schlottmann is competing for the Titans' center job after signing a three-year, $7 million deal in the offseason.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 17:17:05 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/cdad191/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_blaisetaylor_260702.jpg"
       },
       {
-        "title": "Scot McCloughan dubs Ty Simpson a \"career backup\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/scot-mccloughan-dubs-ty-simpson-a-career-backup",
-        "summary": "Former G.M. Scot McCloughan labeled Ty Simpson as a 'career backup,' comparing him to other quarterbacks.",
+        "title": "U.S. win in Round of 32 draws 33.5 million total viewers, on average",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u-s-win-in-round-of-32-draws-33-5-million-total-viewers-on-average",
+        "summary": "The U.S. soccer team's Round of 32 victory drew an average of 33.5 million viewers, indicating rising interest in sports viewership.",
         "source": "nbcsports.com",
-        "date": "Fri, 03 Jul 2026 19:10:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fa66be1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F261%2F19%2Fnbc_pft_treymcbride_260701.jpg"
+        "date": "Thu, 02 Jul 2026 19:43:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
       },
       {
         "title": "Missouri attorney general launches investigation of ESPN's Matt Miller",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-attorney-general-launches-investigation-of-espns-matt-miller",
-        "summary": "Missouri's attorney general has launched an investigation into ESPN draft analyst Matt Miller following serious allegations.",
+        "summary": "Missouri's attorney general has launched an investigation into ESPN analyst Matt Miller following concerns about his business dealings.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 16:35:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea1cc65/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F381%2F639%2Fnbc_pftpm_jjonescbs_260702.jpg"
