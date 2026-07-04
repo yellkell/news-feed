@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-04T16:56:09.692Z",
+  "updated": "2026-07-04T17:59:01.432Z",
   "feed": {
     "VR": [
       {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's crowdfunding campaign for its smart glasses surpassed $500K, featuring dual displays and open ear speakers, but no built-in camera.",
+        "summary": "MemoMind's smart glasses campaign surpasses $500K, featuring dual displays and open ear speakers, aiming to innovate in the wearable tech space.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,15 +13,31 @@
       {
         "title": "Quest’s Most Popular Game ‘Gorilla Tag’ is Going Mobile in ‘Monke Mayhem’ Next Year",
         "url": "https://roadtovr.com/gorilla-tag-mobile-game-announce-2027/",
-        "summary": "Quest’s popular game 'Gorilla Tag' is set to launch a mobile version titled 'Monke Mayhem' next year.",
+        "summary": "Quest's popular game 'Gorilla Tag' is set to launch a mobile version titled 'Monke Mayhem' next year, expanding its player base.",
         "source": "roadtovr.com",
         "date": "Wed, 01 Jul 2026 12:44:54 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gorilla-tag.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
+        "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
+        "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
+        "summary": "Apple's Vision Pro hardware chief has left the company to join OpenAI, raising questions about future developments in Apple's VR and AR initiatives.",
+        "source": "uploadvr.com",
+        "date": "Wed, 01 Jul 2026 08:04:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
+      },
+      {
+        "title": "Official Discord App Finally Comes to Quest After Years of Waiting",
+        "url": "https://roadtovr.com/official-discord-meta-quest-app-release/",
+        "summary": "Discord has officially launched its app on Quest, allowing users to stream and communicate, though initial reviews highlight technical issues.",
+        "source": "roadtovr.com",
+        "date": "Wed, 01 Jul 2026 14:47:21 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/discord-quest-3.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
         "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
-        "summary": "Contractors Showdown: ExfilZone has released a mid-season update, introducing new DLC content and mission lines.",
+        "summary": "Contractors Showdown: ExfilZone has released a mid-season update, introducing new DLC and mission lines to enhance gameplay.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:56:14 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
@@ -29,73 +45,57 @@
       {
         "title": "Darts VR2: Bullseye Rolls Out New Experience System",
         "url": "https://www.uploadvr.com/darts-vr2-bullseye-rolls-out-new-experience-system/",
-        "summary": "Darts VR2: Bullseye has implemented a new experience system, adding skill achievements and unlockable content.",
+        "summary": "Darts VR2: Bullseye has rolled out a new experience system, rewarding players with skill achievements and unlockable content.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:56:23 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Darts-VR2-Bullseye-keyart-small--1-.jpg"
-      },
-      {
-        "title": "Hands-On: The Castle Turns STEM Education Into A VR Puzzle Experience",
-        "url": "https://www.uploadvr.com/hands-on-the-castle-turns-stem-education-into-a-vr-puzzle-experience/",
-        "summary": "The Castle, a VR experience, combines STEM education with escape-style puzzles, showcased at AWE.",
-        "source": "uploadvr.com",
-        "date": "Fri, 03 Jul 2026 17:05:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ChameleonStudios-TheCastle--1-.png"
-      },
-      {
-        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
-        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic 'Perfect Dark' is now available for Quest and PC.",
-        "source": "uploadvr.com",
-        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic announced Claude Science, an AI workbench aimed at streamlining scientific research and data visualization.",
+        "summary": "Anthropic has unveiled Claude Science, an AI workbench aimed at streamlining scientific research by integrating various tools and datasets.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-        "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM is introducing TikTok-style video summaries for research notes, enhancing user engagement.",
-        "source": "theverge.com",
-        "date": "2026-06-30T15:24:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI proposed a 5 percent stake in the company for the US government to ease tensions with the Trump administration.",
+        "summary": "OpenAI proposes giving the US government a 5% stake in its company to mitigate backlash and foster collaboration with the Trump administration.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-        "summary": "Midjourney revealed a behind-the-scenes look at its medical scanner, though questions remain about its effectiveness.",
+        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+        "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+        "summary": "Google's NotebookLM now generates TikTok-style video summaries of research notes, enhancing user engagement and information retention.",
         "source": "theverge.com",
-        "date": "2026-07-03T07:49:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-30T15:24:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration.",
+        "summary": "Anthropic's Claude Fable 5 is set to return online after negotiations with the Trump administration, restoring access for global users.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+        "summary": "Midjourney has showcased its advanced medical scanner, although skepticism remains regarding its functionality and real-world applications.",
+        "source": "theverge.com",
+        "date": "2026-07-03T07:49:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
         "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-        "summary": "Netflix confirmed the use of an AI-generated Gene Wilder voice in its upcoming reality show based on 'Willy Wonka'.",
+        "summary": "Netflix's upcoming reality show features an AI-generated voice of Gene Wilder, blending technology with entertainment in a unique way.",
         "source": "theverge.com",
         "date": "2026-06-30T13:19:15-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -105,7 +105,7 @@
       {
         "title": "Former Saints LB Keith Mitchell dies at 51",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-saints-lb-keith-mitchell-dies-at-51",
-        "summary": "Former NFL linebacker Keith Mitchell has passed away at the age of 51, as announced by Texas A&M athletics.",
+        "summary": "Former NFL linebacker Keith Mitchell has passed away at the age of 51, as confirmed by Texas A&M athletics.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 18:50:34 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b06c78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F171%2Fnbc_pft_predictionmrkts_260612.jpg"
@@ -113,42 +113,42 @@
       {
         "title": "Aaron Donald fuels speculation he'll return to the Rams",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-fuels-speculation-hell-return-to-the-rams",
-        "summary": "Aaron Donald sparked speculation about his return to the Rams with a cryptic social media comment.",
+        "summary": "Aaron Donald's cryptic social media comment has sparked speculation about his potential return to the Rams for the upcoming season.",
         "source": "nbcsports.com",
         "date": "Sat, 04 Jul 2026 09:30:52 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1e475b0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F477%2F563%2Fnbc_pft_aarondonaldreturn_260603.jpg"
       },
       {
+        "title": "Brandon Aiyuk posts another video saying he'll \"be a Commander soon\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-aiyuk-posts-another-video-saying-hell-be-a-commander-soon",
+        "summary": "Brandon Aiyuk hints at a possible signing with the Commanders in a recent video, fueling trade rumors.",
+        "source": "nbcsports.com",
+        "date": "Thu, 02 Jul 2026 16:48:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4069d89/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F41%2F299%2Fnbc_pft_brandonaiyukagent_260629.jpg"
+      },
+      {
         "title": "Acrisure Stadium has gotten its new grass surface",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/acrisure-stadium-has-gotten-its-new-grass-surface",
-        "summary": "Acrisure Stadium has completed the installation of a new grass surface ahead of the upcoming season.",
+        "summary": "Acrisure Stadium has unveiled its new grass surface, enhancing the playing conditions for the upcoming NFL season.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 20:39:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/143a84a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_grassvturf_260623.jpg"
       },
       {
-        "title": "Trey McBride: I don't know about Week 1, but Carson Beck has a chance to be a guy",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trey-mcbride-i-dont-know-about-week-1-but-carson-beck-has-a-chance-to-be-a-guy",
-        "summary": "Cardinals tight end Trey McBride expressed optimism about Carson Beck's potential as the team's quarterback.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 15:54:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fa66be1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F261%2F19%2Fnbc_pft_treymcbride_260701.jpg"
-      },
-      {
         "title": "The Matt Miller GoFundMe campaign has been \"paused\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-matt-miller-gofundme-campaign-has-been-paused",
-        "summary": "ESPN draft analyst Matt Miller's GoFundMe campaign has been paused amid an investigation into his business dealings.",
+        "summary": "The GoFundMe campaign for ESPN draft analyst Matt Miller has been paused amid scrutiny regarding his business dealings.",
         "source": "nbcsports.com",
         "date": "Fri, 03 Jul 2026 08:23:48 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b59b38f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F254%2F687%2FRussini7-1.jpg"
       },
       {
-        "title": "Rams All-Pro cornerback and punt returner LeRoy Irvin dies at 68",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-all-pro-cornerback-and-punt-returner-leroy-irvin-dies-at-68",
-        "summary": "LeRoy Irvin, a first-team All-Pro cornerback and punt returner for the Rams, has died at 68.",
+        "title": "Missouri attorney general launches investigation of ESPN's Matt Miller",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-attorney-general-launches-investigation-of-espns-matt-miller",
+        "summary": "The Missouri attorney general has launched an investigation into ESPN's Matt Miller following a serious car accident.",
         "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 14:50:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
+        "date": "Thu, 02 Jul 2026 16:35:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea1cc65/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F381%2F639%2Fnbc_pftpm_jjonescbs_260702.jpg"
       }
     ]
   }
