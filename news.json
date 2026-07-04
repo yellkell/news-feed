@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-04T05:03:09.432Z",
+  "updated": "2026-07-04T08:03:41.188Z",
   "feed": {
     "VR": [
       {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's smart glasses crowdfunding campaign surpasses $500K, featuring dual displays and open ear speakers, aiming to revolutionize augmented reality experiences.",
+        "summary": "MemoMind's crowdfunding campaign for its smart glasses surpassed $500K, featuring dual displays and open ear speakers, but lacking a built-in camera.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Quest’s Most Popular Game ‘Gorilla Tag’ is Going Mobile in ‘Monke Mayhem’ Next Year",
         "url": "https://roadtovr.com/gorilla-tag-mobile-game-announce-2027/",
-        "summary": "Quest's popular game 'Gorilla Tag' will launch a mobile version titled 'Monke Mayhem' next year, expanding its reach to iOS and Android.",
+        "summary": "Quest's popular game 'Gorilla Tag' is set to launch a mobile version titled 'Monke Mayhem' next year, expanding its reach to iOS and Android.",
         "source": "roadtovr.com",
         "date": "Wed, 01 Jul 2026 12:44:54 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gorilla-tag.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -21,41 +21,41 @@
       {
         "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
         "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
-        "summary": "Apple's Vision Pro hardware chief has departed to join OpenAI, raising questions about the future of Apple's AR/VR development.",
+        "summary": "Apple's Vision Pro hardware chief has left the company to join OpenAI, marking a significant leadership shift in its VR and AR initiatives.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:04:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
       },
       {
+        "title": "Discord App Now On Quest, With Streaming - But It's Rough",
+        "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
+        "summary": "Discord's official app has launched on Meta Quest, offering streaming capabilities, though users report technical issues.",
+        "source": "uploadvr.com",
+        "date": "Thu, 02 Jul 2026 17:55:18 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
+      },
+      {
         "title": "Darts VR2: Bullseye Rolls Out New Experience System",
         "url": "https://www.uploadvr.com/darts-vr2-bullseye-rolls-out-new-experience-system/",
-        "summary": "Darts VR2: Bullseye introduces a new experience system with skill achievements and unlockable content based on player feedback.",
+        "summary": "Darts VR2: Bullseye has introduced a new experience system with skill achievements and unlockable content based on player feedback.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:56:23 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Darts-VR2-Bullseye-keyart-small--1-.jpg"
       },
       {
-        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
-        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
-        "summary": "Contractors Showdown: ExfilZone releases a mid-season update featuring new DLC and mission lines to enhance gameplay.",
+        "title": "Hands-On: The Castle Turns STEM Education Into A VR Puzzle Experience",
+        "url": "https://www.uploadvr.com/hands-on-the-castle-turns-stem-education-into-a-vr-puzzle-experience/",
+        "summary": "The Castle, a VR puzzle experience, aims to teach STEM concepts through immersive challenges, showcasing its potential at AWE.",
         "source": "uploadvr.com",
-        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
-      },
-      {
-        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
-        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the classic Nintendo 64 game Perfect Dark is now available for Quest headsets and PC.",
-        "source": "uploadvr.com",
-        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
+        "date": "Fri, 03 Jul 2026 17:05:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ChameleonStudios-TheCastle--1-.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic unveils Claude Science, an AI workbench designed to streamline scientific research by integrating fragmented tools and datasets.",
+        "summary": "Anthropic announced Claude Science, an AI workbench for scientists that integrates fragmented tools and datasets into a cohesive environment.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM now generates TikTok-style video summaries of research notes, enhancing user engagement with academic content.",
+        "summary": "Google's NotebookLM now generates TikTok-style video summaries of research notes, enhancing user engagement with its AI capabilities.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,34 +71,34 @@
       {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI proposes a 5% ownership stake for the US government to ease tensions with the Trump administration amid growing AI scrutiny.",
+        "summary": "OpenAI proposed giving the Trump administration a 5% stake in the company to mitigate tensions and public backlash against AI.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-        "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-        "summary": "Tidal announces it will label AI-generated music tracks but will not ban them outright, aiming to balance artist protection and innovation.",
+        "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+        "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+        "summary": "Netflix's upcoming reality show 'Wonka's The Golden Ticket' features an AI-generated voice of Gene Wilder, blending nostalgia with modern technology.",
         "source": "theverge.com",
-        "date": "2026-06-29T15:47:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-06-30T13:19:15-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+        "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+        "summary": "The U.S. government is offering $10 million for information on groups behind a hacking spree targeting Signal and WhatsApp.",
+        "source": "arstechnica.com",
+        "date": "Mon, 29 Jun 2026 22:05:33 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/russia-hacking-binary-1152x648.jpg"
       },
       {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration, restoring access globally.",
+        "summary": "Anthropic's Claude Fable 5 has been greenlit for a return after negotiations with the Trump administration, restoring access to users globally.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-        "summary": "Midjourney reveals a behind-the-scenes look at its medical scanner, sparking curiosity despite a lack of proof of its effectiveness.",
-        "source": "theverge.com",
-        "date": "2026-07-03T07:49:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
@@ -113,42 +113,42 @@
       {
         "title": "Rams All-Pro cornerback and punt returner LeRoy Irvin dies at 68",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-all-pro-cornerback-and-punt-returner-leroy-irvin-dies-at-68",
-        "summary": "LeRoy Irvin, a Rams All-Pro cornerback and punt returner, has died at 68, leaving a legacy in NFL history.",
+        "summary": "LeRoy Irvin, a first-team All-Pro cornerback and punt returner for the Rams, has died at the age of 68.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 14:50:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/33ab16e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F82%2Fnbc_pft_mylesgarrettdeal_260608.jpg"
       },
       {
-        "title": "Netflix will have a consistent studio presence for all five 2026 NFL games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-will-have-a-consistent-studio-presence-for-all-five-2026-nfl-games",
-        "summary": "Netflix plans a consistent studio presence for all five of its NFL games in 2026, aiming to enhance its football coverage.",
-        "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 13:52:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a215bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F23%2Fnbc_pft_netflixgames_260514.jpg"
-      },
-      {
         "title": "Austin Schlottmann focused on himself as he competes for Titans' center job",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/austin-schlottmann-focused-on-himself-as-he-competes-for-titans-center-job",
-        "summary": "Austin Schlottmann is competing for the Titans' center job after signing a three-year, $7 million deal in the offseason.",
+        "summary": "Austin Schlottmann is competing for the Titans' center position after signing a three-year, $7 million deal in the offseason.",
         "source": "nbcsports.com",
         "date": "Thu, 02 Jul 2026 17:17:05 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/cdad191/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_blaisetaylor_260702.jpg"
       },
       {
-        "title": "U.S. win in Round of 32 draws 33.5 million total viewers, on average",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u-s-win-in-round-of-32-draws-33-5-million-total-viewers-on-average",
-        "summary": "The U.S. soccer team's Round of 32 victory drew an average of 33.5 million viewers, indicating rising interest in sports viewership.",
+        "title": "Netflix will have a consistent studio presence for all five 2026 NFL games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/netflix-will-have-a-consistent-studio-presence-for-all-five-2026-nfl-games",
+        "summary": "Netflix plans to establish a consistent studio presence for all five of its NFL games in 2026, aiming to enhance viewer experience.",
         "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 19:43:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
+        "date": "Thu, 02 Jul 2026 13:52:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a215bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F23%2Fnbc_pft_netflixgames_260514.jpg"
       },
       {
-        "title": "Missouri attorney general launches investigation of ESPN's Matt Miller",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-attorney-general-launches-investigation-of-espns-matt-miller",
-        "summary": "Missouri's attorney general has launched an investigation into ESPN analyst Matt Miller following concerns about his business dealings.",
+        "title": "Report: ESPN is closing in on a new deal for Mike Garafolo",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-espn-is-closing-in-on-a-new-deal-for-mike-garafolo",
+        "summary": "ESPN is reportedly nearing a new deal for Mike Garafolo following its acquisition of NFL Network earlier this year.",
         "source": "nbcsports.com",
-        "date": "Thu, 02 Jul 2026 16:35:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea1cc65/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F381%2F639%2Fnbc_pftpm_jjonescbs_260702.jpg"
+        "date": "Thu, 02 Jul 2026 12:54:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b59b38f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F254%2F687%2FRussini7-1.jpg"
+      },
+      {
+        "title": "CB Riley Moss on future with Broncos: Trust myself, rest will take care of itself",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-riley-moss-on-future-with-broncos-trust-myself-rest-will-take-care-of-itself",
+        "summary": "Broncos cornerback Riley Moss expresses confidence about his future, emphasizing trust in his abilities amidst team uncertainties.",
+        "source": "nbcsports.com",
+        "date": "Thu, 02 Jul 2026 12:42:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7036be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F508%2F243%2Fnbc_pft_paytonparttwo_260612.jpg"
       }
     ]
   }
