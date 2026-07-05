@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-05T20:08:05.168Z",
+  "updated": "2026-07-05T21:18:01.096Z",
   "feed": {
     "VR": [
       {
         "title": "Valve may be ready to reveal Steam Frame price and release date",
         "url": "https://mixed-news.com/en/valve-may-be-ready-to-reveal-steam-frame-price-and-release-date/",
-        "summary": "Valve is nearing a reveal for the Steam Frame VR headset, with new shipments indicating a potential price and release date announcement soon.",
+        "summary": "Valve is nearing the reveal of the Steam Frame headset, with new shipments indicating a potential price and release date announcement soon.",
         "source": "mixed-news.com",
         "date": "Sun, 05 Jul 2026 02:07:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
@@ -13,15 +13,23 @@
       {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's smart glasses crowdfunding campaign has surpassed $500,000, showcasing innovative features like dual displays and microphones.",
+        "summary": "MemoMind's smart glasses, featuring dual displays and microphones, surpassed $500K in crowdfunding, showcasing significant interest in innovative AR technology.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
+        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
+        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
+        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC, expanding retro gaming into virtual reality.",
+        "source": "uploadvr.com",
+        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
+      },
+      {
         "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
         "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
-        "summary": "VirtualGo is developing a mixed reality multiplayer system that allows remote players to join games as VR avatars.",
+        "summary": "VirtualGo is developing a mixed reality multiplayer system that allows remote players to join sessions as VR avatars, enhancing social gaming experiences.",
         "source": "uploadvr.com",
         "date": "Fri, 03 Jul 2026 17:16:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
@@ -29,7 +37,7 @@
       {
         "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
         "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
-        "summary": "Contractors Showdown: ExfilZone has launched a mid-season update featuring new DLC content and mission lines.",
+        "summary": "Contractors Showdown: ExfilZone has released a mid-season update, introducing new DLC content and mission lines for players.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:56:14 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
@@ -37,25 +45,17 @@
       {
         "title": "Discord App Now On Quest, With Streaming - But It's Rough",
         "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
-        "summary": "Discord has officially launched a 2D app for Meta Quest headsets, enabling streaming but facing technical challenges.",
+        "summary": "Discord has officially launched a 2D app for Meta Quest, allowing users to stream and communicate, despite some technical issues.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:55:18 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
-      },
-      {
-        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
-        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC VR users.",
-        "source": "uploadvr.com",
-        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic has announced Claude Science, an AI workbench aimed at streamlining scientific research and data visualization.",
+        "summary": "Anthropic has announced Claude Science, an AI workbench aimed at streamlining scientific research by integrating various tools and datasets.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI is considering offering a 5% stake to the U.S. government to mitigate tensions with the Trump administration over AI.",
+        "summary": "OpenAI is considering offering the Trump administration a 5% stake in the company to alleviate tensions and public backlash against AI.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM is introducing TikTok-style AI video summaries for research notes, enhancing user engagement.",
+        "summary": "Google's NotebookLM is set to introduce TikTok-style AI videos for summarizing research, enhancing how users engage with their notes.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +79,76 @@
       {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 will be restored after negotiations with the Trump administration, re-enabling access on major cloud platforms.",
+        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations, restoring access to its AI services across major platforms.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "The fanfiction community is at war with AI — and itself",
+        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+        "summary": "The fanfiction community is divided over the use of generative AI, sparking a movement to identify and exclude AI-generated content.",
+        "source": "theverge.com",
+        "date": "2026-07-04T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-        "summary": "Midjourney has unveiled a behind-the-scenes look at its medical scanner, although its effectiveness remains unproven.",
+        "summary": "Midjourney has revealed more about its futuristic medical scanner, although questions remain regarding its functionality and effectiveness.",
         "source": "theverge.com",
         "date": "2026-07-03T07:49:10-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Newly discovered PamStealer isn't your typical macOS malware",
-        "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-        "summary": "A new macOS malware called PamStealer has been discovered, highlighting the rising threat of infostealers on Apple devices.",
-        "source": "arstechnica.com",
-        "date": "Thu, 02 Jul 2026 19:38:57 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Chiefs' Kelce, Swift marry in ceremony at MSG",
-        "url": "https://www.espn.com/nfl/story/_/id/49188085/taylor-swift-travis-kelce-wedding-marriage-kansas-city-chiefs",
-        "summary": "Pop superstar Taylor Swift and Chiefs tight end Travis Kelce tied the knot in a celebrity-filled ceremony at Madison Square Garden.",
-        "source": "espn.com",
-        "date": "Sun, 5 Jul 2026 12:14:29 EST",
-        "image": ""
+        "title": "Report: FIFA rescinds U.S. striker Flo Balogun's one-game suspension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-fifa-rescinds-u-s-striker-flo-baloguns-one-game-suspension",
+        "summary": "FIFA has rescinded U.S. striker Flo Balogun's one-game suspension, allowing him to play against Belgium on Monday night.",
+        "source": "nbcsports.com",
+        "date": "Sun, 05 Jul 2026 12:50:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
       },
       {
-        "title": "Calais Cambell's mother dead, brother charged",
-        "url": "https://www.espn.com/nfl/story/_/id/49236930/calais-campbell-mother-found-dead-brother-charged-murder",
-        "summary": "Ravens defensive lineman Calais Campbell's brother has been charged with murder following the death of their mother.",
-        "source": "espn.com",
-        "date": "Sun, 5 Jul 2026 12:14:29 EST",
-        "image": ""
+        "title": "Aaron Donald fuels speculation he'll return to the Rams",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-fuels-speculation-hell-return-to-the-rams",
+        "summary": "Aaron Donald's recent social media comments have fueled speculation about his potential return to the Rams this season.",
+        "source": "nbcsports.com",
+        "date": "Sat, 04 Jul 2026 09:30:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1e475b0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F477%2F563%2Fnbc_pft_aarondonaldreturn_260603.jpg"
       },
       {
-        "title": "Former Titans scout Taylor found guilty of murder",
-        "url": "https://www.espn.com/nfl/story/_/id/49241520/ex-titans-scout-arkansas-state-db-taylor-found-guilty-murder",
-        "summary": "Former NFL scout Blaise Taylor has been found guilty of murdering his girlfriend and her unborn child in Nashville.",
-        "source": "espn.com",
-        "date": "Sun, 5 Jul 2026 12:14:29 EST",
-        "image": ""
+        "title": "Bryce Huff's focus shifts from football to battery fires",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-huffs-focus-shifts-from-football-to-battery-fires",
+        "summary": "Bryce Huff has shifted his focus from football to addressing battery fires after his abrupt retirement from the NFL at age 27.",
+        "source": "nbcsports.com",
+        "date": "Sat, 04 Jul 2026 11:56:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
       },
       {
-        "title": "Judge Doty, who ruled on many NFL cases, dies",
-        "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
-        "summary": "David Doty, the U.S. District Judge known for pivotal NFL labor rulings, has passed away at age 96.",
-        "source": "espn.com",
-        "date": "Sun, 5 Jul 2026 12:14:29 EST",
-        "image": ""
+        "title": "Is the NFL getting a little nervous about soccer's TV success?",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/is-the-nfl-getting-a-little-nervous-about-soccers-tv-success",
+        "summary": "The NFL appears concerned about soccer's rising TV viewership, as recent World Cup games have drawn larger audiences than NFL wild-card rounds.",
+        "source": "nbcsports.com",
+        "date": "Fri, 03 Jul 2026 10:13:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
       },
       {
-        "title": "Lions release Arnold after CB's bond set at $1M",
-        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
-        "summary": "The Lions have released cornerback Terrion Arnold following his arrest on felony charges of armed robbery and kidnapping.",
-        "source": "espn.com",
-        "date": "Sun, 5 Jul 2026 12:14:29 EST",
-        "image": ""
+        "title": "U.S. defender Tim Ream: World Cup team is a \"true representation\" of America",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u-s-defender-tim-ream-world-cup-team-is-a-true-representation-of-america",
+        "summary": "U.S. defender Tim Ream emphasizes that the World Cup team reflects America's diversity as they aim for a quarterfinal spot.",
+        "source": "nbcsports.com",
+        "date": "Sat, 04 Jul 2026 17:44:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
       },
       {
-        "title": "Sorsby won't sue NFL, will prepare for '27 draft",
-        "url": "https://www.espn.com/nfl/story/_/id/49229498/brendan-sorsby-sue-nfl-now-prepare-2027-draft",
-        "summary": "Brendan Sorsby will not pursue litigation against the NFL after the decision to skip this year's supplemental draft.",
-        "source": "espn.com",
-        "date": "Sun, 5 Jul 2026 12:14:29 EST",
-        "image": ""
+        "title": "Report: Marcellus Wiley is arrested for alleged domestic battery",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-marcellus-wiley-is-arrested-for-alleged-domestic-battery",
+        "summary": "Former NFL player Marcellus Wiley has been arrested for alleged domestic battery, adding to his ongoing legal troubles.",
+        "source": "nbcsports.com",
+        "date": "Sun, 05 Jul 2026 10:07:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb0e579/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_tarnold_260702.jpg"
       }
     ]
   }
