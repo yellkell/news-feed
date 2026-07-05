@@ -1,22 +1,30 @@
 {
-  "updated": "2026-07-05T17:44:39.527Z",
+  "updated": "2026-07-05T18:46:47.325Z",
   "feed": {
     "VR": [
       {
         "title": "Valve may be ready to reveal Steam Frame price and release date",
         "url": "https://mixed-news.com/en/valve-may-be-ready-to-reveal-steam-frame-price-and-release-date/",
-        "summary": "Valve may soon announce the price and release date for its anticipated Steam Frame VR headset, following recent hardware updates.",
+        "summary": "Valve may soon reveal the price and release date for its highly anticipated Steam Frame VR headset.",
         "source": "mixed-news.com",
         "date": "Sun, 05 Jul 2026 02:07:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
       },
       {
-        "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
-        "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
-        "summary": "VirtualGo is developing a mixed reality multiplayer system that allows remote players to join sessions as VR avatars.",
+        "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
+        "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
+        "summary": "Apple's Vision Pro hardware chief has left to join OpenAI, raising questions about the future of Apple's headset initiatives.",
         "source": "uploadvr.com",
-        "date": "Fri, 03 Jul 2026 17:16:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
+        "date": "Wed, 01 Jul 2026 08:04:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
+      },
+      {
+        "title": "Discord App Now On Quest, With Streaming - But It's Rough",
+        "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
+        "summary": "The official Discord app is now available on Meta Quest, offering streaming capabilities but facing technical challenges.",
+        "source": "uploadvr.com",
+        "date": "Thu, 02 Jul 2026 17:55:18 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
       },
       {
         "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
@@ -29,23 +37,15 @@
       {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's smart glasses have surpassed $500K in crowdfunding, featuring dual displays and open ear speakers.",
+        "summary": "MemoMind's smart glasses have surpassed $500K in crowdfunding, showcasing innovative features like dual displays and open ear speakers.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "New Meta Quest, SteamVR and PC VR games launching in July 2026",
-        "url": "https://mixed-news.com/en/new-meta-quest-steamvr-and-pc-vr-games-launching-in-july-2026/",
-        "summary": "Several new VR games are set to launch in July 2026, including a tactical shooter and a co-op dungeon crawler.",
-        "source": "mixed-news.com",
-        "date": "Sun, 05 Jul 2026 12:50:08 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Quest.jpg"
-      },
-      {
         "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
         "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC.",
+        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC users.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:15:54 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
@@ -55,7 +55,7 @@
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic has announced Claude Science, an AI workbench aimed at revolutionizing scientific research.",
+        "summary": "Anthropic has announced Claude Science, an AI workbench aimed at streamlining scientific research and data visualization.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI proposed giving the Trump administration a 5% stake in the company to alleviate tensions surrounding AI.",
+        "summary": "OpenAI is considering offering a 5% stake to the US government to ease tensions with the Trump administration over AI concerns.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,15 +71,23 @@
       {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM is introducing TikTok-style AI videos to summarize research notes for users.",
+        "summary": "Google's NotebookLM now generates TikTok-style video summaries of research notes, enhancing user engagement.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "The fanfiction community is at war with AI — and itself",
+        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+        "summary": "The fanfiction community is divided over the use of AI, with efforts to identify and exclude AI-generated works.",
+        "source": "theverge.com",
+        "date": "2026-07-04T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
         "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-        "summary": "Netflix's upcoming Willy Wonka reality show will feature an AI-generated voice of Gene Wilder.",
+        "summary": "Netflix has confirmed it will use an AI-generated voice of Gene Wilder for its upcoming reality show based on Willy Wonka.",
         "source": "theverge.com",
         "date": "2026-06-30T13:19:15-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,25 +95,17 @@
       {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic has greenlit the return of Claude Fable 5 after negotiations with the Trump administration.",
+        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Newly discovered PamStealer isn't your typical macOS malware",
-        "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-        "summary": "A newly discovered macOS malware called PamStealer highlights the growing threat of infostealers targeting Mac users.",
-        "source": "arstechnica.com",
-        "date": "Thu, 02 Jul 2026 19:38:57 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg"
       }
     ],
     "NFL": [
       {
         "title": "Chiefs' Kelce, Swift marry in ceremony at MSG",
         "url": "https://www.espn.com/nfl/story/_/id/49188085/taylor-swift-travis-kelce-wedding-marriage-kansas-city-chiefs",
-        "summary": "Pop superstar Taylor Swift and Chiefs tight end Travis Kelce tied the knot in a celebrity-filled ceremony at Madison Square Garden.",
+        "summary": "Pop superstar Taylor Swift and Chiefs tight end Travis Kelce tied the knot in a star-studded ceremony at Madison Square Garden.",
         "source": "espn.com",
         "date": "Sun, 5 Jul 2026 12:14:29 EST",
         "image": ""
@@ -113,7 +113,7 @@
       {
         "title": "Calais Cambell's mother dead, brother charged",
         "url": "https://www.espn.com/nfl/story/_/id/49236930/calais-campbell-mother-found-dead-brother-charged-murder",
-        "summary": "Ravens defensive lineman Calais Campbell's brother has been charged with the murder of their mother.",
+        "summary": "Ravens defensive lineman Calais Campbell's brother has been charged with murder following the death of their mother.",
         "source": "espn.com",
         "date": "Sun, 5 Jul 2026 12:14:29 EST",
         "image": ""
@@ -121,7 +121,7 @@
       {
         "title": "Former Titans scout Taylor found guilty of murder",
         "url": "https://www.espn.com/nfl/story/_/id/49241520/ex-titans-scout-arkansas-state-db-taylor-found-guilty-murder",
-        "summary": "Former Titans scout Blaise Taylor has been found guilty of murdering his girlfriend and her unborn child.",
+        "summary": "Former NFL scout Blaise Taylor has been found guilty of murdering his girlfriend and her unborn child.",
         "source": "espn.com",
         "date": "Sun, 5 Jul 2026 12:14:29 EST",
         "image": ""
@@ -129,7 +129,7 @@
       {
         "title": "Judge Doty, who ruled on many NFL cases, dies",
         "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
-        "summary": "David Doty, the influential U.S. District Judge who shaped NFL labor matters, has passed away at age 96.",
+        "summary": "David Doty, the influential U.S. District Judge known for pivotal NFL rulings, has passed away at age 96.",
         "source": "espn.com",
         "date": "Sun, 5 Jul 2026 12:14:29 EST",
         "image": ""
