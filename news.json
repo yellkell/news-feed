@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-05T21:18:01.096Z",
+  "updated": "2026-07-05T22:28:41.351Z",
   "feed": {
     "VR": [
       {
         "title": "Valve may be ready to reveal Steam Frame price and release date",
         "url": "https://mixed-news.com/en/valve-may-be-ready-to-reveal-steam-frame-price-and-release-date/",
-        "summary": "Valve is nearing the reveal of the Steam Frame headset, with new shipments indicating a potential price and release date announcement soon.",
+        "summary": "Valve is nearing a reveal for the Steam Frame VR headset, with signs indicating a potential price and release date announcement soon.",
         "source": "mixed-news.com",
         "date": "Sun, 05 Jul 2026 02:07:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
@@ -13,23 +13,15 @@
       {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's smart glasses, featuring dual displays and microphones, surpassed $500K in crowdfunding, showcasing significant interest in innovative AR technology.",
+        "summary": "MemoMind's crowdfunding campaign for its innovative smart glasses has exceeded $500,000, showcasing dual displays and unique audio features.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
-        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC, expanding retro gaming into virtual reality.",
-        "source": "uploadvr.com",
-        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
-      },
-      {
         "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
         "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
-        "summary": "VirtualGo is developing a mixed reality multiplayer system that allows remote players to join sessions as VR avatars, enhancing social gaming experiences.",
+        "summary": "VirtualGo is developing a mixed reality multiplayer system that allows remote players to join games as VR avatars of themselves.",
         "source": "uploadvr.com",
         "date": "Fri, 03 Jul 2026 17:16:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
@@ -37,7 +29,7 @@
       {
         "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
         "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
-        "summary": "Contractors Showdown: ExfilZone has released a mid-season update, introducing new DLC content and mission lines for players.",
+        "summary": "Contractors Showdown: ExfilZone has released a mid-season update featuring new DLC and mission lines to enhance gameplay.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:56:14 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
@@ -45,10 +37,18 @@
       {
         "title": "Discord App Now On Quest, With Streaming - But It's Rough",
         "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
-        "summary": "Discord has officially launched a 2D app for Meta Quest, allowing users to stream and communicate, despite some technical issues.",
+        "summary": "Discord has officially launched on Meta Quest, providing a 2D app with streaming capabilities, though it currently faces technical issues.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:55:18 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
+      },
+      {
+        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
+        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
+        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark has been released for Quest and PC, offering nostalgic gameplay.",
+        "source": "uploadvr.com",
+        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
       }
     ],
     "AI": [
@@ -63,7 +63,7 @@
       {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI is considering offering the Trump administration a 5% stake in the company to alleviate tensions and public backlash against AI.",
+        "summary": "OpenAI is considering offering a 5% stake to the US government to alleviate tensions and public backlash against AI technologies.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,15 +71,23 @@
       {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM is set to introduce TikTok-style AI videos for summarizing research, enhancing how users engage with their notes.",
+        "summary": "Google's NotebookLM is introducing TikTok-style video summaries for research notes, enhancing user engagement with AI-generated content.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+        "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+        "summary": "Netflix will use an AI-generated voice of Gene Wilder in its upcoming reality show based on Willy Wonka, raising ethical questions.",
+        "source": "theverge.com",
+        "date": "2026-06-30T13:19:15-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations, restoring access to its AI services across major platforms.",
+        "summary": "Anthropic's Claude Fable 5 has been greenlit to return following negotiations with the Trump administration, restoring access for users.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,68 +95,60 @@
       {
         "title": "The fanfiction community is at war with AI — and itself",
         "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-        "summary": "The fanfiction community is divided over the use of generative AI, sparking a movement to identify and exclude AI-generated content.",
+        "summary": "The fanfiction community is divided over the use of AI, with movements emerging to exclude authors who utilize generative AI tools.",
         "source": "theverge.com",
         "date": "2026-07-04T08:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-        "summary": "Midjourney has revealed more about its futuristic medical scanner, although questions remain regarding its functionality and effectiveness.",
-        "source": "theverge.com",
-        "date": "2026-07-03T07:49:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Report: FIFA rescinds U.S. striker Flo Balogun's one-game suspension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-fifa-rescinds-u-s-striker-flo-baloguns-one-game-suspension",
-        "summary": "FIFA has rescinded U.S. striker Flo Balogun's one-game suspension, allowing him to play against Belgium on Monday night.",
-        "source": "nbcsports.com",
-        "date": "Sun, 05 Jul 2026 12:50:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
-      },
-      {
         "title": "Aaron Donald fuels speculation he'll return to the Rams",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-fuels-speculation-hell-return-to-the-rams",
-        "summary": "Aaron Donald's recent social media comments have fueled speculation about his potential return to the Rams this season.",
+        "summary": "Aaron Donald has sparked speculation about his potential return to the Rams with intriguing comments on social media.",
         "source": "nbcsports.com",
         "date": "Sat, 04 Jul 2026 09:30:52 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1e475b0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F477%2F563%2Fnbc_pft_aarondonaldreturn_260603.jpg"
       },
       {
-        "title": "Bryce Huff's focus shifts from football to battery fires",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-huffs-focus-shifts-from-football-to-battery-fires",
-        "summary": "Bryce Huff has shifted his focus from football to addressing battery fires after his abrupt retirement from the NFL at age 27.",
+        "title": "As expected, the Travis Kelce-Taylor Swift wedding is happening today",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-expected-the-travis-kelce-taylor-swift-wedding-is-happening-today",
+        "summary": "The highly anticipated Travis Kelce-Taylor Swift wedding is taking place today, drawing significant media attention.",
         "source": "nbcsports.com",
-        "date": "Sat, 04 Jul 2026 11:56:36 -0400",
+        "date": "Fri, 03 Jul 2026 13:46:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
       },
       {
-        "title": "Is the NFL getting a little nervous about soccer's TV success?",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/is-the-nfl-getting-a-little-nervous-about-soccers-tv-success",
-        "summary": "The NFL appears concerned about soccer's rising TV viewership, as recent World Cup games have drawn larger audiences than NFL wild-card rounds.",
+        "title": "Reversal of Flo Balogun suspension sparks a controversy of its own",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reversal-of-flo-balogun-suspension-sparks-a-controversy-of-its-own",
+        "summary": "The reversal of Flo Balogun's suspension has sparked controversy, with reports of President Trump intervening for FIFA's review.",
         "source": "nbcsports.com",
-        "date": "Fri, 03 Jul 2026 10:13:47 -0400",
+        "date": "Sun, 05 Jul 2026 16:51:56 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
       },
       {
-        "title": "U.S. defender Tim Ream: World Cup team is a \"true representation\" of America",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u-s-defender-tim-ream-world-cup-team-is-a-true-representation-of-america",
-        "summary": "U.S. defender Tim Ream emphasizes that the World Cup team reflects America's diversity as they aim for a quarterfinal spot.",
+        "title": "It's been 17 years since Steve McNair's murder",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/its-been-17-years-since-steve-mcnairs-murder",
+        "summary": "Today marks 17 years since the tragic murder of NFL star Steve McNair, a somber remembrance in the sports community.",
         "source": "nbcsports.com",
-        "date": "Sat, 04 Jul 2026 17:44:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
+        "date": "Sat, 04 Jul 2026 12:53:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d6ae98/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F42%2F775%2Fnbc_pft_chrisjohnson_260629.jpg"
       },
       {
-        "title": "Report: Marcellus Wiley is arrested for alleged domestic battery",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-marcellus-wiley-is-arrested-for-alleged-domestic-battery",
-        "summary": "Former NFL player Marcellus Wiley has been arrested for alleged domestic battery, adding to his ongoing legal troubles.",
+        "title": "World Cup's VAR shows what NFL could do with technology",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/world-cups-var-shows-what-nfl-could-do-with-technology",
+        "summary": "The World Cup's use of VAR technology has prompted discussions about how the NFL could similarly innovate with tech.",
         "source": "nbcsports.com",
-        "date": "Sun, 05 Jul 2026 10:07:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb0e579/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_tarnold_260702.jpg"
+        "date": "Fri, 03 Jul 2026 14:21:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/722d479/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F139%2F947%2Fnbc_pft_pftpm_worldcupshootouts_260630.jpg"
+      },
+      {
+        "title": "By going after Jayden Daniels, Brandon Aiyuk may be burning his bridge to the Commanders",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/by-going-after-jayden-daniels-brandon-aiyuk-may-be-burning-his-bridge-to-the-commanders",
+        "summary": "Brandon Aiyuk's pursuit of Jayden Daniels may jeopardize his relationship with the Commanders, indicating potential team dynamics.",
+        "source": "nbcsports.com",
+        "date": "Sat, 04 Jul 2026 22:21:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4069d89/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F41%2F299%2Fnbc_pft_brandonaiyukagent_260629.jpg"
       }
     ]
   }
