@@ -1,51 +1,51 @@
 {
-  "updated": "2026-07-05T18:46:47.325Z",
+  "updated": "2026-07-05T20:08:05.168Z",
   "feed": {
     "VR": [
       {
         "title": "Valve may be ready to reveal Steam Frame price and release date",
         "url": "https://mixed-news.com/en/valve-may-be-ready-to-reveal-steam-frame-price-and-release-date/",
-        "summary": "Valve may soon reveal the price and release date for its highly anticipated Steam Frame VR headset.",
+        "summary": "Valve is nearing a reveal for the Steam Frame VR headset, with new shipments indicating a potential price and release date announcement soon.",
         "source": "mixed-news.com",
         "date": "Sun, 05 Jul 2026 02:07:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
       },
       {
-        "title": "Apple's Vision Pro & Glasses Hardware Chief Leaves For OpenAI",
-        "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
-        "summary": "Apple's Vision Pro hardware chief has left to join OpenAI, raising questions about the future of Apple's headset initiatives.",
-        "source": "uploadvr.com",
-        "date": "Wed, 01 Jul 2026 08:04:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png"
-      },
-      {
-        "title": "Discord App Now On Quest, With Streaming - But It's Rough",
-        "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
-        "summary": "The official Discord app is now available on Meta Quest, offering streaming capabilities but facing technical challenges.",
-        "source": "uploadvr.com",
-        "date": "Thu, 02 Jul 2026 17:55:18 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
-      },
-      {
-        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
-        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
-        "summary": "Contractors Showdown: ExfilZone has released a mid-season update featuring new DLC and mission lines.",
-        "source": "uploadvr.com",
-        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
-      },
-      {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's smart glasses have surpassed $500K in crowdfunding, showcasing innovative features like dual displays and open ear speakers.",
+        "summary": "MemoMind's smart glasses crowdfunding campaign has surpassed $500,000, showcasing innovative features like dual displays and microphones.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
+        "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
+        "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
+        "summary": "VirtualGo is developing a mixed reality multiplayer system that allows remote players to join games as VR avatars.",
+        "source": "uploadvr.com",
+        "date": "Fri, 03 Jul 2026 17:16:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
+      },
+      {
+        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
+        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
+        "summary": "Contractors Showdown: ExfilZone has launched a mid-season update featuring new DLC content and mission lines.",
+        "source": "uploadvr.com",
+        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
+      },
+      {
+        "title": "Discord App Now On Quest, With Streaming - But It's Rough",
+        "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
+        "summary": "Discord has officially launched a 2D app for Meta Quest headsets, enabling streaming but facing technical challenges.",
+        "source": "uploadvr.com",
+        "date": "Thu, 02 Jul 2026 17:55:18 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
+      },
+      {
         "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
         "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC users.",
+        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC VR users.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:15:54 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
@@ -63,7 +63,7 @@
       {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI is considering offering a 5% stake to the US government to ease tensions with the Trump administration over AI concerns.",
+        "summary": "OpenAI is considering offering a 5% stake to the U.S. government to mitigate tensions with the Trump administration over AI.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,41 +71,41 @@
       {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM now generates TikTok-style video summaries of research notes, enhancing user engagement.",
+        "summary": "Google's NotebookLM is introducing TikTok-style AI video summaries for research notes, enhancing user engagement.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The fanfiction community is at war with AI — and itself",
-        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-        "summary": "The fanfiction community is divided over the use of AI, with efforts to identify and exclude AI-generated works.",
-        "source": "theverge.com",
-        "date": "2026-07-04T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-        "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-        "summary": "Netflix has confirmed it will use an AI-generated voice of Gene Wilder for its upcoming reality show based on Willy Wonka.",
-        "source": "theverge.com",
-        "date": "2026-06-30T13:19:15-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration.",
+        "summary": "Anthropic's Claude Fable 5 will be restored after negotiations with the Trump administration, re-enabling access on major cloud platforms.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+        "summary": "Midjourney has unveiled a behind-the-scenes look at its medical scanner, although its effectiveness remains unproven.",
+        "source": "theverge.com",
+        "date": "2026-07-03T07:49:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Newly discovered PamStealer isn't your typical macOS malware",
+        "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+        "summary": "A new macOS malware called PamStealer has been discovered, highlighting the rising threat of infostealers on Apple devices.",
+        "source": "arstechnica.com",
+        "date": "Thu, 02 Jul 2026 19:38:57 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg"
       }
     ],
     "NFL": [
       {
         "title": "Chiefs' Kelce, Swift marry in ceremony at MSG",
         "url": "https://www.espn.com/nfl/story/_/id/49188085/taylor-swift-travis-kelce-wedding-marriage-kansas-city-chiefs",
-        "summary": "Pop superstar Taylor Swift and Chiefs tight end Travis Kelce tied the knot in a star-studded ceremony at Madison Square Garden.",
+        "summary": "Pop superstar Taylor Swift and Chiefs tight end Travis Kelce tied the knot in a celebrity-filled ceremony at Madison Square Garden.",
         "source": "espn.com",
         "date": "Sun, 5 Jul 2026 12:14:29 EST",
         "image": ""
@@ -121,7 +121,7 @@
       {
         "title": "Former Titans scout Taylor found guilty of murder",
         "url": "https://www.espn.com/nfl/story/_/id/49241520/ex-titans-scout-arkansas-state-db-taylor-found-guilty-murder",
-        "summary": "Former NFL scout Blaise Taylor has been found guilty of murdering his girlfriend and her unborn child.",
+        "summary": "Former NFL scout Blaise Taylor has been found guilty of murdering his girlfriend and her unborn child in Nashville.",
         "source": "espn.com",
         "date": "Sun, 5 Jul 2026 12:14:29 EST",
         "image": ""
@@ -129,7 +129,7 @@
       {
         "title": "Judge Doty, who ruled on many NFL cases, dies",
         "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
-        "summary": "David Doty, the influential U.S. District Judge known for pivotal NFL rulings, has passed away at age 96.",
+        "summary": "David Doty, the U.S. District Judge known for pivotal NFL labor rulings, has passed away at age 96.",
         "source": "espn.com",
         "date": "Sun, 5 Jul 2026 12:14:29 EST",
         "image": ""
@@ -145,7 +145,7 @@
       {
         "title": "Sorsby won't sue NFL, will prepare for '27 draft",
         "url": "https://www.espn.com/nfl/story/_/id/49229498/brendan-sorsby-sue-nfl-now-prepare-2027-draft",
-        "summary": "Brendan Sorsby will not pursue litigation against the NFL after the decision not to hold a supplemental draft this year.",
+        "summary": "Brendan Sorsby will not pursue litigation against the NFL after the decision to skip this year's supplemental draft.",
         "source": "espn.com",
         "date": "Sun, 5 Jul 2026 12:14:29 EST",
         "image": ""
