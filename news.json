@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-05T14:07:05.001Z",
+  "updated": "2026-07-05T15:36:24.510Z",
   "feed": {
     "VR": [
       {
         "title": "Valve may be ready to reveal Steam Frame price and release date",
         "url": "https://mixed-news.com/en/valve-may-be-ready-to-reveal-steam-frame-price-and-release-date/",
-        "summary": "Valve may soon reveal the price and release date for its highly anticipated Steam Frame VR headset, following recent hardware updates.",
+        "summary": "Valve may soon reveal the price and release date for its highly anticipated Steam Frame VR headset.",
         "source": "mixed-news.com",
         "date": "Sun, 05 Jul 2026 02:07:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
@@ -13,39 +13,39 @@
       {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's crowdfunding campaign for its innovative smart glasses, MemoMind One, has surpassed $500K, showcasing dual displays and audio features.",
+        "summary": "MemoMind's smart glasses, featuring dual displays and open ear speakers, have surpassed $500K in crowdfunding.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
-        "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
-        "summary": "VirtualGo is developing a mixed reality multiplayer system that allows remote players to join games as VR avatars.",
-        "source": "uploadvr.com",
-        "date": "Fri, 03 Jul 2026 17:16:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
-      },
-      {
-        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
-        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
-        "summary": "Contractors Showdown: ExfilZone has launched a mid-season update featuring new DLC content and mission lines.",
-        "source": "uploadvr.com",
-        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
-      },
-      {
         "title": "Discord App Now On Quest, With Streaming - But It's Rough",
         "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
-        "summary": "Discord has officially launched a 2D app for Meta Quest, offering streaming features but facing technical challenges.",
+        "summary": "Discord has launched a 2D app for Meta Quest, offering streaming capabilities despite some technical issues.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:55:18 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
       },
       {
+        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
+        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
+        "summary": "Contractors Showdown: ExfilZone has introduced a mid-season update with new DLC and mission lines.",
+        "source": "uploadvr.com",
+        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
+      },
+      {
+        "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
+        "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
+        "summary": "VirtualGo is developing a mixed reality multiplayer system allowing remote players to join games as VR avatars.",
+        "source": "uploadvr.com",
+        "date": "Fri, 03 Jul 2026 17:16:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
+      },
+      {
         "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
         "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC users.",
+        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark is now available for Quest and PC.",
         "source": "uploadvr.com",
         "date": "Wed, 01 Jul 2026 08:15:54 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
@@ -55,15 +55,23 @@
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic has announced Claude Science, an AI workbench aimed at streamlining scientific research by integrating various tools and datasets.",
+        "summary": "Anthropic has announced Claude Science, an AI workbench aimed at streamlining scientific research.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "summary": "After negotiations, Anthropic is set to restore access to its Claude Fable 5 AI tool globally.",
+        "source": "theverge.com",
+        "date": "2026-06-30T20:03:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM is introducing TikTok-style AI videos to summarize research notes, enhancing user engagement with quick visual content.",
+        "summary": "Google's NotebookLM will now generate TikTok-style AI video summaries of uploaded research notes.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,36 +79,77 @@
       {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI is considering offering a 5% stake to the US government to mitigate backlash against AI technologies.",
+        "summary": "OpenAI proposes giving the Trump administration a 5% stake in its company to ease tensions over AI.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration, restoring access for users globally.",
+        "title": "The fanfiction community is at war with AI — and itself",
+        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+        "summary": "A new movement in the fanfiction community seeks to identify authors using generative AI, causing internal conflict.",
         "source": "theverge.com",
-        "date": "2026-06-30T20:03:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-04T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-        "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-        "summary": "Netflix is utilizing an AI-generated voice of Gene Wilder for its upcoming reality show based on Willy Wonka.",
+        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+        "summary": "Midjourney has revealed more about its futuristic medical scanner, raising questions about its effectiveness.",
         "source": "theverge.com",
-        "date": "2026-06-30T13:19:15-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Newly discovered PamStealer isn't your typical macOS malware",
-        "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-        "summary": "A newly discovered macOS malware, PamStealer, highlights the growing threat of infostealers targeting Apple devices.",
-        "source": "arstechnica.com",
-        "date": "Thu, 02 Jul 2026 19:38:57 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg"
+        "date": "2026-07-03T07:49:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
-    "NFL": []
+    "NFL": [
+      {
+        "title": "Aaron Donald fuels speculation he'll return to the Rams",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-fuels-speculation-hell-return-to-the-rams",
+        "summary": "Aaron Donald has sparked speculation about a potential return to the Rams with a cryptic social media comment.",
+        "source": "nbcsports.com",
+        "date": "Sat, 04 Jul 2026 09:30:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1e475b0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F477%2F563%2Fnbc_pft_aarondonaldreturn_260603.jpg"
+      },
+      {
+        "title": "Report: Marcellus Wiley is arrested for alleged domestic battery",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-marcellus-wiley-is-arrested-for-alleged-domestic-battery",
+        "summary": "Former NFL player Marcellus Wiley was arrested for alleged domestic battery amid ongoing controversies.",
+        "source": "nbcsports.com",
+        "date": "Sun, 05 Jul 2026 10:07:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb0e579/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_tarnold_260702.jpg"
+      },
+      {
+        "title": "The Matt Miller GoFundMe campaign has been \"paused\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-matt-miller-gofundme-campaign-has-been-paused",
+        "summary": "ESPN draft analyst Matt Miller's GoFundMe campaign has been paused amid a business investigation.",
+        "source": "nbcsports.com",
+        "date": "Fri, 03 Jul 2026 08:23:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b59b38f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F254%2F687%2FRussini7-1.jpg"
+      },
+      {
+        "title": "Adam Sandler officiated the Travis Kelce-Taylor Swift wedding",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-sandler-officiated-the-travis-kelce-taylor-swift-wedding",
+        "summary": "Adam Sandler officiated the wedding of NFL star Travis Kelce and pop icon Taylor Swift.",
+        "source": "nbcsports.com",
+        "date": "Sat, 04 Jul 2026 08:26:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
+      },
+      {
+        "title": "Acrisure Stadium has gotten its new grass surface",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/acrisure-stadium-has-gotten-its-new-grass-surface",
+        "summary": "Acrisure Stadium has installed a new grass surface, enhancing its playing conditions.",
+        "source": "nbcsports.com",
+        "date": "Thu, 02 Jul 2026 20:39:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/143a84a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_grassvturf_260623.jpg"
+      },
+      {
+        "title": "Back with the Commanders, Dyami Brown vows it's a \"new me\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/back-with-the-commanders-dyami-brown-vows-its-a-new-me",
+        "summary": "Dyami Brown returns to the Commanders, promising a renewed focus for the upcoming season.",
+        "source": "nbcsports.com",
+        "date": "Sun, 05 Jul 2026 09:15:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
+      }
+    ]
   }
 }
