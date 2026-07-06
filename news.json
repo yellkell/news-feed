@@ -1,27 +1,19 @@
 {
-  "updated": "2026-07-06T05:48:58.383Z",
+  "updated": "2026-07-06T10:00:45.873Z",
   "feed": {
     "VR": [
       {
         "title": "Valve may be ready to reveal Steam Frame price and release date",
         "url": "https://mixed-news.com/en/valve-may-be-ready-to-reveal-steam-frame-price-and-release-date/",
-        "summary": "Valve is nearing a reveal for the Steam Frame VR headset, with signs indicating a potential price and release date announcement soon.",
+        "summary": "Valve is nearing a reveal for the Steam Frame VR headset, with recent shipments indicating a potential price and release date announcement soon.",
         "source": "mixed-news.com",
         "date": "Sun, 05 Jul 2026 02:07:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
       },
       {
-        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
-        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
-        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark has been released for Quest and PC, expanding the retro game's accessibility.",
-        "source": "uploadvr.com",
-        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
-      },
-      {
         "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
         "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's crowdfunding campaign for its AI-powered smart glasses, MemoMind One, has surpassed $500K, indicating strong market interest.",
+        "summary": "MemoMind's smart glasses have surpassed $500K in crowdfunding, featuring dual displays and microphones, aiming to innovate in the wearable tech market.",
         "source": "roadtovr.com",
         "date": "Fri, 03 Jul 2026 14:37:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -29,49 +21,57 @@
       {
         "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
         "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
-        "summary": "VirtualGo is developing a mixed reality multiplayer system that allows remote players to join games as VR avatars.",
+        "summary": "VirtualGo is developing a mixed reality multiplayer system that allows remote players to join sessions via VR representations of their homes.",
         "source": "uploadvr.com",
         "date": "Fri, 03 Jul 2026 17:16:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
       },
       {
+        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
+        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
+        "summary": "Contractors Showdown: ExfilZone has launched a mid-season update, introducing new DLC content and mission lines for players.",
+        "source": "uploadvr.com",
+        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
+      },
+      {
         "title": "Discord App Now On Quest, With Streaming - But It's Rough",
         "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
-        "summary": "Discord has launched an official app for Meta Quest, offering streaming capabilities but currently facing technical issues.",
+        "summary": "Discord has officially launched a 2D app for Meta Quest headsets, offering streaming capabilities despite some technical issues.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:55:18 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
       },
       {
-        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
-        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
-        "summary": "Contractors Showdown: ExfilZone has released a mid-season update featuring new DLC content and mission lines.",
+        "title": "Fanmade VR Port Of Nintendo 64 Classic Perfect Dark Out Now On Quest & PC",
+        "url": "https://www.uploadvr.com/fanmade-vr-port-of-nintendo-64-classic-perfect-dark-out-now-on-quest-pc/",
+        "summary": "A fanmade VR port of the Nintendo 64 classic Perfect Dark has been released for Quest headsets and PC VR.",
         "source": "uploadvr.com",
-        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
+        "date": "Wed, 01 Jul 2026 08:15:54 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Perfect-Dark-VR-box-cover-art.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic has unveiled Claude Science, an AI workbench aimed at streamlining scientific research by integrating various tools and datasets.",
+        "summary": "Anthropic has announced Claude Science, an AI workbench designed to streamline scientific research by integrating various tools and datasets.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 has been greenlit to return after negotiations with the Trump administration, restoring access on major cloud platforms.",
+        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+        "summary": "OpenAI is considering offering the Trump administration a 5% stake in the company to ease tensions and public backlash against AI.",
         "source": "theverge.com",
-        "date": "2026-06-30T20:03:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-02T06:23:27-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
         "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "summary": "Google's NotebookLM is introducing TikTok-style AI clips to summarize research, enhancing user engagement with note-taking.",
+        "summary": "Google's NotebookLM is rolling out a feature that generates TikTok-style video summaries of user research notes for AI Ultra and Pro subscribers.",
         "source": "theverge.com",
         "date": "2026-06-30T15:24:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +79,76 @@
       {
         "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
         "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-        "summary": "Netflix confirmed the use of an AI-generated Gene Wilder voice in its upcoming reality show based on Willy Wonka.",
+        "summary": "Netflix's upcoming reality show features an AI-generated voice of Gene Wilder, adding a unique twist to its competition format.",
         "source": "theverge.com",
         "date": "2026-06-30T13:19:15-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI has proposed giving the Trump administration a 5% stake in the company to ease tensions over AI regulation.",
-        "source": "theverge.com",
-        "date": "2026-07-02T06:23:27-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-        "summary": "Midjourney has showcased its futuristic medical scanner, though its functionality remains largely unproven.",
+        "summary": "Midjourney has unveiled a behind-the-scenes look at its medical scanner, though it still lacks substantial proof of effectiveness.",
         "source": "theverge.com",
         "date": "2026-07-03T07:49:10-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "summary": "Anthropic has greenlit the return of its Claude Fable 5 AI after negotiations with the Trump administration, restoring access on multiple platforms.",
+        "source": "theverge.com",
+        "date": "2026-06-30T20:03:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Report: FIFA rescinds U.S. striker Flo Balogun's one-game suspension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-fifa-rescinds-u-s-striker-flo-baloguns-one-game-suspension",
-        "summary": "FIFA has rescinded U.S. striker Flo Balogun's one-game suspension, allowing him to play against Belgium.",
-        "source": "nbcsports.com",
-        "date": "Sun, 05 Jul 2026 12:50:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
+        "title": "Chiefs' Kelce, Swift marry in ceremony at MSG",
+        "url": "https://www.espn.com/nfl/story/_/id/49188085/taylor-swift-travis-kelce-wedding-marriage-kansas-city-chiefs",
+        "summary": "Travis Kelce and Taylor Swift tied the knot in a star-studded ceremony at Madison Square Garden, attended by numerous celebrities.",
+        "source": "espn.com",
+        "date": "Sun, 5 Jul 2026 16:56:54 EST",
+        "image": ""
       },
       {
-        "title": "Aaron Donald fuels speculation he'll return to the Rams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-fuels-speculation-hell-return-to-the-rams",
-        "summary": "Aaron Donald has sparked speculation about his potential return to the Rams with a cryptic social media comment.",
-        "source": "nbcsports.com",
-        "date": "Sat, 04 Jul 2026 09:30:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1e475b0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F477%2F563%2Fnbc_pft_aarondonaldreturn_260603.jpg"
+        "title": "Calais Cambell's mother dead, brother charged",
+        "url": "https://www.espn.com/nfl/story/_/id/49236930/calais-campbell-mother-found-dead-brother-charged-murder",
+        "summary": "Calais Campbell's brother has been charged with murder following the discovery of their mother's body during a welfare check.",
+        "source": "espn.com",
+        "date": "Sun, 5 Jul 2026 16:56:54 EST",
+        "image": ""
       },
       {
-        "title": "Wedding presence of Amazon, Fox TV personalities may hint at Travis Kelce's next move",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wedding-presence-of-amazon-fox-tv-personalities-may-hint-at-travis-kelces-next-move",
-        "summary": "The presence of Amazon and Fox TV personalities at Travis Kelce's wedding hints at potential future career moves.",
-        "source": "nbcsports.com",
-        "date": "Sun, 05 Jul 2026 17:43:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/04a4cfd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F151%2F158%2Fnbc_pft_pftpm_alsfootball_260630.jpg"
+        "title": "Judge Doty, who ruled on many NFL cases, dies",
+        "url": "https://www.espn.com/nfl/story/_/id/49219476/judge-david-doty-ruled-many-landmark-nfl-cases-dies-96",
+        "summary": "David Doty, the U.S. District Judge known for pivotal NFL rulings, has passed away at the age of 96.",
+        "source": "espn.com",
+        "date": "Sun, 5 Jul 2026 16:56:54 EST",
+        "image": ""
       },
       {
-        "title": "Bryce Huff's focus shifts from football to battery fires",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-huffs-focus-shifts-from-football-to-battery-fires",
-        "summary": "Bryce Huff has unexpectedly retired from the NFL at age 27, shifting his focus to battery fires.",
-        "source": "nbcsports.com",
-        "date": "Sat, 04 Jul 2026 11:56:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
+        "title": "Lions release Arnold after CB's bond set at $1M",
+        "url": "https://www.espn.com/nfl/story/_/id/49218761/lions-release-terrion-arnold-cb-bond-set-1m",
+        "summary": "The Lions have released cornerback Terrion Arnold after he was arrested on felony charges of armed robbery and kidnapping.",
+        "source": "espn.com",
+        "date": "Sun, 5 Jul 2026 16:56:54 EST",
+        "image": ""
       },
       {
-        "title": "Adam Sandler officiated the Travis Kelce-Taylor Swift wedding",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-sandler-officiated-the-travis-kelce-taylor-swift-wedding",
-        "summary": "Adam Sandler officiated the wedding of Travis Kelce and Taylor Swift, drawing significant media attention.",
+        "title": "Rule 27 of FIFA Disciplinary Code was used to overturn the Flo Balogun suspension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rule-27-of-fifa-disciplinary-code-was-used-to-overturn-the-flo-balogun-suspension",
+        "summary": "The suspension of U.S. striker Folarin Balogun has been overturned, sparking significant interest in FIFA's disciplinary code.",
         "source": "nbcsports.com",
-        "date": "Sat, 04 Jul 2026 08:26:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3998996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F67%2Fnbc_pftpm_teamusawins_260702.jpg"
-      },
-      {
-        "title": "World Cup's VAR shows what NFL could do with technology",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/world-cups-var-shows-what-nfl-could-do-with-technology",
-        "summary": "The World Cup's VAR technology showcases potential innovations for the NFL, including chip-embedded footballs.",
-        "source": "nbcsports.com",
-        "date": "Fri, 03 Jul 2026 14:21:34 -0400",
+        "date": "Sun, 05 Jul 2026 19:55:07 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/722d479/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F139%2F947%2Fnbc_pft_pftpm_worldcupshootouts_260630.jpg"
+      },
+      {
+        "title": "Sorsby won't sue NFL, will prepare for '27 draft",
+        "url": "https://www.espn.com/nfl/story/_/id/49229498/brendan-sorsby-sue-nfl-now-prepare-2027-draft",
+        "summary": "Brendan Sorsby and the NFL Players Association will not pursue litigation following the NFL's decision against holding a supplemental draft this year.",
+        "source": "espn.com",
+        "date": "Sun, 5 Jul 2026 16:56:54 EST",
+        "image": ""
       }
     ]
   }
