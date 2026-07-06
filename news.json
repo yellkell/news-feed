@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-06T20:49:00.399Z",
+  "updated": "2026-07-06T22:08:41.144Z",
   "feed": {
     "VR": [
       {
         "title": "Smart Glasses Startup Even Realities Secures Unicorn Status with $150M Funding Round",
         "url": "https://roadtovr.com/smart-glasses-even-realities-unicorn-150m-funding/",
-        "summary": "Even Realities achieves unicorn status with $150 million funding, aiming to enhance its smart glasses technology.",
+        "summary": "Even Realities secures unicorn status with $150 million funding, aiming to enhance its smart glasses development.",
         "source": "roadtovr.com",
         "date": "Mon, 06 Jul 2026 12:00:19 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/even-g2.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Hot Dogs, Horseshoes & Hand Grenades Leaves Early Access After 10 Years",
         "url": "https://www.uploadvr.com/hots-dogs-horseshoes-and-hand-grenades-leaves-early-access-after-ten-years/",
-        "summary": "Hot Dogs, Horseshoes & Hand Grenades exits Early Access after a decade, marking a significant milestone for the VR shooter.",
+        "summary": "Hot Dogs, Horseshoes & Hand Grenades exits Early Access after ten years, marking a significant milestone for the popular VR shooter.",
         "source": "uploadvr.com",
         "date": "Mon, 06 Jul 2026 08:34:59 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/h3vr-ss.jpg"
@@ -21,7 +21,7 @@
       {
         "title": "Steam Frame release date looks closer than ever after Valve’s new driver update",
         "url": "https://mixed-news.com/en/steam-frame-looks-closer-than-ever-after-valves-new-driver-update/",
-        "summary": "Valve's Steam Frame release appears imminent following a new driver update, hinting at a potential price and launch date.",
+        "summary": "Valve's Steam Frame release date appears imminent following a new driver update, signaling progress in its hardware lineup.",
         "source": "mixed-news.com",
         "date": "Thu, 02 Jul 2026 13:05:48 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Steam-Frame-device.jpg"
@@ -29,7 +29,7 @@
       {
         "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
         "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
-        "summary": "VirtualGo introduces a mixed reality multiplayer system allowing remote players to join games as VR avatars.",
+        "summary": "VirtualGo's new mixed reality multiplayer system allows remote players to join games as VR avatars, enhancing social interaction.",
         "source": "uploadvr.com",
         "date": "Fri, 03 Jul 2026 17:16:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
@@ -37,25 +37,25 @@
       {
         "title": "Discord App Now On Quest, With Streaming - But It's Rough",
         "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
-        "summary": "Discord launches on Meta Quest, offering streaming capabilities but facing technical challenges in its initial rollout.",
+        "summary": "Discord launches on Meta Quest, offering a 2D app with streaming capabilities, though users report technical issues.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:55:18 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
       },
       {
-        "title": "Darts VR2: Bullseye Rolls Out New Experience System",
-        "url": "https://www.uploadvr.com/darts-vr2-bullseye-rolls-out-new-experience-system/",
-        "summary": "Darts VR2: Bullseye enhances gameplay with a new experience system featuring skill achievements and unlockable content.",
-        "source": "uploadvr.com",
-        "date": "Thu, 02 Jul 2026 17:56:23 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Darts-VR2-Bullseye-keyart-small--1-.jpg"
+        "title": "Valve may be ready to reveal Steam Frame price and release date",
+        "url": "https://mixed-news.com/en/valve-may-be-ready-to-reveal-steam-frame-price-and-release-date/",
+        "summary": "Valve hints at a potential reveal for the Steam Frame's price and release date, following recent hardware launches.",
+        "source": "mixed-news.com",
+        "date": "Sun, 05 Jul 2026 02:07:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
       }
     ],
     "AI": [
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic unveils Claude Science, an AI workbench designed to streamline scientific research and data visualization.",
+        "summary": "Anthropic introduces Claude Science, an AI workbench aimed at streamlining scientific research and data analysis.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 is set to return after negotiations with the Trump administration, restoring global access.",
+        "summary": "Anthropic's Claude Fable 5 is set to return online after negotiations with the Trump administration.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,49 +71,41 @@
       {
         "title": "Microsoft is laying off 4,800 employees",
         "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-        "summary": "Microsoft announces layoffs of 4,800 employees as it restructures its workforce for the new financial year.",
+        "summary": "Microsoft announces layoffs of 4,800 employees as part of its restructuring for the new financial year.",
         "source": "theverge.com",
         "date": "2026-07-06T09:30:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The fanfiction community is at war with AI — and itself",
-        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-        "summary": "The fanfiction community grapples with internal conflict over the use of AI in writing, leading to a movement against it.",
+        "title": "Some of the nation’s rich are letting AI teach their kids",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+        "summary": "Wealthy Americans increasingly turn to AI for children's education, bypassing traditional schooling methods.",
         "source": "theverge.com",
-        "date": "2026-07-04T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-05T18:30:54-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI proposes a 5% stake in its company to the US government to ease tensions and public backlash.",
+        "summary": "OpenAI proposes a 5 percent ownership stake for the US government to mitigate public backlash against AI.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-        "summary": "Midjourney reveals a behind-the-scenes look at its medical scanner, raising questions about its effectiveness and deployment.",
+        "title": "The fanfiction community is at war with AI — and itself",
+        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+        "summary": "The fanfiction community grapples with a movement to exclude authors using generative AI, raising ethical concerns.",
         "source": "theverge.com",
-        "date": "2026-07-03T07:49:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-04T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "49ers sign third-round pick Romello Height",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-third-round-pick-romello-height",
-        "summary": "The 49ers sign third-round pick Romello Height, bolstering their roster ahead of the upcoming season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 06 Jul 2026 16:39:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b046975/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2Fnbc_pft_aiyuk_260706.jpg"
-      },
-      {
         "title": "Commanders agree to sign CB Rasul Douglas",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-agree-to-sign-cb-rasul-douglas",
-        "summary": "The Commanders agree to sign veteran cornerback Rasul Douglas, enhancing their defensive lineup.",
+        "summary": "The Commanders sign veteran cornerback Rasul Douglas, bolstering their defensive lineup.",
         "source": "nbcsports.com",
         "date": "Mon, 06 Jul 2026 11:49:19 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
@@ -127,28 +119,36 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
       },
       {
+        "title": "49ers sign third-round pick Romello Height",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-third-round-pick-romello-height",
+        "summary": "The 49ers have signed third-round pick Romello Height, strengthening their roster ahead of the season.",
+        "source": "nbcsports.com",
+        "date": "Mon, 06 Jul 2026 16:39:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b046975/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2Fnbc_pft_aiyuk_260706.jpg"
+      },
+      {
+        "title": "George Kittle: Mike Evans is our first veteran WR since Emmanuel Sanders",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-mike-evans-is-our-first-veteran-wr-since-emmanuel-sanders",
+        "summary": "George Kittle praises new veteran WR Mike Evans, calling him 'unguardable' during offseason practices.",
+        "source": "nbcsports.com",
+        "date": "Mon, 06 Jul 2026 17:26:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4fa018f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F664%2F347%2Fnbc_pft_wedding_260706.jpg"
+      },
+      {
         "title": "Titans waive DL C.J. Ravenell off of injured reserve",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-waive-dl-c-j-ravenell-off-of-injured-reserve",
-        "summary": "The Titans waive defensive lineman C.J. Ravenell from injured reserve, making a roster adjustment.",
+        "summary": "The Titans waive DL C.J. Ravenell from injured reserve, making roster adjustments ahead of the season.",
         "source": "nbcsports.com",
         "date": "Mon, 06 Jul 2026 16:34:07 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7f97b19/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2Fbalogun.jpg"
       },
       {
-        "title": "Stevie Johnson: Keon Coleman can be the best, we're working on how to make it show",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stevie-johnson-keon-coleman-can-be-the-best-were-working-on-how-to-make-it-show",
-        "summary": "Bills receiver Keon Coleman prepares for a pivotal season with guidance from former star Stevie Johnson.",
+        "title": "Aaron Rodgers: Mike McCarthy's offense is all about the quarterback’s timing",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-mike-mccarthys-offense-is-all-about-the-quarterbacks-timing",
+        "summary": "Aaron Rodgers emphasizes timing in Mike McCarthy's offense as they reunite in Pittsburgh.",
         "source": "nbcsports.com",
-        "date": "Mon, 06 Jul 2026 13:55:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea1cc65/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F381%2F639%2Fnbc_pftpm_jjonescbs_260702.jpg"
-      },
-      {
-        "title": "Justin Reid: Cam Jordan's return huge for Saints culture",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-reid-cam-jordans-return-huge-for-saints-culture",
-        "summary": "Cam Jordan's return is hailed as a significant boost for the Saints' culture as he signs a new contract.",
-        "source": "nbcsports.com",
-        "date": "Mon, 06 Jul 2026 08:40:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b06c78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F171%2Fnbc_pft_predictionmrkts_260612.jpg"
+        "date": "Mon, 06 Jul 2026 06:44:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5aa5133/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F143%2F655%2Fnbc_pft_rodgersyoungqbs_260521.jpg"
       }
     ]
   }
