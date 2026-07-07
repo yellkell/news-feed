@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-07T01:14:18.656Z",
+  "updated": "2026-07-07T05:08:05.427Z",
   "feed": {
     "VR": [
       {
         "title": "Smart Glasses Startup Even Realities Secures Unicorn Status with $150M Funding Round",
         "url": "https://roadtovr.com/smart-glasses-even-realities-unicorn-150m-funding/",
-        "summary": "Even Realities secures unicorn status with $150 million funding, boosting its valuation to $1 billion for smart glasses development.",
+        "summary": "Even Realities achieves unicorn status with $150 million funding, aiming to enhance smart glasses development.",
         "source": "roadtovr.com",
         "date": "Mon, 06 Jul 2026 12:00:19 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/even-g2.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Hot Dogs, Horseshoes & Hand Grenades Leaves Early Access After 10 Years",
         "url": "https://www.uploadvr.com/hots-dogs-horseshoes-and-hand-grenades-leaves-early-access-after-ten-years/",
-        "summary": "Hot Dogs, Horseshoes & Hand Grenades exits Early Access after a decade, marking a significant milestone for the popular VR shooter.",
+        "summary": "After ten years in Early Access, the popular VR shooter Hot Dogs, Horseshoes & Hand Grenades officially launches its 1.0 version.",
         "source": "uploadvr.com",
         "date": "Mon, 06 Jul 2026 08:34:59 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/h3vr-ss.jpg"
@@ -21,41 +21,41 @@
       {
         "title": "Discord App Now On Quest, With Streaming - But It's Rough",
         "url": "https://www.uploadvr.com/discord-now-on-meta-quest-with-streaming/",
-        "summary": "Discord launches a 2D app on Meta Quest headsets, offering streaming but facing technical challenges.",
+        "summary": "Discord is now available on Meta Quest headsets, offering streaming but facing technical challenges.",
         "source": "uploadvr.com",
         "date": "Thu, 02 Jul 2026 17:55:18 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/discord-screenshot-01.webp"
       },
       {
-        "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
-        "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
-        "summary": "VirtualGo introduces a mixed reality multiplayer system allowing remote players to join sessions as VR avatars.",
-        "source": "uploadvr.com",
-        "date": "Fri, 03 Jul 2026 17:16:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
-      },
-      {
         "title": "Valve may be ready to reveal Steam Frame price and release date",
         "url": "https://mixed-news.com/en/valve-may-be-ready-to-reveal-steam-frame-price-and-release-date/",
-        "summary": "Valve hints at an imminent reveal for the Steam Frame VR headset, following updates on its hardware lineup.",
+        "summary": "Valve's Steam Frame VR headset may soon reveal its price and release date following recent hardware updates.",
         "source": "mixed-news.com",
         "date": "Sun, 05 Jul 2026 02:07:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/Seam-Frame.jpg"
       },
       {
-        "title": "Hellsplit: Labyrinth Is A Dark Fantasy Action RPG Coming To Quest In 2027",
-        "url": "https://www.uploadvr.com/hellsplit-labyrinth-is-a-dark-fantasy-action-rpg-coming-to-quest-in-2027/",
-        "summary": "Hellsplit: Labyrinth, a dark fantasy action RPG, is set to launch on Quest headsets in Spring 2027.",
+        "title": "VirtualGo's Mixed Reality Multiplayer System Lets People Join Your Session As VR",
+        "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
+        "summary": "VirtualGo introduces a mixed reality multiplayer system allowing remote players to join via VR.",
         "source": "uploadvr.com",
-        "date": "Mon, 06 Jul 2026 15:28:05 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/hellsplit-labyrinth.png"
+        "date": "Fri, 03 Jul 2026 17:16:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png"
+      },
+      {
+        "title": "Contractors Showdown: ExfilZone Mid Season Update Adds New DLC & Mission Lines",
+        "url": "https://www.uploadvr.com/contractors-showdown-exfilzone-mid-season-update-adds-new-dlc-mission-lines/",
+        "summary": "Contractors Showdown: ExfilZone releases a mid-season update featuring new DLC and mission lines.",
+        "source": "uploadvr.com",
+        "date": "Thu, 02 Jul 2026 17:56:14 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DLC-character.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic unveils Claude Science, an AI workbench designed to streamline scientific research and data visualization.",
+        "summary": "Anthropic unveils Claude Science, an AI workbench designed to assist scientists with fragmented tools and datasets.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
         "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "summary": "Anthropic's Claude Fable 5 is set to return after negotiations with the Trump administration, restoring global access.",
+        "summary": "Anthropic's Claude Fable 5 is set to return after negotiations with the Trump administration.",
         "source": "theverge.com",
         "date": "2026-06-30T20:03:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,84 +71,84 @@
       {
         "title": "Microsoft is laying off 4,800 employees",
         "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-        "summary": "Microsoft announces layoffs of 4,800 employees as part of its restructuring for the new financial year.",
+        "summary": "Microsoft announces layoffs of 4,800 employees as part of its new financial year restructuring.",
         "source": "theverge.com",
         "date": "2026-07-06T09:30:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+        "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+        "summary": "Google's smart speaker struggles to find a compelling second act despite advancements in AI technology.",
+        "source": "theverge.com",
+        "date": "2026-07-01T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Some of the nation’s rich are letting AI teach their kids",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-        "summary": "Wealthy Americans are increasingly turning to AI for educational purposes, bypassing traditional schooling methods.",
+        "summary": "Wealthy Americans increasingly turn to AI for children's education, bypassing traditional schooling methods.",
         "source": "theverge.com",
         "date": "2026-07-05T18:30:54-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI proposes giving the Trump administration a 5% stake in its AI ventures to alleviate public backlash.",
-        "source": "theverge.com",
-        "date": "2026-07-02T06:23:27-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-        "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-        "summary": "Oracle's recent layoffs are fueling its significant investments in AI infrastructure and data centers.",
+        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+        "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+        "summary": "Microsoft discovers a new lightweight backdoor that steals cryptocurrency, spreading via USB.",
         "source": "arstechnica.com",
-        "date": "Tue, 23 Jun 2026 20:17:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg"
+        "date": "Thu, 18 Jun 2026 23:28:52 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Commanders agree to sign CB Rasul Douglas",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-agree-to-sign-cb-rasul-douglas",
-        "summary": "The Commanders sign veteran cornerback Rasul Douglas, enhancing their defensive lineup.",
-        "source": "nbcsports.com",
-        "date": "Mon, 06 Jul 2026 11:49:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
-      },
-      {
         "title": "Dr. Myron Rolle joins NFLPA as a strategic advisor for player health",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dr-myron-rolle-joins-nflpa-as-a-strategic-advisor-for-player-health",
-        "summary": "Former NFL safety Myron Rolle joins the NFLPA as a strategic advisor for player health.",
+        "summary": "Former NFL safety Myron Rolle joins the NFLPA as a strategic advisor focused on player health.",
         "source": "nbcsports.com",
         "date": "Mon, 06 Jul 2026 11:54:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
       },
       {
+        "title": "Commanders agree to sign CB Rasul Douglas",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-agree-to-sign-cb-rasul-douglas",
+        "summary": "The Commanders sign veteran cornerback Rasul Douglas to bolster their defensive lineup.",
+        "source": "nbcsports.com",
+        "date": "Mon, 06 Jul 2026 11:49:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
+      },
+      {
         "title": "49ers sign third-round pick Romello Height",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-third-round-pick-romello-height",
-        "summary": "The 49ers officially sign third-round pick Romello Height, solidifying their roster ahead of the season.",
+        "summary": "The 49ers secure third-round pick Romello Height, enhancing their roster ahead of the upcoming season.",
         "source": "nbcsports.com",
         "date": "Mon, 06 Jul 2026 16:39:30 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b046975/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2Fnbc_pft_aiyuk_260706.jpg"
       },
       {
-        "title": "Terrion Arnold's hearing regarding monitoring device was postponed until Friday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnolds-hearing-regarding-monitoring-device-was-postponed-until-friday",
-        "summary": "Terrion Arnold's hearing regarding an ankle monitor has been postponed as he awaits trial on felony charges.",
+        "title": "Nate Thomas readies to compete for Cowboys' starting LT job",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nate-thomas-readies-to-compete-for-cowboys-starting-lt-job",
+        "summary": "Nate Thomas prepares to compete for the Cowboys' starting left tackle position amid team adjustments.",
         "source": "nbcsports.com",
-        "date": "Mon, 06 Jul 2026 18:44:16 -0400",
+        "date": "Mon, 06 Jul 2026 20:44:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
+      },
+      {
+        "title": "Terrion Arnold clears waivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-clears-waivers",
+        "summary": "Free-agent cornerback Terrion Arnold clears waivers, with no teams claiming his contract.",
+        "source": "nbcsports.com",
+        "date": "Mon, 06 Jul 2026 17:58:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb0e579/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_tarnold_260702.jpg"
       },
       {
-        "title": "Aaron Rodgers: Mike McCarthy's offense is all about the quarterback’s timing",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-mike-mccarthys-offense-is-all-about-the-quarterbacks-timing",
-        "summary": "Aaron Rodgers emphasizes the importance of timing in Mike McCarthy's offensive strategy during their first season together.",
+        "title": "Marcellus Willey \"completely and unequivocally\" denies allegation of domestic battery",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marcellus-willey-completely-and-unequivocally-denies-allegation-of-domestic-battery",
+        "summary": "Marcellus Wiley denies domestic battery allegations following his arrest on July 4.",
         "source": "nbcsports.com",
-        "date": "Mon, 06 Jul 2026 06:44:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5aa5133/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F143%2F655%2Fnbc_pft_rodgersyoungqbs_260521.jpg"
-      },
-      {
-        "title": "George Kittle: Mike Evans is our first veteran WR since Emmanuel Sanders",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-mike-evans-is-our-first-veteran-wr-since-emmanuel-sanders",
-        "summary": "49ers tight end George Kittle praises Mike Evans as their first veteran WR since Emmanuel Sanders.",
-        "source": "nbcsports.com",
-        "date": "Mon, 06 Jul 2026 17:26:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4fa018f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F664%2F347%2Fnbc_pft_wedding_260706.jpg"
+        "date": "Mon, 06 Jul 2026 18:14:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69951bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2Fnbc_pft_deshaunwatson_260706.jpg"
       }
     ]
   }
