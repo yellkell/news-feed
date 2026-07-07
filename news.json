@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-07T16:11:10.105Z",
+  "updated": "2026-07-07T18:18:56.491Z",
   "feed": {
     "VR": [
       {
+        "title": "HTC’s Revenue Stabilizes as XR Pioneer Pins Hopes on AI, Smart Glasses and Enterprise",
+        "url": "https://roadtovr.com/htc-revenue-stabilizes-smart-glasses-xr-enterprise/",
+        "summary": "HTC has stabilized its revenue while focusing on AI, smart glasses, and enterprise solutions, according to its latest shareholder report.",
+        "source": "roadtovr.com",
+        "date": "Tue, 07 Jul 2026 15:16:39 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/vive-eagle.jpg?resize=1280%2C719&quality=89&ssl=1"
+      },
+      {
         "title": "A camera-free smart glasses startup just hit $1 billion, and Meta should notice",
         "url": "https://mixed-news.com/en/a-camera-free-smart-glasses-startup-just-hit-1-billion-and-meta-should-notice/",
-        "summary": "Even Realities has raised $150 million at a $1 billion valuation, positioning itself as a significant player in the competitive smart glasses market.",
+        "summary": "Even Realities has raised $150 million, reaching a $1 billion valuation, positioning itself as a major player in the smart glasses market.",
         "source": "mixed-news.com",
         "date": "Tue, 07 Jul 2026 01:09:23 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Even-Realities.webp"
@@ -13,7 +21,7 @@
       {
         "title": "Smart Contact Lenses Move Closer to Reality as XPANCEO Expands JBD Display Partnership",
         "url": "https://roadtovr.com/smart-contact-lens-xpanceo-jbd-display-partnership/",
-        "summary": "XPANCEO expands its partnership with JBD to develop advanced micro-displays for smart contact lenses, bringing the technology closer to market.",
+        "summary": "XPANCEO is expanding its partnership with JBD to co-develop advanced micro-displays for smart contact lenses, moving closer to market readiness.",
         "source": "roadtovr.com",
         "date": "Tue, 07 Jul 2026 13:09:34 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/XPANCEO-x-JBD.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -21,7 +29,7 @@
       {
         "title": "Subscription Now Required For Longer Access To Some Meta Glasses Features",
         "url": "https://www.uploadvr.com/meta-one-premium-subscription-now-required-for-longer-access-to-glasses-features/",
-        "summary": "Meta introduces a subscription model for its smart glasses, requiring users to pay for extended access to advanced features.",
+        "summary": "Meta now requires a subscription for extended access to advanced features of its smart glasses, starting with the Conversation Focus tool.",
         "source": "uploadvr.com",
         "date": "Mon, 06 Jul 2026 17:20:25 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Conversation-Focus-Meta-Connect-2025-shot.jpeg"
@@ -29,33 +37,33 @@
       {
         "title": "Hot Dogs, Horseshoes & Hand Grenades Leaves Early Access After 10 Years",
         "url": "https://www.uploadvr.com/hots-dogs-horseshoes-and-hand-grenades-leaves-early-access-after-ten-years/",
-        "summary": "Hot Dogs, Horseshoes & Hand Grenades exits Early Access after a decade, marking a significant milestone for the popular VR shooter.",
+        "summary": "After ten years in early access, the popular VR shooter Hot Dogs, Horseshoes & Hand Grenades has officially launched its 1.0 version.",
         "source": "uploadvr.com",
         "date": "Mon, 06 Jul 2026 08:34:59 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/h3vr-ss.jpg"
       },
       {
-        "title": "Hellsplit: Labyrinth Is A Dark Fantasy Action RPG Coming To Quest In 2027",
-        "url": "https://www.uploadvr.com/hellsplit-labyrinth-is-a-dark-fantasy-action-rpg-coming-to-quest-in-2027/",
-        "summary": "Action RPG Hellsplit: Labyrinth is set to launch on Quest headsets in Spring 2027, promising an immersive dark fantasy experience.",
-        "source": "uploadvr.com",
-        "date": "Mon, 06 Jul 2026 15:28:05 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/hellsplit-labyrinth.png"
-      },
-      {
-        "title": "‘MemoMind One’ Display Smart Glasses Blast Past $500K Crowdfunding Mark",
-        "url": "https://roadtovr.com/memomind-one-smart-glasses-kickstarter-release/",
-        "summary": "MemoMind's crowdfunding campaign for its smart glasses has surpassed $500,000, showcasing strong consumer interest in innovative AI hardware.",
+        "title": "Veteran VR Shooter ‘Hot Dogs, Horseshoes & Hand Grenades’ Finally Leaves Early Access",
+        "url": "https://roadtovr.com/vr-shooter-hot-dogs-horseshoes-hand-grenades-1-0-release/",
+        "summary": "Veteran VR shooter Hot Dogs, Horseshoes & Hand Grenades has officially exited early access, marking a significant milestone for the title.",
         "source": "roadtovr.com",
-        "date": "Fri, 03 Jul 2026 14:37:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-lrgjpg.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Mon, 06 Jul 2026 11:18:59 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/h3vr-1.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
+        "title": "Anthropic is launching Claude Cowork on mobile and web",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+        "summary": "Anthropic's Claude Cowork AI platform is now available on mobile and web, expanding access beyond its desktop app.",
+        "source": "theverge.com",
+        "date": "2026-07-07T13:46:59-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Anthropic wants to develop its own drugs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic unveils Claude Science, an AI workbench aimed at streamlining scientific research by integrating various tools and datasets.",
+        "summary": "Anthropic announced Claude Science, an AI workbench for scientists aimed at integrating fragmented tools and datasets into a unified environment.",
         "source": "theverge.com",
         "date": "2026-07-03T09:56:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,92 +71,84 @@
       {
         "title": "Some of the nation’s rich are letting AI teach their kids",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-        "summary": "Wealthy Americans are increasingly turning to AI for educational purposes, opting for AI-driven learning over traditional schooling.",
+        "summary": "Wealthy Americans are increasingly turning to AI for educational purposes, opting for AI tutors over traditional schooling methods.",
         "source": "theverge.com",
         "date": "2026-07-05T18:30:54-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft is laying off 4,800 employees",
-        "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-        "summary": "Microsoft announces layoffs of approximately 4,800 employees as part of its restructuring efforts at the start of the new financial year.",
-        "source": "theverge.com",
-        "date": "2026-07-06T09:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-        "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-        "summary": "Oracle's recent layoffs are part of a broader strategy to invest billions in AI-driven data center infrastructure.",
-        "source": "arstechnica.com",
-        "date": "Tue, 23 Jun 2026 20:17:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg"
-      },
-      {
         "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
         "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "summary": "OpenAI proposes a 5 percent ownership stake for the US government to mitigate public backlash against AI technologies.",
+        "summary": "OpenAI proposed giving the Trump administration a 5 percent stake in its company to ease tensions and address public concerns over AI.",
         "source": "theverge.com",
         "date": "2026-07-02T06:23:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "I spy",
-        "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-        "summary": "A new fanworks movement is emerging to combat the use of generative AI in fanfiction, sparking controversy within the community.",
+        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+        "summary": "Midjourney showcased a behind-the-scenes look at its medical scanner, raising questions about its effectiveness and potential applications.",
         "source": "theverge.com",
-        "date": "2026-07-06T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-03T07:49:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Microsoft is laying off 4,800 employees",
+        "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+        "summary": "Microsoft is laying off approximately 4,800 employees, marking another significant reduction in its workforce as it enters a new financial year.",
+        "source": "theverge.com",
+        "date": "2026-07-06T09:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "49ers sign third-round pick Romello Height",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-third-round-pick-romello-height",
-        "summary": "The 49ers have signed third-round pick Romello Height, bolstering their roster ahead of the upcoming season.",
+        "title": "2027 free agent negotiating window will open a day after the Combine ends",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2027-free-agent-negotiating-window-will-open-a-day-after-the-combine-ends",
+        "summary": "The 2027 NFL free agent negotiating window will open on March 9, a day after the NFL Combine concludes.",
         "source": "nbcsports.com",
-        "date": "Mon, 06 Jul 2026 16:39:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b046975/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2Fnbc_pft_aiyuk_260706.jpg"
-      },
-      {
-        "title": "Marshawn Kneeland had stage 1 CTE",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marshawn-kneeland-had-stage-1-cte",
-        "summary": "Cowboys defensive lineman Marshawn Kneeland was diagnosed with stage 1 CTE, raising awareness about mental health in sports.",
-        "source": "nbcsports.com",
-        "date": "Tue, 07 Jul 2026 09:33:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/04a4cfd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F151%2F158%2Fnbc_pft_pftpm_alsfootball_260630.jpg"
-      },
-      {
-        "title": "Shedeur Sanders: I'm not content just being on a team, I'm trying to be one of the greatest",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-im-not-content-just-being-on-a-team-im-trying-to-be-one-of-the-greatest",
-        "summary": "Shedeur Sanders expresses his ambition to excel beyond just making the team, aiming for greatness in the NFL.",
-        "source": "nbcsports.com",
-        "date": "Tue, 07 Jul 2026 04:29:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
+        "date": "Tue, 07 Jul 2026 12:38:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/456c75c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2FUSATSI_21713091_copy.jpg"
       },
       {
         "title": "Brian Schottenheimer: Cowboys were nervous about missing out on Caleb Downs",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-cowboys-were-nervous-about-missing-out-on-caleb-downs",
-        "summary": "The Cowboys traded up in the draft to secure safety Caleb Downs, indicating their commitment to strengthening their defense.",
+        "summary": "The Cowboys traded up in the 2026 NFL draft to select safety Caleb Downs, indicating their desire to secure key defensive talent.",
         "source": "nbcsports.com",
         "date": "Tue, 07 Jul 2026 11:20:51 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
       },
       {
-        "title": "Report: Bucs in \"no rush\" to work out new deals with Baker Mayfield, Vita Vea",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bucs-in-no-rush-to-work-out-new-deals-with-baker-mayfield-vita-vea",
-        "summary": "The Buccaneers are in no rush to negotiate new contracts with key players Baker Mayfield and Vita Vea as training camp approaches.",
+        "title": "Shedeur Sanders: I'm not content just being on a team, I'm trying to be one of the greatest",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-im-not-content-just-being-on-a-team-im-trying-to-be-one-of-the-greatest",
+        "summary": "Shedeur Sanders aims to surpass expectations and establish himself as one of the NFL's greatest, beyond just competing in training camp.",
         "source": "nbcsports.com",
-        "date": "Tue, 07 Jul 2026 08:40:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/55529a9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F657%2F1015%2Fflorio.jpg"
+        "date": "Tue, 07 Jul 2026 04:29:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
       },
       {
-        "title": "Nate Thomas readies to compete for Cowboys' starting LT job",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nate-thomas-readies-to-compete-for-cowboys-starting-lt-job",
-        "summary": "Nate Thomas is preparing to compete for the Cowboys' starting left tackle position, adding depth to their offensive line.",
+        "title": "49ers sign third-round pick Romello Height",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-third-round-pick-romello-height",
+        "summary": "The 49ers have signed third-round pick Romello Height, adding depth to their roster as training camp approaches.",
         "source": "nbcsports.com",
-        "date": "Mon, 06 Jul 2026 20:44:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
+        "date": "Mon, 06 Jul 2026 16:39:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b046975/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2Fnbc_pft_aiyuk_260706.jpg"
+      },
+      {
+        "title": "Jets to open one training camp practice to general public, six more for season ticket holders",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-to-open-one-training-camp-practice-to-general-public-six-more-for-season-ticket-holders",
+        "summary": "The Jets will host seven training camp practices this summer, with one session open to the general public.",
+        "source": "nbcsports.com",
+        "date": "Tue, 07 Jul 2026 11:30:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1059603/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2FGenoFlorio6-23.jpg"
+      },
+      {
+        "title": "Terrion Arnold clears waivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-clears-waivers",
+        "summary": "Cornerback Terrion Arnold has cleared waivers, with no teams claiming the remainder of his guaranteed first-round contract.",
+        "source": "nbcsports.com",
+        "date": "Mon, 06 Jul 2026 17:58:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb0e579/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F382%2F115%2Fnbc_pftpm_tarnold_260702.jpg"
       }
     ]
   }
