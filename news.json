@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-08T22:42:31.937Z",
+  "updated": "2026-07-08T23:45:06.532Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Closes Smart Glasses Privacy Loophole With New Camera-Killing Update",
         "url": "https://roadtovr.com/meta-ray-ban-glasses-privacy-led-camera-update/",
-        "summary": "Meta is rolling out a firmware update to its smart glasses that disables the camera if the privacy LED is tampered with.",
+        "summary": "Meta is rolling out an update to its smart glasses that disables the camera if the privacy LED is tampered with, enhancing user privacy.",
         "source": "roadtovr.com",
         "date": "Wed, 08 Jul 2026 10:53:21 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/ray-ban-meta-2-edited.jpg?resize=1620%2C1080&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "18Birdies & Arccos Make Meta Glasses Act As Your AI Golf Caddy",
         "url": "https://www.uploadvr.com/18birdies-arccos-meta-glasses-ai-golf-caddy/",
-        "summary": "The 18Birdies and Arccos apps are now integrated into Meta's smart glasses, acting as a personal AI golf caddy in the US and Canada.",
+        "summary": "The 18Birdies and Arccos apps are now integrated into Meta AI on smart glasses, functioning as a personal AI golf caddy.",
         "source": "uploadvr.com",
         "date": "Tue, 07 Jul 2026 14:56:23 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/18Birdies-and-Arccos-on-Meta-smart-glasses.png"
@@ -21,7 +21,7 @@
       {
         "title": "A camera-free smart glasses startup just hit $1 billion, and Meta should notice",
         "url": "https://mixed-news.com/en/a-camera-free-smart-glasses-startup-just-hit-1-billion-and-meta-should-notice/",
-        "summary": "Smart glasses startup Even Realities has raised $150 million, achieving a $1 billion valuation and entering a competitive market.",
+        "summary": "Smart glasses startup Even Realities has achieved unicorn status with a $150 million funding round, positioning itself as a competitor to Meta.",
         "source": "mixed-news.com",
         "date": "Tue, 07 Jul 2026 01:09:23 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Even-Realities.webp"
@@ -29,33 +29,33 @@
       {
         "title": "‘Pistol Whip’ Studio Reportedly Developing “impossible to ignore” Multiplayer VR Game",
         "url": "https://roadtovr.com/cloud-head-next-vr-game-report/",
-        "summary": "Cloudhead Games, known for 'Pistol Whip', is reportedly developing a new multiplayer VR game, hinting at an exciting future title.",
+        "summary": "Cloudhead Games, known for 'Pistol Whip', is reportedly developing a new multiplayer VR game, hinting at an exciting future for VR gaming.",
         "source": "roadtovr.com",
         "date": "Wed, 08 Jul 2026 13:47:21 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/cloudhead.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Smart Glasses Startup Even Realities Secures Unicorn Status with $150M Funding Round",
-        "url": "https://roadtovr.com/smart-glasses-even-realities-unicorn-150m-funding/",
-        "summary": "Even Realities has secured unicorn status with a $150 million funding round, intensifying competition in the smart glasses market.",
-        "source": "roadtovr.com",
-        "date": "Mon, 06 Jul 2026 12:00:19 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/even-g2.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
         "title": "Veteran VR Shooter ‘Hot Dogs, Horseshoes & Hand Grenades’ Finally Leaves Early Access",
         "url": "https://roadtovr.com/vr-shooter-hot-dogs-horseshoes-hand-grenades-1-0-release/",
-        "summary": "The popular VR shooter 'Hot Dogs, Horseshoes & Hand Grenades' has officially exited early access after ten years of development.",
+        "summary": "The popular VR shooter 'Hot Dogs, Horseshoes & Hand Grenades' has officially exited Early Access after ten years of updates.",
         "source": "roadtovr.com",
         "date": "Mon, 06 Jul 2026 11:18:59 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/h3vr-1.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
+        "title": "Smart Contact Lenses Move Closer to Reality as XPANCEO Expands JBD Display Partnership",
+        "url": "https://roadtovr.com/smart-contact-lens-xpanceo-jbd-display-partnership/",
+        "summary": "XPANCEO is expanding its partnership with JBD to develop advanced micro-displays for smart contact lenses, bringing the tech closer to market.",
+        "source": "roadtovr.com",
+        "date": "Tue, 07 Jul 2026 13:09:34 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/XPANCEO-x-JBD.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
         "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-        "summary": "Meta has launched the Muse Image model, its first AI image generation tool, enhancing image-making capabilities across its platforms.",
+        "summary": "Meta has launched the Muse Image model, enabling AI-generated images that incorporate other Instagram users, enhancing social media interactivity.",
         "source": "theverge.com",
         "date": "2026-07-07T16:31:58-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Anthropic is launching Claude Cowork on mobile and web",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-        "summary": "Anthropic's Claude Cowork AI platform is now available on mobile and web, expanding access beyond its desktop app.",
+        "summary": "Anthropic's Claude Cowork AI platform is now available on mobile and web, expanding access beyond its previous desktop-only format.",
         "source": "theverge.com",
         "date": "2026-07-07T13:46:59-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,36 +71,85 @@
       {
         "title": "ChatGPT’s upgraded voice mode is better at shutting up",
         "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-        "summary": "OpenAI is upgrading ChatGPT's voice mode to be more conversational and less interruptive, enhancing user interactions.",
+        "summary": "OpenAI is upgrading ChatGPT's voice mode to improve conversational flow, making interactions feel more natural and human-like.",
         "source": "theverge.com",
         "date": "2026-07-08T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Anthropic wants to develop its own drugs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic announced Claude Science, a new AI workbench aimed at assisting scientists with fragmented tools and datasets.",
+        "title": "Some of the nation’s rich are letting AI teach their kids",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+        "summary": "Wealthy families are increasingly turning to AI for education, opting for AI tutors over traditional schooling methods.",
         "source": "theverge.com",
-        "date": "2026-07-03T09:56:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-05T18:30:54-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
         "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-        "summary": "Hackers are leveraging popular AI tools to assemble massive botnets, raising concerns about cybersecurity.",
+        "summary": "Hackers are exploiting popular AI tools to create massive botnets, showcasing vulnerabilities in current AI technologies.",
         "source": "arstechnica.com",
         "date": "Wed, 08 Jul 2026 07:00:51 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg"
       },
       {
-        "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-        "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-        "summary": "Oracle's recent layoffs are fueling its debt-fueled investments in AI infrastructure, highlighting the industry's financial challenges.",
-        "source": "arstechnica.com",
-        "date": "Tue, 23 Jun 2026 20:17:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg"
+        "title": "Anthropic wants to develop its own drugs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+        "summary": "Anthropic announced Claude Science, an AI workbench for scientists aimed at integrating fragmented tools and datasets into a cohesive platform.",
+        "source": "theverge.com",
+        "date": "2026-07-03T09:56:52-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
-    "NFL": []
+    "NFL": [
+      {
+        "title": "New study finds NFL players nearly four times more likely to die of neurodegenerative disease",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-study-finds-nfl-players-nearly-four-times-more-likely-to-die-of-neurodegenerative-disease",
+        "summary": "A new study reveals NFL players are nearly four times more likely to die from neurodegenerative diseases, raising concerns about player health.",
+        "source": "nbcsports.com",
+        "date": "Wed, 08 Jul 2026 13:08:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fce4758/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2FMarshawnKneeland7-7.jpg"
+      },
+      {
+        "title": "Colts to induct Adam Vinatieri into their Ring of Honor",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-to-induct-adam-vinatieri-into-their-ring-of-honor",
+        "summary": "Adam Vinatieri will be inducted into the Colts' Ring of Honor, celebrating his legacy as one of the NFL's greatest kickers.",
+        "source": "nbcsports.com",
+        "date": "Wed, 08 Jul 2026 12:12:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fc26f76/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F383%2F91%2Fnbc_pftpm_marksanchez_260702.jpg"
+      },
+      {
+        "title": "Bills to hold two practices at their new stadium in August",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-to-hold-two-practices-at-their-new-stadium-in-august",
+        "summary": "The Buffalo Bills will hold two practices at their new stadium in August, adding excitement to their training camp schedule.",
+        "source": "nbcsports.com",
+        "date": "Wed, 08 Jul 2026 16:58:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7058e69/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2Fnbc_pftpm_wcrights_260708.jpg"
+      },
+      {
+        "title": "Von Miller posts photo of himself in a Cowboys jersey",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-posts-photo-of-himself-in-a-cowboys-jersey",
+        "summary": "Von Miller shared a photo in a Cowboys jersey, reflecting on his past regrets in team choices.",
+        "source": "nbcsports.com",
+        "date": "Wed, 08 Jul 2026 18:11:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fce4758/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2FMarshawnKneeland7-7.jpg"
+      },
+      {
+        "title": "Saints announce nine open training camp practices",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-announce-nine-open-training-camp-practices",
+        "summary": "The New Orleans Saints have announced nine open training camp practices, starting July 29, for fans to engage with the team.",
+        "source": "nbcsports.com",
+        "date": "Wed, 08 Jul 2026 16:18:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/86f324b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2FFlorioTampering7-8.jpg"
+      },
+      {
+        "title": "Josh Allen on flag football: Being an Olympic gold medalist is a dream I've always had",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-on-flag-football-being-an-olympic-gold-medalist-is-a-dream-ive-always-had",
+        "summary": "Josh Allen expressed his dream of being Team USA's quarterback in flag football for the 2028 Olympics in Los Angeles.",
+        "source": "nbcsports.com",
+        "date": "Wed, 08 Jul 2026 09:54:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/20e1924/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F145%2F107%2Fnbc_pft_joshallen_260521.jpg"
+      }
+    ]
   }
 }
