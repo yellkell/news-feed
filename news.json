@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-09T11:53:42.678Z",
+  "updated": "2026-07-09T14:37:47.537Z",
   "feed": {
     "VR": [
       {
         "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
         "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
-        "summary": "Leaked images reveal that Vertigo Games' planned 'Tomb Raider' VR project has been cancelled, marking a significant loss for the VR gaming community.",
+        "summary": "A leak reveals that Vertigo Games' Tomb Raider VR project was cancelled earlier this year after being in development since November 2024.",
         "source": "roadtovr.com",
         "date": "Thu, 09 Jul 2026 11:20:09 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Meta Closes Smart Glasses Privacy Loophole With New Camera-Killing Update",
         "url": "https://roadtovr.com/meta-ray-ban-glasses-privacy-led-camera-update/",
-        "summary": "Meta's latest update for its smart glasses will disable the camera if the privacy LED is tampered with, enhancing user privacy.",
+        "summary": "Meta's latest update for smart glasses addresses privacy concerns by disabling the camera if the privacy LED is tampered with.",
         "source": "roadtovr.com",
         "date": "Wed, 08 Jul 2026 10:53:21 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/ray-ban-meta-2-edited.jpg?resize=1620%2C1080&quality=89&ssl=1"
@@ -21,41 +21,49 @@
       {
         "title": "‘Pistol Whip’ Studio Reportedly Developing “impossible to ignore” Multiplayer VR Game",
         "url": "https://roadtovr.com/cloud-head-next-vr-game-report/",
-        "summary": "Cloudhead Games, known for 'Pistol Whip', is reportedly developing a new multiplayer VR game, potentially expanding its successful portfolio.",
+        "summary": "Cloudhead Games, known for 'Pistol Whip,' is reportedly developing a multiplayer VR game that may include a flatscreen mode.",
         "source": "roadtovr.com",
         "date": "Wed, 08 Jul 2026 13:47:21 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/cloudhead.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Smart Contact Lenses Move Closer to Reality as XPANCEO Expands JBD Display Partnership",
-        "url": "https://roadtovr.com/smart-contact-lens-xpanceo-jbd-display-partnership/",
-        "summary": "XPANCEO is advancing smart contact lens technology by partnering with JBD to develop a new micro-display, moving closer to commercial viability.",
-        "source": "roadtovr.com",
-        "date": "Tue, 07 Jul 2026 13:09:34 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/XPANCEO-x-JBD.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
         "title": "Smart Glasses Startup Even Realities Secures Unicorn Status with $150M Funding Round",
         "url": "https://roadtovr.com/smart-glasses-even-realities-unicorn-150m-funding/",
-        "summary": "Smart glasses startup Even Realities has achieved unicorn status with a $1 billion valuation after securing $150 million in funding.",
+        "summary": "Even Realities has achieved unicorn status with a $1 billion valuation after raising $150 million for its smart glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 06 Jul 2026 12:00:19 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/even-g2.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Veteran VR Shooter ‘Hot Dogs, Horseshoes & Hand Grenades’ Finally Leaves Early Access",
-        "url": "https://roadtovr.com/vr-shooter-hot-dogs-horseshoes-hand-grenades-1-0-release/",
-        "summary": "The popular VR shooter 'Hot Dogs, Horseshoes & Hand Grenades' has officially exited early access after a decade of development.",
-        "source": "roadtovr.com",
-        "date": "Mon, 06 Jul 2026 11:18:59 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/h3vr-1.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "title": "18Birdies & Arccos Make Meta Glasses Act As Your AI Golf Caddy",
+        "url": "https://www.uploadvr.com/18birdies-arccos-meta-glasses-ai-golf-caddy/",
+        "summary": "Meta AI now integrates with 18Birdies and Arccos apps, transforming its smart glasses into a personal AI golf caddy.",
+        "source": "uploadvr.com",
+        "date": "Tue, 07 Jul 2026 14:56:23 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/18Birdies-and-Arccos-on-Meta-smart-glasses.png"
+      },
+      {
+        "title": "Hot Dogs, Horseshoes & Hand Grenades Leaves Early Access After 10 Years",
+        "url": "https://www.uploadvr.com/hots-dogs-horseshoes-and-hand-grenades-leaves-early-access-after-ten-years/",
+        "summary": "The popular VR shooter 'Hot Dogs, Horseshoes & Hand Grenades' has officially exited Steam Early Access after a decade.",
+        "source": "uploadvr.com",
+        "date": "Mon, 06 Jul 2026 08:34:59 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/h3vr-ss.jpg"
       }
     ],
     "AI": [
       {
+        "title": "Meta says its new AI model is ready to compete on coding",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+        "summary": "Meta's new Muse Spark model is now available for developers, enhancing capabilities for AI coding applications.",
+        "source": "theverge.com",
+        "date": "2026-07-09T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
         "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-        "summary": "Meta has launched the Muse Image model, its first AI image generation tool, enhancing capabilities across its apps including Instagram and WhatsApp.",
+        "summary": "Meta launches its Muse Image model, enabling AI-generated photos that incorporate Instagram users into the images.",
         "source": "theverge.com",
         "date": "2026-07-07T16:31:58-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,92 +71,84 @@
       {
         "title": "Anthropic is launching Claude Cowork on mobile and web",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-        "summary": "Anthropic is expanding access to its Claude Cowork AI platform on mobile and web, previously limited to desktop users.",
+        "summary": "Anthropic expands access to its Claude Cowork platform, now available on mobile and web for Max subscribers.",
         "source": "theverge.com",
         "date": "2026-07-07T13:46:59-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-        "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-        "summary": "A new report reveals that hackers can exploit popular AI tools to create massive botnets, raising cybersecurity concerns.",
-        "source": "arstechnica.com",
-        "date": "Wed, 08 Jul 2026 07:00:51 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg"
-      },
-      {
-        "title": "Some of the nation’s rich are letting AI teach their kids",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-        "summary": "Wealthy Americans are increasingly turning to AI for educational purposes, opting for AI tutors over traditional schooling.",
-        "source": "theverge.com",
-        "date": "2026-07-05T18:30:54-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Anthropic wants to develop its own drugs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "summary": "Anthropic announced plans to develop its own pharmaceuticals using AI, aiming to streamline scientific research and data analysis.",
-        "source": "theverge.com",
-        "date": "2026-07-03T09:56:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "ChatGPT’s upgraded voice mode is better at shutting up",
         "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-        "summary": "OpenAI is upgrading ChatGPT's voice mode to improve conversational flow, making interactions feel more natural.",
+        "summary": "OpenAI's ChatGPT voice mode has been revamped to improve conversational flow and reduce interruptions.",
         "source": "theverge.com",
         "date": "2026-07-08T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Say hello to Claude Wrapped",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+        "summary": "Anthropic introduces a 'reflect' feature for its Claude chatbot, allowing users to review their monthly usage data.",
+        "source": "theverge.com",
+        "date": "2026-07-09T09:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Reflect-graph-blog.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+        "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+        "summary": "FL Studio 2026 enhances its AI chatbot, Gopher, transforming it into a more capable assistant for music production.",
+        "source": "theverge.com",
+        "date": "2026-07-09T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Clutch Vinatieri to enter Colts' Ring of Honor",
-        "url": "https://www.espn.com/nfl/story/_/id/49308565/colts-add-kicker-adam-vinatieri-team-ring-honor",
-        "summary": "Kicker Adam Vinatieri, a two-time Super Bowl champion, will be inducted into the Colts' Ring of Honor on October 18.",
-        "source": "espn.com",
-        "date": "Thu, 9 Jul 2026 07:16:50 EST",
-        "image": ""
+        "title": "Bills to hold two practices at their new stadium in August",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-to-hold-two-practices-at-their-new-stadium-in-august",
+        "summary": "The Bills will hold two practices at their new stadium in August, adding to their summer training camp schedule.",
+        "source": "nbcsports.com",
+        "date": "Wed, 08 Jul 2026 16:58:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7058e69/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2Fnbc_pftpm_wcrights_260708.jpg"
       },
       {
-        "title": "Sources: CB Douglas to sign with Commanders",
-        "url": "https://www.espn.com/nba/story/_/id/49286897/sources-cb-rasul-douglas-sign-1-year-deal-commanders",
-        "summary": "Free agent cornerback Rasul Douglas is set to sign a one-year deal with the Washington Commanders worth up to $3.8 million.",
-        "source": "espn.com",
-        "date": "Thu, 9 Jul 2026 07:16:50 EST",
-        "image": ""
-      },
-      {
-        "title": "Chiefs' Kelce, Swift marry in ceremony at MSG",
-        "url": "https://www.espn.com/nfl/story/_/id/49188085/taylor-swift-travis-kelce-wedding-marriage-kansas-city-chiefs",
-        "summary": "Pop star Taylor Swift and Chiefs' tight end Travis Kelce tied the knot in a star-studded ceremony at Madison Square Garden.",
-        "source": "espn.com",
-        "date": "Thu, 9 Jul 2026 07:16:49 EST",
-        "image": ""
-      },
-      {
-        "title": "Late Cowboys' player Kneeland diagnosed with CTE",
-        "url": "https://www.espn.com/nfl/story/_/id/49296262/late-cowboys-player-marshawn-kneeland-diagnosed-cte",
-        "summary": "Former Cowboys defensive end Marshawn Kneeland has been posthumously diagnosed with CTE, highlighting ongoing health issues in the NFL.",
-        "source": "espn.com",
-        "date": "Thu, 9 Jul 2026 07:16:50 EST",
-        "image": ""
-      },
-      {
-        "title": "Former Titans scout Taylor found guilty of murder",
-        "url": "https://www.espn.com/nfl/story/_/id/49241520/ex-titans-scout-arkansas-state-db-taylor-found-guilty-murder",
-        "summary": "Former Titans scout Blaise Taylor has been convicted of murdering his girlfriend and her unborn child in a shocking case.",
-        "source": "espn.com",
-        "date": "Thu, 9 Jul 2026 07:16:49 EST",
-        "image": ""
+        "title": "Saints announce nine open training camp practices",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-announce-nine-open-training-camp-practices",
+        "summary": "The Saints have announced nine open training camp practices starting July 29, with the first practice the following day.",
+        "source": "nbcsports.com",
+        "date": "Wed, 08 Jul 2026 16:18:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/86f324b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2FFlorioTampering7-8.jpg"
       },
       {
         "title": "With NFL Network in the fold, ESPN increases its NFL preseason games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-nfl-network-in-the-fold-espn-increases-its-nfl-preseason-games",
-        "summary": "ESPN is set to increase its NFL preseason coverage following the acquisition of NFL Network, enhancing its broadcasting portfolio.",
+        "summary": "ESPN is increasing its NFL preseason coverage following the acquisition of NFL Network, adding more televised games.",
         "source": "nbcsports.com",
         "date": "Wed, 08 Jul 2026 20:08:51 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/86f324b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2FFlorioTampering7-8.jpg"
+      },
+      {
+        "title": "Travis Hunter is expected to be fully cleared for camp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-is-expected-to-be-fully-cleared-for-camp",
+        "summary": "Travis Hunter is expected to be fully cleared for training camp, easing concerns about his recovery.",
+        "source": "nbcsports.com",
+        "date": "Wed, 08 Jul 2026 21:21:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/86f324b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2FFlorioTampering7-8.jpg"
+      },
+      {
+        "title": "Tyler Shough: Jordyn Tyson a \"carbon copy\" of Chris Olave",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-shough-jordyn-tyson-a-carbon-copy-of-chris-olave",
+        "summary": "Saints quarterback Tyler Shough compares new draft pick Jordyn Tyson to Chris Olave after their early spring practices.",
+        "source": "nbcsports.com",
+        "date": "Thu, 09 Jul 2026 10:25:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b06c78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F511%2F171%2Fnbc_pft_predictionmrkts_260612.jpg"
+      },
+      {
+        "title": "The Buccaneers could be taking a big risk with Baker Mayfield",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-buccaneers-could-be-taking-a-big-risk-with-baker-mayfield",
+        "summary": "The Buccaneers face a significant risk with Baker Mayfield, who may choose to take less money to make a statement.",
+        "source": "nbcsports.com",
+        "date": "Thu, 09 Jul 2026 08:16:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1fbb83/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2Fnbc_pftpm_bucs_260707.jpg"
       }
     ]
   }
