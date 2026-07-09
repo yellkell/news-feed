@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-09T17:05:53.085Z",
+  "updated": "2026-07-09T18:59:22.358Z",
   "feed": {
     "VR": [
       {
         "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
         "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
-        "summary": "Vertigo Games' reported Tomb Raider VR project was cancelled earlier this year, according to leaked images and video.",
+        "summary": "Leaked images reveal that Vertigo Games was developing a Tomb Raider VR game before its cancellation earlier this year.",
         "source": "roadtovr.com",
         "date": "Thu, 09 Jul 2026 11:20:09 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Vertigo Games Amsterdam Was Allegedly Working On A Tomb Raider VR Game",
-        "url": "https://www.uploadvr.com/vertigo-games-amsterdam-was-allegedly-working-on-a-tomb-raider-vr-game/",
-        "summary": "Reports indicate that Vertigo Games Amsterdam was developing a Tomb Raider VR game before its studio closure.",
-        "source": "uploadvr.com",
-        "date": "Thu, 09 Jul 2026 05:15:37 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/8e783c22-5bba-417d-8bf4-ecc7f2ce2e48_rw_1920-1.jpg"
-      },
-      {
         "title": "VR/MR Puzzler Squingle Arcade Is Out Today On Meta Quest For Free",
         "url": "https://www.uploadvr.com/vr-mr-puzzler-squingle-arcade-is-out-today-on-meta-quest-for-free/",
-        "summary": "Squingle Arcade, a fast-paced VR/MR puzzle game, is now available for free on Meta Quest.",
+        "summary": "Squingle Arcade, a new free-to-play VR/MR puzzle game, is now available on Meta Quest with hand tracking support.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 10:00:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Landscape.png"
       },
       {
+        "title": "Meta Is Improving Its Smart Glasses Privacy LED Tampering Detection",
+        "url": "https://www.uploadvr.com/meta-improving-smart-glasses-privacy-led-tampering-detection/",
+        "summary": "Meta is enhancing its smart glasses with a firmware update to improve privacy LED tampering detection.",
+        "source": "uploadvr.com",
+        "date": "Wed, 08 Jul 2026 13:36:50 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Meta-glasses-recording-LED.png"
+      },
+      {
         "title": "Meta Closes Smart Glasses Privacy Loophole With New Camera-Killing Update",
         "url": "https://roadtovr.com/meta-ray-ban-glasses-privacy-led-camera-update/",
-        "summary": "Meta's new firmware update disables smart glasses' cameras if the privacy LED is tampered with.",
+        "summary": "Meta's latest update for smart glasses disables the camera if the privacy LED is tampered with, closing a significant privacy loophole.",
         "source": "roadtovr.com",
         "date": "Wed, 08 Jul 2026 10:53:21 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/ray-ban-meta-2-edited.jpg?resize=1620%2C1080&quality=89&ssl=1"
@@ -37,7 +37,7 @@
       {
         "title": "‘Pistol Whip’ Studio Reportedly Developing “impossible to ignore” Multiplayer VR Game",
         "url": "https://roadtovr.com/cloud-head-next-vr-game-report/",
-        "summary": "Cloudhead Games is reportedly developing a new multiplayer VR game, following the success of Pistol Whip.",
+        "summary": "Cloudhead Games, known for Pistol Whip, is reportedly developing a new multiplayer VR game that may include a flatscreen mode.",
         "source": "roadtovr.com",
         "date": "Wed, 08 Jul 2026 13:47:21 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/cloudhead.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -45,7 +45,7 @@
       {
         "title": "18Birdies & Arccos Make Meta Glasses Act As Your AI Golf Caddy",
         "url": "https://www.uploadvr.com/18birdies-arccos-meta-glasses-ai-golf-caddy/",
-        "summary": "Meta AI's integration with 18Birdies and Arccos apps allows smart glasses to function as AI golf caddies.",
+        "summary": "The 18Birdies and Arccos apps are now integrated into Meta AI, allowing smart glasses to function as personal AI golf caddies.",
         "source": "uploadvr.com",
         "date": "Tue, 07 Jul 2026 14:56:23 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/18Birdies-and-Arccos-on-Meta-smart-glasses.png"
@@ -53,17 +53,17 @@
     ],
     "AI": [
       {
-        "title": "OpenAI rolls out GPT-5.6 after government green light — and announces ‘ChatGPT Work’",
+        "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-        "summary": "OpenAI's GPT-5.6 has launched publicly after receiving government approval, along with the new 'ChatGPT Work' feature.",
+        "summary": "OpenAI has launched GPT-5.6 after receiving government approval, marking a significant advancement in AI capabilities.",
         "source": "theverge.com",
         "date": "2026-07-09T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meta says its new AI model is ready to compete on coding",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-        "summary": "Meta has introduced its Muse Spark 1.1 model, aimed at enhancing AI coding capabilities for developers.",
+        "summary": "Meta's new Muse Spark model is designed to enhance AI coding software, allowing developers to integrate it into their applications.",
         "source": "theverge.com",
         "date": "2026-07-09T10:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
         "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-        "summary": "Meta's new Muse Image model enables AI-generated photos that can include other Instagram users.",
+        "summary": "Meta has introduced its Muse Image model, enabling AI-generated photos that can include other Instagram users.",
         "source": "theverge.com",
         "date": "2026-07-07T16:31:58-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "Anthropic is launching Claude Cowork on mobile and web",
         "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-        "summary": "Anthropic's Claude Cowork platform is now available on mobile and web, expanding access for users.",
+        "summary": "Anthropic's Claude Cowork AI platform is now available on mobile and web, expanding access beyond its desktop app.",
         "source": "theverge.com",
         "date": "2026-07-07T13:46:59-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,18 +87,18 @@
       {
         "title": "ChatGPT’s upgraded voice mode is better at shutting up",
         "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-        "summary": "ChatGPT's voice mode has been upgraded to improve conversational flow and reduce interruptions.",
+        "summary": "OpenAI has revamped ChatGPT's voice mode to improve conversational flow and reduce interruptions.",
         "source": "theverge.com",
         "date": "2026-07-08T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Say hello to Claude Wrapped",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-        "summary": "Anthropic has launched a 'reflect' feature for Claude, allowing users to analyze their monthly usage data.",
+        "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+        "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+        "summary": "FL Studio 2026 upgrades its AI chatbot Gopher, transforming it into a more capable assistant engineer for users.",
         "source": "theverge.com",
-        "date": "2026-07-09T09:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Reflect-graph-blog.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-09T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
@@ -111,43 +111,43 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/768a1ad/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F973%2F931%2Fnbc_pft_infantinounderfire_260709.jpg"
       },
       {
+        "title": "Darron Lee hires a lawyer to handle first-degree murder charges",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darron-lee-hires-a-lawyer-to-handle-first-degree-murder-charges",
+        "summary": "Former NFL linebacker Darron Lee has hired a lawyer to address first-degree murder charges in Tennessee.",
+        "source": "nbcsports.com",
+        "date": "Thu, 09 Jul 2026 14:12:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5d17c77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2FWiley7-7.jpg"
+      },
+      {
+        "title": "Eight Texans training camp practices will be open to the public",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eight-texans-training-camp-practices-will-be-open-to-the-public",
+        "summary": "The Houston Texans will open eight training camp practices to the public this summer.",
+        "source": "nbcsports.com",
+        "date": "Thu, 09 Jul 2026 14:23:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
+      },
+      {
+        "title": "Report: ESPN, Adam Schefter are closing in on a \"long-term extension\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-espn-adam-schefter-are-closing-in-on-a-long-term-extension",
+        "summary": "ESPN and Adam Schefter are reportedly nearing a long-term contract extension after nearly 17 years together.",
+        "source": "nbcsports.com",
+        "date": "Thu, 09 Jul 2026 13:23:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b276696/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F976%2F859%2Fnbc_pft_longtermrisks_260709.jpg"
+      },
+      {
         "title": "Brandin Cooks expects to sign with some team before training camp, hopes it's the Bills",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandin-cooks-expects-to-sign-with-some-team-before-training-camp-hopes-its-the-bills",
-        "summary": "Brandin Cooks aims to sign with a team before training camp, expressing interest in the Buffalo Bills.",
+        "summary": "Wide receiver Brandin Cooks anticipates signing with a team before training camp, expressing hope for a deal with the Bills.",
         "source": "nbcsports.com",
         "date": "Thu, 09 Jul 2026 12:00:39 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/96afc08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F510%2F194%2Fnbc_pft_afcnuts_260612.jpg"
       },
       {
-        "title": "Bills to hold two practices at their new stadium in August",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-to-hold-two-practices-at-their-new-stadium-in-august",
-        "summary": "The Buffalo Bills will hold two practices at their new stadium in August as part of their training camp.",
+        "title": "With NFL Network in the fold, ESPN increases its NFL preseason games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-nfl-network-in-the-fold-espn-increases-its-nfl-preseason-games",
+        "summary": "ESPN is set to increase its NFL preseason game coverage following the acquisition of the NFL Network.",
         "source": "nbcsports.com",
-        "date": "Wed, 08 Jul 2026 16:58:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7058e69/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2Fnbc_pftpm_wcrights_260708.jpg"
-      },
-      {
-        "title": "Saints announce nine open training camp practices",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-announce-nine-open-training-camp-practices",
-        "summary": "The New Orleans Saints have announced nine open training camp practices starting July 29.",
-        "source": "nbcsports.com",
-        "date": "Wed, 08 Jul 2026 16:18:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/86f324b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2FFlorioTampering7-8.jpg"
-      },
-      {
-        "title": "Brandin Cooks: I still feel like it was a catch",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandin-cooks-i-still-feel-like-it-was-a-catch",
-        "summary": "Brandin Cooks remains convinced that a controversial interception call during a game was a catch.",
-        "source": "nbcsports.com",
-        "date": "Thu, 09 Jul 2026 09:31:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96afc08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F510%2F194%2Fnbc_pft_afcnuts_260612.jpg"
-      },
-      {
-        "title": "Tom Brady: Receiver drama is like Real Housewives of the NFL",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-receiver-drama-is-like-real-housewives-of-the-nfl",
-        "summary": "Tom Brady likens NFL receiver drama to reality TV, noting its persistence since his league debut.",
-        "source": "nbcsports.com",
-        "date": "Wed, 08 Jul 2026 23:31:33 -0400",
+        "date": "Wed, 08 Jul 2026 20:08:51 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/86f324b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2FFlorioTampering7-8.jpg"
       }
     ]
