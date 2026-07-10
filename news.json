@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-10T19:39:59.874Z",
+  "updated": "2026-07-10T20:52:25.920Z",
   "feed": {
     "VR": [
       {
+        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
+        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
+        "summary": "Valve has launched a 'Great on Frame' store page for its upcoming Steam Frame headset, signaling an imminent release.",
+        "source": "roadtovr.com",
+        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "XREAL’s First Budget AR Glasses Go on Sale Internationally, Priced at $300",
         "url": "https://roadtovr.com/xreals-budget-ar-glasses-price-release-date/",
-        "summary": "XREAL's budget AR glasses, priced at $300, are now available internationally, expanding access to affordable XR technology.",
+        "summary": "XREAL's budget AR glasses, priced at $300, are now available internationally, expanding their market reach beyond China.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 12:59:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-close.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -13,73 +21,65 @@
       {
         "title": "Lamborghini’s Apple Vision Pro App Reimagines the Showroom at Home",
         "url": "https://www.uploadvr.com/lamborghinis-apple-vision-pro-app-reimagines-the-showroom-at-home/",
-        "summary": "Lamborghini's new Apple Vision Pro app offers immersive showcases of its rare vehicles, allowing users to experience them in their own homes.",
+        "summary": "Lamborghini has released a free app for Apple Vision Pro, allowing users to explore life-sized models of its rare vehicles in immersive environments.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 14:19:39 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/671592.png"
       },
       {
-        "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
-        "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
-        "summary": "Meta's CTO confirmed ongoing development of multiple next-generation headsets, hinting at a potential announcement at the upcoming Connect event.",
-        "source": "uploadvr.com",
-        "date": "Thu, 09 Jul 2026 14:09:46 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
+        "title": "Former Oculus CTO John Carmack Puts up $1M for Official VR Ports of Id Software Titles",
+        "url": "https://roadtovr.com/john-carmack-1m-guarantee-id-software-vr-games/",
+        "summary": "John Carmack is still offering a $1 million guarantee to support VR ports of id Software's classic games, despite recent layoffs.",
+        "source": "roadtovr.com",
+        "date": "Fri, 10 Jul 2026 10:08:35 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2018/09/john-carmack-oculus-connect.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
         "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
-        "summary": "Leaked images reveal that a Tomb Raider VR game was in development at Vertigo Games before its cancellation earlier this year.",
+        "summary": "Leaked images reveal that a Tomb Raider VR game was in development at Vertigo Games Amsterdam before its cancellation.",
         "source": "roadtovr.com",
         "date": "Thu, 09 Jul 2026 11:20:09 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "‘Pistol Whip’ Studio Reportedly Developing “impossible to ignore” Multiplayer VR Game",
-        "url": "https://roadtovr.com/cloud-head-next-vr-game-report/",
-        "summary": "Cloudhead Games, known for 'Pistol Whip', is reportedly developing a new multiplayer VR game, expanding its portfolio in the gaming space.",
-        "source": "roadtovr.com",
-        "date": "Wed, 08 Jul 2026 13:47:21 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/cloudhead.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "John Carmack Reminds Microsoft He'll Guarantee $1 Million To Bring Team Beef’s Ports To VR",
-        "url": "https://www.uploadvr.com/john-carmack-reminds-microsoft-hell-guarantee-1-million-to-bring-team-beefs-ports-to-vr/",
-        "summary": "John Carmack reiterated his $1 million guarantee to help bring Team Beef's VR ports of classic id Software games to market.",
+        "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
+        "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
+        "summary": "Meta's CTO confirmed ongoing work on multiple next-generation headsets, hinting at potential announcements at the upcoming Connect event.",
         "source": "uploadvr.com",
-        "date": "Fri, 10 Jul 2026 06:09:49 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/IMG_0105.jpeg"
+        "date": "Thu, 09 Jul 2026 14:09:46 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
       }
     ],
     "AI": [
       {
         "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-        "summary": "OpenAI has rolled out GPT-5.6 after receiving government approval, marking a significant advancement in AI capabilities.",
+        "summary": "OpenAI has rolled out GPT-5.6 following government approval, marking a significant advancement in its AI capabilities.",
         "source": "theverge.com",
         "date": "2026-07-09T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google will now tell you if an ad was made with AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-        "summary": "Google has introduced a new feature that labels ads created or edited using AI, enhancing transparency for users.",
-        "source": "theverge.com",
-        "date": "2026-07-09T16:11:38-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Meta says its new AI model is ready to compete on coding",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-        "summary": "Meta's new AI model, Muse Spark 1.1, is now available to developers, aiming to compete in the coding software space.",
+        "summary": "Meta has introduced its Muse Spark 1.1 AI model, designed to enhance coding capabilities for developers.",
         "source": "theverge.com",
         "date": "2026-07-09T10:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Google will now tell you if an ad was made with AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+        "summary": "Google has updated its ad services to indicate if ads were created or edited using AI, enhancing transparency for users.",
+        "source": "theverge.com",
+        "date": "2026-07-09T16:11:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Would you host part of an AI data center in your home?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-        "summary": "Sunrun is launching a pilot program that incentivizes customers to host AI data center units in their homes, expanding AI infrastructure.",
+        "summary": "Sunrun is launching a pilot program to install AI data centers in homes, incentivizing customers to host compute units.",
         "source": "theverge.com",
         "date": "2026-07-10T09:20:25-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "The ChatGPT browser is already dead",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-        "summary": "OpenAI is shutting down ChatGPT Atlas, its browser feature, less than a year after its launch due to limited usage.",
+        "summary": "OpenAI is shutting down ChatGPT Atlas, its browser feature, less than a year after its launch.",
         "source": "theverge.com",
         "date": "2026-07-09T16:34:05-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-        "summary": "Fidji Simo steps down from her role as OpenAI's AGI chief due to health issues, transitioning to a part-time advisory position.",
+        "summary": "Fidji Simo is stepping down from her role as OpenAI's AGI chief due to health issues, transitioning to a part-time advisory position.",
         "source": "theverge.com",
         "date": "2026-07-09T19:24:04-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,9 +103,17 @@
     ],
     "NFL": [
       {
+        "title": "Sources: CB Douglas to sign with Commanders",
+        "url": "https://www.espn.com/nba/story/_/id/49286897/sources-cb-rasul-douglas-sign-1-year-deal-commanders",
+        "summary": "Free agent cornerback Rasul Douglas is set to sign a one-year deal with the Washington Commanders worth up to $3.8 million.",
+        "source": "espn.com",
+        "date": "Fri, 10 Jul 2026 14:37:19 EST",
+        "image": ""
+      },
+      {
         "title": "Commanders to retire No. 44 of HOF RB Riggins",
         "url": "https://www.espn.com/nfl/story/_/id/49315574/commanders-retire-no-44-worn-hall-famer-john-riggins",
-        "summary": "The Washington Commanders are set to retire No. 44 in honor of Hall of Famer John Riggins, celebrating his legacy in the franchise.",
+        "summary": "The Washington Commanders will retire Hall of Famer John Riggins' No. 44 jersey, honoring his legacy over 40 years after his iconic Super Bowl run.",
         "source": "espn.com",
         "date": "Fri, 10 Jul 2026 14:37:19 EST",
         "image": ""
@@ -119,36 +127,28 @@
         "image": ""
       },
       {
-        "title": "Sources: CB Douglas to sign with Commanders",
-        "url": "https://www.espn.com/nba/story/_/id/49286897/sources-cb-rasul-douglas-sign-1-year-deal-commanders",
-        "summary": "Free agent cornerback Rasul Douglas is reportedly signing a one-year deal with the Washington Commanders worth up to $3.8 million.",
-        "source": "espn.com",
-        "date": "Fri, 10 Jul 2026 14:37:19 EST",
-        "image": ""
-      },
-      {
-        "title": "No GPS tracker for Arnold, can work out for teams",
-        "url": "https://www.espn.com/nfl/story/_/id/49325177/no-gps-tracker-terrion-arnold-work-nfl-teams",
-        "summary": "A Florida judge ruled that former Lions cornerback Terrion Arnold can work out with NFL teams without needing a GPS tracker.",
-        "source": "espn.com",
-        "date": "Fri, 10 Jul 2026 14:37:19 EST",
-        "image": ""
+        "title": "Bears sign third-round TE Sam Roush to complete draft class signings",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-second-round-te-sam-roush-to-complete-draft-class-signings",
+        "summary": "The Chicago Bears have officially signed third-round tight end Sam Roush, completing their draft class signings.",
+        "source": "nbcsports.com",
+        "date": "Fri, 10 Jul 2026 16:16:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/909015b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F975%2F383%2Fnbc_pft_engmexnumbers_260709.jpg"
       },
       {
         "title": "Clutch Vinatieri to enter Colts' Ring of Honor",
         "url": "https://www.espn.com/nfl/story/_/id/49308565/colts-add-kicker-adam-vinatieri-team-ring-honor",
-        "summary": "Kicker Adam Vinatieri will enter the Colts' Ring of Honor during a ceremony on October 18, following his Hall of Fame induction.",
+        "summary": "Kicker Adam Vinatieri will enter the Colts' Ring of Honor during a ceremony on October 18, ahead of his Hall of Fame induction.",
         "source": "espn.com",
         "date": "Fri, 10 Jul 2026 14:37:19 EST",
         "image": ""
       },
       {
-        "title": "Late Cowboys' player Kneeland diagnosed with CTE",
-        "url": "https://www.espn.com/nfl/story/_/id/49296262/late-cowboys-player-marshawn-kneeland-diagnosed-cte",
-        "summary": "Former Cowboys defensive end Marshawn Kneeland has been posthumously diagnosed with CTE, highlighting ongoing concerns about player health.",
-        "source": "espn.com",
-        "date": "Fri, 10 Jul 2026 14:37:19 EST",
-        "image": ""
+        "title": "Colts want to \"find ways to take some of that workload\" off Jonathan Taylor",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-want-to-find-ways-to-take-some-of-that-workload-off-jonathan-taylor",
+        "summary": "The Colts aim to reduce Jonathan Taylor's workload this season while still maximizing his production on the field.",
+        "source": "nbcsports.com",
+        "date": "Fri, 10 Jul 2026 12:14:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/32c1a8b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F378%2F287%2FFlorioNFLPA6-22.jpg"
       }
     ]
   }
