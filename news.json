@@ -1,19 +1,27 @@
 {
-  "updated": "2026-07-10T11:32:10.080Z",
+  "updated": "2026-07-10T13:34:45.386Z",
   "feed": {
     "VR": [
       {
-        "title": "Former Oculus CTO John Carmack Puts up $1M for Official VR Ports of Id Software Titles",
-        "url": "https://roadtovr.com/john-carmack-1m-guarantee-id-software-vr-games/",
-        "summary": "John Carmack offers $1 million to fund VR ports of iconic Id Software titles following significant layoffs at the studio.",
+        "title": "XREAL’s First Budget AR Glasses Go on Sale Internationally, Priced at $300",
+        "url": "https://roadtovr.com/xreals-budget-ar-glasses-price-release-date/",
+        "summary": "XREAL's budget AR glasses, the xbx a01+, are now available internationally for $300, marking a significant step in affordable XR technology.",
         "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 10:08:35 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2018/09/john-carmack-oculus-connect.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Fri, 10 Jul 2026 12:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-close.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Lamborghini’s Apple Vision Pro App Reimagines the Showroom at Home",
+        "url": "https://www.uploadvr.com/lamborghinis-apple-vision-pro-app-reimagines-the-showroom-at-home/",
+        "summary": "Lamborghini launched a free Apple Vision Pro app that offers immersive showcases of its rare vehicles, allowing users to experience them in their homes.",
+        "source": "uploadvr.com",
+        "date": "Thu, 09 Jul 2026 14:19:39 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/671592.png"
       },
       {
         "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
         "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
-        "summary": "Meta's CTO confirms ongoing development of multiple next-generation VR headsets, possibly hinting at a reveal during the upcoming Connect event.",
+        "summary": "Meta's CTO confirmed ongoing development of multiple next-generation headsets, hinting at a potential reveal during the upcoming Connect event.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 14:09:46 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
@@ -21,41 +29,33 @@
       {
         "title": "VR/MR Puzzler Squingle Arcade Is Out Today On Meta Quest For Free",
         "url": "https://www.uploadvr.com/vr-mr-puzzler-squingle-arcade-is-out-today-on-meta-quest-for-free/",
-        "summary": "The fast-paced VR/MR puzzle game Squingle Arcade is now available for free on Meta Quest.",
+        "summary": "The fast-paced VR/MR puzzle game Squingle Arcade is now available for free on Meta Quest, featuring innovative hand tracking support.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 10:00:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Landscape.png"
       },
       {
-        "title": "Vertigo Games Amsterdam Was Allegedly Working On A Tomb Raider VR Game",
-        "url": "https://www.uploadvr.com/vertigo-games-amsterdam-was-allegedly-working-on-a-tomb-raider-vr-game/",
-        "summary": "Reports indicate that the now-defunct Vertigo Games Amsterdam was developing a Tomb Raider VR game before its cancellation.",
-        "source": "uploadvr.com",
-        "date": "Thu, 09 Jul 2026 05:15:37 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/8e783c22-5bba-417d-8bf4-ecc7f2ce2e48_rw_1920-1.jpg"
+        "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
+        "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
+        "summary": "Leaked images indicate that Vertigo Games was developing a Tomb Raider VR game before its cancellation earlier this year.",
+        "source": "roadtovr.com",
+        "date": "Thu, 09 Jul 2026 11:20:09 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Meta Closes Smart Glasses Privacy Loophole With New Camera-Killing Update",
-        "url": "https://roadtovr.com/meta-ray-ban-glasses-privacy-led-camera-update/",
-        "summary": "Meta is rolling out an update to its smart glasses that disables the camera if the privacy LED is tampered with.",
+        "title": "‘Pistol Whip’ Studio Reportedly Developing “impossible to ignore” Multiplayer VR Game",
+        "url": "https://roadtovr.com/cloud-head-next-vr-game-report/",
+        "summary": "Cloudhead Games, known for Pistol Whip, is reportedly developing a multiplayer VR game that may include a flatscreen mode.",
         "source": "roadtovr.com",
-        "date": "Wed, 08 Jul 2026 10:53:21 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/ray-ban-meta-2-edited.jpg?resize=1620%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Smart Contact Lenses Move Closer to Reality as XPANCEO Expands JBD Display Partnership",
-        "url": "https://roadtovr.com/smart-contact-lens-xpanceo-jbd-display-partnership/",
-        "summary": "XPANCEO expands its partnership with JBD to develop micro-displays for smart contact lenses, moving closer to reality.",
-        "source": "roadtovr.com",
-        "date": "Tue, 07 Jul 2026 13:09:34 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/XPANCEO-x-JBD.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Wed, 08 Jul 2026 13:47:21 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/cloudhead.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-        "summary": "OpenAI launches GPT-5.6 after receiving government approval, introducing 'ChatGPT Work' for organizational use.",
+        "summary": "OpenAI has rolled out GPT-5.6 after receiving government approval, marking a significant update to its AI capabilities.",
         "source": "theverge.com",
         "date": "2026-07-09T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,92 +63,92 @@
       {
         "title": "Google will now tell you if an ad was made with AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-        "summary": "Google introduces a new feature that labels ads created or edited with AI in its ad platforms.",
+        "summary": "Google has introduced a new feature that labels ads created or edited with AI, enhancing transparency for users.",
         "source": "theverge.com",
         "date": "2026-07-09T16:11:38-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Meta says its new AI model is ready to compete on coding",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-        "summary": "Meta unveils its new Muse Spark model, designed to enhance coding capabilities for developers.",
-        "source": "theverge.com",
-        "date": "2026-07-09T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-        "summary": "Fidji Simo steps down as OpenAI's AGI chief due to health issues, transitioning to a part-time advisory role.",
+        "summary": "OpenAI's Fidji Simo steps down from her role as AGI chief due to health issues, transitioning to a part-time advisory position.",
         "source": "theverge.com",
         "date": "2026-07-09T19:24:04-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft’s patch Tuesdays are about to get bigger",
-        "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-        "summary": "Microsoft plans to increase the volume of security updates in Windows 11 by utilizing AI to identify potential issues earlier.",
+        "title": "Meta says its new AI model is ready to compete on coding",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+        "summary": "Meta has launched an updated AI model, Muse Spark 1.1, designed to enhance coding capabilities for developers.",
         "source": "theverge.com",
-        "date": "2026-07-09T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-09T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "The ChatGPT browser is already dead",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-        "summary": "OpenAI is shutting down ChatGPT Atlas, its AI browser, less than a year after its launch.",
+        "summary": "OpenAI is shutting down its ChatGPT Atlas browser service less than a year after its launch, as part of a broader restructuring.",
         "source": "theverge.com",
         "date": "2026-07-09T16:34:05-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+        "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+        "summary": "FL Studio 2026 has upgraded its AI chatbot, Gopher, transforming it into a more interactive assistant for music production.",
+        "source": "theverge.com",
+        "date": "2026-07-09T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Darron Lee hires a lawyer to handle first-degree murder charges",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darron-lee-hires-a-lawyer-to-handle-first-degree-murder-charges",
-        "summary": "Former NFL linebacker Darron Lee hires a lawyer as he faces first-degree murder charges in Tennessee.",
-        "source": "nbcsports.com",
-        "date": "Thu, 09 Jul 2026 14:12:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5d17c77/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2FWiley7-7.jpg"
+        "title": "Commanders to retire No. 44 of HOF RB Riggins",
+        "url": "https://www.espn.com/nfl/story/_/id/49315574/commanders-retire-no-44-worn-hall-famer-john-riggins",
+        "summary": "The Washington Commanders will retire the No. 44 jersey of Hall of Famer John Riggins, honoring his legacy over 40 years after his iconic Super Bowl run.",
+        "source": "espn.com",
+        "date": "Thu, 9 Jul 2026 18:03:19 EST",
+        "image": ""
       },
       {
-        "title": "Commanders to retire No. 44 for John Riggins",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-retire-no-44-for-john-riggins",
-        "summary": "The Washington Commanders will retire No. 44 in honor of Super Bowl champion John Riggins.",
-        "source": "nbcsports.com",
-        "date": "Thu, 09 Jul 2026 12:23:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/768a1ad/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F973%2F931%2Fnbc_pft_infantinounderfire_260709.jpg"
+        "title": "Clutch Vinatieri to enter Colts' Ring of Honor",
+        "url": "https://www.espn.com/nfl/story/_/id/49308565/colts-add-kicker-adam-vinatieri-team-ring-honor",
+        "summary": "Kicker Adam Vinatieri, set to enter the Pro Football Hall of Fame, will also be inducted into the Colts' Ring of Honor on October 18.",
+        "source": "espn.com",
+        "date": "Thu, 9 Jul 2026 18:03:19 EST",
+        "image": ""
       },
       {
-        "title": "Rams will give replica Super Bowl LXVI rings to fans who attend Week 6 game vs. Cardinals",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-will-give-replica-super-bowl-lxvi-rings-to-fans-who-attend-week-6-game-vs-cardinals",
-        "summary": "The Rams will distribute replica Super Bowl LXVI rings to fans attending their Week 6 game against the Cardinals.",
-        "source": "nbcsports.com",
-        "date": "Thu, 09 Jul 2026 23:34:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/456c75c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2FUSATSI_21713091_copy.jpg"
+        "title": "Study: NFLers die from dementia at higher rate",
+        "url": "https://www.espn.com/nfl/story/_/id/49317702/study-nfl-players-4-s-more-likely-die-neurodegenerative-disease",
+        "summary": "A new study reveals NFL players are four times more likely to die from neurodegenerative diseases like dementia compared to the general population.",
+        "source": "espn.com",
+        "date": "Thu, 9 Jul 2026 18:03:19 EST",
+        "image": ""
       },
       {
         "title": "Raiders owner Mark Davis is committed to grass \"for safety purposes\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-owner-mark-davis-is-committed-to-grass-for-safety-purposes",
-        "summary": "Raiders owner Mark Davis commits to using grass for player safety, willing to invest in better field surfaces.",
+        "summary": "Raiders owner Mark Davis is committed to maintaining a grass playing surface for player safety, highlighting the importance of field conditions.",
         "source": "nbcsports.com",
         "date": "Thu, 09 Jul 2026 19:29:53 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b276696/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F976%2F859%2Fnbc_pft_longtermrisks_260709.jpg"
       },
       {
-        "title": "Brandin Cooks expects to sign with some team before training camp, hopes it's the Bills",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandin-cooks-expects-to-sign-with-some-team-before-training-camp-hopes-its-the-bills",
-        "summary": "Brandin Cooks expresses hope to sign with a team before training camp, ideally the Bills.",
+        "title": "At age 36, Cam Heyward led the NFL in snaps at defensive tackle",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/at-age-36-cam-heyward-led-the-nfl-in-snaps-at-defensive-tackle",
+        "summary": "At 36, Steelers defensive tackle Cam Heyward led the NFL in snaps, showcasing remarkable endurance for an older player in the league.",
         "source": "nbcsports.com",
-        "date": "Thu, 09 Jul 2026 12:00:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96afc08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F510%2F194%2Fnbc_pft_afcnuts_260612.jpg"
+        "date": "Fri, 10 Jul 2026 08:48:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dfa6273/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F671%2Fpft_pm_porter.jpg"
       },
       {
-        "title": "Still in contract dispute, Jacoby Brissett works out with teammates in South Florida",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/still-in-contract-dispute-jacoby-brissett-works-out-with-teammates-in-south-florida",
-        "summary": "Jacoby Brissett continues to work out with teammates amid a contract dispute with the Cardinals.",
+        "title": "Rams will give replica Super Bowl LXVI rings to fans who attend Week 6 game vs. Cardinals",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-will-give-replica-super-bowl-lxvi-rings-to-fans-who-attend-week-6-game-vs-cardinals",
+        "summary": "The Rams will commemorate their Super Bowl LXVI victory by giving replica championship rings to fans attending their Week 6 game against the Cardinals.",
         "source": "nbcsports.com",
-        "date": "Thu, 09 Jul 2026 11:28:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d5adb9f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F403%2Fnbc_pftpm_mailbag_260708.jpg"
+        "date": "Thu, 09 Jul 2026 23:34:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/456c75c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2FUSATSI_21713091_copy.jpg"
       }
     ]
   }
