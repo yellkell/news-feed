@@ -1,19 +1,11 @@
 {
-  "updated": "2026-07-11T01:56:24.912Z",
+  "updated": "2026-07-11T05:09:57.565Z",
   "feed": {
     "VR": [
       {
-        "title": "Ghosts of Tabor: Legacy Returns The Shooter To Its 2024 Era Later This Month",
-        "url": "https://www.uploadvr.com/ghosts-of-tabor-legacy-returns-the-shooter-to-its-2024-era-later-this-month/",
-        "summary": "Combat Waffle Studios announces Ghost of Tabor: Legacy, restoring the 2024 version of the game for Meta Quest and PC VR, launching later this month.",
-        "source": "uploadvr.com",
-        "date": "Fri, 10 Jul 2026 14:07:46 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/toX7A8yDayk-HD.jpg"
-      },
-      {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple has published technical specifications for third-party motion controllers for its Vision Pro, following the announcement of VisionOS 27 support.",
+        "summary": "Apple has published technical specifications for third-party motion controllers for its Vision Pro headset, enhancing support for external accessories.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
@@ -21,7 +13,7 @@
       {
         "title": "XREAL’s First Budget AR Glasses Go on Sale Internationally, Priced at $300",
         "url": "https://roadtovr.com/xreals-budget-ar-glasses-price-release-date/",
-        "summary": "XREAL launches its first budget AR glasses internationally, priced at $300, available on major retail platforms in the US.",
+        "summary": "XREAL's budget AR glasses, priced at $300, are now available internationally, expanding access to augmented reality technology.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 12:59:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-close.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -29,33 +21,41 @@
       {
         "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
         "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
-        "summary": "Meta's CTO confirms ongoing development of multiple next-generation headsets, hinting at a potential reveal during the upcoming Connect event.",
+        "summary": "Meta's CTO confirmed the development of multiple next-generation headsets, hinting at a potential reveal during the upcoming Connect event.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 14:09:46 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
       },
       {
+        "title": "John Carmack Reminds Microsoft He'll Guarantee $1 Million To Bring Team Beef’s Ports To VR",
+        "url": "https://www.uploadvr.com/john-carmack-reminds-microsoft-hell-guarantee-1-million-to-bring-team-beefs-ports-to-vr/",
+        "summary": "John Carmack reiterated his $1 million offer to Microsoft to support VR ports of classic id Software titles, emphasizing the need for commercial viability.",
+        "source": "uploadvr.com",
+        "date": "Fri, 10 Jul 2026 06:09:49 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/IMG_0105.jpeg"
+      },
+      {
+        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
+        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
+        "summary": "Valve is nearing the launch of its Steam Frame standalone headset, as indicated by a newly published store page for compatible content.",
+        "source": "roadtovr.com",
+        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "VR/MR Puzzler Squingle Arcade Is Out Today On Meta Quest For Free",
         "url": "https://www.uploadvr.com/vr-mr-puzzler-squingle-arcade-is-out-today-on-meta-quest-for-free/",
-        "summary": "Squingle Arcade, a fast-paced VR/MR puzzle game featuring hand tracking, is now available for free on Meta Quest.",
+        "summary": "The fast-paced VR/MR puzzle game Squingle Arcade has launched for free on Meta Quest, featuring hand tracking support.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 10:00:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Landscape.png"
-      },
-      {
-        "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
-        "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
-        "summary": "Leaked images reveal that a Tomb Raider VR game was in development at Vertigo Games Amsterdam before its cancellation earlier this year.",
-        "source": "roadtovr.com",
-        "date": "Thu, 09 Jul 2026 11:20:09 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
         "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "summary": "Apple has filed a lawsuit against OpenAI, alleging that the company stole trade secrets to advance its hardware initiatives.",
+        "summary": "Apple has filed a lawsuit against OpenAI, alleging the theft of trade secrets related to hardware development.",
         "source": "theverge.com",
         "date": "2026-07-10T17:36:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-        "summary": "OpenAI has rolled out GPT-5.6 after receiving government approval, marking a significant update for its AI model.",
+        "summary": "OpenAI has rolled out GPT-5.6 after receiving government approval, marking a significant advancement in their AI capabilities.",
         "source": "theverge.com",
         "date": "2026-07-09T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,81 +71,81 @@
       {
         "title": "Google will now tell you if an ad was made with AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-        "summary": "Google introduces a new feature that labels ads created or edited using AI across its platforms, enhancing transparency for users.",
+        "summary": "Google has introduced a new feature that labels ads created or edited using AI, enhancing transparency for users.",
         "source": "theverge.com",
         "date": "2026-07-09T16:11:38-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "summary": "Meta is disabling an Instagram feature that allowed users to create AI deepfakes from public accounts following backlash.",
-        "source": "theverge.com",
-        "date": "2026-07-10T19:49:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Would you host part of an AI data center in your home?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-        "summary": "Sunrun is launching a pilot program that incentivizes homeowners to host AI data centers in their residences.",
+        "summary": "Sunrun is launching a pilot program that pays customers to host AI data centers in their homes, expanding distributed computing.",
         "source": "theverge.com",
         "date": "2026-07-10T09:20:25-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-        "summary": "OpenAI's Fidji Simo is stepping down from her role as AGI chief due to health issues, transitioning to a part-time advisory position.",
+        "title": "The ChatGPT browser is already dead",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+        "summary": "OpenAI is shutting down ChatGPT Atlas, its browser feature, less than a year after its launch due to limited usage.",
         "source": "theverge.com",
-        "date": "2026-07-09T19:24:04-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-09T16:34:05-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "summary": "Meta has disabled a controversial Instagram feature that allowed users to generate AI deepfakes from public accounts following backlash.",
+        "source": "theverge.com",
+        "date": "2026-07-10T19:49:50-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Report: Aaron Donald works out at Rams' facility",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-donald-works-out-at-rams-facility",
-        "summary": "Aaron Donald has been spotted working out at the Rams' facility, fueling speculation about a potential unretirement.",
+        "summary": "Reports indicate that Aaron Donald has been working out at the Rams' facility, suggesting a possible return from retirement.",
         "source": "nbcsports.com",
         "date": "Fri, 10 Jul 2026 21:48:29 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/456c75c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2FUSATSI_21713091_copy.jpg"
       },
       {
-        "title": "Bears sign third-round TE Sam Roush to complete draft class signings",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-second-round-te-sam-roush-to-complete-draft-class-signings",
-        "summary": "The Chicago Bears have signed third-round tight end Sam Roush, completing their draft class signings.",
-        "source": "nbcsports.com",
-        "date": "Fri, 10 Jul 2026 16:16:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/909015b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F975%2F383%2Fnbc_pft_engmexnumbers_260709.jpg"
-      },
-      {
         "title": "Daniel Jones is \"cleared to do everything\" and \"feeling good\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/daniel-jones-is-cleared-to-do-everything-and-feeling-good",
-        "summary": "Daniel Jones has been cleared for all activities and is feeling optimistic as he prepares for training camp.",
+        "summary": "Daniel Jones has been cleared for all activities and is feeling optimistic ahead of the upcoming training camp.",
         "source": "nbcsports.com",
         "date": "Fri, 10 Jul 2026 17:44:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/87cd4db/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2Fnbc_pft_seahawkspurchase_260710.jpg"
       },
       {
-        "title": "Colts want to \"find ways to take some of that workload\" off Jonathan Taylor",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-want-to-find-ways-to-take-some-of-that-workload-off-jonathan-taylor",
-        "summary": "The Colts are looking to reduce Jonathan Taylor's workload after he has consistently carried over 300 times in recent seasons.",
+        "title": "Bears sign third-round TE Sam Roush to complete draft class signings",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-second-round-te-sam-roush-to-complete-draft-class-signings",
+        "summary": "The Bears have signed third-round tight end Sam Roush, completing their draft class signings ahead of the new season.",
         "source": "nbcsports.com",
-        "date": "Fri, 10 Jul 2026 12:14:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/32c1a8b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F378%2F287%2FFlorioNFLPA6-22.jpg"
+        "date": "Fri, 10 Jul 2026 16:16:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/909015b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F975%2F383%2Fnbc_pft_engmexnumbers_260709.jpg"
       },
       {
         "title": "Report: George Pickens among teammates working with Dak Prescott in Utah",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-george-pickens-among-teammates-working-with-dak-prescott-in-utah",
-        "summary": "George Pickens is reportedly training with Dak Prescott in Utah, despite missing most of the Cowboys' offseason program.",
+        "summary": "George Pickens has been spotted training with Dak Prescott in Utah, indicating his commitment to improving ahead of the season.",
         "source": "nbcsports.com",
         "date": "Fri, 10 Jul 2026 12:32:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/cf5e919/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F973%2F931%2Fnbc_pft_millerwantsdallas_260709.jpg"
       },
       {
+        "title": "Colts want to \"find ways to take some of that workload\" off Jonathan Taylor",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-want-to-find-ways-to-take-some-of-that-workload-off-jonathan-taylor",
+        "summary": "The Colts are looking to reduce Jonathan Taylor's workload this season, aiming for better management of their star running back.",
+        "source": "nbcsports.com",
+        "date": "Fri, 10 Jul 2026 12:14:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/32c1a8b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F378%2F287%2FFlorioNFLPA6-22.jpg"
+      },
+      {
         "title": "Rams will give replica Super Bowl LXVI rings to fans who attend Week 6 game vs. Cardinals",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-will-give-replica-super-bowl-lxvi-rings-to-fans-who-attend-week-6-game-vs-cardinals",
-        "summary": "The Rams will honor fans attending their Week 6 game against the Cardinals with replica Super Bowl LXVI rings.",
+        "summary": "The Rams will commemorate their Super Bowl LXVI victory by giving away replica championship rings to fans at an upcoming game.",
         "source": "nbcsports.com",
         "date": "Thu, 09 Jul 2026 23:34:16 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/456c75c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2FUSATSI_21713091_copy.jpg"
