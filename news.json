@@ -1,27 +1,19 @@
 {
-  "updated": "2026-07-12T11:31:57.622Z",
+  "updated": "2026-07-12T12:35:12.757Z",
   "feed": {
     "VR": [
       {
         "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
         "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal launches its new $299 a01+ AR glasses in the U.S., offering a 147-inch virtual screen and lightweight design to enhance the viewing experience.",
+        "summary": "Xreal's new $299 AR glasses launch in the U.S., offering a 147-inch virtual screen and lightweight design for an accessible big-screen experience.",
         "source": "mixed-news.com",
         "date": "Fri, 10 Jul 2026 13:00:30 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       },
       {
-        "title": "XREAL’s First Budget AR Glasses Go on Sale Internationally, Priced at $300",
-        "url": "https://roadtovr.com/xreals-budget-ar-glasses-price-release-date/",
-        "summary": "XREAL's budget AR glasses, priced at $300, are now available internationally, expanding access to immersive technology.",
-        "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 12:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-close.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple releases technical specifications for third-party motion controllers for its Vision Pro headset, paving the way for enhanced user experiences.",
+        "summary": "Apple releases technical specifications for third-party motion controllers compatible with its Vision Pro headset, enhancing user experience and developer opportunities.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
@@ -29,7 +21,7 @@
       {
         "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
         "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve's Steam Frame standalone headset is nearing launch, with a new store page highlighting top games for the upcoming device.",
+        "summary": "Valve's Steam Frame standalone headset nears launch as a new store page highlights upcoming content, though pricing and release date remain undisclosed.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 15:35:06 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -37,15 +29,23 @@
       {
         "title": "John Carmack Reminds Microsoft He'll Guarantee $1 Million To Bring Team Beef’s Ports To VR",
         "url": "https://www.uploadvr.com/john-carmack-reminds-microsoft-hell-guarantee-1-million-to-bring-team-beefs-ports-to-vr/",
-        "summary": "John Carmack reiterates his $1 million guarantee to Microsoft for commercializing VR ports of classic id Software games.",
+        "summary": "John Carmack reiterates his $1 million guarantee to Microsoft for commercializing VR ports of classic id Software titles, emphasizing ongoing interest in retro gaming.",
         "source": "uploadvr.com",
         "date": "Fri, 10 Jul 2026 06:09:49 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/IMG_0105.jpeg"
       },
       {
+        "title": "FitXR Adds 'Journey' Workout Recommendations, Profile Levels & More",
+        "url": "https://www.uploadvr.com/fitxr-journey-workout-recommendations-july-update/",
+        "summary": "FitXR introduces 'Journey', a personalized workout recommendation system for Quest users, enhancing fitness engagement and accessibility.",
+        "source": "uploadvr.com",
+        "date": "Fri, 10 Jul 2026 14:06:53 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Journey-with-Logo.png"
+      },
+      {
         "title": "VR/MR Puzzler Squingle Arcade Is Out Today On Meta Quest For Free",
         "url": "https://www.uploadvr.com/vr-mr-puzzler-squingle-arcade-is-out-today-on-meta-quest-for-free/",
-        "summary": "The fast-paced VR/MR puzzle game Squingle Arcade is now available for free on Meta Quest, adding to the platform's diverse offerings.",
+        "summary": "The fast-paced VR/MR puzzle game 'Squingle Arcade' is now available for free on Meta Quest, featuring hand tracking support.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 10:00:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Landscape.png"
@@ -55,39 +55,23 @@
       {
         "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
         "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "summary": "Apple has filed a lawsuit against OpenAI, alleging theft of trade secrets related to its hardware development.",
+        "summary": "Apple has filed a lawsuit against OpenAI, alleging the theft of trade secrets to advance its AI hardware initiatives.",
         "source": "theverge.com",
         "date": "2026-07-10T17:36:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-        "summary": "OpenAI launches GPT-5.6 after receiving government approval, marking a significant advancement in its AI model capabilities.",
-        "source": "theverge.com",
-        "date": "2026-07-09T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Google will now tell you if an ad was made with AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-        "summary": "Google introduces a new feature that labels ads created or edited with AI, enhancing transparency for users.",
+        "summary": "Google introduces a new feature that labels ads created or edited with AI, enhancing transparency for users on its platforms.",
         "source": "theverge.com",
         "date": "2026-07-09T16:11:38-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Would you host part of an AI data center in your home?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-        "summary": "Sunrun is launching a pilot program to host AI data centers in customers' homes, offering financial incentives for participation.",
-        "source": "theverge.com",
-        "date": "2026-07-10T09:20:25-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "summary": "Meta has disabled an Instagram feature that allowed users to create AI deepfakes using public account content following backlash.",
+        "summary": "Meta disables an Instagram feature allowing users to create AI deepfakes from public accounts following significant backlash.",
         "source": "theverge.com",
         "date": "2026-07-10T19:49:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,60 +79,76 @@
       {
         "title": "The ChatGPT browser is already dead",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-        "summary": "OpenAI is shutting down its ChatGPT Atlas browser, less than a year after its launch, as part of a broader restructuring.",
+        "summary": "OpenAI is shutting down ChatGPT Atlas, its browser tool, less than a year after its launch due to underperformance.",
         "source": "theverge.com",
         "date": "2026-07-09T16:34:05-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+        "summary": "Fidji Simo steps down as OpenAI's AGI chief due to health issues, transitioning to a part-time advisory role.",
+        "source": "theverge.com",
+        "date": "2026-07-09T19:24:04-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Would you host part of an AI data center in your home?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+        "summary": "Sunrun launches a pilot program to place AI data center compute nodes in customers' homes, expanding its energy storage business.",
+        "source": "theverge.com",
+        "date": "2026-07-10T09:20:25-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Niners part owner agrees to purchase Seahawks",
-        "url": "https://www.espn.com/nfl/story/_/id/49337716/khosla-led-group-agrees-buy-seahawks-sources-say-96-billion",
-        "summary": "A group led by Niners limited partner Vinod Khosla has agreed to purchase the Seahawks for a record $9.612 billion.",
-        "source": "espn.com",
-        "date": "Sat, 11 Jul 2026 20:14:12 EST",
-        "image": ""
+        "title": "Vinod Khosla-led group agrees to buy the Seahawks for a reported $9.612 billion",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vinod-khosla-led-group-agrees-to-buy-the-seahawks-for-a-reported-9-612-billion",
+        "summary": "Vinod Khosla's group agrees to purchase the Seahawks for a reported $9.612 billion, marking a significant shift in team ownership.",
+        "source": "nbcsports.com",
+        "date": "Sat, 11 Jul 2026 19:49:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87cd4db/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2Fnbc_pft_seahawkspurchase_260710.jpg"
       },
       {
-        "title": "Commanders to retire No. 44 of HOF RB Riggins",
-        "url": "https://www.espn.com/nfl/story/_/id/49315574/commanders-retire-no-44-worn-hall-famer-john-riggins",
-        "summary": "The Commanders are set to retire Hall of Famer John Riggins' No. 44, honoring his legacy over 40 years after his iconic Super Bowl run.",
-        "source": "espn.com",
-        "date": "Sat, 11 Jul 2026 20:14:12 EST",
-        "image": ""
+        "title": "Aaron Rodgers can become the fifth quarterback in NFL history with 70,000 passing yards",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-can-become-the-fifth-quarterback-in-nfl-history-with-70-000-passing-yards",
+        "summary": "Aaron Rodgers aims to become the fifth quarterback in NFL history to achieve 70,000 passing yards in what he claims will be his final season.",
+        "source": "nbcsports.com",
+        "date": "Sun, 12 Jul 2026 05:06:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2478e71/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_bradyonrodgers_260623.jpg"
       },
       {
-        "title": "Study: NFLers die from dementia at higher rate",
-        "url": "https://www.espn.com/nfl/story/_/id/49317702/study-nfl-players-4-s-more-likely-die-neurodegenerative-disease",
-        "summary": "A new study reveals NFL players are four times more likely to die from neurodegenerative diseases compared to the general population.",
-        "source": "espn.com",
-        "date": "Sat, 11 Jul 2026 20:14:11 EST",
-        "image": ""
+        "title": "Report: Aaron Donald works out at Rams' facility",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-donald-works-out-at-rams-facility",
+        "summary": "Aaron Donald is spotted working out at the Rams' facility, hinting at a potential unretirement from the NFL.",
+        "source": "nbcsports.com",
+        "date": "Fri, 10 Jul 2026 21:48:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/456c75c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2FUSATSI_21713091_copy.jpg"
       },
       {
-        "title": "Sources: CB Douglas to sign with Commanders",
-        "url": "https://www.espn.com/nba/story/_/id/49286897/sources-cb-rasul-douglas-sign-1-year-deal-commanders",
-        "summary": "Free agent cornerback Rasul Douglas is reportedly signing a one-year deal with the Washington Commanders worth up to $3.8 million.",
-        "source": "espn.com",
-        "date": "Sat, 11 Jul 2026 20:14:12 EST",
-        "image": ""
+        "title": "Bears sign third-round TE Sam Roush to complete draft class signings",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-second-round-te-sam-roush-to-complete-draft-class-signings",
+        "summary": "The Bears officially sign third-round tight end Sam Roush, completing their draft class signings ahead of the upcoming season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 10 Jul 2026 16:16:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/909015b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F975%2F383%2Fnbc_pft_engmexnumbers_260709.jpg"
       },
       {
-        "title": "Clutch Vinatieri to enter Colts' Ring of Honor",
-        "url": "https://www.espn.com/nfl/story/_/id/49308565/colts-add-kicker-adam-vinatieri-team-ring-honor",
-        "summary": "Kicker Adam Vinatieri, a future Hall of Famer, will be inducted into the Colts' Ring of Honor on October 18.",
-        "source": "espn.com",
-        "date": "Sat, 11 Jul 2026 20:14:11 EST",
-        "image": ""
+        "title": "Report: George Pickens among teammates working with Dak Prescott in Utah",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-george-pickens-among-teammates-working-with-dak-prescott-in-utah",
+        "summary": "George Pickens is reportedly working out with Dak Prescott in Utah, despite skipping most of the Cowboys' offseason program.",
+        "source": "nbcsports.com",
+        "date": "Fri, 10 Jul 2026 12:32:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cf5e919/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F973%2F931%2Fnbc_pft_millerwantsdallas_260709.jpg"
       },
       {
-        "title": "Late Cowboys' player Kneeland diagnosed with CTE",
-        "url": "https://www.espn.com/nfl/story/_/id/49296262/late-cowboys-player-marshawn-kneeland-diagnosed-cte",
-        "summary": "Former Cowboys defensive end Marshawn Kneeland has been posthumously diagnosed with CTE, highlighting ongoing health concerns in the NFL.",
-        "source": "espn.com",
-        "date": "Sat, 11 Jul 2026 20:14:12 EST",
-        "image": ""
+        "title": "Sean Payton predicts there will be more grass fields \"where it's possible\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-predicts-there-will-be-more-grass-fields-where-its-possible",
+        "summary": "Sean Payton predicts a shift towards more grass fields in the NFL, as teams evaluate the safety of turf versus natural surfaces.",
+        "source": "nbcsports.com",
+        "date": "Sat, 11 Jul 2026 14:20:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
       }
     ]
   }
