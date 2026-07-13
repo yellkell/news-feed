@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-13T13:13:54.474Z",
+  "updated": "2026-07-13T15:55:27.308Z",
   "feed": {
     "VR": [
       {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple has published technical specifications for third-party motion controllers for its Vision Pro headset, enhancing development opportunities for external accessory creators.",
+        "summary": "Apple has published technical specifications for third-party motion controllers compatible with its Vision Pro headset, enhancing its accessory ecosystem.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
@@ -13,23 +13,15 @@
       {
         "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
         "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal's new $299 a01+ AR glasses are now available in the U.S., offering a lightweight design and immersive big-screen experience.",
+        "summary": "Xreal has launched its new $299 a01+ AR glasses in the U.S., offering an immersive big-screen experience at an accessible price.",
         "source": "mixed-news.com",
         "date": "Fri, 10 Jul 2026 13:00:30 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       },
       {
-        "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
-        "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
-        "summary": "Meta's CTO confirmed ongoing development of multiple next-generation headsets, hinting at potential announcements at the upcoming Connect event.",
-        "source": "uploadvr.com",
-        "date": "Thu, 09 Jul 2026 14:09:46 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
-      },
-      {
         "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
         "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve has launched a new store page for its anticipated Steam Frame headset, signaling that a release may be imminent.",
+        "summary": "Valve has created a new store page for its upcoming Steam Frame headset, signaling a potential launch is imminent.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 15:35:06 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -37,15 +29,23 @@
       {
         "title": "‘Ghosts of Tabor’ Returns to Its Roots in 2024-era ‘Legacy’ Edition This Month",
         "url": "https://roadtovr.com/ghosts-of-tabor-legacy-edition-quest-steam-vr/",
-        "summary": "Combat Waffle Studios is set to release Ghosts of Tabor: Legacy, a version of its extraction shooter that returns to its 2024 roots.",
+        "summary": "Combat Waffle is set to release 'Ghosts of Tabor: LEGACY,' a version of the game that returns to its original 2024 roots.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 07:30:04 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/ghosts-tabor-legacy.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
+        "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
+        "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
+        "summary": "Meta's CTO confirmed ongoing development of multiple next-generation headsets, hinting at an upcoming announcement.",
+        "source": "uploadvr.com",
+        "date": "Thu, 09 Jul 2026 14:09:46 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
+      },
+      {
         "title": "Lamborghini’s Apple Vision Pro App Reimagines the Showroom at Home",
         "url": "https://www.uploadvr.com/lamborghinis-apple-vision-pro-app-reimagines-the-showroom-at-home/",
-        "summary": "Lamborghini has launched a free app for Apple Vision Pro, allowing users to explore life-sized virtual showcases of its rare vehicles.",
+        "summary": "Lamborghini's new Apple Vision Pro app offers immersive showcases of rare vehicles, allowing users to experience them from home.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 14:19:39 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/671592.png"
@@ -55,7 +55,7 @@
       {
         "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
         "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "summary": "Apple has filed a lawsuit against OpenAI, claiming that its engineers stole trade secrets to advance the startup's hardware initiatives.",
+        "summary": "Apple has filed a lawsuit against OpenAI, alleging the theft of trade secrets related to its hardware development.",
         "source": "theverge.com",
         "date": "2026-07-10T17:36:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Waze is getting a bunch of new AI-powered features",
         "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "summary": "Waze is integrating Google's AI assistant, Gemini, to enhance user personalization with new features aimed at improving the driving experience.",
+        "summary": "Waze is integrating Google's AI assistant, Gemini, to enhance user personalization and improve its driving features.",
         "source": "theverge.com",
         "date": "2026-07-13T05:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,31 +71,31 @@
       {
         "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "summary": "In response to backlash, Meta has disabled a feature that allowed users to create AI deepfakes from public Instagram accounts.",
+        "summary": "In response to backlash, Meta has disabled a controversial feature that allowed users to create AI deepfakes from public Instagram accounts.",
         "source": "theverge.com",
         "date": "2026-07-10T19:49:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "summary": "Apple's failed self-driving car program has led to advancements in its AI chip technology, enhancing performance despite the project's cancellation.",
-        "source": "theverge.com",
-        "date": "2026-07-12T12:27:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-        "summary": "Singer Lorde criticized AI smart glasses during a performance, calling them 'not sexy' and reflecting growing public skepticism.",
+        "summary": "During a performance, Lorde criticized AI glasses, suggesting they lack appeal and calling them 'not sexy'.",
         "source": "theverge.com",
         "date": "2026-07-12T16:10:19-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+        "summary": "OpenAI's Fidji Simo is stepping down from her role as AGI chief due to health issues, transitioning to a part-time advisory position.",
+        "source": "theverge.com",
+        "date": "2026-07-09T19:24:04-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Would you host part of an AI data center in your home?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-        "summary": "Sunrun is launching a pilot program to place AI data center compute units in homes, incentivizing customers to host the technology.",
+        "summary": "Sunrun is launching a pilot program to place AI data center compute units in customers' homes, incentivizing participation.",
         "source": "theverge.com",
         "date": "2026-07-10T09:20:25-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -105,50 +105,50 @@
       {
         "title": "Vinod Khosla-led group agrees to buy the Seahawks for a reported $9.612 billion",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vinod-khosla-led-group-agrees-to-buy-the-seahawks-for-a-reported-9-612-billion",
-        "summary": "Vinod Khosla's group has agreed to purchase the Seahawks for approximately $9.612 billion, with Khosla set to sell his 49ers stake.",
+        "summary": "Vinod Khosla's group has agreed to purchase the Seahawks for approximately $9.612 billion, marking a significant NFL transaction.",
         "source": "nbcsports.com",
         "date": "Sat, 11 Jul 2026 19:49:27 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/87cd4db/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2Fnbc_pft_seahawkspurchase_260710.jpg"
       },
       {
+        "title": "ESPN re-signs Adam Schefter to \"multi-year agreement\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-re-signs-adam-schefter-to-multi-year-agreement",
+        "summary": "ESPN has re-signed prominent NFL insider Adam Schefter to a multi-year agreement, solidifying his role in sports reporting.",
+        "source": "nbcsports.com",
+        "date": "Mon, 13 Jul 2026 10:55:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
+      },
+      {
         "title": "Aaron Rodgers can become the fifth quarterback in NFL history with 70,000 passing yards",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-can-become-the-fifth-quarterback-in-nfl-history-with-70-000-passing-yards",
-        "summary": "Aaron Rodgers aims to become the fifth quarterback in NFL history to reach 70,000 passing yards in what he claims will be his final season.",
+        "summary": "Aaron Rodgers aims to become the fifth NFL quarterback to surpass 70,000 passing yards in what he claims will be his final season.",
         "source": "nbcsports.com",
         "date": "Sun, 12 Jul 2026 05:06:32 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2478e71/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_bradyonrodgers_260623.jpg"
       },
       {
-        "title": "WR Trent Taylor announces his retirement",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-trent-taylor-announces-his-retirement",
-        "summary": "Veteran wide receiver Trent Taylor has announced his retirement from the NFL, concluding his professional playing career.",
+        "title": "Sean Payton predicts there will be more grass fields \"where it's possible\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-predicts-there-will-be-more-grass-fields-where-its-possible",
+        "summary": "Sean Payton predicts an increase in grass playing fields across the NFL, emphasizing player safety and performance.",
         "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 08:09:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/da7f431/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F79%2F811%2Fnbc_pft_mailbag_260710.jpg"
-      },
-      {
-        "title": "Free agent Stefon Diggs says no WR2 is better than him",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-stefon-diggs-says-no-wr2-is-better-than-him",
-        "summary": "Free agent wide receiver Stefon Diggs asserts that no other WR2 compares to his skill level as training camp approaches.",
-        "source": "nbcsports.com",
-        "date": "Sun, 12 Jul 2026 14:18:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/da7f431/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F79%2F811%2Fnbc_pft_mailbag_260710.jpg"
+        "date": "Sat, 11 Jul 2026 14:20:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
       },
       {
         "title": "Aaron Rodgers gathers six teammates for \"bonding week\" before \"last rodeo\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-gathers-six-teammates-for-bonding-week-before-last-rodeo",
-        "summary": "Aaron Rodgers has organized a 'bonding week' with teammates ahead of what he describes as his 'last rodeo' in the NFL.",
+        "summary": "Aaron Rodgers has gathered teammates for a bonding week, emphasizing camaraderie ahead of the upcoming NFL season.",
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 06:49:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2478e71/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_bradyonrodgers_260623.jpg"
       },
       {
-        "title": "Former Steelers first-rounder Greg Hawthorne dies",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-steelers-first-rounder-greg-hawthorne-dies",
-        "summary": "Former Steelers first-round pick Greg Hawthorne has passed away, marking a significant loss for the NFL community.",
+        "title": "WR Trent Taylor announces his retirement",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-trent-taylor-announces-his-retirement",
+        "summary": "Veteran wide receiver Trent Taylor has announced his retirement from professional football.",
         "source": "nbcsports.com",
-        "date": "Sat, 11 Jul 2026 20:14:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2478e71/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_bradyonrodgers_260623.jpg"
+        "date": "Mon, 13 Jul 2026 08:09:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/da7f431/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F79%2F811%2Fnbc_pft_mailbag_260710.jpg"
       }
     ]
   }
