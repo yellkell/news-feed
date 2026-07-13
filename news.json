@@ -1,27 +1,19 @@
 {
-  "updated": "2026-07-13T21:34:10.976Z",
+  "updated": "2026-07-13T22:36:14.037Z",
   "feed": {
     "VR": [
       {
         "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
         "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
-        "summary": "Golf+ kicks off its first VR Open this week, offering a grand prize trip to St. Andrews for the winner of the 2027 Open Championship.",
+        "summary": "Golf+ kicks off its inaugural VR Open this week, offering a grand prize trip to St. Andrews for the 2027 Open Championship.",
         "source": "uploadvr.com",
         "date": "Mon, 13 Jul 2026 13:42:10 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
       },
       {
-        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
-        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal launches its $299 a01+ AR glasses in the U.S., featuring a 147-inch virtual screen and lightweight design.",
-        "source": "mixed-news.com",
-        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
-      },
-      {
         "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
         "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Anduril's founder teases compact AR glasses designed for full AR capability, hinting at significant advancements in the technology.",
+        "summary": "Anduril's founder teases compact AR glasses designed for full augmented reality capabilities, hinting at significant advancements in the technology.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 18:35:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
@@ -29,41 +21,41 @@
       {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple publishes detailed specifications for third-party motion controllers compatible with its Vision Pro, expanding developer opportunities.",
+        "summary": "Apple has published technical specifications for third-party motion controllers compatible with its Vision Pro headset, paving the way for enhanced user experiences.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
       },
       {
-        "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
-        "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
-        "summary": "Lenovo reportedly shuts down its U.S.-based XR business unit, shifting focus towards AI wearables amid industry changes.",
-        "source": "roadtovr.com",
-        "date": "Mon, 13 Jul 2026 08:13:34 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
+        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
+        "summary": "Xreal launches its $299 a01+ AR glasses in the U.S., featuring a 147-inch virtual screen and lightweight design, making AR more accessible.",
+        "source": "mixed-news.com",
+        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       },
       {
-        "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
-        "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
-        "summary": "A leaked report reveals that Vertigo Games Amsterdam was developing a Tomb Raider VR game before it was canceled earlier this year.",
+        "title": "Former Oculus CTO John Carmack Puts up $1M for Official VR Ports of Id Software Titles",
+        "url": "https://roadtovr.com/john-carmack-1m-guarantee-id-software-vr-games/",
+        "summary": "John Carmack offers a $1 million guarantee to help Team Beef commercialize VR ports of classic id Software games.",
         "source": "roadtovr.com",
-        "date": "Thu, 09 Jul 2026 11:20:09 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Fri, 10 Jul 2026 10:08:35 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2018/09/john-carmack-oculus-connect.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
+        "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
+        "summary": "Meta's CTO confirms ongoing development of multiple next-generation headsets, with a potential announcement expected at the upcoming Connect event.",
+        "source": "uploadvr.com",
+        "date": "Thu, 09 Jul 2026 14:09:46 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
       }
     ],
     "AI": [
       {
-        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "summary": "Apple has filed a lawsuit against OpenAI, alleging theft of trade secrets by former Apple employees now at the AI startup.",
-        "source": "theverge.com",
-        "date": "2026-07-10T17:36:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
         "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-        "summary": "Apple's lawsuit against OpenAI includes wild claims about employees allegedly stealing confidential documents and unreleased product samples.",
+        "summary": "Apple has filed a lawsuit against OpenAI, alleging the AI startup stole confidential documents and hardware secrets during employee transitions.",
         "source": "theverge.com",
         "date": "2026-07-13T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +63,7 @@
       {
         "title": "Waze is getting a bunch of new AI-powered features",
         "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "summary": "Waze is set to receive new AI-powered features, integrating Google's Gemini to enhance user personalization during trips.",
+        "summary": "Waze is integrating Google's AI assistant, Gemini, to enhance personalization features in its driving app, marking a significant upgrade.",
         "source": "theverge.com",
         "date": "2026-07-13T05:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,37 +71,37 @@
       {
         "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "summary": "Meta is disabling a controversial feature that allowed users to create AI deepfakes from public Instagram accounts following backlash.",
+        "summary": "Meta has disabled a controversial Instagram feature that allowed users to create AI deepfakes from public accounts following user backlash.",
         "source": "theverge.com",
         "date": "2026-07-10T19:49:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "summary": "Apple's failed self-driving car program has contributed to the development of powerful AI chips, highlighting its unintended legacy.",
+        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "summary": "Apple's lawsuit against OpenAI claims that former Apple employees engaged in a pattern of stealing trade secrets to advance OpenAI's hardware plans.",
         "source": "theverge.com",
-        "date": "2026-07-12T12:27:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-10T17:36:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Would you host part of an AI data center in your home?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-        "summary": "Sunrun launches a pilot program allowing customers to host AI data center compute units in their homes, offering financial incentives.",
+        "summary": "Sunrun is launching a pilot program that incentivizes homeowners to host AI data center compute units, expanding its energy services.",
         "source": "theverge.com",
         "date": "2026-07-10T09:20:25-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Siri AI is already changing how I use my iPhone",
+        "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+        "summary": "The public beta of iOS 27 reveals significant changes driven by Siri AI, transforming user interactions with iPhones.",
+        "source": "theverge.com",
+        "date": "2026-07-13T16:43:20-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
-      {
-        "title": "ESPN re-signs Adam Schefter to \"multi-year agreement\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-re-signs-adam-schefter-to-multi-year-agreement",
-        "summary": "ESPN has re-signed Adam Schefter to a multi-year agreement, solidifying his role as a key NFL insider.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 10:55:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
-      },
       {
         "title": "Packers sign LB Isaiah McDuffie to contract extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-lb-isaiah-mcduffie-to-contract-extension",
@@ -121,7 +113,7 @@
       {
         "title": "Jets waive Quentin Skinner off injured reserve",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-waive-quentin-skinner-off-injured-reserve",
-        "summary": "The Jets have waived Quentin Skinner off injured reserve, making a significant roster move ahead of the season.",
+        "summary": "The Jets have waived Quentin Skinner off injured reserve, making a notable roster move ahead of the season.",
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 16:59:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
@@ -129,7 +121,7 @@
       {
         "title": "Kyle Juszczyk \"feeling good\" about having George Kittle back Week 1",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-juszczyk-feeling-good-about-having-george-kittle-back-week-1",
-        "summary": "49ers tight end George Kittle is optimistic about returning for Week 1 after recovering from an Achilles injury.",
+        "summary": "49ers tight end George Kittle is optimistic about returning for Week 1 after recovering from a torn Achilles.",
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 16:25:03 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
@@ -137,18 +129,26 @@
       {
         "title": "Aaron Rodgers gathers six teammates for \"bonding week\" before \"last rodeo\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-gathers-six-teammates-for-bonding-week-before-last-rodeo",
-        "summary": "Aaron Rodgers gathers six teammates for a bonding week, emphasizing team unity ahead of what he calls his 'last rodeo'.",
+        "summary": "Aaron Rodgers organized a 'bonding week' with six teammates as he prepares for what he calls his 'last rodeo' in the NFL.",
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 06:49:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c96696e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_rodgerstour_260713.jpg"
       },
       {
-        "title": "Report: Aaron Donald wanted to see how he reacted to working out in pads",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-donald-wanted-to-see-how-he-reacted-to-working-out-in-pads",
-        "summary": "Aaron Donald's recent workout at Rams facilities raises speculation about his potential return from retirement in 2026.",
+        "title": "Demario Davis wants to be \"an example of what winning culture looks like\" for Jets",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/demario-davis-wants-to-be-an-example-of-what-winning-culture-looks-like-for-jets",
+        "summary": "Linebacker Demario Davis aims to exemplify a winning culture for the Jets following his signing earlier this year.",
         "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 15:56:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
+        "date": "Mon, 13 Jul 2026 12:44:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/27d7bd4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FWorldCupRefCams.jpg"
+      },
+      {
+        "title": "ESPN re-signs Adam Schefter to \"multi-year agreement\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-re-signs-adam-schefter-to-multi-year-agreement",
+        "summary": "ESPN has re-signed Adam Schefter to a multi-year agreement, ensuring his continued presence as a leading NFL insider.",
+        "source": "nbcsports.com",
+        "date": "Mon, 13 Jul 2026 10:55:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
       }
     ]
   }
