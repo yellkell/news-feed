@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-13T15:55:27.308Z",
+  "updated": "2026-07-13T17:49:54.742Z",
   "feed": {
     "VR": [
       {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple has published technical specifications for third-party motion controllers compatible with its Vision Pro headset, enhancing its accessory ecosystem.",
+        "summary": "Apple has published technical specifications for third-party motion controllers compatible with its Vision Pro headset, enhancing developer opportunities for the platform.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
         "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal has launched its new $299 a01+ AR glasses in the U.S., offering an immersive big-screen experience at an accessible price.",
+        "summary": "Xreal's new a01+ AR glasses launch in the U.S. for $299, offering a lightweight design and an immersive 147-inch virtual screen experience.",
         "source": "mixed-news.com",
         "date": "Fri, 10 Jul 2026 13:00:30 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
@@ -21,7 +21,7 @@
       {
         "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
         "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve has created a new store page for its upcoming Steam Frame headset, signaling a potential launch is imminent.",
+        "summary": "Valve has released a new store page for its upcoming Steam Frame headset, indicating a potential launch is imminent.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 15:35:06 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -29,7 +29,7 @@
       {
         "title": "‘Ghosts of Tabor’ Returns to Its Roots in 2024-era ‘Legacy’ Edition This Month",
         "url": "https://roadtovr.com/ghosts-of-tabor-legacy-edition-quest-steam-vr/",
-        "summary": "Combat Waffle is set to release 'Ghosts of Tabor: LEGACY,' a version of the game that returns to its original 2024 roots.",
+        "summary": "Combat Waffle is set to release Ghosts of Tabor: LEGACY, returning the game to its 2024 roots for Meta Quest and PC VR.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 07:30:04 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/ghosts-tabor-legacy.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -37,25 +37,25 @@
       {
         "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
         "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
-        "summary": "Meta's CTO confirmed ongoing development of multiple next-generation headsets, hinting at an upcoming announcement.",
+        "summary": "Meta's CTO confirmed the company is developing multiple next-generation headsets, hinting at an announcement during the upcoming Connect event.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 14:09:46 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
       },
       {
-        "title": "Lamborghini’s Apple Vision Pro App Reimagines the Showroom at Home",
-        "url": "https://www.uploadvr.com/lamborghinis-apple-vision-pro-app-reimagines-the-showroom-at-home/",
-        "summary": "Lamborghini's new Apple Vision Pro app offers immersive showcases of rare vehicles, allowing users to experience them from home.",
-        "source": "uploadvr.com",
-        "date": "Thu, 09 Jul 2026 14:19:39 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/671592.png"
+        "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
+        "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
+        "summary": "Leaked images reveal that Vertigo Games was working on a Tomb Raider VR game before the project was cancelled earlier this year.",
+        "source": "roadtovr.com",
+        "date": "Thu, 09 Jul 2026 11:20:09 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
         "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "summary": "Apple has filed a lawsuit against OpenAI, alleging the theft of trade secrets related to its hardware development.",
+        "summary": "Apple has filed a lawsuit against OpenAI, alleging the AI startup stole confidential hardware secrets from its employees.",
         "source": "theverge.com",
         "date": "2026-07-10T17:36:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Waze is getting a bunch of new AI-powered features",
         "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "summary": "Waze is integrating Google's AI assistant, Gemini, to enhance user personalization and improve its driving features.",
+        "summary": "Waze is integrating Google's AI assistant, Gemini, to enhance user experience with new personalized features in its driving app.",
         "source": "theverge.com",
         "date": "2026-07-13T05:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,84 +71,84 @@
       {
         "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "summary": "In response to backlash, Meta has disabled a controversial feature that allowed users to create AI deepfakes from public Instagram accounts.",
+        "summary": "Meta has disabled an Instagram feature that allowed users to create AI deepfakes of public accounts following significant backlash.",
         "source": "theverge.com",
         "date": "2026-07-10T19:49:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-        "summary": "During a performance, Lorde criticized AI glasses, suggesting they lack appeal and calling them 'not sexy'.",
+        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+        "summary": "Apple's failed self-driving car initiative contributed to the development of powerful AI chips that enhance its current hardware capabilities.",
         "source": "theverge.com",
-        "date": "2026-07-12T16:10:19-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-12T12:27:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-        "summary": "OpenAI's Fidji Simo is stepping down from her role as AGI chief due to health issues, transitioning to a part-time advisory position.",
-        "source": "theverge.com",
-        "date": "2026-07-09T19:24:04-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "Now, defenders are embracing the prompt injection, too",
+        "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+        "summary": "Defenders are now adopting prompt injection techniques to counteract AI hacking attempts, showcasing an evolving cybersecurity landscape.",
+        "source": "arstechnica.com",
+        "date": "Mon, 13 Jul 2026 15:06:34 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg"
       },
       {
-        "title": "Would you host part of an AI data center in your home?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-        "summary": "Sunrun is launching a pilot program to place AI data center compute units in customers' homes, incentivizing participation.",
+        "title": "Microsoft’s carbon emissions went up 25 percent last year",
+        "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+        "summary": "Microsoft's carbon emissions rose by 25% last year, raising concerns about the company's ability to meet its sustainability goals.",
         "source": "theverge.com",
-        "date": "2026-07-10T09:20:25-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-09T20:04:13-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Vinod Khosla-led group agrees to buy the Seahawks for a reported $9.612 billion",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vinod-khosla-led-group-agrees-to-buy-the-seahawks-for-a-reported-9-612-billion",
-        "summary": "Vinod Khosla's group has agreed to purchase the Seahawks for approximately $9.612 billion, marking a significant NFL transaction.",
-        "source": "nbcsports.com",
-        "date": "Sat, 11 Jul 2026 19:49:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87cd4db/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2Fnbc_pft_seahawkspurchase_260710.jpg"
+        "title": "Niners part owner agrees to purchase Seahawks",
+        "url": "https://www.espn.com/nfl/story/_/id/49337716/khosla-led-group-agrees-buy-seahawks-sources-say-96-billion",
+        "summary": "Niners limited partner Vinod Khosla has agreed to purchase the Seahawks for a record $9.612 billion, requiring divestment from the 49ers.",
+        "source": "espn.com",
+        "date": "Mon, 13 Jul 2026 07:12:20 EST",
+        "image": ""
+      },
+      {
+        "title": "Commanders to retire No. 44 of HOF RB Riggins",
+        "url": "https://www.espn.com/nfl/story/_/id/49315574/commanders-retire-no-44-worn-hall-famer-john-riggins",
+        "summary": "The Washington Commanders will retire Hall of Famer John Riggins' No. 44 jersey, honoring his legacy over 40 years after his iconic Super Bowl run.",
+        "source": "espn.com",
+        "date": "Mon, 13 Jul 2026 07:12:20 EST",
+        "image": ""
+      },
+      {
+        "title": "Sources: CB Douglas to sign with Commanders",
+        "url": "https://www.espn.com/nba/story/_/id/49286897/sources-cb-rasul-douglas-sign-1-year-deal-commanders",
+        "summary": "Free agent cornerback Rasul Douglas is set to sign a one-year deal with the Washington Commanders worth up to $3.8 million.",
+        "source": "espn.com",
+        "date": "Mon, 13 Jul 2026 07:12:20 EST",
+        "image": ""
+      },
+      {
+        "title": "Study: NFLers die from dementia at higher rate",
+        "url": "https://www.espn.com/nfl/story/_/id/49317702/study-nfl-players-4-s-more-likely-die-neurodegenerative-disease",
+        "summary": "A new study reveals NFL players are four times more likely to die from neurodegenerative diseases like dementia compared to the general population.",
+        "source": "espn.com",
+        "date": "Mon, 13 Jul 2026 07:12:20 EST",
+        "image": ""
       },
       {
         "title": "ESPN re-signs Adam Schefter to \"multi-year agreement\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-re-signs-adam-schefter-to-multi-year-agreement",
-        "summary": "ESPN has re-signed prominent NFL insider Adam Schefter to a multi-year agreement, solidifying his role in sports reporting.",
+        "summary": "ESPN has re-signed reporter Adam Schefter to a multi-year agreement, ensuring his continued presence in NFL coverage.",
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 10:55:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
       },
       {
-        "title": "Aaron Rodgers can become the fifth quarterback in NFL history with 70,000 passing yards",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-can-become-the-fifth-quarterback-in-nfl-history-with-70-000-passing-yards",
-        "summary": "Aaron Rodgers aims to become the fifth NFL quarterback to surpass 70,000 passing yards in what he claims will be his final season.",
-        "source": "nbcsports.com",
-        "date": "Sun, 12 Jul 2026 05:06:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2478e71/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_bradyonrodgers_260623.jpg"
-      },
-      {
-        "title": "Sean Payton predicts there will be more grass fields \"where it's possible\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-predicts-there-will-be-more-grass-fields-where-its-possible",
-        "summary": "Sean Payton predicts an increase in grass playing fields across the NFL, emphasizing player safety and performance.",
-        "source": "nbcsports.com",
-        "date": "Sat, 11 Jul 2026 14:20:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
-      },
-      {
-        "title": "Aaron Rodgers gathers six teammates for \"bonding week\" before \"last rodeo\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-gathers-six-teammates-for-bonding-week-before-last-rodeo",
-        "summary": "Aaron Rodgers has gathered teammates for a bonding week, emphasizing camaraderie ahead of the upcoming NFL season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 06:49:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2478e71/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2Fnbc_pftpm_bradyonrodgers_260623.jpg"
-      },
-      {
-        "title": "WR Trent Taylor announces his retirement",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-trent-taylor-announces-his-retirement",
-        "summary": "Veteran wide receiver Trent Taylor has announced his retirement from professional football.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 08:09:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/da7f431/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F79%2F811%2Fnbc_pft_mailbag_260710.jpg"
+        "title": "Clutch Vinatieri to enter Colts' Ring of Honor",
+        "url": "https://www.espn.com/nfl/story/_/id/49308565/colts-add-kicker-adam-vinatieri-team-ring-honor",
+        "summary": "Kicker Adam Vinatieri, soon to be inducted into the Hall of Fame, will also enter the Colts' Ring of Honor on October 18.",
+        "source": "espn.com",
+        "date": "Mon, 13 Jul 2026 07:12:20 EST",
+        "image": ""
       }
     ]
   }
