@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-13T20:35:11.298Z",
+  "updated": "2026-07-13T21:34:10.976Z",
   "feed": {
     "VR": [
       {
-        "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
-        "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Palmer Luckey teases the development of remarkably compact AR glasses at Anduril, designed for full AR capabilities beyond just smart glasses.",
-        "source": "roadtovr.com",
-        "date": "Mon, 13 Jul 2026 18:35:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
+        "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
+        "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
+        "summary": "Golf+ kicks off its first VR Open this week, offering a grand prize trip to St. Andrews for the winner of the 2027 Open Championship.",
+        "source": "uploadvr.com",
+        "date": "Mon, 13 Jul 2026 13:42:10 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
       },
       {
         "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
@@ -19,9 +19,17 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       },
       {
+        "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
+        "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
+        "summary": "Anduril's founder teases compact AR glasses designed for full AR capability, hinting at significant advancements in the technology.",
+        "source": "roadtovr.com",
+        "date": "Mon, 13 Jul 2026 18:35:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
+      },
+      {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple publishes technical specifications for third-party motion controllers compatible with its Vision Pro headset, enhancing developer opportunities.",
+        "summary": "Apple publishes detailed specifications for third-party motion controllers compatible with its Vision Pro, expanding developer opportunities.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
@@ -29,41 +37,41 @@
       {
         "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
         "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
-        "summary": "Lenovo reportedly shuts down its U.S.-based XR business unit as it pivots towards AI wearables, impacting numerous employees.",
+        "summary": "Lenovo reportedly shuts down its U.S.-based XR business unit, shifting focus towards AI wearables amid industry changes.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 08:13:34 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Lamborghini’s Apple Vision Pro App Reimagines the Showroom at Home",
-        "url": "https://www.uploadvr.com/lamborghinis-apple-vision-pro-app-reimagines-the-showroom-at-home/",
-        "summary": "Lamborghini's new Apple Vision Pro app offers immersive showcases of rare vehicles, allowing users to experience them in their homes.",
-        "source": "uploadvr.com",
-        "date": "Thu, 09 Jul 2026 14:19:39 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/671592.png"
-      },
-      {
-        "title": "Ghosts of Tabor: Legacy Returns The Shooter To Its 2024 Era Later This Month",
-        "url": "https://www.uploadvr.com/ghosts-of-tabor-legacy-returns-the-shooter-to-its-2024-era-later-this-month/",
-        "summary": "Combat Waffle Studios announces 'Ghosts of Tabor: Legacy,' returning the popular shooter to its 2024 roots for Meta Quest and PC VR.",
-        "source": "uploadvr.com",
-        "date": "Fri, 10 Jul 2026 14:07:46 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/toX7A8yDayk-HD.jpg"
+        "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
+        "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
+        "summary": "A leaked report reveals that Vertigo Games Amsterdam was developing a Tomb Raider VR game before it was canceled earlier this year.",
+        "source": "roadtovr.com",
+        "date": "Thu, 09 Jul 2026 11:20:09 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
         "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "summary": "Apple sues OpenAI, alleging theft of trade secrets related to hardware development by former Apple employees now at the AI startup.",
+        "summary": "Apple has filed a lawsuit against OpenAI, alleging theft of trade secrets by former Apple employees now at the AI startup.",
         "source": "theverge.com",
         "date": "2026-07-10T17:36:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+        "summary": "Apple's lawsuit against OpenAI includes wild claims about employees allegedly stealing confidential documents and unreleased product samples.",
+        "source": "theverge.com",
+        "date": "2026-07-13T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Waze is getting a bunch of new AI-powered features",
         "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "summary": "Waze integrates Google's AI assistant, Gemini, introducing new personalized features aimed at enhancing user experience on the driving app.",
+        "summary": "Waze is set to receive new AI-powered features, integrating Google's Gemini to enhance user personalization during trips.",
         "source": "theverge.com",
         "date": "2026-07-13T05:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,37 +79,53 @@
       {
         "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "summary": "In response to backlash, Meta disables an Instagram feature that allowed users to create AI deepfakes from public accounts.",
+        "summary": "Meta is disabling a controversial feature that allowed users to create AI deepfakes from public Instagram accounts following backlash.",
         "source": "theverge.com",
         "date": "2026-07-10T19:49:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-        "summary": "Apple's lawsuit against OpenAI includes wild claims about the alleged theft of confidential documents and unreleased product samples.",
-        "source": "theverge.com",
-        "date": "2026-07-13T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
         "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "summary": "Apple's abandoned self-driving car program has inadvertently contributed to the development of its powerful AI chips.",
+        "summary": "Apple's failed self-driving car program has contributed to the development of powerful AI chips, highlighting its unintended legacy.",
         "source": "theverge.com",
         "date": "2026-07-12T12:27:06-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Now, defenders are embracing the prompt injection, too",
-        "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-        "summary": "Defenders are now adopting prompt injection techniques to counteract AI threats, showcasing a shift in cybersecurity strategies.",
-        "source": "arstechnica.com",
-        "date": "Mon, 13 Jul 2026 15:06:34 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg"
+        "title": "Would you host part of an AI data center in your home?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+        "summary": "Sunrun launches a pilot program allowing customers to host AI data center compute units in their homes, offering financial incentives.",
+        "source": "theverge.com",
+        "date": "2026-07-10T09:20:25-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
+      {
+        "title": "ESPN re-signs Adam Schefter to \"multi-year agreement\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-re-signs-adam-schefter-to-multi-year-agreement",
+        "summary": "ESPN has re-signed Adam Schefter to a multi-year agreement, solidifying his role as a key NFL insider.",
+        "source": "nbcsports.com",
+        "date": "Mon, 13 Jul 2026 10:55:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
+      },
+      {
+        "title": "Packers sign LB Isaiah McDuffie to contract extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-lb-isaiah-mcduffie-to-contract-extension",
+        "summary": "The Packers have signed linebacker Isaiah McDuffie to a contract extension, securing a key player for their defense.",
+        "source": "nbcsports.com",
+        "date": "Mon, 13 Jul 2026 13:53:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/901c077/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2Fnbc_pftpm_arnold_260707.jpg"
+      },
+      {
+        "title": "Jets waive Quentin Skinner off injured reserve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-waive-quentin-skinner-off-injured-reserve",
+        "summary": "The Jets have waived Quentin Skinner off injured reserve, making a significant roster move ahead of the season.",
+        "source": "nbcsports.com",
+        "date": "Mon, 13 Jul 2026 16:59:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
+      },
       {
         "title": "Kyle Juszczyk \"feeling good\" about having George Kittle back Week 1",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-juszczyk-feeling-good-about-having-george-kittle-back-week-1",
@@ -111,44 +135,20 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
       },
       {
-        "title": "Report: Aaron Donald wanted to see how he reacted to working out in pads",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-donald-wanted-to-see-how-he-reacted-to-working-out-in-pads",
-        "summary": "Aaron Donald's recent workout in pads raises speculation about his potential return from retirement to play for the Rams in 2026.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 15:56:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
-      },
-      {
-        "title": "Vote on Seahawks ownership change will happen in August",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vote-on-seahawks-ownership-change-will-happen-in-august",
-        "summary": "A crucial vote on the Seahawks' ownership change is set for August, potentially impacting the team's future.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 13:50:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
-      },
-      {
-        "title": "Packers sign LB Isaiah McDuffie to contract extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-lb-isaiah-mcduffie-to-contract-extension",
-        "summary": "The Packers extend linebacker Isaiah McDuffie's contract, securing a key player for their defensive lineup.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 13:53:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/901c077/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2Fnbc_pftpm_arnold_260707.jpg"
-      },
-      {
-        "title": "ESPN re-signs Adam Schefter to \"multi-year agreement\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-re-signs-adam-schefter-to-multi-year-agreement",
-        "summary": "ESPN finalizes a multi-year agreement to re-sign prominent NFL insider Adam Schefter, ensuring his continued presence on the network.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 10:55:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
-      },
-      {
         "title": "Aaron Rodgers gathers six teammates for \"bonding week\" before \"last rodeo\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-gathers-six-teammates-for-bonding-week-before-last-rodeo",
-        "summary": "Aaron Rodgers organizes a 'bonding week' with teammates ahead of what he calls his 'last rodeo' season.",
+        "summary": "Aaron Rodgers gathers six teammates for a bonding week, emphasizing team unity ahead of what he calls his 'last rodeo'.",
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 06:49:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c96696e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_rodgerstour_260713.jpg"
+      },
+      {
+        "title": "Report: Aaron Donald wanted to see how he reacted to working out in pads",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aaron-donald-wanted-to-see-how-he-reacted-to-working-out-in-pads",
+        "summary": "Aaron Donald's recent workout at Rams facilities raises speculation about his potential return from retirement in 2026.",
+        "source": "nbcsports.com",
+        "date": "Mon, 13 Jul 2026 15:56:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
       }
     ]
   }
