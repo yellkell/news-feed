@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T06:33:06.787Z",
+  "updated": "2026-07-14T08:53:49.099Z",
   "feed": {
     "VR": [
       {
@@ -13,10 +13,18 @@
       {
         "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
         "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Anduril's founder teases compact AR glasses designed for full AR capability, suggesting significant advancements in augmented reality technology.",
+        "summary": "Palmer Luckey teases remarkably compact AR glasses under development at Anduril, promising full AR capability beyond just smart glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 18:35:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
+      },
+      {
+        "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
+        "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
+        "summary": "Apple has published technical specifications for third-party motion controllers for its Vision Pro headset, expanding accessory options.",
+        "source": "roadtovr.com",
+        "date": "Fri, 10 Jul 2026 19:41:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
       },
       {
         "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
@@ -27,35 +35,27 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       },
       {
-        "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
-        "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple publishes technical specifications for third-party motion controllers compatible with its Vision Pro headset, expanding developer opportunities.",
-        "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 19:41:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
-      },
-      {
-        "title": "Former Oculus CTO John Carmack Puts up $1M for Official VR Ports of Id Software Titles",
-        "url": "https://roadtovr.com/john-carmack-1m-guarantee-id-software-vr-games/",
-        "summary": "John Carmack offers a $1 million guarantee to help commercialize VR ports of classic id Software titles.",
-        "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 10:08:35 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2018/09/john-carmack-oculus-connect.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
         "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
         "summary": "Leaked images reveal that Vertigo Games was developing a Tomb Raider VR game before its cancellation earlier this year.",
         "source": "roadtovr.com",
         "date": "Thu, 09 Jul 2026 11:20:09 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Former Oculus CTO John Carmack Puts up $1M for Official VR Ports of Id Software Titles",
+        "url": "https://roadtovr.com/john-carmack-1m-guarantee-id-software-vr-games/",
+        "summary": "John Carmack reaffirms his commitment to fund VR ports of id Software titles, offering $1 million to facilitate the project.",
+        "source": "roadtovr.com",
+        "date": "Fri, 10 Jul 2026 10:08:35 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2018/09/john-carmack-oculus-connect.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
         "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "summary": "Apple has sued OpenAI, alleging that former employees stole trade secrets to advance the AI startup's hardware plans.",
+        "summary": "Apple has filed a lawsuit against OpenAI, alleging that its engineers stole trade secrets to advance the startup's hardware plans.",
         "source": "theverge.com",
         "date": "2026-07-10T17:36:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Waze is getting a bunch of new AI-powered features",
         "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "summary": "Waze integrates AI features powered by Google's Gemini, enhancing user personalization for driving experiences.",
+        "summary": "Waze is integrating Google's AI assistant, Gemini, to enhance user personalization with new AI-powered features.",
         "source": "theverge.com",
         "date": "2026-07-13T05:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,15 +71,23 @@
       {
         "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "summary": "Meta disables an Instagram feature allowing users to create AI deepfakes from public accounts following user backlash.",
+        "summary": "Meta has disabled a controversial Instagram feature that allowed users to create AI deepfakes from public accounts after facing backlash.",
         "source": "theverge.com",
         "date": "2026-07-10T19:49:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "The US government warns that Russia state hackers are coming after your router",
+        "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+        "summary": "CISA warns that Russian state hackers are targeting home routers, urging users to remain vigilant against potential threats.",
+        "source": "arstechnica.com",
+        "date": "Mon, 13 Jul 2026 21:03:07 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-1152x648.jpg"
+      },
+      {
         "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
         "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "summary": "Apple's failed self-driving car program has resulted in the development of powerful AI chips, despite the project's cancellation.",
+        "summary": "Apple's failed self-driving car program has led to the development of powerful AI chips, despite the project never launching.",
         "source": "theverge.com",
         "date": "2026-07-12T12:27:06-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,67 +95,59 @@
       {
         "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
         "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-        "summary": "Apple's lawsuit against OpenAI includes wild claims about the alleged theft of confidential documents during job interviews.",
+        "summary": "Apple's lawsuit against OpenAI includes claims of employees stealing confidential documents during job interviews.",
         "source": "theverge.com",
         "date": "2026-07-13T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Would you host part of an AI data center in your home?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-        "summary": "Sunrun launches a pilot program offering customers payment to host AI data center compute units in their homes.",
-        "source": "theverge.com",
-        "date": "2026-07-10T09:20:25-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Packers sign LB Isaiah McDuffie to contract extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-lb-isaiah-mcduffie-to-contract-extension",
-        "summary": "The Packers have signed linebacker Isaiah McDuffie to a contract extension, securing a key player for their defense.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 13:53:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/901c077/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2Fnbc_pftpm_arnold_260707.jpg"
-      },
-      {
-        "title": "Vote on Seahawks ownership change will happen in August",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vote-on-seahawks-ownership-change-will-happen-in-august",
-        "summary": "A vote on the Seahawks' ownership change is set for August, potentially impacting the team's future.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 13:50:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
+        "title": "Niners part owner agrees to purchase Seahawks",
+        "url": "https://www.espn.com/nfl/story/_/id/49337716/khosla-led-group-agrees-buy-seahawks-sources-say-96-billion",
+        "summary": "A group led by Vinod Khosla has agreed to purchase the Seahawks for a record $9.612 billion, requiring divestment from the 49ers.",
+        "source": "espn.com",
+        "date": "Mon, 13 Jul 2026 15:00:20 EST",
+        "image": ""
       },
       {
         "title": "Report: Alshon Jeffery reaches deal to resolve insurance fraud charges",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alshon-jeffery-reaches-deal-to-resolve-insurance-fraud-charges",
-        "summary": "Former NFL receiver Alshon Jeffery is nearing a resolution in his felony insurance fraud case.",
+        "summary": "Former NFL receiver Alshon Jeffery is nearing a resolution in his felony insurance fraud case, likely avoiding the maximum sentence.",
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 23:13:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6e3bc5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2Fnbc_pft_terrionarnold_260710.jpg"
       },
       {
-        "title": "ESPN re-signs Adam Schefter to \"multi-year agreement\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-re-signs-adam-schefter-to-multi-year-agreement",
-        "summary": "ESPN has re-signed Adam Schefter to a multi-year agreement, solidifying his role in NFL coverage.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 10:55:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
+        "title": "Commanders to retire No. 44 of HOF RB Riggins",
+        "url": "https://www.espn.com/nfl/story/_/id/49315574/commanders-retire-no-44-worn-hall-famer-john-riggins",
+        "summary": "The Commanders will retire Hall of Famer John Riggins' No. 44 jersey, commemorating his legendary Super Bowl run.",
+        "source": "espn.com",
+        "date": "Mon, 13 Jul 2026 15:00:20 EST",
+        "image": ""
+      },
+      {
+        "title": "Packers sign LB McDuffie to one-year extension",
+        "url": "https://www.espn.com/nfl/story/_/id/49352279/packers-sign-lb-isaiah-mcduffie-one-year-contract-extension",
+        "summary": "The Packers have signed linebacker Isaiah McDuffie to a one-year contract extension, bolstering their defensive lineup.",
+        "source": "espn.com",
+        "date": "Mon, 13 Jul 2026 15:00:20 EST",
+        "image": ""
+      },
+      {
+        "title": "Study: NFLers die from dementia at higher rate",
+        "url": "https://www.espn.com/nfl/story/_/id/49317702/study-nfl-players-4-s-more-likely-die-neurodegenerative-disease",
+        "summary": "A new study reveals NFL players are four times more likely to die from neurodegenerative diseases compared to the general population.",
+        "source": "espn.com",
+        "date": "Mon, 13 Jul 2026 15:00:20 EST",
+        "image": ""
       },
       {
         "title": "Kyle Juszczyk \"feeling good\" about having George Kittle back Week 1",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-juszczyk-feeling-good-about-having-george-kittle-back-week-1",
-        "summary": "49ers tight end George Kittle aims for a Week 1 return after recovering from an Achilles injury.",
+        "summary": "49ers tight end George Kittle is optimistic about returning for Week 1 after recovering from an Achilles injury.",
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 16:25:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
-      },
-      {
-        "title": "Jets waive Quentin Skinner off injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-waive-quentin-skinner-off-injured-reserve",
-        "summary": "The Jets have waived Quentin Skinner off injured reserve, making a roster adjustment ahead of the season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 16:59:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
       }
     ]
