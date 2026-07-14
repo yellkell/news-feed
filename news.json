@@ -1,35 +1,19 @@
 {
-  "updated": "2026-07-14T14:10:21.613Z",
+  "updated": "2026-07-14T15:43:28.952Z",
   "feed": {
     "VR": [
       {
         "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
         "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Anduril's founder teased new compact AR glasses designed for full augmented reality capabilities, hinting at innovative developments in the AR space.",
+        "summary": "Anduril's founder teases compact AR glasses designed for full augmented reality capabilities, hinting at a significant development in wearable technology.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 18:35:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
       },
       {
-        "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
-        "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
-        "summary": "Golf+ kicks off its inaugural VR Open this week, offering a grand prize trip to St. Andrews for the winner.",
-        "source": "uploadvr.com",
-        "date": "Mon, 13 Jul 2026 13:42:10 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
-      },
-      {
-        "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
-        "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
-        "summary": "Lenovo has reportedly closed its US XR business unit, shifting focus towards AI wearables amid industry changes.",
-        "source": "roadtovr.com",
-        "date": "Mon, 13 Jul 2026 08:13:34 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple has released technical specifications for third-party motion controllers compatible with its Vision Pro headset, enhancing developer opportunities.",
+        "summary": "Apple has published detailed specifications for third-party motion controllers compatible with its Vision Pro headset, expanding its ecosystem for developers.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
@@ -37,57 +21,73 @@
       {
         "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
         "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal's new $299 AR glasses launch in the U.S., featuring a 147-inch virtual screen and lightweight design, making AR more accessible.",
+        "summary": "Xreal launches its new budget AR glasses priced at $299, offering a large virtual screen experience to a wider audience.",
         "source": "mixed-news.com",
         "date": "Fri, 10 Jul 2026 13:00:30 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       },
       {
-        "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
-        "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
-        "summary": "A leak reveals that Vertigo Games was developing a Tomb Raider VR title before the project was canceled earlier this year.",
+        "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
+        "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
+        "summary": "Meta's CTO confirms ongoing development of multiple next-generation headsets, potentially hinting at upcoming announcements during the Connect event.",
+        "source": "uploadvr.com",
+        "date": "Thu, 09 Jul 2026 14:09:46 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
+      },
+      {
+        "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
+        "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
+        "summary": "Lenovo reportedly shuts down its US XR business unit, signaling a strategic shift towards AI wearables amid industry changes.",
         "source": "roadtovr.com",
-        "date": "Thu, 09 Jul 2026 11:20:09 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Mon, 13 Jul 2026 08:13:34 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
+        "title": "John Carmack Reminds Microsoft He'll Guarantee $1 Million To Bring Team Beef’s Ports To VR",
+        "url": "https://www.uploadvr.com/john-carmack-reminds-microsoft-hell-guarantee-1-million-to-bring-team-beefs-ports-to-vr/",
+        "summary": "John Carmack reiterates his commitment to fund VR ports of classic id Software games, offering a $1 million guarantee to Microsoft.",
+        "source": "uploadvr.com",
+        "date": "Fri, 10 Jul 2026 06:09:49 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/IMG_0105.jpeg"
       }
     ],
     "AI": [
       {
-        "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-        "summary": "Apple has filed a lawsuit against OpenAI, alleging the theft of confidential documents and unreleased product samples during job interviews.",
-        "source": "theverge.com",
-        "date": "2026-07-13T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
         "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-        "summary": "Google DeepMind's CEO advocates for a global AI watchdog, suggesting the U.S. should lead efforts to regulate dangerous AI models.",
+        "summary": "Google DeepMind's CEO advocates for a global AI watchdog led by the US to ensure safety in the development of advanced AI technologies.",
         "source": "theverge.com",
         "date": "2026-07-14T07:43:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "New York becomes the first state to enact a data center moratorium",
+        "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+        "summary": "New York becomes the first state to impose a moratorium on new data centers, aiming to address environmental concerns amid rising AI infrastructure demands.",
+        "source": "theverge.com",
+        "date": "2026-07-14T05:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+        "summary": "Apple's lawsuit against OpenAI alleges theft of confidential documents, raising significant concerns about corporate espionage in the tech industry.",
+        "source": "theverge.com",
+        "date": "2026-07-13T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Waze is getting a bunch of new AI-powered features",
         "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "summary": "Waze is integrating AI features powered by Google's Gemini to enhance user personalization in navigation.",
+        "summary": "Waze is set to introduce AI-powered features, enhancing user experience with personalized trip planning through Google's Gemini assistant.",
         "source": "theverge.com",
         "date": "2026-07-13T05:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Sam Altman didn’t need another lawsuit",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-        "summary": "OpenAI faces another high-profile lawsuit, this time from Apple, as the company deals with ongoing legal challenges.",
-        "source": "theverge.com",
-        "date": "2026-07-14T10:01:07-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "summary": "Meta has disabled a controversial Instagram feature that allowed users to create AI deepfakes from public accounts following backlash.",
+        "summary": "Meta disables a controversial Instagram feature that allowed users to create AI deepfakes from public accounts, responding to user backlash.",
         "source": "theverge.com",
         "date": "2026-07-10T19:49:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,61 +95,12 @@
       {
         "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
         "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "summary": "Apple's failed self-driving car program has contributed to the development of powerful AI chips, despite the project never launching.",
+        "summary": "Apple's halted self-driving car program has led to the development of powerful AI chips, influencing the company's hardware capabilities.",
         "source": "theverge.com",
         "date": "2026-07-12T12:27:06-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
-    "NFL": [
-      {
-        "title": "Study finds former NFL players die from ALS before age 50 at alarmingly high rates",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/study-finds-former-nfl-players-die-from-als-before-age-50-at-alarmingly-high-rates",
-        "summary": "Research reveals alarming rates of ALS among former NFL players, with many diagnosed before age 50, sparking renewed health concerns.",
-        "source": "nbcsports.com",
-        "date": "Tue, 14 Jul 2026 09:40:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/04a4cfd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F151%2F158%2Fnbc_pft_pftpm_alsfootball_260630.jpg"
-      },
-      {
-        "title": "Report: Alshon Jeffery reaches deal to resolve insurance fraud charges",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alshon-jeffery-reaches-deal-to-resolve-insurance-fraud-charges",
-        "summary": "Former NFL receiver Alshon Jeffery is close to resolving felony insurance fraud charges with a deal that could lessen his potential sentence.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 23:13:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6e3bc5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2Fnbc_pft_terrionarnold_260710.jpg"
-      },
-      {
-        "title": "Packers sign LB Isaiah McDuffie to contract extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-lb-isaiah-mcduffie-to-contract-extension",
-        "summary": "The Packers have signed linebacker Isaiah McDuffie to a contract extension, securing a key player for their defense.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 13:53:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/901c077/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2Fnbc_pftpm_arnold_260707.jpg"
-      },
-      {
-        "title": "Jets waive Quentin Skinner off injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-waive-quentin-skinner-off-injured-reserve",
-        "summary": "The Jets have waived Quentin Skinner off injured reserve, making a significant roster move ahead of the new season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 16:59:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
-      },
-      {
-        "title": "Vote on Seahawks ownership change will happen in August",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vote-on-seahawks-ownership-change-will-happen-in-august",
-        "summary": "A vote on the Seahawks' ownership change is set for August, potentially impacting the team's future as the season approaches.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 13:50:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
-      },
-      {
-        "title": "Kyle Juszczyk \"feeling good\" about having George Kittle back Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-juszczyk-feeling-good-about-having-george-kittle-back-week-1",
-        "summary": "49ers tight end George Kittle is optimistic about returning for Week 1 after recovering from an Achilles injury sustained in January.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 16:25:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
-      }
-    ]
+    "NFL": []
   }
 }
