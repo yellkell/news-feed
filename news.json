@@ -1,35 +1,19 @@
 {
-  "updated": "2026-07-14T10:38:57.948Z",
+  "updated": "2026-07-14T12:00:50.398Z",
   "feed": {
     "VR": [
       {
-        "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
-        "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
-        "summary": "Golf+ kicks off its first VR Open this week, offering a grand prize trip to St. Andrews for the 2027 Open Championship.",
-        "source": "uploadvr.com",
-        "date": "Mon, 13 Jul 2026 13:42:10 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
-      },
-      {
         "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
         "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Anduril's founder teases compact AR glasses designed for full augmented reality capabilities, hinting at innovative developments in the space.",
+        "summary": "Anduril's founder teases compact AR glasses designed for full augmented reality capabilities, hinting at significant advancements in the technology.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 18:35:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
       },
       {
-        "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
-        "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
-        "summary": "Lenovo reportedly shuts down its US-based XR business unit as it shifts focus towards AI wearables.",
-        "source": "roadtovr.com",
-        "date": "Mon, 13 Jul 2026 08:13:34 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple publishes detailed technical specifications for third-party motion controllers compatible with its Vision Pro headset.",
+        "summary": "Apple has released detailed technical specifications for third-party motion controllers compatible with its Vision Pro headset, expanding its ecosystem.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
@@ -37,15 +21,31 @@
       {
         "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
         "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal launches its $299 a01+ AR glasses in the U.S., featuring a 147-inch virtual screen and lightweight design.",
+        "summary": "Xreal launches its $299 a01+ AR glasses in the U.S., offering a lightweight design and immersive big-screen experience.",
         "source": "mixed-news.com",
         "date": "Fri, 10 Jul 2026 13:00:30 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       },
       {
+        "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
+        "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
+        "summary": "Lenovo reportedly shuts down its US XR business unit, shifting focus towards AI wearables amid industry changes.",
+        "source": "roadtovr.com",
+        "date": "Mon, 13 Jul 2026 08:13:34 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
+        "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
+        "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
+        "summary": "GOLF+ kicks off its first VR Open, offering a grand prize trip to St. Andrews for the winner in 2027.",
+        "source": "uploadvr.com",
+        "date": "Mon, 13 Jul 2026 13:42:10 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
+      },
+      {
         "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
         "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
-        "summary": "Leaked images reveal that Vertigo Games was developing a Tomb Raider VR game before the project was cancelled earlier this year.",
+        "summary": "Leaked images reveal that Vertigo Games was developing a Tomb Raider VR game before its cancellation earlier this year.",
         "source": "roadtovr.com",
         "date": "Thu, 09 Jul 2026 11:20:09 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
-        "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-        "summary": "Apple has filed a lawsuit against OpenAI, alleging that the AI startup stole confidential hardware secrets from its employees.",
+        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "summary": "Apple has filed a lawsuit against OpenAI, alleging theft of trade secrets related to hardware development.",
         "source": "theverge.com",
-        "date": "2026-07-13T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-10T17:36:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Waze is getting a bunch of new AI-powered features",
-        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "summary": "Waze is set to integrate Google's AI assistant, Gemini, introducing personalized features aimed at enhancing user experience.",
+        "title": "New York becomes the first state to enact a data center moratorium",
+        "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+        "summary": "New York becomes the first state to enact a moratorium on new data centers, aiming to address environmental concerns.",
         "source": "theverge.com",
-        "date": "2026-07-13T05:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-14T05:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
@@ -77,70 +77,46 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "summary": "Apple's lawsuit against OpenAI also implicates Jony Ive's company, IO Products, in the alleged theft of trade secrets.",
+        "title": "Waze is getting a bunch of new AI-powered features",
+        "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+        "summary": "Waze is integrating Google's AI assistant, Gemini, to enhance user personalization and improve driving experiences.",
         "source": "theverge.com",
-        "date": "2026-07-10T17:36:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-13T05:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The US government warns that Russia state hackers are coming after your router",
-        "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-        "summary": "CISA warns that Russian state hackers are targeting home routers, urging users to enhance their security measures.",
-        "source": "arstechnica.com",
-        "date": "Mon, 13 Jul 2026 21:03:07 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/wireless-router-cables-1152x648.jpg"
+        "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+        "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+        "summary": "Google DeepMind's CEO calls for a global AI watchdog, advocating for U.S. leadership in setting safety standards.",
+        "source": "theverge.com",
+        "date": "2026-07-14T07:43:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "summary": "Apple's abandoned self-driving car program contributed to the development of its powerful AI chips, despite never reaching production.",
+        "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+        "summary": "Apple's lawsuit against OpenAI includes claims of engineers soliciting confidential materials during job interviews.",
         "source": "theverge.com",
-        "date": "2026-07-12T12:27:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-13T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Report: Alshon Jeffery reaches deal to resolve insurance fraud charges",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alshon-jeffery-reaches-deal-to-resolve-insurance-fraud-charges",
-        "summary": "Former NFL receiver Alshon Jeffery is close to resolving his felony insurance fraud charges with a deal that likely avoids prison time.",
+        "title": "ESPN re-signs Adam Schefter to \"multi-year agreement\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-re-signs-adam-schefter-to-multi-year-agreement",
+        "summary": "ESPN has re-signed Adam Schefter to a multi-year agreement, securing the prominent NFL insider's role.",
         "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 23:13:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6e3bc5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2Fnbc_pft_terrionarnold_260710.jpg"
+        "date": "Mon, 13 Jul 2026 10:55:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
       },
       {
         "title": "Packers sign LB Isaiah McDuffie to contract extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-lb-isaiah-mcduffie-to-contract-extension",
-        "summary": "The Packers have signed linebacker Isaiah McDuffie to a contract extension, securing a key player for their defense.",
+        "summary": "The Packers have signed linebacker Isaiah McDuffie to a contract extension, bolstering their defensive lineup.",
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 13:53:15 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/901c077/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2Fnbc_pftpm_arnold_260707.jpg"
-      },
-      {
-        "title": "Vote on Seahawks ownership change will happen in August",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vote-on-seahawks-ownership-change-will-happen-in-august",
-        "summary": "A vote on the Seahawks' ownership change is scheduled for August, potentially altering the team's future.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 13:50:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
-      },
-      {
-        "title": "Jets waive Quentin Skinner off injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-waive-quentin-skinner-off-injured-reserve",
-        "summary": "The Jets have waived Quentin Skinner off injured reserve, making a roster move ahead of the upcoming season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 16:59:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
-      },
-      {
-        "title": "ESPN re-signs Adam Schefter to \"multi-year agreement\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-re-signs-adam-schefter-to-multi-year-agreement",
-        "summary": "ESPN has re-signed Adam Schefter to a multi-year agreement, ensuring his continued presence in NFL coverage.",
-        "source": "nbcsports.com",
-        "date": "Mon, 13 Jul 2026 10:55:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/832f500/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2FDavisPFTPMMPX7-10.jpg"
       },
       {
         "title": "Kyle Juszczyk \"feeling good\" about having George Kittle back Week 1",
@@ -149,6 +125,30 @@
         "source": "nbcsports.com",
         "date": "Mon, 13 Jul 2026 16:25:03 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab16c4c/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_aarondonald_260713.jpg"
+      },
+      {
+        "title": "Report: Alshon Jeffery reaches deal to resolve insurance fraud charges",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alshon-jeffery-reaches-deal-to-resolve-insurance-fraud-charges",
+        "summary": "Former NFL receiver Alshon Jeffery is nearing a resolution to his felony insurance fraud case.",
+        "source": "nbcsports.com",
+        "date": "Mon, 13 Jul 2026 23:13:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6e3bc5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F80%2F287%2Fnbc_pft_terrionarnold_260710.jpg"
+      },
+      {
+        "title": "Vote on Seahawks ownership change will happen in August",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vote-on-seahawks-ownership-change-will-happen-in-august",
+        "summary": "A vote on the potential ownership change for the Seahawks is set for August, impacting the team's future.",
+        "source": "nbcsports.com",
+        "date": "Mon, 13 Jul 2026 13:50:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
+      },
+      {
+        "title": "Micah Parsons not happy that Jordan Love was ranked as the No. 72 player in the NFL",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-not-happy-that-jordan-love-was-ranked-as-the-no-72-player-in-the-nfl",
+        "summary": "Micah Parsons expresses dissatisfaction with Jordan Love's ranking in the NFL's Top 100 players survey.",
+        "source": "nbcsports.com",
+        "date": "Mon, 13 Jul 2026 17:25:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5164edf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1004%2F339%2Fnbc_pft_packersantitrust_260617.jpg"
       }
     ]
   }
