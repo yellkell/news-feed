@@ -1,35 +1,11 @@
 {
-  "updated": "2026-07-15T15:11:50.969Z",
+  "updated": "2026-07-15T16:44:29.901Z",
   "feed": {
     "VR": [
       {
-        "title": "EU Moves to Exempt Smart Glasses from Repairability Rules, Privacy Questions Remain",
-        "url": "https://roadtovr.com/eu-exempt-smart-glasses-battery-privacy/",
-        "summary": "The EU exempts smart glasses from new repairability rules, allowing companies like Meta to continue producing them without mandatory user-removable batteries.",
-        "source": "roadtovr.com",
-        "date": "Wed, 15 Jul 2026 07:15:31 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/ray-ban-prescription.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
-        "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Anduril's founder teases compact AR glasses designed for full augmented reality capabilities, hinting at significant advancements in wearable technology.",
-        "source": "roadtovr.com",
-        "date": "Mon, 13 Jul 2026 18:35:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
-      },
-      {
-        "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
-        "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple releases technical specifications for third-party motion controllers compatible with its Vision Pro headset, expanding development opportunities for accessory makers.",
-        "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 19:41:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
-      },
-      {
         "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
         "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve prepares for the imminent launch of its Steam Frame standalone headset, with a new store page showcasing compatible games.",
+        "summary": "Valve has released a new store page for its upcoming Steam Frame standalone headset, hinting at an imminent launch.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 15:35:06 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -37,25 +13,49 @@
       {
         "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
         "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "GOLF+ kicks off its VR Open tournament, offering players a chance to win a trip to St. Andrews as part of the competition.",
+        "summary": "GOLF+ kicks off its VR Open this week, offering players a chance to win a trip to St. Andrews.",
         "source": "roadtovr.com",
         "date": "Tue, 14 Jul 2026 09:05:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "John Carmack Reminds Microsoft He'll Guarantee $1 Million To Bring Team Beef’s Ports To VR",
-        "url": "https://www.uploadvr.com/john-carmack-reminds-microsoft-hell-guarantee-1-million-to-bring-team-beefs-ports-to-vr/",
-        "summary": "John Carmack reiterates his $1 million guarantee to support VR ports of classic id Software games, aiming to revive retro titles in virtual reality.",
+        "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
+        "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
+        "summary": "Meta's CTO confirmed the company is developing multiple next-generation headsets, possibly revealing more at the upcoming Connect event.",
         "source": "uploadvr.com",
-        "date": "Fri, 10 Jul 2026 06:09:49 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/IMG_0105.jpeg"
+        "date": "Thu, 09 Jul 2026 14:09:46 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
+      },
+      {
+        "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
+        "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
+        "summary": "Apple has published specifications for third-party motion controllers for its Vision Pro, expanding accessory options for developers.",
+        "source": "roadtovr.com",
+        "date": "Fri, 10 Jul 2026 19:41:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
+      },
+      {
+        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
+        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
+        "summary": "Xreal's new $299 AR glasses launch in the U.S., featuring a large virtual screen and lightweight design.",
+        "source": "mixed-news.com",
+        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
+      },
+      {
+        "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
+        "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
+        "summary": "Palmer Luckey teased the development of compact AR glasses at Anduril, promising full AR capabilities.",
+        "source": "roadtovr.com",
+        "date": "Mon, 13 Jul 2026 18:35:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "OpenAI may announce a ChatGPT smart speaker this year",
         "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-        "summary": "OpenAI is reportedly set to announce a ChatGPT smart speaker, designed to interact without a screen but equipped with sensors for environmental understanding.",
+        "summary": "OpenAI is reportedly set to announce a ChatGPT smart speaker this year, featuring environmental awareness through sensors.",
         "source": "theverge.com",
         "date": "2026-07-14T17:26:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,89 +63,89 @@
       {
         "title": "Meta accused of using biased AI targeting for mass layoffs",
         "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-        "summary": "Former Meta employees are suing the company, alleging AI tools were used to unfairly target workers on leave for layoffs.",
+        "summary": "Former Meta employees are suing the company, alleging biased AI tools were used to target them for layoffs.",
         "source": "theverge.com",
         "date": "2026-07-14T13:18:11-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The Google Images homepage will recommend photos even before you search",
-        "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-        "summary": "Google Images will soon display recommended photos on its homepage, enhancing user experience by anticipating search interests.",
-        "source": "theverge.com",
-        "date": "2026-07-14T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Spotify is now an AI chatbot, too",
-        "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-        "summary": "Spotify introduces an AI chatbot feature, allowing Premium subscribers to interactively explore music, audiobooks, and podcasts.",
-        "source": "theverge.com",
-        "date": "2026-07-14T11:47:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
         "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-        "summary": "Google DeepMind's CEO calls for a global AI regulatory body, advocating for US leadership in establishing safety standards for advanced AI models.",
+        "summary": "Google DeepMind's Demis Hassabis advocates for a global AI watchdog, suggesting the U.S. should take the lead.",
         "source": "theverge.com",
         "date": "2026-07-14T07:43:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-        "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-        "summary": "Apple's lawsuit against OpenAI alleges the theft of confidential information during job interviews, highlighting tensions between the two tech giants.",
+        "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+        "summary": "SpaceXAI's Grok programming tool was found to be uploading users' entire codebases to the cloud, prompting immediate shutdown.",
         "source": "theverge.com",
-        "date": "2026-07-13T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-14T15:25:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "OpenAI finally launches hardware… for Codex",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+        "summary": "OpenAI has launched hardware for its Codex platform, marking its entry into physical product offerings.",
+        "source": "theverge.com",
+        "date": "2026-07-15T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Spotify is now an AI chatbot, too",
+        "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+        "summary": "Spotify introduces a new AI chatbot feature, allowing Premium users to interact with music and podcasts through conversation.",
+        "source": "theverge.com",
+        "date": "2026-07-14T11:47:36-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Texans co-founder Janice McNair dies at 89",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-co-founder-janice-mcnair-dies-at-89",
-        "summary": "Janice McNair, co-founder of the Houston Texans, has passed away at age 89, leaving a lasting legacy in the NFL.",
+        "summary": "Janice McNair, co-founder of the Houston Texans, has passed away at the age of 89.",
         "source": "nbcsports.com",
         "date": "Tue, 14 Jul 2026 16:20:01 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
       },
       {
-        "title": "Bills claim WR Quentin Skinner off waivers, release WR Deven Thompkins",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-claim-wr-quentin-skinner-off-waivers-release-wr-deven-thompkins",
-        "summary": "The Buffalo Bills claim wide receiver Quentin Skinner off waivers while releasing Deven Thompkins, adjusting their roster ahead of the season.",
-        "source": "nbcsports.com",
-        "date": "Tue, 14 Jul 2026 16:56:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96afc08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F510%2F194%2Fnbc_pft_afcnuts_260612.jpg"
-      },
-      {
         "title": "Cowboys DE Charles Snowden suspended three games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-de-charles-snowden-suspended-three-games",
-        "summary": "Dallas Cowboys defensive end Charles Snowden faces a three-game suspension to start the 2026 season due to disciplinary action.",
+        "summary": "Cowboys defensive end Charles Snowden has been suspended for three games, affecting the team's season start.",
         "source": "nbcsports.com",
         "date": "Tue, 14 Jul 2026 16:52:49 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/47485b4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F272%2F678%2FNorwayEnglandGoalMPX.jpg"
       },
       {
-        "title": "Ethan Pocic medically cleared after suffering torn Achilles in December",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ethan-pocic-medically-cleared-after-suffering-torn-achilles-in-december",
-        "summary": "Center Ethan Pocic has been medically cleared to return after recovering from a torn Achilles sustained last season.",
+        "title": "Bills claim WR Quentin Skinner off waivers, release WR Deven Thompkins",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-claim-wr-quentin-skinner-off-waivers-release-wr-deven-thompkins",
+        "summary": "The Bills have claimed WR Quentin Skinner off waivers and released WR Deven Thompkins in roster moves.",
         "source": "nbcsports.com",
-        "date": "Wed, 15 Jul 2026 10:40:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
+        "date": "Tue, 14 Jul 2026 16:56:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96afc08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F510%2F194%2Fnbc_pft_afcnuts_260612.jpg"
       },
       {
-        "title": "Roger Goodell: Janice McNair's impact on Houston and the NFL will be felt for generations",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-janice-mcnairs-impact-on-houston-and-the-nfl-will-be-felt-for-generations",
-        "summary": "NFL Commissioner Roger Goodell honors Janice McNair's significant contributions to the Texans and the league during her tenure.",
+        "title": "Geno Smith told police his accuser tried to steal $20 million in jewlery from him",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/geno-smith-told-police-his-accuser-tried-to-steal-20-million-in-jewlery-from-him",
+        "summary": "Geno Smith will not face charges related to an alleged assault incident involving a $20 million jewelry theft.",
         "source": "nbcsports.com",
-        "date": "Wed, 15 Jul 2026 04:23:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
+        "date": "Wed, 15 Jul 2026 11:06:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1059603/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2FGenoFlorio6-23.jpg"
+      },
+      {
+        "title": "Joe Flacco says his Super Bowl ring and MVP trophy don't matter much to him",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-flacco-says-his-super-bowl-ring-and-mvp-trophy-dont-matter-much-to-him",
+        "summary": "Joe Flacco downplays the significance of his Super Bowl ring and MVP trophy, focusing on future goals.",
+        "source": "nbcsports.com",
+        "date": "Tue, 14 Jul 2026 17:04:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5dba1ec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F1023%2Fnbc_pft_quarterback_260514.jpg"
       },
       {
         "title": "Giants expect Cam Skattebo to be ready \"early in camp,\" Malik Nabers \"not far behind\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-expect-cam-skattebo-early-in-camp-malik-nabers-not-far-behind",
-        "summary": "Giants head coach John Harbaugh provides updates, indicating that Cam Skattebo is expected to return early in camp.",
+        "summary": "Giants coach John Harbaugh updates on injured players, expecting Cam Skattebo to return early in camp.",
         "source": "nbcsports.com",
         "date": "Tue, 14 Jul 2026 16:16:01 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ec2715/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F362%2F518%2Fnbc_pftpm_phiharperresponse_260714.jpg"
