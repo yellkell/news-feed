@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-15T00:58:57.801Z",
+  "updated": "2026-07-15T04:06:32.841Z",
   "feed": {
     "VR": [
       {
         "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
         "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
-        "summary": "Golf+ launches its first VR Open, offering a grand prize trip to St. Andrews for the 2027 Open Championship.",
+        "summary": "Golf+ launches its first VR Open this week, offering a grand prize trip to St. Andrews for the 2027 Open Championship.",
         "source": "uploadvr.com",
         "date": "Mon, 13 Jul 2026 13:42:10 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
@@ -13,10 +13,18 @@
       {
         "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
         "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Palmer Luckey teases the development of compact AR glasses designed for full augmented reality capabilities.",
+        "summary": "Anduril's founder teases compact AR glasses designed for full augmented reality capabilities, potentially reshaping the AR market.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 18:35:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
+      },
+      {
+        "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
+        "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
+        "summary": "Lenovo reportedly shuts down its US-based XR business unit, shifting focus towards AI wearables.",
+        "source": "roadtovr.com",
+        "date": "Mon, 13 Jul 2026 08:13:34 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
@@ -27,35 +35,27 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
       },
       {
-        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
-        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve's Steam Frame standalone headset nears launch as it introduces a new store page for compatible content.",
+        "title": "XREAL’s First Budget AR Glasses Go on Sale Internationally, Priced at $300",
+        "url": "https://roadtovr.com/xreals-budget-ar-glasses-price-release-date/",
+        "summary": "Xreal's budget AR glasses, priced at $299, launch internationally, promising an immersive big-screen experience.",
         "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Fri, 10 Jul 2026 12:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-close.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
-        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal's new $299 AR glasses offer a 147-inch virtual screen and lightweight design, expanding access to immersive experiences.",
-        "source": "mixed-news.com",
-        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
-      },
-      {
-        "title": "‘Tomb Raider’ VR Reportedly Cancelled According to Leaked Images & Video",
-        "url": "https://roadtovr.com/tomb-raider-vr-cancelled-leak-image-video/",
-        "summary": "Leaked images reveal that Vertigo Games was developing a Tomb Raider VR game before its cancellation.",
-        "source": "roadtovr.com",
-        "date": "Thu, 09 Jul 2026 11:20:09 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/tomb-raider.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "title": "John Carmack Reminds Microsoft He'll Guarantee $1 Million To Bring Team Beef’s Ports To VR",
+        "url": "https://www.uploadvr.com/john-carmack-reminds-microsoft-hell-guarantee-1-million-to-bring-team-beefs-ports-to-vr/",
+        "summary": "John Carmack reiterates his $1 million guarantee to support VR ports of classic id Software titles.",
+        "source": "uploadvr.com",
+        "date": "Fri, 10 Jul 2026 06:09:49 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/IMG_0105.jpeg"
       }
     ],
     "AI": [
       {
         "title": "OpenAI may announce a ChatGPT smart speaker this year",
         "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-        "summary": "OpenAI is reportedly set to announce a ChatGPT smart speaker, allowing users to interact with AI through voice.",
+        "summary": "OpenAI plans to launch a ChatGPT smart speaker this year, allowing users to interact with the AI without a screen.",
         "source": "theverge.com",
         "date": "2026-07-14T17:26:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,39 +63,39 @@
       {
         "title": "Meta accused of using biased AI targeting for mass layoffs",
         "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-        "summary": "Meta faces a lawsuit from former employees alleging biased AI targeting in mass layoffs.",
+        "summary": "Meta faces a lawsuit from former employees who claim AI tools were used to unfairly target them for layoffs.",
         "source": "theverge.com",
         "date": "2026-07-14T13:18:11-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The Google Images homepage will recommend photos even before you search",
-        "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-        "summary": "Google Images will soon recommend photos on its homepage, enhancing user experience ahead of its 25th anniversary.",
-        "source": "theverge.com",
-        "date": "2026-07-14T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-        "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-        "summary": "Google DeepMind's Demis Hassabis advocates for a global AI watchdog, suggesting the U.S. should lead the initiative.",
-        "source": "theverge.com",
-        "date": "2026-07-14T07:43:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
         "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-        "summary": "SpaceXAI's Grok programming tool was found uploading users' entire codebases to cloud storage before being disabled.",
+        "summary": "SpaceXAI's Grok programming tool was found to be uploading users' entire codebases to cloud storage before being disabled.",
         "source": "theverge.com",
         "date": "2026-07-14T15:25:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+        "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+        "summary": "Google DeepMind's Demis Hassabis advocates for a global AI watchdog, led by the US, to regulate advanced AI models.",
+        "source": "theverge.com",
+        "date": "2026-07-14T07:43:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "The Google Images homepage will recommend photos even before you search",
+        "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+        "summary": "Google is set to revamp its Images homepage, showcasing recommended photos before users even initiate a search.",
+        "source": "theverge.com",
+        "date": "2026-07-14T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
         "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-        "summary": "Apple's lawsuit against OpenAI alleges theft of confidential documents during job interviews with former employees.",
+        "summary": "Apple's lawsuit against OpenAI accuses the AI startup of stealing confidential documents during job interviews.",
         "source": "theverge.com",
         "date": "2026-07-13T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -105,7 +105,7 @@
       {
         "title": "Study finds former NFL players die from ALS before age 50 at alarmingly high rates",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/study-finds-former-nfl-players-die-from-als-before-age-50-at-alarmingly-high-rates",
-        "summary": "A study reveals alarming rates of ALS among former NFL players, highlighting health risks associated with the sport.",
+        "summary": "A study reveals alarming rates of ALS among former NFL players, with many diagnosed before age 50.",
         "source": "nbcsports.com",
         "date": "Tue, 14 Jul 2026 09:40:50 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/04a4cfd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F151%2F158%2Fnbc_pft_pftpm_alsfootball_260630.jpg"
@@ -113,7 +113,7 @@
       {
         "title": "Report: Vote on Seahawks sale is expected at one-day league meeting on Aug. 26",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-vote-on-seahawks-sale-is-expected-at-one-day-league-meeting-on-aug-26",
-        "summary": "A vote on the sale of the Seahawks, expected to fetch a record $9.612 billion, is set for August 26.",
+        "summary": "A vote on the sale of the Seahawks, expected to fetch a record $9.612 billion, is slated for August 26.",
         "source": "nbcsports.com",
         "date": "Tue, 14 Jul 2026 14:40:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
@@ -121,7 +121,7 @@
       {
         "title": "Bills claim WR Quentin Skinner off waivers, release WR Deven Thompkins",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-claim-wr-quentin-skinner-off-waivers-release-wr-deven-thompkins",
-        "summary": "The Bills claim WR Quentin Skinner off waivers and release WR Deven Thompkins in roster moves.",
+        "summary": "The Bills claim WR Quentin Skinner off waivers while releasing WR Deven Thompkins in roster moves.",
         "source": "nbcsports.com",
         "date": "Tue, 14 Jul 2026 16:56:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/96afc08/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F510%2F194%2Fnbc_pft_afcnuts_260612.jpg"
@@ -129,23 +129,23 @@
       {
         "title": "Cowboys DE Charles Snowden suspended three games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-de-charles-snowden-suspended-three-games",
-        "summary": "Cowboys DE Charles Snowden receives a three-game suspension, impacting the team's season start.",
+        "summary": "Cowboys DE Charles Snowden receives a three-game suspension, impacting the team's season opener.",
         "source": "nbcsports.com",
         "date": "Tue, 14 Jul 2026 16:52:49 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/47485b4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F272%2F678%2FNorwayEnglandGoalMPX.jpg"
       },
       {
-        "title": "Texans co-founder Janice McNair dies at 89",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-co-founder-janice-mcnair-dies-at-89",
-        "summary": "Janice McNair, co-founder of the Houston Texans, has passed away at the age of 89.",
+        "title": "Giants expect Cam Skattebo to be ready \"early in camp,\" Malik Nabers \"not far behind\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-expect-cam-skattebo-early-in-camp-malik-nabers-not-far-behind",
+        "summary": "Giants coach John Harbaugh provides updates, expecting Cam Skattebo to return early in training camp.",
         "source": "nbcsports.com",
-        "date": "Tue, 14 Jul 2026 16:20:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
+        "date": "Tue, 14 Jul 2026 16:16:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ec2715/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F362%2F518%2Fnbc_pftpm_phiharperresponse_260714.jpg"
       },
       {
         "title": "Joe Flacco says his Super Bowl ring and MVP trophy don't matter much to him",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-flacco-says-his-super-bowl-ring-and-mvp-trophy-dont-matter-much-to-him",
-        "summary": "Joe Flacco reflects on his Super Bowl achievements, stating they hold less significance for him now.",
+        "summary": "Joe Flacco downplays the significance of his Super Bowl ring and MVP trophy in a recent interview.",
         "source": "nbcsports.com",
         "date": "Tue, 14 Jul 2026 17:04:56 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5dba1ec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F360%2F1023%2Fnbc_pft_quarterback_260514.jpg"
