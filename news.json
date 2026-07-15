@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-15T22:27:08.796Z",
+  "updated": "2026-07-15T23:27:30.831Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
         "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
-        "summary": "Meta's CTO confirmed ongoing development of multiple next-generation headsets, hinting at a potential reveal during the upcoming Connect event in September.",
+        "summary": "Meta's CTO confirmed the development of multiple next-generation headsets, hinting at a potential reveal during the upcoming Connect event.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 14:09:46 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
@@ -13,7 +13,7 @@
       {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple has released detailed specifications for third-party motion controllers compatible with its Vision Pro headset, following the announcement of VisionOS 27.",
+        "summary": "Apple has released technical specifications for third-party motion controllers compatible with its Vision Pro headset, enhancing developer opportunities.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
@@ -21,7 +21,7 @@
       {
         "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
         "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal's new $299 a01+ AR glasses launch in the U.S., offering a 147-inch virtual screen and lightweight design for budget-conscious consumers.",
+        "summary": "Xreal launched its affordable a01+ AR glasses in the U.S., offering a large virtual screen experience at a competitive price.",
         "source": "mixed-news.com",
         "date": "Fri, 10 Jul 2026 13:00:30 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
@@ -29,49 +29,41 @@
       {
         "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
         "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "GOLF+ kicks off an open tournament featuring a grand prize trip to St. Andrews, allowing Quest headset users to compete for a unique golfing experience.",
+        "summary": "GOLF+ is hosting an open tournament with a grand prize trip to St. Andrews, attracting golf enthusiasts with VR headsets.",
         "source": "roadtovr.com",
         "date": "Tue, 14 Jul 2026 09:05:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
+        "title": "EU Moves to Exempt Smart Glasses from Repairability Rules, Privacy Questions Remain",
+        "url": "https://roadtovr.com/eu-exempt-smart-glasses-battery-privacy/",
+        "summary": "The EU is moving to exempt smart glasses from new repairability rules, potentially benefiting companies like Meta.",
+        "source": "roadtovr.com",
+        "date": "Wed, 15 Jul 2026 07:15:31 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/ray-ban-prescription.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
         "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
-        "summary": "Lenovo has reportedly shut down its U.S.-based XR business unit, shifting focus towards AI wearables amid workforce reductions.",
+        "summary": "Lenovo has reportedly shut down its U.S.-based XR business unit, shifting focus towards AI wearables.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 08:13:34 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Tactical Assault VR Partners Cut Ties After Disclosure of Past Legal Conviction",
-        "url": "https://www.uploadvr.com/tactical-assault-vr-partners-cut-ties-after-disclosure-of-past-legal-conviction/",
-        "summary": "Tactical Assault VR's partners have severed ties following the revelation of a lead developer's past legal issues, raising concerns in the gaming community.",
-        "source": "uploadvr.com",
-        "date": "Mon, 13 Jul 2026 11:51:27 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/LVE3KHKyqTE-HD.jpg"
       }
     ],
     "AI": [
       {
         "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-        "summary": "xAI is suing a South Carolina man for allegedly using its Grok AI chatbot to generate child sexual abuse material, highlighting ongoing legal and ethical concerns.",
+        "summary": "xAI is suing a South Carolina man for allegedly using its Grok AI to create child sexual abuse material.",
         "source": "theverge.com",
         "date": "2026-07-15T17:33:20-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Meta accused of using biased AI targeting for mass layoffs",
-        "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-        "summary": "A group of former Meta employees has filed a lawsuit claiming the company used biased AI tools to unfairly target workers for layoffs.",
-        "source": "theverge.com",
-        "date": "2026-07-14T13:18:11-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "OpenAI may announce a ChatGPT smart speaker this year",
         "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-        "summary": "OpenAI is reportedly set to announce a ChatGPT smart speaker this year, which will utilize sensors to interact with users in their environment.",
+        "summary": "OpenAI is reportedly set to launch a ChatGPT smart speaker, allowing users to interact with the AI without a screen.",
         "source": "theverge.com",
         "date": "2026-07-14T17:26:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,33 +71,49 @@
       {
         "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-        "summary": "A hacking incident has revealed that Suno, an AI music generator, scraped millions of songs from platforms like YouTube and Deezer for training data.",
+        "summary": "A data breach has revealed that Suno's AI music generator was trained using millions of songs scraped from various platforms.",
         "source": "theverge.com",
         "date": "2026-07-15T13:48:01-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Sheetz moves 838 stores off VMware: Broadcom created “too much uncertainty\"",
-        "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-        "summary": "Sheetz has transitioned 838 stores away from VMware to StorMagic, citing uncertainty created by Broadcom's acquisition.",
-        "source": "arstechnica.com",
-        "date": "Wed, 15 Jul 2026 21:41:56 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg"
+        "title": "Meta accused of using biased AI targeting for mass layoffs",
+        "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+        "summary": "Former Meta employees are suing the company, alleging biased AI targeting in layoffs that affected workers on leave.",
+        "source": "theverge.com",
+        "date": "2026-07-14T13:18:11-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Spotify is now an AI chatbot, too",
-        "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-        "summary": "Spotify is testing a new AI chatbot feature that allows Premium subscribers to interactively explore music, audiobooks, and podcasts.",
+        "title": "OpenAI finally launches hardware… for Codex",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+        "summary": "OpenAI has launched new hardware designed for its Codex coding platform, marking its first hardware release.",
         "source": "theverge.com",
-        "date": "2026-07-14T11:47:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-15T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "The Google Images homepage will recommend photos even before you search",
+        "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+        "summary": "Google will soon update its Images homepage to recommend photos based on user preferences before they search.",
+        "source": "theverge.com",
+        "date": "2026-07-14T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
+        "title": "Federal court rejects yet another attempt by NFL to send Brian Flores case to arbitration",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/federal-court-rejects-yet-another-attempt-by-nfl-to-send-brian-flores-case-to-arbitration",
+        "summary": "A federal court has denied the NFL's attempt to move the Brian Flores case to arbitration, criticizing the league's delays.",
+        "source": "nbcsports.com",
+        "date": "Wed, 15 Jul 2026 19:06:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/92f2a03/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F22%2F482%2Fnbc_pftpm_wouldsettle_260529.jpg"
+      },
+      {
         "title": "Report: Alvin Kamara finalizing a deal to keep him in New Orleans",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alvin-kamara-finalizing-a-deal-to-keep-him-in-new-orleans",
-        "summary": "Alvin Kamara is finalizing a deal to remain with the New Orleans Saints, securing his position after the team signed Travis Etienne.",
+        "summary": "Alvin Kamara is finalizing a deal to remain with the New Orleans Saints, securing his future with the team.",
         "source": "nbcsports.com",
         "date": "Wed, 15 Jul 2026 16:31:28 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
@@ -113,26 +121,26 @@
       {
         "title": "Patrick Mahomes reiterates goal is to play Week 1: \"I don't want to miss that game\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-reiterates-goal-is-to-play-week-1-i-dont-want-to-miss-that-game",
-        "summary": "Patrick Mahomes expressed his determination to play in Week 1 despite recovering from a torn ACL sustained last season.",
+        "summary": "Patrick Mahomes is determined to play in Week 1 despite recovering from a torn ACL sustained last season.",
         "source": "nbcsports.com",
         "date": "Wed, 15 Jul 2026 12:54:15 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4fa018f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F664%2F347%2Fnbc_pft_wedding_260706.jpg"
       },
       {
-        "title": "Deadline passes for George Pickens to get a long-term deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deadline-passes-for-george-pickens-to-get-a-long-term-deal",
-        "summary": "The Cowboys have officially confirmed they will not extend George Pickens' contract, marking the end of negotiations.",
-        "source": "nbcsports.com",
-        "date": "Wed, 15 Jul 2026 17:19:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
-      },
-      {
         "title": "Panthers QB Will Grier retires",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-qb-will-grier-retires",
-        "summary": "Panthers quarterback Will Grier has announced his retirement, concluding his time with the team.",
+        "summary": "Panthers quarterback Will Grier has announced his retirement, marking the end of his career with the team.",
         "source": "nbcsports.com",
         "date": "Wed, 15 Jul 2026 15:42:04 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d736d21/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F763%2Fnbc_pft_bryce_young_260416.jpg"
+      },
+      {
+        "title": "Deadline passes for George Pickens to get a long-term deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deadline-passes-for-george-pickens-to-get-a-long-term-deal",
+        "summary": "George Pickens' contract extension with the Cowboys has officially been ruled out as the deadline passes.",
+        "source": "nbcsports.com",
+        "date": "Wed, 15 Jul 2026 17:19:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
       },
       {
         "title": "Ethan Pocic medically cleared after suffering torn Achilles in December",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 15 Jul 2026 10:40:53 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
-      },
-      {
-        "title": "Roger Goodell: Janice McNair's impact on Houston and the NFL will be felt for generations",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-janice-mcnairs-impact-on-houston-and-the-nfl-will-be-felt-for-generations",
-        "summary": "NFL Commissioner Roger Goodell honored Janice McNair for her significant contributions to the Texans and the league, emphasizing her lasting impact.",
-        "source": "nbcsports.com",
-        "date": "Wed, 15 Jul 2026 04:23:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
       }
     ]
   }
