@@ -1,51 +1,51 @@
 {
-  "updated": "2026-07-16T21:44:22.613Z",
+  "updated": "2026-07-16T22:39:00.678Z",
   "feed": {
     "VR": [
       {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
         "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises doubts about the future release of its R2 headset.",
+        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises questions about the future of its R2 headset release.",
         "source": "roadtovr.com",
         "date": "Thu, 16 Jul 2026 07:20:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
-        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal launches its budget AR glasses in the U.S. for $299, featuring a 147-inch virtual screen and lightweight design.",
-        "source": "mixed-news.com",
-        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
-      },
-      {
         "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
         "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "The VR FPS game Forefront receives a significant update, enhancing gameplay for its 32-player combat experience.",
+        "summary": "Forefront, a 32-player VR FPS, has received a significant update enhancing gameplay and features.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 11:40:12 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
       },
       {
+        "title": "XREAL’s First Budget AR Glasses Go on Sale Internationally, Priced at $300",
+        "url": "https://roadtovr.com/xreals-budget-ar-glasses-price-release-date/",
+        "summary": "Xreal has launched its budget AR glasses in the U.S. for $299, offering an immersive big-screen experience.",
+        "source": "roadtovr.com",
+        "date": "Fri, 10 Jul 2026 12:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-close.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Tactical Assault VR Partners Cut Ties After Disclosure of Past Legal Conviction",
+        "url": "https://www.uploadvr.com/tactical-assault-vr-partners-cut-ties-after-disclosure-of-past-legal-conviction/",
+        "summary": "Tactical Assault VR's partners have severed ties following a lead developer's past legal issues.",
+        "source": "uploadvr.com",
+        "date": "Mon, 13 Jul 2026 11:51:27 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/LVE3KHKyqTE-HD.jpg"
+      },
+      {
         "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
         "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
-        "summary": "Lenovo reportedly closes its U.S.-based XR business unit, shifting focus towards AI wearables.",
+        "summary": "Lenovo has reportedly closed its U.S.-based XR business unit, shifting focus towards AI wearables.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 08:13:34 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
-        "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "GOLF+ announces an official VR Open tournament with a grand prize trip to St. Andrews.",
-        "source": "roadtovr.com",
-        "date": "Tue, 14 Jul 2026 09:05:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
         "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Anduril's founder teases the development of compact AR glasses designed for full AR capabilities.",
+        "summary": "Anduril's founder teased new compact AR glasses, hinting at advanced capabilities beyond typical smart glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 18:35:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
@@ -53,59 +53,59 @@
     ],
     "AI": [
       {
-        "title": "Google is renaming NotebookLM to Gemini Notebook",
-        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google rebrands its AI note-taking app from NotebookLM to Gemini Notebook, enhancing integration with Gemini and Google Search.",
-        "source": "theverge.com",
-        "date": "2026-07-16T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password introduces a new feature allowing Claude to access stored credentials for seamless task management.",
+        "summary": "1Password now allows Claude to access user credentials, enabling the chatbot to perform multi-step tasks securely.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "summary": "Enterprises are rapidly investing in AI infrastructure, outpacing their ability to measure costs and effectiveness.",
-        "source": "venturebeat.com",
-        "date": "Thu, 16 Jul 2026 19:16:48 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
-      },
-      {
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "summary": "A significant number of enterprises report AI agent incidents, highlighting security gaps in credential management.",
-        "source": "venturebeat.com",
-        "date": "Thu, 16 Jul 2026 19:02:38 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30"
-      },
-      {
-        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-        "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-        "summary": "Many enterprise AI organizations struggle with trust issues in their context infrastructure, despite rapid development.",
-        "source": "venturebeat.com",
-        "date": "Thu, 16 Jul 2026 17:06:08 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
-      },
-      {
-        "title": "OpenAI may announce a ChatGPT smart speaker this year",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-        "summary": "OpenAI is set to unveil a ChatGPT smart speaker, enhancing user interaction with its AI.",
+        "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+        "summary": "New York Governor Kathy Hochul is utilizing AI to analyze state regulations despite a moratorium on new AI data centers.",
         "source": "theverge.com",
-        "date": "2026-07-14T17:26:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-16T13:58:37-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Google is renaming NotebookLM to Gemini Notebook",
+        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+        "summary": "Google has rebranded its AI note-taking app from NotebookLM to Gemini Notebook, enhancing its integration across platforms.",
+        "source": "theverge.com",
+        "date": "2026-07-16T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Google ordered to open Android and Search to rivals in Europe",
+        "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+        "summary": "The European Union has mandated Google to provide rival AI assistants greater access to Android and Search.",
+        "source": "theverge.com",
+        "date": "2026-07-16T08:06:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+        "summary": "xAI is suing a South Carolina man for allegedly using its Grok AI to create child sexual abuse material.",
+        "source": "theverge.com",
+        "date": "2026-07-15T17:33:20-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "OpenAI finally launches hardware… for Codex",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+        "summary": "OpenAI is launching hardware designed for its Codex platform, marking its entry into physical product offerings.",
+        "source": "theverge.com",
+        "date": "2026-07-15T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Report: Alvin Kamara set to make $6 million in base salary on new deal",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alvin-kamara-set-to-make-6-million-in-base-salary-on-new-deal",
-        "summary": "Alvin Kamara agrees to a new deal with the Saints, securing a base salary of $6 million.",
+        "summary": "Alvin Kamara is set to earn $6 million in base salary after agreeing to a new deal with the Saints.",
         "source": "nbcsports.com",
         "date": "Thu, 16 Jul 2026 10:55:13 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d10573/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F19%2Fqb_series_eaw_260715.jpg"
@@ -113,7 +113,7 @@
       {
         "title": "Federal court rejects yet another attempt by NFL to send Brian Flores case to arbitration",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/federal-court-rejects-yet-another-attempt-by-nfl-to-send-brian-flores-case-to-arbitration",
-        "summary": "A federal court denies the NFL's attempt to move the Brian Flores case to arbitration, criticizing the league's delays.",
+        "summary": "A federal court has rejected the NFL's attempt to move Brian Flores' case to arbitration, criticizing the league's delays.",
         "source": "nbcsports.com",
         "date": "Wed, 15 Jul 2026 19:06:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a9a465/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F923%2Fnbc_pft_brianflores_260716.jpg"
@@ -121,31 +121,31 @@
       {
         "title": "Texans sign fourth-round pick Febechi Nwaiwu",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-fourth-round-pick-febechi-nwaiwu",
-        "summary": "The Texans finalize their 2026 draft class by signing fourth-round pick Febechi Nwaiwu.",
+        "summary": "The Texans have signed fourth-round draft pick Febechi Nwaiwu, completing their 2026 draft class.",
         "source": "nbcsports.com",
         "date": "Thu, 16 Jul 2026 16:34:48 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
       },
       {
-        "title": "Jets LB Jamien Sherwood: Demario Davis's presence benefits the whole team",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-lb-jamien-sherwood-demario-daviss-presence-benefits-the-whole-team",
-        "summary": "Jets linebacker Demario Davis emphasizes the positive impact of his veteran presence on the team.",
-        "source": "nbcsports.com",
-        "date": "Thu, 16 Jul 2026 08:59:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8f8598/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F484%2F591%2Fnbc_pftpm_genosmith_260715.jpg"
-      },
-      {
         "title": "Deadline passes for George Pickens to get a long-term deal",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deadline-passes-for-george-pickens-to-get-a-long-term-deal",
-        "summary": "The deadline for George Pickens to secure a long-term deal with the Cowboys passes without an agreement.",
+        "summary": "The deadline has passed for George Pickens to secure a long-term deal, confirming he will not be extended by the Cowboys.",
         "source": "nbcsports.com",
         "date": "Wed, 15 Jul 2026 17:19:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
       },
       {
+        "title": "Jets LB Jamien Sherwood: Demario Davis's presence benefits the whole team",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-lb-jamien-sherwood-demario-daviss-presence-benefits-the-whole-team",
+        "summary": "Demario Davis's presence is seen as a key benefit for the Jets, enhancing their team culture.",
+        "source": "nbcsports.com",
+        "date": "Thu, 16 Jul 2026 08:59:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8f8598/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F484%2F591%2Fnbc_pftpm_genosmith_260715.jpg"
+      },
+      {
         "title": "Quarterback series includes Jayden Daniels working with VR headset",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quarterback-series-includes-jayden-daniels-working-with-vr-headset",
-        "summary": "NFL quarterbacks are increasingly using VR headsets to enhance their training and performance.",
+        "summary": "NFL quarterbacks are increasingly using virtual reality technology to enhance their training regimens.",
         "source": "nbcsports.com",
         "date": "Thu, 16 Jul 2026 07:46:26 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d10573/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F19%2Fqb_series_eaw_260715.jpg"
