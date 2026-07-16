@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-16T19:39:06.978Z",
+  "updated": "2026-07-16T20:33:54.898Z",
   "feed": {
     "VR": [
       {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
         "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises concerns about the future release of its R2 headset.",
+        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises uncertainty about the release of its R2 headset.",
         "source": "roadtovr.com",
         "date": "Thu, 16 Jul 2026 07:20:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -13,23 +13,15 @@
       {
         "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
         "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal launches its budget AR glasses in the U.S. for $299, featuring a 147-inch virtual screen and lightweight design.",
+        "summary": "Xreal launches its new budget AR glasses, the a01+, priced at $299, offering an immersive big-screen experience.",
         "source": "mixed-news.com",
         "date": "Fri, 10 Jul 2026 13:00:30 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       },
       {
-        "title": "XREAL’s First Budget AR Glasses Go on Sale Internationally, Priced at $300",
-        "url": "https://roadtovr.com/xreals-budget-ar-glasses-price-release-date/",
-        "summary": "XREAL's first budget AR glasses, priced at $300, are now available internationally, expanding access to immersive technology.",
-        "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 12:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-close.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
         "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "Forefront, a 32-player VR FPS, receives a significant update, enhancing gameplay and user experience.",
+        "summary": "The popular VR FPS Forefront has received a significant update, enhancing gameplay for its 32-player format.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 11:40:12 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
@@ -37,25 +29,33 @@
       {
         "title": "Tactical Assault VR Partners Cut Ties After Disclosure of Past Legal Conviction",
         "url": "https://www.uploadvr.com/tactical-assault-vr-partners-cut-ties-after-disclosure-of-past-legal-conviction/",
-        "summary": "Tactical Assault VR's partners have severed ties following revelations of a lead developer's past legal issues.",
+        "summary": "Tactical Assault VR's partners have severed ties following the disclosure of a lead developer's past legal issues.",
         "source": "uploadvr.com",
         "date": "Mon, 13 Jul 2026 11:51:27 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/LVE3KHKyqTE-HD.jpg"
       },
       {
-        "title": "Ragnarock Adds Two New Free Tracks In Latest Update",
-        "url": "https://www.uploadvr.com/ragnarock-adds-two-new-free-tracks-in-latest-update/",
-        "summary": "Ragnarock introduces two new free tracks, marking its first music update in over a year.",
-        "source": "uploadvr.com",
-        "date": "Wed, 15 Jul 2026 13:19:42 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/ragnarock.webp"
+        "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
+        "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
+        "summary": "Apple has published specifications for third-party motion controllers for its Vision Pro headset, expanding accessory options.",
+        "source": "roadtovr.com",
+        "date": "Fri, 10 Jul 2026 19:41:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
+      },
+      {
+        "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
+        "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
+        "summary": "GOLF+ kicks off a major VR Open tournament with a grand prize trip to St. Andrews, enhancing its competitive offerings.",
+        "source": "roadtovr.com",
+        "date": "Tue, 14 Jul 2026 09:05:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Google is renaming NotebookLM to Gemini Notebook",
         "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google rebrands its AI note-taking app from NotebookLM to Gemini Notebook while enhancing integration with Google services.",
+        "summary": "Google rebrands its AI note-taking app from NotebookLM to Gemini Notebook, integrating it further with Google Search.",
         "source": "theverge.com",
         "date": "2026-07-16T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,92 +63,92 @@
       {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password integrates with Claude, allowing the AI to access stored credentials for seamless task management.",
+        "summary": "1Password introduces a new feature allowing Claude to access stored credentials, streamlining user tasks.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+        "summary": "A report reveals that enterprises are rapidly investing in AI infrastructure, outpacing their ability to measure its costs.",
+        "source": "venturebeat.com",
+        "date": "Thu, 16 Jul 2026 19:16:48 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
+      },
+      {
+        "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+        "summary": "New York Governor Kathy Hochul reveals her administration is using AI to analyze state regulations and policies.",
+        "source": "theverge.com",
+        "date": "2026-07-16T13:58:37-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Google ordered to open Android and Search to rivals in Europe",
         "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-        "summary": "The European Union mandates Google to provide rival AI assistants and search engines with greater access to Android and Search.",
+        "summary": "The European Union orders Google to provide rival AI assistants and search engines greater access to Android and Search.",
         "source": "theverge.com",
         "date": "2026-07-16T08:06:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "summary": "A report reveals that over half of enterprises have experienced AI agent incidents, highlighting security vulnerabilities.",
-        "source": "venturebeat.com",
-        "date": "Thu, 16 Jul 2026 19:02:38 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30"
-      },
-      {
-        "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-        "summary": "xAI is suing a man for allegedly using its Grok AI to create child sexual abuse material.",
+        "title": "OpenAI may announce a ChatGPT smart speaker this year",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+        "summary": "OpenAI is reportedly set to announce a smart speaker that enables users to interact with ChatGPT.",
         "source": "theverge.com",
-        "date": "2026-07-15T17:33:20-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "OpenAI finally launches hardware… for Codex",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-        "summary": "OpenAI launches hardware designed for its Codex coding platform, marking its entry into physical product offerings.",
-        "source": "theverge.com",
-        "date": "2026-07-15T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-14T17:26:32-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Report: Alvin Kamara set to make $6 million in base salary on new deal",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alvin-kamara-set-to-make-6-million-in-base-salary-on-new-deal",
-        "summary": "Alvin Kamara agrees to a new deal with the Saints, securing a base salary of $6 million.",
+        "summary": "Running back Alvin Kamara has agreed to a new deal with the Saints, securing a $6 million base salary.",
         "source": "nbcsports.com",
         "date": "Thu, 16 Jul 2026 10:55:13 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d10573/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F19%2Fqb_series_eaw_260715.jpg"
       },
       {
-        "title": "Panthers QB Will Grier retires",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-qb-will-grier-retires",
-        "summary": "Panthers quarterback Will Grier announces his retirement, marking the end of his NFL career.",
+        "title": "DL Pat O'Connor announces his retirement",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dl-pat-oconnor-announces-his-retirement",
+        "summary": "Defensive lineman Pat O'Connor has officially announced his retirement from professional football.",
         "source": "nbcsports.com",
-        "date": "Wed, 15 Jul 2026 15:42:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d736d21/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F763%2Fnbc_pft_bryce_young_260416.jpg"
+        "date": "Thu, 16 Jul 2026 16:08:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1a8e138/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F622%2F778%2Fnbc_pft_jongruden_260716.jpg"
+      },
+      {
+        "title": "Report: Alvin Kamara finalizing a deal to keep him in New Orleans",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alvin-kamara-finalizing-a-deal-to-keep-him-in-new-orleans",
+        "summary": "Alvin Kamara is finalizing a deal to remain with the New Orleans Saints after uncertainty surrounding his future.",
+        "source": "nbcsports.com",
+        "date": "Wed, 15 Jul 2026 16:31:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
       },
       {
         "title": "Federal court rejects yet another attempt by NFL to send Brian Flores case to arbitration",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/federal-court-rejects-yet-another-attempt-by-nfl-to-send-brian-flores-case-to-arbitration",
-        "summary": "A federal court rejects the NFL's attempt to send the Brian Flores case to arbitration, allowing litigation to proceed.",
+        "summary": "A federal court has rejected the NFL's latest attempt to move the Brian Flores case to arbitration.",
         "source": "nbcsports.com",
         "date": "Wed, 15 Jul 2026 19:06:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a9a465/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F923%2Fnbc_pft_brianflores_260716.jpg"
       },
       {
-        "title": "If Aaron Donald returns, he won't recognize many of his teammates",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/if-aaron-donald-returns-he-wont-recognize-many-of-his-teammates",
-        "summary": "Aaron Donald may return to a vastly changed Rams team, with few familiar defensive teammates remaining.",
+        "title": "Deadline passes for George Pickens to get a long-term deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deadline-passes-for-george-pickens-to-get-a-long-term-deal",
+        "summary": "The deadline for George Pickens to secure a long-term deal has passed, confirming his status with the Cowboys.",
         "source": "nbcsports.com",
-        "date": "Thu, 16 Jul 2026 13:25:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c732796/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F363%2F995%2Fnbc_pftpm_donaldunretirement_260714_copy.jpg"
+        "date": "Wed, 15 Jul 2026 17:19:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
       },
       {
-        "title": "Missouri attorney general says Matt Miller investigation will be \"kind of lengthy\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-attorney-general-says-matt-miller-investigation-will-be-kind-of-lengthy",
-        "summary": "The Missouri Attorney General's Office is conducting a lengthy investigation into ESPN NFL draft analyst Matt Miller.",
+        "title": "Panthers QB Will Grier retires",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-qb-will-grier-retires",
+        "summary": "Panthers quarterback Will Grier has announced his retirement from the NFL.",
         "source": "nbcsports.com",
-        "date": "Thu, 16 Jul 2026 11:11:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8f8598/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F484%2F591%2Fnbc_pftpm_genosmith_260715.jpg"
-      },
-      {
-        "title": "Commanders to wear alternate uniforms twice in 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-wear-alternate-uniforms-twice-in-2026",
-        "summary": "The Commanders reveal their alternate uniforms for the 2026 season, announcing when they will wear them.",
-        "source": "nbcsports.com",
-        "date": "Thu, 16 Jul 2026 11:37:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8d1c055/2147483647/strip/false/crop/2560x1440+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F90%2F11a4c39c483193f7396c574e9dcb%2Fpvacirvm8yuzrjfdci02-1.webp"
+        "date": "Wed, 15 Jul 2026 15:42:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d736d21/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F763%2Fnbc_pft_bryce_young_260416.jpg"
       }
     ]
   }
