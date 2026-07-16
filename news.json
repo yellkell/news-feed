@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-16T00:55:18.332Z",
+  "updated": "2026-07-16T03:56:41.365Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Reaffirms \"Multiple Next-Generation Headsets\", Hints At Connect Announcement",
         "url": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
-        "summary": "Meta's CTO confirmed ongoing development of multiple next-generation headsets, hinting at a potential reveal at the upcoming Connect event in September.",
+        "summary": "Meta's CTO reaffirms the development of multiple next-generation headsets, hinting at a potential announcement during the upcoming Connect event.",
         "source": "uploadvr.com",
         "date": "Thu, 09 Jul 2026 14:09:46 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png"
@@ -13,99 +13,99 @@
       {
         "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
         "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple has released technical specifications for third-party motion controllers compatible with its Vision Pro headset, expanding options for developers.",
+        "summary": "Apple has released detailed technical specifications for third-party motion controllers compatible with its Vision Pro headset, paving the way for expanded accessory support.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 19:41:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
       },
       {
-        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
-        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal's new $299 a01+ AR glasses launch in the U.S., offering an immersive big-screen experience with advanced display technology.",
-        "source": "mixed-news.com",
-        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
-      },
-      {
         "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
         "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Palmer Luckey teases compact AR glasses from Anduril, promising full AR capabilities beyond standard smart glasses.",
+        "summary": "Anduril's founder teases compact AR glasses designed for full augmented reality capabilities, moving beyond traditional smart glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 13 Jul 2026 18:35:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
       },
       {
+        "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
+        "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
+        "summary": "Lenovo has reportedly closed its US-based XR business unit, shifting focus towards AI wearables and affecting numerous employees.",
+        "source": "roadtovr.com",
+        "date": "Mon, 13 Jul 2026 08:13:34 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
         "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "Golf+ announces the start of its VR Open tournament, offering a grand prize trip to St. Andrews for the winner.",
+        "summary": "Golf+ announces an open tournament with a grand prize trip to St. Andrews, starting July 16th for Quest headset users.",
         "source": "roadtovr.com",
         "date": "Tue, 14 Jul 2026 09:05:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
-        "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
-        "summary": "Lenovo has reportedly closed its U.S.-based XR business unit, shifting focus towards AI wearables.",
-        "source": "roadtovr.com",
-        "date": "Mon, 13 Jul 2026 08:13:34 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
+        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
+        "summary": "Xreal launches its new $299 AR glasses in the U.S., offering a big-screen experience with advanced display technology.",
+        "source": "mixed-news.com",
+        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       }
     ],
     "AI": [
       {
-        "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-        "summary": "xAI is suing a South Carolina man for allegedly using its Grok AI chatbot to create child sexual abuse material.",
-        "source": "theverge.com",
-        "date": "2026-07-15T17:33:20-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "OpenAI may announce a ChatGPT smart speaker this year",
         "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-        "summary": "OpenAI may unveil a ChatGPT smart speaker this year, designed for conversational interaction without a screen.",
+        "summary": "OpenAI is reportedly set to announce a ChatGPT smart speaker this year, featuring a camera and sensors to interact with users.",
         "source": "theverge.com",
         "date": "2026-07-14T17:26:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-        "summary": "Suno's AI music generator faces scrutiny after a hacking incident revealed it trained on millions of songs from various platforms.",
-        "source": "theverge.com",
-        "date": "2026-07-15T13:48:01-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Meta accused of using biased AI targeting for mass layoffs",
         "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-        "summary": "A group of former Meta employees is suing the company, claiming AI tools were used to unfairly target laid-off workers.",
+        "summary": "A lawsuit claims Meta used biased AI tools to target laid-off employees, alleging discrimination against workers on leave.",
         "source": "theverge.com",
         "date": "2026-07-14T13:18:11-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI finally launches hardware… for Codex",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-        "summary": "OpenAI has launched hardware for its Codex platform, marking its first hardware release amid ongoing legal challenges.",
+        "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+        "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+        "summary": "Google DeepMind's CEO advocates for a global AI watchdog led by the U.S. to regulate potentially dangerous AI developments.",
         "source": "theverge.com",
-        "date": "2026-07-15T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-14T07:43:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The Google Images homepage will recommend photos even before you search",
-        "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-        "summary": "Google is revamping its Images homepage to display recommended photos before users even initiate a search.",
+        "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+        "summary": "SpaceXAI's Grok programming tool was found uploading entire user codebases to the cloud, raising significant privacy concerns before being disabled.",
         "source": "theverge.com",
-        "date": "2026-07-14T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-14T15:25:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+        "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+        "summary": "Convenience store chain Sheetz is migrating 11,000 virtual machines from VMware to StorMagic, marking a significant infrastructure shift.",
+        "source": "arstechnica.com",
+        "date": "Wed, 15 Jul 2026 21:41:56 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-1152x648-1784145789.jpg"
+      },
+      {
+        "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+        "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+        "summary": "A long-standing vulnerability in Microsoft's Secure Boot has been discovered, allowing for simple bypasses due to overlooked security measures.",
+        "source": "arstechnica.com",
+        "date": "Tue, 14 Jul 2026 22:20:48 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-1152x648.jpg"
       }
     ],
     "NFL": [
       {
         "title": "Federal court rejects yet another attempt by NFL to send Brian Flores case to arbitration",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/federal-court-rejects-yet-another-attempt-by-nfl-to-send-brian-flores-case-to-arbitration",
-        "summary": "A federal court has dismissed the NFL's latest attempt to move the Brian Flores case to arbitration, criticizing the league's delays.",
+        "summary": "A federal court has rejected the NFL's attempt to move the Brian Flores lawsuit to arbitration, criticizing the league's delays.",
         "source": "nbcsports.com",
         "date": "Wed, 15 Jul 2026 19:06:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/92f2a03/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F22%2F482%2Fnbc_pftpm_wouldsettle_260529.jpg"
@@ -119,36 +119,36 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
       },
       {
-        "title": "Panthers QB Will Grier retires",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-qb-will-grier-retires",
-        "summary": "Panthers quarterback Will Grier has announced his retirement, marking the end of his NFL career.",
-        "source": "nbcsports.com",
-        "date": "Wed, 15 Jul 2026 15:42:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d736d21/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F763%2Fnbc_pft_bryce_young_260416.jpg"
-      },
-      {
-        "title": "Deadline passes for George Pickens to get a long-term deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deadline-passes-for-george-pickens-to-get-a-long-term-deal",
-        "summary": "The Cowboys officially confirmed they will not extend George Pickens' contract, following the deadline for a long-term deal.",
-        "source": "nbcsports.com",
-        "date": "Wed, 15 Jul 2026 17:19:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
-      },
-      {
         "title": "Patrick Mahomes reiterates goal is to play Week 1: \"I don't want to miss that game\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-reiterates-goal-is-to-play-week-1-i-dont-want-to-miss-that-game",
-        "summary": "Patrick Mahomes is determined to play in Week 1 despite recovering from a torn ACL suffered last December.",
+        "summary": "Patrick Mahomes is determined to play in Week 1 despite recovering from a torn ACL, emphasizing his eagerness to return.",
         "source": "nbcsports.com",
         "date": "Wed, 15 Jul 2026 12:54:15 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4fa018f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F664%2F347%2Fnbc_pft_wedding_260706.jpg"
       },
       {
-        "title": "Shedeur Sanders can win the Browns' job, if he puts in all the work",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-can-win-the-browns-job-if-he-puts-in-all-the-work",
-        "summary": "Shedeur Sanders is in contention for the Browns' quarterback position, provided he commits to the necessary effort.",
+        "title": "Rams to unveil two new alternate uniforms next week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-to-unveil-two-new-alternate-uniforms-next-week",
+        "summary": "The Rams are set to unveil two new alternate uniforms next week, expanding their revamped uniform lineup for the 2026 season.",
         "source": "nbcsports.com",
-        "date": "Wed, 15 Jul 2026 18:33:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
+        "date": "Wed, 15 Jul 2026 13:40:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c732796/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F363%2F995%2Fnbc_pftpm_donaldunretirement_260714_copy.jpg"
+      },
+      {
+        "title": "Panthers QB Will Grier retires",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-qb-will-grier-retires",
+        "summary": "Panthers quarterback Will Grier has announced his retirement, concluding his tenure with the team.",
+        "source": "nbcsports.com",
+        "date": "Wed, 15 Jul 2026 15:42:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d736d21/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F763%2Fnbc_pft_bryce_young_260416.jpg"
+      },
+      {
+        "title": "Ethan Pocic medically cleared after suffering torn Achilles in December",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ethan-pocic-medically-cleared-after-suffering-torn-achilles-in-december",
+        "summary": "Ethan Pocic has been medically cleared to return after suffering a torn Achilles last season, making him available for the upcoming season.",
+        "source": "nbcsports.com",
+        "date": "Wed, 15 Jul 2026 10:40:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
       }
     ]
   }
