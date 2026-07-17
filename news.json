@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-17T17:28:55.064Z",
+  "updated": "2026-07-17T18:34:14.718Z",
   "feed": {
     "VR": [
       {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
         "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises questions about the future release of its R2 headset.",
+        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises concerns about the future of its R2 headset release.",
         "source": "roadtovr.com",
         "date": "Thu, 16 Jul 2026 07:20:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -19,54 +19,62 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       },
       {
-        "title": "Lenovo Reportedly Shutters US-based XR Business Unit Amid Shift to AI Wearables",
-        "url": "https://roadtovr.com/lenovo-shutters-xr-business-unit-report/",
-        "summary": "Lenovo reportedly shuts down its U.S.-based XR business unit, shifting focus towards AI wearables.",
+        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
+        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
+        "summary": "Valve has released a new store page for its upcoming Steam Frame headset, hinting at an imminent launch.",
         "source": "roadtovr.com",
-        "date": "Mon, 13 Jul 2026 08:13:34 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/lenovo-thinkreality-vrx.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
         "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "The popular VR FPS Forefront receives a major update, enhancing gameplay for its 32-player combat experience.",
+        "summary": "The VR FPS game Forefront has received a major update, enhancing gameplay for its 32-player battles.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 11:40:12 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
       },
       {
-        "title": "Ragnarock Adds Two New Free Tracks In Latest Update",
-        "url": "https://www.uploadvr.com/ragnarock-adds-two-new-free-tracks-in-latest-update/",
-        "summary": "VR rhythm game Ragnarock introduces two new free tracks, marking its first music addition in a year.",
-        "source": "uploadvr.com",
-        "date": "Wed, 15 Jul 2026 13:19:42 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/ragnarock.webp"
-      },
-      {
         "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
         "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "GOLF+ kicks off a VR Open tournament with a grand prize trip to St. Andrews, enhancing its competitive offerings.",
+        "summary": "GOLF+ kicks off a major VR Open tournament with a grand prize trip to St. Andrews, enhancing its competitive gaming experience.",
         "source": "roadtovr.com",
         "date": "Tue, 14 Jul 2026 09:05:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Ragnarock Adds Two New Free Tracks In Latest Update",
+        "url": "https://www.uploadvr.com/ragnarock-adds-two-new-free-tracks-in-latest-update/",
+        "summary": "Ragnarock introduces two new free tracks in its latest update, marking the first new music addition in a year.",
+        "source": "uploadvr.com",
+        "date": "Wed, 15 Jul 2026 13:19:42 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/ragnarock.webp"
       }
     ],
     "AI": [
       {
-        "title": "Google is renaming NotebookLM to Gemini Notebook",
-        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google rebrands its AI note-taking app NotebookLM to Gemini Notebook, integrating it further with its ecosystem.",
+        "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+        "summary": "New York Governor Kathy Hochul is leveraging AI to analyze state regulations, despite a moratorium on new AI data centers.",
         "source": "theverge.com",
-        "date": "2026-07-16T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-16T13:58:37-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password introduces a new feature allowing Claude to access stored credentials, streamlining user tasks.",
+        "summary": "1Password integrates with Claude, allowing the AI to manage user credentials for multi-step online tasks.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Google is renaming NotebookLM to Gemini Notebook",
+        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+        "summary": "Google rebrands its AI note-taking app from NotebookLM to Gemini Notebook, enhancing its integration with Google services.",
+        "source": "theverge.com",
+        "date": "2026-07-16T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google ordered to open Android and Search to rivals in Europe",
@@ -77,78 +85,70 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul reveals her administration is using AI to analyze state regulations and policies.",
-        "source": "theverge.com",
-        "date": "2026-07-16T13:58:37-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-        "summary": "Elon Musk's xAI sues a man for allegedly using Grok to generate child sexual abuse material.",
+        "summary": "xAI is suing a man for allegedly using its Grok AI to create child sexual abuse material.",
         "source": "theverge.com",
         "date": "2026-07-15T17:33:20-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "summary": "Enterprises are rapidly investing in AI infrastructure, outpacing their ability to manage costs effectively.",
-        "source": "venturebeat.com",
-        "date": "Thu, 16 Jul 2026 19:16:48 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
+        "title": "OpenAI finally launches hardware… for Codex",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+        "summary": "OpenAI is launching hardware for its Codex platform, marking its entry into physical product offerings.",
+        "source": "theverge.com",
+        "date": "2026-07-15T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Report: Alvin Kamara set to make $6 million in base salary on new deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alvin-kamara-set-to-make-6-million-in-base-salary-on-new-deal",
-        "summary": "Alvin Kamara agrees to a new deal with the Saints, set to earn $6 million in base salary.",
-        "source": "nbcsports.com",
-        "date": "Thu, 16 Jul 2026 10:55:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7db3e20/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F714%2F71%2Fnbc_pftpm_kamara_260717.jpg"
-      },
-      {
         "title": "Titans to induct Chris Johnson into their Ring of Honor",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-to-induct-chris-johnson-into-their-ring-of-honor",
-        "summary": "Chris Johnson will be inducted into the Titans' Ring of Honor following his recent ALS diagnosis.",
+        "summary": "Chris Johnson will be inducted into the Titans' Ring of Honor, following his recent ALS diagnosis.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 11:20:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d6ae98/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F42%2F775%2Fnbc_pft_chrisjohnson_260629.jpg"
       },
       {
+        "title": "CB Levi Wallace announces his retirement",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-levi-wallace-announces-his-retirement",
+        "summary": "Veteran cornerback Levi Wallace announces his retirement after not playing in the NFL last season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 14:20:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e04426c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnbc_pftpm_mailbag_260717.jpg"
+      },
+      {
+        "title": "Texans sign fourth-round pick Febechi Nwaiwu",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-fourth-round-pick-febechi-nwaiwu",
+        "summary": "The Texans have officially signed their fourth-round draft pick, Febechi Nwaiwu, completing their 2026 draft class.",
+        "source": "nbcsports.com",
+        "date": "Thu, 16 Jul 2026 16:34:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
+      },
+      {
         "title": "Ravens GM Eric DeCosta \"optimistic\" about Zay Flowers extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-gm-eric-decosta-optimistic-about-zay-flowers-extension",
-        "summary": "Ravens GM Eric DeCosta expresses optimism about a contract extension for WR Zay Flowers.",
+        "summary": "Ravens GM Eric DeCosta expresses optimism about a potential extension for wide receiver Zay Flowers.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 09:33:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/19de25e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F375%2Fnbc_pft_argentinaengland_260716.jpg"
       },
       {
-        "title": "Panthers re-sign OL Brady Christensen",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-re-sign-ol-brady-christensen",
-        "summary": "The Panthers have re-signed offensive lineman Brady Christensen, bolstering their offensive line.",
+        "title": "Roger Goodell has \"about 10\" more countries in mind for games, including Japan",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-has-about-10-more-countries-in-mind-for-games-including-japan",
+        "summary": "Commissioner Roger Goodell reveals plans for NFL games in ten more countries, including Japan.",
         "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 10:34:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
+        "date": "Fri, 17 Jul 2026 00:36:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19de25e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F375%2Fnbc_pft_argentinaengland_260716.jpg"
       },
       {
         "title": "Seahawks rookies report to training camp today",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-rookies-report-to-training-camp-today",
-        "summary": "Seahawks rookies officially report to training camp today, marking the start of the 2026 NFL season.",
+        "summary": "Seahawks rookies report to training camp, marking the start of the 2026 NFL season.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 09:09:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
-      },
-      {
-        "title": "Commanders to wear alternate uniforms twice in 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-wear-alternate-uniforms-twice-in-2026",
-        "summary": "The Commanders unveil their alternate uniform schedule for the 2026 season, adding excitement for fans.",
-        "source": "nbcsports.com",
-        "date": "Thu, 16 Jul 2026 11:37:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8d1c055/2147483647/strip/false/crop/2560x1440+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F90%2F11a4c39c483193f7396c574e9dcb%2Fpvacirvm8yuzrjfdci02-1.webp"
       }
     ]
   }
