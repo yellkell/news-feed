@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T13:21:02.126Z",
+  "updated": "2026-07-17T14:56:09.714Z",
   "feed": {
     "VR": [
       {
@@ -11,9 +11,17 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
+        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
+        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
+        "summary": "Xreal's new $299 AR glasses launch in the U.S., offering a large virtual screen and advanced features.",
+        "source": "mixed-news.com",
+        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
+      },
+      {
         "title": "XREAL’s First Budget AR Glasses Go on Sale Internationally, Priced at $300",
         "url": "https://roadtovr.com/xreals-budget-ar-glasses-price-release-date/",
-        "summary": "Xreal launches its budget AR glasses in the U.S. for $299, offering a large virtual screen and lightweight design.",
+        "summary": "XREAL's budget AR glasses, priced at $300, are now available internationally, expanding access to immersive technology.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 12:59:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/xbx-xreal-close.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,57 +29,49 @@
       {
         "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
         "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "The Battlefield-like VR FPS Forefront has received a significant update, enhancing gameplay for its 32-player format.",
+        "summary": "The major update for the VR FPS Forefront introduces new features and improvements for its 32-player combat experience.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 11:40:12 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
       },
       {
-        "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
-        "url": "https://www.uploadvr.com/hellsplit-arena-to-get-sandbox-mode-bring-mod-support-to-meta-quest/",
-        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support on Meta Quest, expanding player creativity.",
-        "source": "uploadvr.com",
-        "date": "Thu, 16 Jul 2026 10:44:06 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
+        "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
+        "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
+        "summary": "GOLF+ kicks off its open tournament this week, offering players a chance to win a trip to St. Andrews.",
+        "source": "roadtovr.com",
+        "date": "Tue, 14 Jul 2026 09:05:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Ragnarock Adds Two New Free Tracks In Latest Update",
-        "url": "https://www.uploadvr.com/ragnarock-adds-two-new-free-tracks-in-latest-update/",
-        "summary": "VR rhythm game Ragnarock adds two new free tracks, marking its first music update in a year.",
-        "source": "uploadvr.com",
-        "date": "Wed, 15 Jul 2026 13:19:42 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/ragnarock.webp"
-      },
-      {
-        "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
-        "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
-        "summary": "GOLF+ kicks off its inaugural VR Open with a grand prize trip to St. Andrews for the 2027 championship.",
-        "source": "uploadvr.com",
-        "date": "Mon, 13 Jul 2026 13:42:10 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
+        "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
+        "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
+        "summary": "Anduril's founder teases the development of compact AR glasses, promising full AR capabilities.",
+        "source": "roadtovr.com",
+        "date": "Mon, 13 Jul 2026 18:35:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Google is renaming NotebookLM to Gemini Notebook",
-        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google rebrands its AI note-taking app from NotebookLM to Gemini Notebook, enhancing integration with its ecosystem.",
-        "source": "theverge.com",
-        "date": "2026-07-16T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password introduces a new feature allowing Claude to access user credentials for streamlined online tasks.",
+        "summary": "1Password integrates with Claude, allowing the AI to access and manage user credentials for online tasks.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Google is renaming NotebookLM to Gemini Notebook",
+        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+        "summary": "Google rebrands its AI note-taking app from NotebookLM to Gemini Notebook, enhancing its integration across services.",
+        "source": "theverge.com",
+        "date": "2026-07-16T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Google ordered to open Android and Search to rivals in Europe",
         "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-        "summary": "The European Union mandates Google to provide rival AI assistants and search engines with access to Android and Search.",
+        "summary": "The European Union mandates Google to provide rival AI assistants and search engines with greater access to Android and Search.",
         "source": "theverge.com",
         "date": "2026-07-16T08:06:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +79,76 @@
       {
         "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul reveals her administration uses AI to analyze state rules and regulations.",
+        "summary": "New York Governor Kathy Hochul reveals her administration is using AI to analyze state regulations and policies.",
         "source": "theverge.com",
         "date": "2026-07-16T13:58:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-        "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-        "summary": "Energy IPOs are surging as investors seek opportunities linked to the booming AI sector.",
-        "source": "arstechnica.com",
-        "date": "Thu, 16 Jul 2026 15:48:21 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_2c2b4618-eb73-4160-997a-8f8bb5485e20-1152x648.jpeg"
-      },
-      {
         "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-        "summary": "xAI is suing a man for allegedly using its Grok AI chatbot to create child sexual abuse material.",
+        "summary": "xAI sues a man for allegedly using its Grok AI to generate child sexual abuse material.",
         "source": "theverge.com",
         "date": "2026-07-15T17:33:20-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "OpenAI finally launches hardware… for Codex",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+        "summary": "OpenAI announces the launch of hardware designed specifically for its coding platform, Codex.",
+        "source": "theverge.com",
+        "date": "2026-07-15T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Report: Alvin Kamara set to make $6 million in base salary on new deal",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alvin-kamara-set-to-make-6-million-in-base-salary-on-new-deal",
-        "summary": "Running back Alvin Kamara agrees to a new deal with the Saints, set to earn $6 million in base salary.",
+        "summary": "Alvin Kamara agrees to a new deal with the Saints, set to earn $6 million in base salary.",
         "source": "nbcsports.com",
         "date": "Thu, 16 Jul 2026 10:55:13 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d10573/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F19%2Fqb_series_eaw_260715.jpg"
       },
       {
+        "title": "Ravens GM Eric DeCosta \"optimistic\" about Zay Flowers extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-gm-eric-decosta-optimistic-about-zay-flowers-extension",
+        "summary": "Ravens GM Eric DeCosta expresses optimism about a potential extension for wide receiver Zay Flowers.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 09:33:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19de25e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F375%2Fnbc_pft_argentinaengland_260716.jpg"
+      },
+      {
+        "title": "Texans sign fourth-round pick Febechi Nwaiwu",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-fourth-round-pick-febechi-nwaiwu",
+        "summary": "The Texans finalize their 2026 draft class by signing fourth-round pick Febechi Nwaiwu.",
+        "source": "nbcsports.com",
+        "date": "Thu, 16 Jul 2026 16:34:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
+      },
+      {
         "title": "Seahawks rookies report to training camp today",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-rookies-report-to-training-camp-today",
-        "summary": "Seahawks rookies report to training camp today, marking the official start of the 2026 NFL season.",
+        "summary": "Seahawks rookies officially report to training camp today, marking the start of the 2026 NFL season.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 09:09:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
       },
       {
-        "title": "Roger Goodell has \"about 10\" more countries in mind for games, including Japan",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-has-about-10-more-countries-in-mind-for-games-including-japan",
-        "summary": "Commissioner Roger Goodell plans to expand NFL games to about 10 more countries, including Japan.",
+        "title": "Commanders to wear alternate uniforms twice in 2026",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-wear-alternate-uniforms-twice-in-2026",
+        "summary": "The Commanders announce their alternate uniform schedule for the 2026 season.",
         "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 00:36:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19de25e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F375%2Fnbc_pft_argentinaengland_260716.jpg"
-      },
-      {
-        "title": "Drake Maye: Already some chemistry with A.J. Brown, excited to build more",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-already-some-chemistry-with-a-j-brown-excited-to-build-more",
-        "summary": "Quarterback Drake Maye expresses excitement about building chemistry with wide receiver A.J. Brown.",
-        "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 09:09:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
+        "date": "Thu, 16 Jul 2026 11:37:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8d1c055/2147483647/strip/false/crop/2560x1440+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F90%2F11a4c39c483193f7396c574e9dcb%2Fpvacirvm8yuzrjfdci02-1.webp"
       },
       {
         "title": "DL Pat O'Connor announces his retirement",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dl-pat-oconnor-announces-his-retirement",
-        "summary": "Defensive lineman Pat O'Connor announces his retirement, concluding his NFL career.",
+        "summary": "Defensive lineman Pat O'Connor announces his retirement from professional football.",
         "source": "nbcsports.com",
         "date": "Thu, 16 Jul 2026 16:08:03 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1a8e138/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F622%2F778%2Fnbc_pft_jongruden_260716.jpg"
-      },
-      {
-        "title": "Commanders to wear alternate uniforms twice in 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-wear-alternate-uniforms-twice-in-2026",
-        "summary": "The Commanders unveil their alternate uniforms for the 2026 season, announcing when they'll wear them.",
-        "source": "nbcsports.com",
-        "date": "Thu, 16 Jul 2026 11:37:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8d1c055/2147483647/strip/false/crop/2560x1440+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F90%2F11a4c39c483193f7396c574e9dcb%2Fpvacirvm8yuzrjfdci02-1.webp"
       }
     ]
   }
