@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-17T19:45:10.651Z",
+  "updated": "2026-07-17T20:35:29.139Z",
   "feed": {
     "VR": [
       {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
         "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica acquires French XR startup Lynx, raising concerns over the future of its R2 headset release.",
+        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises questions about the future of the R2 headset release.",
         "source": "roadtovr.com",
         "date": "Thu, 16 Jul 2026 07:20:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
-        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
-        "summary": "Xreal launches its $299 a01+ AR glasses in the U.S., featuring a 147-inch virtual screen and lightweight design.",
-        "source": "mixed-news.com",
-        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
+        "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
+        "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
+        "summary": "Anduril's founder teases new compact AR glasses designed for full augmented reality capabilities.",
+        "source": "roadtovr.com",
+        "date": "Mon, 13 Jul 2026 18:35:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
       },
       {
         "title": "Open-World Base-Building Action Game StarRupture Coming To Meta Quest 3",
         "url": "https://www.uploadvr.com/open-world-base-building-action-game-starrupture-coming-to-meta-quest-3/",
-        "summary": "Incuvo announces the port of open-world base-building game StarRupture to Meta Quest 3 headsets.",
+        "summary": "StarRupture, an open-world base-building action game, is set to launch on Meta Quest 3.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 12:28:03 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/HNXJgB8XwAAI69R.jpg"
@@ -29,7 +29,7 @@
       {
         "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
         "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "Forefront, a Battlefield-like 32-player VR FPS, receives a major update enhancing gameplay features.",
+        "summary": "Forefront, a Battlefield-like 32-player VR FPS, has received a significant update enhancing gameplay.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 11:40:12 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
@@ -37,25 +37,33 @@
       {
         "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
         "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
-        "summary": "GOLF+ kicks off its first VR Open with a grand prize trip to St. Andrews for the 2027 championship.",
+        "summary": "GOLF+ kicks off its first VR Open, offering a grand prize trip to St. Andrews for 2027.",
         "source": "uploadvr.com",
         "date": "Mon, 13 Jul 2026 13:42:10 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
       },
       {
-        "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
-        "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Palmer Luckey teases compact AR glasses from Anduril, promising full AR capabilities.",
-        "source": "roadtovr.com",
-        "date": "Mon, 13 Jul 2026 18:35:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
+        "title": "Xreal's new $299 AR glasses bring the big-screen experience to more people",
+        "url": "https://mixed-news.com/en/xreals-new-299-ar-glasses-bring-the-big-screen-experience-to-more-people/",
+        "summary": "Xreal launches its $299 a01+ AR glasses in the U.S., featuring a large virtual screen and advanced displays.",
+        "source": "mixed-news.com",
+        "date": "Fri, 10 Jul 2026 13:00:30 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/xbx_a01_2026-507.918.jpg"
       }
     ],
     "AI": [
       {
+        "title": "Apple’s plot to crush OpenAI",
+        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "summary": "Apple's lawsuit against OpenAI raises questions about the tech giant's strategy in the AI landscape.",
+        "source": "theverge.com",
+        "date": "2026-07-17T13:41:32-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Google is renaming NotebookLM to Gemini Notebook",
         "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google renames its AI note-taking app from NotebookLM to Gemini Notebook, enhancing integration across its platforms.",
+        "summary": "Google has rebranded its note-taking app from NotebookLM to Gemini Notebook, enhancing integration with its services.",
         "source": "theverge.com",
         "date": "2026-07-16T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +71,7 @@
       {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password introduces a new integration for Claude, allowing the AI to access user credentials for streamlined tasks.",
+        "summary": "1Password introduces a new feature allowing Claude to access user credentials for seamless online task management.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +79,7 @@
       {
         "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul reveals her administration is using AI to analyze state regulations comprehensively.",
+        "summary": "New York Governor Kathy Hochul reveals her team is utilizing AI to analyze state regulations and policies.",
         "source": "theverge.com",
         "date": "2026-07-16T13:58:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +87,68 @@
       {
         "title": "Google ordered to open Android and Search to rivals in Europe",
         "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-        "summary": "The European Union mandates Google to provide rival AI assistants greater access to Android and Google Search.",
+        "summary": "The EU mandates Google to provide rivals greater access to its Android and Search platforms amid antitrust concerns.",
         "source": "theverge.com",
         "date": "2026-07-16T08:06:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-        "summary": "xAI sues a South Carolina man for allegedly using its Grok AI to generate child sexual abuse material.",
-        "source": "theverge.com",
-        "date": "2026-07-15T17:33:20-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "OpenAI may announce a ChatGPT smart speaker this year",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-        "summary": "OpenAI may announce a ChatGPT smart speaker this year, featuring environmental awareness through sensors.",
-        "source": "theverge.com",
-        "date": "2026-07-14T17:26:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+        "summary": "Enterprises are rapidly investing in AI infrastructure, outpacing their ability to manage costs effectively.",
+        "source": "venturebeat.com",
+        "date": "Thu, 16 Jul 2026 19:16:48 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
       }
     ],
     "NFL": [
       {
-        "title": "Titans to induct Chris Johnson into their Ring of Honor",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-to-induct-chris-johnson-into-their-ring-of-honor",
-        "summary": "The Titans will induct Chris Johnson into their Ring of Honor, following his recent ALS diagnosis.",
+        "title": "NFL suspends Cardinals executive Ryan Gold indefinitely for gambling violation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-suspends-cardinals-executive-ryan-gold-indefinitely-for-gambling-violation",
+        "summary": "The NFL has suspended Cardinals executive Ryan Gold indefinitely for violating the league's gambling policy.",
         "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 11:20:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d6ae98/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F42%2F775%2Fnbc_pft_chrisjohnson_260629.jpg"
-      },
-      {
-        "title": "Patriots waive DT Travis Shaw",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-waive-dt-travis-shaw",
-        "summary": "The Patriots waive defensive tackle Travis Shaw ahead of the upcoming training camp.",
-        "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 15:16:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5654277/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnewthumbnail.jpg"
-      },
-      {
-        "title": "Ravens GM Eric DeCosta \"optimistic\" about Zay Flowers extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-gm-eric-decosta-optimistic-about-zay-flowers-extension",
-        "summary": "Ravens GM Eric DeCosta expresses optimism about a potential extension for wide receiver Zay Flowers.",
-        "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 09:33:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19de25e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F375%2Fnbc_pft_argentinaengland_260716.jpg"
-      },
-      {
-        "title": "Seahawks rookies report to training camp today",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-rookies-report-to-training-camp-today",
-        "summary": "Seahawks rookies report to training camp today, marking the start of the NFL's 2026 season preparations.",
-        "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 09:09:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
+        "date": "Fri, 17 Jul 2026 16:23:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4e4f701/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F923%2Fnbc_pft_pftpm_cardinalsqb_260716.jpg"
       },
       {
         "title": "Texans sign fourth-round pick Febechi Nwaiwu",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-fourth-round-pick-febechi-nwaiwu",
-        "summary": "The Texans sign fourth-round draft pick Febechi Nwaiwu, finalizing their 2026 draft class.",
+        "summary": "The Texans have signed fourth-round pick Febechi Nwaiwu, finalizing their 2026 draft class.",
         "source": "nbcsports.com",
         "date": "Thu, 16 Jul 2026 16:34:48 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
       },
       {
-        "title": "Roger Goodell has \"about 10\" more countries in mind for games, including Japan",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-has-about-10-more-countries-in-mind-for-games-including-japan",
-        "summary": "Roger Goodell reveals plans for NFL games in approximately ten more countries, including Japan.",
+        "title": "Titans to induct Chris Johnson into their Ring of Honor",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-to-induct-chris-johnson-into-their-ring-of-honor",
+        "summary": "The Titans will honor Chris Johnson by inducting him into their Ring of Honor.",
         "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 00:36:34 -0400",
+        "date": "Fri, 17 Jul 2026 11:20:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d6ae98/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F42%2F775%2Fnbc_pft_chrisjohnson_260629.jpg"
+      },
+      {
+        "title": "Ravens GM Eric DeCosta \"optimistic\" about Zay Flowers extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-gm-eric-decosta-optimistic-about-zay-flowers-extension",
+        "summary": "Ravens GM Eric DeCosta expresses optimism about securing an extension for wide receiver Zay Flowers.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 09:33:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/19de25e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F375%2Fnbc_pft_argentinaengland_260716.jpg"
+      },
+      {
+        "title": "Panthers re-sign OL Brady Christensen",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-re-sign-ol-brady-christensen",
+        "summary": "The Panthers have re-signed offensive lineman Brady Christensen ahead of the upcoming season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 10:34:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
+      },
+      {
+        "title": "Seahawks rookies report to training camp today",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-rookies-report-to-training-camp-today",
+        "summary": "Seahawks rookies report to training camp today, marking the official start of the 2026 NFL season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 09:09:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
       }
     ]
   }
