@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T10:45:03.834Z",
+  "updated": "2026-07-18T11:37:49.196Z",
   "feed": {
     "VR": [
       {
@@ -13,39 +13,39 @@
       {
         "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
         "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve's Steam Frame standalone headset nears launch as a new store page highlights upcoming content.",
+        "summary": "Valve's Steam Frame standalone headset nears launch as it releases a new 'Great on Frame' store page.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 15:35:06 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
-        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
-        "summary": "Discovery: Rogue Planet, a story-driven sci-fi shooter, is set to launch on PC VR and Quest 3 in August.",
-        "source": "uploadvr.com",
-        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
-      },
-      {
-        "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
-        "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "Forefront, a 32-player VR FPS, has received a significant update enhancing gameplay features.",
-        "source": "uploadvr.com",
-        "date": "Thu, 16 Jul 2026 11:40:12 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
-      },
-      {
         "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
         "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "GOLF+ kicks off its VR Open tournament this week, offering a grand prize trip to St. Andrews.",
+        "summary": "GOLF+ kicks off its first VR Open this week, offering a grand prize trip to St. Andrews for the winner.",
         "source": "roadtovr.com",
         "date": "Tue, 14 Jul 2026 09:05:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
+        "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
+        "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
+        "summary": "Forefront, a 32-player VR FPS, receives a major update, enhancing gameplay and user experience.",
+        "source": "uploadvr.com",
+        "date": "Thu, 16 Jul 2026 11:40:12 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
+      },
+      {
+        "title": "Tactical Assault VR Owner Steps Down After Community Response To Prior Criminal Conviction",
+        "url": "https://www.uploadvr.com/tactical-assault-vr-owner-steps-down-after-community-response-to-prior-criminal-conviction/",
+        "summary": "Tactical Assault VR's owner resigns following community backlash over his past criminal conviction.",
+        "source": "uploadvr.com",
+        "date": "Fri, 17 Jul 2026 12:22:10 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/LVE3KHKyqTE-HD--1-.jpg"
+      },
+      {
         "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
         "url": "https://www.uploadvr.com/hellsplit-arena-to-get-sandbox-mode-bring-mod-support-to-meta-quest/",
-        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support on Meta Quest soon.",
+        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support on Meta Quest, expanding gameplay options.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 10:44:06 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
@@ -55,7 +55,7 @@
       {
         "title": "Apple’s plot to crush OpenAI",
         "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-        "summary": "Apple has initiated legal action against OpenAI, raising questions about the tech giant's motivations.",
+        "summary": "Apple has initiated a lawsuit against OpenAI, raising significant questions about competition and AI practices.",
         "source": "theverge.com",
         "date": "2026-07-17T13:41:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Google is renaming NotebookLM to Gemini Notebook",
         "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google has rebranded its AI note-taking app from NotebookLM to Gemini Notebook, enhancing its integration with other services.",
+        "summary": "Google rebrands its AI note-taking app from NotebookLM to Gemini Notebook, enhancing integration with its services.",
         "source": "theverge.com",
         "date": "2026-07-16T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password has launched a new feature allowing Claude to access user credentials for seamless task management.",
+        "summary": "1Password integrates with Claude, allowing the AI to manage user credentials for online tasks.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul reveals her team is using AI to analyze state regulations and policies.",
+        "summary": "New York Governor Kathy Hochul utilizes AI to analyze state regulations, despite a moratorium on new AI data centers.",
         "source": "theverge.com",
         "date": "2026-07-16T13:58:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,18 +87,18 @@
       {
         "title": "Google ordered to open Android and Search to rivals in Europe",
         "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-        "summary": "The European Union has ordered Google to open Android and Search to rival AI assistants and search engines.",
+        "summary": "The EU mandates Google to provide rival AI assistants access to Android and Search, impacting its market dominance.",
         "source": "theverge.com",
         "date": "2026-07-16T08:06:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-        "summary": "xAI is suing a South Carolina man for allegedly using its Grok AI to generate child sexual abuse material.",
-        "source": "theverge.com",
-        "date": "2026-07-15T17:33:20-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+        "summary": "Enterprises are rapidly increasing AI infrastructure spending, outpacing their ability to measure its costs effectively.",
+        "source": "venturebeat.com",
+        "date": "Thu, 16 Jul 2026 19:16:48 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
       }
     ],
     "NFL": [
@@ -113,42 +113,42 @@
       {
         "title": "Ravens agree to one-year deal with C Ethan Pocic",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-one-year-deal-with-c-ethan-pocic",
-        "summary": "The Ravens have signed free agent center Ethan Pocic to a one-year contract.",
+        "summary": "The Ravens have signed free agent center Ethan Pocic to a one-year deal, bolstering their offensive line.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 17:09:58 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
       },
       {
-        "title": "Seahawks rookies report to training camp today",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-rookies-report-to-training-camp-today",
-        "summary": "Seahawks rookies report to training camp today, marking the official start of the 2026 NFL season.",
+        "title": "Eric DeCosta: Last year was a \"lost season\" for Rashod Bateman, this year we're excited",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eric-decosta-last-year-was-a-lost-season-for-rashod-bateman-this-year-were-excited",
+        "summary": "Ravens GM Eric DeCosta expresses optimism about Rashod Bateman's potential in the upcoming season.",
         "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 09:09:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
+        "date": "Sat, 18 Jul 2026 04:39:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0d62694/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F363%2F995%2Fnbc_pftpm_jacksonrank_260714.jpg"
+      },
+      {
+        "title": "Patriots waive DT Travis Shaw",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-waive-dt-travis-shaw",
+        "summary": "The Patriots have waived defensive tackle Travis Shaw ahead of the training camp.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 15:16:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5654277/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnewthumbnail.jpg"
       },
       {
         "title": "Titans to induct Chris Johnson into their Ring of Honor",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-to-induct-chris-johnson-into-their-ring-of-honor",
-        "summary": "Chris Johnson is set to be inducted into the Titans' Ring of Honor amid his ALS diagnosis.",
+        "summary": "Chris Johnson will be inducted into the Titans' Ring of Honor, marking a significant recognition of his career.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 11:20:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d6ae98/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F42%2F775%2Fnbc_pft_chrisjohnson_260629.jpg"
       },
       {
-        "title": "Ravens GM Eric DeCosta \"optimistic\" about Zay Flowers extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-gm-eric-decosta-optimistic-about-zay-flowers-extension",
-        "summary": "Ravens GM Eric DeCosta expresses optimism regarding a potential extension for wide receiver Zay Flowers.",
+        "title": "Seahawks rookies report to training camp today",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-rookies-report-to-training-camp-today",
+        "summary": "Seahawks rookies report to training camp today, marking the start of the 2026 NFL season preparations.",
         "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 09:33:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19de25e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F375%2Fnbc_pft_argentinaengland_260716.jpg"
-      },
-      {
-        "title": "Patriots waive DT Travis Shaw",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-waive-dt-travis-shaw",
-        "summary": "The Patriots have waived defensive tackle Travis Shaw ahead of the upcoming training camp.",
-        "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 15:16:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5654277/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnewthumbnail.jpg"
+        "date": "Fri, 17 Jul 2026 09:09:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
       }
     ]
   }
