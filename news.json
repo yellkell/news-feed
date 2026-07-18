@@ -1,61 +1,61 @@
 {
-  "updated": "2026-07-18T18:07:14.871Z",
+  "updated": "2026-07-18T19:24:34.782Z",
   "feed": {
     "VR": [
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve's substantial SteamVR update hints at the imminent launch of its standalone VR headset, Steam Frame, enhancing the VR runtime experience.",
+        "summary": "Valve's latest SteamVR update hints at the imminent launch of its standalone VR headset, Steam Frame, enhancing the platform's features.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
-        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve has created a new store page for Steam Frame content, signaling that the launch of its long-awaited standalone VR headset is approaching.",
+        "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
+        "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
+        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises doubts about the future release of the R2 headset.",
         "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
-        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
-        "summary": "Discovery: Rogue Planet, a story-driven sci-fi shooter, is set to launch on PC VR and Quest 3 this August.",
-        "source": "uploadvr.com",
-        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
+        "date": "Thu, 16 Jul 2026 07:20:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
         "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "The popular VR FPS Forefront has released a major update, adding new features and enhancing gameplay for its 32-player battles.",
+        "summary": "Forefront, a popular VR FPS, has received a major update, introducing new features and gameplay enhancements.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 11:40:12 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
       },
       {
-        "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
-        "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
-        "summary": "Golf+ is hosting its inaugural VR Open this week, offering a grand prize trip to St. Andrews for the winner.",
+        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
+        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
+        "summary": "Discovery: Rogue Planet, a story-driven sci-fi shooter, is set to launch on PC VR and Quest 3 in August.",
         "source": "uploadvr.com",
-        "date": "Mon, 13 Jul 2026 13:42:10 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
+        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
       },
       {
-        "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
-        "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises questions about the future release of the R2 headset.",
+        "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
+        "url": "https://www.uploadvr.com/hellsplit-arena-to-get-sandbox-mode-bring-mod-support-to-meta-quest/",
+        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support for Meta Quest, expanding gameplay options.",
+        "source": "uploadvr.com",
+        "date": "Thu, 16 Jul 2026 10:44:06 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
+      },
+      {
+        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
+        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
+        "summary": "Valve has launched a new store page for Steam Frame content, signaling a potential release for its standalone VR headset.",
         "source": "roadtovr.com",
-        "date": "Thu, 16 Jul 2026 07:20:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Google is renaming NotebookLM to Gemini Notebook",
         "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google has rebranded its AI note-taking app from NotebookLM to Gemini Notebook, while enhancing its integration with Google services.",
+        "summary": "Google has rebranded its AI note-taking app from NotebookLM to Gemini Notebook, enhancing its integration with Google services.",
         "source": "theverge.com",
         "date": "2026-07-16T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,31 +63,31 @@
       {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password has introduced a new feature allowing Claude to access user credentials, streamlining multi-step tasks for users.",
+        "summary": "1Password has integrated with Claude, allowing the AI to access user credentials for streamlined online tasks.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul is utilizing AI to analyze state regulations, despite a moratorium on new AI data centers.",
-        "source": "theverge.com",
-        "date": "2026-07-16T13:58:37-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "TikTok is testing an AI likeness detection tool",
         "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "summary": "TikTok is testing an AI likeness detection tool that allows creators to report unauthorized AI-generated content.",
+        "summary": "TikTok is testing an AI likeness detection tool to help creators report unauthorized AI-generated content.",
         "source": "theverge.com",
         "date": "2026-07-17T15:34:30-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+        "summary": "New York Governor Kathy Hochul reveals her team is using AI to analyze state regulations and policies.",
+        "source": "theverge.com",
+        "date": "2026-07-16T13:58:37-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Google ordered to open Android and Search to rivals in Europe",
         "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-        "summary": "The European Union has mandated that Google provide rival AI assistants and search engines with greater access to its platforms.",
+        "summary": "The European Union has mandated Google to provide rival AI assistants greater access to Android and Search.",
         "source": "theverge.com",
         "date": "2026-07-16T08:06:51-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
         "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "summary": "A report reveals that enterprises are rapidly investing in AI infrastructure, outpacing their ability to manage associated costs.",
+        "summary": "A report reveals enterprises are rapidly investing in AI infrastructure, outpacing their ability to manage costs.",
         "source": "venturebeat.com",
         "date": "Thu, 16 Jul 2026 19:16:48 GMT",
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
@@ -105,7 +105,7 @@
       {
         "title": "NFL suspends Cardinals executive Ryan Gold indefinitely for gambling violation",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-suspends-cardinals-executive-ryan-gold-indefinitely-for-gambling-violation",
-        "summary": "The NFL has suspended Cardinals executive Ryan Gold indefinitely for violating the league's gambling policy.",
+        "summary": "The NFL has indefinitely suspended Cardinals executive Ryan Gold for violating the league's gambling policy.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 16:23:51 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4e4f701/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F923%2Fnbc_pft_pftpm_cardinalsqb_260716.jpg"
@@ -119,9 +119,17 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
       },
       {
+        "title": "CB Levi Wallace announces his retirement",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-levi-wallace-announces-his-retirement",
+        "summary": "Veteran cornerback Levi Wallace announces his retirement from the NFL after an injury-plagued season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 14:20:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e04426c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnbc_pftpm_mailbag_260717.jpg"
+      },
+      {
         "title": "Seahawks plan a heavy workload for rookie RB Jadarian Price, maybe including kick returns",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-plan-a-heavy-workload-for-rookie-rb-jadarian-price-maybe-including-kick-returns",
-        "summary": "Seahawks rookie RB Jadarian Price is expected to have a significant role, potentially including kick returns this season.",
+        "summary": "Seahawks rookie RB Jadarian Price is expected to take on a significant workload, potentially including kick returns.",
         "source": "nbcsports.com",
         "date": "Sat, 18 Jul 2026 09:19:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
@@ -129,23 +137,15 @@
       {
         "title": "Titans to induct Chris Johnson into their Ring of Honor",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-to-induct-chris-johnson-into-their-ring-of-honor",
-        "summary": "Chris Johnson will be inducted into the Titans' Ring of Honor, shortly after announcing his ALS diagnosis.",
+        "summary": "The Titans will honor Chris Johnson by inducting him into their Ring of Honor amid his ALS diagnosis.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 11:20:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d6ae98/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F42%2F775%2Fnbc_pft_chrisjohnson_260629.jpg"
       },
       {
-        "title": "Eric DeCosta: Last year was a \"lost season\" for Rashod Bateman, this year we're excited",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eric-decosta-last-year-was-a-lost-season-for-rashod-bateman-this-year-were-excited",
-        "summary": "Ravens GM Eric DeCosta expresses optimism about Rashod Bateman's potential following a challenging previous season.",
-        "source": "nbcsports.com",
-        "date": "Sat, 18 Jul 2026 04:39:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0d62694/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F363%2F995%2Fnbc_pftpm_jacksonrank_260714.jpg"
-      },
-      {
         "title": "Cardinals release statement about executive Ryan Gold's suspension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-release-statement-about-executive-ryan-golds-suspension",
-        "summary": "The Cardinals have confirmed the indefinite suspension of Ryan Gold, their director of college scouting, amid ongoing investigations.",
+        "summary": "The Cardinals have issued a statement regarding the indefinite suspension of executive Ryan Gold.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 16:36:30 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5654277/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnewthumbnail.jpg"
