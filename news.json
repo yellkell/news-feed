@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-18T14:07:05.190Z",
+  "updated": "2026-07-18T15:12:48.572Z",
   "feed": {
     "VR": [
       {
+        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
+        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
+        "summary": "Valve has released a significant SteamVR update, signaling an imminent launch for its standalone VR headset, Steam Frame.",
+        "source": "roadtovr.com",
+        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
         "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises questions about the future of its R2 headset release.",
+        "summary": "EssilorLuxottica has acquired French XR startup Lynx, raising questions about the future of its R2 headset.",
         "source": "roadtovr.com",
         "date": "Thu, 16 Jul 2026 07:20:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -13,57 +21,57 @@
       {
         "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
         "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve nears the launch of its Steam Frame standalone headset, with a new store page hinting at upcoming content.",
+        "summary": "Valve has launched a new store page for its upcoming Steam Frame headset, hinting at a release date soon.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 15:35:06 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Tactical Assault VR Owner Steps Down After Community Response To Prior Criminal Conviction",
-        "url": "https://www.uploadvr.com/tactical-assault-vr-owner-steps-down-after-community-response-to-prior-criminal-conviction/",
-        "summary": "Tactical Assault VR's owner resigns following community backlash over a past criminal conviction.",
+        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
+        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
+        "summary": "Discovery: Rogue Planet, a story-driven sci-fi shooter, is set to launch on PC VR and Quest 3 in August.",
         "source": "uploadvr.com",
-        "date": "Fri, 17 Jul 2026 12:22:10 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/LVE3KHKyqTE-HD--1-.jpg"
-      },
-      {
-        "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
-        "url": "https://www.uploadvr.com/hellsplit-arena-to-get-sandbox-mode-bring-mod-support-to-meta-quest/",
-        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support on Meta Quest.",
-        "source": "uploadvr.com",
-        "date": "Thu, 16 Jul 2026 10:44:06 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
-      },
-      {
-        "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
-        "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "GOLF+ kicks off its VR Open this week, offering a grand prize trip to St. Andrews.",
-        "source": "roadtovr.com",
-        "date": "Tue, 14 Jul 2026 09:05:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
       },
       {
         "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
         "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "The Battlefield-like VR FPS Forefront has received a significant update, enhancing gameplay for users.",
+        "summary": "The Battlefield-inspired VR FPS Forefront has received a major update, enhancing gameplay for its 32-player format.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 11:40:12 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
+      },
+      {
+        "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
+        "url": "https://www.uploadvr.com/hellsplit-arena-to-get-sandbox-mode-bring-mod-support-to-meta-quest/",
+        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support on Meta Quest, expanding its gameplay options.",
+        "source": "uploadvr.com",
+        "date": "Thu, 16 Jul 2026 10:44:06 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
       }
     ],
     "AI": [
       {
         "title": "Google is renaming NotebookLM to Gemini Notebook",
         "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google rebrands its AI note-taking app from NotebookLM to Gemini Notebook, integrating it more closely with Google services.",
+        "summary": "Google has rebranded its AI note-taking app from NotebookLM to Gemini Notebook, enhancing integration with its services.",
         "source": "theverge.com",
         "date": "2026-07-16T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Claude can now use your 1Password credentials for you",
+        "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+        "summary": "1Password has launched a new feature allowing Claude to access user credentials for streamlined online tasks.",
+        "source": "theverge.com",
+        "date": "2026-07-16T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "TikTok is testing an AI likeness detection tool",
         "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "summary": "TikTok is testing a new AI likeness detection tool that allows creators to report AI-generated content.",
+        "summary": "TikTok is testing an AI likeness detection tool to help creators report unauthorized AI-generated content.",
         "source": "theverge.com",
         "date": "2026-07-17T15:34:30-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,34 +79,26 @@
       {
         "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul reveals her administration is using AI to analyze state regulations and policies.",
+        "summary": "New York Governor Kathy Hochul is utilizing AI to analyze state regulations and policies, despite a moratorium on new AI data centers.",
         "source": "theverge.com",
         "date": "2026-07-16T13:58:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Claude can now use your 1Password credentials for you",
-        "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password introduces a new feature allowing Claude to access user credentials for seamless online task management.",
+        "title": "Apple’s plot to crush OpenAI",
+        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "summary": "Apple has filed a lawsuit against OpenAI, raising questions about the future of AI development and competition.",
         "source": "theverge.com",
-        "date": "2026-07-16T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-17T13:41:32-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-        "summary": "Elon Musk's xAI is suing a man for allegedly using its Grok AI to create child sexual abuse material.",
-        "source": "theverge.com",
-        "date": "2026-07-15T17:33:20-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Google ordered to open Android and Search to rivals in Europe",
-        "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-        "summary": "The European Union mandates Google to provide rival AI assistants and search engines greater access to Android and Search.",
-        "source": "theverge.com",
-        "date": "2026-07-16T08:06:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+        "summary": "A report reveals that over half of enterprises have experienced security incidents involving AI agents, highlighting significant risks.",
+        "source": "venturebeat.com",
+        "date": "Thu, 16 Jul 2026 19:02:38 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30"
       }
     ],
     "NFL": [
@@ -111,44 +111,44 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4e4f701/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F923%2Fnbc_pft_pftpm_cardinalsqb_260716.jpg"
       },
       {
-        "title": "Ravens agree to one-year deal with C Ethan Pocic",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-one-year-deal-with-c-ethan-pocic",
-        "summary": "The Ravens have signed free agent center Ethan Pocic to a one-year contract.",
-        "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 17:09:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
-      },
-      {
         "title": "Seahawks plan a heavy workload for rookie RB Jadarian Price, maybe including kick returns",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-plan-a-heavy-workload-for-rookie-rb-jadarian-price-maybe-including-kick-returns",
-        "summary": "Seahawks rookie running back Jadarian Price is expected to have a significant role, including potential kick returns.",
+        "summary": "Seahawks rookie RB Jadarian Price is expected to take on a significant role, potentially including kick returns this season.",
         "source": "nbcsports.com",
         "date": "Sat, 18 Jul 2026 09:19:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
       },
       {
+        "title": "Ravens agree to one-year deal with C Ethan Pocic",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-one-year-deal-with-c-ethan-pocic",
+        "summary": "The Ravens have signed free agent center Ethan Pocic to a one-year deal, bolstering their offensive line.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 17:09:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
+      },
+      {
+        "title": "Robert Griffin III hints at a Netflix documentary on the day he tore his ACL",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-griffin-iii-hints-at-a-netflix-documentary-on-the-day-he-tore-his-acl",
+        "summary": "Robert Griffin III is hinting at a Netflix documentary detailing his tumultuous career and ACL injury.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 20:17:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0b2da88/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F595%2Fnbc_pftpm_burleson_260717.jpg"
+      },
+      {
+        "title": "Titans to induct Chris Johnson into their Ring of Honor",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-to-induct-chris-johnson-into-their-ring-of-honor",
+        "summary": "The Titans will honor Chris Johnson by inducting him into their Ring of Honor amid his ALS diagnosis.",
+        "source": "nbcsports.com",
+        "date": "Fri, 17 Jul 2026 11:20:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d6ae98/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F42%2F775%2Fnbc_pft_chrisjohnson_260629.jpg"
+      },
+      {
         "title": "Panthers re-sign OL Brady Christensen",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-re-sign-ol-brady-christensen",
-        "summary": "The Panthers have re-signed offensive lineman Brady Christensen ahead of the new season.",
+        "summary": "The Panthers have re-signed offensive lineman Brady Christensen ahead of the upcoming season.",
         "source": "nbcsports.com",
         "date": "Fri, 17 Jul 2026 10:34:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
-      },
-      {
-        "title": "49ers exec Paraag Marathe is a finalist for MLS Commissioner",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-exec-paraag-marathe-is-a-finalist-for-mls-commissioner",
-        "summary": "49ers executive Paraag Marathe is a finalist for the MLS Commissioner position.",
-        "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 19:48:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19de25e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F375%2Fnbc_pft_argentinaengland_260716.jpg"
-      },
-      {
-        "title": "CB Levi Wallace announces his retirement",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-levi-wallace-announces-his-retirement",
-        "summary": "Veteran cornerback Levi Wallace announces his retirement from the NFL after an injury-plagued season.",
-        "source": "nbcsports.com",
-        "date": "Fri, 17 Jul 2026 14:20:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e04426c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnbc_pftpm_mailbag_260717.jpg"
       }
     ]
   }
