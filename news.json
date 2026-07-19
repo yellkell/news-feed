@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T17:13:40.658Z",
+  "updated": "2026-07-19T18:08:13.864Z",
   "feed": {
     "VR": [
       {
@@ -13,18 +13,26 @@
       {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
         "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica has acquired French XR startup Lynx, raising doubts about the future release of its R2 headset.",
+        "summary": "EssilorLuxottica has acquired French XR startup Lynx, raising questions about the future of its R2 headset.",
         "source": "roadtovr.com",
         "date": "Thu, 16 Jul 2026 07:20:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
-        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve has created a new store page for its upcoming Steam Frame headset, hinting at a launch soon.",
-        "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
+        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
+        "summary": "Discovery: Rogue Planet, a story-driven sci-fi shooter, is set to launch on PC VR and Quest 3 in August.",
+        "source": "uploadvr.com",
+        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
+      },
+      {
+        "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
+        "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
+        "summary": "The Battlefield-inspired VR FPS Forefront has received a major update, enhancing gameplay features for its 32-player format.",
+        "source": "uploadvr.com",
+        "date": "Thu, 16 Jul 2026 11:40:12 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
       },
       {
         "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
@@ -35,35 +43,35 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
       },
       {
-        "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
-        "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "GOLF+ is hosting its first VR Open this week, offering a grand prize trip to St. Andrews for the winner.",
+        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
+        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
+        "summary": "Valve has created a new store page for its upcoming Steam Frame headset, hinting at its imminent release.",
         "source": "roadtovr.com",
-        "date": "Tue, 14 Jul 2026 09:05:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
-        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
-        "summary": "Discovery: Rogue Planet, a story-driven sci-fi shooter, is set to launch on PC VR and Quest 3 in August.",
-        "source": "uploadvr.com",
-        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
+        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Google is renaming NotebookLM to Gemini Notebook",
         "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google has rebranded its AI note-taking app from NotebookLM to Gemini Notebook, integrating it further with Google services.",
+        "summary": "Google has renamed its AI note-taking app from NotebookLM to Gemini Notebook, while enhancing its integration with Google Search.",
         "source": "theverge.com",
         "date": "2026-07-16T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Apple’s plot to crush OpenAI",
+        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "summary": "Apple has filed a lawsuit against OpenAI, raising concerns about competition and the future of AI technologies.",
+        "source": "theverge.com",
+        "date": "2026-07-17T13:41:32-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "TikTok is testing an AI likeness detection tool",
         "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "summary": "TikTok is testing an AI likeness detection tool that allows creators to report AI-generated content.",
+        "summary": "TikTok is testing a new AI tool to detect and report AI-generated likenesses, enhancing content authenticity.",
         "source": "theverge.com",
         "date": "2026-07-17T15:34:30-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,34 +79,26 @@
       {
         "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul is utilizing AI to analyze all state rules and regulations, despite a moratorium on new data centers.",
+        "summary": "New York Governor Kathy Hochul is utilizing AI to analyze state regulations, despite a moratorium on new AI data centers.",
         "source": "theverge.com",
         "date": "2026-07-16T13:58:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+        "summary": "A report reveals that enterprises are rapidly increasing AI infrastructure spending, outpacing their ability to manage costs.",
+        "source": "venturebeat.com",
+        "date": "Thu, 16 Jul 2026 19:16:48 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
+      },
+      {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password has launched a new integration allowing Claude to access users' stored credentials for streamlined task management.",
+        "summary": "1Password has launched a new feature allowing Claude to access user credentials for streamlined online tasks.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Apple’s plot to crush OpenAI",
-        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-        "summary": "Apple has initiated legal action against OpenAI, raising questions about its intentions and the implications for AI development.",
-        "source": "theverge.com",
-        "date": "2026-07-17T13:41:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-        "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-        "summary": "Energy IPOs are surging as investors seek opportunities to capitalize on the booming AI market.",
-        "source": "arstechnica.com",
-        "date": "Thu, 16 Jul 2026 15:48:21 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_2c2b4618-eb73-4160-997a-8f8bb5485e20-1152x648.jpeg"
       }
     ],
     "NFL": [
@@ -135,20 +135,20 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
       },
       {
-        "title": "Saquon Barkley's home was invaded on Saturday morning",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkleys-home-was-invaded-on-saturday-morning",
-        "summary": "Eagles running back Saquon Barkley's home was invaded early Saturday morning.",
+        "title": "As training camps prepare to open, NFL Network remains off of Comcast Xfinity",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-training-camps-prepare-to-open-nfl-network-remains-off-of-comcast-xfinity",
+        "summary": "The ongoing dispute between NFL Network and Comcast Xfinity may affect access to NFL RedZone for customers.",
         "source": "nbcsports.com",
-        "date": "Sat, 18 Jul 2026 22:15:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
+        "date": "Sat, 18 Jul 2026 19:20:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5654277/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnewthumbnail.jpg"
       },
       {
-        "title": "NFLPA tries to shame owners into embracing grass fields",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-tries-to-shame-owners-into-embracing-grass-fields",
-        "summary": "The NFLPA is pressuring team owners to adopt grass fields to improve player safety.",
+        "title": "Eric DeCosta: Last year was a \"lost season\" for Rashod Bateman, this year we're excited",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eric-decosta-last-year-was-a-lost-season-for-rashod-bateman-this-year-were-excited",
+        "summary": "Ravens GM Eric DeCosta expressed optimism for Rashod Bateman's performance this season after a challenging previous year.",
         "source": "nbcsports.com",
-        "date": "Sat, 18 Jul 2026 10:59:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
+        "date": "Sat, 18 Jul 2026 04:39:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0d62694/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F363%2F995%2Fnbc_pftpm_jacksonrank_260714.jpg"
       }
     ]
   }
