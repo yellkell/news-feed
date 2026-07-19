@@ -1,27 +1,19 @@
 {
-  "updated": "2026-07-19T06:24:27.230Z",
+  "updated": "2026-07-19T08:41:14.841Z",
   "feed": {
     "VR": [
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve's significant SteamVR update hints at the imminent launch of its standalone headset, Steam Frame.",
+        "summary": "Valve has released a significant SteamVR update, signaling the imminent launch of its standalone VR headset, Steam Frame.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
-        "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises questions about the future of its R2 headset.",
-        "source": "roadtovr.com",
-        "date": "Thu, 16 Jul 2026 07:20:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
         "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve has launched a new store page for Steam Frame content, signaling a potential release date for its standalone VR headset.",
+        "summary": "Valve has launched a new store page for Steam Frame, hinting at the upcoming release of its long-awaited standalone VR headset.",
         "source": "roadtovr.com",
         "date": "Fri, 10 Jul 2026 15:35:06 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -35,17 +27,25 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
       },
       {
-        "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
-        "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "Forefront, a Battlefield-like VR FPS, has received a major update enhancing gameplay features.",
+        "title": "Open-World Base-Building Action Game StarRupture Coming To Meta Quest 3",
+        "url": "https://www.uploadvr.com/open-world-base-building-action-game-starrupture-coming-to-meta-quest-3/",
+        "summary": "Incuvo announces the upcoming release of StarRupture, an open-world base-building action game for Meta Quest 3.",
         "source": "uploadvr.com",
-        "date": "Thu, 16 Jul 2026 11:40:12 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
+        "date": "Thu, 16 Jul 2026 12:28:03 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/HNXJgB8XwAAI69R.jpg"
+      },
+      {
+        "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
+        "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
+        "summary": "EssilorLuxottica has acquired French XR startup Lynx, raising questions about the future of its R2 headset.",
+        "source": "roadtovr.com",
+        "date": "Thu, 16 Jul 2026 07:20:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
         "url": "https://www.uploadvr.com/hellsplit-arena-to-get-sandbox-mode-bring-mod-support-to-meta-quest/",
-        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support for Meta Quest, expanding its gameplay options.",
+        "summary": "Hellsplit: Arena is set to receive a sandbox mode and mod support for Meta Quest, expanding its gameplay options.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 10:44:06 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
@@ -55,31 +55,31 @@
       {
         "title": "Google is renaming NotebookLM to Gemini Notebook",
         "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google has rebranded its AI note-taking app from NotebookLM to Gemini Notebook, enhancing integration across its platforms.",
+        "summary": "Google has renamed its AI note-taking app from NotebookLM to Gemini Notebook, enhancing its integration with Google services.",
         "source": "theverge.com",
         "date": "2026-07-16T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul is leveraging AI to analyze state regulations and policies, despite a moratorium on new AI data centers.",
-        "source": "theverge.com",
-        "date": "2026-07-16T13:58:37-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "TikTok is testing an AI likeness detection tool",
         "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "summary": "TikTok is testing an AI likeness detection tool to help creators report unauthorized AI-generated content.",
+        "summary": "TikTok is testing an opt-in AI likeness detection tool to help creators report AI-generated content.",
         "source": "theverge.com",
         "date": "2026-07-17T15:34:30-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+        "summary": "New York Governor Kathy Hochul is utilizing AI to analyze state regulations and policies despite a moratorium on new AI data centers.",
+        "source": "theverge.com",
+        "date": "2026-07-16T13:58:37-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password has integrated with Claude, allowing the AI to access stored credentials for streamlined online tasks.",
+        "summary": "1Password has launched a new feature allowing Claude to access stored credentials, enabling users to complete tasks more efficiently.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,21 +87,29 @@
       {
         "title": "Apple’s plot to crush OpenAI",
         "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-        "summary": "Apple has filed a lawsuit against OpenAI, raising significant questions about competition and the future of AI development.",
+        "summary": "Apple is suing OpenAI, raising questions about the tech giant's strategy against its AI competitor.",
         "source": "theverge.com",
         "date": "2026-07-17T13:41:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google ordered to open Android and Search to rivals in Europe",
-        "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-        "summary": "The European Union has mandated Google to provide rival AI assistants greater access to Android and Search, impacting its market dominance.",
+        "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+        "summary": "xAI is suing a South Carolina man for allegedly using its Grok AI chatbot to generate child sexual abuse material.",
         "source": "theverge.com",
-        "date": "2026-07-16T08:06:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-15T17:33:20-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
+      {
+        "title": "Dak Prescott: It's Super Bowl or bust every year for the Cowboys",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-its-super-bowl-or-bust-every-year-for-the-cowboys",
+        "summary": "Cowboys coach Brian Schottenheimer emphasizes Super Bowl aspirations, stating it's 'Super Bowl or bust' for the team this season.",
+        "source": "nbcsports.com",
+        "date": "Sat, 18 Jul 2026 20:36:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
+      },
       {
         "title": "Ravens agree to one-year deal with C Ethan Pocic",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-one-year-deal-with-c-ethan-pocic",
@@ -119,22 +127,6 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5654277/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnewthumbnail.jpg"
       },
       {
-        "title": "Seahawks place rookie DT Deven Eastern on PUP",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-place-rookie-dt-deven-eastern-on-pup",
-        "summary": "Seahawks rookie defensive tackle Deven Eastern has been placed on the active/physically unable to perform list.",
-        "source": "nbcsports.com",
-        "date": "Sat, 18 Jul 2026 17:44:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
-      },
-      {
-        "title": "NFLPA tries to shame owners into embracing grass fields",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-tries-to-shame-owners-into-embracing-grass-fields",
-        "summary": "The NFLPA is pushing for grass fields in response to player safety concerns amid ongoing collective bargaining challenges.",
-        "source": "nbcsports.com",
-        "date": "Sat, 18 Jul 2026 10:59:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
-      },
-      {
         "title": "Seahawks plan a heavy workload for rookie RB Jadarian Price, maybe including kick returns",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-plan-a-heavy-workload-for-rookie-rb-jadarian-price-maybe-including-kick-returns",
         "summary": "The Seahawks plan to give rookie running back Jadarian Price a significant workload, potentially including kick returns.",
@@ -143,12 +135,20 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
       },
       {
-        "title": "Bills Parcells still talks regularly to Sean Payton, Todd Bowles",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-parcells-still-talks-regularly-to-sean-payton-todd-bowles",
-        "summary": "Hall of Fame coach Bill Parcells remains active in the NFL, staying connected with current coaches like Sean Payton.",
+        "title": "Seahawks place rookie DT Deven Eastern on PUP",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-place-rookie-dt-deven-eastern-on-pup",
+        "summary": "The Seahawks have placed rookie defensive tackle Deven Eastern on the physically unable to perform list as training camps begin.",
         "source": "nbcsports.com",
-        "date": "Sat, 18 Jul 2026 19:37:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3fffa3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F227%2Fnbc_pftpm_paytonufl_260713.jpg"
+        "date": "Sat, 18 Jul 2026 17:44:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
+      },
+      {
+        "title": "The final bidding for the Seahawks was very close",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-final-bidding-for-the-seahawks-was-very-close",
+        "summary": "The final bidding for the Seattle Seahawks was closely contested, with a specific decision influencing the outcome.",
+        "source": "nbcsports.com",
+        "date": "Sat, 18 Jul 2026 23:36:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
       }
     ]
   }
