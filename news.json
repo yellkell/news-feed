@@ -1,22 +1,22 @@
 {
-  "updated": "2026-07-19T22:08:50.329Z",
+  "updated": "2026-07-19T23:08:35.006Z",
   "feed": {
     "VR": [
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve has released a significant SteamVR update, signaling the imminent launch of its standalone VR headset, Steam Frame.",
+        "summary": "Valve's latest SteamVR update hints at the imminent launch of its standalone VR headset, Steam Frame, enhancing the VR experience with new features.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
-        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
-        "summary": "Valve has launched a new store page for Steam Frame content, hinting at the upcoming release of its long-awaited standalone VR headset.",
+        "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
+        "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
+        "summary": "EssilorLuxottica's acquisition of French XR startup Lynx raises questions about the future release of the R2 headset.",
         "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Thu, 16 Jul 2026 07:20:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
@@ -29,7 +29,7 @@
       {
         "title": "Forefront Update v4.0.153 - Everything New In Today's Major Update",
         "url": "https://www.uploadvr.com/forefront-update-v4-0-153-everything-new-in-todays-major-update/",
-        "summary": "The popular VR FPS Forefront has received a major update, introducing new features and gameplay enhancements.",
+        "summary": "Forefront, a 32-player VR FPS, has received a major update, introducing new features and gameplay enhancements.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 11:40:12 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/de9bad5e136caaae7be023ce455c261f2fb0553d.png"
@@ -37,29 +37,21 @@
       {
         "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
         "url": "https://www.uploadvr.com/hellsplit-arena-to-get-sandbox-mode-bring-mod-support-to-meta-quest/",
-        "summary": "Hellsplit: Arena will soon include a sandbox mode and mod support for Meta Quest, expanding its gameplay options.",
+        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support for Meta Quest, expanding gameplay options for users.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 10:44:06 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
       },
       {
-        "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
-        "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
-        "summary": "Apple has published detailed specifications for third-party motion controllers compatible with its Vision Pro headset.",
+        "title": "Steam Frame Launch Nears as Valve Releases ‘Great on Frame’ Store Page",
+        "url": "https://roadtovr.com/valve-ready-steam-frame-release-store-page/",
+        "summary": "Valve has launched a new store page for its upcoming Steam Frame headset, signaling an approaching release.",
         "source": "roadtovr.com",
-        "date": "Fri, 10 Jul 2026 19:41:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
+        "date": "Fri, 10 Jul 2026 15:35:06 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
-      {
-        "title": "Apple’s plot to crush OpenAI",
-        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-        "summary": "Apple is suing OpenAI, raising questions about its motivations and the implications for AI technology.",
-        "source": "theverge.com",
-        "date": "2026-07-17T13:41:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
       {
         "title": "Google is renaming NotebookLM to Gemini Notebook",
         "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
@@ -69,9 +61,17 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Apple’s plot to crush OpenAI",
+        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "summary": "Apple has filed a lawsuit against OpenAI, raising significant questions about the future of AI competition.",
+        "source": "theverge.com",
+        "date": "2026-07-17T13:41:32-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "TikTok is testing an AI likeness detection tool",
         "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "summary": "TikTok is testing a new AI likeness detection tool that allows creators to report AI-generated content.",
+        "summary": "TikTok is testing a new AI likeness detection tool that allows creators to report unauthorized AI-generated content.",
         "source": "theverge.com",
         "date": "2026-07-17T15:34:30-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +79,7 @@
       {
         "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul is utilizing AI to analyze state regulations and policies, despite a moratorium on new AI data centers.",
+        "summary": "New York Governor Kathy Hochul is utilizing AI to analyze state regulations, despite a moratorium on new AI data centers.",
         "source": "theverge.com",
         "date": "2026-07-16T13:58:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
         "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "summary": "A report reveals that enterprises are rapidly investing in AI infrastructure, outpacing their ability to manage costs.",
+        "summary": "A report reveals that enterprises are rapidly investing in AI infrastructure, outpacing their ability to measure costs.",
         "source": "venturebeat.com",
         "date": "Thu, 16 Jul 2026 19:16:48 GMT",
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
@@ -95,7 +95,7 @@
       {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password has introduced a new feature allowing its Claude chatbot to access user credentials for streamlined task management.",
+        "summary": "1Password has launched a new feature allowing its Claude chatbot to access stored credentials for seamless task management.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -105,50 +105,50 @@
       {
         "title": "Authorities will explore whether Saquon Barkley burglary was part of a broader ring",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/authorities-will-explore-whether-saquon-barkley-burglary-was-part-of-a-broader-ring",
-        "summary": "Authorities are investigating whether the burglary of Saquon Barkley's home is linked to a broader pattern targeting NFL players.",
+        "summary": "Authorities are investigating whether Saquon Barkley's home burglary is linked to a broader criminal ring targeting NFL players.",
         "source": "nbcsports.com",
         "date": "Sun, 19 Jul 2026 14:34:49 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
       },
       {
-        "title": "Dak Prescott: It's Super Bowl or bust every year for the Cowboys",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-its-super-bowl-or-bust-every-year-for-the-cowboys",
-        "summary": "Cowboys quarterback Dak Prescott emphasizes that the team's goal is to win the Super Bowl every year.",
+        "title": "Cardinals executive Ryan Gold's lawyer says gambling accusations are \"blatantly false\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-executive-ryan-golds-lawyer-says-gambling-accusations-are-blatantly-false",
+        "summary": "Cardinals executive Ryan Gold plans to appeal his indefinite suspension amid gambling accusations he claims are false.",
         "source": "nbcsports.com",
-        "date": "Sat, 18 Jul 2026 20:36:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
+        "date": "Sun, 19 Jul 2026 18:26:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5654277/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnewthumbnail.jpg"
       },
       {
         "title": "49ers sign rookie P Jack Bouwmeester",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-rookie-p-jack-bouwmeester",
-        "summary": "The 49ers have signed rookie punter Jack Bouwmeester to a three-year contract.",
+        "summary": "The 49ers have signed rookie punter Jack Bouwmeester to a three-year contract, bolstering their special teams.",
         "source": "nbcsports.com",
         "date": "Sat, 18 Jul 2026 17:34:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5654277/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnewthumbnail.jpg"
       },
       {
-        "title": "Seahawks plan a heavy workload for rookie RB Jadarian Price, maybe including kick returns",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-plan-a-heavy-workload-for-rookie-rb-jadarian-price-maybe-including-kick-returns",
-        "summary": "The Seahawks plan to give rookie running back Jadarian Price a significant workload, potentially including kick returns.",
+        "title": "Saquon Barkley's home was invaded on Saturday morning",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkleys-home-was-invaded-on-saturday-morning",
+        "summary": "Saquon Barkley's home was invaded while he and his family were present, raising safety concerns for NFL players.",
         "source": "nbcsports.com",
-        "date": "Sat, 18 Jul 2026 09:19:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7f3432/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F727%2Fnbc_pftpm_seahawkssale_260713.jpg"
+        "date": "Sat, 18 Jul 2026 22:15:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
+      },
+      {
+        "title": "Dak Prescott: It's Super Bowl or bust every year for the Cowboys",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-its-super-bowl-or-bust-every-year-for-the-cowboys",
+        "summary": "Cowboys quarterback Dak Prescott declares it's Super Bowl or bust for Dallas this season, emphasizing championship aspirations.",
+        "source": "nbcsports.com",
+        "date": "Sat, 18 Jul 2026 20:36:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
       },
       {
         "title": "Seahawks place rookie DT Deven Eastern on PUP",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-place-rookie-dt-deven-eastern-on-pup",
-        "summary": "The Seahawks have placed rookie defensive tackle Deven Eastern on the physically unable to perform list.",
+        "summary": "The Seahawks have placed rookie defensive tackle Deven Eastern on the physically unable to perform list as training camps begin.",
         "source": "nbcsports.com",
         "date": "Sat, 18 Jul 2026 17:44:09 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
-      },
-      {
-        "title": "Bills Parcells still talks regularly to Sean Payton, Todd Bowles",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-parcells-still-talks-regularly-to-sean-payton-todd-bowles",
-        "summary": "Hall of Fame coach Bill Parcells continues to stay connected with the NFL, regularly communicating with coaches like Sean Payton.",
-        "source": "nbcsports.com",
-        "date": "Sat, 18 Jul 2026 19:37:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3fffa3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F270%2F227%2Fnbc_pftpm_paytonufl_260713.jpg"
       }
     ]
   }
