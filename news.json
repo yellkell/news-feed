@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-20T16:13:18.401Z",
+  "updated": "2026-07-20T18:19:28.043Z",
   "feed": {
     "VR": [
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve has released a major SteamVR update, signaling the imminent launch of its standalone VR headset, Steam Frame.",
+        "summary": "Valve has released a significant update for SteamVR, signaling an imminent launch of its standalone VR headset, Steam Frame.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
         "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
-        "summary": "Magic Leap has laid off nearly 200 employees as it shifts focus to becoming a waveguide supplier for AR glasses.",
+        "summary": "Magic Leap is laying off nearly 200 employees as it shifts focus to becoming a waveguide supplier for AR glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 20 Jul 2026 10:43:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,7 +21,7 @@
       {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
         "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica has acquired French XR startup Lynx, casting doubt on the future release of its R2 headset.",
+        "summary": "EssilorLuxottica has acquired French XR startup Lynx, raising questions about the future of its R2 headset.",
         "source": "roadtovr.com",
         "date": "Thu, 16 Jul 2026 07:20:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -29,7 +29,7 @@
       {
         "title": "Open-World Base-Building Action Game StarRupture Coming To Meta Quest 3",
         "url": "https://www.uploadvr.com/open-world-base-building-action-game-starrupture-coming-to-meta-quest-3/",
-        "summary": "The open-world base-building game StarRupture is set to launch on Meta Quest 3, expanding the platform's game library.",
+        "summary": "Incuvio announced the upcoming port of the open-world base-building game StarRupture to Meta Quest 3.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 12:28:03 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/HNXJgB8XwAAI69R.jpg"
@@ -37,7 +37,7 @@
       {
         "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
         "url": "https://www.uploadvr.com/hellsplit-arena-to-get-sandbox-mode-bring-mod-support-to-meta-quest/",
-        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support for Meta Quest, enhancing user experience.",
+        "summary": "Hellsplit: Arena will soon introduce a sandbox mode and mod support for Meta Quest.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 10:44:06 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
@@ -45,7 +45,7 @@
       {
         "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
         "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "GOLF+ is hosting its first VR Open with a grand prize trip to St. Andrews for the 2027 championship.",
+        "summary": "GOLF+ is launching its first VR Open, offering a grand prize trip to St. Andrews for the winner.",
         "source": "roadtovr.com",
         "date": "Tue, 14 Jul 2026 09:05:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -55,10 +55,18 @@
       {
         "title": "China delivers a one-two punch to America’s AI dominance",
         "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-        "summary": "China's AI firms, including Moonshot and Alibaba, are challenging America's dominance with competitive models at lower costs.",
+        "summary": "China's AI companies are unveiling competitive models to challenge American firms, intensifying the race for AI dominance.",
         "source": "theverge.com",
         "date": "2026-07-20T06:16:33-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "TikTok is testing an AI likeness detection tool",
+        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+        "summary": "TikTok is testing an AI likeness detection tool that allows creators to report AI-generated content.",
+        "source": "theverge.com",
+        "date": "2026-07-17T15:34:30-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
@@ -69,39 +77,47 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "TikTok is testing an AI likeness detection tool",
-        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "summary": "TikTok is testing an AI tool that detects likenesses of users, allowing creators to report potential misuse.",
-        "source": "theverge.com",
-        "date": "2026-07-17T15:34:30-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Google is renaming NotebookLM to Gemini Notebook",
         "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-        "summary": "Google has renamed its AI note-taking app from NotebookLM to Gemini Notebook, while enhancing its integration across platforms.",
+        "summary": "Google has rebranded its AI note-taking app from NotebookLM to Gemini Notebook, enhancing its integration with Google services.",
         "source": "theverge.com",
         "date": "2026-07-16T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "summary": "A majority of enterprises report having experienced AI agent incidents, highlighting security concerns in AI deployment.",
-        "source": "venturebeat.com",
-        "date": "Thu, 16 Jul 2026 19:02:38 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30"
-      },
-      {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-        "summary": "1Password has launched a new feature allowing Claude to access stored credentials for seamless task completion.",
+        "summary": "1Password has introduced a feature allowing Claude to access stored credentials for seamless task management.",
         "source": "theverge.com",
         "date": "2026-07-16T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+        "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+        "summary": "Adobe's camera app is being updated with generative AI tools to enhance iPhone photography.",
+        "source": "theverge.com",
+        "date": "2026-07-20T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
+      {
+        "title": "Report: Owners expect another extension for Roger Goodell \"in the coming months\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-owners-expect-another-extension-for-roger-goodell-in-the-coming-months",
+        "summary": "NFL owners anticipate another contract extension for Roger Goodell as his current deal nears expiration.",
+        "source": "nbcsports.com",
+        "date": "Mon, 20 Jul 2026 13:59:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a9a465/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F923%2Fnbc_pft_brianflores_260716.jpg"
+      },
+      {
+        "title": "Four rookie quarterbacks remain unsigned, including Fernando Mendoza",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/four-rookie-quarterbacks-remain-unsigned-including-fernando-mendoza",
+        "summary": "Four rookie quarterbacks, including Fernando Mendoza, remain unsigned as training camps approach.",
+        "source": "nbcsports.com",
+        "date": "Mon, 20 Jul 2026 12:56:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6afcc0a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F494%2F350%2Fnbc_pftpm_raiderqbs_260715.jpg"
+      },
       {
         "title": "Bengals announce \"White Bengal Stripe\" game vs. Ravens on New Year's Eve",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-announce-white-bengal-stripe-game-vs-ravens-on-new-years-eve",
@@ -111,44 +127,28 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/fa1e219/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F259%2F219%2Fnbc_pft_joeburrowcontract_260610.jpg"
       },
       {
-        "title": "Bengals to hold six open training camp practices",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-to-hold-six-open-training-camp-practices",
-        "summary": "The Bengals are opening six training camp practices to the public as they prepare for the upcoming season.",
+        "title": "Le'Veon Bell is jailed in Canton",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/leveon-bell-is-jailed-in-canton",
+        "summary": "Former NFL running back Le'Veon Bell has been arrested in Canton, Ohio, related to child support issues.",
         "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 10:25:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0b2da88/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F595%2Fnbc_pftpm_burleson_260717.jpg"
+        "date": "Mon, 20 Jul 2026 09:54:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c96696e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F58%2Fnbc_pftpm_rodgerstour_260713.jpg"
       },
       {
         "title": "Authorities will explore whether Saquon Barkley burglary was part of a broader ring",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/authorities-will-explore-whether-saquon-barkley-burglary-was-part-of-a-broader-ring",
-        "summary": "Authorities are investigating whether the burglary of Saquon Barkley's home is linked to a broader crime ring.",
+        "summary": "Authorities are investigating whether the burglary of Saquon Barkley's home is part of a larger crime ring.",
         "source": "nbcsports.com",
         "date": "Sun, 19 Jul 2026 14:34:49 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
       },
       {
-        "title": "Shedeur Sanders on QB battle with Deshaun Watson: We’re both trying to be the best version of ourselves",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-on-qb-battle-with-deshaun-watson-were-both-trying-to-be-the-best-version-of-ourselves",
-        "summary": "Shedeur Sanders and Deshaun Watson are set for a competitive QB battle as training camp approaches.",
+        "title": "L'Jarius Sneed plans to \"reclaim who I am\" in return to Chiefs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ljarius-sneed-plans-to-reclaim-who-i-am-in-return-to-chiefs",
+        "summary": "Cornerback L'Jarius Sneed is eager to reclaim his form as he returns to the Chiefs for the upcoming season.",
         "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 11:52:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
-      },
-      {
-        "title": "Drake Maye tells campers his lesson from the Super Bowl is \"I have to play better\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-tells-campers-his-lesson-from-the-super-bowl-is-i-have-to-play-better",
-        "summary": "Patriots quarterback Drake Maye reflects on his Super Bowl loss, emphasizing the need for personal improvement.",
-        "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 10:23:51 -0400",
+        "date": "Mon, 20 Jul 2026 13:15:27 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e04426c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnbc_pftpm_mailbag_260717.jpg"
-      },
-      {
-        "title": "Cardinals executive Ryan Gold's lawyer says gambling accusations are \"blatantly false\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-executive-ryan-golds-lawyer-says-gambling-accusations-are-blatantly-false",
-        "summary": "Ryan Gold's lawyer asserts that allegations of gambling violations against the Cardinals executive are 'blatantly false'.",
-        "source": "nbcsports.com",
-        "date": "Sun, 19 Jul 2026 18:26:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5654277/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnewthumbnail.jpg"
       }
     ]
   }
