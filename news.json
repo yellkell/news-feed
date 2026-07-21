@@ -1,14 +1,22 @@
 {
-  "updated": "2026-07-20T23:38:08.161Z",
+  "updated": "2026-07-21T01:06:22.759Z",
   "feed": {
     "VR": [
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve has released a significant SteamVR update, hinting at the imminent launch of its standalone VR headset, Steam Frame.",
+        "summary": "Valve has released a significant SteamVR update, signaling the imminent launch of its standalone VR headset, Steam Frame.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
+        "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
+        "summary": "Magic Leap is laying off nearly 200 employees as it shifts focus to becoming a waveguide supplier for AR glasses.",
+        "source": "roadtovr.com",
+        "date": "Mon, 20 Jul 2026 10:43:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
@@ -21,49 +29,33 @@
       {
         "title": "Open-World Base-Building Action Game StarRupture Coming To Meta Quest 3",
         "url": "https://www.uploadvr.com/open-world-base-building-action-game-starrupture-coming-to-meta-quest-3/",
-        "summary": "Incuvio announced the port of the open-world base-building game StarRupture to Meta Quest 3 headsets.",
+        "summary": "Incuvio has announced the port of its open-world base-building game StarRupture to Meta Quest 3.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 12:28:03 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/HNXJgB8XwAAI69R.jpg"
       },
       {
-        "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
-        "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "GOLF+ kicks off its first VR Open this week, offering players a chance to win a trip to St. Andrews.",
-        "source": "roadtovr.com",
-        "date": "Tue, 14 Jul 2026 09:05:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Hellsplit: Arena To Get Sandbox Mode & Bring Mod Support To Meta Quest",
         "url": "https://www.uploadvr.com/hellsplit-arena-to-get-sandbox-mode-bring-mod-support-to-meta-quest/",
-        "summary": "Hellsplit: Arena will introduce a sandbox mode and mod support on Meta Quest, expanding its gameplay options.",
+        "summary": "Deep Type Games is introducing a sandbox mode and mod support for Hellsplit: Arena on Meta Quest.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 10:44:06 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault--5-.jpg"
       },
       {
-        "title": "Tactical Assault VR Owner Steps Down After Community Response To Prior Criminal Conviction",
-        "url": "https://www.uploadvr.com/tactical-assault-vr-owner-steps-down-after-community-response-to-prior-criminal-conviction/",
-        "summary": "The owner of Tactical Assault VR steps down following backlash over a past criminal conviction.",
-        "source": "uploadvr.com",
-        "date": "Fri, 17 Jul 2026 12:22:10 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/LVE3KHKyqTE-HD--1-.jpg"
+        "title": "Apple Publishes Detailed Technical Specifications for Third-party Vision Pro Motion Controllers",
+        "url": "https://roadtovr.com/apple-publishes-detailed-technical-specifications-for-third-party-vision-pro-motion-controllers/",
+        "summary": "Apple has published technical specifications for third-party motion controllers compatible with its Vision Pro headset.",
+        "source": "roadtovr.com",
+        "date": "Fri, 10 Jul 2026 19:41:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/visionos-27-motion-controller-2.jpg?resize=1395%2C930&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
-        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-        "summary": "Sony Music has filed a lawsuit against Udio, claiming its AI music generator infringes on over 30,000 copyrighted songs.",
-        "source": "theverge.com",
-        "date": "2026-07-20T18:19:12-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "China delivers a one-two punch to America’s AI dominance",
         "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-        "summary": "Chinese AI companies are intensifying competition with Silicon Valley, unveiling models that rival OpenAI's offerings at lower costs.",
+        "summary": "China's AI companies, including Moonshot and Alibaba, are launching competitive models that threaten America's dominance in the sector.",
         "source": "theverge.com",
         "date": "2026-07-20T06:16:33-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +63,7 @@
       {
         "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
         "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-        "summary": "Adobe's updated camera app now features generative AI tools, enhancing its capability to create a natural look in photography.",
+        "summary": "Adobe's updated camera app now incorporates generative AI tools, enhancing its natural photography capabilities.",
         "source": "theverge.com",
         "date": "2026-07-20T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +71,7 @@
       {
         "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
         "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-        "summary": "New York Governor Kathy Hochul reveals her team is using AI to analyze state regulations and policies.",
+        "summary": "New York Governor Kathy Hochul is utilizing AI to analyze state regulations, despite a moratorium on new AI data centers.",
         "source": "theverge.com",
         "date": "2026-07-16T13:58:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,15 +79,23 @@
       {
         "title": "TikTok is testing an AI likeness detection tool",
         "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "summary": "TikTok is testing an AI likeness detection tool to help creators report unauthorized AI-generated content.",
+        "summary": "TikTok is testing an AI likeness detection tool that allows creators to report AI-generated content.",
         "source": "theverge.com",
         "date": "2026-07-17T15:34:30-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Google is renaming NotebookLM to Gemini Notebook",
+        "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+        "summary": "Google has rebranded its AI note-taking app from NotebookLM to Gemini Notebook while enhancing its integration with other services.",
+        "source": "theverge.com",
+        "date": "2026-07-16T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
         "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "summary": "A report indicates that enterprises are rapidly increasing AI infrastructure spending, outpacing their ability to manage costs.",
+        "summary": "Enterprises are rapidly increasing AI infrastructure spending, outpacing their ability to measure costs effectively.",
         "source": "venturebeat.com",
         "date": "Thu, 16 Jul 2026 19:16:48 GMT",
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
@@ -105,7 +105,7 @@
       {
         "title": "Devonte Wyatt agrees to three-year extension with Packers",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devonte-wyatt-agrees-to-three-year-extension-with-packers",
-        "summary": "Packers defensive tackle Devonte Wyatt has agreed to a three-year contract extension, securing his future with the team.",
+        "summary": "The Packers have secured defensive tackle Devonte Wyatt with a three-year contract extension.",
         "source": "nbcsports.com",
         "date": "Mon, 20 Jul 2026 15:24:05 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/bff51d9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F924%2F31%2Fnbc_pft_packersownership_260720.jpg"
@@ -113,42 +113,42 @@
       {
         "title": "Free agent S Jordan Whitehead cleared to return to football activities",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-s-jordan-whitehead-cleared-to-return-to-football-activities",
-        "summary": "Free agent safety Jordan Whitehead has been cleared to resume football activities, marking a return to his career.",
+        "summary": "Free agent safety Jordan Whitehead has been cleared to resume football activities after his recovery.",
         "source": "nbcsports.com",
         "date": "Mon, 20 Jul 2026 18:55:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0b9237/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F554%2Fnbc_pft_nflpagrass_260720.jpg"
       },
       {
+        "title": "Shedeur Sanders on QB battle with Deshaun Watson: We’re both trying to be the best version of ourselves",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-on-qb-battle-with-deshaun-watson-were-both-trying-to-be-the-best-version-of-ourselves",
+        "summary": "Shedeur Sanders and Deshaun Watson are set to compete for the starting quarterback position in Cleveland's training camp.",
+        "source": "nbcsports.com",
+        "date": "Mon, 20 Jul 2026 11:52:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b295c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F923%2Fnbc_pftpm_brownsqbs_260715.jpg"
+      },
+      {
+        "title": "Ravens expect LB Teddye Buchanan to return from torn ACL \"sooner than later\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-expect-lb-teddye-buchanan-to-return-from-torn-acl-sooner-than-later",
+        "summary": "Ravens GM Eric DeCosta provided a positive update on linebacker Teddye Buchanan's recovery from a torn ACL.",
+        "source": "nbcsports.com",
+        "date": "Mon, 20 Jul 2026 14:43:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
+      },
+      {
         "title": "Seahawks place Nick Emmanwori, Kenny McIntosh, Tyrone Broden on PUP list",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-place-nick-emmanwori-kenny-mcintosh-tyrone-broden-on-pup-list",
-        "summary": "The Seahawks have placed Nick Emmanwori, Kenny McIntosh, and Tyrone Broden on the PUP list as training camp begins.",
+        "summary": "The Seahawks have placed Nick Emmanwori, Kenny McIntosh, and Tyrone Broden on the PUP list ahead of training camp.",
         "source": "nbcsports.com",
         "date": "Mon, 20 Jul 2026 16:25:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2da9000/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_seahawksbidding_260720.jpg"
       },
       {
-        "title": "Patriots re-sign DT Isaiah Iton",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-re-sign-dt-isaiah-iton",
-        "summary": "The Patriots have re-signed defensive tackle Isaiah Iton, adding depth to their defensive lineup.",
+        "title": "Report: Owners expect another extension for Roger Goodell \"in the coming months\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-owners-expect-another-extension-for-roger-goodell-in-the-coming-months",
+        "summary": "NFL owners are reportedly anticipating another contract extension for Commissioner Roger Goodell in the near future.",
         "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 14:21:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e04426c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnbc_pftpm_mailbag_260717.jpg"
-      },
-      {
-        "title": "L'Jarius Sneed plans to \"reclaim who I am\" in return to Chiefs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ljarius-sneed-plans-to-reclaim-who-i-am-in-return-to-chiefs",
-        "summary": "Chiefs cornerback L'Jarius Sneed aims to reclaim his top form as he returns to the team for the upcoming season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 13:15:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e04426c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnbc_pftpm_mailbag_260717.jpg"
-      },
-      {
-        "title": "Report: ESPN cuts ties with Ryan Clark",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-espn-cuts-ties-with-ryan-clark",
-        "summary": "ESPN has reportedly cut ties with analyst Ryan Clark, marking the beginning of anticipated layoffs.",
-        "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 17:19:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0b2da88/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F595%2Fnbc_pftpm_burleson_260717.jpg"
+        "date": "Mon, 20 Jul 2026 13:59:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a9a465/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F923%2Fnbc_pft_brianflores_260716.jpg"
       }
     ]
   }
