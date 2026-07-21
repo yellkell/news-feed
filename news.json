@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-21T12:53:28.309Z",
+  "updated": "2026-07-21T14:58:32.725Z",
   "feed": {
     "VR": [
       {
+        "title": "Gentle Monster Plans Massive North America & Europe Retail Expansion Amid Smart Glasses Rollout",
+        "url": "https://roadtovr.com/gentle-monster-north-america-eu-smart-glasses-expansion/",
+        "summary": "Gentle Monster plans a major retail expansion in North America and Europe alongside the launch of its first smart glasses this fall.",
+        "source": "roadtovr.com",
+        "date": "Tue, 21 Jul 2026 12:20:22 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gentle-montser-smart.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve has released a significant update to SteamVR, hinting at the upcoming launch of its standalone VR headset, Steam Frame.",
+        "summary": "Valve has released a significant update to SteamVR, hinting at the imminent launch of its standalone VR headset, Steam Frame.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
@@ -13,18 +21,18 @@
       {
         "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
         "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
-        "summary": "Magic Leap announces a pivot to become a waveguide supplier, resulting in nearly 200 job cuts amid ongoing business restructuring.",
+        "summary": "Magic Leap is pivoting to become a waveguide supplier, resulting in nearly 200 job cuts amid its restructuring.",
         "source": "roadtovr.com",
         "date": "Mon, 20 Jul 2026 10:43:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
-        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
-        "summary": "Discovery: Rogue Planet, a new story-driven sci-fi shooter, is set to launch on PC VR and Quest 3 in August.",
+        "title": "G-Rebels Out Now On Steam With VR Support",
+        "url": "https://www.uploadvr.com/g-rebels-out-now-on-steam-with-vr-support/",
+        "summary": "Action-combat flight sim G-Rebels has officially launched in Early Access on Steam, now featuring VR support.",
         "source": "uploadvr.com",
-        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
+        "date": "Tue, 21 Jul 2026 01:12:35 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/G-Rebels-Key-Art---no-logos-2-1.jpg"
       },
       {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
@@ -35,27 +43,19 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "G-Rebels Out Now On Steam With VR Support",
-        "url": "https://www.uploadvr.com/g-rebels-out-now-on-steam-with-vr-support/",
-        "summary": "G-Rebels, an action-combat flight sim, has officially launched in Early Access on Steam with VR support.",
+        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
+        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
+        "summary": "Discovery: Rogue Planet, a new story-driven sci-fi shooter, is set to launch on PC VR and Quest 3 in August.",
         "source": "uploadvr.com",
-        "date": "Tue, 21 Jul 2026 01:12:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/G-Rebels-Key-Art---no-logos-2-1.jpg"
-      },
-      {
-        "title": "Daumier: Lila & Ghost Alpha Test Hands-On - It Takes Two To Tango",
-        "url": "https://www.uploadvr.com/daumier-lila-ghost-handpreview-it-takes-two-to-tango/",
-        "summary": "The Alpha Test of Daumier: Lila & Ghost showcases promising gameplay and narrative in this VR co-op puzzle adventure.",
-        "source": "uploadvr.com",
-        "date": "Tue, 21 Jul 2026 01:12:59 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/1000189563.jpg"
+        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
       }
     ],
     "AI": [
       {
         "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
         "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-        "summary": "Sony Music has filed a lawsuit against Udio, alleging infringement of over 30,000 songs by its AI music generator.",
+        "summary": "Sony Music has filed a lawsuit against Udio, claiming its AI music generator infringes on over 30,000 songs.",
         "source": "theverge.com",
         "date": "2026-07-20T18:19:12-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,42 +63,42 @@
       {
         "title": "China delivers a one-two punch to America’s AI dominance",
         "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-        "summary": "Chinese AI companies Moonshot and Alibaba have unveiled competitive models, intensifying the challenge to America's AI dominance.",
+        "summary": "Chinese AI companies are intensifying competition with Silicon Valley, unveiling models that rival top systems from OpenAI and Anthropic.",
         "source": "theverge.com",
         "date": "2026-07-20T06:16:33-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "TikTok is testing an AI likeness detection tool",
-        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-        "summary": "TikTok is testing an opt-in tool that detects AI likenesses, allowing creators to report AI-generated content.",
-        "source": "theverge.com",
-        "date": "2026-07-17T15:34:30-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
         "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-        "summary": "Adobe's updated camera app now incorporates generative AI tools, enhancing its capabilities for iPhone photography.",
+        "summary": "Adobe's updated camera app now incorporates generative AI tools, enhancing its capabilities beyond its original design.",
         "source": "theverge.com",
         "date": "2026-07-20T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "TikTok is testing an AI likeness detection tool",
+        "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+        "summary": "TikTok is testing a new opt-in tool that detects AI likenesses, allowing creators to report them.",
+        "source": "theverge.com",
+        "date": "2026-07-17T15:34:30-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
         "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "summary": "A report reveals that enterprises are rapidly investing in AI infrastructure, outpacing their ability to measure costs.",
+        "summary": "A report reveals enterprises are rapidly investing in AI infrastructure, outpacing their ability to manage costs effectively.",
         "source": "venturebeat.com",
         "date": "Thu, 16 Jul 2026 19:16:48 GMT",
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30"
       },
       {
-        "title": "Apple’s plot to crush OpenAI",
-        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-        "summary": "Apple is suing OpenAI, raising questions about the implications of the tech giant's public dispute with the AI company.",
+        "title": "America needs to stop getting shocked by Chinese AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+        "summary": "The US is urged to adapt to the rising capabilities of Chinese AI, as concerns grow about technological competition.",
         "source": "theverge.com",
-        "date": "2026-07-17T13:41:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-21T07:08:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
@@ -113,42 +113,42 @@
       {
         "title": "Free agent S Jordan Whitehead cleared to return to football activities",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-s-jordan-whitehead-cleared-to-return-to-football-activities",
-        "summary": "Free agent safety Jordan Whitehead has been cleared to resume football activities, marking a positive step in his recovery.",
+        "summary": "Free agent safety Jordan Whitehead has been cleared to return to football activities, signaling a comeback.",
         "source": "nbcsports.com",
         "date": "Mon, 20 Jul 2026 18:55:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0b9237/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F554%2Fnbc_pft_nflpagrass_260720.jpg"
       },
       {
-        "title": "Ravens expect LB Teddye Buchanan to return from torn ACL \"sooner than later\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-expect-lb-teddye-buchanan-to-return-from-torn-acl-sooner-than-later",
-        "summary": "Ravens GM Eric DeCosta provided an optimistic update on linebacker Teddye Buchanan's recovery from a torn ACL.",
+        "title": "Jets to unveil white helmets in 2026 home opener",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-to-debut-white-helmets-in-2026-home-opener",
+        "summary": "The New York Jets will unveil their new white helmets during their 2026 home opener, exciting fans.",
         "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 14:43:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b272dc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F625%2F707%2Fnbc_pft_pftpm_mailbag_260716.jpg"
+        "date": "Tue, 21 Jul 2026 10:18:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d7c6fe/2147483647/strip/false/crop/733x412+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F10%2F2f%2Fbb554a5246a1aa3cb0238ad0bb6c%2Fplm2qrpnjk7djncqlt5j-copy.jpg"
       },
       {
-        "title": "Patriots re-sign DT Isaiah Iton",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-re-sign-dt-isaiah-iton",
-        "summary": "The Patriots have re-signed defensive tackle Isaiah Iton, bolstering their defensive lineup.",
+        "title": "Bucky Irving expects to be ready to go at start of training camp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucky-irving-expects-to-be-ready-to-go-at-start-of-training-camp",
+        "summary": "Buccaneers running back Bucky Irving is expected to be ready for training camp, easing concerns about his recovery.",
         "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 14:21:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e04426c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnbc_pftpm_mailbag_260717.jpg"
+        "date": "Tue, 21 Jul 2026 09:36:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d10573/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F19%2Fqb_series_eaw_260715.jpg"
       },
       {
-        "title": "Nico Collins on limited offseason work: They want me ready for camp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nico-collins-on-limited-offseason-work-they-want-me-ready-for-camp",
-        "summary": "Texans wide receiver Nico Collins reports no injury concerns despite limited participation in the offseason program.",
+        "title": "Seahawks place Nick Emmanwori, Kenny McIntosh, Tyrone Broden on PUP list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-place-nick-emmanwori-kenny-mcintosh-tyrone-broden-on-pup-list",
+        "summary": "The Seahawks have placed several players, including Nick Emmanwori, on the PUP list ahead of training camp.",
         "source": "nbcsports.com",
-        "date": "Tue, 21 Jul 2026 08:20:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dcc7c37/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_insideinformation_260720.jpg"
+        "date": "Mon, 20 Jul 2026 16:25:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2da9000/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_seahawksbidding_260720.jpg"
       },
       {
-        "title": "Broncos are expected to re-hire Michael Wilhoite as a member of their staff",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-are-expected-to-re-hire-michael-wilhoite-as-a-member-of-their-staff",
-        "summary": "The Broncos are expected to re-hire Michael Wilhoite as their outside linebackers coach, strengthening their coaching staff.",
+        "title": "Report: ESPN cuts ties with Ryan Clark",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-espn-cuts-ties-with-ryan-clark",
+        "summary": "ESPN has reportedly cut ties with NFL analyst Ryan Clark amid a wave of layoffs at the network.",
         "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 16:29:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0b9237/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F554%2Fnbc_pft_nflpagrass_260720.jpg"
+        "date": "Mon, 20 Jul 2026 17:19:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0b2da88/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F595%2Fnbc_pftpm_burleson_260717.jpg"
       }
     ]
   }
