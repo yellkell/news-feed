@@ -1,43 +1,35 @@
 {
-  "updated": "2026-07-21T17:51:04.764Z",
+  "updated": "2026-07-21T20:34:21.885Z",
   "feed": {
     "VR": [
       {
-        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
-        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve has released a significant SteamVR update, hinting at the imminent launch of its standalone VR headset, Steam Frame.",
-        "source": "roadtovr.com",
-        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Gentle Monster Plans Massive North America & Europe Retail Expansion Amid Smart Glasses Rollout",
         "url": "https://roadtovr.com/gentle-monster-north-america-eu-smart-glasses-expansion/",
-        "summary": "Gentle Monster plans to launch its first smart glasses this fall while expanding retail locations across North America and Europe.",
+        "summary": "Gentle Monster is launching its first pair of smart glasses this fall, along with a significant retail expansion across North America and Europe.",
         "source": "roadtovr.com",
         "date": "Tue, 21 Jul 2026 12:20:22 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gentle-montser-smart.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
+        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
+        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
+        "summary": "Valve has released a major SteamVR update, hinting at the imminent launch of its standalone VR headset, Steam Frame.",
+        "source": "roadtovr.com",
+        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
         "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
-        "summary": "Magic Leap has laid off nearly 200 employees as it pivots to become a waveguide supplier for AR glasses.",
+        "summary": "Magic Leap is pivoting to become a waveguide supplier, resulting in nearly 200 job cuts amid a shift in its business strategy.",
         "source": "roadtovr.com",
         "date": "Mon, 20 Jul 2026 10:43:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
-        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
-        "summary": "Discovery: Rogue Planet, a new story-driven sci-fi shooter, is set to launch on PC VR and Quest 3 in August.",
-        "source": "uploadvr.com",
-        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
-      },
-      {
         "title": "G-Rebels Out Now On Steam With VR Support",
         "url": "https://www.uploadvr.com/g-rebels-out-now-on-steam-with-vr-support/",
-        "summary": "The action-combat flight sim G-Rebels has officially launched in Early Access on Steam with VR support.",
+        "summary": "The action-combat flight sim G-Rebels has officially launched in Early Access on Steam, featuring VR support.",
         "source": "uploadvr.com",
         "date": "Tue, 21 Jul 2026 01:12:35 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/G-Rebels-Key-Art---no-logos-2-1.jpg"
@@ -45,17 +37,25 @@
       {
         "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
         "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
-        "summary": "EssilorLuxottica has acquired French XR startup Lynx, raising questions about the future of its R2 headset release.",
+        "summary": "EssilorLuxottica has acquired French XR startup Lynx, casting doubt on the release of its R2 headset.",
         "source": "roadtovr.com",
         "date": "Thu, 16 Jul 2026 07:20:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
+        "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
+        "summary": "Palmer Luckey has teased compact AR glasses in development at Anduril, promising full AR capabilities.",
+        "source": "roadtovr.com",
+        "date": "Mon, 13 Jul 2026 18:35:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-        "summary": "A federal judge has approved Anthropic's $1.5 billion settlement over allegations of using copyrighted books to train its AI models.",
+        "summary": "A federal judge has approved a $1.5 billion settlement for Anthropic over claims it used copyrighted books to train its AI models.",
         "source": "theverge.com",
         "date": "2026-07-21T12:53:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Google launches a cheaper alternative to large AI security models like Mythos",
         "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-        "summary": "Google has launched Gemini 3.6 Flash, a cost-effective AI security model designed to quickly identify and fix vulnerabilities.",
+        "summary": "Google has launched Gemini 3.6 Flash, a cost-effective alternative to larger AI security models, aimed at quickly identifying and fixing vulnerabilities.",
         "source": "theverge.com",
         "date": "2026-07-21T11:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,34 +71,34 @@
       {
         "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
         "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-        "summary": "Sony Music is suing Udio for using over 30,000 of its songs without permission in an AI music generator.",
+        "summary": "Sony Music has filed a lawsuit against Udio, claiming its AI music generator infringes on over 30,000 songs.",
         "source": "theverge.com",
         "date": "2026-07-20T18:19:12-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "China delivers a one-two punch to America’s AI dominance",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-        "summary": "Chinese AI companies are challenging American dominance by unveiling competitive models at lower costs, intensifying the global AI race.",
-        "source": "theverge.com",
-        "date": "2026-07-20T06:16:33-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
         "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-        "summary": "Adobe's updated camera app now includes generative AI tools, enhancing its functionality beyond traditional photography.",
+        "summary": "Adobe's updated camera app now integrates generative AI tools, enhancing its functionality beyond its original design.",
         "source": "theverge.com",
         "date": "2026-07-20T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "TreeSize won't renew perpetual-license support unless users subscribe",
-        "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
-        "summary": "TreeSize will discontinue perpetual-license support, shifting its business model to a subscription-based system.",
-        "source": "arstechnica.com",
-        "date": "Tue, 21 Jul 2026 15:18:23 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-1152x648.png"
+        "title": "China delivers a one-two punch to America’s AI dominance",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+        "summary": "Chinese AI companies are intensifying competition with U.S. firms, unveiling models that rival top systems from OpenAI and Anthropic.",
+        "source": "theverge.com",
+        "date": "2026-07-20T06:16:33-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Substack adds an AI detector to help spot blogs written by no one",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+        "summary": "Substack introduces an AI detection tool to help users identify content potentially generated by artificial intelligence.",
+        "source": "theverge.com",
+        "date": "2026-07-21T15:22:28-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
@@ -111,25 +111,25 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/10ebc03/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F358%2F571%2Fnbc_pft_achane_260514.jpg"
       },
       {
-        "title": "Free agent S Jordan Whitehead cleared to return to football activities",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-s-jordan-whitehead-cleared-to-return-to-football-activities",
-        "summary": "Free agent safety Jordan Whitehead has been cleared to resume football activities, signaling a return to the field.",
+        "title": "Georgia RB Dante Dowdell seriously injured in ATV accident",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/georgia-rb-dante-dowdell-seriously-injured-in-atv-accident",
+        "summary": "Georgia running back Dante Dowdell is hospitalized with serious injuries following an ATV accident, according to coach Kirby Smart.",
         "source": "nbcsports.com",
-        "date": "Mon, 20 Jul 2026 18:55:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0b9237/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F554%2Fnbc_pft_nflpagrass_260720.jpg"
+        "date": "Tue, 21 Jul 2026 16:20:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b8e78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_rodgersstock_260721.jpg"
       },
       {
-        "title": "Cam Newton is laid off by ESPN, too",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-newton-is-laid-off-by-espn-too",
-        "summary": "Cam Newton is among the notable figures laid off in the latest round of ESPN job cuts.",
+        "title": "Recovering from torn ACL, Dolphins rookie WR Chris Bell placed on NFI list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/recovering-from-torn-acl-dolphins-rookie-wr-chris-bell-placed-on-nfi-list",
+        "summary": "Dolphins rookie WR Chris Bell has been placed on the NFI list as he recovers from a torn ACL.",
         "source": "nbcsports.com",
-        "date": "Tue, 21 Jul 2026 12:57:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/309730f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_espnclark_260721.jpg"
+        "date": "Tue, 21 Jul 2026 16:26:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10ebc03/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F358%2F571%2Fnbc_pft_achane_260514.jpg"
       },
       {
         "title": "Fernando Mendoza, Tyler Shough top NFLPA's Rising Stars list",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendoza-tyler-shough-top-nflpas-rising-stars-list",
-        "summary": "The NFL Players Association has released its annual Rising Stars list, featuring top prospects including this year's first overall draft pick.",
+        "summary": "The NFL Players Association has released its annual Rising Stars list, highlighting standout players including this year's first overall draft pick.",
         "source": "nbcsports.com",
         "date": "Tue, 21 Jul 2026 12:22:02 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2259c5c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_top4qbs_260721.jpg"
@@ -137,18 +137,18 @@
       {
         "title": "Jets to unveil white helmets in 2026 home opener",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-to-debut-white-helmets-in-2026-home-opener",
-        "summary": "The Jets will unveil new white helmets during their 2026 home opener, exciting fans for the upcoming season.",
+        "summary": "The Jets will unveil new white helmets during their 2026 home opener, adding excitement for fans.",
         "source": "nbcsports.com",
         "date": "Tue, 21 Jul 2026 10:18:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d7c6fe/2147483647/strip/false/crop/733x412+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F10%2F2f%2Fbb554a5246a1aa3cb0238ad0bb6c%2Fplm2qrpnjk7djncqlt5j-copy.jpg"
       },
       {
-        "title": "NFL uses free speech law in effort to defeat Jon Gruden's lawsuit",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-uses-free-speech-law-in-effort-to-defeat-jon-grudens-lawsuit",
-        "summary": "The NFL is invoking free speech laws in its ongoing effort to dismiss Jon Gruden's lawsuit.",
+        "title": "Jonathan Greenard: My job is to help Nolan Smith, Jalyx Hunt continue to grow",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-greenard-my-job-is-to-help-nolan-smith-jalyx-hunt-continue-to-grow",
+        "summary": "Eagles' Jonathan Greenard aims to mentor younger players after being traded and signing a new four-year contract.",
         "source": "nbcsports.com",
-        "date": "Tue, 21 Jul 2026 02:04:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1a8e138/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F622%2F778%2Fnbc_pft_jongruden_260716.jpg"
+        "date": "Tue, 21 Jul 2026 12:50:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6a6ee7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F387%2F494%2Fnbc_pftpm_mailbag_260702.jpg"
       }
     ]
   }
