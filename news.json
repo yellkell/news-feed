@@ -1,22 +1,14 @@
 {
-  "updated": "2026-07-22T01:05:32.353Z",
+  "updated": "2026-07-22T04:32:07.634Z",
   "feed": {
     "VR": [
       {
         "title": "Gentle Monster Plans Massive North America & Europe Retail Expansion Amid Smart Glasses Rollout",
         "url": "https://roadtovr.com/gentle-monster-north-america-eu-smart-glasses-expansion/",
-        "summary": "Gentle Monster plans to launch its first smart glasses this fall and expand retail locations across North America and Europe.",
+        "summary": "Gentle Monster is set to launch its first smart glasses this fall and expand retail locations across North America and Europe.",
         "source": "roadtovr.com",
         "date": "Tue, 21 Jul 2026 12:20:22 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gentle-montser-smart.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
-        "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
-        "summary": "Magic Leap is pivoting to become a waveguide supplier, cutting nearly 200 jobs in the process.",
-        "source": "roadtovr.com",
-        "date": "Mon, 20 Jul 2026 10:43:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
@@ -27,9 +19,25 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
+        "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
+        "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
+        "summary": "Magic Leap is pivoting to become a waveguide supplier, resulting in nearly 200 job cuts amid its business transformation.",
+        "source": "roadtovr.com",
+        "date": "Mon, 20 Jul 2026 10:43:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "G-Rebels Out Now On Steam With VR Support",
+        "url": "https://www.uploadvr.com/g-rebels-out-now-on-steam-with-vr-support/",
+        "summary": "The action-combat flight sim G-Rebels has launched in Early Access on Steam, now featuring VR support.",
+        "source": "uploadvr.com",
+        "date": "Tue, 21 Jul 2026 01:12:35 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/G-Rebels-Key-Art---no-logos-2-1.jpg"
+      },
+      {
         "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
         "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
-        "summary": "Discovery: Rogue Planet, a new sci-fi shooter, is set to launch on PC VR and Quest 3 in August.",
+        "summary": "Discovery: Rogue Planet, a new sci-fi shooter, is set to release on PC VR and Quest 3 in August.",
         "source": "uploadvr.com",
         "date": "Fri, 17 Jul 2026 13:39:35 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
@@ -41,53 +49,45 @@
         "source": "roadtovr.com",
         "date": "Thu, 16 Jul 2026 07:20:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Anduril Founder Quietly Teases Remarkably Compact AR Glasses",
-        "url": "https://roadtovr.com/anduril-founder-quietly-teases-remarkably-compact-ar-glasses/",
-        "summary": "Palmer Luckey teases compact AR glasses developed by his startup Anduril, claiming they are built for full AR capabilities.",
-        "source": "roadtovr.com",
-        "date": "Mon, 13 Jul 2026 18:35:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/luckey-anduril-ar-glasses-4.jpg?resize=1200%2C800&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-        "summary": "OpenAI accidentally breached Hugging Face during testing, exposing vulnerabilities in their AI models.",
-        "source": "theverge.com",
-        "date": "2026-07-21T17:48:54-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-        "summary": "A federal judge has approved Anthropic's $1.5 billion settlement over allegations of training AI on copyrighted books.",
+        "summary": "A federal judge has approved Anthropic's $1.5 billion settlement over allegations of unauthorized use of copyrighted books for AI training.",
         "source": "theverge.com",
         "date": "2026-07-21T12:53:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-        "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-        "summary": "Google has launched Gemini 3.6 Flash, a cost-effective alternative to larger AI security models.",
+        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "summary": "OpenAI reported an accidental breach of Hugging Face during testing, revealing vulnerabilities in its AI models.",
         "source": "theverge.com",
-        "date": "2026-07-21T11:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-21T17:48:54-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Substack adds an AI detector to help spot blogs written by no one",
         "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-        "summary": "Substack introduces an AI detector tool to help users identify AI-generated content in blogs.",
+        "summary": "Substack is introducing an AI detection tool to help users identify content potentially generated by artificial intelligence.",
         "source": "theverge.com",
         "date": "2026-07-21T15:22:28-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+        "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+        "summary": "Google has launched Gemini 3.6 Flash, a cost-effective alternative to larger AI security models for quickly addressing vulnerabilities.",
+        "source": "theverge.com",
+        "date": "2026-07-21T11:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
         "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-        "summary": "Sony Music is suing Udio's AI music generator for allegedly infringing on over 30,000 songs.",
+        "summary": "Sony Music is suing Udio's AI music generator for copyright infringement involving over 30,000 songs.",
         "source": "theverge.com",
         "date": "2026-07-20T18:19:12-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
         "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-        "summary": "Adobe's updated camera app now includes generative AI tools, enhancing its photography capabilities.",
+        "summary": "Adobe's updated camera app now includes generative AI tools, enhancing its capabilities for iPhone photography.",
         "source": "theverge.com",
         "date": "2026-07-20T12:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,25 +103,33 @@
     ],
     "NFL": [
       {
-        "title": "Jordyn Brooks, Dolphins agree to three-year extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordyn-brooks-dolphins-agree-to-three-year-extension",
-        "summary": "Jordyn Brooks has agreed to a three-year contract extension after leading the league in tackles last season.",
+        "title": "Pat McAfee addresses ESPN layoffs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pat-mcafee-addresses-espn-layoffs",
+        "summary": "Pat McAfee addresses ESPN layoffs amid reports of his potential $60 million annual contract with the network.",
         "source": "nbcsports.com",
-        "date": "Tue, 21 Jul 2026 12:01:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10ebc03/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F358%2F571%2Fnbc_pft_achane_260514.jpg"
+        "date": "Wed, 22 Jul 2026 00:19:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/309730f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_espnclark_260721.jpg"
       },
       {
-        "title": "Sam LaPorta fully cleared for training camp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-laporta-fully-cleared-for-training-camp",
-        "summary": "Lions tight end Sam LaPorta has been fully cleared for training camp, marking a positive return.",
+        "title": "Arizona Department of Gaming is investigating Cardinals' exec Ryan Gold",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arizona-department-of-gaming-is-investigating-cardinals-exec-ryan-gold",
+        "summary": "The Arizona Department of Gaming is investigating Cardinals executive Ryan Gold amid ongoing scrutiny.",
         "source": "nbcsports.com",
-        "date": "Tue, 21 Jul 2026 18:44:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2da9000/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_seahawksbidding_260720.jpg"
+        "date": "Tue, 21 Jul 2026 23:46:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dcc7c37/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_insideinformation_260720.jpg"
+      },
+      {
+        "title": "Report: Devon Witherspoon \"further along\" in contract talks than Christian Gonzalez",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-devon-witherspoon-further-along-in-contract-talks-than-christian-gonzalez",
+        "summary": "Patriots cornerback Christian Gonzalez is seeking a long-term deal, with reports indicating progress in contract talks.",
+        "source": "nbcsports.com",
+        "date": "Tue, 21 Jul 2026 20:46:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/89a464e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F554%2Fnbc_pft_superbowlpostgame_260720.jpg"
       },
       {
         "title": "Browns sign CB Damarri Mathis",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-sign-cb-damarri-mathis",
-        "summary": "The Browns have signed cornerback Damarri Mathis ahead of training camp.",
+        "summary": "The Browns have signed cornerback Damarri Mathis ahead of the upcoming training camp.",
         "source": "nbcsports.com",
         "date": "Tue, 21 Jul 2026 16:34:01 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/309730f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_espnclark_260721.jpg"
@@ -135,20 +143,12 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b8e78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_rodgersstock_260721.jpg"
       },
       {
-        "title": "Patriots put Harold Landry on the PUP list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-put-harold-landry-on-the-pup-list",
-        "summary": "The Patriots have placed Harold Landry on the PUP list as training camp begins.",
+        "title": "Report: Jacoby Brissett, Cardinals still have no resolution to contract dispute",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jacoby-brissett-cardinals-still-have-no-resolution-to-contract-dispute",
+        "summary": "The Cardinals and Jacoby Brissett remain in a contract dispute as the team prepares for training camp.",
         "source": "nbcsports.com",
-        "date": "Tue, 21 Jul 2026 17:16:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3cf7748/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F139%2F294%2Fnbc_pftpm_bradywwe_260721.jpg"
-      },
-      {
-        "title": "Panthers to place CB Jaycee Horn, OT Taylor Moton on NFI list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-to-place-cb-jaycee-horn-ot-taylor-moton-on-nfi-list",
-        "summary": "The Panthers will start training camp without key veterans Jaycee Horn and Taylor Moton, both on the NFI list.",
-        "source": "nbcsports.com",
-        "date": "Tue, 21 Jul 2026 14:47:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d736d21/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F172%2F763%2Fnbc_pft_bryce_young_260416.jpg"
+        "date": "Tue, 21 Jul 2026 14:50:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1dc9dfb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F791%2Fnbc_pftpm_grudencase_260721.jpg"
       }
     ]
   }
