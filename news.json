@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T11:33:59.941Z",
+  "updated": "2026-07-23T13:12:26.639Z",
   "feed": {
     "VR": [
       {
@@ -13,7 +13,7 @@
       {
         "title": "Gentle Monster Plans Massive North America & Europe Retail Expansion Amid Smart Glasses Rollout",
         "url": "https://roadtovr.com/gentle-monster-north-america-eu-smart-glasses-expansion/",
-        "summary": "Gentle Monster announces plans for a major retail expansion in North America and Europe alongside its upcoming smart glasses launch.",
+        "summary": "Gentle Monster plans a significant retail expansion in North America and Europe alongside its smart glasses launch this fall.",
         "source": "roadtovr.com",
         "date": "Tue, 21 Jul 2026 12:20:22 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gentle-montser-smart.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -29,7 +29,7 @@
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve releases a significant SteamVR update ahead of the anticipated launch of its standalone VR headset, Steam Frame.",
+        "summary": "Valve releases a major SteamVR update, hinting at the upcoming launch of its standalone VR headset, Steam Frame.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
@@ -37,7 +37,7 @@
       {
         "title": "Open-World Base-Building Action Game StarRupture Coming To Meta Quest 3",
         "url": "https://www.uploadvr.com/open-world-base-building-action-game-starrupture-coming-to-meta-quest-3/",
-        "summary": "Incuvu announces the upcoming port of the open-world game StarRupture to Meta Quest 3, expanding its VR offerings.",
+        "summary": "Incuvu announces the upcoming port of the open-world game StarRupture to Meta Quest 3 headsets.",
         "source": "uploadvr.com",
         "date": "Thu, 16 Jul 2026 12:28:03 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/HNXJgB8XwAAI69R.jpg"
@@ -45,7 +45,7 @@
       {
         "title": "GOLF+ Hosts Its First VR Open This Week With A Grand Prize Trip To St. Andrews In 2027",
         "url": "https://www.uploadvr.com/golf-hosts-its-first-vr-open-this-week-with-a-grand-prize-trip-to-st-andrews-in-2027/",
-        "summary": "GOLF+ launches its first VR Open, offering players a chance to win a trip to the prestigious St. Andrews in 2027.",
+        "summary": "Golf+ kicks off its inaugural VR Open, offering players a chance to win a trip to St. Andrews in 2027.",
         "source": "uploadvr.com",
         "date": "Mon, 13 Jul 2026 13:42:10 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Fx1UDR-mOYc-HD.jpg"
@@ -55,18 +55,10 @@
       {
         "title": "AMD commits up to $5 billion to Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-        "summary": "AMD commits up to $5 billion to Anthropic, enhancing the AI company's computing capabilities with advanced GPUs.",
+        "summary": "AMD announces a commitment of up to $5 billion to Anthropic to enhance its AI computing capabilities.",
         "source": "theverge.com",
         "date": "2026-07-22T10:44:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-        "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-        "summary": "Google unveils Gemini 3.6 Flash, a cost-effective alternative to large AI security models, aimed at quickly addressing vulnerabilities.",
-        "source": "theverge.com",
-        "date": "2026-07-21T11:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
@@ -77,12 +69,20 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-        "summary": "OpenAI accidentally breaches Hugging Face during internal testing with its new AI models, exposing vulnerabilities.",
+        "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+        "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+        "summary": "Google launches Gemini 3.6 Flash, a cost-effective alternative for quickly identifying AI security vulnerabilities.",
         "source": "theverge.com",
-        "date": "2026-07-21T17:48:54-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-21T11:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Utility companies promise to spare us from AI’s energy bill",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+        "summary": "US utility companies pledge to manage the energy costs associated with the growing demand for AI technologies.",
+        "source": "theverge.com",
+        "date": "2026-07-22T06:12:13-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Substack adds an AI detector to help spot blogs written by no one",
@@ -93,12 +93,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Utility companies promise to spare us from AI’s energy bill",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-        "summary": "Major utility companies pledge to mitigate concerns about rising electricity costs due to the AI boom.",
+        "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "summary": "OpenAI admits its AI models inadvertently breached Hugging Face's platform during internal testing.",
         "source": "theverge.com",
-        "date": "2026-07-22T06:12:13-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-21T17:48:54-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
@@ -113,26 +113,34 @@
       {
         "title": "Report: Jimmy Garoppolo open to playing after considering retirement",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jimmy-garoppolo-open-to-playing-after-considering-retirement",
-        "summary": "Free agent quarterback Jimmy Garoppolo considers returning to play after contemplating retirement this offseason.",
+        "summary": "Free agent quarterback Jimmy Garoppolo, who considered retirement, is now open to returning to play.",
         "source": "nbcsports.com",
         "date": "Wed, 22 Jul 2026 20:58:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/968eff0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_aarondonald_260722.jpg"
       },
       {
-        "title": "Raiders rookie CB Jermod McCoy makes signing official",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-rookie-cb-jermod-mccoy-makes-signing-official",
-        "summary": "The Raiders officially sign fourth-round cornerback Jermod McCoy, adding depth to their defensive lineup.",
+        "title": "Injury gave new meaning to Fred Warner's philosophy of treating every game like his last",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injury-gave-new-meaning-to-fred-warners-philosophy-of-treating-every-game-like-his-last",
+        "summary": "San Francisco linebacker Fred Warner is cleared to play after recovering from a serious injury that ended his last season.",
         "source": "nbcsports.com",
-        "date": "Wed, 22 Jul 2026 17:00:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6afcc0a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F494%2F350%2Fnbc_pftpm_raiderqbs_260715.jpg"
+        "date": "Thu, 23 Jul 2026 08:13:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bfa332f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F881%2F82%2Fnbc_pft_warnerint_260205_copy.jpg"
       },
       {
         "title": "Patriots sign first-year TE Mitch Van Vooren",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-sign-first-year-te-mitch-van-vooren",
-        "summary": "The Patriots announce the signing of first-year tight end Mitch Van Vooren as part of their roster moves.",
+        "summary": "The Patriots sign first-year tight end Mitch Van Vooren as part of their roster moves.",
         "source": "nbcsports.com",
         "date": "Wed, 22 Jul 2026 17:20:51 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/a483b73/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F505%2F1011%2Fbrady_image.jpg"
+      },
+      {
+        "title": "Raiders rookie CB Jermod McCoy makes signing official",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-rookie-cb-jermod-mccoy-makes-signing-official",
+        "summary": "The Raiders officially sign fourth-round cornerback Jermod McCoy, strengthening their defense.",
+        "source": "nbcsports.com",
+        "date": "Wed, 22 Jul 2026 17:00:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6afcc0a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F494%2F350%2Fnbc_pftpm_raiderqbs_260715.jpg"
       },
       {
         "title": "Cardinals OL Isaiah Adams arrested in Canada on four weapons charges",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 22 Jul 2026 15:53:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a001a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_ryangold_260722.jpg"
-      },
-      {
-        "title": "Seahawks S Nick Emmanwori underwent ankle surgery but expected back for Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-s-nick-emmanwori-underwent-ankle-surgery-but-expected-back-for-week-1",
-        "summary": "Seahawks safety Nick Emmanwori undergoes ankle surgery but is expected to return for Week 1.",
-        "source": "nbcsports.com",
-        "date": "Wed, 22 Jul 2026 19:37:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/765ffcf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_devonwitherspoon_260722.jpg"
       }
     ]
   }
