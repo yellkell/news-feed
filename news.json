@@ -1,14 +1,30 @@
 {
-  "updated": "2026-07-23T21:43:02.569Z",
+  "updated": "2026-07-23T22:38:10.975Z",
   "feed": {
     "VR": [
       {
         "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
         "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR launches today on Meta Quest 3 with cross-platform co-op support for Quest, SteamVR, and PlayStation VR2.",
+        "summary": "Roboquest VR launches today on Meta Quest 3, featuring cross-platform co-op support for Quest, SteamVR, and PlayStation VR2.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:51:31 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
+      },
+      {
+        "title": "Co-op Dungeon Crawler One More Delve Leaves Early Access",
+        "url": "https://www.uploadvr.com/co-op-dungeon-crawler-one-more-delve-leaves-early-access/",
+        "summary": "Co-op dungeon crawler One More Delve exits Early Access today on SteamVR and Meta Quest.",
+        "source": "uploadvr.com",
+        "date": "Thu, 23 Jul 2026 14:52:32 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/XiTtsrz3qP4-HD.jpg"
+      },
+      {
+        "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
+        "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
+        "summary": "Amelia's Escape, a narrative-driven VR escape room game, is now available on SteamVR and Meta Quest.",
+        "source": "uploadvr.com",
+        "date": "Thu, 23 Jul 2026 12:55:07 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
       },
       {
         "title": "Xbox Game Pass Now Included with Quest’s Horizon+, Gamepad Emulation Coming Soon",
@@ -19,43 +35,27 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/xbox-horizon-plus.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
-        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve releases a significant SteamVR update, hinting at the upcoming launch of its standalone headset, Steam Frame.",
-        "source": "roadtovr.com",
-        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
         "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
-        "summary": "Magic Leap cuts nearly 200 jobs as it pivots to become a waveguide supplier for AR glasses.",
+        "summary": "Magic Leap lays off nearly 200 staff as it pivots to become a waveguide supplier for AR glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 20 Jul 2026 10:43:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
-        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
-        "summary": "Discovery: Rogue Planet, a new sci-fi shooter, is set to launch on PC VR and Quest 3 this August.",
-        "source": "uploadvr.com",
-        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
-      },
-      {
-        "title": "Gentle Monster Plans Massive North America & Europe Retail Expansion Amid Smart Glasses Rollout",
-        "url": "https://roadtovr.com/gentle-monster-north-america-eu-smart-glasses-expansion/",
-        "summary": "Gentle Monster plans a major retail expansion in North America and Europe as it prepares to launch its smart glasses.",
+        "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
+        "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
+        "summary": "EssilorLuxottica acquires French XR startup Lynx, casting doubt on the release of its R2 headset.",
         "source": "roadtovr.com",
-        "date": "Tue, 21 Jul 2026 12:20:22 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gentle-montser-smart.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Thu, 16 Jul 2026 07:20:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI rolls out ChatGPT Health, enabling users to connect medical records and health data to the chatbot across the US.",
+        "summary": "OpenAI launches ChatGPT Health, allowing US users to connect medical records to the AI chatbot.",
         "source": "theverge.com",
         "date": "2026-07-23T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "AMD commits up to $5 billion to Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-        "summary": "AMD announces a partnership to invest up to $5 billion in Anthropic, enhancing the AI company's computing capabilities.",
+        "summary": "AMD announces a partnership to invest up to $5 billion in Anthropic, expanding its AI computing capabilities.",
         "source": "theverge.com",
         "date": "2026-07-22T10:44:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to allow the government to control AI systems during emergencies.",
+        "summary": "Lawmakers are set to introduce an 'AI Kill Switch Act' requiring companies to disable AI systems on government orders.",
         "source": "theverge.com",
         "date": "2026-07-23T10:13:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,23 +79,23 @@
       {
         "title": "Claude’s voice mode is now available for Opus and Sonnet",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-        "summary": "Anthropic expands voice mode to its Opus and Sonnet models, making it available in popular applications like Gmail and Slack.",
+        "summary": "Anthropic expands its voice mode capabilities to include its Opus and Sonnet AI models, enhancing app integration.",
         "source": "theverge.com",
         "date": "2026-07-23T15:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon's Alexa Plus is getting an update to better manage smart home devices with more complex instructions.",
+        "title": "Patreon is laying off 20 percent of workers",
+        "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+        "summary": "Patreon lays off 20% of its workforce, citing the transformative impact of AI on the tech industry.",
         "source": "theverge.com",
-        "date": "2026-07-23T17:15:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-23T14:20:30-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
         "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-        "summary": "Apple's lawsuit against OpenAI raises questions about defining the future of AI in the post-smartphone era.",
+        "summary": "Apple's lawsuit against OpenAI highlights the battle over defining the future of technology in the post-smartphone era.",
         "source": "theverge.com",
         "date": "2026-07-23T10:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Panthers, Bank of America announce long-term extension of stadium naming rights agreement",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-bank-of-america-announce-long-term-extension-of-stadium-naming-rights-agreement",
-        "summary": "The Panthers and Bank of America extend their stadium naming rights agreement, ensuring continued play at Bank of America Stadium.",
+        "title": "Patriots agree to terms with TE Jeremiah Franklin",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-agree-to-terms-with-te-jeremiah-franklin",
+        "summary": "The Patriots have signed tight end Jeremiah Franklin, strengthening their roster ahead of the season.",
         "source": "nbcsports.com",
-        "date": "Thu, 23 Jul 2026 09:30:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dcc7c37/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_insideinformation_260720.jpg"
+        "date": "Thu, 23 Jul 2026 18:26:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/500114a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_rooneyrule_260722.jpg"
       },
       {
         "title": "Panthers agree to terms with OLB Cam Gill after Nic Scourton's injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-agree-to-terms-with-olb-cam-gill-after-nic-scourtons-injury",
-        "summary": "The Panthers sign OLB Cam Gill following Nic Scourton's injury during training camp, adding depth to their defense.",
+        "summary": "The Panthers sign outside linebacker Cam Gill following Nic Scourton's knee injury during training camp.",
         "source": "nbcsports.com",
         "date": "Thu, 23 Jul 2026 15:38:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/a483b73/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F505%2F1011%2Fbrady_image.jpg"
       },
       {
-        "title": "Josh Sweat, Paris Johnson among Cardinals placed on PUP list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-sweat-paris-johnson-among-cardinals-placed-on-pup-list",
-        "summary": "The Cardinals place four players, including Josh Sweat and Paris Johnson, on the PUP list as training camp begins.",
-        "source": "nbcsports.com",
-        "date": "Thu, 23 Jul 2026 17:08:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a001a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_ryangold_260722.jpg"
-      },
-      {
-        "title": "Giants WR Malik Nabers is expected to avoid PUP list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-wr-malik-nabers-is-expected-to-avoid-pup-list",
-        "summary": "Giants WR Malik Nabers is expected to avoid the PUP list, raising hopes for his return in the season opener.",
-        "source": "nbcsports.com",
-        "date": "Thu, 23 Jul 2026 15:27:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f26fd2a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F504%2F763%2FPFTPMJimmyHaslamNEW.jpg"
-      },
-      {
-        "title": "Dolphins place CBs Darrell Baker Jr., Storm Duck on active/PUP",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-place-cbs-darrell-baker-jr-storm-duck-on-active-pup",
-        "summary": "The Dolphins place cornerbacks Darrell Baker Jr. and Storm Duck on the active/PUP list ahead of training camp.",
-        "source": "nbcsports.com",
-        "date": "Thu, 23 Jul 2026 16:33:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a001a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_ryangold_260722.jpg"
-      },
-      {
         "title": "Colts owner Carlie Irsay-Gordon will present Adam Vinatieri at Hall of Fame induction",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-owner-carlie-irsay-gordon-will-present-adam-vinatieri-at-hall-of-fame-induction",
-        "summary": "Colts owner Carlie Irsay-Gordon will present Adam Vinatieri at his Hall of Fame induction, honoring the legendary kicker.",
+        "summary": "Colts owner Carlie Irsay-Gordon will present Adam Vinatieri at his Hall of Fame induction ceremony.",
         "source": "nbcsports.com",
         "date": "Thu, 23 Jul 2026 16:11:37 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/500114a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_rooneyrule_260722.jpg"
+      },
+      {
+        "title": "Dave Canales confirms Nic Scourton suffered knee injury, will undergo MRI",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dave-canales-confirms-nic-scourton-suffered-knee-injury-will-undergo-mri",
+        "summary": "Panthers linebacker Nic Scourton is confirmed to have suffered a knee injury and will undergo an MRI.",
+        "source": "nbcsports.com",
+        "date": "Thu, 23 Jul 2026 11:58:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a001a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_ryangold_260722.jpg"
+      },
+      {
+        "title": "Jacoby Brissett will practice on Thursday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-will-practice-on-thursday",
+        "summary": "Cardinals quarterback Jacoby Brissett is set to practice for the first time this offseason.",
+        "source": "nbcsports.com",
+        "date": "Thu, 23 Jul 2026 18:07:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a001a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_ryangold_260722.jpg"
+      },
+      {
+        "title": "Josh Sweat, Paris Johnson among Cardinals placed on PUP list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-sweat-paris-johnson-among-cardinals-placed-on-pup-list",
+        "summary": "The Titans place JC Latham and Amani Hooker on the physically unable to perform list as training camp begins.",
+        "source": "nbcsports.com",
+        "date": "Thu, 23 Jul 2026 17:08:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a001a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_ryangold_260722.jpg"
       }
     ]
   }
