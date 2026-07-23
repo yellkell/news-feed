@@ -1,119 +1,135 @@
 {
-  "updated": "2026-07-23T15:24:27.683Z",
+  "updated": "2026-07-23T16:54:18.848Z",
   "feed": {
     "VR": [
       {
         "title": "Xbox Game Pass Now Included with Quest’s Horizon+, Gamepad Emulation Coming Soon",
         "url": "https://roadtovr.com/xbox-game-pass-horizon-subscription-deal-included/",
-        "summary": "Meta partners with Microsoft to integrate Xbox Game Pass into Horizon+, enhancing its VR gaming subscription service.",
+        "summary": "Meta partners with Microsoft to integrate Xbox Game Pass into Horizon+, enhancing VR gaming experiences for Quest users.",
         "source": "roadtovr.com",
         "date": "Wed, 22 Jul 2026 12:10:37 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/xbox-horizon-plus.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
-        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve's significant SteamVR update hints at the upcoming launch of its standalone VR headset, Steam Frame.",
-        "source": "roadtovr.com",
-        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Samsung Unveils More Smart Glasses Designs from Gentle Monster & Warby Parker Ahead of Fall Release",
-        "url": "https://roadtovr.com/samsung-google-smart-glasses-designs-gentle-monster-warby-parker-release/",
-        "summary": "Samsung reveals new smart glasses designs in collaboration with Gentle Monster and Warby Parker, set for a fall release.",
-        "source": "roadtovr.com",
-        "date": "Wed, 22 Jul 2026 17:31:43 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/warby-monster-smart.png?resize=1536%2C1024&quality=80&ssl=1"
-      },
-      {
         "title": "Gentle Monster Plans Massive North America & Europe Retail Expansion Amid Smart Glasses Rollout",
         "url": "https://roadtovr.com/gentle-monster-north-america-eu-smart-glasses-expansion/",
-        "summary": "Gentle Monster plans major retail expansion in North America and Europe as it prepares to launch its first smart glasses.",
+        "summary": "Gentle Monster plans a major retail expansion in North America and Europe as it prepares to launch its first smart glasses this fall.",
         "source": "roadtovr.com",
         "date": "Tue, 21 Jul 2026 12:20:22 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/gentle-montser-smart.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
+        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
+        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
+        "summary": "Valve releases a significant update for SteamVR, signaling the upcoming launch of its standalone VR headset, Steam Frame.",
+        "source": "roadtovr.com",
+        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
+        "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
+        "summary": "Magic Leap lays off nearly 200 employees as it shifts focus to becoming a waveguide supplier for AR glasses.",
+        "source": "roadtovr.com",
+        "date": "Mon, 20 Jul 2026 10:43:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "G-Rebels Out Now On Steam With VR Support",
         "url": "https://www.uploadvr.com/g-rebels-out-now-on-steam-with-vr-support/",
-        "summary": "The action-combat flight sim G-Rebels is now available in Early Access on Steam with VR support.",
+        "summary": "Action-combat flight sim G-Rebels launches in Early Access on Steam with full VR support.",
         "source": "uploadvr.com",
         "date": "Tue, 21 Jul 2026 01:12:35 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/G-Rebels-Key-Art---no-logos-2-1.jpg"
       },
       {
-        "title": "‘GOLF+’ Kicks Off Open Tournament This Week with VIP St. Andrews Trip Prize",
-        "url": "https://roadtovr.com/golf-plus-open-tournament-prize-st-andrews/",
-        "summary": "Golf+ launches its first VR Open, offering players a chance to win a trip to St. Andrews for the 2027 championship.",
-        "source": "roadtovr.com",
-        "date": "Tue, 14 Jul 2026 09:05:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/golf_plus.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "title": "Discovery: Rogue Planet Is A Story-Driven Sci-Fi Shooter Coming to PC VR & Quest 3",
+        "url": "https://www.uploadvr.com/discovery-rogue-planet-sci-fi-shooter-coming-to-pc-vr-and-quest-3/",
+        "summary": "Discovery: Rogue Planet, a new story-driven sci-fi shooter, is set to release on PC VR and Quest 3 in August.",
+        "source": "uploadvr.com",
+        "date": "Fri, 17 Jul 2026 13:39:35 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/DiscoveryRoguePlanet.png"
       }
     ],
     "AI": [
       {
         "title": "AMD commits up to $5 billion to Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-        "summary": "AMD announces a commitment of up to $5 billion to Anthropic, enhancing its AI computing capabilities.",
+        "summary": "AMD announces a commitment of up to $5 billion to Anthropic to enhance its AI computing capabilities.",
         "source": "theverge.com",
         "date": "2026-07-22T10:44:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are set to introduce the 'AI Kill Switch Act' requiring companies to disable AI systems on government orders.",
+        "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+        "summary": "A federal judge approves Anthropic's $1.5 billion settlement over allegations of training AI models on copyrighted books.",
         "source": "theverge.com",
-        "date": "2026-07-23T10:13:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-21T12:53:37-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Substack adds an AI detector to help spot blogs written by no one",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-        "summary": "Substack introduces an AI detection tool to help users identify AI-generated content in blogs.",
+        "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+        "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+        "summary": "Google unveils Gemini 3.6 Flash, a cost-effective alternative to large AI security models, aimed at quickly addressing vulnerabilities.",
         "source": "theverge.com",
-        "date": "2026-07-21T15:22:28-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-21T11:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
         "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-        "summary": "OpenAI accidentally breached Hugging Face during testing, revealing vulnerabilities in its AI models.",
+        "summary": "OpenAI reports that its AI models accidentally breached Hugging Face during internal testing, highlighting security vulnerabilities.",
         "source": "theverge.com",
         "date": "2026-07-21T17:48:54-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Substack adds an AI detector to help spot blogs written by no one",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+        "summary": "Substack introduces an AI detection tool to help users identify content potentially generated by artificial intelligence.",
+        "source": "theverge.com",
+        "date": "2026-07-21T15:22:28-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Utility companies promise to spare us from AI’s energy bill",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-        "summary": "Utility companies promise to mitigate rising electricity costs associated with the AI boom amid public concerns.",
+        "summary": "Utility companies pledge to mitigate the expected rise in electricity bills due to the growing demand from AI technologies.",
         "source": "theverge.com",
         "date": "2026-07-22T06:12:13-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-        "summary": "Apple's lawsuit against OpenAI raises critical questions about the future of AI and technology's evolution.",
-        "source": "theverge.com",
-        "date": "2026-07-23T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
+        "title": "Nic Scourton carted off from Panthers practice with apparent knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nic-scourton-carted-off-from-panthers-practice-with-apparent-knee-injury",
+        "summary": "Panthers linebacker Nic Scourton suffers a knee injury during training camp, raising concerns for the team's season.",
+        "source": "nbcsports.com",
+        "date": "Thu, 23 Jul 2026 11:34:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/59371a0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_espnlayoffs_260722.jpg"
+      },
+      {
         "title": "Panthers, Bank of America announce long-term extension of stadium naming rights agreement",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-bank-of-america-announce-long-term-extension-of-stadium-naming-rights-agreement",
-        "summary": "The Panthers and Bank of America extend their naming rights agreement for Bank of America Stadium, ensuring a long-term partnership.",
+        "summary": "The Panthers extend their naming rights agreement with Bank of America, ensuring the stadium's name remains unchanged.",
         "source": "nbcsports.com",
         "date": "Thu, 23 Jul 2026 09:30:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/dcc7c37/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_insideinformation_260720.jpg"
       },
       {
+        "title": "Raiders rookie CB Jermod McCoy makes signing official",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-rookie-cb-jermod-mccoy-makes-signing-official",
+        "summary": "The Raiders officially sign fourth-round cornerback Jermod McCoy, adding depth to their defensive lineup.",
+        "source": "nbcsports.com",
+        "date": "Wed, 22 Jul 2026 17:00:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6afcc0a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F494%2F350%2Fnbc_pftpm_raiderqbs_260715.jpg"
+      },
+      {
         "title": "Report: Jimmy Garoppolo open to playing after considering retirement",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jimmy-garoppolo-open-to-playing-after-considering-retirement",
-        "summary": "Free agent quarterback Jimmy Garoppolo, who considered retirement, is now open to returning to play.",
+        "summary": "Free agent quarterback Jimmy Garoppolo reconsiders retirement and is open to playing in the right situation.",
         "source": "nbcsports.com",
         "date": "Wed, 22 Jul 2026 20:58:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/968eff0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_aarondonald_260722.jpg"
@@ -121,7 +137,7 @@
       {
         "title": "Cardinals' Travis Vokolek retires at age 28 because of neck injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-travis-vokolek-retires-at-age-28-because-of-neck-injury",
-        "summary": "Cardinals tight end Travis Vokolek retires at 28 due to a neck injury sustained during a game.",
+        "summary": "Cardinals tight end Travis Vokolek retires at age 28 due to a neck injury sustained during a game last season.",
         "source": "nbcsports.com",
         "date": "Thu, 23 Jul 2026 04:05:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a001a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_ryangold_260722.jpg"
@@ -129,26 +145,10 @@
       {
         "title": "Seahawks S Nick Emmanwori underwent ankle surgery but expected back for Week 1",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-s-nick-emmanwori-underwent-ankle-surgery-but-expected-back-for-week-1",
-        "summary": "Seahawks safety Nick Emmanwori undergoes ankle surgery but is expected to return for Week 1.",
+        "summary": "Seahawks safety Nick Emmanwori undergoes ankle surgery but is expected to return for Week 1 of the season.",
         "source": "nbcsports.com",
         "date": "Wed, 22 Jul 2026 19:37:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/765ffcf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_devonwitherspoon_260722.jpg"
-      },
-      {
-        "title": "Raiders rookie CB Jermod McCoy makes signing official",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-rookie-cb-jermod-mccoy-makes-signing-official",
-        "summary": "The Raiders officially sign fourth-round cornerback Jermod McCoy, bolstering their defense.",
-        "source": "nbcsports.com",
-        "date": "Wed, 22 Jul 2026 17:00:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6afcc0a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F494%2F350%2Fnbc_pftpm_raiderqbs_260715.jpg"
-      },
-      {
-        "title": "Injury gave new meaning to Fred Warner's philosophy of treating every game like his last",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injury-gave-new-meaning-to-fred-warners-philosophy-of-treating-every-game-like-his-last",
-        "summary": "San Francisco linebacker Fred Warner is cleared to play after recovering from a serious injury that ended his last season.",
-        "source": "nbcsports.com",
-        "date": "Thu, 23 Jul 2026 08:13:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bfa332f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F881%2F82%2Fnbc_pft_warnerint_260205_copy.jpg"
       }
     ]
   }
