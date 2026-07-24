@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T04:29:55.292Z",
+  "updated": "2026-07-24T07:09:12.666Z",
   "feed": {
     "VR": [
       {
@@ -11,41 +11,41 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
       },
       {
-        "title": "Space Flight Simulator Remnant Protocol Details Future Plans In Public Roadmap",
-        "url": "https://www.uploadvr.com/space-flight-simulator-remnant-protocol-details-future-plans-in-public-roadmap/",
-        "summary": "Remnant Protocol reveals a public roadmap detailing future plans after its Early Access launch on Meta Quest.",
-        "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 14:52:37 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Remnant-Protocol.jpg"
-      },
-      {
-        "title": "Co-op Dungeon Crawler One More Delve Leaves Early Access",
-        "url": "https://www.uploadvr.com/co-op-dungeon-crawler-one-more-delve-leaves-early-access/",
-        "summary": "Co-op dungeon crawler One More Delve exits Early Access today on SteamVR and Meta Quest.",
-        "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 14:52:32 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/XiTtsrz3qP4-HD.jpg"
-      },
-      {
         "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
         "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
-        "summary": "Amelia's Escape, a narrative-driven VR escape room game, is now available for Meta Quest and PC VR.",
+        "summary": "Amelia's Escape, a narrative-driven VR escape room game, is now available on SteamVR and Meta Quest.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:55:07 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
       },
       {
-        "title": "Xbox Game Pass Now Included with Quest’s Horizon+, Gamepad Emulation Coming Soon",
-        "url": "https://roadtovr.com/xbox-game-pass-horizon-subscription-deal-included/",
-        "summary": "Meta partners with Microsoft to integrate Xbox Game Pass into its Horizon+ VR service, enhancing gaming options.",
+        "title": "Co-op Dungeon Crawler One More Delve Leaves Early Access",
+        "url": "https://www.uploadvr.com/co-op-dungeon-crawler-one-more-delve-leaves-early-access/",
+        "summary": "Co-op dungeon crawler One More Delve exits Early Access today, officially launching on SteamVR and Meta Quest.",
+        "source": "uploadvr.com",
+        "date": "Thu, 23 Jul 2026 14:52:32 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/XiTtsrz3qP4-HD.jpg"
+      },
+      {
+        "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
+        "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
+        "summary": "Magic Leap lays off nearly 200 employees as it pivots to become a waveguide supplier for AR glasses.",
         "source": "roadtovr.com",
-        "date": "Wed, 22 Jul 2026 12:10:37 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/xbox-horizon-plus.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Mon, 20 Jul 2026 10:43:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "EssilorLuxottica Acquires French XR Startup Lynx, Putting R2 Headset Release in Doubt",
+        "url": "https://roadtovr.com/essilorluxottica-acquires-lynx-r2-headset-release/",
+        "summary": "EssilorLuxottica acquires French XR startup Lynx, raising questions about the future of its R2 headset.",
+        "source": "roadtovr.com",
+        "date": "Thu, 16 Jul 2026 07:20:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/lynx-r2-lens.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve releases a significant SteamVR update ahead of the anticipated launch of its standalone VR headset, Steam Frame.",
+        "summary": "Valve releases a major SteamVR update, hinting at the imminent launch of its standalone VR headset, Steam Frame.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
@@ -63,49 +63,49 @@
       {
         "title": "AMD commits up to $5 billion to Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-        "summary": "AMD announces a partnership to invest up to $5 billion in Anthropic, boosting the AI company's computing capabilities.",
+        "summary": "AMD announces a partnership with Anthropic, committing up to $5 billion to enhance the AI company's computing capabilities.",
         "source": "theverge.com",
         "date": "2026-07-22T10:44:27-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon's Alexa Plus receives an update to improve smart home device connectivity and handle more complex instructions.",
-        "source": "theverge.com",
-        "date": "2026-07-23T17:15:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Claude’s voice mode is now available for Opus and Sonnet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-        "summary": "Anthropic expands Claude's voice mode to Opus and Sonnet models, enhancing its application across various platforms.",
-        "source": "theverge.com",
-        "date": "2026-07-23T15:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are set to introduce an 'AI Kill Switch Act' to allow government control over AI systems in emergencies.",
+        "summary": "Lawmakers prepare to introduce an 'AI Kill Switch Act' to enable government control over AI systems during emergencies.",
         "source": "theverge.com",
         "date": "2026-07-23T10:13:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-        "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-        "summary": "Apple's lawsuit against OpenAI highlights the battle over defining the future of technology in the post-smartphone era.",
+        "title": "Claude’s voice mode is now available for Opus and Sonnet",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+        "summary": "Anthropic expands voice mode to its Opus and Sonnet models, enhancing accessibility across various applications.",
         "source": "theverge.com",
-        "date": "2026-07-23T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-23T15:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Patreon is laying off 20 percent of workers",
+        "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+        "summary": "Patreon lays off 20% of its workforce, citing AI's transformative impact on the tech industry.",
+        "source": "theverge.com",
+        "date": "2026-07-23T14:20:30-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "summary": "Amazon's Alexa Plus receives an AI update, enhancing its integration with smart home devices.",
+        "source": "theverge.com",
+        "date": "2026-07-23T17:15:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Patriots agree to terms with TE Jeremiah Franklin",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-agree-to-terms-with-te-jeremiah-franklin",
-        "summary": "The Patriots have agreed to terms with tight end Jeremiah Franklin, adding depth to their roster.",
+        "summary": "The Patriots sign tight end Jeremiah Franklin, bolstering their roster ahead of the upcoming season.",
         "source": "nbcsports.com",
         "date": "Thu, 23 Jul 2026 18:26:07 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/500114a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_rooneyrule_260722.jpg"
@@ -113,26 +113,34 @@
       {
         "title": "Cardinals OL Isaiah Adams practices despite his recent arrest",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-ol-isaiah-adams-practices-despite-his-recent-arrest",
-        "summary": "Cardinals OL Isaiah Adams participates in training camp despite facing multiple weapons charges from a recent arrest.",
+        "summary": "Cardinals OL Isaiah Adams practices despite facing four weapons charges following his recent arrest in Canada.",
         "source": "nbcsports.com",
         "date": "Thu, 23 Jul 2026 21:54:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/369ea9e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F865%2F371%2Fnbc_pftpm_grudennews_260723.jpg"
       },
       {
+        "title": "Panthers LB Nic Scourton diagnosed with torn ACL after practice injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-lb-nic-scourton-diagnosed-with-torn-acl-after-practice-injury",
+        "summary": "Panthers LB Nic Scourton is diagnosed with a torn ACL after an injury during practice, likely sidelining him for the season.",
+        "source": "nbcsports.com",
+        "date": "Thu, 23 Jul 2026 16:09:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/af9c8a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F67%2F707%2Fnbc_pft_freelingpick19_260423.jpg"
+      },
+      {
         "title": "Mike LaFleur: Paris Johnson, Josh Sweat landing on PUP list is \"just maintenance\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-lafleur-on-paris-johnson-josh-sweat-pup-list-is-just-maintenance",
-        "summary": "Cardinals coach Mike LaFleur downplays the significance of Paris Johnson and Josh Sweat being placed on the PUP list.",
+        "summary": "Cardinals coach Mike LaFleur downplays concerns as Paris Johnson and Josh Sweat land on the PUP list.",
         "source": "nbcsports.com",
         "date": "Thu, 23 Jul 2026 19:56:47 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f021fd7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F866%2F847%2Fnbc_pftpm_no1campv2_260723.jpg"
       },
       {
-        "title": "Panthers sign TE Caden Prieskorn",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-sign-te-caden-prieskorn",
-        "summary": "The Panthers sign tight end Caden Prieskorn as they continue to build their roster ahead of the season.",
+        "title": "UFL MVP Jack Plummer to work out for 49ers, Dolphins",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ufl-mvp-jack-plummer-to-work-out-for-49ers-dolphins",
+        "summary": "UFL MVP Jack Plummer is set to work out for both the 49ers and Dolphins as teams evaluate potential signings.",
         "source": "nbcsports.com",
-        "date": "Thu, 23 Jul 2026 16:44:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/309730f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_espnclark_260721.jpg"
+        "date": "Thu, 23 Jul 2026 15:01:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c732796/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F363%2F995%2Fnbc_pftpm_donaldunretirement_260714_copy.jpg"
       },
       {
         "title": "Ravens waive QB Diego Pavia",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 23 Jul 2026 16:24:39 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b8e78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_rodgersstock_260721.jpg"
-      },
-      {
-        "title": "Panthers LB Nic Scourton diagnosed with torn ACL after practice injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-lb-nic-scourton-diagnosed-with-torn-acl-after-practice-injury",
-        "summary": "Panthers LB Nic Scourton is diagnosed with a torn ACL following an injury during practice, expected to miss the entire season.",
-        "source": "nbcsports.com",
-        "date": "Thu, 23 Jul 2026 16:09:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/af9c8a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F67%2F707%2Fnbc_pft_freelingpick19_260423.jpg"
       }
     ]
   }
