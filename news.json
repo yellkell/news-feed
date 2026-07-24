@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-24T20:44:37.938Z",
+  "updated": "2026-07-24T21:46:19.869Z",
   "feed": {
     "VR": [
       {
         "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
         "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman launched ARR Immersive for Apple Vision Pro, offering original music experiences in immersive 360 and 180-degree formats.",
+        "summary": "A.R. Rahman launched ARR Immersive for Apple Vision Pro, offering original music and performance content in immersive 360 and 180-degree formats.",
         "source": "uploadvr.com",
         "date": "Fri, 24 Jul 2026 10:17:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
@@ -13,31 +13,31 @@
       {
         "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
         "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
-        "summary": "Roboquest VR has launched on Quest 3 with a new co-op mode, enabling cross-platform play across multiple VR systems.",
+        "summary": "Roboquest VR has launched on Quest 3 and 3S, introducing a co-op mode with cross-play support across all major VR platforms.",
         "source": "roadtovr.com",
         "date": "Fri, 24 Jul 2026 08:14:11 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
-        "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
-        "summary": "Amelia's Escape, a narrative-driven escape room puzzle game, is now available for Meta Quest and PC VR.",
-        "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 12:55:07 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
-      },
-      {
         "title": "Space Flight Simulator Remnant Protocol Details Future Plans In Public Roadmap",
         "url": "https://www.uploadvr.com/space-flight-simulator-remnant-protocol-details-future-plans-in-public-roadmap/",
-        "summary": "Remnant Protocol has released a public roadmap detailing future updates following its early access launch on Meta Quest.",
+        "summary": "Remnant Protocol, a space flight simulator, has released a public roadmap detailing its future development plans after an Early Access launch.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 14:52:37 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Remnant-Protocol.jpg"
       },
       {
+        "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
+        "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
+        "summary": "Amelia's Escape, a narrative-driven VR escape room game, is now available on SteamVR and Meta Quest.",
+        "source": "uploadvr.com",
+        "date": "Thu, 23 Jul 2026 12:55:07 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
+      },
+      {
         "title": "Xbox Game Pass Now Included with Quest’s Horizon+, Gamepad Emulation Coming Soon",
         "url": "https://roadtovr.com/xbox-game-pass-horizon-subscription-deal-included/",
-        "summary": "Meta partners with Microsoft to include a starter edition of Xbox Game Pass in Horizon+, enhancing VR gaming options.",
+        "summary": "Meta partners with Microsoft to include Xbox Game Pass in Horizon+, with gamepad emulation for Quest controllers coming soon.",
         "source": "roadtovr.com",
         "date": "Wed, 22 Jul 2026 12:10:37 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/xbox-horizon-plus.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -45,7 +45,7 @@
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve has released a significant SteamVR update ahead of the anticipated launch of its standalone VR headset, Steam Frame.",
+        "summary": "Valve has released a significant SteamVR update, hinting at the upcoming launch of its standalone VR headset, Steam Frame.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
@@ -55,31 +55,31 @@
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of the powerful Claude Fable 5 model.",
+        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of Claude Fable 5 in various domains.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI is rolling out ChatGPT Health, allowing users to connect medical records and health data to the chatbot.",
-        "source": "theverge.com",
-        "date": "2026-07-23T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Meta is making its AI chatbot more like an assistant",
         "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "summary": "Meta is enhancing its AI chatbot with productivity features, enabling calendar integration and advanced research capabilities.",
+        "summary": "Meta is enhancing its AI chatbot with new features to improve productivity and compete with rivals like ChatGPT and Claude.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
       },
       {
+        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+        "summary": "OpenAI has rolled out ChatGPT Health in the US, allowing users to connect medical records to the chatbot for personalized health insights.",
+        "source": "theverge.com",
+        "date": "2026-07-23T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' requiring companies to disable AI systems on government orders.",
+        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to allow the government to control AI systems during emergencies.",
         "source": "theverge.com",
         "date": "2026-07-23T10:13:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,36 +87,44 @@
       {
         "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
         "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon's Alexa Plus is receiving an update to handle more complex smart home commands and device integrations.",
+        "summary": "Amazon's Alexa Plus is set to receive an AI update enabling it to handle more complex smart home commands.",
         "source": "theverge.com",
         "date": "2026-07-23T17:15:06-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "You can’t ignore Google Zero anymore",
-        "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-        "summary": "Google's relationship with websites is shifting, as the traditional data exchange model appears to be breaking down.",
+        "title": "Claude’s voice mode is now available for Opus and Sonnet",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+        "summary": "Anthropic has made voice mode available for its Opus and Sonnet models, expanding their usability in applications like Gmail and Slack.",
         "source": "theverge.com",
-        "date": "2026-07-24T13:29:48-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-23T15:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Andy Reid: Patrick Mahomes has been cleared to fully participate",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-patrick-mahomes-has-been-cleared-to-fully-participate",
-        "summary": "Patrick Mahomes has been cleared to fully participate in training camp, avoiding the physically unable to perform list.",
+        "summary": "Chiefs quarterback Patrick Mahomes has been cleared for full participation in training camp after recovering from a torn ACL.",
         "source": "nbcsports.com",
         "date": "Fri, 24 Jul 2026 16:03:14 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/395e35f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F391%2F550%2Fnbc_pft_patrickmahomesnewmoney_260611.jpg"
       },
       {
-        "title": "Will Grier joins Cowboys' coaching staff",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-grier-joins-cowboys-coaching-staff",
-        "summary": "Will Grier has joined the Cowboys' coaching staff just a week after retiring as a player.",
+        "title": "Titans agree to terms with DB Nazeeh Johnson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-agree-to-terms-with-db-nazeeh-johnson",
+        "summary": "The Titans have signed free agent defensive back Nazeeh Johnson, bolstering their secondary ahead of the upcoming season.",
         "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 15:34:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
+        "date": "Fri, 24 Jul 2026 17:09:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
+      },
+      {
+        "title": "Patrick Mahomes: This is just a checkpoint on the schedule, you have to continue to work",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-this-is-just-a-checkpoint-on-the-schedule-you-have-to-continue-to-work",
+        "summary": "Patrick Mahomes emphasizes the importance of continuous improvement as he prepares for the regular season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 24 Jul 2026 16:47:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6bdd54/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F992%2F279%2Fnbc_pft_mahomesdetermine_260529.jpg"
       },
       {
         "title": "Super Bowl LXII will be played on February 13, 2028",
@@ -127,28 +135,20 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
       },
       {
-        "title": "Seahawks, Patriots report to training camp Friday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-patriots-report-to-training-camp-friday",
-        "summary": "The Seahawks and Patriots are set to report to training camp, marking the start of the 2026 season preparations.",
+        "title": "Will Grier joins Cowboys' coaching staff",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-grier-joins-cowboys-coaching-staff",
+        "summary": "Will Grier transitions from player to coach, joining the Cowboys' coaching staff after his retirement.",
         "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 08:39:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
+        "date": "Fri, 24 Jul 2026 15:34:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9cc6d3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F997%2F1007%2Fnbc_pft_pickensallin_260617.jpg"
       },
       {
-        "title": "Drew Allar signs rookie contract with Steelers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-allar-signs-rookie-contract-with-steelers",
-        "summary": "Drew Allar has signed his rookie contract with the Steelers, finalizing his entry into the NFL.",
+        "title": "DeAndre Hopkins working with Patriots coaches, personnel department at training camp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deandre-hopkins-working-with-patriots-coaches-personnel-department-at-training-camp",
+        "summary": "DeAndre Hopkins is collaborating with Patriots coaches during training camp, reuniting with head coach Mike Vrabel.",
         "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 13:26:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/36b8e78/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_rodgersstock_260721.jpg"
-      },
-      {
-        "title": "Tony Romo is arrested for OWI in Milwaukee",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tony-romo-is-arrested-for-owi-in-milwaukee",
-        "summary": "Tony Romo was arrested for OWI in Milwaukee and is scheduled to appear in court on September 21.",
-        "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 14:33:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a483b73/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F505%2F1011%2Fbrady_image.jpg"
+        "date": "Fri, 24 Jul 2026 13:17:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/765ffcf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_devonwitherspoon_260722.jpg"
       }
     ]
   }
