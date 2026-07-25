@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-25T16:58:36.097Z",
+  "updated": "2026-07-25T17:58:42.473Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing the value for Quest owners.",
+        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing value for Quest owners.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
@@ -13,7 +13,7 @@
       {
         "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
         "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
-        "summary": "Roboquest VR has launched on Quest 3, introducing a co-op mode with cross-play across all major VR platforms.",
+        "summary": "Roboquest VR has launched on Quest 3 with a new co-op mode, enabling cross-play across multiple VR platforms.",
         "source": "roadtovr.com",
         "date": "Fri, 24 Jul 2026 08:14:11 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,7 +21,7 @@
       {
         "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
         "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman has launched ARR Immersive for Apple Vision Pro, featuring original music experiences in immersive formats.",
+        "summary": "A.R. Rahman introduces ARR Immersive, an app for Apple Vision Pro that combines music and performance in immersive formats.",
         "source": "uploadvr.com",
         "date": "Fri, 24 Jul 2026 10:17:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
@@ -29,33 +29,33 @@
       {
         "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
         "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR is now available on Meta Quest 3, complete with a co-op mode for enhanced gameplay.",
+        "summary": "Roboquest VR is now available on Quest 3, featuring cross-platform co-op support for enhanced multiplayer experiences.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:51:31 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
       },
       {
-        "title": "Geronimo Hands-On - A Tactical Shooter Breaching Early Access On Steam",
-        "url": "https://www.uploadvr.com/geronimo-hands-on-a-tactical-shooter-breaching-early-access-on-steam/",
-        "summary": "Geronimo, a tactical shooter, enters Early Access on Steam, showcasing potential despite some initial jank.",
+        "title": "Space Flight Simulator Remnant Protocol Details Future Plans In Public Roadmap",
+        "url": "https://www.uploadvr.com/space-flight-simulator-remnant-protocol-details-future-plans-in-public-roadmap/",
+        "summary": "Remnant Protocol has detailed its future development plans following a soft Early Access launch on Meta Quest.",
         "source": "uploadvr.com",
-        "date": "Fri, 24 Jul 2026 10:26:34 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Geronimo-VR.jpg"
+        "date": "Thu, 23 Jul 2026 14:52:37 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Remnant-Protocol.jpg"
       },
       {
-        "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
-        "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
-        "summary": "Magic Leap has laid off nearly 200 employees as it pivots to becoming a waveguide supplier for AR glasses.",
-        "source": "roadtovr.com",
-        "date": "Mon, 20 Jul 2026 10:43:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
+        "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
+        "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
+        "summary": "Amelia's Escape, a new VR narrative escape room game, has officially launched on SteamVR and Meta Quest.",
+        "source": "uploadvr.com",
+        "date": "Thu, 23 Jul 2026 12:55:07 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of Claude Fable 5.",
+        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of its predecessor, Claude Fable 5.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Meta is making its AI chatbot more like an assistant",
         "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "summary": "Meta is enhancing its AI chatbot with productivity features to compete with rivals like ChatGPT and Claude.",
+        "summary": "Meta is enhancing its AI chatbot with productivity features to better compete with rivals like ChatGPT and Claude.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
@@ -71,15 +71,23 @@
       {
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI is rolling out ChatGPT Health, allowing users to connect medical records for personalized health insights.",
+        "summary": "OpenAI has rolled out ChatGPT Health, allowing users to connect medical records to the AI for personalized health insights.",
         "source": "theverge.com",
         "date": "2026-07-23T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to regulate AI systems under orders from the Department of Homeland Security.",
+        "source": "theverge.com",
+        "date": "2026-07-23T10:13:35-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "You can’t ignore Google Zero anymore",
         "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-        "summary": "The web's relationship with Google is changing, as the search engine's traffic benefits for websites diminish.",
+        "summary": "Google's relationship with web traffic is changing, as the balance shifts away from sending traffic to websites.",
         "source": "theverge.com",
         "date": "2026-07-24T13:29:48-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,21 +95,21 @@
       {
         "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
         "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon's Alexa Plus is receiving an AI update to better handle complex smart home commands.",
+        "summary": "Amazon's Alexa Plus is set to receive an update enabling it to handle more complex smart home device interactions.",
         "source": "theverge.com",
         "date": "2026-07-23T17:15:06-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to regulate AI systems at the federal level.",
-        "source": "theverge.com",
-        "date": "2026-07-23T10:13:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
+      {
+        "title": "Robert Kraft: We've offered to make Christian Gonzalez the top-paid cornerback",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-kraft-weve-offered-to-make-christian-gonzalez-the-top-paid-cornerback",
+        "summary": "The Patriots have offered Christian Gonzalez a contract extension to become the NFL's highest-paid cornerback.",
+        "source": "nbcsports.com",
+        "date": "Sat, 25 Jul 2026 13:29:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
+      },
       {
         "title": "Former NFL offensive lineman Jordan Devey dies at 38",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-nfl-offensive-lineman-jorday-devey-dies-at-38",
@@ -111,44 +119,36 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/fce4758/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2FMarshawnKneeland7-7.jpg"
       },
       {
-        "title": "Ravens to sign Chris Moore after working out several receivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-to-sign-chris-moore-after-working-out-several-receivers",
-        "summary": "The Ravens have signed wide receiver Chris Moore after evaluating several players during workouts.",
+        "title": "Andy Reid: Mansoor Delane is doing well in recovery from shoulder injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-mansoor-delane-is-doing-well-in-recovery-from-shoulder-injury",
+        "summary": "Chiefs cornerback Mansoor Delane is recovering well from a shoulder injury, according to head coach Andy Reid.",
         "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 19:27:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
-      },
-      {
-        "title": "Kyle Shanahan suffered \"severe concussion\" and other injuries in July 14 car accident",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-suffered-severe-concussion-and-other-injuries-in-july-14-car-accident",
-        "summary": "Kyle Shanahan is recovering from a severe concussion sustained in a car accident, limiting his training camp participation.",
-        "source": "nbcsports.com",
-        "date": "Sat, 25 Jul 2026 12:18:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
+        "date": "Sat, 25 Jul 2026 05:51:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4fa018f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F664%2F347%2Fnbc_pft_wedding_260706.jpg"
       },
       {
         "title": "Patrick Mahomes will wear a brace on his knee, \"I can still move and be myself with it\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-will-wear-a-brace-on-his-knee-i-can-still-move-and-be-myself-with-it",
-        "summary": "Patrick Mahomes will wear a knee brace during training camp but feels comfortable and able to move freely.",
+        "summary": "Patrick Mahomes will wear a knee brace during training camp but feels it won't hinder his mobility.",
         "source": "nbcsports.com",
         "date": "Sat, 25 Jul 2026 05:06:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/39515c2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F381%2F791%2Fnbc_pft_patrickmahomesextension_260611.jpg"
       },
       {
-        "title": "Titans agree to terms with DB Nazeeh Johnson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-agree-to-terms-with-db-nazeeh-johnson",
-        "summary": "The Titans have agreed to terms with free agent defensive back Nazeeh Johnson, enhancing their roster.",
+        "title": "Patrick Mahomes consulted with Tom Brady, others during the rehab process",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-consulted-with-tom-brady-others-during-the-rehab-process",
+        "summary": "Patrick Mahomes consulted with Tom Brady during his recovery from a serious knee injury.",
         "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 17:09:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
+        "date": "Fri, 24 Jul 2026 19:19:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a483b73/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F505%2F1011%2Fbrady_image.jpg"
       },
       {
-        "title": "Seahawks sign TE Nick Vannett",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-te-nick-vannett",
-        "summary": "The Seahawks have re-signed veteran tight end Nick Vannett, adding experience to their offense.",
+        "title": "Bill Belichick wants NCAA and NFL playing rules to be standardized",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-wants-ncaa-and-nfl-playing-rules-to-be-standardized",
+        "summary": "Bill Belichick advocates for standardized playing rules between the NCAA and NFL as he transitions to college coaching.",
         "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 17:03:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/765ffcf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_devonwitherspoon_260722.jpg"
+        "date": "Sat, 25 Jul 2026 11:28:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
       }
     ]
   }
