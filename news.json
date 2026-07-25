@@ -1,35 +1,43 @@
 {
-  "updated": "2026-07-25T14:46:01.197Z",
+  "updated": "2026-07-25T15:58:23.318Z",
   "feed": {
     "VR": [
       {
         "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
         "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman launched ARR Immersive for Apple Vision Pro, offering original music and performance content in immersive formats.",
+        "summary": "A.R. Rahman launched ARR Immersive for Apple Vision Pro, offering original content blending music, dance, and performance in immersive formats.",
         "source": "uploadvr.com",
         "date": "Fri, 24 Jul 2026 10:17:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
       },
       {
-        "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
-        "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR is now available on Meta Quest 3, featuring a new cross-platform co-op mode.",
-        "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 12:51:31 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
+        "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
+        "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
+        "summary": "Roboquest has officially launched on Quest 3, introducing a co-op mode that supports cross-play across multiple VR platforms.",
+        "source": "roadtovr.com",
+        "date": "Fri, 24 Jul 2026 08:14:11 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
         "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
-        "summary": "Amelia's Escape, a narrative-driven VR escape room game, has officially launched on SteamVR and Meta Quest.",
+        "summary": "Amelia's Escape, a narrative-driven VR escape room game, is now available for Meta Quest and PC VR.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:55:07 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
       },
       {
+        "title": "Xbox Game Pass Now Included with Quest’s Horizon+, Gamepad Emulation Coming Soon",
+        "url": "https://roadtovr.com/xbox-game-pass-horizon-subscription-deal-included/",
+        "summary": "Meta partners with Microsoft to integrate Xbox Game Pass into Horizon+, enhancing its VR gaming subscription service.",
+        "source": "roadtovr.com",
+        "date": "Wed, 22 Jul 2026 12:10:37 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/xbox-horizon-plus.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "Space Flight Simulator Remnant Protocol Details Future Plans In Public Roadmap",
         "url": "https://www.uploadvr.com/space-flight-simulator-remnant-protocol-details-future-plans-in-public-roadmap/",
-        "summary": "Remnant Protocol has shared its development roadmap following a soft Early Access launch on Meta Quest.",
+        "summary": "Remnant Protocol has released a public roadmap detailing future updates following its Early Access launch on Meta Quest.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 14:52:37 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Remnant-Protocol.jpg"
@@ -37,68 +45,60 @@
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
         "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve released a major update for SteamVR, hinting at the upcoming launch of its standalone VR headset, Steam Frame.",
+        "summary": "Valve's latest SteamVR update prepares for the anticipated launch of its standalone VR headset, Steam Frame.",
         "source": "roadtovr.com",
         "date": "Sat, 18 Jul 2026 15:01:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Xbox Game Pass Now Included with Quest’s Horizon+, Gamepad Emulation Coming Soon",
-        "url": "https://roadtovr.com/xbox-game-pass-horizon-subscription-deal-included/",
-        "summary": "Meta is partnering with Microsoft to include Xbox Game Pass in its VR game subscription service, Horizon+.",
-        "source": "roadtovr.com",
-        "date": "Wed, 22 Jul 2026 12:10:37 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/xbox-horizon-plus.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, boasting capabilities close to its predecessor, Claude Fable 5.",
+        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of Claude Fable 5 in various domains.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI is rolling out ChatGPT Health, allowing users to connect medical records to the chatbot.",
-        "source": "theverge.com",
-        "date": "2026-07-23T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Meta is making its AI chatbot more like an assistant",
         "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "summary": "Meta is enhancing its AI chatbot with new productivity features, integrating calendar access for better assistance.",
+        "summary": "Meta is enhancing its AI chatbot with productivity features, allowing it to access user calendars for event planning.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
       },
       {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon's Alexa Plus is set to receive an update, enabling it to manage more complex smart home tasks.",
+        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+        "summary": "OpenAI is rolling out ChatGPT Health across the US, enabling users to connect medical records to the chatbot.",
         "source": "theverge.com",
-        "date": "2026-07-23T17:15:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-23T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to regulate AI systems under government orders.",
+        "summary": "Lawmakers are set to introduce the 'AI Kill Switch Act' to allow government control over AI systems in emergencies.",
         "source": "theverge.com",
         "date": "2026-07-23T10:13:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "You can’t ignore Google Zero anymore",
-        "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-        "summary": "The traditional web-Google traffic exchange is breaking down, signaling a shift in online data dynamics.",
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "summary": "Amazon's Alexa Plus is receiving an update to manage more complex smart home device interactions.",
         "source": "theverge.com",
-        "date": "2026-07-24T13:29:48-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-23T17:15:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Midjourney bought the astrology app Co-Star",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+        "summary": "Midjourney has acquired the astrology app Co-Star, expanding its portfolio into personalized astrology services.",
+        "source": "theverge.com",
+        "date": "2026-07-24T15:06:58-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
@@ -111,44 +111,44 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/fce4758/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F764%2F446%2FMarshawnKneeland7-7.jpg"
       },
       {
-        "title": "Andy Reid: Patrick Mahomes has been cleared to fully participate",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-patrick-mahomes-has-been-cleared-to-fully-participate",
-        "summary": "Patrick Mahomes has been cleared to fully participate in training camp, avoiding the physically unable to perform list.",
+        "title": "Andy Reid: Mansoor Delane is doing well in recovery from shoulder injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-mansoor-delane-is-doing-well-in-recovery-from-shoulder-injury",
+        "summary": "Chiefs cornerback Mansoor Delane is recovering well from a shoulder injury after being drafted sixth overall.",
         "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 16:03:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/395e35f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F391%2F550%2Fnbc_pft_patrickmahomesnewmoney_260611.jpg"
+        "date": "Sat, 25 Jul 2026 05:51:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4fa018f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F664%2F347%2Fnbc_pft_wedding_260706.jpg"
       },
       {
-        "title": "Patrick Mahomes: This is just a checkpoint on the schedule, you have to continue to work",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-this-is-just-a-checkpoint-on-the-schedule-you-have-to-continue-to-work",
-        "summary": "Patrick Mahomes emphasized the importance of continuous improvement during his recovery from a severe knee injury.",
+        "title": "Seahawks sign TE Nick Vannett",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-te-nick-vannett",
+        "summary": "The Seahawks have re-signed veteran tight end Nick Vannett to bolster their offensive lineup.",
         "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 16:47:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6bdd54/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F992%2F279%2Fnbc_pft_mahomesdetermine_260529.jpg"
-      },
-      {
-        "title": "Ravens to sign Chris Moore after working out several receivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-to-sign-chris-moore-after-working-out-several-receivers",
-        "summary": "The Ravens have signed wide receiver Chris Moore after evaluating several players during workouts.",
-        "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 19:27:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
+        "date": "Fri, 24 Jul 2026 17:03:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/765ffcf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_devonwitherspoon_260722.jpg"
       },
       {
         "title": "Titans agree to terms with DB Nazeeh Johnson",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-agree-to-terms-with-db-nazeeh-johnson",
-        "summary": "The Titans have agreed to terms with free agent defensive back Nazeeh Johnson.",
+        "summary": "The Titans have agreed to terms with free agent defensive back Nazeeh Johnson, adding depth to their roster.",
         "source": "nbcsports.com",
         "date": "Fri, 24 Jul 2026 17:09:37 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
       },
       {
-        "title": "Seahawks sign TE Nick Vannett",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-te-nick-vannett",
-        "summary": "The Seahawks have re-signed veteran tight end Nick Vannett to bolster their offense.",
+        "title": "Jaxon Smith-Njigba: We're ready for the next thing",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxon-smith-njigba-were-ready-for-the-next-thing",
+        "summary": "Seahawks' Jaxon Smith-Njigba expresses readiness for the upcoming season after last year's Super Bowl win.",
         "source": "nbcsports.com",
-        "date": "Fri, 24 Jul 2026 17:03:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/765ffcf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_devonwitherspoon_260722.jpg"
+        "date": "Sat, 25 Jul 2026 08:43:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2da9000/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_seahawksbidding_260720.jpg"
+      },
+      {
+        "title": "Patrick Mahomes will wear a brace on his knee, \"I can still move and be myself with it\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-will-wear-a-brace-on-his-knee-i-can-still-move-and-be-myself-with-it",
+        "summary": "Patrick Mahomes will wear a knee brace for comfort during the upcoming season as he continues recovery.",
+        "source": "nbcsports.com",
+        "date": "Sat, 25 Jul 2026 05:06:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/39515c2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F381%2F791%2Fnbc_pft_patrickmahomesextension_260611.jpg"
       }
     ]
   }
