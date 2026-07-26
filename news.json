@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-26T03:53:40.782Z",
+  "updated": "2026-07-26T06:30:26.078Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now offers Xbox Game Pass access, enhancing its value for Quest users with over 50 titles included at no extra cost.",
+        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing value for Quest owners with a free upgrade.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
@@ -13,7 +13,7 @@
       {
         "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
         "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
-        "summary": "Roboquest VR launches on Quest 3 with a co-op update, allowing cross-play across multiple VR platforms.",
+        "summary": "Roboquest VR launches on Quest 3 with a co-op update, enabling cross-play across all supported VR platforms.",
         "source": "roadtovr.com",
         "date": "Fri, 24 Jul 2026 08:14:11 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,41 +21,41 @@
       {
         "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
         "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman introduces ARR Immersive for Apple Vision Pro, merging music and performance in immersive formats.",
+        "summary": "A.R. Rahman introduces ARR Immersive on Apple Vision Pro, blending music and performance in immersive formats.",
         "source": "uploadvr.com",
         "date": "Fri, 24 Jul 2026 10:17:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
       },
       {
-        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
-        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve releases a major SteamVR update ahead of its anticipated standalone headset, Steam Frame.",
-        "source": "roadtovr.com",
-        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Space Flight Simulator Remnant Protocol Details Future Plans In Public Roadmap",
         "url": "https://www.uploadvr.com/space-flight-simulator-remnant-protocol-details-future-plans-in-public-roadmap/",
-        "summary": "Remnant Protocol outlines its development roadmap following a soft launch on Meta Quest.",
+        "summary": "Remnant Protocol reveals its development roadmap following a soft Early Access launch on Meta Quest.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 14:52:37 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Remnant-Protocol.jpg"
       },
       {
-        "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
-        "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR is now available on Meta Quest 3, featuring cross-platform co-op capabilities.",
+        "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
+        "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
+        "summary": "Amelia's Escape, a new VR escape room game, is now available on SteamVR and Meta Quest.",
         "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 12:51:31 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
+        "date": "Thu, 23 Jul 2026 12:55:07 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
+      },
+      {
+        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
+        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
+        "summary": "Valve releases a significant SteamVR update ahead of the anticipated launch of its standalone headset, Steam Frame.",
+        "source": "roadtovr.com",
+        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, boasting capabilities close to its predecessor, Claude Fable 5.",
+        "summary": "Anthropic has released Claude Opus 5, boasting capabilities close to its predecessor, Claude Fable 5, amidst industry scrutiny.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI launches ChatGPT Health, enabling users to connect medical records and health data to the chatbot.",
+        "summary": "OpenAI launches ChatGPT Health, allowing users to connect medical records and health data to its chatbot.",
         "source": "theverge.com",
         "date": "2026-07-23T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Meta is making its AI chatbot more like an assistant",
         "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "summary": "Meta enhances its AI chatbot with new productivity features, aiming to compete with major rivals.",
+        "summary": "Meta enhances its AI chatbot with productivity features, allowing calendar access and event planning.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
@@ -79,23 +79,23 @@
       {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to regulate AI systems under government orders.",
+        "summary": "Legislation for an 'AI Kill Switch' is being prepared, requiring AI systems to be shut down on government orders.",
         "source": "theverge.com",
         "date": "2026-07-23T10:13:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Claude’s voice mode is now available for Opus and Sonnet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-        "summary": "Anthropic expands voice mode availability to its Opus and Sonnet models, enhancing integration with popular apps.",
+        "title": "You can’t ignore Google Zero anymore",
+        "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+        "summary": "The traditional relationship between Google and web traffic is shifting, signaling a potential upheaval in online content accessibility.",
         "source": "theverge.com",
-        "date": "2026-07-23T15:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-24T13:29:48-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
         "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon's Alexa Plus is set to receive an AI update, improving its smart home integration capabilities.",
+        "summary": "Amazon's Alexa Plus is set to receive an update for improved smart home device integration.",
         "source": "theverge.com",
         "date": "2026-07-23T17:15:06-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -105,7 +105,7 @@
       {
         "title": "Mike Macdonald on ownership change: \"We're entering a new chapter in our organization's history\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-on-ownership-change-were-entering-a-new-chapter-in-our-organizations-history",
-        "summary": "The Seahawks prepare for a new chapter as they announce the sale of the team to a group led by Vinod Khosla.",
+        "summary": "The Seahawks begin a new chapter as they open training camp following the announcement of the team's sale to Vinod Khosla.",
         "source": "nbcsports.com",
         "date": "Sat, 25 Jul 2026 22:36:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2da9000/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_seahawksbidding_260720.jpg"
@@ -113,42 +113,42 @@
       {
         "title": "Despite ongoing legal issue, Alaric Jackson will practice with Rams",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-ongoing-legal-issue-alaric-jackson-will-practice-with-rams",
-        "summary": "Rams tackle Alaric Jackson will practice despite facing ongoing legal issues from an offseason domestic battery accusation.",
+        "summary": "Rams tackle Alaric Jackson will practice despite facing a domestic battery accusation, as he won't be charged with a felony.",
         "source": "nbcsports.com",
         "date": "Sat, 25 Jul 2026 19:08:58 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ffb6ed9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F362%2F519%2Fnbc_pftpm_larjacksonlatest_260714.jpg"
       },
       {
-        "title": "Trey McBride regrets offseason comments about Cardinals fans",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trey-mcbride-regrets-offseason-comments-about-cardinals-fans",
-        "summary": "Cardinals tight end Trey McBride expresses regret over offseason comments about fans.",
+        "title": "Bengals place DL B.J. Hill on PUP list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-place-dl-b-j-hill-on-pup-list",
+        "summary": "Bengals defensive tackle B.J. Hill is placed on the PUP list as training camp opens.",
         "source": "nbcsports.com",
-        "date": "Sat, 25 Jul 2026 22:18:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c90c64/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F57%2F687%2Fnbc_pftpm_lafleurcards_260724.jpg"
+        "date": "Sat, 25 Jul 2026 15:40:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6361063/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F42%2Fnbc_pftpm_nabersgood_260724.jpg"
       },
       {
         "title": "George Kittle lands on PUP list to open 49ers camp",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-lands-on-pup-list-to-open-49ers-camp",
-        "summary": "49ers tight end George Kittle starts training camp on the PUP list as he recovers from an Achilles injury.",
+        "summary": "49ers tight end George Kittle is placed on the PUP list, raising concerns about his readiness for Week 1.",
         "source": "nbcsports.com",
         "date": "Sat, 25 Jul 2026 15:27:35 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
       },
       {
+        "title": "Panthers sign three players, cut three others",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-sign-three-players-cut-three-others",
+        "summary": "The Panthers make roster changes, signing three players and cutting three others ahead of training camp.",
+        "source": "nbcsports.com",
+        "date": "Sat, 25 Jul 2026 13:41:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f021fd7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F866%2F847%2Fnbc_pftpm_no1campv2_260723.jpg"
+      },
+      {
         "title": "Robert Kraft: We've offered to make Christian Gonzalez the top-paid cornerback",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-kraft-weve-offered-to-make-christian-gonzalez-the-top-paid-cornerback",
-        "summary": "Patriots owner Robert Kraft reveals discussions to make cornerback Christian Gonzalez the highest-paid at his position.",
+        "summary": "Patriots cornerback Christian Gonzalez is in talks for a contract extension, with the team aiming to make him the highest-paid at his position.",
         "source": "nbcsports.com",
         "date": "Sat, 25 Jul 2026 13:29:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
-      },
-      {
-        "title": "Matthew Stafford will have a reduced practice schedule to keep him fresh",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-will-have-a-reduced-practice-schedule-to-keep-him-fresh",
-        "summary": "Rams quarterback Matthew Stafford will follow a reduced practice schedule to maintain his health ahead of the season.",
-        "source": "nbcsports.com",
-        "date": "Sat, 25 Jul 2026 16:07:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9135f43/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F998%2F135%2Fstafford_2.jpg"
       }
     ]
   }
