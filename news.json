@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-26T17:56:21.601Z",
+  "updated": "2026-07-26T19:03:26.592Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now includes over 50 Xbox Game Pass titles at no extra cost, enhancing its value for Quest owners.",
+        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing its value for Quest subscribers.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
@@ -13,7 +13,7 @@
       {
         "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
         "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
-        "summary": "Roboquest has launched on Quest with a co-op mode, allowing cross-play across all major VR platforms.",
+        "summary": "Roboquest has launched on Quest 3 with a new co-op mode, enabling cross-play across all major VR platforms.",
         "source": "roadtovr.com",
         "date": "Fri, 24 Jul 2026 08:14:11 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,41 +21,41 @@
       {
         "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
         "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman has launched ARR Immersive on Apple Vision Pro, offering unique music and performance experiences in immersive formats.",
+        "summary": "A.R. Rahman introduces ARR Immersive for Apple Vision Pro, blending music and performance in immersive formats.",
         "source": "uploadvr.com",
         "date": "Fri, 24 Jul 2026 10:17:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
       },
       {
-        "title": "Space Flight Simulator Remnant Protocol Details Future Plans In Public Roadmap",
-        "url": "https://www.uploadvr.com/space-flight-simulator-remnant-protocol-details-future-plans-in-public-roadmap/",
-        "summary": "Remnant Protocol has shared a public roadmap detailing future updates following its Early Access launch on Meta Quest.",
+        "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
+        "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
+        "summary": "Roboquest VR launches today on Quest 3, featuring cross-platform co-op play with SteamVR and PSVR 2.",
         "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 14:52:37 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Remnant-Protocol.jpg"
+        "date": "Thu, 23 Jul 2026 12:51:31 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
+      },
+      {
+        "title": "Geronimo Hands-On - A Tactical Shooter Breaching Early Access On Steam",
+        "url": "https://www.uploadvr.com/geronimo-hands-on-a-tactical-shooter-breaching-early-access-on-steam/",
+        "summary": "Geronimo, a tactical shooter, enters Early Access on Steam, showing potential despite some initial flaws.",
+        "source": "uploadvr.com",
+        "date": "Fri, 24 Jul 2026 10:26:34 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Geronimo-VR.jpg"
       },
       {
         "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
         "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
-        "summary": "Amelia's Escape, a narrative-driven VR escape room game, is now available on SteamVR and Meta Quest.",
+        "summary": "Amelia's Escape, a narrative-driven escape room puzzle game, is now available for Meta Quest and PC VR.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:55:07 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
-      },
-      {
-        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
-        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve has released a significant SteamVR update, hinting at the imminent launch of its standalone VR headset, Steam Frame.",
-        "source": "roadtovr.com",
-        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of Claude Fable 5.",
+        "summary": "Anthropic has released Claude Opus 5, closely rivaling the capabilities of Claude Fable 5.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,39 +63,39 @@
       {
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI has rolled out ChatGPT Health, allowing users to connect their medical records for enhanced health tracking.",
+        "summary": "OpenAI launches ChatGPT Health, enabling users to connect medical records and health data to the AI.",
         "source": "theverge.com",
         "date": "2026-07-23T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Meta is making its AI chatbot more like an assistant",
-        "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "summary": "Meta is upgrading its AI chatbot to include productivity features, enabling calendar integration and event planning.",
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "summary": "Amazon's Alexa Plus is set to receive an AI update for improved smart home integration.",
         "source": "theverge.com",
-        "date": "2026-07-24T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
-      },
-      {
-        "title": "Claude’s voice mode is now available for Opus and Sonnet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-        "summary": "Anthropic's voice mode is now available for its Opus and Sonnet models, expanding its use in various applications.",
-        "source": "theverge.com",
-        "date": "2026-07-23T15:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-23T17:15:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Legislation for an 'AI Kill Switch Act' is being prepared, requiring AI systems to be shut down on government orders.",
+        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to regulate AI systems.",
         "source": "theverge.com",
         "date": "2026-07-23T10:13:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Meta is making its AI chatbot more like an assistant",
+        "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+        "summary": "Meta enhances its AI chatbot with productivity features to better compete with rivals.",
+        "source": "theverge.com",
+        "date": "2026-07-24T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
+      },
+      {
         "title": "Midjourney bought the astrology app Co-Star",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-        "summary": "Midjourney has acquired the astrology app Co-Star, marking its entry into the astrology sector.",
+        "summary": "Midjourney expands its portfolio by acquiring the astrology app Co-Star, venturing into personalized horoscopes.",
         "source": "theverge.com",
         "date": "2026-07-24T15:06:58-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "49ers wanted to keep Shanahan accident quiet, and some in the media complied",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wanted-to-keep-shanahan-accident-quiet-and-some-in-the-media-complied",
-        "summary": "49ers coach Kyle Shanahan was involved in a serious car accident, affecting his coaching duties at training camp.",
+        "title": "Cardinals, Jacoby Brissett strike a new deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-jacoby-brissett-strike-a-new-deal",
+        "summary": "The Cardinals have signed quarterback Jacoby Brissett to a new deal worth up to $21 million.",
         "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 09:42:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
+        "date": "Sun, 26 Jul 2026 14:45:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
       },
       {
         "title": "49ers bring back DL Kevin Givens",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-bring-back-dl-kevin-givens",
-        "summary": "The 49ers have re-signed defensive lineman Kevin Givens, extending his tenure with the team to eight seasons.",
+        "summary": "The 49ers have re-signed defensive lineman Kevin Givens for another season.",
         "source": "nbcsports.com",
         "date": "Sun, 26 Jul 2026 13:20:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
       },
       {
-        "title": "Patriots claim WR Kobe Prentice off waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-claim-wr-kobe-prentice-off-waivers",
-        "summary": "The Patriots have claimed wide receiver Kobe Prentice off waivers, adding depth to their roster.",
+        "title": "Sean McVay on Kyle Shanahan accident: I talked to him, he's got an incredible perspective",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-kyle-shanahan-accident-i-talked-to-him-hes-got-an-incredible-perspective",
+        "summary": "Kyle Shanahan is sidelined from full coaching duties after a serious car accident.",
         "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 08:19:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
+        "date": "Sun, 26 Jul 2026 05:30:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9545e3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_coacheslandjob_260612.jpg"
+      },
+      {
+        "title": "49ers wanted to keep Shanahan accident quiet, and some in the media complied",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wanted-to-keep-shanahan-accident-quiet-and-some-in-the-media-complied",
+        "summary": "The 49ers aimed to keep details of Shanahan's accident private, but media coverage emerged.",
+        "source": "nbcsports.com",
+        "date": "Sun, 26 Jul 2026 09:42:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
+      },
+      {
+        "title": "Patriots second-round LB Gabe Jacas agrees to terms",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-second-round-lb-gabe-jacas-agrees-to-terms",
+        "summary": "Patriots second-round linebacker Gabe Jacas has agreed to terms but missed the start of training camp.",
+        "source": "nbcsports.com",
+        "date": "Sat, 25 Jul 2026 16:27:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
       },
       {
         "title": "Mike Macdonald on ownership change: \"We're entering a new chapter in our organization's history\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-on-ownership-change-were-entering-a-new-chapter-in-our-organizations-history",
-        "summary": "The Seahawks are entering a new chapter following a planned ownership change, as training camp opens.",
+        "summary": "The Seahawks begin training camp under new ownership, marking a significant organizational change.",
         "source": "nbcsports.com",
         "date": "Sat, 25 Jul 2026 22:36:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2da9000/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_seahawksbidding_260720.jpg"
-      },
-      {
-        "title": "Ed Policy: Packers will bring more \"major events\" to Lambeau Field",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ed-policy-packers-will-bring-more-major-events-to-lambeau-field",
-        "summary": "Packers president Ed Policy announced plans to host more major events at Lambeau Field, enhancing fan engagement.",
-        "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 11:40:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bff51d9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F924%2F31%2Fnbc_pft_packersownership_260720.jpg"
-      },
-      {
-        "title": "Given the limits of the acclimation period, the NFLPA will check video of Nic Scourton ACL tear",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/given-the-limits-of-the-acclimation-period-the-nflpa-will-check-video-of-nic-scourton-acl-tear",
-        "summary": "The NFLPA is investigating the ACL tear of Panthers linebacker Nic Scourton, which occurred during training camp.",
-        "source": "nbcsports.com",
-        "date": "Sat, 25 Jul 2026 16:24:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f021fd7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F866%2F847%2Fnbc_pftpm_no1campv2_260723.jpg"
       }
     ]
   }
