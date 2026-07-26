@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-26T10:52:43.700Z",
+  "updated": "2026-07-26T11:56:36.705Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing its appeal for Quest users.",
+        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing value for Quest owners.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
@@ -13,7 +13,7 @@
       {
         "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
         "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
-        "summary": "Roboquest VR launches on Quest 3 with a new co-op mode, allowing cross-play with SteamVR and PSVR 2.",
+        "summary": "Roboquest has launched on Quest 3 with a new co-op mode, enabling cross-play across multiple VR platforms.",
         "source": "roadtovr.com",
         "date": "Fri, 24 Jul 2026 08:14:11 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,7 +21,7 @@
       {
         "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
         "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman introduces ARR Immersive for Apple Vision Pro, featuring original music and performance content in immersive formats.",
+        "summary": "A.R. Rahman introduces ARR Immersive for Apple Vision Pro, offering unique music experiences in immersive formats.",
         "source": "uploadvr.com",
         "date": "Fri, 24 Jul 2026 10:17:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
@@ -29,26 +29,26 @@
       {
         "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
         "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR is now available on Meta Quest 3, featuring cross-platform co-op play.",
+        "summary": "Roboquest VR is now available on Quest 3, featuring cross-platform co-op capabilities.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:51:31 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
       },
       {
-        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
-        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve's latest SteamVR update prepares the platform for the anticipated launch of its standalone VR headset, Steam Frame.",
-        "source": "roadtovr.com",
-        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
+        "title": "Space Flight Simulator Remnant Protocol Details Future Plans In Public Roadmap",
+        "url": "https://www.uploadvr.com/space-flight-simulator-remnant-protocol-details-future-plans-in-public-roadmap/",
+        "summary": "Remnant Protocol has released a public roadmap detailing future development plans following its Early Access launch.",
+        "source": "uploadvr.com",
+        "date": "Thu, 23 Jul 2026 14:52:37 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Remnant-Protocol.jpg"
       },
       {
-        "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
-        "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
-        "summary": "Magic Leap lays off nearly 200 employees as it shifts focus to becoming a waveguide supplier for AR glasses.",
-        "source": "roadtovr.com",
-        "date": "Mon, 20 Jul 2026 10:43:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
+        "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
+        "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
+        "summary": "Amelia's Escape, a narrative-driven escape room game, has launched on Meta Quest and SteamVR.",
+        "source": "uploadvr.com",
+        "date": "Thu, 23 Jul 2026 12:55:07 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
       }
     ],
     "AI": [
@@ -63,7 +63,7 @@
       {
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI rolls out ChatGPT Health, allowing users to connect medical records for enhanced health insights.",
+        "summary": "OpenAI expands access to ChatGPT Health, allowing users to integrate their medical records with the chatbot.",
         "source": "theverge.com",
         "date": "2026-07-23T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,18 +71,10 @@
       {
         "title": "Meta is making its AI chatbot more like an assistant",
         "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "summary": "Meta enhances its AI chatbot with productivity features to compete with rivals like ChatGPT and Claude.",
+        "summary": "Meta enhances its AI chatbot with new productivity features, aiming to compete with leading AI assistants.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
-      },
-      {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon's Alexa Plus is set to receive an update, enabling more complex smart home interactions.",
-        "source": "theverge.com",
-        "date": "2026-07-23T17:15:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
@@ -95,60 +87,68 @@
       {
         "title": "You can’t ignore Google Zero anymore",
         "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-        "summary": "Google's shift in strategy signals the end of its long-standing deal with websites, impacting online traffic dynamics.",
+        "summary": "The traditional relationship between Google and websites is changing, as Google now prioritizes its own data over web traffic.",
         "source": "theverge.com",
         "date": "2026-07-24T13:29:48-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "summary": "Amazon's Alexa Plus is set to receive an update, allowing it to manage more complex smart home instructions.",
+        "source": "theverge.com",
+        "date": "2026-07-23T17:15:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Giants waive linebacker Cam Jones and defensive lineman C.J. Ravenell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-waive-linebacker-cam-jones-and-defensive-lineman-c-j-ravenell",
-        "summary": "The Giants waive linebacker Cam Jones and defensive lineman C.J. Ravenell, creating roster space ahead of training camp.",
-        "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 04:11:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6361063/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F42%2Fnbc_pftpm_nabersgood_260724.jpg"
-      },
-      {
         "title": "Sean McVay on Kyle Shanahan accident: I talked to him, he's got an incredible perspective",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-kyle-shanahan-accident-i-talked-to-him-hes-got-an-incredible-perspective",
-        "summary": "Sean McVay updates on Kyle Shanahan's recovery from a serious car accident, highlighting his positive outlook.",
+        "summary": "Kyle Shanahan is recovering from serious injuries sustained in a car accident, affecting his coaching duties.",
         "source": "nbcsports.com",
         "date": "Sun, 26 Jul 2026 05:30:05 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9545e3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F515%2F575%2Fnbc_pft_coacheslandjob_260612.jpg"
       },
       {
-        "title": "Patriots second-round LB Gabe Jacas agrees to terms",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-second-round-lb-gabe-jacas-agrees-to-terms",
-        "summary": "Patriots second-round linebacker Gabe Jacas agrees to terms, marking a significant step in his career.",
+        "title": "Giants waive linebacker Cam Jones and defensive lineman C.J. Ravenell",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-waive-linebacker-cam-jones-and-defensive-lineman-c-j-ravenell",
+        "summary": "The Giants have waived linebacker Cam Jones and defensive lineman C.J. Ravenell ahead of training camp.",
         "source": "nbcsports.com",
-        "date": "Sat, 25 Jul 2026 16:27:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
+        "date": "Sun, 26 Jul 2026 04:11:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6361063/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F42%2Fnbc_pftpm_nabersgood_260724.jpg"
+      },
+      {
+        "title": "49ers expect Kyle Shanahan to be cleared from concussion long before season opener",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-expect-kyle-shanahan-to-be-cleared-from-concussion-long-before-season-opener",
+        "summary": "The 49ers expect Kyle Shanahan to be cleared from concussion protocol well before the season opener.",
+        "source": "nbcsports.com",
+        "date": "Sat, 25 Jul 2026 16:01:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
       },
       {
         "title": "George Kittle lands on PUP list to open 49ers camp",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-lands-on-pup-list-to-open-49ers-camp",
-        "summary": "George Kittle opens 49ers camp on the PUP list, raising concerns about his recovery from an Achilles injury.",
+        "summary": "George Kittle has been placed on the PUP list as he continues recovery from an Achilles tear.",
         "source": "nbcsports.com",
         "date": "Sat, 25 Jul 2026 15:27:35 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
       },
       {
-        "title": "Ravens DT Nnamdi Madubuike lands on PUP but cleared to return",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-dt-nnamdi-madubuike-lands-on-pup-but-cleared-to-return",
-        "summary": "Ravens defensive tackle Nnamdi Madubuike is cleared to return after a lengthy recovery from a neck injury.",
+        "title": "Patriots second-round LB Gabe Jacas agrees to terms",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-second-round-lb-gabe-jacas-agrees-to-terms",
+        "summary": "Second-round linebacker Gabe Jacas has agreed to terms with the Patriots and is set to join training camp.",
         "source": "nbcsports.com",
-        "date": "Sat, 25 Jul 2026 19:43:41 -0400",
+        "date": "Sat, 25 Jul 2026 16:27:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
       },
       {
-        "title": "49ers expect Kyle Shanahan to be cleared from concussion long before season opener",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-expect-kyle-shanahan-to-be-cleared-from-concussion-long-before-season-opener",
-        "summary": "The 49ers expect Kyle Shanahan to be cleared from concussion protocols well ahead of the season opener.",
+        "title": "Ty Simpson agrees to rookie deal with Rams",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ty-simpson-agrees-to-rookie-deal-with-rams",
+        "summary": "Rams quarterback Ty Simpson is finalizing his rookie deal, becoming the last first-round pick to sign.",
         "source": "nbcsports.com",
-        "date": "Sat, 25 Jul 2026 16:01:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
+        "date": "Sat, 25 Jul 2026 14:15:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6af53d6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F251%2Fnbc_pftpm_mendoza_260723.jpg"
       }
     ]
   }
