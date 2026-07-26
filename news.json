@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-26T22:27:51.044Z",
+  "updated": "2026-07-26T23:28:26.702Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing value for Quest subscribers.",
+        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing value for Quest owners.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
@@ -13,7 +13,7 @@
       {
         "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
         "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
-        "summary": "Roboquest VR launches on Quest 3 with a new co-op mode, enabling cross-play across multiple VR platforms.",
+        "summary": "Roboquest VR launches on Quest 3 with a co-op mode, enabling cross-play across multiple VR platforms.",
         "source": "roadtovr.com",
         "date": "Fri, 24 Jul 2026 08:14:11 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,41 +21,41 @@
       {
         "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
         "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman introduces ARR Immersive for Apple Vision Pro, blending music and performance in immersive formats.",
+        "summary": "A.R. Rahman introduces ARR Immersive, an app for Apple Vision Pro that combines music and performance in immersive formats.",
         "source": "uploadvr.com",
         "date": "Fri, 24 Jul 2026 10:17:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
       },
       {
-        "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
-        "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR is now available on Meta Quest 3, featuring cross-platform co-op capabilities.",
-        "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 12:51:31 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
-      },
-      {
         "title": "Space Flight Simulator Remnant Protocol Details Future Plans In Public Roadmap",
         "url": "https://www.uploadvr.com/space-flight-simulator-remnant-protocol-details-future-plans-in-public-roadmap/",
-        "summary": "Remnant Protocol has released a public roadmap detailing future development plans following its Early Access launch.",
+        "summary": "Remnant Protocol reveals its future development roadmap after a soft Early Access launch on Meta Quest.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 14:52:37 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Remnant-Protocol.jpg"
       },
       {
-        "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
-        "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
-        "summary": "Amelia's Escape, a narrative-driven VR escape room game, launches today for Meta Quest and PC VR.",
+        "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
+        "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
+        "summary": "Roboquest VR is officially released on Meta Quest 3, featuring cross-platform co-op capabilities.",
         "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 12:55:07 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
+        "date": "Thu, 23 Jul 2026 12:51:31 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
+      },
+      {
+        "title": "Geronimo Hands-On - A Tactical Shooter Breaching Early Access On Steam",
+        "url": "https://www.uploadvr.com/geronimo-hands-on-a-tactical-shooter-breaching-early-access-on-steam/",
+        "summary": "Geronimo, a tactical VR shooter, enters Early Access on Steam, showcasing potential despite some initial issues.",
+        "source": "uploadvr.com",
+        "date": "Fri, 24 Jul 2026 10:26:34 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Geronimo-VR.jpg"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of Claude Fable 5.",
+        "summary": "Anthropic has released Claude Opus 5, boasting capabilities close to its predecessor, Claude Fable 5.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI rolls out ChatGPT Health, allowing users to connect medical records to the chatbot for personalized health insights.",
+        "summary": "OpenAI rolls out ChatGPT Health, allowing users to connect medical records and health data to the chatbot.",
         "source": "theverge.com",
         "date": "2026-07-23T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Meta is making its AI chatbot more like an assistant",
         "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "summary": "Meta's AI chatbot is getting productivity upgrades, including calendar integration and enhanced research capabilities.",
+        "summary": "Meta enhances its AI chatbot with new productivity features to compete with rivals like ChatGPT and Claude.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
@@ -79,26 +79,26 @@
       {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to regulate AI systems under government control.",
+        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to regulate AI systems in emergencies.",
         "source": "theverge.com",
         "date": "2026-07-23T10:13:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "summary": "Amazon's Alexa Plus is set to receive an update for improved smart home device integration.",
+        "source": "theverge.com",
+        "date": "2026-07-23T17:15:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "You can’t ignore Google Zero anymore",
         "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-        "summary": "The traditional web-Google traffic exchange is collapsing, signaling major shifts in online content dynamics.",
+        "summary": "Google's search model is shifting as the traditional data exchange with websites appears to be collapsing.",
         "source": "theverge.com",
         "date": "2026-07-24T13:29:48-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Claude’s voice mode is now available for Opus and Sonnet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-        "summary": "Anthropic expands voice mode to its Opus and Sonnet models, enhancing their integration with popular applications.",
-        "source": "theverge.com",
-        "date": "2026-07-23T15:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
@@ -111,28 +111,36 @@
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
       },
       {
-        "title": "Trent Williams: Nick Bosa looks better than he did before he tore his ACL",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trent-williams-nick-bosa-looks-better-than-he-did-before-he-tore-his-acl",
-        "summary": "Nick Bosa impresses teammates on the first day of 49ers training camp, showing recovery from his ACL injury.",
+        "title": "Rams place G Justin Dedich on NFI list, DB Al'zillion Hamilton on PUP list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-place-g-justin-dedich-on-nfi-list-db-alzillion-hamilton-on-pup-list",
+        "summary": "The Rams place G Justin Dedich on the NFI list as training camp begins.",
         "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 15:31:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
+        "date": "Sun, 26 Jul 2026 17:58:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/968eff0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_aarondonald_260722.jpg"
       },
       {
         "title": "Broncos put LB Jordan Turner on NFI, G Nick Gargiulo on PUP",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-put-lb-jordan-turner-on-nfi-g-nick-gargiulo-on-pup",
-        "summary": "The Broncos place LB Jordan Turner on the NFI list as training camp begins.",
+        "summary": "The Broncos announce roster moves, placing LB Jordan Turner on NFI and G Nick Gargiulo on PUP.",
         "source": "nbcsports.com",
         "date": "Sun, 26 Jul 2026 17:30:13 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6361063/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F42%2Fnbc_pftpm_nabersgood_260724.jpg"
       },
       {
-        "title": "Rams place G Justin Dedich on NFI list, DB Al'zillion Hamilton on PUP list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-place-g-justin-dedich-on-nfi-list-db-alzillion-hamilton-on-pup-list",
-        "summary": "The Rams have placed G Justin Dedich on the NFI list ahead of training camp.",
+        "title": "After OWI arrest, Tony Romo withdraws from Texas State Open",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-owi-arrest-tony-romo-withdraws-from-texas-state-open",
+        "summary": "Tony Romo withdraws from the Texas State Open following an OWI arrest.",
         "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 17:58:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/968eff0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_aarondonald_260722.jpg"
+        "date": "Sun, 26 Jul 2026 16:18:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/830c3a2/2147483647/strip/false/crop/5759x3239+0+220/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F5c%2Fe741df174cbc8cee17fc4cfc5fc9%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29444059-1359540146-tag-reuters-com-2026-binary-mt1usatoday29444059-baseimage-5759x3679-2026-07-24t185343z-1359540146-mt1usatoday29444059-rtrmadp-3-cbs-sportscaster-and-former-nfl-quarterback-tony-romo-chats.JPG"
+      },
+      {
+        "title": "Trent Williams: Nick Bosa looks better than he did before he tore his ACL",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trent-williams-nick-bosa-looks-better-than-he-did-before-he-tore-his-acl",
+        "summary": "49ers' Trent Williams praises Nick Bosa's performance, noting he looks better post-ACL injury.",
+        "source": "nbcsports.com",
+        "date": "Sun, 26 Jul 2026 15:31:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
       },
       {
         "title": "Patriots claim WR Kobe Prentice off waivers",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 26 Jul 2026 08:19:13 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
-      },
-      {
-        "title": "After OWI arrest, Tony Romo withdraws from Texas State Open",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-owi-arrest-tony-romo-withdraws-from-texas-state-open",
-        "summary": "Tony Romo withdraws from the Texas State Open following an OWI arrest, marking a significant personal setback.",
-        "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 16:18:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/830c3a2/2147483647/strip/false/crop/5759x3239+0+220/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F5c%2Fe741df174cbc8cee17fc4cfc5fc9%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29444059-1359540146-tag-reuters-com-2026-binary-mt1usatoday29444059-baseimage-5759x3679-2026-07-24t185343z-1359540146-mt1usatoday29444059-rtrmadp-3-cbs-sportscaster-and-former-nfl-quarterback-tony-romo-chats.JPG"
       }
     ]
   }
