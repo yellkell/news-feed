@@ -1,11 +1,19 @@
 {
-  "updated": "2026-07-27T08:23:29.000Z",
+  "updated": "2026-07-27T11:48:19.417Z",
   "feed": {
     "VR": [
       {
+        "title": "Apple’s First Smart Glasses Reportedly Set to Unveil at WWDC 2027, Release in Late 2027",
+        "url": "https://roadtovr.com/apples-smart-glasses-unveil-wwdc-2027-release-date/",
+        "summary": "Apple is expected to unveil its first smart glasses, codenamed ‘N50’, at WWDC 2027, with a release planned for late 2027.",
+        "source": "roadtovr.com",
+        "date": "Mon, 27 Jul 2026 11:03:36 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/05/apple-wwdc-2023-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing value for Quest subscribers.",
+        "summary": "Meta Horizon+ now offers over 50 Xbox Game Pass titles at no extra cost, enhancing the value for Quest owners.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
@@ -13,7 +21,7 @@
       {
         "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
         "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
-        "summary": "Roboquest VR launches on Quest 3 with a long-awaited co-op mode, enabling cross-play across multiple platforms.",
+        "summary": "Roboquest has launched on Quest 3 with a new co-op mode, allowing cross-play across multiple VR platforms.",
         "source": "roadtovr.com",
         "date": "Fri, 24 Jul 2026 08:14:11 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -21,41 +29,33 @@
       {
         "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
         "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman introduces ARR Immersive for Apple Vision Pro, blending music and performance in immersive formats.",
+        "summary": "A.R. Rahman has launched ARR Immersive for Apple Vision Pro, offering an innovative blend of music and performance in immersive formats.",
         "source": "uploadvr.com",
         "date": "Fri, 24 Jul 2026 10:17:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
       },
       {
-        "title": "Space Flight Simulator Remnant Protocol Details Future Plans In Public Roadmap",
-        "url": "https://www.uploadvr.com/space-flight-simulator-remnant-protocol-details-future-plans-in-public-roadmap/",
-        "summary": "Remnant Protocol reveals its public roadmap following a soft Early Access launch on Meta Quest.",
-        "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 14:52:37 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Remnant-Protocol.jpg"
-      },
-      {
-        "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
-        "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR is now available on Meta Quest 3, featuring cross-platform co-op support.",
-        "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 12:51:31 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
-      },
-      {
         "title": "Magic Leap Cuts Nearly 200 Jobs as AR Pioneer Pivots Into Waveguide Supplier",
         "url": "https://roadtovr.com/magic-leap-lay-off-2026-waveguide-pivot/",
-        "summary": "Magic Leap lays off nearly 200 employees as it pivots to becoming a waveguide supplier for AR glasses.",
+        "summary": "Magic Leap has laid off nearly 200 employees as it pivots to become a waveguide supplier for AR glasses.",
         "source": "roadtovr.com",
         "date": "Mon, 20 Jul 2026 10:43:13 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/magic-leap-google.jpeg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
+        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
+        "summary": "Valve has released a significant SteamVR update, hinting at the upcoming launch of its standalone headset, Steam Frame.",
+        "source": "roadtovr.com",
+        "date": "Sat, 18 Jul 2026 15:01:08 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of its predecessor, Claude Fable 5.",
+        "summary": "Anthropic has released Claude Opus 5, a new AI model that approaches the capabilities of Claude Fable 5.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI launches ChatGPT Health, allowing users to integrate medical records with the AI chatbot.",
+        "summary": "OpenAI has rolled out ChatGPT Health, allowing users to connect medical records to the chatbot for personalized health insights.",
         "source": "theverge.com",
         "date": "2026-07-23T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,31 +71,31 @@
       {
         "title": "Meta is making its AI chatbot more like an assistant",
         "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "summary": "Meta enhances its AI chatbot with productivity features to compete with rivals like ChatGPT and Claude.",
+        "summary": "Meta is enhancing its AI chatbot with productivity features to compete with rivals like ChatGPT and Claude.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
       },
       {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon updates Alexa Plus to handle more complex instructions and connect with various smart home devices.",
-        "source": "theverge.com",
-        "date": "2026-07-23T17:15:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are set to introduce an 'AI Kill Switch Act' requiring companies to disable AI systems on government orders.",
+        "summary": "Lawmakers are preparing to introduce the 'AI Kill Switch Act' to regulate AI systems under orders from the Department of Homeland Security.",
         "source": "theverge.com",
         "date": "2026-07-23T10:13:35-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "summary": "Amazon's Alexa Plus is set to receive an AI update, enabling it to handle more complex smart home commands.",
+        "source": "theverge.com",
+        "date": "2026-07-23T17:15:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "You can’t ignore Google Zero anymore",
         "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-        "summary": "The traditional relationship between Google and web publishers is deteriorating, impacting website traffic.",
+        "summary": "Google's shift away from sending traffic to websites signals a major change in its relationship with the web.",
         "source": "theverge.com",
         "date": "2026-07-24T13:29:48-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Cardinals, Jacoby Brissett strike a new deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-jacoby-brissett-strike-a-new-deal",
-        "summary": "Jacoby Brissett signs a new deal with the Cardinals, featuring a base salary of $15.5 million.",
-        "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 14:45:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
-      },
-      {
         "title": "Jacoby Brissett on signing his new deal: I'm glad it's over with",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-on-signing-his-new-deal-im-glad-its-over-with",
-        "summary": "Jacoby Brissett expresses relief after securing a $10 million raise, negotiating the deal himself.",
+        "summary": "Jacoby Brissett has signed a new deal worth up to $21 million, reflecting his successful negotiation as his own agent.",
         "source": "nbcsports.com",
         "date": "Sun, 26 Jul 2026 21:27:19 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c90c64/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F57%2F687%2Fnbc_pftpm_lafleurcards_260724.jpg"
       },
       {
+        "title": "Cardinals, Jacoby Brissett strike a new deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-jacoby-brissett-strike-a-new-deal",
+        "summary": "Jacoby Brissett has reportedly signed a new deal with the Cardinals, featuring a base salary of $15.5 million.",
+        "source": "nbcsports.com",
+        "date": "Sun, 26 Jul 2026 14:45:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
+      },
+      {
+        "title": "Daniel Jones says he feels \"really good\" and is ready to go for training camp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/daniel-jones-says-he-feels-really-good-and-is-ready-to-go-for-training-camp",
+        "summary": "Daniel Jones reports he feels 'really good' and is ready for training camp following his Achilles injury.",
+        "source": "nbcsports.com",
+        "date": "Mon, 27 Jul 2026 04:05:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9de12eb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F729%2F591%2Fnbc_pft_danieljones_260527.jpg"
+      },
+      {
+        "title": "Report: Signing with Washington \"intriguing\" to Stefon Diggs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-signing-with-washington-intriguing-to-stefon-diggs",
+        "summary": "Stefon Diggs finds the prospect of signing with Washington 'intriguing' as he heads into free agency.",
+        "source": "nbcsports.com",
+        "date": "Sun, 26 Jul 2026 15:47:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
+      },
+      {
         "title": "Trent Williams: Nick Bosa looks better than he did before he tore his ACL",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trent-williams-nick-bosa-looks-better-than-he-did-before-he-tore-his-acl",
-        "summary": "Nick Bosa impresses teammates at training camp, showing significant recovery from his ACL injury.",
+        "summary": "Nick Bosa has impressed teammates with his performance in training camp, showing no signs of his previous ACL injury.",
         "source": "nbcsports.com",
         "date": "Sun, 26 Jul 2026 15:31:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/abb3246/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F64%2F519%2Fnbc_pftpm_grassfields_260724.jpg"
       },
       {
-        "title": "Kyle Shanahan attends roughly 30 minutes of 49ers' practice on Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-attends-roughly-30-minutes-of-49ers-practice-on-sunday",
-        "summary": "Kyle Shanahan makes a brief appearance at 49ers practice as he recovers from injuries sustained in a car accident.",
+        "title": "Lions place Brian Branch, Kerby Joseph on PUP list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-place-brian-branch-kerby-joseph-on-pup-list",
+        "summary": "The Lions have placed safeties Brian Branch and Kerby Joseph on the physically unable to perform list ahead of training camp.",
         "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 15:52:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
-      },
-      {
-        "title": "49ers bring back DL Kevin Givens",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-bring-back-dl-kevin-givens",
-        "summary": "The 49ers re-sign defensive lineman Kevin Givens, aiming for his eighth season with the team.",
-        "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 13:20:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
-      },
-      {
-        "title": "Rams place G Justin Dedich on NFI list, DB Al'zillion Hamilton on PUP list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-place-g-justin-dedich-on-nfi-list-db-alzillion-hamilton-on-pup-list",
-        "summary": "The Rams place guard Justin Dedich on the NFI list as training camp begins.",
-        "source": "nbcsports.com",
-        "date": "Sun, 26 Jul 2026 17:58:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/968eff0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_aarondonald_260722.jpg"
+        "date": "Sun, 26 Jul 2026 16:24:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e04426c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F95%2Fnbc_pftpm_mailbag_260717.jpg"
       }
     ]
   }
