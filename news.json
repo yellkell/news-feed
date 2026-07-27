@@ -1,155 +1,106 @@
 {
-  "updated": "2026-07-27T16:34:40.851Z",
+  "updated": "2026-07-27T18:12:24.966Z",
   "feed": {
     "VR": [
       {
         "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
         "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
-        "summary": "Immersed is set to ship its long-awaited Visor VR headset next month, marking a significant milestone for the work-focused device.",
+        "summary": "Immersed is set to ship its long-awaited standalone VR headset, Visor, with shipping timelines confirmed for pre-order customers.",
         "source": "roadtovr.com",
         "date": "Mon, 27 Jul 2026 15:28:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
-        "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR launches today on Meta Quest 3, featuring cross-platform co-op support for an enhanced multiplayer experience.",
+        "title": "Mixed Reality Tower Defense Game Cybercore Protocol Out Now In Early Access On Quest",
+        "url": "https://www.uploadvr.com/mixed-reality-tower-defense-game-cybercore-protocol-out-now-in-early-access-on-quest/",
+        "summary": "Cybercore Protocol, a mixed reality tower defense game, has launched in Early Access on Quest, offering players an engaging new experience.",
         "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 12:51:31 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
-      },
-      {
-        "title": "Apple’s First Smart Glasses Reportedly Set to Unveil at WWDC 2027, Release in Late 2027",
-        "url": "https://roadtovr.com/apples-smart-glasses-unveil-wwdc-2027-release-date/",
-        "summary": "Apple is reportedly unveiling its first smart glasses at WWDC 2027, with a release planned for late 2027.",
-        "source": "roadtovr.com",
-        "date": "Mon, 27 Jul 2026 11:03:36 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/05/apple-wwdc-2023-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
-        "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman has launched ARR Immersive for Apple Vision Pro, offering original music and performance content in immersive formats.",
-        "source": "uploadvr.com",
-        "date": "Fri, 24 Jul 2026 10:17:16 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
+        "date": "Mon, 27 Jul 2026 10:24:52 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault-1.jpg"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now includes over 50 Xbox Game Pass titles at no extra cost, enhancing the value for Quest subscribers.",
+        "summary": "Meta Horizon+ now includes over 50 Xbox Game Pass titles at no extra cost, enhancing its value for Quest subscribers.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
+        "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
+        "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
+        "summary": "Roboquest has launched on Quest 3 with a new co-op mode, allowing cross-play between various VR platforms.",
+        "source": "roadtovr.com",
+        "date": "Fri, 24 Jul 2026 08:14:11 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "VR Narrative Escape Room Puzzler Amelia's Escape Out Today For Meta Quest & PC VR",
         "url": "https://www.uploadvr.com/vr-narrative-escape-room-puzzler-amelias-escape-out-today-for-meta-quest-pc-vr/",
-        "summary": "Amelia's Escape, a new VR narrative escape room game, is now available on SteamVR and Meta Quest.",
+        "summary": "Amelia's Escape, a narrative-driven VR escape room game, has officially launched on SteamVR and Meta Quest.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:55:07 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/CoverArt_Landscape.png"
+      },
+      {
+        "title": "Apple’s First Smart Glasses Reportedly Set to Unveil at WWDC 2027, Release in Late 2027",
+        "url": "https://roadtovr.com/apples-smart-glasses-unveil-wwdc-2027-release-date/",
+        "summary": "Apple is reportedly set to unveil its first smart glasses at WWDC 2027, with a release targeted for late 2027.",
+        "source": "roadtovr.com",
+        "date": "Mon, 27 Jul 2026 11:03:36 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/05/apple-wwdc-2023-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
+        "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+        "summary": "Nvidia and Microsoft have launched the Open Secure AI Alliance to develop open-source AI security tools amid rising concerns over AI model vulnerabilities.",
+        "source": "theverge.com",
+        "date": "2026-07-27T08:06:22-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, a new AI model that closely rivals the capabilities of Claude Fable 5 in various domains.",
+        "summary": "Anthropic has released its latest AI model, Claude Opus 5, claiming it approaches the capabilities of its predecessor, Claude Fable 5.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "summary": "OpenAI is rolling out ChatGPT Health, allowing users to connect medical records to the chatbot for personalized health insights.",
+        "title": "Midjourney bought the astrology app Co-Star",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+        "summary": "Midjourney has acquired the astrology app Co-Star, expanding its reach into personalized astrology services.",
         "source": "theverge.com",
-        "date": "2026-07-23T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-24T15:06:58-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meta is making its AI chatbot more like an assistant",
         "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "summary": "Meta is enhancing its AI chatbot with productivity features, enabling calendar integration and advanced research capabilities.",
+        "summary": "Meta is enhancing its AI chatbot with new productivity features to better compete with rivals like ChatGPT and Claude.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476"
       },
       {
-        "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-        "summary": "Lawmakers are preparing to introduce an 'AI Kill Switch Act' to regulate AI systems under orders from the Department of Homeland Security.",
-        "source": "theverge.com",
-        "date": "2026-07-23T10:13:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
         "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon's Alexa Plus is receiving an update to handle more complex smart home instructions, expanding its compatibility with various devices.",
+        "summary": "Amazon's Alexa Plus is receiving an update that improves its ability to handle complex smart home instructions.",
         "source": "theverge.com",
         "date": "2026-07-23T17:15:06-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Midjourney bought the astrology app Co-Star",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-        "summary": "Midjourney has acquired the astrology app Co-Star, marking its expansion into the personalized astrology sector.",
+        "title": "Why China is giving away its best AI models",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+        "summary": "China's Moonshot AI has introduced the Kimi K3 model, raising alarms in Silicon Valley for its competitive performance against US AI systems.",
         "source": "theverge.com",
-        "date": "2026-07-24T15:06:58-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-27T12:51:50-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
-    "NFL": [
-      {
-        "title": "Brandon Aiyuk remains determined to play for Commanders",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-aiyuk-remains-determined-to-play-for-commanders",
-        "summary": "Brandon Aiyuk is determined to play for the Commanders as the 49ers open training camp.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 12:07:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/35b81a8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F320%2F875%2Fnbc_pft_brandonaiyuk_260727.jpg"
-      },
-      {
-        "title": "Mike Vrabel: I don't anticipate Gabe Jacas missing the season, but nothing is 100 percent",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-i-dont-anticipate-gabe-jacas-missing-the-season-but-nothing-is-100-percent",
-        "summary": "Mike Vrabel anticipates rookie linebacker Gabe Jacas will not miss the season despite concerns over his knee.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 11:43:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b71ae27/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F114%2F623%2Fnbc_pftpm_mailbag_260618.jpg"
-      },
-      {
-        "title": "Lions agree to sign LB Troy Reeder",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-agree-to-sign-lb-troy-reeder",
-        "summary": "The Lions have agreed to sign linebacker Troy Reeder, bolstering their defensive lineup.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 10:02:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/35b81a8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F320%2F875%2Fnbc_pft_brandonaiyuk_260727.jpg"
-      },
-      {
-        "title": "Report: Wife of Chiefs OC Eric Bieniemy was shot on Sunday night at their home in Virginia",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-wife-of-chiefs-oc-eric-bieniemy-was-shot-on-sunday-night-at-their-home-in-virginia",
-        "summary": "Eric Bieniemy's wife was shot at their home, prompting an investigation involving their son, who has been charged.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 10:10:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1ddce5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F327%2F207%2FMahomesrecovery7-27.jpg"
-      },
-      {
-        "title": "Everson Griffen: My desire is to play again",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/everson-griffen-my-desire-is-to-play-again",
-        "summary": "Everson Griffen expresses his desire to return to the NFL after not playing since the 2021 season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 12:16:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/95c1665/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F320%2F875%2Fnbc_pft_reportingofaccident_260727.jpg"
-      },
-      {
-        "title": "Commanders part ways with tight ends coach Ben Steele",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-part-ways-with-tight-ends-coach-ben-steele",
-        "summary": "The Commanders have parted ways with tight ends coach Ben Steele just before the start of training camp.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 09:39:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68abc8a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F227%2Fnbc_pftpm_mailbag_260723.jpg"
-      }
-    ]
+    "NFL": []
   }
 }
