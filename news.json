@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-28T09:45:42.893Z",
+  "updated": "2026-07-28T11:51:45.189Z",
   "feed": {
     "VR": [
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now includes over 50 Xbox Game Pass titles at no extra cost, enhancing its value for Quest subscribers.",
+        "summary": "Meta Horizon+ now includes over 50 Xbox Game Pass titles at no extra cost, enhancing the value for Quest subscribers.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
@@ -13,23 +13,15 @@
       {
         "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
         "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
-        "summary": "Immersed is nearing the launch of its long-awaited Visor VR headset, with shipping timelines finally being locked in.",
+        "summary": "Immersed is nearing the launch of its long-awaited Visor VR headset, aimed at work-focused applications.",
         "source": "roadtovr.com",
         "date": "Mon, 27 Jul 2026 15:28:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
-        "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
-        "summary": "Roboquest VR has launched on Meta Quest 3 with a new co-op mode, enabling cross-play across multiple VR platforms.",
-        "source": "roadtovr.com",
-        "date": "Fri, 24 Jul 2026 08:14:11 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Mixed Reality Tower Defense Game Cybercore Protocol Out Now In Early Access On Quest",
         "url": "https://www.uploadvr.com/mixed-reality-tower-defense-game-cybercore-protocol-out-now-in-early-access-on-quest/",
-        "summary": "Cybercore Protocol, a mixed reality tower defense game, has officially launched in Early Access on Quest.",
+        "summary": "Cybercore Protocol, a mixed reality tower defense game, has launched in Early Access on Quest.",
         "source": "uploadvr.com",
         "date": "Mon, 27 Jul 2026 10:24:52 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault-1.jpg"
@@ -37,15 +29,23 @@
       {
         "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
         "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR is now available on Quest 3, featuring a same-day update for cross-platform co-op play.",
+        "summary": "Roboquest VR is now available on Meta Quest 3, featuring a new cross-platform co-op mode.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:51:31 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
       },
       {
+        "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
+        "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
+        "summary": "Roboquest has launched on Quest 3, introducing a long-anticipated co-op mode with cross-play capabilities.",
+        "source": "roadtovr.com",
+        "date": "Fri, 24 Jul 2026 08:14:11 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "VR Action Platformer Hyperstacks Coming To SteamVR This Week",
         "url": "https://www.uploadvr.com/vr-action-platformer-hyperstacks-coming-to-steamvr-this-week/",
-        "summary": "The colorful VR action platformer Hyperstacks is set to release on SteamVR and Meta Quest this week.",
+        "summary": "Hyperstacks, a colorful VR action platformer, is set to launch on Steam and Meta Quest this week.",
         "source": "uploadvr.com",
         "date": "Mon, 27 Jul 2026 10:24:45 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/813a00_394f0be0fdcf4166a68e7effb233cf9e-mv2.png"
@@ -55,7 +55,7 @@
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of the advanced Claude Fable 5 model.",
+        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of its predecessor, Claude Fable 5.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "summary": "Nvidia and Microsoft have launched an Open Secure AI Alliance to develop open-source AI security tools.",
+        "summary": "Nvidia and Microsoft have launched the Open Secure AI Alliance to develop open-source AI security tools.",
         "source": "theverge.com",
         "date": "2026-07-27T08:06:22-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Microsoft unveils AI security tools it says outperform competing platforms",
         "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-        "summary": "Microsoft unveiled new AI security tools that it claims outperform competing platforms while being more cost-effective.",
+        "summary": "Microsoft unveiled new AI security tools that it claims outperform competitors while being more cost-effective.",
         "source": "arstechnica.com",
         "date": "Mon, 27 Jul 2026 21:56:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
@@ -79,7 +79,7 @@
       {
         "title": "Why China is giving away its best AI models",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-        "summary": "China's Moonshot AI has introduced Kimi K3, a model that reportedly rivals top US AI systems at lower costs.",
+        "summary": "China's Moonshot AI has introduced a competitive AI model, intensifying the tech rivalry with US companies.",
         "source": "theverge.com",
         "date": "2026-07-27T12:51:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,61 +87,21 @@
       {
         "title": "Midjourney bought the astrology app Co-Star",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-        "summary": "Midjourney has acquired the astrology app Co-Star, expanding its portfolio into personalized astrology services.",
+        "summary": "Midjourney has acquired the astrology app Co-Star, expanding its reach into personalized astrology services.",
         "source": "theverge.com",
         "date": "2026-07-24T15:06:58-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-        "summary": "Amazon's Alexa Plus is receiving an update to handle more complex smart home commands, enhancing user interaction.",
+        "title": "Claude’s voice mode is now available for Opus and Sonnet",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+        "summary": "Anthropic has made voice mode available for its Opus and Sonnet models, enhancing their usability in various applications.",
         "source": "theverge.com",
-        "date": "2026-07-23T17:15:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-23T15:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
-      {
-        "title": "Josh Allen closing in on 5,000 career rushing yards",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-closing-in-on-5-000-career-rushing-yards",
-        "summary": "Josh Allen is approaching 5,000 career rushing yards, joining an elite group of NFL quarterbacks.",
-        "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 03:55:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/20e1924/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F145%2F107%2Fnbc_pft_joshallen_260521.jpg"
-      },
-      {
-        "title": "Dolphins sign free agent DE Clelin Ferrell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-free-agent-de-clelin-ferrell",
-        "summary": "The Dolphins have signed veteran free agent defensive end Clelin Ferrell, bolstering their defensive lineup.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 17:59:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
-      },
-      {
-        "title": "Seahawks cut RB Kenny McIntosh",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-seahawks-to-cut-rb-kenny-mcintosh",
-        "summary": "The Seahawks are waiving running back Kenny McIntosh as part of their roster adjustments.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 22:12:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7b2130/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F328%2F683%2Fnbc_pft_donalddecision_270726.jpg"
-      },
-      {
-        "title": "Bucs DT Vita Vea requests trade after failed attempts at contract extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-dt-vita-vea-requests-trade-after-failed-attempts-at-contract-extension",
-        "summary": "Bucs defensive tackle Vita Vea has requested a trade following unsuccessful contract extension negotiations.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 18:31:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c8a297d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F338%2F943%2FMMendozaPFT7027.jpg"
-      },
-      {
-        "title": "Cowboys WR George Pickens reports to training camp as expected",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-wr-george-pickens-reports-to-training-camp-as-expected",
-        "summary": "Cowboys wide receiver George Pickens has reported to training camp as expected after signing his franchise tag.",
-        "source": "nbcsports.com",
-        "date": "Mon, 27 Jul 2026 21:15:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/35b81a8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F320%2F875%2Fnbc_pft_brandonaiyuk_260727.jpg"
-      },
       {
         "title": "Raiders sign DE Patrick Johnson, LB Buddy Johnson, WR Deven Thompkins",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-sign-de-patrick-johnson-lb-buddy-johnson-wr-deven-thompkins",
@@ -149,6 +109,46 @@
         "source": "nbcsports.com",
         "date": "Mon, 27 Jul 2026 20:09:10 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c8a297d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F338%2F943%2FMMendozaPFT7027.jpg"
+      },
+      {
+        "title": "Bucs DT Vita Vea requests trade after failed attempts at contract extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-dt-vita-vea-requests-trade-after-failed-attempts-at-contract-extension",
+        "summary": "Buccaneers defensive tackle Vita Vea has requested a trade following unsuccessful contract extension negotiations.",
+        "source": "nbcsports.com",
+        "date": "Mon, 27 Jul 2026 18:31:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c8a297d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F338%2F943%2FMMendozaPFT7027.jpg"
+      },
+      {
+        "title": "Bucs tight end Devin Culp good to go for training camp after missing minicamp with injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-tight-end-devin-culp-good-to-go-for-training-camp-after-missing-minicamp-with-injury",
+        "summary": "Buccaneers tight end Devin Culp is cleared to participate in training camp after recovering from an injury.",
+        "source": "nbcsports.com",
+        "date": "Tue, 28 Jul 2026 07:38:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d10573/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F19%2Fqb_series_eaw_260715.jpg"
+      },
+      {
+        "title": "Clock is ticking on a new Baker Mayfield deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/clock-is-ticking-on-a-new-baker-mayfield-deal",
+        "summary": "Baker Mayfield has set a deadline for a new contract deal with the Buccaneers ahead of training camp.",
+        "source": "nbcsports.com",
+        "date": "Mon, 27 Jul 2026 20:12:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d10573/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F487%2F19%2Fqb_series_eaw_260715.jpg"
+      },
+      {
+        "title": "Seahawks cut RB Kenny McIntosh",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-seahawks-to-cut-rb-kenny-mcintosh",
+        "summary": "The Seahawks have waived running back Kenny McIntosh as part of their roster adjustments.",
+        "source": "nbcsports.com",
+        "date": "Mon, 27 Jul 2026 22:12:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7b2130/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F328%2F683%2Fnbc_pft_donalddecision_270726.jpg"
+      },
+      {
+        "title": "Dolphins sign free agent DE Clelin Ferrell",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-free-agent-de-clelin-ferrell",
+        "summary": "The Dolphins have signed veteran free agent defensive end Clelin Ferrell to bolster their defense.",
+        "source": "nbcsports.com",
+        "date": "Mon, 27 Jul 2026 17:59:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5444475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F728%2F615%2Fnbc_pft_flores_nfl_retaliation_260527.jpg"
       }
     ]
   }
