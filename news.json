@@ -1,27 +1,19 @@
 {
-  "updated": "2026-07-28T17:38:24.893Z",
+  "updated": "2026-07-28T18:56:01.334Z",
   "feed": {
     "VR": [
       {
         "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
         "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
-        "summary": "Immersed is set to ship its long-awaited work-focused standalone VR headset, Visor, with shipping timelines confirmed for pre-order customers.",
+        "summary": "Immersed is nearing the launch of its long-awaited work-focused standalone VR headset, Visor, with shipping timelines confirmed for pre-order customers.",
         "source": "roadtovr.com",
         "date": "Mon, 27 Jul 2026 15:28:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Quest's Horizon+ Subscription Added 10 Monthly Hours Of Xbox Games",
-        "url": "https://www.uploadvr.com/quest-horizon-plus-subscription-adds-xbox-games/",
-        "summary": "Meta's Horizon+ subscription now offers 10 monthly hours of cloud streaming for 58 Xbox titles, enhancing its partnership with Microsoft.",
-        "source": "uploadvr.com",
-        "date": "Mon, 27 Jul 2026 15:17:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Meta-Horizon-Plus-Xbox-Game-Pass.webp"
-      },
-      {
         "title": "Mixed Reality Tower Defense Game Cybercore Protocol Out Now In Early Access On Quest",
         "url": "https://www.uploadvr.com/mixed-reality-tower-defense-game-cybercore-protocol-out-now-in-early-access-on-quest/",
-        "summary": "Cybercore Protocol, a mixed reality tower defense game, has launched in Early Access on Quest, inviting players to experience its unique gameplay.",
+        "summary": "Mixed reality tower defense game Cybercore Protocol has been released in Early Access on Quest, offering players a new gaming experience.",
         "source": "uploadvr.com",
         "date": "Mon, 27 Jul 2026 10:24:52 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault-1.jpg"
@@ -29,33 +21,41 @@
       {
         "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
         "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR has launched on Meta Quest 3, featuring a new cross-platform co-op mode, expanding its multiplayer capabilities.",
+        "summary": "Roboquest VR launches today on Meta Quest 3, featuring a co-op mode that supports cross-play across multiple VR platforms.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:51:31 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
       },
       {
+        "title": "Quest's Horizon+ Subscription Added 10 Monthly Hours Of Xbox Games",
+        "url": "https://www.uploadvr.com/quest-horizon-plus-subscription-adds-xbox-games/",
+        "summary": "Meta's Horizon+ subscription now includes 10 hours of Xbox cloud gaming monthly, enhancing its value for Quest users.",
+        "source": "uploadvr.com",
+        "date": "Mon, 27 Jul 2026 15:17:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Meta-Horizon-Plus-Xbox-Game-Pass.webp"
+      },
+      {
         "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
         "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman has launched ARR Immersive for Apple Vision Pro, offering an innovative app that combines music and performance in immersive formats.",
+        "summary": "A.R. Rahman has launched ARR Immersive for Apple Vision Pro, delivering unique music experiences in immersive formats.",
         "source": "uploadvr.com",
         "date": "Fri, 24 Jul 2026 10:17:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
       },
       {
-        "title": "VR Action Platformer Hyperstacks Coming To SteamVR This Week",
-        "url": "https://www.uploadvr.com/vr-action-platformer-hyperstacks-coming-to-steamvr-this-week/",
-        "summary": "The colorful VR action platformer Hyperstacks is set to release on Steam and Meta Quest, bringing parkour combat to players.",
+        "title": "Futuristic VR FPS Hyper Dash Shutting Down This November",
+        "url": "https://www.uploadvr.com/futuristic-vr-fps-hyper-dash-shutting-down-this-november/",
+        "summary": "Triangle Factory announced the shutdown of its futuristic FPS Hyper Dash, set to occur this November.",
         "source": "uploadvr.com",
-        "date": "Mon, 27 Jul 2026 10:24:45 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/813a00_394f0be0fdcf4166a68e7effb233cf9e-mv2.png"
+        "date": "Mon, 27 Jul 2026 10:24:55 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/hyperdash-ending.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, which closely matches the capabilities of its predecessor, Claude Fable 5, amid rising competition in AI.",
+        "summary": "Anthropic has released Claude Opus 5, a new AI model that closely matches the capabilities of its predecessor, Claude Fable 5.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "summary": "Nvidia and Microsoft have formed the Open Secure AI Alliance to develop open-source AI security tools, responding to increasing threats in the AI landscape.",
+        "summary": "Nvidia and Microsoft have formed an Open Secure AI Alliance to develop and share open-source AI security tools.",
         "source": "theverge.com",
         "date": "2026-07-27T08:06:22-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,7 +71,7 @@
       {
         "title": "Microsoft unveils AI security tools it says outperform competing platforms",
         "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-        "summary": "Microsoft has unveiled new AI security tools, claiming they outperform competitors while being more cost-effective.",
+        "summary": "Microsoft has unveiled new AI security tools that it claims outperform competing platforms while being more cost-effective.",
         "source": "arstechnica.com",
         "date": "Mon, 27 Jul 2026 21:56:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
@@ -79,7 +79,7 @@
       {
         "title": "Why China is giving away its best AI models",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-        "summary": "China's Moonshot AI has introduced the Kimi K3 model, which reportedly rivals top US AI systems at a significantly lower cost.",
+        "summary": "China's Moonshot AI has introduced a new model that reportedly rivals top US systems at a significantly lower cost.",
         "source": "theverge.com",
         "date": "2026-07-27T12:51:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,7 +87,7 @@
       {
         "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-        "summary": "Perplexity's Personal Computer tool is now available for Windows, transforming PCs into locally run AI agents.",
+        "summary": "Perplexity has launched its Personal Computer tool for Windows, turning PCs into locally run AI agents.",
         "source": "theverge.com",
         "date": "2026-07-28T08:30:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,7 +95,7 @@
       {
         "title": "Midjourney bought the astrology app Co-Star",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-        "summary": "Midjourney has acquired the astrology app Co-Star, marking its expansion into a new domain beyond AI-generated imagery.",
+        "summary": "Midjourney has acquired the astrology app Co-Star, expanding its portfolio into personalized astrology services.",
         "source": "theverge.com",
         "date": "2026-07-24T15:06:58-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -105,7 +105,7 @@
       {
         "title": "Jalen Carter, Eagles agree to four-year extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-carter-eagles-agree-to-four-year-extension",
-        "summary": "Jalen Carter has signed a four-year extension with the Eagles, making him the highest-paid defensive tackle in NFL history.",
+        "summary": "The Eagles have signed defensive tackle Jalen Carter to a four-year extension, making him the highest-paid player at his position.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 13:08:30 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d40976/2147483647/strip/false/crop/5102x2870+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F39%2F7d1477b84fd080b916eb49b42e7d%2Fjalencarter.jpg"
@@ -113,42 +113,42 @@
       {
         "title": "Vikings sign Brian O'Neill to four-year contract extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-brian-oneill-to-four-year-contract-extension",
-        "summary": "The Vikings have extended right tackle Brian O'Neill's contract for four more years, solidifying their offensive line.",
+        "summary": "The Vikings have secured right tackle Brian O'Neill with a four-year contract extension ahead of the new season.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 13:30:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e3e555d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F456%2F111%2Fnbc_pft_taytayandtravisv2_260728.jpg"
       },
       {
-        "title": "De'Von Achane set for full practice after offseason shoulder surgery",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devon-achane-set-for-full-practice-after-offseason-shoulder-surgery",
-        "summary": "Dolphins running back De'Von Achane is set to return to full practice after recovering from offseason shoulder surgery.",
+        "title": "Dak Prescott, Cowboys embracing Super Bowl talk",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-cowboys-embracing-super-bowl-talk",
+        "summary": "Dak Prescott and the Cowboys are embracing Super Bowl aspirations as training camp kicks off.",
         "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 11:25:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e917894/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F460%2F15%2Fnbc_pft_billsunis_260728.jpg"
+        "date": "Tue, 28 Jul 2026 14:49:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/29fee22/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F455%2F635%2Fnbc_pft_parsonsjacobs_260728.jpg"
+      },
+      {
+        "title": "Ryan Poles on Kyler Gordon's slow return to health: \"He's frustrated, we're frustrated\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ryan-poles-on-kyler-gordons-slow-return-to-health-hes-frustrated-were-frustrated",
+        "summary": "Bears G.M. Ryan Poles expressed frustration over cornerback Kyler Gordon's slow recovery from injury.",
+        "source": "nbcsports.com",
+        "date": "Tue, 28 Jul 2026 14:44:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a050147/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F632%2F343%2Fnbc_pft_williamsmistakes_260604.jpg"
       },
       {
         "title": "Report: Chiefs DE Ethan Downs tore his ACL",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chiefs-de-ethan-downs-tore-his-acl",
-        "summary": "Chiefs defensive end Ethan Downs has suffered a torn ACL, ending his bid to make the team's roster.",
+        "summary": "Chiefs defensive end Ethan Downs has torn his ACL, ending his chances of making the team this season.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 11:16:10 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1eb09a4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F329%2F658%2FMahomesplaystyle7-27.jpg"
       },
       {
-        "title": "Panthers activate Jaycee Horn",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-activate-jaycee-horn",
-        "summary": "The Panthers have activated cornerback Jaycee Horn, allowing him to return to practice as the season approaches.",
+        "title": "Report: Luke Kuechly will be Netflix's No. 1 game analyst",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-luke-kuechly-will-be-netflixs-no-1-game-analyst",
+        "summary": "Former linebacker Luke Kuechly will serve as Netflix's lead game analyst following his Hall of Fame induction.",
         "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 08:58:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4fb1bd8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F329%2F159%2Fnbc_pft_mikelombardi_260727.jpg"
-      },
-      {
-        "title": "Vikings announce signings of running back Jordan Mims, linebacker Jamal Adams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-announce-signings-of-running-back-jordan-mims-linebacker-jamal-adams",
-        "summary": "The Vikings announced the signings of running back Jordan Mims and linebacker Jamal Adams as veterans report to training camp.",
-        "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 11:06:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a9a465/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F923%2Fnbc_pft_brianflores_260716.jpg"
+        "date": "Tue, 28 Jul 2026 12:38:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b90e692/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F457%2F87%2Fnbc_pft_ramsexpect_260728.jpg"
       }
     ]
   }
