@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-29T04:28:45.446Z",
+  "updated": "2026-07-29T07:19:31.007Z",
   "feed": {
     "VR": [
       {
         "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
         "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
-        "summary": "Immersed is set to ship its long-awaited Visor VR headset, focusing on work applications, following an update to pre-order customers.",
+        "summary": "Immersed is set to ship its long-awaited Visor VR headset, focusing on work applications, after confirming shipping timelines to pre-order customers.",
         "source": "roadtovr.com",
         "date": "Mon, 27 Jul 2026 15:28:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Quest's Horizon+ Subscription Added 10 Monthly Hours Of Xbox Games",
         "url": "https://www.uploadvr.com/quest-horizon-plus-subscription-adds-xbox-games/",
-        "summary": "Meta's Horizon+ subscription now includes 10 hours of Xbox cloud gaming monthly, enhancing its value for Quest users.",
+        "summary": "Meta's Horizon+ subscription now offers 10 monthly hours of Xbox cloud gaming, enhancing its partnership with Microsoft for Quest users.",
         "source": "uploadvr.com",
         "date": "Mon, 27 Jul 2026 15:17:57 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Meta-Horizon-Plus-Xbox-Game-Pass.webp"
@@ -29,7 +29,7 @@
       {
         "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
         "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR has launched on Meta Quest 3, featuring cross-platform co-op play, expanding its multiplayer capabilities.",
+        "summary": "Roboquest VR has officially launched on Meta Quest 3, introducing cross-platform co-op play with other VR systems.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:51:31 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
@@ -37,25 +37,25 @@
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ subscribers can now access over 50 Xbox Game Pass titles at no additional cost, enhancing the subscription's appeal.",
+        "summary": "Meta Horizon+ subscribers can now access over 50 Xbox Game Pass titles at no additional cost, enhancing the service's value.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
-        "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman launched ARR Immersive for Apple Vision Pro, offering a unique blend of music and performance in immersive formats.",
+        "title": "Futuristic VR FPS Hyper Dash Shutting Down This November",
+        "url": "https://www.uploadvr.com/futuristic-vr-fps-hyper-dash-shutting-down-this-november/",
+        "summary": "Triangle Factory announced the shutdown of its futuristic FPS Hyper Dash, set to close in November.",
         "source": "uploadvr.com",
-        "date": "Fri, 24 Jul 2026 10:17:16 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
+        "date": "Mon, 27 Jul 2026 10:24:55 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/hyperdash-ending.png"
       }
     ],
     "AI": [
       {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released Claude Opus 5, a new AI model that approaches the capabilities of its predecessor, Claude Fable 5.",
+        "summary": "Anthropic has released Claude Opus 5, claiming it approaches the capabilities of its predecessor, Claude Fable 5.",
         "source": "theverge.com",
         "date": "2026-07-24T13:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,26 +63,18 @@
       {
         "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "summary": "Nvidia and Microsoft have formed the Open Secure AI Alliance to develop open-source AI security tools, excluding major players like OpenAI.",
+        "summary": "Nvidia and Microsoft have launched the Open Secure AI Alliance to develop open-source AI security tools, excluding major players like OpenAI and Google.",
         "source": "theverge.com",
         "date": "2026-07-27T08:06:22-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-        "summary": "Perplexity has launched its Personal Computer tool for Windows, allowing PCs to function as locally run AI agents.",
+        "title": "Why China is giving away its best AI models",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+        "summary": "China's Moonshot AI has introduced the Kimi K3 model, posing a competitive threat to US AI systems at a lower cost.",
         "source": "theverge.com",
-        "date": "2026-07-28T08:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "AI leaders sign a statement asking the government to do something about automated AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "summary": "Leaders from top AI firms have urged the US government to implement coordinated governance to manage the rapid development of AI technologies.",
-        "source": "theverge.com",
-        "date": "2026-07-28T15:46:43-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-27T12:51:50-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -93,12 +85,20 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
       },
       {
-        "title": "Why China is giving away its best AI models",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-        "summary": "China's Moonshot AI has introduced a competitive AI model, raising concerns in Silicon Valley about its capabilities and cost efficiency.",
+        "title": "AI leaders sign a statement asking the government to do something about automated AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+        "summary": "Leaders from top AI firms have urged the US government to enhance governance efforts in response to rapid AI advancements.",
         "source": "theverge.com",
-        "date": "2026-07-27T12:51:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-28T15:46:43-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "AI’s finally expensive enough to make Wall Street nervous",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+        "summary": "Google's increased spending estimates, now up to $205 billion, have raised concerns among investors about the sustainability of AI investments.",
+        "source": "theverge.com",
+        "date": "2026-07-28T15:33:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
@@ -113,7 +113,7 @@
       {
         "title": "Commanders sign P Matt Haack with Tress Way sidelined by pec injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-sign-p-matt-haack-with-tress-way-sidelined-by-pec-injury",
-        "summary": "The Commanders have signed punter Matt Haack to fill in as Tress Way recovers from a pec injury.",
+        "summary": "The Commanders have signed punter Matt Haack to replace injured Tress Way as training camp begins.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 18:16:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e917894/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F460%2F15%2Fnbc_pft_billsunis_260728.jpg"
@@ -129,7 +129,7 @@
       {
         "title": "Mason Rudolph to begin camp as Steelers' No. 2 QB",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-rudolph-to-begin-camp-as-steelers-no-2-qb",
-        "summary": "Mason Rudolph will begin training camp as the Steelers' No. 2 quarterback, as the team prepares for the upcoming season.",
+        "summary": "Mason Rudolph will start training camp as the Steelers' No. 2 quarterback, indicating a shift in the team's QB hierarchy.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 17:53:08 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/49cff0e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F500%2F55%2Fnbc_pftpm_rodgerscertainfinalseason_260728.jpg"
@@ -137,18 +137,18 @@
       {
         "title": "Commanders offensive assistant Wes Welker will work with the team's tight ends",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-offensive-assistant-wes-welker-will-work-with-the-teams-tight-ends",
-        "summary": "Wes Welker has been appointed to work with the Commanders' tight ends after the team opted for an internal replacement.",
+        "summary": "Wes Welker will take over as the Commanders' tight ends coach following the departure of Ben Steele.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 18:10:01 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab84f8f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F502%2F1006%2Fnbc_pftpm_mailbag_260728.jpg"
       },
       {
-        "title": "Tank Dell avoids PUP list to open Texans camp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tank-dell-avoids-pup-list-to-open-texans-camp",
-        "summary": "Wide receiver Tank Dell has avoided the PUP list to open Texans camp, signaling his readiness for the upcoming season.",
+        "title": "Adam Peters gets a creative question about Brandon Aiyuk",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-peters-gets-a-creative-question-about-brandon-aiyuk",
+        "summary": "Adam Peters faced a tricky question regarding Brandon Aiyuk, highlighting the complexities of player contracts in the NFL.",
         "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 17:48:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5473877/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F502%2F1006%2Fnbc_pftpm_cfbjerseypatchdeals_260728.jpg"
+        "date": "Tue, 28 Jul 2026 20:11:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/35b81a8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F320%2F875%2Fnbc_pft_brandonaiyuk_260727.jpg"
       }
     ]
   }
