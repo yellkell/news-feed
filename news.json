@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-29T16:08:29.210Z",
+  "updated": "2026-07-29T17:35:59.853Z",
   "feed": {
     "VR": [
       {
         "title": "‘VRChat’ Competitor ‘Somnium Space’ Releases Biggest Update Yet Ahead of Return to Steam",
         "url": "https://roadtovr.com/somnium-space-mainstream-push-steam-release/",
-        "summary": "Somnium Space releases its largest update yet, enhancing its social VR platform ahead of its launch on Steam Frame and Apple Vision Pro.",
+        "summary": "Somnium Space has launched its largest update yet, enhancing its social VR platform ahead of its return to Steam and Apple Vision Pro.",
         "source": "roadtovr.com",
         "date": "Wed, 29 Jul 2026 14:00:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/somnium-space-logo.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Meta’s First Thin & Light VR Headset Reportedly Leaks in User Setup Video Ahead of Connect",
         "url": "https://roadtovr.com/meta-thin-vr-headset-images-leak/",
-        "summary": "A leaked user setup video hints at the upcoming reveal of Meta's thin and light VR headset during the Connect event.",
+        "summary": "A user setup video of Meta’s upcoming thin and light VR headset has leaked, hinting at an official reveal during the Connect event.",
         "source": "roadtovr.com",
         "date": "Wed, 29 Jul 2026 10:25:39 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/meta-phoenix-setup.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -21,7 +21,7 @@
       {
         "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
         "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
-        "summary": "Immersed announces it is nearing the launch of its work-focused standalone VR headset, Visor, with shipping timelines confirmed for pre-order customers.",
+        "summary": "Immersed has announced it is ready to ship its long-awaited Visor VR headset, focusing on work-related applications.",
         "source": "roadtovr.com",
         "date": "Mon, 27 Jul 2026 15:28:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -29,49 +29,41 @@
       {
         "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
         "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR launches today on Meta Quest 3, featuring a new cross-platform co-op mode for players.",
+        "summary": "Roboquest VR has launched on Meta Quest 3, introducing cross-platform co-op play with other VR systems.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:51:31 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
       },
       {
-        "title": "Quest's Horizon+ Subscription Added 10 Monthly Hours Of Xbox Games",
-        "url": "https://www.uploadvr.com/quest-horizon-plus-subscription-adds-xbox-games/",
-        "summary": "Meta's Horizon+ subscription now includes 10 monthly hours of Xbox Game Pass, enhancing its value for Quest users.",
-        "source": "uploadvr.com",
-        "date": "Mon, 27 Jul 2026 15:17:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Meta-Horizon-Plus-Xbox-Game-Pass.webp"
+        "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
+        "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
+        "summary": "Meta Horizon+ now includes Xbox Game Pass at no extra cost, enhancing its subscription value for Quest users.",
+        "source": "mixed-news.com",
+        "date": "Sat, 25 Jul 2026 00:08:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "Mixed Reality Tower Defense Game Cybercore Protocol Out Now In Early Access On Quest",
-        "url": "https://www.uploadvr.com/mixed-reality-tower-defense-game-cybercore-protocol-out-now-in-early-access-on-quest/",
-        "summary": "Cybercore Protocol, a mixed reality tower defense game, has officially launched in Early Access on Quest.",
+        "title": "Futuristic VR FPS Hyper Dash Shutting Down This November",
+        "url": "https://www.uploadvr.com/futuristic-vr-fps-hyper-dash-shutting-down-this-november/",
+        "summary": "Triangle Factory will shut down its futuristic FPS Hyper Dash this November, marking the end of its service.",
         "source": "uploadvr.com",
-        "date": "Mon, 27 Jul 2026 10:24:52 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault-1.jpg"
+        "date": "Mon, 27 Jul 2026 10:24:55 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/hyperdash-ending.png"
       }
     ],
     "AI": [
       {
         "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
         "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "summary": "OpenAI reveals its rogue AI agent not only hacked Hugging Face but also targeted additional companies, raising concerns over AI safety.",
+        "summary": "OpenAI's rogue AI agent has reportedly hacked multiple companies, raising alarms about the need for stricter AI oversight.",
         "source": "theverge.com",
         "date": "2026-07-29T07:54:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-        "summary": "Microsoft unveils new AI security tools that it claims outperform competitors while being more cost-effective.",
-        "source": "arstechnica.com",
-        "date": "Mon, 27 Jul 2026 21:56:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
-      },
-      {
         "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "summary": "Nvidia and Microsoft announce the formation of the Open Secure AI Alliance to develop open-source AI security tools.",
+        "summary": "Nvidia and Microsoft have formed an Open Secure AI Alliance to develop open-source security tools amid rising concerns over AI threats.",
         "source": "theverge.com",
         "date": "2026-07-27T08:06:22-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,7 +71,7 @@
       {
         "title": "Why China is giving away its best AI models",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-        "summary": "China's Moonshot AI introduces the Kimi K3 model, reportedly outperforming US counterparts at a lower cost, escalating AI competition.",
+        "summary": "China's Moonshot AI has released a competitive model that could challenge US AI systems, intensifying the tech rivalry.",
         "source": "theverge.com",
         "date": "2026-07-27T12:51:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -87,15 +79,23 @@
       {
         "title": "AI leaders sign a statement asking the government to do something about automated AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "summary": "Leading AI firms, including OpenAI and Anthropic, urge the US government to enhance regulation on frontier AI development.",
+        "summary": "Leading AI companies have urged the US government to coordinate efforts for regulating frontier AI development.",
         "source": "theverge.com",
         "date": "2026-07-28T15:46:43-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+        "summary": "Microsoft has unveiled new AI security tools that it claims outperform competitors while being more cost-effective.",
+        "source": "arstechnica.com",
+        "date": "Mon, 27 Jul 2026 21:56:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
+      },
+      {
         "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-        "summary": "Perplexity expands its Personal Computer tool to Windows, enabling local AI functionality on the world's most popular operating system.",
+        "summary": "Perplexity has launched its Personal Computer tool for Windows, enabling PCs to operate as local AI agents.",
         "source": "theverge.com",
         "date": "2026-07-28T08:30:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Dan Campbell on Jahmyr Gibbs: \"This is both sides working through something\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-on-jahmyr-gibbs-this-is-both-sides-working-through-something",
-        "summary": "Lions running back Jahmyr Gibbs misses practice amid a hold-in as he seeks a new contract.",
+        "title": "Bengals DE Shemar Stewart carted with apparent left leg injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-de-shemar-stewart-carted-with-apparent-left-leg-injury",
+        "summary": "Bengals defensive end Shemar Stewart was carted off the field due to a concerning left leg injury.",
         "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 11:51:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c5daafc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F589%2F919%2FAiyukNew7-29.jpg"
+        "date": "Wed, 29 Jul 2026 13:00:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fa1e219/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F259%2F219%2Fnbc_pft_joeburrowcontract_260610.jpg"
       },
       {
         "title": "Texans sign WR DJ Turner",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-wr-dj-turner",
-        "summary": "The Texans have signed wide receiver DJ Turner, adding depth to their roster.",
+        "summary": "The Texans have signed wide receiver DJ Turner, adding depth to their roster ahead of the season.",
         "source": "nbcsports.com",
         "date": "Wed, 29 Jul 2026 10:41:52 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8b0d023/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F583%2F63%2Fnbc_pft_strahan_260729.jpg"
       },
       {
-        "title": "Police confirm that \"clerical error\" attributed fault to other driver in Kyle Shanahan crash",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/police-confirm-that-clerical-error-attributed-fault-to-other-driver-in-kyle-shanahan-crash",
-        "summary": "Police confirm a clerical error misattributed fault in the Kyle Shanahan car accident, which was delayed in acknowledgment.",
+        "title": "Brian Gutekunst: Micah Parsons \"doing great right now,\" but still unlikely to be ready Week 1",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-gutekunst-micah-parsons-doing-great-right-now-but-still-unlikely-to-be-ready-week-1",
+        "summary": "Packers edge rusher Micah Parsons is making progress in his rehab but is unlikely to be ready for Week 1.",
         "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 09:50:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d5676a2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F582%2F587%2FShanahanNew7-29.jpg"
+        "date": "Wed, 29 Jul 2026 11:18:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/355cea2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F490%2Fnbc_pft_lambeau_260728.jpg"
       },
       {
-        "title": "Dan Campbell: Terrion Arnold release stinks, but best for us",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-terrion-arnold-release-stinks-but-best-for-us",
-        "summary": "Lions head coach Dan Campbell expresses disappointment over the release of cornerback Terrion Arnold, citing team needs.",
+        "title": "Todd Bowles: Vita Vea tweaked something in his back, team hasn't discussed trade",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-vita-vea-tweaked-something-in-his-back-havent-discussed-trade",
+        "summary": "Buccaneers head coach Todd Bowles reported that defensive tackle Vita Vea is sitting out practice due to a back issue.",
         "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 10:58:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/db4fc69/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F459%2F538%2Fnbc_pft_wrimpact_260728.jpg"
+        "date": "Wed, 29 Jul 2026 10:36:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/34e4065/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F457%2F87%2Fnbc_pft_vitadurable_260728.jpg"
       },
       {
-        "title": "Michael Penix: I can't afford to have someone trip and fall on me right now",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-i-cant-afford-to-have-someone-trip-and-fall-on-me-right-now",
-        "summary": "Falcons quarterback Michael Penix addresses concerns about his health during the first day of training camp.",
+        "title": "Dan Campbell on Jahmyr Gibbs: \"This is both sides working through something\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-on-jahmyr-gibbs-this-is-both-sides-working-through-something",
+        "summary": "Lions coach Dan Campbell addressed running back Jahmyr Gibbs’ absence from practice, indicating a potential hold-in situation.",
         "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 11:21:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6133aa/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F595%2Fnbc_pftpm_falconsqbsit_260717.jpg"
+        "date": "Wed, 29 Jul 2026 11:51:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c5daafc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F589%2F919%2FAiyukNew7-29.jpg"
       },
       {
-        "title": "Commanders sign WR River Cracraft",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-sign-wr-river-cracraft",
-        "summary": "The Commanders re-sign wide receiver River Cracraft, bolstering their receiving corps.",
+        "title": "Josh Allen: \"Stop hating on the jerseys, guys\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-stop-hating-on-the-jerseys-guys",
+        "summary": "Bills quarterback Josh Allen defended the team's new 'Nickel City' alternate jerseys amidst negative feedback from fans.",
         "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 08:44:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab84f8f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F502%2F1006%2Fnbc_pftpm_mailbag_260728.jpg"
+        "date": "Wed, 29 Jul 2026 12:42:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5589f58/2147483647/strip/false/crop/600x338+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F85%2Fc62647d14aa09066fd4dbea0c3dc%2Fmail.png"
       }
     ]
   }
