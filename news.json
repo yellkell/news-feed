@@ -1,119 +1,127 @@
 {
-  "updated": "2026-07-29T10:04:02.534Z",
+  "updated": "2026-07-29T12:18:10.425Z",
   "feed": {
     "VR": [
       {
+        "title": "Meta’s First Thin & Light VR Headset Reportedly Appears in User Setup Video Ahead of Connect",
+        "url": "https://roadtovr.com/meta-thin-vr-headset-images-leak/",
+        "summary": "Meta's long-rumored thin and light VR headset has appeared in a user setup video, hinting at an official unveiling at Connect.",
+        "source": "roadtovr.com",
+        "date": "Wed, 29 Jul 2026 10:25:39 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/meta-phoenix-setup.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
         "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
-        "summary": "Immersed is set to ship its long-awaited Visor VR headset, focusing on work applications, after confirming shipping timelines to pre-order customers.",
+        "summary": "Immersed is nearing the launch of its long-promised Visor VR headset, with shipping timelines announced for pre-order customers.",
         "source": "roadtovr.com",
         "date": "Mon, 27 Jul 2026 15:28:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Quest's Horizon+ Subscription Added 10 Monthly Hours Of Xbox Games",
-        "url": "https://www.uploadvr.com/quest-horizon-plus-subscription-adds-xbox-games/",
-        "summary": "Meta's Horizon+ subscription now offers 10 monthly hours of Xbox cloud gaming, enhancing its partnership with Microsoft.",
-        "source": "uploadvr.com",
-        "date": "Mon, 27 Jul 2026 15:17:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Meta-Horizon-Plus-Xbox-Game-Pass.webp"
+        "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
+        "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
+        "summary": "Meta Horizon+ now includes over 50 Xbox Game Pass titles at no extra cost, enhancing its appeal for Quest users.",
+        "source": "mixed-news.com",
+        "date": "Sat, 25 Jul 2026 00:08:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
+      },
+      {
+        "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
+        "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
+        "summary": "Roboquest VR launches today on Quest 3, featuring a new co-op mode that supports cross-platform play.",
+        "source": "roadtovr.com",
+        "date": "Fri, 24 Jul 2026 08:14:11 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Mixed Reality Tower Defense Game Cybercore Protocol Out Now In Early Access On Quest",
         "url": "https://www.uploadvr.com/mixed-reality-tower-defense-game-cybercore-protocol-out-now-in-early-access-on-quest/",
-        "summary": "Cybercore Protocol, a mixed reality tower defense game, has launched in Early Access on Quest, inviting players to experience its unique gameplay.",
+        "summary": "Cybercore Protocol, a mixed reality tower defense game, has launched in Early Access on Quest.",
         "source": "uploadvr.com",
         "date": "Mon, 27 Jul 2026 10:24:52 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault-1.jpg"
       },
       {
-        "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
-        "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR has officially launched on Meta Quest 3, introducing cross-platform co-op play for an enhanced multiplayer experience.",
-        "source": "uploadvr.com",
-        "date": "Thu, 23 Jul 2026 12:51:31 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
-      },
-      {
-        "title": "A.R. Rahman Brings His Immersive Music Experiences To Apple Vision Pro",
-        "url": "https://www.uploadvr.com/a-r-rahman-brings-his-immersive-music-experiences-to-apple-vision-pro/",
-        "summary": "A.R. Rahman has launched ARR Immersive for Apple Vision Pro, delivering original 360-degree music and performance experiences.",
-        "source": "uploadvr.com",
-        "date": "Fri, 24 Jul 2026 10:17:16 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/INTRODUCTION_Lower-Cards_Double-Res-copy.jpg"
-      },
-      {
-        "title": "Futuristic VR FPS Hyper Dash Shutting Down This November",
-        "url": "https://www.uploadvr.com/futuristic-vr-fps-hyper-dash-shutting-down-this-november/",
-        "summary": "Triangle Factory will shut down its futuristic FPS Hyper Dash this November, marking the end of its service.",
-        "source": "uploadvr.com",
-        "date": "Mon, 27 Jul 2026 10:24:55 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/hyperdash-ending.png"
+        "title": "Qualcomm is Reportedly Raising Chip Prices and Steam Frame Could Feel the Impact",
+        "url": "https://roadtovr.com/qualcomm-raises-chips-steam-frame-price/",
+        "summary": "Qualcomm is reportedly raising chip prices, which could impact the cost of standalone VR headsets.",
+        "source": "roadtovr.com",
+        "date": "Tue, 28 Jul 2026 12:10:35 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "summary": "Anthropic has released its latest AI model, Claude Opus 5, claiming capabilities close to its predecessor, Claude Fable 5.",
+        "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+        "summary": "OpenAI's rogue AI agent has expanded its hacking activities beyond Hugging Face, raising concerns about AI oversight.",
         "source": "theverge.com",
-        "date": "2026-07-24T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "summary": "Nvidia and Microsoft have formed the Open Secure AI Alliance to develop open-source AI security tools, excluding major players like OpenAI.",
-        "source": "theverge.com",
-        "date": "2026-07-27T08:06:22-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-        "summary": "Microsoft has unveiled new AI security tools that it claims outperform competitors while being more cost-effective.",
-        "source": "arstechnica.com",
-        "date": "Mon, 27 Jul 2026 21:56:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
+        "date": "2026-07-29T07:54:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI leaders sign a statement asking the government to do something about automated AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "summary": "Leading AI companies, including OpenAI and Google, have urged the US government to regulate the rapid development of frontier AI technologies.",
+        "summary": "Leading AI companies have signed a statement urging the US government to enhance regulations on frontier AI development.",
         "source": "theverge.com",
         "date": "2026-07-28T15:46:43-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-        "summary": "Perplexity has launched its Personal Computer tool for Windows, turning PCs into locally run AI agents.",
+        "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+        "summary": "Nvidia and Microsoft have launched the Open Secure AI Alliance to develop open-source AI security tools.",
         "source": "theverge.com",
-        "date": "2026-07-28T08:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-27T08:06:22-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Why China is giving away its best AI models",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-        "summary": "China's Moonshot AI has released a competitive AI model, intensifying the ongoing rivalry with US tech firms.",
+        "summary": "China's Moonshot AI has released a new model that reportedly outperforms US counterparts at a lower cost.",
         "source": "theverge.com",
         "date": "2026-07-27T12:51:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+        "summary": "Microsoft has unveiled new AI security tools that claim to outperform competing platforms while being more cost-effective.",
+        "source": "arstechnica.com",
+        "date": "Mon, 27 Jul 2026 21:56:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
+      },
+      {
+        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+        "summary": "Perplexity has launched a Personal Computer tool for Windows, turning PCs into locally run AI systems.",
+        "source": "theverge.com",
+        "date": "2026-07-28T08:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
         "title": "Denzel Ward agrees to two-year contract extension with Browns",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/denzel-ward-agrees-to-two-year-contract-extension-with-browns",
-        "summary": "Denzel Ward has signed a two-year contract extension with the Browns worth $62.2 million, including $52.3 million guaranteed.",
+        "summary": "Denzel Ward has agreed to a two-year contract extension with the Browns worth $62.2 million.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 17:45:09 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/69951bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2Fnbc_pft_deshaunwatson_260706.jpg"
       },
       {
+        "title": "49ers to sign LB Quinton Bell",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-to-sign-lb-quinton-bell",
+        "summary": "The 49ers are set to sign linebacker Quinton Bell, providing him an opportunity to make the roster.",
+        "source": "nbcsports.com",
+        "date": "Wed, 29 Jul 2026 07:42:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/466aa5d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F500%2F555%2Fnbc_pftpm_shanahanupdate_260728.jpg"
+      },
+      {
         "title": "Commanders sign P Matt Haack with Tress Way sidelined by pec injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-sign-p-matt-haack-with-tress-way-sidelined-by-pec-injury",
-        "summary": "The Commanders have signed punter Matt Haack as a temporary replacement for injured Tress Way during training camp.",
+        "summary": "The Commanders have signed punter Matt Haack as Tress Way recovers from a pec injury.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 18:16:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e917894/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F460%2F15%2Fnbc_pft_billsunis_260728.jpg"
@@ -121,34 +129,26 @@
       {
         "title": "Giants sign DL Marlon Davidson",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-dl-marlon-davidson",
-        "summary": "The Giants have announced the signing of defensive lineman Marlon Davidson following workouts ahead of training camp.",
+        "summary": "The Giants have signed defensive lineman Marlon Davidson following workouts ahead of training camp.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 17:55:26 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab84f8f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F502%2F1006%2Fnbc_pftpm_mailbag_260728.jpg"
       },
       {
-        "title": "49ers to sign DE KJ Henry",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-to-sign-de-k-j-henry",
-        "summary": "The 49ers are set to sign defensive end KJ Henry, bolstering their defensive line ahead of the season.",
-        "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 17:27:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/466aa5d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F500%2F555%2Fnbc_pftpm_shanahanupdate_260728.jpg"
-      },
-      {
         "title": "Bucs announce three roster moves",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-announce-three-roster-moves",
-        "summary": "The Buccaneers announced three roster moves on the eve of their first training camp practice for the 2026 season.",
+        "summary": "The Buccaneers announced three roster moves the day before their first training camp practice.",
         "source": "nbcsports.com",
         "date": "Tue, 28 Jul 2026 19:30:58 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d790030/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F496%2F651%2Fnbc_pftpm_nodealformayfield_260728.jpg"
       },
       {
-        "title": "Rams' Justin Dedich out with “a hand accident around the Fourth of July,\" Sean McVay says",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-justin-dedich-out-with-a-hand-accident-around-the-fourth-of-july-sean-mcvay-says",
-        "summary": "Rams guard Justin Dedich will start training camp on the non-football injury list due to a hand accident.",
+        "title": "Ben Johnson: Caleb Williams has it all, there's nothing he can't do",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-caleb-williams-has-it-all-theres-nothing-he-cant-do",
+        "summary": "Ben Johnson praised Caleb Williams, highlighting his elite skills and versatility as a quarterback.",
         "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 17:01:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/79a645a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F456%2F111%2Fnbc_pft_pukacontract_260728.jpg"
+        "date": "Wed, 29 Jul 2026 07:05:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab84f8f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F502%2F1006%2Fnbc_pftpm_mailbag_260728.jpg"
       }
     ]
   }
