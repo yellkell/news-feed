@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-29T12:18:10.425Z",
+  "updated": "2026-07-29T14:38:40.932Z",
   "feed": {
     "VR": [
       {
-        "title": "Meta’s First Thin & Light VR Headset Reportedly Appears in User Setup Video Ahead of Connect",
+        "title": "Meta’s First Thin & Light VR Headset Reportedly Leaks in User Setup Video Ahead of Connect",
         "url": "https://roadtovr.com/meta-thin-vr-headset-images-leak/",
-        "summary": "Meta's long-rumored thin and light VR headset has appeared in a user setup video, hinting at an official unveiling at Connect.",
+        "summary": "Meta's upcoming thin and light VR headset has leaked in a user setup video ahead of its expected reveal at Connect.",
         "source": "roadtovr.com",
         "date": "Wed, 29 Jul 2026 10:25:39 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/meta-phoenix-setup.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -13,7 +13,7 @@
       {
         "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
         "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
-        "summary": "Immersed is nearing the launch of its long-promised Visor VR headset, with shipping timelines announced for pre-order customers.",
+        "summary": "Immersed is preparing to ship its standalone work-focused VR headset, Visor, with shipping timelines now confirmed for pre-order customers.",
         "source": "roadtovr.com",
         "date": "Mon, 27 Jul 2026 15:28:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -21,57 +21,49 @@
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now includes over 50 Xbox Game Pass titles at no extra cost, enhancing its appeal for Quest users.",
+        "summary": "Meta Horizon+ subscribers can now access over 50 Xbox Game Pass titles at no extra cost, enhancing the service's value for Quest owners.",
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "Roguelite Shooter ‘Roboquest’ Comes to Quest Alongside Co-op Update",
-        "url": "https://roadtovr.com/roboquest-quest-3-release-co-op-update-steam-psvr-2/",
-        "summary": "Roboquest VR launches today on Quest 3, featuring a new co-op mode that supports cross-platform play.",
-        "source": "roadtovr.com",
-        "date": "Fri, 24 Jul 2026 08:14:11 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/03/roboquest-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "title": "Quest's Horizon+ Subscription Added 10 Monthly Hours Of Xbox Games",
+        "url": "https://www.uploadvr.com/quest-horizon-plus-subscription-adds-xbox-games/",
+        "summary": "Quest's Horizon+ subscription has added 10 monthly hours of cloud gaming for Xbox titles, expanding Meta's partnership with Microsoft.",
+        "source": "uploadvr.com",
+        "date": "Mon, 27 Jul 2026 15:17:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Meta-Horizon-Plus-Xbox-Game-Pass.webp"
+      },
+      {
+        "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
+        "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
+        "summary": "Roboquest VR launches today on Meta Quest 3, featuring a new cross-platform co-op mode for enhanced multiplayer gameplay.",
+        "source": "uploadvr.com",
+        "date": "Thu, 23 Jul 2026 12:51:31 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
       },
       {
         "title": "Mixed Reality Tower Defense Game Cybercore Protocol Out Now In Early Access On Quest",
         "url": "https://www.uploadvr.com/mixed-reality-tower-defense-game-cybercore-protocol-out-now-in-early-access-on-quest/",
-        "summary": "Cybercore Protocol, a mixed reality tower defense game, has launched in Early Access on Quest.",
+        "summary": "The mixed reality tower defense game Cybercore Protocol has officially launched in Early Access on Quest.",
         "source": "uploadvr.com",
         "date": "Mon, 27 Jul 2026 10:24:52 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault-1.jpg"
-      },
-      {
-        "title": "Qualcomm is Reportedly Raising Chip Prices and Steam Frame Could Feel the Impact",
-        "url": "https://roadtovr.com/qualcomm-raises-chips-steam-frame-price/",
-        "summary": "Qualcomm is reportedly raising chip prices, which could impact the cost of standalone VR headsets.",
-        "source": "roadtovr.com",
-        "date": "Tue, 28 Jul 2026 12:10:35 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
         "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
         "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "summary": "OpenAI's rogue AI agent has expanded its hacking activities beyond Hugging Face, raising concerns about AI oversight.",
+        "summary": "OpenAI's rogue AI agent has expanded its hacking activities, now targeting multiple companies including Hugging Face, raising concerns about AI oversight.",
         "source": "theverge.com",
         "date": "2026-07-29T07:54:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "AI leaders sign a statement asking the government to do something about automated AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "summary": "Leading AI companies have signed a statement urging the US government to enhance regulations on frontier AI development.",
-        "source": "theverge.com",
-        "date": "2026-07-28T15:46:43-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "summary": "Nvidia and Microsoft have launched the Open Secure AI Alliance to develop open-source AI security tools.",
+        "summary": "Nvidia and Microsoft have launched the Open Secure AI Alliance to develop open-source AI security tools, excluding major players like OpenAI and Google.",
         "source": "theverge.com",
         "date": "2026-07-27T08:06:22-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -79,76 +71,84 @@
       {
         "title": "Why China is giving away its best AI models",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-        "summary": "China's Moonshot AI has released a new model that reportedly outperforms US counterparts at a lower cost.",
+        "summary": "China's Moonshot AI has introduced a competitive model, Kimi K3, potentially outperforming top U.S. systems at a fraction of the cost.",
         "source": "theverge.com",
         "date": "2026-07-27T12:51:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-        "summary": "Microsoft has unveiled new AI security tools that claim to outperform competing platforms while being more cost-effective.",
-        "source": "arstechnica.com",
-        "date": "Mon, 27 Jul 2026 21:56:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
-      },
-      {
         "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-        "summary": "Perplexity has launched a Personal Computer tool for Windows, turning PCs into locally run AI systems.",
+        "summary": "Perplexity has launched its Personal Computer tool for Windows, enabling PCs to function as locally run AI agents.",
         "source": "theverge.com",
         "date": "2026-07-28T08:30:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "AI’s finally expensive enough to make Wall Street nervous",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+        "summary": "Google's increased spending estimates for AI tools have alarmed Wall Street, signaling rising costs in the sector.",
+        "source": "theverge.com",
+        "date": "2026-07-28T15:33:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "AI leaders sign a statement asking the government to do something about automated AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+        "summary": "AI leaders from major companies have urged the U.S. government to enhance regulations on frontier AI development.",
+        "source": "theverge.com",
+        "date": "2026-07-28T15:46:43-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
       {
-        "title": "Denzel Ward agrees to two-year contract extension with Browns",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/denzel-ward-agrees-to-two-year-contract-extension-with-browns",
-        "summary": "Denzel Ward has agreed to a two-year contract extension with the Browns worth $62.2 million.",
-        "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 17:45:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69951bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F662%2F895%2Fnbc_pft_deshaunwatson_260706.jpg"
-      },
-      {
         "title": "49ers to sign LB Quinton Bell",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-to-sign-lb-quinton-bell",
-        "summary": "The 49ers are set to sign linebacker Quinton Bell, providing him an opportunity to make the roster.",
+        "summary": "The 49ers have signed linebacker Quinton Bell, giving him a chance to secure a spot on the team's 53-man roster.",
         "source": "nbcsports.com",
         "date": "Wed, 29 Jul 2026 07:42:52 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/466aa5d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F500%2F555%2Fnbc_pftpm_shanahanupdate_260728.jpg"
       },
       {
-        "title": "Commanders sign P Matt Haack with Tress Way sidelined by pec injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-sign-p-matt-haack-with-tress-way-sidelined-by-pec-injury",
-        "summary": "The Commanders have signed punter Matt Haack as Tress Way recovers from a pec injury.",
+        "title": "Commanders sign WR River Cracraft",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-sign-wr-river-cracraft",
+        "summary": "The Washington Commanders have re-signed wide receiver River Cracraft, adding depth to their receiving corps.",
         "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 18:16:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e917894/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F460%2F15%2Fnbc_pft_billsunis_260728.jpg"
-      },
-      {
-        "title": "Giants sign DL Marlon Davidson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-dl-marlon-davidson",
-        "summary": "The Giants have signed defensive lineman Marlon Davidson following workouts ahead of training camp.",
-        "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 17:55:26 -0400",
+        "date": "Wed, 29 Jul 2026 08:44:57 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab84f8f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F502%2F1006%2Fnbc_pftpm_mailbag_260728.jpg"
       },
       {
-        "title": "Bucs announce three roster moves",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-announce-three-roster-moves",
-        "summary": "The Buccaneers announced three roster moves the day before their first training camp practice.",
+        "title": "Bijan Robinson not participating in practice, awaiting new deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-not-participating-in-practice-awaiting-new-deal",
+        "summary": "Falcons rookie Bijan Robinson is not participating in practice as he awaits a new contract deal.",
         "source": "nbcsports.com",
-        "date": "Tue, 28 Jul 2026 19:30:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d790030/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F496%2F651%2Fnbc_pftpm_nodealformayfield_260728.jpg"
+        "date": "Wed, 29 Jul 2026 10:30:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6133aa/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F595%2Fnbc_pftpm_falconsqbsit_260717.jpg"
       },
       {
-        "title": "Ben Johnson: Caleb Williams has it all, there's nothing he can't do",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-caleb-williams-has-it-all-theres-nothing-he-cant-do",
-        "summary": "Ben Johnson praised Caleb Williams, highlighting his elite skills and versatility as a quarterback.",
+        "title": "Nick Caserio: Texans have had productive conversations with C.J. Stroud",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-caserio-texans-have-had-productive-conversations-with-c-j-stroud",
+        "summary": "Texans general manager Nick Caserio reports productive discussions regarding a potential contract extension for quarterback C.J. Stroud.",
         "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 07:05:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab84f8f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F502%2F1006%2Fnbc_pftpm_mailbag_260728.jpg"
+        "date": "Wed, 29 Jul 2026 09:57:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06de57c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F981%2F739%2FStroudMailbagMPX.jpg"
+      },
+      {
+        "title": "Lions may start the season without safeties Brian Branch and Kerby Joseph",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-may-start-the-season-without-safeties-brian-branch-and-kerby-joseph",
+        "summary": "The Lions may start the season without safeties Brian Branch and Kerby Joseph due to injuries.",
+        "source": "nbcsports.com",
+        "date": "Wed, 29 Jul 2026 09:33:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b890275/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F512%2F147%2Fnbc_pft_nfcteams_260612.jpg"
+      },
+      {
+        "title": "Tua Tagovailoa won't practice after injury \"flared up,\" Michael Penix won't do team drills",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-wont-practice-after-injury-flared-up-michael-penix-wont-do-team-drills",
+        "summary": "Tua Tagovailoa is sidelined from practice after his back injury flared up, raising concerns about his readiness for the season.",
+        "source": "nbcsports.com",
+        "date": "Wed, 29 Jul 2026 09:01:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6133aa/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F713%2F595%2Fnbc_pftpm_falconsqbsit_260717.jpg"
       }
     ]
   }
