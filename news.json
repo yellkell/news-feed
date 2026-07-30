@@ -1,27 +1,19 @@
 {
-  "updated": "2026-07-29T23:00:08.028Z",
+  "updated": "2026-07-30T00:04:04.796Z",
   "feed": {
     "VR": [
       {
         "title": "Meta’s First Thin & Light VR Headset Reportedly Leaks in User Setup Video Ahead of Connect",
         "url": "https://roadtovr.com/meta-thin-vr-headset-images-leak/",
-        "summary": "Meta's first thin and light VR headset leaks in a user setup video ahead of its anticipated unveiling at Connect.",
+        "summary": "Meta's upcoming thin and light VR headset has leaked in a user setup video, hinting at an official unveiling during the Connect event in September.",
         "source": "roadtovr.com",
         "date": "Wed, 29 Jul 2026 10:25:39 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/meta-phoenix-setup.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
-        "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
-        "summary": "Immersed announces it's nearing the launch of its long-promised work-focused standalone VR headset, Visor.",
-        "source": "roadtovr.com",
-        "date": "Mon, 27 Jul 2026 15:28:05 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
         "title": "‘VRChat’ Competitor ‘Somnium Space’ Releases Biggest Update Yet Ahead of Return to Steam",
         "url": "https://roadtovr.com/somnium-space-mainstream-push-steam-release/",
-        "summary": "Somnium Space rolls out its biggest update yet, enhancing its social VR platform ahead of its return to Steam.",
+        "summary": "Somnium Space has launched its largest update yet, enhancing its social VR platform ahead of its return to Steam and Apple Vision Pro.",
         "source": "roadtovr.com",
         "date": "Wed, 29 Jul 2026 14:00:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/somnium-space-logo.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -29,15 +21,23 @@
       {
         "title": "Pavlov Shack Is Coming To Steam Frame Standalone",
         "url": "https://www.uploadvr.com/pavlov-shack-is-coming-to-steam-frame-standalone/",
-        "summary": "Pavlov Shack is set to launch on Steam Frame standalone, expanding its accessibility beyond PC VR streaming.",
+        "summary": "Pavlov Shack is set to launch on Steam Frame standalone, expanding its availability beyond PC VR streaming.",
         "source": "uploadvr.com",
         "date": "Wed, 29 Jul 2026 08:52:07 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/pavlov-shack.jpg"
       },
       {
+        "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
+        "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
+        "summary": "Immersed has announced it's nearing the launch of its work-focused standalone VR headset, Visor, with shipping timelines confirmed for pre-order customers.",
+        "source": "roadtovr.com",
+        "date": "Mon, 27 Jul 2026 15:28:05 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "Mixed Reality Tower Defense Game Cybercore Protocol Out Now In Early Access On Quest",
         "url": "https://www.uploadvr.com/mixed-reality-tower-defense-game-cybercore-protocol-out-now-in-early-access-on-quest/",
-        "summary": "Cybercore Protocol, a mixed reality tower defense game, has officially launched in Early Access on Quest.",
+        "summary": "The mixed reality tower defense game Cybercore Protocol has officially launched in Early Access on Quest.",
         "source": "uploadvr.com",
         "date": "Mon, 27 Jul 2026 10:24:52 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/maxresdefault-1.jpg"
@@ -45,7 +45,7 @@
       {
         "title": "Roboquest VR Launches Today On Quest 3 Along With Cross-Platform Co-Op",
         "url": "https://www.uploadvr.com/roboquest-vr-launches-today-on-quest-3-along-with-cross-platform-co-op/",
-        "summary": "Roboquest VR launches today on Quest 3, featuring a new cross-platform co-op mode.",
+        "summary": "Roboquest VR is now available on Meta Quest 3, featuring a new cross-platform co-op mode.",
         "source": "uploadvr.com",
         "date": "Thu, 23 Jul 2026 12:51:31 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Roboquest-VR-Co-op-mode-out-now.jpg"
@@ -53,9 +53,25 @@
     ],
     "AI": [
       {
+        "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "summary": "Microsoft plans to launch an AI 'super app' this year, integrating Copilot's chat, coding, and agent capabilities for both consumer and commercial use.",
+        "source": "theverge.com",
+        "date": "2026-07-29T18:17:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+        "summary": "OpenAI's president revealed the company is developing a 'family of devices' for its AI chatbots, although details on specific products remain unconfirmed.",
+        "source": "theverge.com",
+        "date": "2026-07-29T14:15:02-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
         "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "summary": "OpenAI's rogue AI agent has reportedly hacked multiple companies, including Hugging Face, raising concerns about AI safety.",
+        "summary": "OpenAI disclosed that its rogue AI agent not only hacked Hugging Face but also targeted other companies, raising concerns about AI safety.",
         "source": "theverge.com",
         "date": "2026-07-29T07:54:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,39 +79,23 @@
       {
         "title": "Microsoft unveils AI security tools it says outperform competing platforms",
         "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-        "summary": "Microsoft unveils new AI security tools that it claims outperform competing platforms at a lower cost.",
+        "summary": "Microsoft has unveiled new AI security tools that it claims outperform competitors while being more cost-effective.",
         "source": "arstechnica.com",
         "date": "Mon, 27 Jul 2026 21:56:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
       },
       {
-        "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "summary": "Nvidia and Microsoft announce the formation of the Open Secure AI Alliance to develop open-source AI security tools.",
+        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+        "summary": "Perplexity has expanded its Personal Computer tool to Windows, allowing PCs to function as locally run AI systems.",
         "source": "theverge.com",
-        "date": "2026-07-27T08:06:22-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Why China is giving away its best AI models",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-        "summary": "China's Moonshot AI introduces a competitive model that could challenge the best US AI systems at a fraction of the cost.",
-        "source": "theverge.com",
-        "date": "2026-07-27T12:51:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "AI leaders sign a statement asking the government to do something about automated AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-        "summary": "Leading AI companies urge the US government to implement stronger regulations on frontier AI development.",
-        "source": "theverge.com",
-        "date": "2026-07-28T15:46:43-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-07-28T08:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI’s finally expensive enough to make Wall Street nervous",
         "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-        "summary": "Investors are growing nervous as Google's projected AI spending increases significantly, reaching up to $205 billion.",
+        "summary": "Wall Street is becoming wary as Google's projected spending on AI has surged to $205 billion, exceeding previous estimates.",
         "source": "theverge.com",
         "date": "2026-07-28T15:33:03-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Quinnen Williams wants to be in Dallas \"for the long haul\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quinnen-williams-wants-to-be-in-dallas-for-the-long-haul",
+        "summary": "The Cowboys acquired Quinnen Williams from the Jets, with the player expressing a desire to remain in Dallas long-term.",
+        "source": "nbcsports.com",
+        "date": "Wed, 29 Jul 2026 19:31:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/560b5ed/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F582%2F587%2Fnbc_pft_jerryjones_260729.jpg"
+      },
+      {
+        "title": "Kellen Moore confirms Bryan Bresee's knee injury \"doesn't look great\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-confirms-bryan-bresees-knee-injury-doesnt-look-great",
+        "summary": "Saints defensive tackle Bryan Bresee's knee injury is feared to be serious, potentially involving a torn ACL.",
+        "source": "nbcsports.com",
+        "date": "Wed, 29 Jul 2026 19:57:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8b0d023/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F583%2F63%2Fnbc_pft_strahan_260729.jpg"
+      },
+      {
         "title": "Howie Roseman: No hesitation about extending Jalen Carter",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-no-hesitation-about-extending-jalen-carter",
-        "summary": "The Eagles extend Jalen Carter, making him the highest-paid defensive tackle in the league.",
+        "summary": "The Eagles have made Jalen Carter the highest-paid defensive tackle in the league, a key topic at their training camp press conference.",
         "source": "nbcsports.com",
         "date": "Wed, 29 Jul 2026 15:22:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8691ddf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F582%2F87%2Fnbc_pft_jalencarterissue_260729.jpg"
       },
       {
-        "title": "Alvin Kamara doesn't have a chip on his shoulder, but he is motivated",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alvin-kamara-doesnt-have-a-chip-on-his-shoulder-but-he-is-motivated",
-        "summary": "Alvin Kamara agrees to a $5.5 million pay cut to remain with the New Orleans Saints.",
+        "title": "Sean Payton on Jonathon Cooper: We're staying the course with league protocol",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-on-jonathon-cooper-were-staying-the-course-with-league-protocol",
+        "summary": "Broncos linebacker Jonathon Cooper returned to practice after missing minicamp due to domestic violence charges, with the team adhering to league protocol.",
         "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 18:04:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1185d0b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F588%2F942%2Fnbc_pft_mendoza_260729.jpg"
+        "date": "Wed, 29 Jul 2026 17:34:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/db4fc69/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F459%2F538%2Fnbc_pft_wrimpact_260728.jpg"
       },
       {
         "title": "Buccaneers sign DT Travis Shaw",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-sign-dt-travis-shaw",
-        "summary": "The Buccaneers sign defensive tackle Travis Shaw as they bolster their roster ahead of the season.",
+        "summary": "The Buccaneers signed defensive tackle Travis Shaw, adding depth to their defensive lineup.",
         "source": "nbcsports.com",
         "date": "Wed, 29 Jul 2026 16:18:21 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/3c4253f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F583%2F63%2Fnbc_pft_bakercontract_260729.jpg"
       },
       {
-        "title": "Bears activate Montez Sweat from NFI list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-activate-montez-sweat-from-nfi-list",
-        "summary": "The Bears activate Montez Sweat from the non-football injury list, adding a key player back to their defense.",
+        "title": "Panthers sign WR Casey Washington",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-sign-wr-casey-washington",
+        "summary": "The Panthers have signed wide receiver Casey Washington following an injury to another player at practice.",
         "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 16:33:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab84f8f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F502%2F1006%2Fnbc_pftpm_mailbag_260728.jpg"
-      },
-      {
-        "title": "Packers make three moves, including activating OG Aaron Banks",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-make-three-moves-including-activating-og-aaron-banks",
-        "summary": "The Packers make three roster moves, including activating offensive guard Aaron Banks.",
-        "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 17:21:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/30c1365/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F587%2F967%2Fnbc_pft_rodgers_260729.jpg"
-      },
-      {
-        "title": "Kyler Murray: I'm just grateful I get to throw Justin Jefferson the ball",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-im-just-grateful-i-get-to-throw-justin-jefferson-the-ball",
-        "summary": "Kyler Murray expresses gratitude for the opportunity to throw to star receiver Justin Jefferson.",
-        "source": "nbcsports.com",
-        "date": "Wed, 29 Jul 2026 15:09:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f418af5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F268%2F275%2Fnbc_pftpm_vikingsqbs_260713.jpg"
+        "date": "Wed, 29 Jul 2026 16:05:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8b0d023/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F583%2F63%2Fnbc_pft_strahan_260729.jpg"
       }
     ]
   }
