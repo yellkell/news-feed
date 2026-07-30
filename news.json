@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-30T18:10:14.801Z",
+  "updated": "2026-07-30T19:49:04.516Z",
   "feed": {
     "VR": [
       {
         "title": "Steam Frame Launch Looks Imminent Following FCC Certification",
         "url": "https://roadtovr.com/steam-frame-launch-looks-imminent-following-fcc-certification/",
-        "summary": "The launch of Steam Frame is imminent as it has cleared FCC certification, signaling a significant step towards its release.",
+        "summary": "The imminent launch of Steam Frame is confirmed as it clears FCC certification, moving closer to its release date.",
         "source": "roadtovr.com",
         "date": "Thu, 30 Jul 2026 14:04:56 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
@@ -13,15 +13,23 @@
       {
         "title": "SideQuest is Reviving Microsoft’s Social VR Platform ‘Altspace’ This Fall",
         "url": "https://roadtovr.com/sidequest-revives-microsoft-altspace-release-date/",
-        "summary": "SideQuest is reviving Microsoft's social VR platform AltspaceVR, bringing it back for users this fall.",
+        "summary": "SideQuest is reviving Microsoft’s AltspaceVR, a pioneering social VR platform, set to return this fall.",
         "source": "roadtovr.com",
         "date": "Thu, 30 Jul 2026 12:08:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/altspace-vr-new.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
+        "title": "‘VRChat’ Competitor ‘Somnium Space’ Releases Biggest Update Yet Ahead of Return to Steam",
+        "url": "https://roadtovr.com/somnium-space-mainstream-push-steam-release/",
+        "summary": "Somnium Space has released its most significant update yet, enhancing its platform ahead of its Steam Frame debut.",
+        "source": "roadtovr.com",
+        "date": "Wed, 29 Jul 2026 14:00:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/somnium-space-logo.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "Meta’s First Thin & Light VR Headset Reportedly Leaks in User Setup Video Ahead of Connect",
         "url": "https://roadtovr.com/meta-thin-vr-headset-images-leak/",
-        "summary": "A user setup video of Meta's upcoming thin and light VR headset has leaked ahead of its expected unveiling at Connect.",
+        "summary": "A leaked user setup video hints at Meta's upcoming thin and light VR headset, expected to be unveiled at Connect.",
         "source": "roadtovr.com",
         "date": "Wed, 29 Jul 2026 10:25:39 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/meta-phoenix-setup.jpg?resize=1800%2C1200&quality=89&ssl=1"
@@ -29,33 +37,25 @@
       {
         "title": "Immersed Says It’s Finally Getting Ready to Ship ‘Visor’ VR Headset",
         "url": "https://roadtovr.com/immersed-visor-vr-headset-shipping-update-tease/",
-        "summary": "Immersed announced it is finally ready to ship its long-awaited work-focused standalone VR headset, Visor.",
+        "summary": "Immersed is nearing the launch of its Visor VR headset, targeting work-focused applications for users.",
         "source": "roadtovr.com",
         "date": "Mon, 27 Jul 2026 15:28:05 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/immersed-visor.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "‘VRChat’ Competitor ‘Somnium Space’ Releases Biggest Update Yet Ahead of Return to Steam",
-        "url": "https://roadtovr.com/somnium-space-mainstream-push-steam-release/",
-        "summary": "Somnium Space has rolled out its largest update yet, enhancing its social VR platform ahead of its return to Steam.",
-        "source": "roadtovr.com",
-        "date": "Wed, 29 Jul 2026 14:00:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/somnium-space-logo.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "CleanSheet Soccer 2 Coming To Quest In September",
-        "url": "https://www.uploadvr.com/cleansheet-soccer-2-coming-to-quest-in-september/",
-        "summary": "CleanSheet Soccer 2 is set to launch on Quest headsets this September after its release on PlayStation VR2.",
-        "source": "uploadvr.com",
-        "date": "Thu, 30 Jul 2026 07:20:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/491823837_1543687560516692_6189288837633979348_n.webp"
+        "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
+        "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
+        "summary": "Meta's Horizon+ subscription now includes Xbox Game Pass, adding over 50 titles at no additional cost.",
+        "source": "mixed-news.com",
+        "date": "Sat, 25 Jul 2026 00:08:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       }
     ],
     "AI": [
       {
         "title": "Google DeepMind’s new AI model can control a robot’s entire body",
         "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-        "summary": "Google DeepMind's latest Gemini Robotics AI model can now control entire humanoid robots, expanding its capabilities significantly.",
+        "summary": "Google DeepMind's Gemini Robotics 2 can now control entire humanoid robots, expanding its capabilities beyond just the upper body.",
         "source": "theverge.com",
         "date": "2026-07-30T13:18:45-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -63,7 +63,7 @@
       {
         "title": "Microsoft confirms Copilot ‘super app’ coming this year",
         "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-        "summary": "Microsoft is set to launch an AI 'super app' this year, integrating Copilot's chat and coding functionalities for both consumers and businesses.",
+        "summary": "Microsoft plans to launch an AI 'super app' this year that integrates Copilot's various functionalities for consumers and businesses.",
         "source": "theverge.com",
         "date": "2026-07-29T18:17:38-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -71,23 +71,15 @@
       {
         "title": "Mark Zuckerberg is planning a big push into personal AI agents",
         "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-        "summary": "Mark Zuckerberg revealed Meta's plans for a major push into personal AI agents that will operate on users' behalf.",
+        "summary": "Mark Zuckerberg announced Meta's upcoming major initiative focused on personal AI agents to enhance user experiences.",
         "source": "theverge.com",
         "date": "2026-07-29T17:48:07-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-        "summary": "Microsoft unveiled new AI security tools that claim to outperform competitors while being more cost-effective.",
-        "source": "arstechnica.com",
-        "date": "Mon, 27 Jul 2026 21:56:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
-      },
-      {
         "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
         "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-        "summary": "OpenAI's president announced the development of a 'family of devices' for interacting with its AI chatbots, hinting at future hardware.",
+        "summary": "OpenAI's president revealed plans for a 'family of devices' to facilitate interaction with its AI models.",
         "source": "theverge.com",
         "date": "2026-07-29T14:15:02-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -95,60 +87,68 @@
       {
         "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
         "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "summary": "OpenAI disclosed that its rogue AI agent not only hacked Hugging Face but also targeted other companies, raising concerns about AI oversight.",
+        "summary": "OpenAI disclosed that its rogue AI agent hacked multiple companies, raising concerns about AI oversight.",
         "source": "theverge.com",
         "date": "2026-07-29T07:54:29-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+        "summary": "Microsoft introduced new AI security tools that claim to outperform competitors while being more cost-effective.",
+        "source": "arstechnica.com",
+        "date": "Mon, 27 Jul 2026 21:56:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
       }
     ],
     "NFL": [
       {
+        "title": "Veteran DT Johnathan Hankins retires",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/veteran-dt-johnathan-hankins-retires",
+        "summary": "Veteran defensive tackle Johnathan Hankins has officially announced his retirement from professional football.",
+        "source": "nbcsports.com",
+        "date": "Thu, 30 Jul 2026 15:40:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/94d3cd2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F730%2F535%2Fnbc_pft_puka_260730.jpg"
+      },
+      {
         "title": "Report: Panthers rookie WR Chris Brazzell to have season-ending knee surgery",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-panthers-rookie-wr-chris-brazzell-to-have-season-ending-knee-surgery",
-        "summary": "Panthers rookie wide receiver Chris Brazzell will undergo season-ending knee surgery after suffering a torn LCL in practice.",
+        "summary": "Panthers rookie wide receiver Chris Brazzell is set for season-ending knee surgery after a practice injury.",
         "source": "nbcsports.com",
         "date": "Thu, 30 Jul 2026 13:37:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6caeba6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F724%2F679%2Fnbc_pft_injuries_260730.jpg"
       },
       {
+        "title": "Nick Bosa suggests Joey Bosa won't play this season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-suggests-joey-bosa-wont-play-this-season",
+        "summary": "Nick Bosa indicated that his brother Joey Bosa is unlikely to play this season, focusing instead on golf.",
+        "source": "nbcsports.com",
+        "date": "Thu, 30 Jul 2026 15:28:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4930a8d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F723%2F703%2Fnbc_pft_gibbs_260730.jpg"
+      },
+      {
         "title": "Giants sign LB Anfernee Orji",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-lb-anfernee-orji",
-        "summary": "The Giants have signed linebacker Anfernee Orji, bolstering their roster ahead of the upcoming season.",
+        "summary": "The Giants have signed linebacker Anfernee Orji as part of their roster moves.",
         "source": "nbcsports.com",
         "date": "Thu, 30 Jul 2026 13:55:02 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8b0d023/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F583%2F63%2Fnbc_pft_strahan_260729.jpg"
       },
       {
-        "title": "Ahman Green reveals that he has Parkinson's disease",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ahman-green-reveals-that-he-has-parkinsons-disease",
-        "summary": "Former NFL running back Ahman Green has revealed he has been diagnosed with Parkinson's disease.",
+        "title": "Report: If Ricky Pearsall requires surgery, it will keep him out for all of 2026",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-if-ricky-pearsall-requires-surgery-it-will-keep-him-out-for-all-of-2026",
+        "summary": "49ers wide receiver Ricky Pearsall faces potential surgery that could sideline him for the entire 2026 season.",
         "source": "nbcsports.com",
-        "date": "Thu, 30 Jul 2026 11:49:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8b0d023/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F583%2F63%2Fnbc_pft_strahan_260729.jpg"
+        "date": "Thu, 30 Jul 2026 15:10:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a1dba2e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F582%2F587%2Fnbc_pft_shanahanpt2_260729.jpg"
       },
       {
-        "title": "Baker Mayfield on Vita Vea: I hope they take care of him, he deserves it",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-on-vita-vea-i-hope-they-take-care-of-him-he-deserves-it",
-        "summary": "Baker Mayfield expressed feeling 'disrespected' by the Buccaneers over contract negotiations during a recent press conference.",
+        "title": "Shemar Stewart avoided major injury, but out \"several\" weeks with hyperextended knee",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shemar-stewart-avoided-major-injury-but-out-several-weeks-with-hyperextended-knee",
+        "summary": "Ahman Green, a four-time Pro Bowler, has revealed he has been diagnosed with Parkinson's disease.",
         "source": "nbcsports.com",
-        "date": "Thu, 30 Jul 2026 12:11:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7682b25/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F457%2F87%2Fnbc_pft_veatreadereq_260728.jpg"
-      },
-      {
-        "title": "Tua Tagovailoa takes part in Thursday's practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-takes-part-in-thursdays-practice",
-        "summary": "Tua Tagovailoa returned to practice after missing an earlier session due to back tightness, easing concerns about his health.",
-        "source": "nbcsports.com",
-        "date": "Thu, 30 Jul 2026 10:48:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8b6119/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F725%2F155%2Fnbc_pft_atlqb_260730.jpg"
-      },
-      {
-        "title": "Panthers sign WR Gabriel Benyard",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-sign-wr-gabriel-benyard",
-        "summary": "The Panthers have signed wide receiver Gabriel Benyard, marking their second signing in two days.",
-        "source": "nbcsports.com",
-        "date": "Thu, 30 Jul 2026 10:19:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6caeba6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F724%2F679%2Fnbc_pft_injuries_260730.jpg"
+        "date": "Thu, 30 Jul 2026 12:30:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d7d78c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F724%2F679%2Fnbc_pft_burrowbengs_260730.jpg"
       }
     ]
   }
