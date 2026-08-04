@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T21:33:17.832Z",
+  "updated": "2026-08-04T22:42:41.906Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "AMD’s datacenter business is booming while gaming takes a backseat",
-        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-        "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion.",
+        "title": "Europe’s AI labeling and transparency rules are now in effect",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.",
         "source": "theverge.com",
-        "date": "2026-08-04T16:57:49-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-03T13:38:45-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "SpaceX has more neocloud revenue",
-        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-        "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies,…",
+        "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+        "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic…",
         "source": "theverge.com",
-        "date": "2026-08-04T16:47:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-03T07:01:11-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Carson Beck excited to start the Hall of Fame Game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-excited-to-start-the-hall-of-fame-game",
+        "summary": "Carson Beck had \"no clue\" he was going to start the Pro Football Hall of Fame Game until this week.",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 18:17:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3640360/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F331%2F111%2Fnbc_pft_nathanielhackett_260727.jpg"
+      },
+      {
+        "title": "Aaron Donald looks to establish a media and entertainment footprint",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-looks-to-establish-a-media-and-entertainment-footprint",
+        "summary": "As defensive tackle Aaron Donald focuses for now on whether he'll end a two-year playing hiatus in pursuit of a second Super Bowl ring, he's activating a longer-term vision for his…",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 17:54:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edfd51c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F451%2F155%2FDonaldWHitnew8-4.jpg"
+      },
+      {
+        "title": "Patriots claim WR Tejhaun Palmer off waivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-claim-wr-tejhaun-palmer-off-waivers",
+        "summary": "The Patriots claimed wide receiver Tejhaun Palmer off waivers on Tuesday, the team announced.",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 17:37:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/61c6c3d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F269%2F523%2Fnbc_pft_mailbagpm_260803.jpg"
+      },
       {
         "title": "Bengals' offensive players and coaches say Dexter Lawrence is dominating practices",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-offensive-players-and-coaches-say-dexter-lawrence-is-dominating-practices",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 04 Aug 2026 16:56:41 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1816dde/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F200%2F679%2Fnbc_pft_grassturf_260803.jpg"
-      },
-      {
-        "title": "Packers sign TEs McCallan Castles, Drew Biber",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-tes-mccallan-castles-drew-biber",
-        "summary": "The Packers signed tight ends McCallan Castles and Drew Biber on Tuesday, the team announced.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 16:47:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/355cea2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F490%2Fnbc_pft_lambeau_260728.jpg"
-      },
-      {
-        "title": "Panthers put DL LaBryan Ray on reserve/retired list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-put-dl-labryan-ray-on-reserve-retired-list",
-        "summary": "The Panthers will be playing in the Hall of Fame Game on Thursday night, but defensive lineman LaBryan Ray won't be getting any snaps against the Cardinals.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 16:47:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6caeba6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F724%2F679%2Fnbc_pft_injuries_260730.jpg"
-      },
-      {
-        "title": "Jeffery Simmons pulled out of Titans practice for throwing a punch",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeffery-simmons-pulled-out-of-titans-practice-for-throwing-a-punch",
-        "summary": "Defensive tackle Jeffery Simmons made an early exit from Titans practice on Tuesday, but it wasn't because of an injury.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 16:40:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0241964/2147483647/strip/false/crop/5929x3335+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F26%2F77%2Fba6bcb3745899f10804570ba2a48%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29509497-874336499-tag-reuters-com-2026-binary-mt1usatoday29509497-baseimage-5929x3953-2026-08-04t044548z-874336499-mt1usatoday29509497-rtrmadp-3-nfl-tennessee-titans-training-camp.JPG"
       }
     ]
   }
