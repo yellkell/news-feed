@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-04T20:06:53.529Z",
+  "updated": "2026-08-04T21:33:17.832Z",
   "feed": {
     "VR": [
+      {
+        "title": "System Critical 3 Review - A Poorly Designed Arcade Shooter",
+        "url": "https://www.uploadvr.com/system-critical-3-review-a-poorly-designed-arcade-shooter/",
+        "summary": "System Critical 3 does not shy away from its old-school arcade inspirations, but it ends up being what is assuredly one of the worst VR games in recent years.",
+        "source": "uploadvr.com",
+        "date": "Tue, 04 Aug 2026 13:43:30 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/1000192430-1-.jpg"
+      },
       {
         "title": "Apple is Reportedly Eyeing Fitness as the Killer App for Future Smart Glasses",
         "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Tue, 04 Aug 2026 12:09:26 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-glasses-fitness.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Gloop Lair, Walkabout Mini Golf's Next DLC Course, Due Out Next Week",
-        "url": "https://www.uploadvr.com/gloop-lair-walkabout-mini-golfs-next-dlc-course-due-out-next-week/",
-        "summary": "Gloop Lair, Walkabout Mini Golf's next DLC course, returns to the ongoing Evil Lairs series next week.",
-        "source": "uploadvr.com",
-        "date": "Mon, 03 Aug 2026 15:31:33 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Gloop-Lair.png"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "Meta Horizon+ Adds 2 Great Monthly Games & 5 Catalog Titles",
-        "url": "https://www.uploadvr.com/meta-horizon-plus-august-2026-titles/",
-        "summary": "The August update for Meta's Horizon+ subscription for Quest headsets brings 2 great monthly games and five new catalog titles.",
+        "title": "Gloop Lair, Walkabout Mini Golf's Next DLC Course, Due Out Next Week",
+        "url": "https://www.uploadvr.com/gloop-lair-walkabout-mini-golfs-next-dlc-course-due-out-next-week/",
+        "summary": "Gloop Lair, Walkabout Mini Golf's next DLC course, returns to the ongoing Evil Lairs series next week.",
         "source": "uploadvr.com",
-        "date": "Mon, 03 Aug 2026 09:10:48 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/meta-quest-horizon-august-2026.png"
+        "date": "Mon, 03 Aug 2026 15:31:33 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Gloop-Lair.png"
       },
       {
         "title": "‘Great on Frame’ Page Now Boasts 50+ Games & Apps Optimized for Steam Frame",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "How an OpenAI influencer trip backfired",
-        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-        "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies…",
+        "title": "AMD’s datacenter business is booming while gaming takes a backseat",
+        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion.",
         "source": "theverge.com",
-        "date": "2026-08-04T13:46:41-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-04-at-2.13.49-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-04T16:57:49-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "‘Not healthy’ LLM use is more common than you think",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-        "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI.",
+        "title": "SpaceX has more neocloud revenue",
+        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+        "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies,…",
         "source": "theverge.com",
-        "date": "2026-08-04T13:33:46-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-04T16:47:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Report: Falcons fear Jalon Walker suffered torn ACL",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-falcons-fear-jalon-walker-suffered-torn-acl",
-        "summary": "The Falcons have a serious injury concern.",
+        "title": "Bengals' offensive players and coaches say Dexter Lawrence is dominating practices",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-offensive-players-and-coaches-say-dexter-lawrence-is-dominating-practices",
+        "summary": "The Bengals' offense has a problem in training camp: Dexter Lawrence.",
         "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 16:03:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/511e218/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F454%2F83%2Fnbc_pft_nfcsouthV3_260804.jpg"
+        "date": "Tue, 04 Aug 2026 17:27:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d7d78c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F724%2F679%2Fnbc_pft_burrowbengs_260730.jpg"
       },
       {
-        "title": "Micah Parsons: Don't worry about when I'm back, worry about how I'll be",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-dont-worry-about-when-im-back-worry-about-how-ill-be",
-        "summary": "It remains unclear when Packers defensive end Micah Parsons will be back on the field, but he doesn't think anyone should be focused on the calendar when thinking about his return…",
+        "title": "Lions sign RB Raheem Blackshear",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-rb-raheem-blackshear",
+        "summary": "The Lions added a running back to the roster while they wait for Jahmyr Gibbs to get on the practice field.",
         "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 15:58:28 -0400",
+        "date": "Tue, 04 Aug 2026 17:23:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eba7335/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F200%2F179%2Fnbc_pft_morerbtalk_260803.jpg"
+      },
+      {
+        "title": "Browns claim DT Coziah Izzard off waivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-claim-dt-coziah-izzard-off-waivers",
+        "summary": "The Browns claimed defensive tackle Coziah Izzard off waivers, the team announced Tuesday.",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 16:56:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1816dde/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F200%2F679%2Fnbc_pft_grassturf_260803.jpg"
+      },
+      {
+        "title": "Packers sign TEs McCallan Castles, Drew Biber",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-tes-mccallan-castles-drew-biber",
+        "summary": "The Packers signed tight ends McCallan Castles and Drew Biber on Tuesday, the team announced.",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 16:47:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/355cea2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F490%2Fnbc_pft_lambeau_260728.jpg"
       },
       {
-        "title": "Jaxson Dart scored rushing TD in red-zone drill, threw ball at Greg Newsome's helmet",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-scored-rushing-td-in-red-zone-drill-threw-ball-at-greg-newsomes-helmet",
-        "summary": "Things are getting a little chippy for the Giants at The Greenbrier.",
+        "title": "Panthers put DL LaBryan Ray on reserve/retired list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-put-dl-labryan-ray-on-reserve-retired-list",
+        "summary": "The Panthers will be playing in the Hall of Fame Game on Thursday night, but defensive lineman LaBryan Ray won't be getting any snaps against the Cardinals.",
         "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 15:57:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4b19a8d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F440%2F919%2Fnbc_pft_dartharbaugh_260804.jpg"
+        "date": "Tue, 04 Aug 2026 16:47:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6caeba6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F724%2F679%2Fnbc_pft_injuries_260730.jpg"
       },
       {
-        "title": "Rashawn Slater exits practice with apparent injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashawn-slater-exits-practice-with-apparent-injury",
-        "summary": "The Chargers may have another injury concern along their offensive line.",
+        "title": "Jeffery Simmons pulled out of Titans practice for throwing a punch",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeffery-simmons-pulled-out-of-titans-practice-for-throwing-a-punch",
+        "summary": "Defensive tackle Jeffery Simmons made an early exit from Titans practice on Tuesday, but it wasn't because of an injury.",
         "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 15:41:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9513aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F703%2Fnbc_pft_underradar_260803.jpg"
-      },
-      {
-        "title": "Patriots rookie Gabe Jacas: What happened in the past doesn't matter, I'm 100 percent now",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-rookie-gabe-jacas-what-happened-in-the-past-doesnt-matter-im-100-percent-now",
-        "summary": "Patriots second-round pick Gabe Jacas was the final member of the 2025 draft class to sign an NFL contract, but the linebacker wasn't interested in discussing the reason why it…",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 15:36:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/61c6c3d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F269%2F523%2Fnbc_pft_mailbagpm_260803.jpg"
-      },
-      {
-        "title": "Aaron Rodgers had undisclosed illness before playoff loss to Texans",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-had-undisclosed-illness-before-playoff-loss-to-texans",
-        "summary": "\"He looked terrible\" before the game, said former Steelers offensive coordinator Arthur Smith.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 15:24:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/21f650b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F445%2F799%2Fnbc_pft_rodgerstantrumv2_260804.jpg"
+        "date": "Tue, 04 Aug 2026 16:40:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0241964/2147483647/strip/false/crop/5929x3335+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F26%2F77%2Fba6bcb3745899f10804570ba2a48%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29509497-874336499-tag-reuters-com-2026-binary-mt1usatoday29509497-baseimage-5929x3953-2026-08-04t044548z-874336499-mt1usatoday29509497-rtrmadp-3-nfl-tennessee-titans-training-camp.JPG"
       }
     ]
   }
