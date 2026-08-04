@@ -1,7 +1,13 @@
-// AI-curated news feed generator.
-// Fetches RSS feeds for VR / AI / NFL, asks an LLM to curate, writes news.html.
-// Runs in GitHub Actions via GitHub Models — auth uses the built-in
-// GITHUB_TOKEN, so no personal API key is ever uploaded.
+// News feed generator.
+// Fetches RSS feeds for VR / AI / NFL, keeps the newest few per category,
+// writes news.json (consumed by yellkell.com/news) and news.html.
+//
+// This used to ask an LLM to pick and summarise the stories, via GitHub Models.
+// GitHub Models was retired, the call started returning 410, and because the
+// failure was fatal the whole run died — freezing the public feed for five days
+// while the workflow kept "running" every 15 minutes. There is no model call
+// now: the only external dependency is the RSS feeds themselves, and a single
+// feed going down costs you that feed's stories, not the whole run.
 
 import { writeFileSync, readFileSync } from "node:fs";
 
@@ -22,10 +28,8 @@ const FEEDS = {
   ],
 };
 
-const MODEL = "openai/gpt-4o-mini"; // GitHub Models catalog id
-const MODELS_ENDPOINT = "https://models.github.ai/inference/chat/completions";
-const PER_CATEGORY = 6; // articles Claude keeps per category
-const MAX_CANDIDATES = 22; // most-recent items per category sent to Claude
+const PER_CATEGORY = 6;  // articles published per category
+const SUMMARY_CHARS = 180; // RSS blurbs run long; keep card heights even
 
 function decode(s) {
   return (s || "")
@@ -103,7 +107,7 @@ async function fetchFeed(url) {
   }
 }
 
-async function gatherCandidates() {
+async function gatherArticles() {
   const out = {};
   for (const [cat, urls] of Object.entries(FEEDS)) {
     console.log(`Fetching ${cat}...`);
@@ -111,79 +115,58 @@ async function gatherCandidates() {
     const seen = new Set();
     const uniq = all.filter((i) => !seen.has(i.link) && seen.add(i.link));
     uniq.sort((a, b) => b.ts - a.ts);
-    out[cat] = uniq.slice(0, MAX_CANDIDATES);
+    out[cat] = uniq;
   }
   return out;
 }
 
-async function curate(candidates) {
-  const key = process.env.GITHUB_TOKEN || process.env.MODELS_TOKEN;
-  if (!key) throw new Error("GITHUB_TOKEN (or MODELS_TOKEN) is not set");
+function hostOf(link) {
+  try { return new URL(link).hostname.replace(/^www\./, ""); }
+  catch { return ""; }
+}
 
-  const list = Object.entries(candidates)
-    .map(([cat, items]) => {
-      const lines = items
-        .map((it, i) => `  [${cat}-${i}] ${it.title}\n      ${it.desc}`)
-        .join("\n");
-      return `### ${cat}\n${lines}`;
-    })
-    .join("\n\n");
+/* Prefer the blurb's first sentence; otherwise cut on a word boundary. */
+function trimSummary(desc) {
+  const s = (desc || "").trim();
+  if (s.length <= SUMMARY_CHARS) return s;
+  const stop = s.slice(0, SUMMARY_CHARS).search(/[.!?](?=\s|$)/);
+  if (stop > 60) return s.slice(0, stop + 1);
+  const cut = s.lastIndexOf(" ", SUMMARY_CHARS);
+  return s.slice(0, cut > 60 ? cut : SUMMARY_CHARS).trimEnd() + "…";
+}
 
-  const prompt = `You are the editor of a tech & sports news feed covering three beats: VR (virtual/augmented reality), AI (artificial intelligence), and NFL (American football).
-
-Below are candidate articles fetched from RSS feeds. For EACH category, pick the ${PER_CATEGORY} most newsworthy and interesting articles. Prefer concrete news (launches, signings, results, research, deals) over opinion or roundups. Skip duplicates and low-value SEO filler.
-
-For each chosen article write a single punchy summary sentence (max 28 words) in a neutral editorial voice.
-
-Return ONLY valid JSON, no markdown fences, in this exact shape:
-{"VR":[{"id":"VR-0","summary":"..."}],"AI":[...],"NFL":[...]}
-Use the id tags exactly as given. Order each list most-important first.
-
-CANDIDATES:
-${list}`;
-
-  const res = await fetch(MODELS_ENDPOINT, {
-    method: "POST",
-    headers: {
-      "content-type": "application/json",
-      authorization: `Bearer ${key}`,
-    },
-    body: JSON.stringify({
-      model: MODEL,
-      max_tokens: 2000,
-      temperature: 0.4,
-      response_format: { type: "json_object" },
-      messages: [{ role: "user", content: prompt }],
-    }),
-  });
-  if (!res.ok) throw new Error(`GitHub Models ${res.status}: ${await res.text()}`);
-  const data = await res.json();
-  let text = data.choices?.[0]?.message?.content || "";
-  const start = text.indexOf("{");
-  const end = text.lastIndexOf("}");
-  if (start < 0 || end < 0) throw new Error("No JSON in Claude response");
-  const picks = JSON.parse(text.slice(start, end + 1));
-
-  // resolve ids back to full articles
-  const result = {};
-  for (const cat of Object.keys(FEEDS)) {
-    result[cat] = (picks[cat] || [])
-      .map((p) => {
-        const idx = parseInt(String(p.id).split("-")[1], 10);
-        const src = candidates[cat]?.[idx];
-        if (!src) return null;
-        const host = (() => {
-          try { return new URL(src.link).hostname.replace(/^www\./, ""); }
-          catch { return ""; }
-        })();
-        return {
-          title: src.title, url: src.link, summary: p.summary || src.desc,
-          source: host, date: src.date, image: src.image || "",
-        };
-      })
-      .filter(Boolean);
+/* Take newest-first from each source in turn rather than straight by recency.
+   Sorting purely on time lets the most prolific publisher take every slot —
+   The Verge alone filled all six AI cards — which is the one thing the old
+   LLM pass was reliably good at preventing. */
+function interleaveBySource(items, limit) {
+  const bySource = new Map();
+  for (const it of items) {
+    const host = hostOf(it.link);
+    if (!bySource.has(host)) bySource.set(host, []);
+    bySource.get(host).push(it); // already newest-first
   }
-  return result;
+  const queues = [...bySource.values()];
+  const out = [];
+  while (out.length < limit) {
+    const round = queues.map((q) => q.shift()).filter(Boolean);
+    if (!round.length) break;
+    round.sort((a, b) => b.ts - a.ts); // newest still leads within a round
+    out.push(...round);
+  }
+  return out.slice(0, limit);
+}
+
+function buildFeed(articles) {
+  const feed = {};
+  for (const cat of Object.keys(FEEDS)) {
+    feed[cat] = interleaveBySource(articles[cat] || [], PER_CATEGORY)
+      .map((src) => ({
+        title: src.title, url: src.link, summary: trimSummary(src.desc),
+        source: hostOf(src.link), date: src.date, image: src.image || "",
+      }));
+  }
+  return feed;
 }
 
 function esc(s) {
@@ -278,14 +261,16 @@ ${sections}
 }
 
 (async () => {
-  const candidates = await gatherCandidates();
-  const total = Object.values(candidates).reduce((n, a) => n + a.length, 0);
+  const articles = await gatherArticles();
+  const total = Object.values(articles).reduce((n, a) => n + a.length, 0);
+  // A total wipeout means the network or every feed is down. Bail rather than
+  // overwrite a good feed with nothing — the previous news.json stays published.
   if (total === 0) throw new Error("No articles fetched from any feed");
-  console.log(`Curating ${total} candidates with ${MODEL}...`);
-  const feed = await curate(candidates);
 
-  // Only bump the timestamp when the curated content actually changed, so an
-  // unchanged feed produces byte-identical files and the workflow skips the commit.
+  const feed = buildFeed(articles);
+
+  // Only bump the timestamp when the content actually changed, so an unchanged
+  // feed produces byte-identical files and the workflow skips the commit.
   let updated = new Date().toISOString();
   try {
     const prev = JSON.parse(readFileSync("news.json", "utf8"));
@@ -297,5 +282,6 @@ ${sections}
 
   writeFileSync("news.html", render(feed, updated));
   writeFileSync("news.json", JSON.stringify({ updated, feed }, null, 2));
-  console.log("Wrote news.html and news.json");
+  const published = Object.values(feed).reduce((n, a) => n + a.length, 0);
+  console.log(`Wrote news.html and news.json (${published} of ${total} articles)`);
 })();
