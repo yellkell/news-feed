@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-05T07:12:08.065Z",
+  "updated": "2026-08-05T09:47:59.987Z",
   "feed": {
     "VR": [
+      {
+        "title": "Beyond Frames Sells Off Publishing Rights to Popular VR Shooter ‘Ghosts of Tabor’ in $1M Deal",
+        "url": "https://roadtovr.com/beyond-frames-sells-ghosts-of-tabor-1m/",
+        "summary": "Beyond Frames Entertainment is the main publisher behind many of Combat Waffle Studios’ VR titles, including Ghosts of Tabor (2024), Silent North (2025), and GRIM (2025).",
+        "source": "roadtovr.com",
+        "date": "Wed, 05 Aug 2026 09:03:35 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
       {
         "title": "Cybercore Protocol Impressions: A Mixed Reality Sci-Fi Home Invasion",
         "url": "https://www.uploadvr.com/cybercore-protocol-impressions-a-mixed-reality-sci-fi-home-invasion/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Tue, 04 Aug 2026 15:48:09 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/cybercore-protocol--3.jpg"
-      },
-      {
-        "title": "Apple is Reportedly Eyeing Fitness as the Killer App for Future Smart Glasses",
-        "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
-        "summary": "While Apple’s first-gen smart glasses aren’t expected to include fitness tracking, although a recent report suggests the company ultimately hopes to put fitness at the center of…",
-        "source": "roadtovr.com",
-        "date": "Tue, 04 Aug 2026 12:09:26 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-glasses-fitness.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -35,12 +35,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/combat-waffle-games.png"
       },
       {
-        "title": "‘Great on Frame’ Page Now Boasts 50+ Games & Apps Optimized for Steam Frame",
-        "url": "https://roadtovr.com/great-on-frame-steam-store-page-50-games/",
-        "summary": "Valve’s ‘Great on Frame’ page highlights games specifically optimized for Steam Frame, and it’s now grown to over 50 titles.",
+        "title": "Apple is Reportedly Eyeing Fitness as the Killer App for Future Smart Glasses",
+        "url": "https://roadtovr.com/apple-is-reportedly-eyeing-fitness-as-the-killer-app-for-future-smart-glasses/",
+        "summary": "While Apple’s first-gen smart glasses aren’t expected to include fitness tracking, although a recent report suggests the company ultimately hopes to put fitness at the center of…",
         "source": "roadtovr.com",
-        "date": "Mon, 03 Aug 2026 13:36:33 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/great-on-frame-1.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Tue, 04 Aug 2026 12:09:26 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-glasses-fitness.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Jadeveon Clowney: I could have made more money elsewhere, I want a Super Bowl in Houston",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jadeveon-clowney-i-could-have-made-more-money-elsewhere-i-want-a-super-bowl-in-houston",
+        "summary": "\"It's Year 13, I started here, go back here, try to win, and see how the rest of my career goes,\" Clowney said.",
+        "source": "nbcsports.com",
+        "date": "Wed, 05 Aug 2026 05:36:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fded902/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F203%2F107%2Fnbc_pft_clowney_260803.jpg"
+      },
+      {
+        "title": "Tua Tagovailoa on training camp with Michael Penix: \"It's definitely a competition\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-on-training-camp-with-michael-penix-its-definitely-a-competition",
+        "summary": "Both of the Falcons' quarterbacks are limited with injuries, but Tagovailoa says that isn't stopping them from competing.",
+        "source": "nbcsports.com",
+        "date": "Wed, 05 Aug 2026 03:52:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8b6119/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F725%2F155%2Fnbc_pft_atlqb_260730.jpg"
+      },
+      {
         "title": "Shedeur Sanders, Deshaun Watson will each get a preseason start",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-deshaun-watson-will-each-get-a-preseason-start",
         "summary": "The leader after two preseason games is expected to start the third preseason game.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 04 Aug 2026 21:27:29 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/55e48ed/2147483647/strip/false/crop/5218x2935+0+272/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2Fa6%2F371650ec45aca96ec2aa1051ea2a%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29480247-192754778-tag-reuters-com-2026-binary-mt1usatoday29480247-baseimage-5218x3479-2026-07-30t165106z-192754778-mt1usatoday29480247-rtrmadp-3-nfl-pittsburgh-steelers-training-camp.JPG"
-      },
-      {
-        "title": "Free agent TE Zach Ertz cleared for football activities",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-te-zach-ertz-cleared-for-football-activities",
-        "summary": "Free agent tight end Zach Ertz said in April that he didn't want his torn ACL to be the final act of his NFL career.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 21:19:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d8780b3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F414%2Fnbc_pft_bijanV2_260804.jpg"
-      },
-      {
-        "title": "After rushing title, James Cook is looking forward to even bigger things",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-rushing-title-james-cook-is-looking-forward-to-even-bigger-things",
-        "summary": "Bills running back James Cook led the league in rushing last season with 1,621 yards.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 19:55:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c856f7d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F207%2F511%2Fnbc_pft_cjjohnson_260803.jpg"
       }
     ]
   }
