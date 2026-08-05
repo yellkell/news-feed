@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T04:26:47.371Z",
+  "updated": "2026-08-05T07:12:08.065Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "How an OpenAI influencer trip backfired",
-        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-        "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies…",
+        "title": "AMD’s data center business is booming while gaming takes a backseat",
+        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion.",
         "source": "theverge.com",
-        "date": "2026-08-04T13:46:41-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-04-at-2.13.49-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-04T16:57:49-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "‘Not healthy’ LLM use is more common than you think",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-        "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI.",
+        "title": "SpaceX made more revenue as an AI company than a space company",
+        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+        "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies,…",
         "source": "theverge.com",
-        "date": "2026-08-04T13:33:46-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-04T16:47:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
