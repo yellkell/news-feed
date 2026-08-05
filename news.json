@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-05T22:50:15.960Z",
+  "updated": "2026-08-05T23:52:27.664Z",
   "feed": {
     "VR": [
+      {
+        "title": "G-Rebels Review-In-Progress: Impressive VR Flight Model Is Cleared For Takeoff",
+        "url": "https://www.uploadvr.com/g-rebels-review-in-progress-impressive-vr-flight-model-is-clear-for-take-off/",
+        "summary": "G-Rebels is an ambitious semi-open-world flight adventure soaring into Early Access on Steam.",
+        "source": "uploadvr.com",
+        "date": "Wed, 05 Aug 2026 16:16:49 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/763120138_27556293187404755_4970985895028810169_n.jpg"
+      },
       {
         "title": "‘URXR One’ Mixed Reality Glasses Kickstarter Passes $500K in First 24 Hours",
         "url": "https://roadtovr.com/unseen-reality-urxr-one-xr-glasses-funded/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Wed, 05 Aug 2026 12:41:55 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/urxr.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Cybercore Protocol Impressions: A Mixed Reality Sci-Fi Home Invasion",
-        "url": "https://www.uploadvr.com/cybercore-protocol-impressions-a-mixed-reality-sci-fi-home-invasion/",
-        "summary": "Cybercore Protocol is a mixed reality action game that blends elements of tower defense, shooters, and melee combat games into something, if not unique, then at least fun and…",
-        "source": "uploadvr.com",
-        "date": "Tue, 04 Aug 2026 15:48:09 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/cybercore-protocol--3.jpg"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -35,12 +35,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Beyond Frames Selling Off Publishing Rights To Combat Waffle's Games For $1M",
-        "url": "https://www.uploadvr.com/beyond-frames-selling-off-publishing-rights-to-combat-waffles-games-for-1m/",
-        "summary": "Beyond Frames is selling its publishing rights to Combat Waffle Studio's Ghosts of Tabor, Silent North, and Grim for $1 million.",
+        "title": "Cybercore Protocol Impressions: A Mixed Reality Sci-Fi Home Invasion",
+        "url": "https://www.uploadvr.com/cybercore-protocol-impressions-a-mixed-reality-sci-fi-home-invasion/",
+        "summary": "Cybercore Protocol is a mixed reality action game that blends elements of tower defense, shooters, and melee combat games into something, if not unique, then at least fun and…",
         "source": "uploadvr.com",
-        "date": "Tue, 04 Aug 2026 15:46:53 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/combat-waffle-games.png"
+        "date": "Tue, 04 Aug 2026 15:48:09 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/cybercore-protocol--3.jpg"
       },
       {
         "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+        "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+        "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+        "source": "arstechnica.com",
+        "date": "Wed, 05 Aug 2026 22:35:20 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
+      },
+      {
         "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
         "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
         "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically.",
         "source": "theverge.com",
         "date": "2026-08-05T12:57:25-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-        "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-        "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
-        "source": "arstechnica.com",
-        "date": "Fri, 31 Jul 2026 20:39:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -85,12 +85,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-        "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-        "summary": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
+        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+        "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+        "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
         "source": "arstechnica.com",
-        "date": "Thu, 30 Jul 2026 20:57:22 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+        "date": "Fri, 31 Jul 2026 20:39:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
