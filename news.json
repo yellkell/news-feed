@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T01:04:16.545Z",
+  "updated": "2026-08-05T04:26:47.371Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "AMD’s data center business is booming while gaming takes a backseat",
-        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-        "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion.",
+        "title": "How an OpenAI influencer trip backfired",
+        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+        "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies…",
         "source": "theverge.com",
-        "date": "2026-08-04T16:57:49-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-04T13:46:41-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-04-at-2.13.49-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "SpaceX made more revenue as an AI company than a space company",
-        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-        "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies,…",
+        "title": "‘Not healthy’ LLM use is more common than you think",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+        "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI.",
         "source": "theverge.com",
-        "date": "2026-08-04T16:47:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-04T13:33:46-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Shedeur Sanders, Deshaun Watson will each get a preseason start",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-deshaun-watson-will-each-get-a-preseason-start",
+        "summary": "The leader after two preseason games is expected to start the third preseason game.",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 22:50:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1816dde/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F200%2F679%2Fnbc_pft_grassturf_260803.jpg"
+      },
+      {
+        "title": "A.J. Epenesa not inclined to discuss \"weird situation\" with Browns",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-epenesa-not-inclined-to-discuss-weird-situation-with-browns",
+        "summary": "Before Eagles defensive end A.J.",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 22:18:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a14ce5/2147483647/strip/false/crop/4508x2536+0+235/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2Fe4%2F3733a4d14506b5aa90e41fe53314%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29484211-1569382050-tag-reuters-com-2026-binary-mt1usatoday29484211-baseimage-4508x3005-2026-07-31t002339z-1569382050-mt1usatoday29484211-rtrmadp-3-nfl-philadelphia-eagles-training-camp.JPG"
+      },
+      {
+        "title": "NFL declines comment on the Steelers' failure to disclose Aaron Rodgers' illness before playoff loss",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-declines-comment-on-the-steelers-failure-to-disclose-aaron-rodgers-illness-before-playoff-loss",
+        "summary": "Steelers quarterback Aaron Rodgers recently disclosed to Mike Silver of The Athletic that Rodgers was ill before the January playoff loss to the Texans.",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 21:46:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f208810/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F465%2F319%2Fnbc_pft_rodgersV2_260804.jpg"
+      },
+      {
+        "title": "Dr. Anthony Fauci's lawyer says Aaron Rodgers \"should stick to football\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dr-anthony-faucis-lawyer-says-aaron-rodgers-should-stick-to-football",
+        "summary": "The ball is back in Rodgers's court.",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 21:27:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/55e48ed/2147483647/strip/false/crop/5218x2935+0+272/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2Fa6%2F371650ec45aca96ec2aa1051ea2a%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29480247-192754778-tag-reuters-com-2026-binary-mt1usatoday29480247-baseimage-5218x3479-2026-07-30t165106z-192754778-mt1usatoday29480247-rtrmadp-3-nfl-pittsburgh-steelers-training-camp.JPG"
+      },
+      {
+        "title": "Free agent TE Zach Ertz cleared for football activities",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-te-zach-ertz-cleared-for-football-activities",
+        "summary": "Free agent tight end Zach Ertz said in April that he didn't want his torn ACL to be the final act of his NFL career.",
+        "source": "nbcsports.com",
+        "date": "Tue, 04 Aug 2026 21:19:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d8780b3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F414%2Fnbc_pft_bijanV2_260804.jpg"
+      },
+      {
         "title": "After rushing title, James Cook is looking forward to even bigger things",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-rushing-title-james-cook-is-looking-forward-to-even-bigger-things",
         "summary": "Bills running back James Cook led the league in rushing last season with 1,621 yards.",
         "source": "nbcsports.com",
         "date": "Tue, 04 Aug 2026 19:55:48 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c856f7d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F207%2F511%2Fnbc_pft_cjjohnson_260803.jpg"
-      },
-      {
-        "title": "Carson Beck excited to start the Hall of Fame Game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-excited-to-start-the-hall-of-fame-game",
-        "summary": "Carson Beck had \"no clue\" he was going to start the Pro Football Hall of Fame Game until this week.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 18:17:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3640360/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F331%2F111%2Fnbc_pft_nathanielhackett_260727.jpg"
-      },
-      {
-        "title": "Aaron Donald looks to establish a media and entertainment footprint",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-looks-to-establish-a-media-and-entertainment-footprint",
-        "summary": "As defensive tackle Aaron Donald focuses for now on whether he'll end a two-year playing hiatus in pursuit of a second Super Bowl ring, he's activating a longer-term vision for his…",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 17:54:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edfd51c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F451%2F155%2FDonaldWHitnew8-4.jpg"
-      },
-      {
-        "title": "Patriots claim WR Tejhaun Palmer off waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-claim-wr-tejhaun-palmer-off-waivers",
-        "summary": "The Patriots claimed wide receiver Tejhaun Palmer off waivers on Tuesday, the team announced.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 17:37:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/61c6c3d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F269%2F523%2Fnbc_pft_mailbagpm_260803.jpg"
-      },
-      {
-        "title": "Bengals' offensive players and coaches say Dexter Lawrence is dominating practices",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-offensive-players-and-coaches-say-dexter-lawrence-is-dominating-practices",
-        "summary": "The Bengals' offense has a problem in training camp: Dexter Lawrence.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 17:27:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d7d78c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F724%2F679%2Fnbc_pft_burrowbengs_260730.jpg"
-      },
-      {
-        "title": "Lions sign RB Raheem Blackshear",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-rb-raheem-blackshear",
-        "summary": "The Lions added a running back to the roster while they wait for Jahmyr Gibbs to get on the practice field.",
-        "source": "nbcsports.com",
-        "date": "Tue, 04 Aug 2026 17:23:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eba7335/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F200%2F179%2Fnbc_pft_morerbtalk_260803.jpg"
       }
     ]
   }
