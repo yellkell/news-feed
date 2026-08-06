@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T23:52:27.664Z",
+  "updated": "2026-08-06T01:51:20.830Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+        "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated…",
+        "source": "theverge.com",
+        "date": "2026-08-05T20:25:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
         "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
         "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
         "source": "arstechnica.com",
         "date": "Wed, 05 Aug 2026 22:35:20 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
-      },
-      {
-        "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-        "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically.",
-        "source": "theverge.com",
-        "date": "2026-08-05T12:57:25-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Google just announced a major shakeup of its top AI leadership",
-        "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-        "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis.",
+        "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+        "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically.",
         "source": "theverge.com",
-        "date": "2026-08-05T12:47:23-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-05T12:57:25-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Bijan Robinson's congratulations included a text from Matthew McConaughey",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinsons-congratulations-included-a-text-from-matthew-mcconaughey",
+        "summary": "Yes, Matthew McConaughey is a Commanders fan.",
+        "source": "nbcsports.com",
+        "date": "Wed, 05 Aug 2026 21:41:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/80825b6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F611%2F315%2Fnbc_pft_bijan_260805.jpg"
+      },
+      {
+        "title": "Sean McVay on Aaron Donald's tryout: I think he could make the team",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-aaron-donalds-tryout-i-think-he-could-make-the-team",
+        "summary": "Aaron Donald did not intend to create more comeback speculation, but the defensive tackle did just that Wednesday.",
+        "source": "nbcsports.com",
+        "date": "Wed, 05 Aug 2026 21:32:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edfd51c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F451%2F155%2FDonaldWHitnew8-4.jpg"
+      },
+      {
+        "title": "Myles Garrett returns to practice Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-returns-to-practice-wednesday",
+        "summary": "Myles Garrett returned to practice on Wednesday, according to multiple reports.",
+        "source": "nbcsports.com",
+        "date": "Wed, 05 Aug 2026 20:11:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edfd51c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F451%2F155%2FDonaldWHitnew8-4.jpg"
+      },
       {
         "title": "Zay Flowers: I'd love for Lamar Jackson to be my QB for my whole career",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zay-flowers-id-love-for-lamar-jackson-to-be-my-qb-for-my-whole-career",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 05 Aug 2026 17:51:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
-      },
-      {
-        "title": "Lions re-sign WR Tarik Black",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-re-sign-wr-tarik-black",
-        "summary": "The Lions re-signed wide receiver Tarik Black on Wednesday, the team announced.",
-        "source": "nbcsports.com",
-        "date": "Wed, 05 Aug 2026 17:50:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8b02b8f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F611%2F315%2Fnbc_pft_jahmyrgibbs_260805.jpg"
-      },
-      {
-        "title": "Andy Reid: Everybody's saying Travis Kelce has a dad body, but he's in good shape",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-everybodys-saying-travis-kelce-has-a-dad-body-but-hes-in-good-shape",
-        "summary": "Chiefs coach Andy Reid is dismissing talk that tight end Travis Kelce showed up to training camp out of shape.",
-        "source": "nbcsports.com",
-        "date": "Wed, 05 Aug 2026 17:41:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/211e1c6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F646%2Fnbc_pft_chiefsconvo_260805.jpg"
-      },
-      {
-        "title": "Raiders sign TE Chris Myarick",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-sign-te-chris-myarick",
-        "summary": "The Raiders have added a tight end.",
-        "source": "nbcsports.com",
-        "date": "Wed, 05 Aug 2026 17:09:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1185d0b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F588%2F942%2Fnbc_pft_mendoza_260729.jpg"
       }
     ]
   }
