@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-06T12:23:42.042Z",
+  "updated": "2026-08-06T14:43:15.391Z",
   "feed": {
     "VR": [
+      {
+        "title": "VR Games Showcase Returns August 13th with Major Flat2VR Studios Reveals & More",
+        "url": "https://roadtovr.com/vr-games-showcase-august-2026/",
+        "summary": "VR Games Showcase is turning two years old soon, and this time around VR’s biggest gaming showcase is promising another slate of VR game reveals and updates from this year’s most…",
+        "source": "roadtovr.com",
+        "date": "Thu, 06 Aug 2026 13:00:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/vrgs-aug-261.jpg?resize=1672%2C941&quality=89&ssl=1"
+      },
       {
         "title": "G-Rebels Review-In-Progress: Impressive VR Flight Model Is Cleared For Takeoff",
         "url": "https://www.uploadvr.com/g-rebels-review-in-progress-impressive-vr-flight-model-is-clear-for-take-off/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Wed, 05 Aug 2026 16:16:49 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/763120138_27556293187404755_4970985895028810169_n.jpg"
-      },
-      {
-        "title": "‘URXR One’ Mixed Reality Glasses Kickstarter Passes $500K in First 24 Hours",
-        "url": "https://roadtovr.com/unseen-reality-urxr-one-xr-glasses-funded/",
-        "summary": "Unseen Reality’s crowdfunding campaign for URXR One surpassed $500,000 within 24 hours of launch yesterday, showing clear demand for the company’s first slim and light mixed…",
-        "source": "roadtovr.com",
-        "date": "Wed, 05 Aug 2026 12:41:55 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/urxr.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "Beyond Frames Sells Off Publishing Rights to Popular VR Shooter ‘Ghosts of Tabor’ in $1M Deal",
-        "url": "https://roadtovr.com/beyond-frames-sells-ghosts-of-tabor-1m/",
-        "summary": "Beyond Frames Entertainment is the main publisher behind many of Combat Waffle Studios’ VR titles, including Ghosts of Tabor (2024), Silent North (2025), and GRIM (2025).",
+        "title": "Viture Pro 2 is the Company’s Thinnest & Lightest AR Glasses Yet, Priced at $300",
+        "url": "https://roadtovr.com/viture-pro-2-ar-glasses-launch-mobile-dock-mini/",
+        "summary": "VITURE today launched its latest AR glasses, VITURE Pro 2, which the company calls its thinnest, lightest and most comfortable yet.",
         "source": "roadtovr.com",
-        "date": "Wed, 05 Aug 2026 09:03:35 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/ghosts-of-tabor.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Thu, 06 Aug 2026 12:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/viture-pro-2.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Cybercore Protocol Impressions: A Mixed Reality Sci-Fi Home Invasion",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-        "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-        "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion…",
+        "title": "SoftBank donated $50 million to Trump’s library just months before federal data center deal",
+        "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+        "summary": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling…",
         "source": "theverge.com",
-        "date": "2026-08-06T05:33:11-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489"
+        "date": "2026-08-06T10:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/softbank-ohio-data-center.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-        "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated…",
+        "title": "The left and right agree on one thing: no data centers",
+        "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+        "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.",
         "source": "theverge.com",
-        "date": "2026-08-05T20:25:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-06T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_DCD_0730.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Ravens OC Declan Doyle: Ja'Kobi Lane a friendly guy to throw to, has hands like Michael Thomas",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-oc-declan-doyle-jakobi-lane-a-friendly-guy-to-throw-to-has-hands-like-michael-thomas",
-        "summary": "Zay Flowers landed a big new contract in Baltimore this week, but he's not the only wideout that the Ravens are excited about for the 2026 season.",
+        "title": "Bengals plan to play starters in their preseason opener",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-plan-to-play-starters-in-their-preseason-opener",
+        "summary": "The Bengals will kick off their preseason schedule next Thursday and head coach Zac Taylor shared some of his plans for that game against the Lions at a Thursday press conference.",
         "source": "nbcsports.com",
-        "date": "Thu, 06 Aug 2026 08:15:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
+        "date": "Thu, 06 Aug 2026 10:15:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d34358c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_fightsbengals_260805.jpg"
       },
       {
-        "title": "Jonathan Taylor agrees to two-year extension with Colts",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-taylor-agrees-to-two-year-extension-with-colts",
-        "summary": "Taylor is set to make $44 million under the terms of his new deal.",
+        "title": "Chris Foerster: 49ers are \"very healthy,\" bumps and bruises come from practicing hard",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-foerster-49ers-are-very-healthy-bumps-and-bruises-come-from-practicing-hard",
+        "summary": "Chris Foerster, the San Francisco assistant who is filling in while head coach Kyle Shanahan recuperates from a car accident, says the narrative that the 49ers have been devastated…",
         "source": "nbcsports.com",
-        "date": "Thu, 06 Aug 2026 08:03:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cb6d475/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F612%2F291%2Fnbc_pft_jonathantaylorconvo_260805.jpg"
+        "date": "Thu, 06 Aug 2026 10:14:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06a06b2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F735%2F339%2Fnbc_pft_49ershurt_260806.jpg"
       },
       {
-        "title": "Chris Shula would be \"really excited\" about Aaron Donald returning (if he does)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-shula-would-be-really-excited-about-aaron-donald-returning-if-he-does",
-        "summary": "Rams defensive coordinator has considered what it would mean to have Donald and Myles Garrett together.",
+        "title": "Michael Penix Jr.: I'm doing everything I can to help my knee get better faster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-jr-im-doing-everything-i-can-to-help-my-knee-get-better-faster",
+        "summary": "To this point, the Falcons' quarterback competition has not truly begun in earnest because Michael Penix Jr. has not been fully medically cleared.",
         "source": "nbcsports.com",
-        "date": "Thu, 06 Aug 2026 06:20:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edfd51c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F451%2F155%2FDonaldWHitnew8-4.jpg"
+        "date": "Thu, 06 Aug 2026 09:57:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/80825b6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F611%2F315%2Fnbc_pft_bijan_260805.jpg"
       },
       {
-        "title": "Cardinals' depth chart lists Tyler Allgeier as No. 1 RB, Jeremiyah Love as No. 2",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-depth-chart-lists-tyler-allgeier-as-no-1-rb-jeremiyah-love-as-no-2",
-        "summary": "The Cardinals didn't draft running back Jeremiyah Love with the third overall pick so he could sit on the bench, but they're not going to declare him the starter just yet.",
+        "title": "C.J. Gardner-Johnson returns to practice for Bills",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-gardner-johnson-returns-to-practice-for-bills",
+        "summary": "Safety C.J.",
         "source": "nbcsports.com",
-        "date": "Thu, 06 Aug 2026 06:20:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3640360/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F331%2F111%2Fnbc_pft_nathanielhackett_260727.jpg"
+        "date": "Thu, 06 Aug 2026 09:31:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c13598/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F620%2F98%2FJoeBradyPFT8-5.jpg"
       },
       {
-        "title": "Dillon Gabriel doesn't feel disrespected by being omitted from the starting quarterback competition",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dillon-gabriel-doesnt-feel-disrespected-by-being-omitted-from-the-starting-quarterback-competition",
-        "summary": "The forgotten man in the Cleveland quarterback rotation is forcing himself into the conversation by performing well in practice.",
+        "title": "Injuries left 49ers without 20 players by the end of Wednesday's practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injuries-left-49ers-without-20-players-by-the-end-of-wednesdays-practice",
+        "summary": "Injuries have been a major storyline at 49ers camp so far this summer and Wednesday's practice was no exception.",
         "source": "nbcsports.com",
-        "date": "Thu, 06 Aug 2026 06:05:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8e17ba/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F211%2F415%2Fnbc_pft_jimmyhaslamv2_260803.jpg"
+        "date": "Thu, 06 Aug 2026 09:25:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1728c71/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F147%2Fnbc_pft_hofconvo_260805.jpg"
       },
       {
-        "title": "Myles Garrett after missing practices for back soreness: \"I feel good\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-after-missing-practices-for-back-soreness-i-feel-good",
-        "summary": "Nerves were a bit frayed among Rams fans in recent days, with defensive end Myles Garrett missing four practices due to back soreness.",
+        "title": "Jahmyr Gibbs suits up for Lions practice Thursday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-takes-part-in-lions-practice-thursday",
+        "summary": "There's been no word of an agreement on a new contract for Lions running back Jahmyr Gibbs, but there has been a change to his approach to practice at training camp.",
         "source": "nbcsports.com",
-        "date": "Thu, 06 Aug 2026 05:46:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/62480e7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F445%2F799%2Fnbc_pft_mylesgarrett_260804.jpg"
+        "date": "Thu, 06 Aug 2026 08:47:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5ae2681/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F741%2F695%2Fnbc_pft_gibbspracticing_260806.jpg"
       }
     ]
   }
