@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T04:59:27.952Z",
+  "updated": "2026-08-06T10:17:02.900Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-        "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated…",
+        "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+        "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+        "summary": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion…",
         "source": "theverge.com",
-        "date": "2026-08-05T20:25:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-06T05:33:11-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-        "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically.",
+        "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+        "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated…",
         "source": "theverge.com",
-        "date": "2026-08-05T12:57:25-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-05T20:25:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Dillon Gabriel doesn't feel disrespected by being omitted from the starting quarterback competition",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dillon-gabriel-doesnt-feel-disrespected-by-being-omitted-from-the-starting-quarterback-competition",
+        "summary": "The forgotten man in the Cleveland quarterback rotation is forcing himself into the conversation by performing well in practice.",
+        "source": "nbcsports.com",
+        "date": "Thu, 06 Aug 2026 06:05:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8e17ba/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F211%2F415%2Fnbc_pft_jimmyhaslamv2_260803.jpg"
+      },
+      {
+        "title": "Myles Garrett after missing practices for back soreness: \"I feel good\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-after-missing-practices-for-back-soreness-i-feel-good",
+        "summary": "Nerves were a bit frayed among Rams fans in recent days, with defensive end Myles Garrett missing four practices due to back soreness.",
+        "source": "nbcsports.com",
+        "date": "Thu, 06 Aug 2026 05:46:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/62480e7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F445%2F799%2Fnbc_pft_mylesgarrett_260804.jpg"
+      },
+      {
+        "title": "Andy Reid: Josh Simmons has \"more lead in his pants\" after offseason weight gain",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-josh-simmons-has-more-lead-in-his-pants-after-offseason-weight-gain",
+        "summary": "“He put on weight in the offseason. He’s been able to maintain it,” Reid said. “I think it’ll help him.\"",
+        "source": "nbcsports.com",
+        "date": "Thu, 06 Aug 2026 05:15:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/211e1c6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F646%2Fnbc_pft_chiefsconvo_260805.jpg"
+      },
+      {
+        "title": "D.J. Jones: Broncos can break the NFL record of 72 sacks in a season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/d-j-jones-broncos-can-break-the-nfl-record-of-72-sacks-in-a-season",
+        "summary": "\"We can break it. We can break the record,\" Jones said. \"What is that, 72? Yeah, we can break it.\"",
+        "source": "nbcsports.com",
+        "date": "Thu, 06 Aug 2026 04:07:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6403ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F453%2F107%2Fnbc_pft_taysomhill_260804.jpg"
+      },
+      {
         "title": "Mike Macdonald provides update on Zach Charbonnet's rehab",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-provides-update-on-zach-charbonnets-rehab",
         "summary": "Zach Charbonnet underwent surgery to repair the torn anterior cruciate ligament in his left knee on Feb. 20.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 05 Aug 2026 22:15:01 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/fded902/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F203%2F107%2Fnbc_pft_clowney_260803.jpg"
-      },
-      {
-        "title": "Deebo Samuel's deal has a $4.1 million base, and up to $2.9 million in incentives",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deebo-samuels-deal-has-a-4-1-million-base-and-up-to-2-9-million-in-incentives",
-        "summary": "The initial reports as to many NFL player contracts focus on the \"up to\" amount, since it's a bigger number — and it's usually the number that gets attached to the deal.",
-        "source": "nbcsports.com",
-        "date": "Wed, 05 Aug 2026 22:01:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9004c57/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F971%2F751%2Fnbc_pft_deebo49ers_260731.jpg"
-      },
-      {
-        "title": "Bijan Robinson's congratulations included a text from Matthew McConaughey",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinsons-congratulations-included-a-text-from-matthew-mcconaughey",
-        "summary": "Yes, Matthew McConaughey is a Commanders fan.",
-        "source": "nbcsports.com",
-        "date": "Wed, 05 Aug 2026 21:41:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/80825b6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F611%2F315%2Fnbc_pft_bijan_260805.jpg"
-      },
-      {
-        "title": "Sean McVay on Aaron Donald's tryout: I think he could make the team",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-aaron-donalds-tryout-i-think-he-could-make-the-team",
-        "summary": "Aaron Donald did not intend to create more comeback speculation, but the defensive tackle did just that.",
-        "source": "nbcsports.com",
-        "date": "Wed, 05 Aug 2026 21:32:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edfd51c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F451%2F155%2FDonaldWHitnew8-4.jpg"
-      },
-      {
-        "title": "Myles Garrett returns to practice Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-returns-to-practice-wednesday",
-        "summary": "Myles Garrett returned to practice on Wednesday, according to multiple reports.",
-        "source": "nbcsports.com",
-        "date": "Wed, 05 Aug 2026 20:11:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edfd51c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F451%2F155%2FDonaldWHitnew8-4.jpg"
       }
     ]
   }
