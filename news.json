@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T15:54:38.477Z",
+  "updated": "2026-08-08T16:23:01.177Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Lane Johnson: This is probably my last year",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-johnson-this-is-probably-my-last-year",
+        "summary": "Johnson is heading into his 14th season with the Eagles.",
+        "source": "nbcsports.com",
+        "date": "Sat, 08 Aug 2026 12:05:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06877bc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F980%2F535%2Fnbc_pft_carter_260731.jpg"
+      },
+      {
         "title": "Jaguars sign Geron Christian",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-sign-geron-christian",
         "summary": "The Jaguars are adding some experienced depth to their offensive line.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 08 Aug 2026 09:57:49 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/11d4112/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F836%2F914%2Fnbc_snf_tomlinint_260806.jpg"
-      },
-      {
-        "title": "Roger Craig's 1,000-yard rushing, 1,000-yard receiving season set a new standard",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-craigs-1-000-yard-rushing-1-000-yard-receiving-season-set-a-new-standard",
-        "summary": "When 49ers running back Roger Craig had 1,050 rushing yards and 1,016 receiving yards in 1985, he was doing something previously unthinkable in the NFL.",
-        "source": "nbcsports.com",
-        "date": "Sat, 08 Aug 2026 08:24:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/37ddb5e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Ftomlin_for_mpx_%281%29.jpg"
       }
     ]
   }
