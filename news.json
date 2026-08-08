@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T15:23:46.035Z",
+  "updated": "2026-08-08T15:54:38.477Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Jaguars sign Geron Christian",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-sign-geron-christian",
+        "summary": "The Jaguars are adding some experienced depth to their offensive line.",
+        "source": "nbcsports.com",
+        "date": "Sat, 08 Aug 2026 11:43:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/21fc6cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F202%2F131%2Fnbc_pft_liamcoen_260803.jpg"
+      },
+      {
         "title": "Frank Reich: Geno Smith is in his prime at 35",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/frank-reich-geno-smith-is-in-his-prime-at-35",
         "summary": "Geno Smith is 35, but he played only 45 games his first nine seasons.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 08 Aug 2026 08:24:16 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/37ddb5e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Ftomlin_for_mpx_%281%29.jpg"
-      },
-      {
-        "title": "With the annual CBS season-preview press conference coming, Tony Romo's status looms",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-the-annual-cbs-season-preview-press-conference-coming-tony-romos-status-looms",
-        "summary": "It's been eight days since CBS placed analyst Tony Romo on leave, eight days after his OWI arrest in Milwaukee.",
-        "source": "nbcsports.com",
-        "date": "Sat, 08 Aug 2026 08:14:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/900273b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F257%2F811%2Fnbc_pft_romocbs_260803.jpg"
       }
     ]
   }
