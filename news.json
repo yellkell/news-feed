@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T18:56:15.989Z",
+  "updated": "2026-08-08T19:24:29.256Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Patrick Mahomes says his left knee \"feels great\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-says-his-left-knee-feels-great",
+        "summary": "Two weeks into 2026 training camp, Chiefs quarterback Patrick Mahomes is moving closer to being ready to go five weeks from Monday night.",
+        "source": "nbcsports.com",
+        "date": "Sat, 08 Aug 2026 15:09:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd62217/2147483647/strip/false/crop/4036x2270+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F75%2Fe597bfa942d09b10873c9e6958a0%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29472538-1684092162-tag-reuters-com-2026-binary-mt1usatoday29472538-baseimage-4036x2690-2026-07-29t212659z-1684092162-mt1usatoday29472538-rtrmadp-3-football-nfl.JPG"
+      },
+      {
         "title": "Drew Brees' Hall of Fame speech focused on Sean Payton, city of New Orleans",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-brees-hall-of-fame-speech-focused-on-sean-payton-city-of-new-orleans",
         "summary": "Brees signed with the Saints in 2006 as New Orleans was healing from Hurricane Katrina.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 08 Aug 2026 13:37:17 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c02efc1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F811%2F15%2Fnbc_fnia_keuchleyint_260806.jpg"
-      },
-      {
-        "title": "Zay Flowers day-to-day with a quad contusion",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zay-flowers-day-to-day-with-a-quad-contusion",
-        "summary": "Ravens head coach Jesse Minter gave an update on wide receiver Zay Flowers after Flowers left Saturday's practice early.",
-        "source": "nbcsports.com",
-        "date": "Sat, 08 Aug 2026 13:20:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
       }
     ]
   }
