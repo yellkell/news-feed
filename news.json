@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T23:02:47.454Z",
+  "updated": "2026-08-08T01:02:15.379Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Broncos DL Matt Henningsen tears Achilles",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-dl-matt-henningsen-tears-achilles",
+        "summary": "Broncos defensive lineman Matt Henningsen, who was carted off at Friday's practice, was diagnosed with a torn Achilles, Mike Klis of 9News reports.",
+        "source": "nbcsports.com",
+        "date": "Fri, 07 Aug 2026 20:02:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6403ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F453%2F107%2Fnbc_pft_taysomhill_260804.jpg"
+      },
+      {
         "title": "John Harbaugh on Cam Skattebo leaving practice: Just working through the football shape part of it",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-on-cam-skattebo-leaving-practice-just-working-through-the-football-shape-part-of-it",
         "summary": "Running back Cam Skattebo made an early exit from Friday's practice, but Giants head coach John Harbaugh didn't show much concern about his condition after the workout.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 07 Aug 2026 16:58:19 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9513aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F703%2Fnbc_pft_underradar_260803.jpg"
-      },
-      {
-        "title": "Bears sign DB Xavier Woods, place DB Dallis Flowers on IR",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-db-xavier-woods-place-db-dallis-flowers-on-ir",
-        "summary": "The Bears signed defensive back Xavier Woods, the team announced Friday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 07 Aug 2026 16:53:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/641da81/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F575%2Flicht.jpg"
       }
     ]
   }
