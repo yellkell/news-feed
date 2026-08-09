@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T17:23:01.016Z",
+  "updated": "2026-08-09T17:56:22.532Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Grass at new Bills stadium drew rave reviews (some of the sight lines did not)",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/grass-at-new-bills-stadium-drew-rave-reviews-some-of-the-sight-lines-did-not",
+        "summary": "The Buffalo Bills had a soft launch of their new stadium this weekend, with a practice there on Saturday night.",
+        "source": "nbcsports.com",
+        "date": "Sun, 09 Aug 2026 13:46:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c13598/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F620%2F98%2FJoeBradyPFT8-5.jpg"
+      },
+      {
         "title": "Teddy Bridgewater steps away from Lions, retirement likely",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teddy-bridgewater-steps-away-from-lions-retirement-likely",
         "summary": "Detroit needs a new backup QB, with HC Dan Campbell saying the team may bring someone in as soon as Monday.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 09 Aug 2026 09:41:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/427b38d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F791%2Fnbc_pft_jonathantaylor_260806.jpg"
-      },
-      {
-        "title": "Panthers sign QB Kyle Trask, waive two players",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-sign-qb-kyle-trask-waive-two-players",
-        "summary": "Quarterback Kyle Trask officially joined the Panthers on Sunday.",
-        "source": "nbcsports.com",
-        "date": "Sun, 09 Aug 2026 09:32:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
       }
     ]
   }
