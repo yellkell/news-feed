@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T23:29:08.074Z",
+  "updated": "2026-08-09T23:58:41.880Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Packers sign WR Kisean Johnson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-wr-kisean-johnson",
+        "summary": "The Packers announced three roster on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Sun, 09 Aug 2026 19:31:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d08fbee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F695%2Fnbc_pft_micahparsons_260805.jpg"
+      },
+      {
         "title": "Aaron Jones believes rookie Demond Claiborne is a \"special back\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-jones-believes-rookie-demond-claiborne-is-a-special-back",
         "summary": "The running game has largely been an afterthought during Kevin O'Connell's first four years as the Vikings' head coach.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 09 Aug 2026 16:36:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6efb00/2147483647/strip/false/crop/5387x3030+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F93%2F2c2df00e49849e152397e4acddf8%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29509374-982444708-tag-reuters-com-2026-binary-mt1usatoday29509374-baseimage-5387x3591-2026-08-04t043436z-982444708-mt1usatoday29509374-rtrmadp-3-nfl-detroit-lions-training-camp.JPG"
-      },
-      {
-        "title": "Trent Williams is sued for not making payments on a 2021 Porsche lease",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trent-williams-is-sued-for-not-making-payments-on-a-2021-porsche-lease",
-        "summary": "Although it's hard to envision 49ers tackle Trent Williams fitting inside a Porsche 911, he leased one in 2021.",
-        "source": "nbcsports.com",
-        "date": "Sun, 09 Aug 2026 16:10:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06a06b2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F735%2F339%2Fnbc_pft_49ershurt_260806.jpg"
       }
     ]
   }
