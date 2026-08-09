@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T01:06:19.228Z",
+  "updated": "2026-08-09T03:06:30.018Z",
   "feed": {
     "VR": [
       {
@@ -103,9 +103,25 @@
     ],
     "NFL": [
       {
+        "title": "Aaron Rodgers says Mike Tomlin helped restore his love for the game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-says-mike-tomlin-helped-restore-his-love-for-the-game",
+        "summary": "Aaron Rodgers loves football.",
+        "source": "nbcsports.com",
+        "date": "Sat, 08 Aug 2026 22:34:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c518405/2147483647/strip/false/crop/4290x2413+0+223/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2F6a%2F62473be74f919c1d4aa312f1bb07%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29473395-508612061-tag-reuters-com-2026-binary-mt1usatoday29473395-baseimage-4290x2860-2026-07-29t185332z-508612061-mt1usatoday29473395-rtrmadp-3-nfl-pittsburgh-steelers-training-camp.JPG"
+      },
+      {
+        "title": "Jamal Adams switches from No. 54 to No. 32",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-switches-from-no-54-to-no-32",
+        "summary": "When veteran defender Jamal Adams joined the Vikings, the team assigned him a traditional linebacker number: 54.",
+        "source": "nbcsports.com",
+        "date": "Sat, 08 Aug 2026 22:21:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3a5249f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F196%2F775%2Fnbc_pft_vikingsqb_260803.jpg"
+      },
+      {
         "title": "Laremy Tunsil suffered torn triceps on Saturday",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/laremy-tunsil-suffered-torn-triceps-on-saturday",
-        "summary": "The Commanders are dealing with a significant blow to their offensive line.",
+        "summary": "Tunsil is expected to miss significant regular-season time.",
         "source": "nbcsports.com",
         "date": "Sat, 08 Aug 2026 20:35:56 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ec602d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F739%2F243%2Fnbc_pft_aiyuk_260806.jpg"
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 08 Aug 2026 17:35:15 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e5a64be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F599%2Fnbc_pft_hofclass2026_260807.jpg"
-      },
-      {
-        "title": "Texans sign RB Owen Wright",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-rb-owen-wright",
-        "summary": "The Texans brought a new player into their backfield mix on Saturday.",
-        "source": "nbcsports.com",
-        "date": "Sat, 08 Aug 2026 17:08:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/32eea06/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F740%2F219%2Fnbc_pft_texans_260806.jpg"
-      },
-      {
-        "title": "Seahawks sign RB Justin Jones",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-rb-justin-jones",
-        "summary": "The Seahawks announced a pair of roster moves on Saturday.",
-        "source": "nbcsports.com",
-        "date": "Sat, 08 Aug 2026 16:59:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/61c6c3d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F269%2F523%2Fnbc_pft_mailbagpm_260803.jpg"
       }
     ]
   }
