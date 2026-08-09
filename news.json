@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T05:33:15.309Z",
+  "updated": "2026-08-09T07:30:57.364Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "An Amazon data center could have the worst polluting power plant in the country",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-        "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the…",
+        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+        "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos…",
         "source": "theverge.com",
-        "date": "2026-08-08T13:53:34-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-07T16:01:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-        "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos…",
+        "title": "Watching Roku’s AI channel is like eating from a trough",
+        "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+        "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series.",
         "source": "theverge.com",
-        "date": "2026-08-07T16:01:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-07T14:59:46-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Drew Brees recalls how he and LaDainian Tomlinson \"grew up together\" on the Chargers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-brees-recalls-how-he-and-ladainian-tomlinson-grew-up-together-on-the-chargers",
+        "summary": "Brees made a special mention of his former teammate during his Hall of Fame induction speech.",
+        "source": "nbcsports.com",
+        "date": "Sun, 09 Aug 2026 03:21:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/674f6eb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F980%2F535%2Fnbc_pft_breeshof_260731.jpg"
+      },
       {
         "title": "Ty Simpson will play in the preseason; no decision has been made about Stetson Bennett playing",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ty-simpson-will-play-in-the-preseason-no-decision-has-been-made-about-stetson-bennett-playing",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 08 Aug 2026 20:35:56 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ec602d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F739%2F243%2Fnbc_pft_aiyuk_260806.jpg"
-      },
-      {
-        "title": "Report: Panthers are expected to sign QB Kyle Trask",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-panthers-are-expected-to-sign-qb-kyle-trask",
-        "summary": "Panthers quarterback Haynes King injured his hamstring in the Hall of Fame Game this week and they are set to add another quarterback to the roster for the coming practice week.",
-        "source": "nbcsports.com",
-        "date": "Sat, 08 Aug 2026 17:52:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
       }
     ]
   }
