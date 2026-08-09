@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T13:58:12.531Z",
+  "updated": "2026-08-09T14:34:24.701Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "AI detectors are creating a new era of distrust",
-        "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
+        "title": "An Amazon data center could have the worst polluting power plant in the country",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+        "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the…",
         "source": "theverge.com",
-        "date": "2026-08-09T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-08T13:53:34-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "An Amazon data center could have the worst polluting power plant in the country",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-        "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the…",
+        "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+        "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos…",
         "source": "theverge.com",
-        "date": "2026-08-08T13:53:34-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-07T16:01:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Patriots scramble to replace turf field before Thursday's preseason opener vs. Colts",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-scramble-to-replace-turf-field-before-thursdays-preseason-opener-vs-colts",
+        "summary": "The first surface installed after the World Cup was deemed to be \"noncompliant.\"",
+        "source": "nbcsports.com",
+        "date": "Sun, 09 Aug 2026 10:18:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1816dde/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F200%2F679%2Fnbc_pft_grassturf_260803.jpg"
+      },
       {
         "title": "Nick Caley: Texans are on a \"crusade\" to be the best offense they can be",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-caley-texans-are-on-a-crusade-to-be-the-best-offense-they-can-be",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 09 Aug 2026 09:03:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/427b38d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F791%2Fnbc_pft_jonathantaylor_260806.jpg"
-      },
-      {
-        "title": "Braden Fiske on Myles Garrett: Not all men are created equal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/braden-fiske-on-myles-garrett-not-all-men-are-created-equal",
-        "summary": "Myles Garrett missed some time at Rams training camp due to lower body soreness, but he's been back on the field in recent days and it sounds like he's in fine form.",
-        "source": "nbcsports.com",
-        "date": "Sun, 09 Aug 2026 08:48:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d329d4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fnbc_pft_aaron_donald_260807.jpg"
       }
     ]
   }
