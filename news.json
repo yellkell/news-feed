@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-10T15:35:48.149Z",
+  "updated": "2026-08-10T16:29:13.517Z",
   "feed": {
     "VR": [
+      {
+        "title": "Apple Expands Friday Night Baseball With Live Immersive Access On Vision Pro",
+        "url": "https://www.uploadvr.com/apple-expands-friday-night-baseball-with-live-immersive-access-on-vision-pro/",
+        "summary": "Live Friday Night Baseball is coming to Apple Immersive later this month, bringing MLB to Apple Vision Pro users with an Apple TV subscription.",
+        "source": "uploadvr.com",
+        "date": "Mon, 10 Aug 2026 08:47:09 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Friday-Night-Baseball-live-in-Apple-Immersive-16x9.png"
+      },
       {
         "title": "Apple Brings Live MLB Games to Vision Pro Starting August 28",
         "url": "https://roadtovr.com/apple-mlb-live-immersive-games-schedule-2026/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Mon, 10 Aug 2026 14:59:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Fallout-Inspired PC VR Survival Shooter D.E.C.A.Y. Hits Early Access This Month",
-        "url": "https://www.uploadvr.com/fallout-inspired-pc-vr-survival-shooter-d-e-c-a-y-hits-early-access-this-month/",
-        "summary": "D.E.C.A.Y., a Fallout-inspired VR survival shooter set in a dystopian post-nuclear America, hits PC VR in Early Access on August 21.",
-        "source": "uploadvr.com",
-        "date": "Mon, 10 Aug 2026 06:35:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/decay-key-art.jpg"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -27,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
+        "title": "Fallout-Inspired PC VR Survival Shooter D.E.C.A.Y. Hits Early Access This Month",
+        "url": "https://www.uploadvr.com/fallout-inspired-pc-vr-survival-shooter-d-e-c-a-y-hits-early-access-this-month/",
+        "summary": "D.E.C.A.Y., a Fallout-inspired VR survival shooter set in a dystopian post-nuclear America, hits PC VR in Early Access on August 21.",
+        "source": "uploadvr.com",
+        "date": "Mon, 10 Aug 2026 06:35:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/decay-key-art.jpg"
+      },
+      {
         "title": "VR Design Unpacked: Everyone Should Know These VR Interface Basics",
         "url": "https://roadtovr.com/inside-vr-design-interface-of-electronauts/",
         "summary": "Our series Inside XR Design examines specific examples of great XR design.",
         "source": "roadtovr.com",
         "date": "Fri, 07 Aug 2026 16:24:32 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/no-text-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Dream Hackers VR Is The Game I'm Most Excited For In 2027",
-        "url": "https://www.uploadvr.com/dream-hackers-vr-is-the-game-im-most-excited-for-in-2027/",
-        "summary": "In Dream Hackers VR, it took just minutes for us to realize we were playing something truly special.",
-        "source": "uploadvr.com",
-        "date": "Thu, 06 Aug 2026 17:57:25 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/2026_08_06T16_59_24_000Z.jpg"
       },
       {
         "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "What you missed this weekend (August 10, 2026 edition)",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/what-you-missed-this-weekend-august-10-2026-edition",
+        "summary": "On one hand, football is back.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 12:20:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58d7b37/2147483647/strip/false/crop/3226x1815+0+158/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2Fce%2Fe966b2574eaea5bcfffc92e919bd%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29530638-494424095-tag-reuters-com-2026-binary-mt1usatoday29530638-baseimage-3226x2131-2026-08-06t205124z-494424095-mt1usatoday29530638-rtrmadp-3-nfl-pro-football-hall-of-fame-game-carolina-panthers-at-arizona-cardinals.JPG"
+      },
+      {
+        "title": "Report: Falcons agree to sign DE Cameron Sample",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-falcons-agree-to-sign-de-cameron-sample",
+        "summary": "The Falcons are bringing in some depth along their defensive line.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 12:07:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/80825b6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F611%2F315%2Fnbc_pft_bijan_260805.jpg"
+      },
+      {
+        "title": "Rams sign CB Zech McPhearson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-sign-cb-zech-mcphearson",
+        "summary": "The Rams brought in a new cornerback on Monday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 11:41:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/78020d4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F299%2Fnbc_pft_aarondonald_260810.jpg"
+      },
+      {
+        "title": "Kirk Cousins returns to Raiders practice on Monday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-returns-to-raiders-practice-on-monday",
+        "summary": "Things appear to be back to normal for the Raiders at their Monday practice.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 11:36:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12c16f8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F51%2F178%2Fnbc_pft_fightnight_260810.jpg"
+      },
+      {
         "title": "Jon-Eric Sullivan: De'Von Achane, Jordyn Brooks, Aaron Brewer are \"the pillars we build around\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jon-eric-sullivan-devon-achane-jordyn-brooks-aaron-brewer-are-the-pillars-we-build-around",
         "summary": "The Dolphins are undergoing a cultural overhaul.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 10 Aug 2026 11:24:47 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d1f003/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F874%2F503%2Fnbc_pft_steelers_rodgers_260807.jpg"
-      },
-      {
-        "title": "Steelers first-round pick Max Iheanachor remains out of practice with no timeline for return",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-first-round-pick-max-iheanachor-remains-out-of-practice-with-no-timeline-for-return",
-        "summary": "When Steelers rookie offensive tackle Max Iheanachor suffered an injury at practice last week, head coach Mike McCarthy indicated he would be back by Monday.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 11:14:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d1f003/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F874%2F503%2Fnbc_pft_steelers_rodgers_260807.jpg"
-      },
-      {
-        "title": "Eric Bieniemy is back at Chiefs training camp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eric-bieniemy-is-back-at-chiefs-training-camp",
-        "summary": "Offensive coordinator is back after two-week absence following wife's shooting.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 10:38:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/211e1c6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F646%2Fnbc_pft_chiefsconvo_260805.jpg"
-      },
-      {
-        "title": "Isiah Pacheco has an MCL sprain, but should be ready for Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/isiah-pacheco-has-an-mcl-sprain-but-should-be-ready-for-week-1",
-        "summary": "Lions running back Isiah Pacheco has an injury concern, but he should be ready for the regular season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 10:31:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3eefbdc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fnbc_pft_jahmyrgibbs_260807.jpg"
-      },
-      {
-        "title": "Steve Keim has ties to alleged scam artist who was recently found dead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steve-keim-has-ties-to-alleged-scam-artist-who-was-recently-found-dead",
-        "summary": "With 32 training camps up and running (and plenty of things happening in all of them), other stories can slip through the cracks for us.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 10:23:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
       }
     ]
   }
