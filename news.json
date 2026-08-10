@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T09:54:59.609Z",
+  "updated": "2026-08-10T13:00:32.441Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "AI detectors are creating a new era of distrust",
-        "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
+        "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+        "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+        "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether…",
         "source": "theverge.com",
-        "date": "2026-08-09T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "An Amazon data center could have the worst polluting power plant in the country",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-        "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the…",
+        "title": "AI detectors are creating a new era of distrust",
+        "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
         "source": "theverge.com",
-        "date": "2026-08-08T13:53:34-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-09T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Hunter Henry, Patriots agree on two-year extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hunter-henry-patriots-agree-on-two-year-extension",
+        "summary": "Tight end Hunter Henry has spent the last five seasons in New England and his run is set to continue beyond the 2026 season.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 08:19:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d34358c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_fightsbengals_260805.jpg"
+      },
+      {
+        "title": "Dan Quinn: We'll know more about Laremy Tunsil's timeline after surgery",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-well-know-more-about-laremy-tunsils-timeline-after-surgery",
+        "summary": "Commanders head coach Dan Quinn opened his Monday press conference by discussing the injury that forced left tackle Laremy Tunsil out of practice on Saturday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 08:12:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ec602d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F739%2F243%2Fnbc_pft_aiyuk_260806.jpg"
+      },
+      {
+        "title": "Anthony Richardson: Not sure what's going on with trade request, just want to help the team",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-not-sure-whats-going-on-with-trade-request-just-want-to-help-the-team",
+        "summary": "Colts quarterback Anthony Richardson was fighting for a starting job at this time last year and he's in another competition as the team heads into its first preseason game of this…",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 08:02:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/427b38d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F737%2F791%2Fnbc_pft_jonathantaylor_260806.jpg"
+      },
       {
         "title": "Broncos safety Brandon Jones goes 3-for-4 filling in for kicker Wil Lutz at training camp",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-safety-brandon-jones-goes-3-for-4-filling-in-for-kicker-wil-lutz-at-training-camp",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 09 Aug 2026 21:41:35 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/61c6c3d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F269%2F523%2Fnbc_pft_mailbagpm_260803.jpg"
-      },
-      {
-        "title": "Lions worked out free agent CB Trevon Diggs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-worked-out-free-agent-cb-trevon-diggs",
-        "summary": "The Lions worked out free agent cornerback Trevon Diggs, according to the NFL's personnel notice.",
-        "source": "nbcsports.com",
-        "date": "Sun, 09 Aug 2026 20:32:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3eefbdc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fnbc_pft_jahmyrgibbs_260807.jpg"
-      },
-      {
-        "title": "Report: Giants agree to terms with S JT Woods",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-agree-to-terms-with-s-jt-woods",
-        "summary": "The Giants are signing safety JT Woods, Aaron Wilson of KPRC reports.",
-        "source": "nbcsports.com",
-        "date": "Sun, 09 Aug 2026 20:06:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4b19a8d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F440%2F919%2Fnbc_pft_dartharbaugh_260804.jpg"
-      },
-      {
-        "title": "Packers sign WR Kisean Johnson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-sign-wr-kisean-johnson",
-        "summary": "The Packers announced three roster on Sunday.",
-        "source": "nbcsports.com",
-        "date": "Sun, 09 Aug 2026 19:31:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d08fbee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F695%2Fnbc_pft_micahparsons_260805.jpg"
       }
     ]
   }
