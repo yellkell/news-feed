@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T23:04:25.232Z",
+  "updated": "2026-08-10T23:48:59.208Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Mark Zuckerberg doesn’t understand how to live",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-        "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline…",
+        "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+        "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500…",
         "source": "theverge.com",
-        "date": "2026-08-10T18:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T11:19:05-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-        "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500…",
+        "title": "What happens to Bose when headphones become AI?",
+        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+        "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago…",
         "source": "theverge.com",
-        "date": "2026-08-10T11:19:05-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Mike Macdonald on Terrion Arnold: We are going to do our diligence",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-on-terrion-arnold-we-are-going-to-do-our-diligence",
+        "summary": "Free agent cornerback Terrion Arnold worked out for the Seahawks on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 19:42:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/61c6c3d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F269%2F523%2Fnbc_pft_mailbagpm_260803.jpg"
+      },
+      {
+        "title": "Incoming Seahawks owner opens door for conversion to grass field",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/incoming-seahawks-owner-opens-door-for-conversion-to-grass-field",
+        "summary": "Vinod Khosla defers to \"[t]he team that got us the Super Bowl.\"",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 19:29:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ce25e4a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F799%2Fnbc_pft_turfmonsterne_260810.jpg"
+      },
+      {
+        "title": "49ers work out RBs Nyheim Miller-Hines, Zamir White",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-work-out-rbs-nyheim-miller-hines-zamir-white",
+        "summary": "The 49ers worked out running backs Nyheim Miller-Hines and Zamir White on Monday, according to the NFL's personnel notice.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 19:25:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c52bc97/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F49%2F227%2Fnbc_pft_halloffame_260810.jpg"
+      },
       {
         "title": "Falcons sign RB Trey Sermon",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-sign-rb-trey-sermon",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 10 Aug 2026 18:19:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6929322/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F971%2F751%2Fnbc_pft_cowboysnickname_260731.jpg"
-      },
-      {
-        "title": "Monti Ossenfort: We have no interest in trading Josh Sweat",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monti-ossenfort-we-have-no-interest-in-trading-josh-sweat",
-        "summary": "Cardinals outside linebacker Josh Sweat remains on the active/physically unable to perform list with a knee issue.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 17:44:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f38b80/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F99%2Fnbc_pft_carson_beck_260807.jpg"
-      },
-      {
-        "title": "Lions announce that they've signed Josh Dobbs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-announce-that-theyve-signed-josh-dobbs",
-        "summary": "Quarterback Josh Dobbs is officially a member of the Lions.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 17:44:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5f5898f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F299%2Fnbc_pft_bridgewater_260810.jpg"
-      },
-      {
-        "title": "Bills will address concerns over sight lines on \"case-by-case basis\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-will-address-concerns-over-sight-lines-on-case-by-case-basis",
-        "summary": "The Bills unofficially opened their stadium on Saturday night, with the team practicing in the brand-new building.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 17:05:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/656eb6b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F43%2F371%2Fnbc_pft_highmarkstadium_260810.jpg"
       }
     ]
   }
