@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-10T18:11:35.984Z",
+  "updated": "2026-08-10T19:15:28.301Z",
   "feed": {
     "VR": [
       {
-        "title": "Apple Expands Friday Night Baseball With Live Immersive Access On Vision Pro",
+        "title": "Apple Vision Pro Owners Can Soon Watch Live Immersive Friday Night Baseball",
         "url": "https://www.uploadvr.com/apple-expands-friday-night-baseball-with-live-immersive-access-on-vision-pro/",
         "summary": "Live Friday Night Baseball is coming to Apple Immersive later this month, bringing MLB to Apple Vision Pro users with an Apple TV subscription.",
         "source": "uploadvr.com",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-        "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500…",
+        "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+        "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago…",
         "source": "theverge.com",
-        "date": "2026-08-10T11:19:05-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "What happens to Bose when headphones become AI?",
-        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-        "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago…",
+        "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+        "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+        "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether…",
         "source": "theverge.com",
-        "date": "2026-08-10T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Matt LaFleur: \"Pretty special\" Mike McCarthy has coached Packers, Cowboys, Steelers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-pretty-special-mike-mccarthy-has-coached-packers-cowboys-steelers",
+        "summary": "Matt LaFleur succeeded Mike McCarthy as Packers head coach in 2019.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 15:04:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d08fbee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F695%2Fnbc_pft_micahparsons_260805.jpg"
+      },
+      {
+        "title": "Broncos think J.K. Dobbins will be \"fine\" after soft tissue injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-think-j-k-dobbins-will-be-fine-after-soft-tissue-injury",
+        "summary": "Broncos running back J.K.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 15:03:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6652443/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F204%2F582%2Fnbc_pft_jkdobbins_260803.jpg"
+      },
+      {
+        "title": "Falcons activate Jawaan Taylor from the PUP list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-activate-jawaan-taylor-from-the-pup-list",
+        "summary": "Jawaan Taylor is set to start practicing at Falcons training camp.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 14:28:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/80825b6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F611%2F315%2Fnbc_pft_bijan_260805.jpg"
+      },
+      {
+        "title": "Buccaneers sign DB Roman Parodie",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-sign-db-roman-parodie",
+        "summary": "Defensive back Roman Parodie is back with the Buccaneers.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 14:18:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/641da81/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F575%2Flicht.jpg"
+      },
+      {
+        "title": "Christian McCaffrey out of Monday's practice with \"tightness\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-out-of-mondays-practice-with-tightness",
+        "summary": "The 49ers may have yet another injury concern.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 14:13:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ff82e1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F45%2F823%2Fnbc_pft_bosaandinjuries_260810.jpg"
+      },
+      {
         "title": "Micah Parsons calls Week 6 against Cowboys \"most optimistic\" return date",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-calls-week-6-against-cowboys-most-optimistic-return-date",
         "summary": "Will Parsons be cleared in time to face his former team?",
         "source": "nbcsports.com",
         "date": "Mon, 10 Aug 2026 14:09:30 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d08fbee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F695%2Fnbc_pft_micahparsons_260805.jpg"
-      },
-      {
-        "title": "Hall of Fame game averaged 6.99 million viewers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hall-of-fame-game-averaged-6-99-million-viewers",
-        "summary": "Football returned on Thursday night, with a game between the Panthers and Cardinals in Canton, Ohio.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 14:08:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
-      },
-      {
-        "title": "In deleted social-media post, DeAndre Hopkins accused Steve Keim of PED test \"set up\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-deleted-social-media-post-deandre-hopkins-accused-steve-keim-of-ped-test-set-up",
-        "summary": "With former Cardinals G.M.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 13:48:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f38b80/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F99%2Fnbc_pft_carson_beck_260807.jpg"
-      },
-      {
-        "title": "Chargers sign OLB Andre Carter",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-sign-olb-andre-carter",
-        "summary": "The Chargers have added some depth on defense.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 13:19:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c7c837/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F742%2F671%2Fnbc_pft_mikemcdanielv2_260806.jpg"
-      },
-      {
-        "title": "49ers sign OL Doug Kramer Jr., release OL Nick Zakelj",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-ol-doug-kramer-jr-release-ol-nick-zakelj",
-        "summary": "The 49ers have made a pair of roster moves on Monday.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 13:09:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ff82e1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F45%2F823%2Fnbc_pft_bosaandinjuries_260810.jpg"
-      },
-      {
-        "title": "Todd Monken: As long as we're sharing reps, it's a QB competition",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-as-long-as-were-sharing-reps-its-a-qb-competition",
-        "summary": "The Browns have not decided who will start this week's preseason opener.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 13:08:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6cf639/2147483647/strip/false/crop/2000x1125+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4b%2F43%2F0abd5c084da5be03713f29c8e79c%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29550128-633742108-tag-reuters-com-2026-binary-mt1usatoday29550128-baseimage-2000x1512-2026-08-10t015902z-633742108-mt1usatoday29550128-rtrmadp-3-cleveland-browns-quarterbacks-shedeur-sanders-right-and.JPG"
       }
     ]
   }
