@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T17:25:58.244Z",
+  "updated": "2026-08-10T18:11:35.984Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
-        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-        "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago…",
+        "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+        "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500…",
         "source": "theverge.com",
-        "date": "2026-08-10T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T11:19:05-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-        "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-        "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether…",
+        "title": "What happens to Bose when headphones become AI?",
+        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+        "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago…",
         "source": "theverge.com",
-        "date": "2026-08-10T07:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Micah Parsons calls Week 6 against Cowboys \"most optimistic\" return date",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-calls-week-6-against-cowboys-most-optimistic-return-date",
+        "summary": "Will Parsons be cleared in time to face his former team?",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 14:09:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d08fbee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F616%2F695%2Fnbc_pft_micahparsons_260805.jpg"
+      },
+      {
+        "title": "Hall of Fame game averaged 6.99 million viewers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hall-of-fame-game-averaged-6-99-million-viewers",
+        "summary": "Football returned on Thursday night, with a game between the Panthers and Cardinals in Canton, Ohio.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 14:08:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
+      },
+      {
+        "title": "In deleted social-media post, DeAndre Hopkins accused Steve Keim of PED test \"set up\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-deleted-social-media-post-deandre-hopkins-accused-steve-keim-of-ped-test-set-up",
+        "summary": "With former Cardinals G.M.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 13:48:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f38b80/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F99%2Fnbc_pft_carson_beck_260807.jpg"
+      },
       {
         "title": "Chargers sign OLB Andre Carter",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-sign-olb-andre-carter",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 10 Aug 2026 13:08:43 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6cf639/2147483647/strip/false/crop/2000x1125+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4b%2F43%2F0abd5c084da5be03713f29c8e79c%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29550128-633742108-tag-reuters-com-2026-binary-mt1usatoday29550128-baseimage-2000x1512-2026-08-10t015902z-633742108-mt1usatoday29550128-rtrmadp-3-cleveland-browns-quarterbacks-shedeur-sanders-right-and.JPG"
-      },
-      {
-        "title": "Cardinals will retire Larry Fitzgerald's No. 11 at Week 7 game vs. Broncos",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-will-retire-larry-fitzgeralds-no-11-at-week-7-game-vs-broncos",
-        "summary": "Although Hall of Fame receiver Larry Fitzgerald refuses to refer to himself as \"retired,\" the only NFL team he ever played for will be retiring his jersey.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 13:03:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c52bc97/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F49%2F227%2Fnbc_pft_halloffame_260810.jpg"
-      },
-      {
-        "title": "Broncos activate LB Jordan Turner off NFI list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-activate-lb-jordan-turner-off-nfi-list",
-        "summary": "The Broncos have gotten one of their defensive players back on the field.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 13:02:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6652443/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F204%2F582%2Fnbc_pft_jkdobbins_260803.jpg"
-      },
-      {
-        "title": "What you missed this weekend (August 10, 2026 edition)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/what-you-missed-this-weekend-august-10-2026-edition",
-        "summary": "On one hand, football is back.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 12:20:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58d7b37/2147483647/strip/false/crop/3226x1815+0+158/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2Fce%2Fe966b2574eaea5bcfffc92e919bd%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29530638-494424095-tag-reuters-com-2026-binary-mt1usatoday29530638-baseimage-3226x2131-2026-08-06t205124z-494424095-mt1usatoday29530638-rtrmadp-3-nfl-pro-football-hall-of-fame-game-carolina-panthers-at-arizona-cardinals.JPG"
       }
     ]
   }
