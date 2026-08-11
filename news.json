@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T20:24:28.926Z",
+  "updated": "2026-08-11T21:12:06.396Z",
   "feed": {
     "VR": [
       {
@@ -53,28 +53,12 @@
     ],
     "AI": [
       {
-        "title": "ChatGPT and Gemini both just passed 1 billion users",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-        "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's…",
-        "source": "theverge.com",
-        "date": "2026-08-11T15:41:42-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-        "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-        "summary": "Why passkey apps treat Windows differently than other operating systems.",
+        "title": "Chrome adopts what may be the best protection yet against account takeovers",
+        "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+        "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
         "source": "arstechnica.com",
-        "date": "Tue, 11 Aug 2026 11:30:08 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg"
-      },
-      {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list…",
-        "source": "venturebeat.com",
-        "date": "Tue, 19 May 2026 17:45:00 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
+        "date": "Tue, 11 Aug 2026 20:59:52 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg"
       },
       {
         "title": "Another OpenAI executive takes off",
@@ -85,12 +69,28 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-        "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-        "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list…",
+        "source": "venturebeat.com",
+        "date": "Tue, 19 May 2026 17:45:00 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
+      },
+      {
+        "title": "Made by Google 2026: all the Pixel news and announcements",
+        "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+        "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th.",
+        "source": "theverge.com",
+        "date": "2026-08-11T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+        "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+        "summary": "Why passkey apps treat Windows differently than other operating systems.",
         "source": "arstechnica.com",
-        "date": "Wed, 05 Aug 2026 22:35:20 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
+        "date": "Tue, 11 Aug 2026 11:30:08 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Nick Bosa has soreness, tendinitis in his surgically repaired knee",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-has-soreness-tendinitis-in-his-surgically-repaired-knee",
-        "summary": "49ers defensive end Nick Bosa has missed five consecutive practices.",
+        "title": "Browns claim TE Dae'Quan Wright off waivers, put DB Damarri Mathis on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-claim-te-daequan-wright-off-waivers-put-db-damarri-mathis-on-ir",
+        "summary": "The Browns made a pair of roster moves on Tuesday afternoon.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 16:14:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9374f25/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F162%2F1015%2Fnbc_pft_howardsteelersv2_260811.jpg"
+        "date": "Tue, 11 Aug 2026 17:02:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/002c6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F154%2F207%2FShedeurSanders8-11mPX.jpg"
       },
       {
-        "title": "Mike Vrabel dances around question regarding lessons learned from offseason counseling",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-dances-around-question-regarding-lessons-learned-from-offseason-counseling",
-        "summary": "Patriots coach Mike Vrabel hasn't faced many questions during training camp about the aftermath of the offseason controversy involving himself and former ESPN/The Athletic reporter…",
+        "title": "Jets CB Qwan'tez Stiggers transported to the hospital after passing out at practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-cb-qwantez-stiggers-transported-to-the-hospital-after-passing-out-at-practice",
+        "summary": "Jets cornerback Qwan'tez Stiggers was transported in an ambulance to a local hospital after losing consciousness during a joint practice with the Buccaneers.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 16:10:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c4b3c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_grassvturf_260811.jpg"
+        "date": "Tue, 11 Aug 2026 16:58:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6af53d6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F251%2Fnbc_pftpm_mendoza_260723.jpg"
       },
       {
-        "title": "Chargers OT Rashawn Slater dealing with flare-up in his knee",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-ot-rashawn-slater-dealing-with-flare-up-in-his-knee",
-        "summary": "Chargers left tackle Rashawn Slater missed his fourth straight practice on Tuesday and the reason for it involves his surgically repaired left knee.",
+        "title": "Matthew Stafford doesn't think Puka Nacua's injury was \"anything too major\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-doesnt-think-puka-nacuas-injury-was-anything-too-major",
+        "summary": "Matthew Stafford is neither a trainer nor a doctor.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 16:09:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c7c837/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F742%2F671%2Fnbc_pft_mikemcdanielv2_260806.jpg"
-      },
-      {
-        "title": "Bears S Coby Bryant had knee surgery, will miss 4-6 months",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-s-coby-bryant-had-knee-surgery-will-miss-4-6-months",
-        "summary": "The timeline for Bears safety Coby Bryant's return to action has gotten a lot longer.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 15:57:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5c0aff7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F454%2F583%2Fnbc_pft_cobybryant_260804.jpg"
-      },
-      {
-        "title": "Myles Garrett has swelling in his knee but is at \"85 percent\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-has-swelling-in-his-knee-but-is-at-85-percent",
-        "summary": "Myles Garrett missed his second consecutive practice, standing and watching the Rams' joint practice with the Cowboys on Tuesday.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 15:55:34 -0400",
+        "date": "Tue, 11 Aug 2026 16:58:39 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/78020d4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F299%2Fnbc_pft_aarondonald_260810.jpg"
       },
       {
-        "title": "CBS moves Ross Tucker to No. 2 booth with Ian Eagle",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-moves-ross-tucker-to-no-2-booth-with-ian-eagle",
-        "summary": "With J.J.",
+        "title": "Bears sign OL Wesley French",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-ol-wesley-french",
+        "summary": "The Bears added some depth to their offensive line on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 15:55:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/411834f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F264%2F643%2FGettyImages-135521475.jpg"
+        "date": "Tue, 11 Aug 2026 16:53:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c4b3c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_grassvturf_260811.jpg"
+      },
+      {
+        "title": "Commanders sign LB Curtis Jacobs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-sign-lb-curtis-jacobs",
+        "summary": "The Commanders announced the signing of defensive tackle Byron Cowart on Tuesday morning and they added another player to the defense in the afternoon.",
+        "source": "nbcsports.com",
+        "date": "Tue, 11 Aug 2026 16:42:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d43c253/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F45%2F823%2Fnbc_pft_tunsiltricepsv2_260810.jpg"
+      },
+      {
+        "title": "Klint Kubiak: Fernando Mendoza will get \"plenty of experience\" on Thursday vs. Cardinals",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-fernando-mendoza-will-get-plenty-of-experience-on-thursday-vs-cardinals",
+        "summary": "No. 1 overall pick Fernando Mendoza is officially set to make his preseason debut on Thursday night.",
+        "source": "nbcsports.com",
+        "date": "Tue, 11 Aug 2026 16:41:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12c16f8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F51%2F178%2Fnbc_pft_fightnight_260810.jpg"
       }
     ]
   }
