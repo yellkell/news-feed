@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T23:48:59.208Z",
+  "updated": "2026-08-11T01:07:00.510Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-        "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500…",
+        "title": "Mark Zuckerberg doesn’t understand how to live",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+        "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline…",
         "source": "theverge.com",
-        "date": "2026-08-10T11:19:05-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T18:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "What happens to Bose when headphones become AI?",
-        "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-        "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago…",
+        "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+        "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500…",
         "source": "theverge.com",
-        "date": "2026-08-10T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T11:19:05-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Derek Carr joins UCLA as a special advisor to the head coach",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derek-carr-joins-ucla-as-a-special-advisor-to-the-head-coach",
+        "summary": "Derek Carr is returning to football.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 20:02:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12c16f8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F51%2F178%2Fnbc_pft_fightnight_260810.jpg"
+      },
+      {
+        "title": "Bills are figuring out the best way to configure video boards at new stadium",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-are-figuring-out-the-best-way-to-configure-video-boards-at-new-stadium",
+        "summary": "When the Bills' new stadium had a soft launch on Saturday, some spoke hard truths about the size of the video boards.",
+        "source": "nbcsports.com",
+        "date": "Mon, 10 Aug 2026 19:52:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/656eb6b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F43%2F371%2Fnbc_pft_highmarkstadium_260810.jpg"
+      },
       {
         "title": "Mike Macdonald on Terrion Arnold: We are going to do our diligence",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-on-terrion-arnold-we-are-going-to-do-our-diligence",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 10 Aug 2026 18:41:57 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/80825b6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F611%2F315%2Fnbc_pft_bijan_260805.jpg"
-      },
-      {
-        "title": "Mike McDaniel: We'll kinda play hot hand at running back",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mcdaniel-well-kinda-play-hot-hand-at-running-back",
-        "summary": "Chargers running back Omarion Hampton thinks the arrival of offensive coordinator Mike McDaniel is going to be a good thing for the team's running backs and McDaniel's plans for…",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 18:31:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c7c837/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F742%2F671%2Fnbc_pft_mikemcdanielv2_260806.jpg"
-      },
-      {
-        "title": "Stephen Jones: Quinnen Williams represents everything Cowboys want in a football player",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-jones-quinnen-williams-represents-everything-cowboys-want-in-a-football-player",
-        "summary": "The Cowboys announced the three-year, $105.9 million extension with defensive tackle Quinnen Williams on Monday.",
-        "source": "nbcsports.com",
-        "date": "Mon, 10 Aug 2026 18:19:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6929322/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F971%2F751%2Fnbc_pft_cowboysnickname_260731.jpg"
       }
     ]
   }
