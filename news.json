@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T19:44:08.447Z",
+  "updated": "2026-08-11T20:24:28.926Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Spotify says it won’t recommend music from ‘AI Personas’",
-        "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-        "summary": "Spotify will soon label AI artists and remove their music from your recommendations.",
+        "title": "ChatGPT and Gemini both just passed 1 billion users",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's…",
         "source": "theverge.com",
-        "date": "2026-08-11T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-11T15:41:42-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Claude will apply invisible watermarks to AI text and images",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-        "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency.",
+        "title": "Another OpenAI executive takes off",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+        "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab.",
         "source": "theverge.com",
-        "date": "2026-08-11T08:22:20-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-11T13:50:01-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "CBS is \"still assessing\" the \"evolving\" Tony Romo situation",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-is-still-assessing-the-evolving-tony-romo-situation",
-        "summary": "Comments from CBS Sports president David Berson hint at a full-season absence, at a minimum, for Romo.",
+        "title": "Nick Bosa has soreness, tendinitis in his surgically repaired knee",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-has-soreness-tendinitis-in-his-surgically-repaired-knee",
+        "summary": "49ers defensive end Nick Bosa has missed five consecutive practices.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 15:36:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/900273b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F257%2F811%2Fnbc_pft_romocbs_260803.jpg"
+        "date": "Tue, 11 Aug 2026 16:14:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9374f25/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F162%2F1015%2Fnbc_pft_howardsteelersv2_260811.jpg"
       },
       {
-        "title": "Drew Brees will join Saints' Ring of Honor on Oct. 11",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-brees-will-join-saints-ring-of-honor-on-oct-11",
-        "summary": "Hall of Famer Drew Brees will enter the Saints' Ring of Honor on Oct. 11 during halftime for the team's game against the Vikings, the team announced Tuesday.",
+        "title": "Mike Vrabel dances around question regarding lessons learned from offseason counseling",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-dances-around-question-regarding-lessons-learned-from-offseason-counseling",
+        "summary": "Patriots coach Mike Vrabel hasn't faced many questions during training camp about the aftermath of the offseason controversy involving himself and former ESPN/The Athletic reporter…",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 15:24:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c52bc97/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F49%2F227%2Fnbc_pft_halloffame_260810.jpg"
+        "date": "Tue, 11 Aug 2026 16:10:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c4b3c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_grassvturf_260811.jpg"
       },
       {
-        "title": "Bucs' Luke Goedeke on fight with Jets: I'm not gonna get punked and not do anything about it",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-luke-goedeke-on-fight-with-jets-im-not-gonna-get-punked-and-not-do-anything-about-it",
-        "summary": "Buccaneers offensive tackle Luke Goedeke got into a practice-field skirmish in a joint practice with the Jets today, and afterward he said he'll never back down to anyone.",
+        "title": "Chargers OT Rashawn Slater dealing with flare-up in his knee",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-ot-rashawn-slater-dealing-with-flare-up-in-his-knee",
+        "summary": "Chargers left tackle Rashawn Slater missed his fourth straight practice on Tuesday and the reason for it involves his surgically repaired left knee.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 15:23:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/641da81/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F575%2Flicht.jpg"
+        "date": "Tue, 11 Aug 2026 16:09:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c7c837/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F742%2F671%2Fnbc_pft_mikemcdanielv2_260806.jpg"
       },
       {
-        "title": "Puka Nacua exits Rams-Cowboys joint practice early",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-exits-rams-cowboys-joint-practice-early",
-        "summary": "The Rams may have an injury concern with one of their top offensive players.",
+        "title": "Bears S Coby Bryant had knee surgery, will miss 4-6 months",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-s-coby-bryant-had-knee-surgery-will-miss-4-6-months",
+        "summary": "The timeline for Bears safety Coby Bryant's return to action has gotten a lot longer.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 15:22:25 -0400",
+        "date": "Tue, 11 Aug 2026 15:57:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5c0aff7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F454%2F583%2Fnbc_pft_cobybryant_260804.jpg"
+      },
+      {
+        "title": "Myles Garrett has swelling in his knee but is at \"85 percent\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-has-swelling-in-his-knee-but-is-at-85-percent",
+        "summary": "Myles Garrett missed his second consecutive practice, standing and watching the Rams' joint practice with the Cowboys on Tuesday.",
+        "source": "nbcsports.com",
+        "date": "Tue, 11 Aug 2026 15:55:34 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/78020d4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F299%2Fnbc_pft_aarondonald_260810.jpg"
       },
       {
-        "title": "49ers list Deebo Samuel, Mike Evans and Demarcus Robinson as starting receivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-list-deebo-samuel-mike-evans-and-demarcus-robinson-as-starting-receivers",
-        "summary": "Deebo Samuel has only been back with the 49ers for a short time, but he's already back on top of the team's depth chart.",
+        "title": "CBS moves Ross Tucker to No. 2 booth with Ian Eagle",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-moves-ross-tucker-to-no-2-booth-with-ian-eagle",
+        "summary": "With J.J.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 14:58:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9378b91/2147483647/strip/false/crop/7532x4237+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2Fc4%2Ff885ba4e43b7bf626dda2930f18c%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29528917-1548226687-tag-reuters-com-2026-binary-mt1usatoday29528917-baseimage-7532x5024-2026-08-06t183746z-1548226687-mt1usatoday29528917-rtrmadp-3-nfl-san-francisco-49ers-training-camp.JPG"
-      },
-      {
-        "title": "Seahawks sign LB Aaron Smith, place FB Robbie Ouzts on IR",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-lb-aaron-smith-place-fb-robbie-ouzts-on-ir",
-        "summary": "The Seahawks have made a pair of roster moves.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 14:53:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c4b3c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_grassvturf_260811.jpg"
+        "date": "Tue, 11 Aug 2026 15:55:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/411834f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F264%2F643%2FGettyImages-135521475.jpg"
       }
     ]
   }
