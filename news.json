@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T16:33:26.717Z",
+  "updated": "2026-08-11T17:38:23.955Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-        "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-        "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera.",
+        "title": "Why your Amazon order confirmation emails have become so unhelpful",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+        "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and…",
         "source": "theverge.com",
-        "date": "2026-08-11T12:19:15-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-11T09:27:20-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-        "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting.",
+        "title": "Spotify says it won’t recommend music from ‘AI Personas’",
+        "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+        "summary": "Spotify will soon label AI artists and remove their music from your recommendations.",
         "source": "theverge.com",
-        "date": "2026-08-11T10:45:44-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-11T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Nick Emmanwori passes physical after beginning camp on PUP list",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-emmanwori-passes-physical-after-beginning-camp-on-pup-list",
-        "summary": "The Seahawks are getting a significant boost back on defense.",
+        "title": "Christian McCaffrey remains out of practice Tuesday, Mike Evans suits up",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-remains-out-of-practice-tuesday-mike-evans-suits-up",
+        "summary": "There was a bit of positive injury news for the 49ers on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 12:18:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c4b3c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_grassvturf_260811.jpg"
+        "date": "Tue, 11 Aug 2026 13:33:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d8f08f5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F45%2F823%2Fnbc_pft_trentwilliams_260810.jpg"
       },
       {
-        "title": "Jared Goff: Sam LaPorta is a stud, we've got to find ways to get him the ball",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-goff-sam-laporta-is-a-stud-weve-got-to-find-ways-to-get-him-the-ball",
-        "summary": "After a strong rookie season in 2023, Lions tight end Sam LaPorta's production has declined each year, and last year his season was cut short by a back injury that required…",
+        "title": "CB Nate Wiggins carted off at Ravens practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-nate-wiggins-carted-off-at-ravens-practice",
+        "summary": "The Ravens are hoping for the best for cornerback Nate Wiggins.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 12:11:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5ae2681/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F741%2F695%2Fnbc_pft_gibbspracticing_260806.jpg"
+        "date": "Tue, 11 Aug 2026 13:21:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
       },
       {
-        "title": "Joe Burrow, most Bengals starters will play preseason opener vs. Lions",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-most-bengals-starters-will-play-preseason-opener-vs-lions",
-        "summary": "The Bengals will have most starters playing in their preseason opener against the Lions on Thursday night.",
+        "title": "Cam Jordan to miss time with hamstring injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-jordan-to-miss-time-with-hamstring-injury",
+        "summary": "Saints defensive end Cam Jordan's preparations for his final NFL season have hit a snag.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 11:51:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d7d78c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F724%2F679%2Fnbc_pft_burrowbengs_260730.jpg"
+        "date": "Tue, 11 Aug 2026 13:15:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9513aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F703%2Fnbc_pft_underradar_260803.jpg"
       },
       {
-        "title": "Bears list three players at first-team left tackle on initial depth chart",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-list-three-players-at-first-team-left-tackle-on-initial-depth-chart",
-        "summary": "Bears head coach Ben Johnson said in March that the team will consider all options at left tackle for the 2026 season and they're still sifting through their options ahead of their…",
+        "title": "Qwan'tez Stiggers appears to be OK after he was stretchered off Jets' practice field",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/qwantez-stiggers-appears-to-be-ok-after-he-was-stretchered-off-jets-practice-field",
+        "summary": "Jets cornerback Qwan'tez Stiggers had to be taken off the field on a stretcher today, but after practice, Jets coach Aaron Glenn suggested that Stiggers is going to be OK.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 11:40:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c4b3c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_grassvturf_260811.jpg"
+        "date": "Tue, 11 Aug 2026 13:12:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8f8598/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F484%2F591%2Fnbc_pftpm_genosmith_260715.jpg"
       },
       {
-        "title": "Prosecutors drop domestic violence case against Marcellus Wiley",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/prosecutors-drop-domestic-violence-case-against-marcellus-wiley",
-        "summary": "Last month, former NFL defensive end and former ESPN/Fox broadcaster Marcellus Wiley was arrested in Florida for domestic violence.",
+        "title": "Anthony Richardson to start Thursday vs. Patriots, Daniel Jones won't play in preseason",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-to-start-thursday-vs-patriots-daniel-jones-wont-play-in-preseason",
+        "summary": "Quarterback Anthony Richardson may not know what’s going on with his trade request, but he may be able to entice a team to acquire his services soon.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 11:32:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
+        "date": "Tue, 11 Aug 2026 13:01:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/002c6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F154%2F207%2FShedeurSanders8-11mPX.jpg"
       },
       {
-        "title": "Steelers haven't decided if Aaron Rodgers will play on Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-havent-decided-if-aaron-rodgers-will-play-on-thursday",
-        "summary": "Jordan Love is expected to start Thursday night's preseason game in Pittsburgh, but it remains unclear if his predecessor as the Packers' starting quarterback will be on the field…",
+        "title": "Christian Gonzalez did not practice on Tuesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-did-not-practice-on-tuesday",
+        "summary": "The Patriots joined the Colts for practice on Tuesday, but they were missing one of their top players.",
         "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 11:32:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b28f69a/2147483647/strip/false/crop/5605x3153+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcd%2F9b%2F8dc73b0c405a9905542cca7e6ab6%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29506346-1077458889-tag-reuters-com-2026-binary-mt1usatoday29506346-baseimage-5605x3736-2026-08-03t191447z-1077458889-mt1usatoday29506346-rtrmadp-3-nfl-pittsburgh-steelers-training-camp.JPG"
+        "date": "Tue, 11 Aug 2026 13:00:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ce25e4a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F799%2Fnbc_pft_turfmonsterne_260810.jpg"
       }
     ]
   }
