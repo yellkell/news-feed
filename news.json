@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-11T17:38:23.955Z",
+  "updated": "2026-08-11T18:33:14.492Z",
   "feed": {
     "VR": [
+      {
+        "title": "TaoLu Turned My VR Headset Into A Martial Arts Dojo",
+        "url": "https://www.uploadvr.com/taolu-turned-my-vr-headset-into-a-martial-arts-dojo/",
+        "summary": "Martial arts simulator TaoLu is a solid option for anyone looking for a change of pace in their VR fitness experiences.",
+        "source": "uploadvr.com",
+        "date": "Tue, 11 Aug 2026 11:22:44 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Talou-Teacher.jpg"
+      },
       {
         "title": "‘Zelda: Breath of the Wild’ VR Mod Nears 1.0 Release, ‘Mario Kart 8’ VR Mod Teased",
         "url": "https://roadtovr.com/nintendo-zelda-botw-vr-mod-full-launch-mario-kart-teased/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Tue, 11 Aug 2026 14:00:43 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/bettervr-mod.png?resize=1368%2C768&quality=80&ssl=1"
-      },
-      {
-        "title": "Walkabout Dungeon Golfer Officially in Production After Fake April Fools Reveal",
-        "url": "https://www.uploadvr.com/walkabout-dungeon-golfer-officially-in-production-after-fake-april-fools-reveal/",
-        "summary": "Walkabout Dungeon Golfer, originally an April Fools Day fake, is now officially in production as a hybrid title with both VR & flatscreen support.",
-        "source": "uploadvr.com",
-        "date": "Mon, 10 Aug 2026 13:44:11 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/walkaboutDungeonGolfer.png"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "No Man's Sky Celebrates 10th Anniversary & Teases Next Update In New Video",
-        "url": "https://www.uploadvr.com/no-mans-sky-celebrates-10th-anniversary-teases-next-update-in-new-video/",
-        "summary": "No Man's Sky celebrates its 10th anniversary with a new video that ends with a teaser for its upcoming 'Cosmos' update.",
+        "title": "Meta Just Cut The Price Of Beat Saber On Quest",
+        "url": "https://www.uploadvr.com/beat-saber-quest-price-cut-meta/",
+        "summary": "Meta just reduced the price of Beat Saber on Quest from $30 to $20.",
         "source": "uploadvr.com",
-        "date": "Mon, 10 Aug 2026 12:59:17 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/No_Man-s_Sky_Hero_Art_1920x1080.jpg"
+        "date": "Tue, 11 Aug 2026 10:46:36 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/beat-saber-price-drop.webp"
       },
       {
         "title": "Apple Brings Live MLB Games to Vision Pro Starting August 28",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
-        "title": "Why your Amazon order confirmation emails have become so unhelpful",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-        "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and…",
-        "source": "theverge.com",
-        "date": "2026-08-11T09:27:20-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
         "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
         "summary": "Why passkey apps treat Windows differently than other operating systems.",
         "source": "arstechnica.com",
         "date": "Tue, 11 Aug 2026 11:30:08 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg"
+      },
+      {
+        "title": "Mark Zuckerberg doesn’t understand how to live",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+        "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline…",
+        "source": "theverge.com",
+        "date": "2026-08-10T18:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Spotify says it won’t recommend music from ‘AI Personas’",
-        "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-        "summary": "Spotify will soon label AI artists and remove their music from your recommendations.",
+        "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+        "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+        "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500…",
         "source": "theverge.com",
-        "date": "2026-08-11T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-10T11:19:05-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Jaguars list Bhayshul Tuten or Chris Rodriguez as No. 1 running back",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-list-bhayshul-tuten-or-chris-rodriguez-as-no-1-running-back",
+        "summary": "Jaguars head coach Liam Coen said last month that the team is expecting running back Bhayshul Tuten to have a big year for them, but Tuten has not nailed down the top spot on the…",
+        "source": "nbcsports.com",
+        "date": "Tue, 11 Aug 2026 14:16:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/21fc6cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F202%2F131%2Fnbc_pft_liamcoen_260803.jpg"
+      },
+      {
+        "title": "Jacoby Brissett, Cardinals starters to play vs. Raiders on Thursday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-cardinals-starters-to-play-vs-raiders-on-thursday",
+        "summary": "The Cardinals will be playing their starters this week.",
+        "source": "nbcsports.com",
+        "date": "Tue, 11 Aug 2026 14:11:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f38b80/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F99%2Fnbc_pft_carson_beck_260807.jpg"
+      },
+      {
+        "title": "Todd Monken: End of Monday's practice was awful, s—y football",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-end-of-mondays-practice-was-awful-s-y-football",
+        "summary": "Multiple reporters on the Browns beat noted how the end of Monday's practice was sloppy, with head coach Todd Monken becoming animated over the offense's pre-snap penalties and…",
+        "source": "nbcsports.com",
+        "date": "Tue, 11 Aug 2026 13:42:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/002c6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F154%2F207%2FShedeurSanders8-11mPX.jpg"
+      },
       {
         "title": "Christian McCaffrey remains out of practice Tuesday, Mike Evans suits up",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-remains-out-of-practice-tuesday-mike-evans-suits-up",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 11 Aug 2026 13:15:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9513aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F703%2Fnbc_pft_underradar_260803.jpg"
-      },
-      {
-        "title": "Qwan'tez Stiggers appears to be OK after he was stretchered off Jets' practice field",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/qwantez-stiggers-appears-to-be-ok-after-he-was-stretchered-off-jets-practice-field",
-        "summary": "Jets cornerback Qwan'tez Stiggers had to be taken off the field on a stretcher today, but after practice, Jets coach Aaron Glenn suggested that Stiggers is going to be OK.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 13:12:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8f8598/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F484%2F591%2Fnbc_pftpm_genosmith_260715.jpg"
-      },
-      {
-        "title": "Anthony Richardson to start Thursday vs. Patriots, Daniel Jones won't play in preseason",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-to-start-thursday-vs-patriots-daniel-jones-wont-play-in-preseason",
-        "summary": "Quarterback Anthony Richardson may not know what’s going on with his trade request, but he may be able to entice a team to acquire his services soon.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 13:01:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/002c6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F154%2F207%2FShedeurSanders8-11mPX.jpg"
-      },
-      {
-        "title": "Christian Gonzalez did not practice on Tuesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-did-not-practice-on-tuesday",
-        "summary": "The Patriots joined the Colts for practice on Tuesday, but they were missing one of their top players.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 13:00:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ce25e4a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F799%2Fnbc_pft_turfmonsterne_260810.jpg"
       }
     ]
   }
