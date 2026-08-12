@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T21:26:35.416Z",
+  "updated": "2026-08-12T22:09:03.647Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Terabytes of credentials leaked in massive supply-chain attack",
+        "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+        "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+        "source": "arstechnica.com",
+        "date": "Wed, 12 Aug 2026 21:43:21 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
+      },
+      {
         "title": "Twitch streamers can now opt out from training Amazon’s AI",
         "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
         "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models.",
         "source": "theverge.com",
         "date": "2026-08-12T13:29:10-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-        "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-        "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
-        "source": "arstechnica.com",
-        "date": "Wed, 12 Aug 2026 00:08:40 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -85,12 +85,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Chrome adopts what may be the best protection yet against account takeovers",
-        "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-        "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+        "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+        "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+        "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
         "source": "arstechnica.com",
-        "date": "Tue, 11 Aug 2026 20:59:52 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg"
+        "date": "Wed, 12 Aug 2026 00:08:40 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Aaron Rodgers \"bummed\" that Thursday's game isn't in Green Bay",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-bummed-that-thursdays-game-isnt-in-green-bay",
+        "summary": "Steelers quarterback Aaron Rodgers says that the 2026 season will be his final one as an NFL player and that means he will never play in Green Bay as a visiting player.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 17:50:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b177c9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F196%2F199%2Fnbc_pft_mailbag_260811.jpg"
+      },
+      {
+        "title": "John Harbaugh: Terrion Arnold is a player that can help us",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-terrion-arnold-is-a-player-that-can-help-us",
+        "summary": "Arnold visited the Giants on Wednesday.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 17:37:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/584b307/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_giants_260811.jpg"
+      },
+      {
+        "title": "Kevin Stefanski \"very, very pleased\" with where Michael Penix is in ACL recovery",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-very-very-pleased-with-where-michael-penix-is-in-acl-recovery",
+        "summary": "Falcons quarterback Michael Penix has still not been fully cleared to return from his November ACL tear, but the team thinks Penix is exactly where he needs to be at this point in…",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 17:34:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d8780b3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F414%2Fnbc_pft_bijanV2_260804.jpg"
+      },
       {
         "title": "Bo Nix won't play Friday, but will play final two preseason games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-wont-play-friday-but-will-play-final-two-preseason-games",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 12 Aug 2026 16:37:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b6e414/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F275%2F803%2Fnbc_pft_kyler_murray_healthy_260812.jpg"
-      },
-      {
-        "title": "Odell Beckham will play in the Giants' preseason opener Saturday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-will-play-in-the-giants-preseason-opener-saturday",
-        "summary": "Giants wide receiver Odell Beckham Jr. will play his first game in more than two years on Saturday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 16:32:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/584b307/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_giants_260811.jpg"
-      },
-      {
-        "title": "49ers add RB Zamir White",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-add-rb-zamir-white",
-        "summary": "San Francisco has elected to add one of the running backs the club worked out this week.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 16:22:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fd1ec60/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F276%2F779%2FCMCMPX8-12.jpg"
-      },
-      {
-        "title": "Patriots sign RB Hassan Haskins",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-sign-rb-hassan-haskins",
-        "summary": "The Patriots made a change to their running back group on Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 16:11:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d97854/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F255%2Fnbc_pft_mike_vrabel_260812.jpg"
       }
     ]
   }
