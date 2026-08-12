@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T01:44:12.984Z",
+  "updated": "2026-08-12T03:50:40.575Z",
   "feed": {
     "VR": [
       {
@@ -53,6 +53,30 @@
     ],
     "AI": [
       {
+        "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+        "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+        "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare…",
+        "source": "theverge.com",
+        "date": "2026-08-11T20:39:26-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+        "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+        "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+        "source": "arstechnica.com",
+        "date": "Wed, 12 Aug 2026 00:08:40 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg"
+      },
+      {
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list…",
+        "source": "venturebeat.com",
+        "date": "Tue, 19 May 2026 17:45:00 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
+      },
+      {
         "title": "Chrome adopts what may be the best protection yet against account takeovers",
         "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
         "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
@@ -69,30 +93,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list…",
-        "source": "venturebeat.com",
-        "date": "Tue, 19 May 2026 17:45:00 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
-      },
-      {
-        "title": "Another OpenAI executive takes off",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-        "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab.",
-        "source": "theverge.com",
-        "date": "2026-08-11T13:50:01-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-        "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-        "summary": "Why passkey apps treat Windows differently than other operating systems.",
-        "source": "arstechnica.com",
-        "date": "Tue, 11 Aug 2026 11:30:08 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg"
-      },
-      {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
         "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
         "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100…",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "As contract year approaches, Baker Mayfield \"feels great\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-contract-year-approaches-baker-mayfield-feels-great",
+        "summary": "With no new contract coming, Buccaneers quarterback Baker Mayfield needs to be ready to get the most out of the bet he'd making on himself.",
+        "source": "nbcsports.com",
+        "date": "Tue, 11 Aug 2026 23:43:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/48cbc41/2147483647/strip/false/crop/3094x1740+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2F3e%2Fffdf0d604183917c5bc2779446c0%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29534935-1205491340-tag-reuters-com-2026-binary-mt1usatoday29534935-baseimage-3094x2063-2026-08-07t140216z-1205491340-mt1usatoday29534935-rtrmadp-3-nfl-tampa-bay-buccaneers-training-camp.JPG"
+      },
+      {
+        "title": "Report: Alleged scam artist was \"desperately\" seeking $75,000 loan on the day he died",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alleged-scam-artist-was-desperately-seeking-75-000-loan-on-the-day-he-died",
+        "summary": "The case of Mohamed Coulibaly is sending shock waves throughout the NFL, as it relates to many people in the league (including coaches, executives, and players) who actually…",
+        "source": "nbcsports.com",
+        "date": "Tue, 11 Aug 2026 21:56:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2265046/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F225%2F3%2Fnbc_pft_shanahanaccidentv2_260811.jpg"
+      },
       {
         "title": "Kyler Murray knows his running ability will make a difference when it's time to play games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-knows-his-running-ability-will-make-a-difference-when-its-time-to-play-games",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 11 Aug 2026 19:39:10 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/78020d4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F299%2Fnbc_pft_aarondonald_260810.jpg"
-      },
-      {
-        "title": "Kyle Shanahan downplays concern over Christian McCaffrey's practice absence",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-downplays-concern-over-christian-mccaffreys-practice-absence",
-        "summary": "49ers running back Christian McCaffrey missed practice again Tuesday.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 18:39:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b177c9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F196%2F199%2Fnbc_pft_mailbag_260811.jpg"
-      },
-      {
-        "title": "Falcons claim OG Jaeden Roberts off waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-claim-og-jaeden-roberts-off-waivers",
-        "summary": "The Falcons claimed offensive guard Jaeden Roberts off waivers, the team announced Tuesday.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 17:48:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d8780b3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F414%2Fnbc_pft_bijanV2_260804.jpg"
       }
     ]
   }
