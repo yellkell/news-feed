@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T18:34:08.215Z",
+  "updated": "2026-08-12T19:46:07.694Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Twitch streamers can now opt out from training Amazon’s AI",
-        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-        "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models.",
+        "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+        "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+        "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood,…",
         "source": "theverge.com",
-        "date": "2026-08-12T13:29:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-12T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-        "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video.",
+        "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+        "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog?",
         "source": "theverge.com",
-        "date": "2026-08-12T11:52:07-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-12T08:09:34-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Chrome adopts what may be the best protection yet against account takeovers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Report: Emeka Egbuka has a minor toe injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-emeka-egbuka-has-a-minor-toe-injury",
+        "summary": "Buccaneers head coach Todd Bowles didn't have an update on wide receiver Emeka Egbuka after Wednesday's practice, but it looks like Egbuka avoided a serious injury.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 15:07:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/716550c/2147483647/strip/false/crop/5101x2869+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4c%2Fb2%2F461cfdab4896b83efc453970f111%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29486336-984817264-tag-reuters-com-2026-binary-mt1usatoday29486336-baseimage-5101x3401-2026-07-31t141334z-984817264-mt1usatoday29486336-rtrmadp-3-nfl-tampa-bay-buccaneers-training-camp.JPG"
+      },
+      {
+        "title": "Travis Kelce: Wedding to Taylor Swift \"was the best night of my life\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-wedding-to-taylor-swift-was-the-best-night-of-my-life",
+        "summary": "Travis Kelce's wedding to Taylor Swift in July was the celebrity social event of the summer, as the couple assembled guests at Madison Square Garden in New York for the occasion.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 15:04:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/337f270/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F274%2F827%2Fnbc_pft_rasheerice_260812.jpg"
+      },
+      {
+        "title": "Texans sign K Chris Freeman",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-k-chris-freeman",
+        "summary": "The Texans signed kicker Chris Freeman on Wednesday, the team announced.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 14:56:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1ae2bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F874%2F3%2Fnbc_pft_cj_gardner_johnson_260807.jpg"
+      },
+      {
+        "title": "Panthers plan to play RB Jonathon Brooks with first team on Saturday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-plan-to-play-rb-jonathon-brooks-with-first-team-on-saturday",
+        "summary": "Panthers running back Jonathon Brooks is slated to play in his first NFL preseason game this weekend and the team plans to have him see early action against the Bills.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 14:37:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
+      },
+      {
+        "title": "Raiders sign OL Braeden Daniels",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-sign-ol-braeden-daniels",
+        "summary": "The Raiders signed offensive lineman Braeden Daniels, the team announced Wednesday.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 14:32:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12c16f8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F51%2F178%2Fnbc_pft_fightnight_260810.jpg"
+      },
+      {
         "title": "Tua Tagovailoa to start first preseason game, but not named QB1 for regular season",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-to-start-first-preseason-game-but-not-named-qb1-for-regular-season",
         "summary": "Tua Tagovailoa is going to get another chance to create some separation in Atlanta's quarterback competition.",
         "source": "nbcsports.com",
         "date": "Wed, 12 Aug 2026 13:58:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/511e218/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F454%2F83%2Fnbc_pft_nfcsouthV3_260804.jpg"
-      },
-      {
-        "title": "Steve Keim apologizes to those who were hurt by Mohamed Coulibaly's alleged scams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steve-keim-apologizes-to-those-who-were-hurt-by-mohamed-coulibalys-scams",
-        "summary": "It's been a strange time for Cardinals G.M.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 13:51:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/42d398f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F274%2F327%2Fnbc_pft_kyler_murray_260812.jpg"
-      },
-      {
-        "title": "Todd Monken says starting QB will play first half vs. Bears, but doesn't announce who it is",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-says-starting-qb-will-play-first-half-vs-bears-but-doesnt-announce-who-it-is",
-        "summary": "While Browns head coach Todd Monken again declined to announce who will start at quarterback in the club's first preseason game, he did give reporters an idea of planned playing…",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 13:33:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/002c6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F154%2F207%2FShedeurSanders8-11mPX.jpg"
-      },
-      {
-        "title": "Emeka Egbuka limps off at practice, Todd Bowles has no update",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/emeka-egbuka-limps-off-at-practice-todd-bowles-has-no-update",
-        "summary": "The Buccaneers did not have an immediate update on wide receiver Emeka Egbuka's status after Wednesday's joint practice with the Jets wrapped up.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 12:59:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f7b430a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F155%2F683%2Fnbc_pft_vitavea_260811.jpg"
-      },
-      {
-        "title": "UFL co-owner Mike Repole apologizes to Battlehawks, Defenders for attendance drops",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ufl-co-owner-mike-repole-apologizes-to-battlehawks-defenders-for-attendance-drops",
-        "summary": "As the UFL continues its planning for the 2027 season, it's reflecting on some of the failures from 2026.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 12:49:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc85eef/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F153%2F187%2Fnbc_pftpm_ufl_v2_260618.jpg"
-      },
-      {
-        "title": "Shedeur Sanders says blister on hand has healed",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-says-blister-on-hand-has-healed",
-        "summary": "In recent days, there's been chatter that Browns quarterback Shedeur Sanders has been dealing with a blister on his hand that's affected his throwing.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 12:48:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/002c6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F154%2F207%2FShedeurSanders8-11mPX.jpg"
       }
     ]
   }
