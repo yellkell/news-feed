@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T19:46:07.694Z",
+  "updated": "2026-08-12T20:34:43.445Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-        "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-        "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood,…",
+        "title": "Twitch streamers can now opt out from training Amazon’s AI",
+        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+        "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models.",
         "source": "theverge.com",
-        "date": "2026-08-12T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-12T13:29:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-        "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog?",
+        "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+        "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video.",
         "source": "theverge.com",
-        "date": "2026-08-12T08:09:34-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-12T11:52:07-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Chrome adopts what may be the best protection yet against account takeovers",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "49ers add RB Zamir White",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-add-rb-zamir-white",
+        "summary": "San Francisco has elected to add one of the running backs the club worked out this week.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 16:22:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fd1ec60/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F276%2F779%2FCMCMPX8-12.jpg"
+      },
+      {
+        "title": "Patriots sign RB Hassan Haskins",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-sign-rb-hassan-haskins",
+        "summary": "The Patriots made a change to their running back group on Wednesday.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 16:11:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d97854/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F255%2Fnbc_pft_mike_vrabel_260812.jpg"
+      },
+      {
+        "title": "NFL faces AI accusations over new content on \"Move the Sticks\" podcast feed",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-faces-ai-accusations-over-new-content-on-move-the-sticks-podcast-feed",
+        "summary": "As AI becomes more and more prevalent in society, it's also quietly infiltrating sports media.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 16:10:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a4028d9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F223%2F551%2Fnbc_pft_grudenlawsuitv2_260811.jpg"
+      },
+      {
+        "title": "Saints place OL Dillon Radunz on IR, sign DT Kahlil Saunders",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-place-ol-dillon-radunz-on-ir-sign-dt-kahlil-saunders",
+        "summary": "The Saints signed free agent defensive tackle Kahlil Saunders on Wednesday, the team announced.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 15:46:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9513aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F703%2Fnbc_pft_underradar_260803.jpg"
+      },
+      {
         "title": "Report: Emeka Egbuka has a minor toe injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-emeka-egbuka-has-a-minor-toe-injury",
         "summary": "Buccaneers head coach Todd Bowles didn't have an update on wide receiver Emeka Egbuka after Wednesday's practice, but it looks like Egbuka avoided a serious injury.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 12 Aug 2026 15:04:30 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/337f270/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F274%2F827%2Fnbc_pft_rasheerice_260812.jpg"
-      },
-      {
-        "title": "Texans sign K Chris Freeman",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-k-chris-freeman",
-        "summary": "The Texans signed kicker Chris Freeman on Wednesday, the team announced.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 14:56:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1ae2bf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F874%2F3%2Fnbc_pft_cj_gardner_johnson_260807.jpg"
-      },
-      {
-        "title": "Panthers plan to play RB Jonathon Brooks with first team on Saturday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-plan-to-play-rb-jonathon-brooks-with-first-team-on-saturday",
-        "summary": "Panthers running back Jonathon Brooks is slated to play in his first NFL preseason game this weekend and the team plans to have him see early action against the Bills.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 14:37:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
-      },
-      {
-        "title": "Raiders sign OL Braeden Daniels",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-sign-ol-braeden-daniels",
-        "summary": "The Raiders signed offensive lineman Braeden Daniels, the team announced Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 14:32:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12c16f8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F51%2F178%2Fnbc_pft_fightnight_260810.jpg"
-      },
-      {
-        "title": "Tua Tagovailoa to start first preseason game, but not named QB1 for regular season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-to-start-first-preseason-game-but-not-named-qb1-for-regular-season",
-        "summary": "Tua Tagovailoa is going to get another chance to create some separation in Atlanta's quarterback competition.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 13:58:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/511e218/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F454%2F83%2Fnbc_pft_nfcsouthV3_260804.jpg"
       }
     ]
   }
