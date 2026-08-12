@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T16:33:42.265Z",
+  "updated": "2026-08-12T17:39:23.195Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-        "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-        "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood,…",
+        "title": "Twitch streamers can now opt out from training Amazon’s AI",
+        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+        "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models.",
         "source": "theverge.com",
-        "date": "2026-08-12T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-12T13:29:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-        "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog?",
+        "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+        "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video.",
         "source": "theverge.com",
-        "date": "2026-08-12T08:09:34-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-12T11:52:07-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Chrome adopts what may be the best protection yet against account takeovers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Todd Monken says starting QB will play first half vs. Bears, but doesn't announce who it is",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-says-starting-qb-will-play-first-half-vs-bears-but-doesnt-announce-who-it-is",
+        "summary": "While Browns head coach Todd Monken again declined to announce who will start at quarterback in the club's first preseason game, he did give reporters an idea of planned playing…",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 13:33:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/002c6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F154%2F207%2FShedeurSanders8-11mPX.jpg"
+      },
+      {
+        "title": "Emeka Egbuka limps off at practice, Todd Bowles has no update",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/emeka-egbuka-limps-off-at-practice-todd-bowles-has-no-update",
+        "summary": "The Buccaneers did not have an immediate update on wide receiver Emeka Egbuka's status after Wednesday's joint practice with the Jets wrapped up.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 12:59:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f7b430a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F155%2F683%2Fnbc_pft_vitavea_260811.jpg"
+      },
+      {
+        "title": "UFL co-owner Mike Repole apologizes to Battlehawks, Defenders for attendance drops",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ufl-co-owner-mike-repole-apologizes-to-battlehawks-defenders-for-attendance-drops",
+        "summary": "As the UFL continues its planning for the 2027 season, it's reflecting on some of the failures from 2026.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 12:49:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc85eef/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F153%2F187%2Fnbc_pftpm_ufl_v2_260618.jpg"
+      },
+      {
+        "title": "Shedeur Sanders says blister on hand has healed",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-says-blister-on-hand-has-healed",
+        "summary": "In recent days, there's been chatter that Browns quarterback Shedeur Sanders has been dealing with a blister on his hand that's affected his throwing.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 12:48:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/002c6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F154%2F207%2FShedeurSanders8-11mPX.jpg"
+      },
+      {
+        "title": "Kellen Moore: Good visit with Terrion Arnold, collecting as much info as we can",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-good-visit-with-terrion-arnold-collecting-as-much-info-as-we-can",
+        "summary": "Cornerback Terrion Arnold's search for a new team brought him to New Orleans on Tuesday.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 12:37:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9513aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F703%2Fnbc_pft_underradar_260803.jpg"
+      },
+      {
         "title": "Bills sign CB Anthony Kendall",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-sign-cb-anthony-kendall",
         "summary": "The Bills are dealing with injuries at cornerback, so they signed a healthy player to bolster the group on Wednesday.",
         "source": "nbcsports.com",
         "date": "Wed, 12 Aug 2026 12:21:12 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
-      },
-      {
-        "title": "Vikings sign RB Jermar Jefferson, waive RB Jordan Mims",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-rb-jermar-jefferson-waive-rb-jordan-mims",
-        "summary": "The Vikings have announced a couple of roster moves on Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 11:47:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10f050d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F276%2F779%2Fnbc_pft_jj_mccarthy_rams_260812.jpg"
-      },
-      {
-        "title": "Dolphins' depth chart has third-round pick Caleb Douglas as a starting wide receiver",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-depth-chart-has-third-round-pick-caleb-douglas-as-a-starting-wide-receiver",
-        "summary": "Dolphins rookie wide receiver Caleb Douglas has earned his way into the starting lineup in Miami.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 11:45:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1dcc62/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F278%2F731%2Fnbc_pft_achane_260812.jpg"
-      },
-      {
-        "title": "Damien Woody will exit ESPN, after 15 years",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/damien-woody-will-exit-espn-after-15-years",
-        "summary": "The purge of former NFL players continues at ESPN.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 11:44:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/309730f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_espnclark_260721.jpg"
-      },
-      {
-        "title": "Lakers sell (again) at a record valuation of $12.5 billion",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lakers-sell-again-at-a-record-valuation-of-12-5-billion",
-        "summary": "Twelve years after Steve Ballmer bought the L.A.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 11:16:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/63974f0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F278%2F731%2Fnbc_pft_puka_260812.jpg"
-      },
-      {
-        "title": "Inside the new Quinnen Williams contract",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-new-quinnen-williams-contract",
-        "summary": "The Cowboys recently added three new years to the two remaining seasons on defensive tackle Quinnen Williams's contract.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 10:54:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/99ede1f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F155%2F683%2Fnbc_pft_quinnen_260811.jpg"
       }
     ]
   }
