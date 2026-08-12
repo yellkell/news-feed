@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-12T15:38:59.174Z",
+  "updated": "2026-08-12T16:33:42.265Z",
   "feed": {
     "VR": [
+      {
+        "title": "Hit VR Game ‘Beat Saber’ Gets First Price Cut After 7 Years, and I Think I know Why",
+        "url": "https://roadtovr.com/hit-vr-game-beat-saber-gets-first-price-cut-after-7-years-and-i-think-i-know-why/",
+        "summary": "Breakout VR rhythm game Beat Saber has been priced at $30 ever since its 2019 launch, and has never once gone on sale since.",
+        "source": "roadtovr.com",
+        "date": "Wed, 12 Aug 2026 16:20:21 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/beat-saber-logo.jpg?resize=1204%2C802&quality=89&ssl=1"
+      },
       {
         "title": "VR Games You Can Playtest To Help Bring To Market",
         "url": "https://www.uploadvr.com/vr-games-you-can-playtest-to-help-bring-to-market/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Tue, 11 Aug 2026 16:59:18 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/beta-testing-081126.png"
-      },
-      {
-        "title": "‘Zelda: Breath of the Wild’ VR Mod Nears 1.0 Release, ‘Mario Kart 8’ VR Mod Teased",
-        "url": "https://roadtovr.com/nintendo-zelda-botw-vr-mod-full-launch-mario-kart-teased/",
-        "summary": "Crementif released the ‘BetterVR’ mod for Nintendo’s The Legend of Zelda: Breath of the Wild (2017) last December, bringing full 6DOF support and motion controls to the game on PC…",
-        "source": "roadtovr.com",
-        "date": "Tue, 11 Aug 2026 14:00:43 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/bettervr-mod.png?resize=1368%2C768&quality=80&ssl=1"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -35,12 +35,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/pressreleaseimagecwsxneem-1024x576.png"
       },
       {
-        "title": "Apple Brings Live MLB Games to Vision Pro Starting August 28",
-        "url": "https://roadtovr.com/apple-mlb-live-immersive-games-schedule-2026/",
-        "summary": "Apple and Major League Baseball (MLB) announced they’re bringing a handful of live baseball games to Vision Pro, with livestreamed games starting on August 28th.",
+        "title": "‘Zelda: Breath of the Wild’ VR Mod Nears 1.0 Release, ‘Mario Kart 8’ VR Mod Teased",
+        "url": "https://roadtovr.com/nintendo-zelda-botw-vr-mod-full-launch-mario-kart-teased/",
+        "summary": "Crementif released the ‘BetterVR’ mod for Nintendo’s The Legend of Zelda: Breath of the Wild (2017) last December, bringing full 6DOF support and motion controls to the game on PC…",
         "source": "roadtovr.com",
-        "date": "Mon, 10 Aug 2026 14:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Tue, 11 Aug 2026 14:00:43 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/bettervr-mod.png?resize=1368%2C768&quality=80&ssl=1"
       },
       {
         "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Bills sign CB Anthony Kendall",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-sign-cb-anthony-kendall",
+        "summary": "The Bills are dealing with injuries at cornerback, so they signed a healthy player to bolster the group on Wednesday.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 12:21:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
+      },
+      {
+        "title": "Vikings sign RB Jermar Jefferson, waive RB Jordan Mims",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-rb-jermar-jefferson-waive-rb-jordan-mims",
+        "summary": "The Vikings have announced a couple of roster moves on Wednesday.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 11:47:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10f050d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F276%2F779%2Fnbc_pft_jj_mccarthy_rams_260812.jpg"
+      },
+      {
+        "title": "Dolphins' depth chart has third-round pick Caleb Douglas as a starting wide receiver",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-depth-chart-has-third-round-pick-caleb-douglas-as-a-starting-wide-receiver",
+        "summary": "Dolphins rookie wide receiver Caleb Douglas has earned his way into the starting lineup in Miami.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 11:45:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1dcc62/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F278%2F731%2Fnbc_pft_achane_260812.jpg"
+      },
+      {
+        "title": "Damien Woody will exit ESPN, after 15 years",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/damien-woody-will-exit-espn-after-15-years",
+        "summary": "The purge of former NFL players continues at ESPN.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 11:44:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/309730f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F130%2F1011%2Fnbc_pftpm_espnclark_260721.jpg"
+      },
+      {
         "title": "Lakers sell (again) at a record valuation of $12.5 billion",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lakers-sell-again-at-a-record-valuation-of-12-5-billion",
         "summary": "Twelve years after Steve Ballmer bought the L.A.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 12 Aug 2026 10:54:17 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/99ede1f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F155%2F683%2Fnbc_pft_quinnen_260811.jpg"
-      },
-      {
-        "title": "Panthers get G Damien Lewis back at practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-get-g-damien-lewis-back-at-practice",
-        "summary": "The Panthers got a starting offensive lineman back on the practice field Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 10:38:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
-      },
-      {
-        "title": "Tyus Bowser worked out for Browns on Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyus-bowser-worked-out-for-browns-on-wednesday",
-        "summary": "The Browns are taking a look at some veteran help on defense.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 10:34:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/002c6e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F154%2F207%2FShedeurSanders8-11mPX.jpg"
-      },
-      {
-        "title": "Seahawks seem to think Terrion Arnold would be available to play in preseason",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-seem-to-think-terrion-arnold-would-be-available-to-play-in-preseason",
-        "summary": "The second episode of Hard Knocks featuring the Seahawks (which was grossly overhyped as potentially the best episode in series history) included multiple references to the team's…",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 10:31:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3863ebc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F276%2F779%2Fnbc_pft_witherspoon_260812.jpg"
-      },
-      {
-        "title": "Ravens place QB Skylar Thompson on IR, sign QB Austin Reed",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-place-qb-skylar-thompson-on-ir-sign-qb-austin-reed",
-        "summary": "The Ravens have made a pair of moves at the quarterback position.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 10:22:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
       }
     ]
   }
