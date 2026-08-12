@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T12:09:52.177Z",
+  "updated": "2026-08-12T13:43:07.085Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
-        "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-        "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare…",
+        "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+        "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog?",
         "source": "theverge.com",
-        "date": "2026-08-11T20:39:26-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-12T08:09:34-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
@@ -77,20 +77,20 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
+        "title": "Grok is now an AI ‘teammate’ you can assign work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+        "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you.",
+        "source": "theverge.com",
+        "date": "2026-08-12T07:58:54-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Chrome adopts what may be the best protection yet against account takeovers",
         "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
         "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
         "source": "arstechnica.com",
         "date": "Tue, 11 Aug 2026 20:59:52 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg"
-      },
-      {
-        "title": "ChatGPT and Gemini both just passed 1 billion users",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-        "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's…",
-        "source": "theverge.com",
-        "date": "2026-08-11T15:41:42-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -102,6 +102,38 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Rashee Rice: Jail time was \"learning experience\" and \"reality check\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashee-rice-jail-time-was-learning-experience-and-reality-check",
+        "summary": "Chiefs receiver Rashee Rice had an unexpected 30-day offseason jail stint, due to a positive THC test while on probation for felony charges arising from a 2024 street-racing…",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 09:31:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/337f270/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F274%2F827%2Fnbc_pft_rasheerice_260812.jpg"
+      },
+      {
+        "title": "Devon Witherspoon: Contract extension or not, I have to be prepared for the season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devon-witherspoon-contract-extension-or-not-i-have-to-be-prepared-for-the-season",
+        "summary": "Cornerback Devon Witherspoon has not been able to come to an agreement on a contract extension with the Seahawks, but he hasn't let that impact his training camp participation this…",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 09:13:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c4b3c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_grassvturf_260811.jpg"
+      },
+      {
+        "title": "Report: Nate Wiggins avoided structural damage in Tuesday's injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-nate-wiggins-avoided-structural-damage-in-tuesdays-injury",
+        "summary": "Ravens head coach Jesse Minter said there was optimism that cornerback Nate Wiggins avoided a serious injury after Wiggins was carted off at Tuesday's practice and further testing…",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 08:23:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
+      },
+      {
+        "title": "Vic Fangio, Jalen Carter see a faster Jalen Hurts this summer",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vic-fangio-jalen-carter-see-a-faster-jalen-hurts-this-summer",
+        "summary": "Eagles defensive coordinator Vic Fangio has been squaring off with Jalen Hurts in practices for a few years now and that makes him a good source to find out if there's anything…",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 08:03:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d07c6d7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F44%2F847%2Fnbc_pft_lanejohnson_260810.jpg"
+      },
       {
         "title": "Aaron Rodgers: I don't think there's any advantage to playing in the preseason",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-i-dont-think-theres-any-advantage-to-playing-in-the-preseason",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 12 Aug 2026 06:12:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e4ab515/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F141%2F203%2Fnbc_pft_joenamath_260521.jpg"
-      },
-      {
-        "title": "Sean Payton, Dan Campbell reflect on Teddy Bridgewater's 5-0 run with the 2019 Saints",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-dan-campbell-reflect-on-teddy-bridgewaters-5-0-run-with-the-2019-saints",
-        "summary": "When Drew Brees got hurt, Bridgwater kept the Saints' season alive.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 05:30:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5f5898f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F299%2Fnbc_pft_bridgewater_260810.jpg"
-      },
-      {
-        "title": "Puka Nacua reportedly dealing with only minor soreness in his groin",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-reportedly-dealing-with-only-minor-soreness-in-his-groin",
-        "summary": "Nacua, the star receiver heading into the final year of his rookie contract, appears to have avoided a significant injury.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 04:26:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/94d3cd2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F730%2F535%2Fnbc_pft_puka_260730.jpg"
-      },
-      {
-        "title": "CBS continues to talk to NFL about a new broadcast deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-continues-to-talk-to-nfl-about-a-new-broadcast-deal",
-        "summary": "The question of whether Tony Romo will continue to call NFL games for CBS has somewhat obscured the question of whether CBS will continue to broadcast NFL games.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 00:22:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a4028d9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F223%2F551%2Fnbc_pft_grudenlawsuitv2_260811.jpg"
-      },
-      {
-        "title": "As contract year approaches, Baker Mayfield \"feels great\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-contract-year-approaches-baker-mayfield-feels-great",
-        "summary": "With no new contract coming, Buccaneers quarterback Baker Mayfield needs to be ready to get the most out of the bet he'd making on himself.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 23:43:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/48cbc41/2147483647/strip/false/crop/3094x1740+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2F3e%2Fffdf0d604183917c5bc2779446c0%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29534935-1205491340-tag-reuters-com-2026-binary-mt1usatoday29534935-baseimage-3094x2063-2026-08-07t140216z-1205491340-mt1usatoday29534935-rtrmadp-3-nfl-tampa-bay-buccaneers-training-camp.JPG"
       }
     ]
   }
