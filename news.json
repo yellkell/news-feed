@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T03:50:40.575Z",
+  "updated": "2026-08-12T05:25:32.205Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "CBS continues to talk to NFL about a new broadcast deal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-continues-to-talk-to-nfl-about-a-new-broadcast-deal",
+        "summary": "The question of whether Tony Romo will continue to call NFL games for CBS has somewhat obscured the question of whether CBS will continue to broadcast NFL games.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 00:22:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a4028d9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F223%2F551%2Fnbc_pft_grudenlawsuitv2_260811.jpg"
+      },
+      {
         "title": "As contract year approaches, Baker Mayfield \"feels great\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-contract-year-approaches-baker-mayfield-feels-great",
         "summary": "With no new contract coming, Buccaneers quarterback Baker Mayfield needs to be ready to get the most out of the bet he'd making on himself.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 11 Aug 2026 19:53:51 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6403ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F453%2F107%2Fnbc_pft_taysomhill_260804.jpg"
-      },
-      {
-        "title": "Sean McVay: \"No new news\" on Aaron Donald",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-no-new-news-on-aaron-donald",
-        "summary": "Everyone is waiting for Aaron Donald to decide whether he'll end a two-year retirement and return to football.",
-        "source": "nbcsports.com",
-        "date": "Tue, 11 Aug 2026 19:39:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/78020d4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F299%2Fnbc_pft_aarondonald_260810.jpg"
       }
     ]
   }
