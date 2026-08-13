@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-13T15:40:06.068Z",
+  "updated": "2026-08-13T16:33:22.673Z",
   "feed": {
     "VR": [
       {
-        "title": "Breachers Gets A New Map & Expands Custom Game Settings",
-        "url": "https://www.uploadvr.com/breachers-headquarters-map-expanded-custom-game-settings/",
-        "summary": "Breachers added a new map, Headquarters, and a slew of new custom game settings for lobby leaders to create their own game modes.",
+        "title": "Laser Dance Gets a Major \"Mimic Update\" Today",
+        "url": "https://www.uploadvr.com/laser-dance-mimic-update-2/",
+        "summary": "An update for Laser Dance released today which brings six new levels to the game and introduces a new green laser that only moves when you move.",
         "source": "uploadvr.com",
-        "date": "Thu, 13 Aug 2026 08:10:11 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Breachers_KeyArt_2560x1440.png"
+        "date": "Thu, 13 Aug 2026 09:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/LaserDance_MimicUpdate_Landscape.png"
       },
       {
         "title": "Quest’s Second Best-selling VR Game of All Time is Getting a Flatscreen Sequel",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "Stuffed: Two Foot Hero Is A New VR Wave Shooter Coming To SteamVR & Meta Quest",
-        "url": "https://www.uploadvr.com/stuffed-two-foot-hero-is-a-new-vr-wave-shooter-coming-to-steamvr-meta-quest/",
-        "summary": "Waving Bear Studio has announced Stuffed: Two Foot Hero, a new VR wave shooter coming to SteamVR and Meta Quest this fall.",
+        "title": "Breachers Gets A New Map & Expands Custom Game Settings",
+        "url": "https://www.uploadvr.com/breachers-headquarters-map-expanded-custom-game-settings/",
+        "summary": "Breachers added a new map, Headquarters, and a slew of new custom game settings for lobby leaders to create their own game modes.",
         "source": "uploadvr.com",
-        "date": "Thu, 13 Aug 2026 07:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/STUFFEDTwoFootHero_Poster_4K.png"
+        "date": "Thu, 13 Aug 2026 08:10:11 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Breachers_KeyArt_2560x1440.png"
       },
       {
         "title": "Hit VR Game ‘Beat Saber’ Gets First Price Cut After 7 Years, and I Think I know Why",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
-        "title": "Does Google even want to win at AI?",
-        "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-        "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing…",
-        "source": "theverge.com",
-        "date": "2026-08-13T10:10:31-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Terabytes of credentials leaked in massive supply-chain attack",
         "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
         "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
         "source": "arstechnica.com",
         "date": "Wed, 12 Aug 2026 21:43:21 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
+      },
+      {
+        "title": "Twitch streamers can now opt out from training Amazon’s AI",
+        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+        "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models.",
+        "source": "theverge.com",
+        "date": "2026-08-12T13:29:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-        "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-        "summary": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot…",
+        "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+        "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video.",
         "source": "theverge.com",
-        "date": "2026-08-13T09:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_4636.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-12T11:52:07-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "The 49ers' substation injury theory persists, even after it has been debunked",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-49ers-substation-injury-theory-persists-even-after-it-has-been-debunked",
+        "summary": "In post-truth America, facts routinely take a backseat to opinion.",
+        "source": "nbcsports.com",
+        "date": "Thu, 13 Aug 2026 11:50:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06a06b2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F735%2F339%2Fnbc_pft_49ershurt_260806.jpg"
+      },
+      {
+        "title": "Patrick Mahomes will not play on Saturday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-will-not-play-on-saturday",
+        "summary": "Chiefs head coach Andy Reid said last week that quarterback Patrick Mahomes would probably sit out the team's first preseason game and he gave a more emphatic answer about…",
+        "source": "nbcsports.com",
+        "date": "Thu, 13 Aug 2026 11:42:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/211e1c6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F646%2Fnbc_pft_chiefsconvo_260805.jpg"
+      },
       {
         "title": "Chuba Hubbard week-to-week with hamstring injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chuba-hubbard-week-to-week-with-hamstring-injury",
@@ -132,22 +148,6 @@
         "summary": "Some teams place limits on the things reporters at practice can do.",
         "source": "nbcsports.com",
         "date": "Thu, 13 Aug 2026 10:52:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1834865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_brownsqb_260813.jpg"
-      },
-      {
-        "title": "Browns sign CB Jeremiah McClendon",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-sign-cb-jeremiah-mcclendon",
-        "summary": "The Browns made a pair of roster moves on Thursday morning.",
-        "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 10:45:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1834865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_brownsqb_260813.jpg"
-      },
-      {
-        "title": "Deshaun Watson: I'm 30 now, I've had injuries, my game has definitely changed",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-im-30-now-ive-had-injuries-my-game-has-definitely-changed",
-        "summary": "Deshaun Watson will see his first live, on-field action since midway through the 2024 season on Saturday when the Browns play the Bears in their preseason opener.",
-        "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 10:06:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1834865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_brownsqb_260813.jpg"
       }
     ]
