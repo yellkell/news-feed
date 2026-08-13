@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T22:01:48.314Z",
+  "updated": "2026-08-13T22:59:37.139Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode.",
+        "source": "theverge.com",
+        "date": "2026-08-13T17:42:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
         "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
         "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
         "source": "arstechnica.com",
         "date": "Thu, 13 Aug 2026 19:38:58 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
-      },
-      {
-        "title": "Does Google even want to win at AI?",
-        "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-        "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing…",
-        "source": "theverge.com",
-        "date": "2026-08-13T10:10:31-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-        "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-        "summary": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot…",
+        "title": "OpenAI is losing its second executive this week",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+        "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming…",
         "source": "theverge.com",
-        "date": "2026-08-13T09:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_4636.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-13T15:28:39-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Terabytes of credentials leaked in massive supply-chain attack",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Aaron Rodgers will not play tonight against the Packers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-will-not-play-tonight-against-the-packers",
+        "summary": "The Steelers did not announce their quarterback plans for Thursday night's preseason game against the Packers.",
+        "source": "nbcsports.com",
+        "date": "Thu, 13 Aug 2026 18:43:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f6a9e6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F400%2F803%2Fnbc_pft_jordan_love_260813.jpg"
+      },
+      {
+        "title": "Shedeur Sanders apologizes to reporters for his actions at previous press conference",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-apologizes-to-reporters-for-his-actions-at-previous-press-conference",
+        "summary": "The last time Browns quarterback Shedeur Sanders addressed the media in Cleveland, he got frustrated with a question and short with the reporter who asked it.",
+        "source": "nbcsports.com",
+        "date": "Thu, 13 Aug 2026 18:25:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1834865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_brownsqb_260813.jpg"
+      },
       {
         "title": "Giants WRs coach Chad Hall left bloodied after collision with Malik Nabers' helmet",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-wr-coach-chad-hall-left-bloodied-after-collision-with-malik-nabers-helmet",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 13 Aug 2026 16:37:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6403ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F453%2F107%2Fnbc_pft_taysomhill_260804.jpg"
-      },
-      {
-        "title": "Patriots sign RB JaMycal Hasty",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-sign-rb-jamycal-hasty",
-        "summary": "Running back JaMycal Hasty is back with the Patriots.",
-        "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 16:17:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d97854/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F255%2Fnbc_pft_mike_vrabel_260812.jpg"
-      },
-      {
-        "title": "Report: Cardinals have \"zero long-term worry\" about Carson Beck's rib injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-cardinals-have-zero-long-term-worry-about-carson-becks-rib-injury",
-        "summary": "At times with rib injuries, a minor issue can quickly become major after further examination and tests.",
-        "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 16:14:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f38b80/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F99%2Fnbc_pft_carson_beck_260807.jpg"
       }
     ]
   }
