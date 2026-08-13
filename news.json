@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T03:13:59.191Z",
+  "updated": "2026-08-13T05:05:54.323Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "California court invalidates Rams' arbitration clause as unconscionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/california-court-invalidates-rams-arbitration-clause-as-unconscionable",
+        "summary": "The NFL's in-house arbitration procedure continues to crumble.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 23:33:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/500114a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_rooneyrule_260722.jpg"
+      },
+      {
         "title": "Michael Penix: I can do just about anything but take a hit",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-i-can-do-just-about-anything-but-take-a-hit",
         "summary": "Tua Tagovailoa will start the first preseason game, but the Falcons are not ready to hand him the job for the regular season.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 12 Aug 2026 20:52:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
-      },
-      {
-        "title": "LB Elandon Roberts returning to Pittsburgh on a one-year deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lb-elandon-roberts-returning-to-pittsburgh-on-a-one-year-deal",
-        "summary": "Free agent linebacker Elandon Roberts is returning to Pittsburgh.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 20:43:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b177c9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F196%2F199%2Fnbc_pft_mailbag_260811.jpg"
       }
     ]
   }
