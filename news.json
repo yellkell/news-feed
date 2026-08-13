@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T23:42:16.201Z",
+  "updated": "2026-08-13T00:43:08.236Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Eagles' social-media team highlights a Jalen Hurts interception",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-social-media-team-highlights-a-jalen-hurts-interception",
+        "summary": "The problem with highlighting specific moments from NFL training camp is that one player's good play is another player's bad play.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 19:50:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b177c9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F196%2F199%2Fnbc_pft_mailbag_260811.jpg"
+      },
+      {
+        "title": "Desjuan Johnson on Aaron Donald: He's a little faster, a little hungrier",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/desjuan-johnson-on-aaron-donald-hes-a-little-faster-a-little-hungrier",
+        "summary": "All signs point to Aaron Donald's return this season, though the defensive tackle has not officially announced his decision.",
+        "source": "nbcsports.com",
+        "date": "Wed, 12 Aug 2026 19:38:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/78020d4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F46%2F299%2Fnbc_pft_aarondonald_260810.jpg"
+      },
+      {
         "title": "Jordan Love has \"nothing but great things to say\" about Aaron Rodgers",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-has-nothing-but-great-things-to-say-about-aaron-rodgers",
         "summary": "Jordan Love will play in the Packers' first preseason game on Thursday night.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 12 Aug 2026 17:50:10 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b177c9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F196%2F199%2Fnbc_pft_mailbag_260811.jpg"
-      },
-      {
-        "title": "John Harbaugh: Terrion Arnold is a player that can help us",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-terrion-arnold-is-a-player-that-can-help-us",
-        "summary": "Arnold visited the Giants on Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 17:37:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/584b307/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_giants_260811.jpg"
-      },
-      {
-        "title": "Kevin Stefanski \"very, very pleased\" with where Michael Penix is in ACL recovery",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-very-very-pleased-with-where-michael-penix-is-in-acl-recovery",
-        "summary": "Falcons quarterback Michael Penix has still not been fully cleared to return from his November ACL tear, but the team thinks Penix is exactly where he needs to be at this point in…",
-        "source": "nbcsports.com",
-        "date": "Wed, 12 Aug 2026 17:34:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d8780b3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F414%2Fnbc_pft_bijanV2_260804.jpg"
       }
     ]
   }
