@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-13T16:33:22.673Z",
+  "updated": "2026-08-13T17:40:25.686Z",
   "feed": {
     "VR": [
       {
-        "title": "Laser Dance Gets a Major \"Mimic Update\" Today",
-        "url": "https://www.uploadvr.com/laser-dance-mimic-update-2/",
-        "summary": "An update for Laser Dance released today which brings six new levels to the game and introduces a new green laser that only moves when you move.",
+        "title": "Behind The Scenes Of Gloop Lair, Walkabout Mini Golf's Love Letter to the 90s",
+        "url": "https://www.uploadvr.com/behind-the-scenes-of-gloop-lair-walkabout-mini-golfs-love-letter-to-the-90s/",
+        "summary": "Mighty Coconut took us behind the scenes of Gloop Lair, its newest Walkabout Mini Golf course that is an homage to the 90s.",
         "source": "uploadvr.com",
-        "date": "Thu, 13 Aug 2026 09:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/LaserDance_MimicUpdate_Landscape.png"
+        "date": "Thu, 13 Aug 2026 10:36:59 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Gloop-Lair-1.png"
       },
       {
         "title": "Quest’s Second Best-selling VR Game of All Time is Getting a Flatscreen Sequel",
@@ -27,15 +27,15 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "Breachers Gets A New Map & Expands Custom Game Settings",
-        "url": "https://www.uploadvr.com/breachers-headquarters-map-expanded-custom-game-settings/",
-        "summary": "Breachers added a new map, Headquarters, and a slew of new custom game settings for lobby leaders to create their own game modes.",
+        "title": "Sci-Fi Adventure Discovery: Rogue Planet Is Available Now For Meta Quest 3",
+        "url": "https://www.uploadvr.com/sci-fi-adventure-discovery-rogue-planet-is-available-now-for-meta-quest-3/",
+        "summary": "Story-driven sci-fi shooter Discovery: Rogue Planet is available now for Meta Quest 3 with a PC VR version expected at a later date.",
         "source": "uploadvr.com",
-        "date": "Thu, 13 Aug 2026 08:10:11 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Breachers_KeyArt_2560x1440.png"
+        "date": "Thu, 13 Aug 2026 10:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/DiscoveryRoguePlanet--1-.png"
       },
       {
-        "title": "Hit VR Game ‘Beat Saber’ Gets First Price Cut After 7 Years, and I Think I know Why",
+        "title": "Hit VR Game ‘Beat Saber’ Gets First Price Cut After 7 Years, and I Think I Know Why",
         "url": "https://roadtovr.com/hit-vr-game-beat-saber-gets-first-price-cut-after-7-years-and-i-think-i-know-why/",
         "summary": "Breakout VR rhythm game Beat Saber has been priced at $30 ever since its 2019 launch, and has never once gone on sale since.",
         "source": "roadtovr.com",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Suno is trying to look more like a real music production tool",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+        "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI…",
+        "source": "theverge.com",
+        "date": "2026-08-13T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Terabytes of credentials leaked in massive supply-chain attack",
         "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
         "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
         "source": "arstechnica.com",
         "date": "Wed, 12 Aug 2026 21:43:21 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
-      },
-      {
-        "title": "Twitch streamers can now opt out from training Amazon’s AI",
-        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-        "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models.",
-        "source": "theverge.com",
-        "date": "2026-08-12T13:29:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-        "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video.",
+        "title": "I looked inside an AI generated movie, and the best parts were all human",
+        "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+        "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London.",
         "source": "theverge.com",
-        "date": "2026-08-12T11:52:07-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-13T11:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "The 49ers' substation injury theory persists, even after it has been debunked",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-49ers-substation-injury-theory-persists-even-after-it-has-been-debunked",
-        "summary": "In post-truth America, facts routinely take a backseat to opinion.",
+        "title": "Kevin Warren: Bears' \"sole focus\" is new stadium in Hammond, Indiana",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-warren-bears-sole-focus-is-new-stadium-in-hammond-indiana",
+        "summary": "The Bears are where we thought they were.",
         "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 11:50:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06a06b2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F735%2F339%2Fnbc_pft_49ershurt_260806.jpg"
+        "date": "Thu, 13 Aug 2026 13:37:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d97854/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F255%2Fnbc_pft_mike_vrabel_260812.jpg"
       },
       {
-        "title": "Patrick Mahomes will not play on Saturday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-will-not-play-on-saturday",
-        "summary": "Chiefs head coach Andy Reid said last week that quarterback Patrick Mahomes would probably sit out the team's first preseason game and he gave a more emphatic answer about…",
+        "title": "PFT's 2026 preseason power rankings",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-2026-preseason-power-rankings",
+        "summary": "As the full exhibition slate starts, here's how the 32 teams stack up.",
         "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 11:42:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/211e1c6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F618%2F646%2Fnbc_pft_chiefsconvo_260805.jpg"
+        "date": "Thu, 13 Aug 2026 13:23:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/243d7f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F409%2F586%2Fnbc_pft_will_levis_260813.jpg"
       },
       {
-        "title": "Chuba Hubbard week-to-week with hamstring injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chuba-hubbard-week-to-week-with-hamstring-injury",
-        "summary": "The Panthers plan on playing their starters in their second preseason game, but they'll be without one member of the offense against the Bills on Saturday.",
+        "title": "Caleb Williams, several starters will not play for Bears on Saturday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-several-starters-will-not-play-for-bears-on-saturday",
+        "summary": "Bears quarterback Caleb Williams will not play in the team's preseason opener against the Browns on Saturday, and it sounds like head coach Ben Johnson is leaning toward not…",
         "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 11:28:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c87b6a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F75%2Fking.jpg"
+        "date": "Thu, 13 Aug 2026 13:16:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bb3dd93/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F203%2Fnbc_pft_benjohnson_260803.jpg"
       },
       {
-        "title": "Josh Allen, Bills starters will play in preseason opener vs. Panthers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-bills-starters-will-play-in-preseason-opener-vs-panthers",
-        "summary": "Josh Allen will be on the field for the Bills’ first preseason game.",
+        "title": "Rams sign LB Monty Rice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-sign-lb-monty-rice",
+        "summary": "The Rams have added a linebacker.",
         "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 11:23:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
+        "date": "Thu, 13 Aug 2026 12:51:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10f050d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F276%2F779%2Fnbc_pft_jj_mccarthy_rams_260812.jpg"
       },
       {
-        "title": "Baltimore sues Kalshi and Polymarket for offering unlicensed sports betting",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baltimore-sues-kalshi-and-polymarket-for-offering-unlicensed-sports-betting",
-        "summary": "The battle between sportsbooks and prediction markets continues, in the form of states and local governments attempting to shut down what arguably amounts to unlicensed bookmaking.",
+        "title": "Spencer Rattler will start Saints' preseason opener",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-rattler-will-start-saints-preseason-opener",
+        "summary": "Saints quarterback Tyler Shough will not play in the preseason opener.",
         "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 11:12:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
+        "date": "Thu, 13 Aug 2026 12:38:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9513aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F703%2Fnbc_pft_underradar_260803.jpg"
       },
       {
-        "title": "Colorado and Deion Sanders clamp down on any/all reporting from open practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colorado-and-deion-sanders-clamp-down-on-any-all-reporting-from-open-practice",
-        "summary": "Some teams place limits on the things reporters at practice can do.",
+        "title": "Jordyn Tyson exited Thursday's practice early with hamstring issue",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordyn-tyson-exited-thursdays-practice-early-with-hamstring-issue",
+        "summary": "The Saints have an injury concern with one of their key young offensive players.",
         "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 10:52:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1834865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_brownsqb_260813.jpg"
+        "date": "Thu, 13 Aug 2026 12:33:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9513aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F703%2Fnbc_pft_underradar_260803.jpg"
       }
     ]
   }
