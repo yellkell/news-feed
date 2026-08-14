@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T20:53:49.254Z",
+  "updated": "2026-08-14T21:17:46.375Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "DeMarcus Lawrence says this will be his final season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/demarcus-lawrence-says-this-will-be-his-final-season",
+        "summary": "Seahawks defensive end DeMarcus Lawrence thought about retiring after the 2025 season, but he won't go through the same process after the 2026 campaign.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 17:04:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7d058e4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F319%2Fnbc_pft_terrion_arnold_260814.jpg"
+      },
+      {
         "title": "Texans cut K Chris Freeman",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-cut-k-chris-freeman",
         "summary": "The Texans signed kicker Chris Freeman on Wednesday to have him kick in Friday's preseason game.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 14 Aug 2026 15:47:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
-      },
-      {
-        "title": "Nazeeh Johnson suspended six games for violating PED policy",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nazeeh-johnson-suspended-six-games-for-violating-ped-policy",
-        "summary": "The Titans will not have one of their cornerbacks at the beginning of the regular season.",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 15:45:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/243d7f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F409%2F586%2Fnbc_pft_will_levis_260813.jpg"
       }
     ]
   }
