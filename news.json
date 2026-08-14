@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T16:24:12.295Z",
+  "updated": "2026-08-14T17:24:24.586Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Mark Zuckerberg has an Instagzam",
+        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+        "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram…",
+        "source": "theverge.com",
+        "date": "2026-08-14T12:54:16-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
         "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
         "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
         "source": "arstechnica.com",
         "date": "Fri, 14 Aug 2026 14:27:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg"
-      },
-      {
-        "title": "Apple trained its own AI model for China with help from Alibaba",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-        "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between…",
-        "source": "theverge.com",
-        "date": "2026-08-14T05:21:17-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-        "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode.",
+        "title": "You can now turn off Google Gemini’s visible watermarks",
+        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+        "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools.",
         "source": "theverge.com",
-        "date": "2026-08-13T17:42:38-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-14T12:39:32-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
