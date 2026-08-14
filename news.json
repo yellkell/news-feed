@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T03:34:14.712Z",
+  "updated": "2026-08-14T05:18:34.003Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode.",
+        "source": "theverge.com",
+        "date": "2026-08-13T17:42:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
         "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
         "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
         "source": "arstechnica.com",
         "date": "Thu, 13 Aug 2026 19:38:58 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
-      },
-      {
-        "title": "Suno is trying to look more like a real music production tool",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-        "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI…",
-        "source": "theverge.com",
-        "date": "2026-08-13T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "I looked inside an AI generated movie, and the best parts were all human",
-        "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-        "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London.",
+        "title": "OpenAI is losing its second executive this week",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+        "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming…",
         "source": "theverge.com",
-        "date": "2026-08-13T11:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-13T15:28:39-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Terabytes of credentials leaked in massive supply-chain attack",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Jerry Jones again compares the Micah Parsons trade to the Herschel Walker trade",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-again-compares-the-micah-parsons-trade-to-the-herschel-walker-trade",
+        "summary": "After the Cowboys traded Micah Parsons to the Packers last year, Dallas owner and G.M.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 00:35:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1470de7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F155%2F683%2Fnbc_pft_parsons_260811.jpg"
+      },
+      {
+        "title": "Mike Vrabel won't be delegating challenge-flag duties",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-wont-be-delegating-challenge-flag-duties",
+        "summary": "The NFL has tweaked the rules to allow head coaches to delegate before each game the task of physically throwing the red challenge flag.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 00:07:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d97854/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F255%2Fnbc_pft_mike_vrabel_260812.jpg"
+      },
+      {
+        "title": "Joe Burrow has no thoughts about the LSU, Jayden Daniels number fracas",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-has-no-thoughts-about-the-lsu-jayden-daniels-number-fracas",
+        "summary": "The sudden and surprising scuffle between Commanders quarterback Jayden Daniels and LSU over the re-issuance of his number (5) has implicated Bengals quarterback Joe Burrow, given…",
+        "source": "nbcsports.com",
+        "date": "Thu, 13 Aug 2026 23:40:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/317d90f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F182%2Fnbc_pft_jayden_daniels_260813.jpg"
+      },
       {
         "title": "Drew Allar leads Steelers' offense to three touchdowns in three drives",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-allar-leads-steelers-offense-to-three-touchdowns-in-three-drives",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 13 Aug 2026 22:37:04 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/25ecfb9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F162%2F515%2Fnbc_pft_wardcarterv2_260811.jpg"
-      },
-      {
-        "title": "George McCaskey: Team will be \"Chicago Bears\" if new stadium is built in Indiana",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-mccaskey-team-will-be-chicago-bears-if-new-stadium-is-built-in-indiana",
-        "summary": "The Bears say their \"sole focus\" when it comes to a new stadium is on Hammond, Indiana.",
-        "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 22:29:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/046eae1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F183%2FSImmsANnyMPX.jpg"
-      },
-      {
-        "title": "49ers third-string QB Kurtis Rourke leaves with rib injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-third-string-qb-kurtis-rourke-leaves-with-rib-injury",
-        "summary": "The 49ers have four quarterbacks on their roster, but only two dressed Thursday night.",
-        "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 22:19:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/046eae1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F183%2FSImmsANnyMPX.jpg"
-      },
-      {
-        "title": "Falcons ' QB depth chart has Tua Tagovailoa as starter, Michael Penix Jr. omitted as \"injured player\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-qb-depth-chart-has-tua-tagovailoa-as-starter-michael-penix-jr-omitted-as-injured-player",
-        "summary": "From the outside, there's a quarterback competition in Atlanta.",
-        "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 22:18:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/80825b6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F611%2F315%2Fnbc_pft_bijan_260805.jpg"
       }
     ]
   }
