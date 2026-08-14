@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:13:31.058Z",
+  "updated": "2026-08-14T19:55:44.912Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+        "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+        "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+        "source": "arstechnica.com",
+        "date": "Fri, 14 Aug 2026 18:32:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg"
+      },
+      {
         "title": "Mark Zuckerberg has an Instagzam",
         "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
         "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram…",
         "source": "theverge.com",
         "date": "2026-08-14T12:54:16-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-        "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-        "source": "arstechnica.com",
-        "date": "Fri, 14 Aug 2026 14:27:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,20 +77,20 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
+        "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+        "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+        "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+        "source": "arstechnica.com",
+        "date": "Fri, 14 Aug 2026 17:03:54 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg"
+      },
+      {
         "title": "You can now turn off Google Gemini’s visible watermarks",
         "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
         "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools.",
         "source": "theverge.com",
         "date": "2026-08-14T12:39:32-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-        "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-        "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-        "source": "arstechnica.com",
-        "date": "Thu, 13 Aug 2026 19:38:58 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Colts STC Brian Mason suffered multiple torn ligaments in knee from sideline collision",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-stc-brian-mason-suffered-multiple-torn-ligaments-in-knee-from-sideline-collision",
-        "summary": "There is an update on Colts special teams coordinator Brian Mason, who was injured in a sideline collision at the end of Indianapolis’ preseason matchup with New England.",
+        "title": "Bills DT Phidarian Mathis suspended three games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-dt-phidarian-mathis-suspended-three-games",
+        "summary": "The NFL has suspended defensive tackle Phidarian Mathis for the first three games of the season for violating the NFL's substances of abuse policy.",
         "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 14:59:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d0b59a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F819%2Fnbc_pft_richardson_260814.jpg"
+        "date": "Fri, 14 Aug 2026 15:47:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
       },
       {
-        "title": "The Tom Brady restrictions apply to Troy Aikman, too",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-tom-brady-restrictions-apply-to-troy-aikman-too",
-        "summary": "It's now open season for teams to hire broadcasters.",
+        "title": "Nazeeh Johnson suspended six games for violating PED policy",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nazeeh-johnson-suspended-six-games-for-violating-ped-policy",
+        "summary": "The Titans will not have one of their cornerbacks at the beginning of the regular season.",
         "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 14:44:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7bb09ec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F198%2Fnbc_pft_troy_aikman_finish_260814.jpg"
+        "date": "Fri, 14 Aug 2026 15:45:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/243d7f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F409%2F586%2Fnbc_pft_will_levis_260813.jpg"
       },
       {
-        "title": "Moro Ojomo, Fred Johnson fought at Eagles' practice on Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/moro-ojomo-fred-johnson-fought-at-eagles-practice-on-thursday",
-        "summary": "The preseason has advanced to the point at which most fights happen during joint practices.",
+        "title": "Jordyn Tyson will miss time with hamstring injury, could linger into regular season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordyn-tyson-will-miss-time-with-hamstring-injury-could-linger-into-regular-season",
+        "summary": "The Saints will not have one of their key rookies on the field for a while.",
         "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 14:25:41 -0400",
+        "date": "Fri, 14 Aug 2026 15:31:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9513aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F199%2F703%2Fnbc_pft_underradar_260803.jpg"
+      },
+      {
+        "title": "Mike Macdonald: The \"timetable is being worked out\" for Terrion Arnold's arrival",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-the-timetable-is-being-worked-out-for-terrion-arnolds-arrival",
+        "summary": "The Seahawks have an agreement with free-agent cornerback Terrion Arnold.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 15:30:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7d058e4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F319%2Fnbc_pft_terrion_arnold_260814.jpg"
+      },
+      {
+        "title": "NFL suspends James Pearce Jr. eight games for February domestic-violence incident",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-suspends-james-pearce-jr-eight-games-for-february-domestic-violence-incident",
+        "summary": "Pearce entered a diversion program in May, triggering the disciplinary process.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 15:13:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edf05e4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F729%2F591%2Fnbc_pft_james_pearce_jr_260527.jpg"
+      },
+      {
+        "title": "Eagles agree to terms with LB Brandon George",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-agree-to-terms-with-lb-brandon-george",
+        "summary": "The Eagles are signing free agent inside linebacker Brandon George, Jeremy Fowler of ESPN reports.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 15:09:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/26b8acd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F683%2Fnbc_pft_jalen_hurts_260813.jpg"
-      },
-      {
-        "title": "Klint Kubiak considering giving Fernando Mendoza more first-team reps",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-considering-giving-fernando-mendoza-more-first-team-reps",
-        "summary": "Raiders quarterback Fernando Mendoza acquitted himself well in his preseason debut, completing 10-of-16 passes for 97 yards with a touchdown in his 31 offensive snaps.",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 14:08:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6cd856/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_cousinsjob_260814.jpg"
-      },
-      {
-        "title": "49ers cornerback Nate Hobbs out a few weeks with groin injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-cornerback-nate-hobbs-out-a-few-weeks-with-groin-injury",
-        "summary": "49ers cornerback Nate Hobbs will miss some time with a groin injury.",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 14:07:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bfe0660/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F699%2Fnbc_pft_rams_convo_260814.jpg"
-      },
-      {
-        "title": "Report: Roger Goodell met with select Illinois lawmakers on Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-roger-goodell-met-with-select-illinois-lawmakers-on-thursday",
-        "summary": "The Bears' \"sole focus\" is Indiana. Unless it isn't.",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 13:52:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed9a947/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F699%2Fnbc_pft_endseg_260814.jpg"
       }
     ]
   }
