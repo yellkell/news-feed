@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:37:11.457Z",
+  "updated": "2026-08-14T15:29:08.212Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+        "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+        "source": "arstechnica.com",
+        "date": "Fri, 14 Aug 2026 14:27:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg"
+      },
+      {
         "title": "Apple trained its own AI model for China with help from Alibaba",
         "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
         "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between…",
         "source": "theverge.com",
         "date": "2026-08-14T05:21:17-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-        "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-        "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-        "source": "arstechnica.com",
-        "date": "Thu, 13 Aug 2026 19:38:58 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -85,12 +85,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Terabytes of credentials leaked in massive supply-chain attack",
-        "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-        "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+        "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+        "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+        "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
         "source": "arstechnica.com",
-        "date": "Wed, 12 Aug 2026 21:43:21 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
+        "date": "Thu, 13 Aug 2026 19:38:58 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -102,6 +102,38 @@
       }
     ],
     "NFL": [
+      {
+        "title": "49ers QB Kurtis Rourke was released from the hospital Thursday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-qb-kurtis-rourke-was-released-from-the-hospital-thursday-night",
+        "summary": "The 49ers shared an update on quarterback Kurtis Rourke on Friday morning.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 11:16:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/046eae1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F183%2FSImmsANnyMPX.jpg"
+      },
+      {
+        "title": "Mike LaFleur has \"no concern level\" about Carson Beck's rib injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-lafleur-has-no-concern-level-about-carson-becks-rib-injury",
+        "summary": "While quarterback Carson Beck did not play in Thursday's preseason game against the Raiders due to a rib injury, head coach Mike LaFleur confirmed the rookie should be OK going…",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 11:00:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bbdea30/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_lovedebut_260814.jpg"
+      },
+      {
+        "title": "Mike Vrabel: Andy Borregales is expected to make field goals",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-andy-borregales-is-expected-to-make-field-goals",
+        "summary": "Patriots kicker Andy Borregales got a lot of opportunities to make field goals on Thursday night, but he didn't come through for his team often enough.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 10:59:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3d73cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F819%2FVrabeltossnoewmPX.jpg"
+      },
+      {
+        "title": "Kirk Cousins: Black Hole fans are dying to cheer for us, we've got to give them a reason",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-black-hole-fans-are-dying-to-cheer-for-us-weve-got-to-give-them-a-reason",
+        "summary": "Raiders quarterback Kirk Cousins played in front of the home fans in Las Vegas for the first time in Thursday night's preseason opener, and he said afterward that he wants to give…",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 10:47:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6cd856/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_cousinsjob_260814.jpg"
+      },
       {
         "title": "Team USA's 14-year unbeaten streak in flag football ends, thanks to American Samoa",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/team-usas-14-year-unbeaten-streak-in-flag-football-ends-thanks-to-american-samoa",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 14 Aug 2026 10:12:52 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6cd856/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_cousinsjob_260814.jpg"
-      },
-      {
-        "title": "49ers WR De'Zhaun Stribling: I felt like I was really clicking with the offense",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wr-dezhaun-stribling-i-felt-like-i-was-really-clicking-with-the-offense",
-        "summary": "Many 49ers who are expected to play roles for the team this fall did not play on Thursday night, but rookie wide receiver De'Zhaun Stribling was on the field and the second-round…",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 10:11:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
-      },
-      {
-        "title": "Architect says obstructed views at Bills stadium weren't an oversight or a design flaw",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/architect-says-obstructed-views-at-bills-stadium-werent-an-oversight-or-a-design-flaw",
-        "summary": "The new Bills stadium has multiple seats with obstructed views.",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 10:01:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
-      },
-      {
-        "title": "Dan Campbell on DE Ahmed Hassanein: I felt he'd come out and make plays",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-on-de-ahmed-hassanein-i-felt-hed-come-out-and-make-plays",
-        "summary": "The Lions kept their starters out of Thursday's game against the Bengals and that gave players further down the depth chart a chance to grab the spotlight.",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 09:51:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b34696f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F731%2Fnbc_pft_terrionarnold_260813.jpg"
-      },
-      {
-        "title": "Mike LaFleur: Jeremiyah Love OK after ankle injury, could have returned",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-lafleur-jeremiyah-love-ok-after-ankle-injury-could-have-returned",
-        "summary": "Cardinals running back Jeremiyah Love had a busy preseason debut with 14 touches in the first half of Thursday’s matchup with the Raiders.",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 09:29:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bbdea30/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_lovedebut_260814.jpg"
       }
     ]
   }
