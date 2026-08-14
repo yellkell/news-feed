@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T09:18:48.439Z",
+  "updated": "2026-08-14T10:30:37.745Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-        "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode.",
+        "title": "Apple trained its own AI model for China with help from Alibaba",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+        "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between…",
         "source": "theverge.com",
-        "date": "2026-08-13T17:42:38-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-14T05:21:17-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "OpenAI is losing its second executive this week",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-        "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming…",
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode.",
         "source": "theverge.com",
-        "date": "2026-08-13T15:28:39-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-13T17:42:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Terabytes of credentials leaked in massive supply-chain attack",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Cardinals lose second-round rookie guard Chase Bisontis to knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-lose-second-round-rookie-guard-chase-bisontis-to-knee-injury",
+        "summary": "The Cardinals appear to have lost their second-round draft pick for a significant period of time with a preseason knee injury.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 06:18:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f38b80/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F870%2F99%2Fnbc_pft_carson_beck_260807.jpg"
+      },
       {
         "title": "Colts special teams coach Brian Mason injured knee in sideline collision on final play",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-special-teams-coach-brian-mason-injured-knee-in-sideline-collision-on-final-play",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 14 Aug 2026 00:07:17 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d97854/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F255%2Fnbc_pft_mike_vrabel_260812.jpg"
-      },
-      {
-        "title": "Joe Burrow has no thoughts about the LSU, Jayden Daniels number fracas",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-has-no-thoughts-about-the-lsu-jayden-daniels-number-fracas",
-        "summary": "The sudden and surprising scuffle between Commanders quarterback Jayden Daniels and LSU over the re-issuance of his number (5) has implicated Bengals quarterback Joe Burrow, given…",
-        "source": "nbcsports.com",
-        "date": "Thu, 13 Aug 2026 23:40:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/317d90f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F182%2Fnbc_pft_jayden_daniels_260813.jpg"
       }
     ]
   }
