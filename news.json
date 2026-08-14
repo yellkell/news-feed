@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T10:30:37.745Z",
+  "updated": "2026-08-14T11:25:45.223Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Apple trained its own AI model for China with help from Alibaba",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-        "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between…",
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode.",
         "source": "theverge.com",
-        "date": "2026-08-14T05:21:17-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-13T17:42:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-        "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode.",
+        "title": "OpenAI is losing its second executive this week",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+        "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming…",
         "source": "theverge.com",
-        "date": "2026-08-13T17:42:38-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-13T15:28:39-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Terabytes of credentials leaked in massive supply-chain attack",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Anthony Richardson: I don't think I played well in preseason opener",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-i-dont-think-i-played-well-in-preseason-opener",
+        "summary": "Colts quarterback Anthony Richardson was not satisfied with his own performance in Thursday night's preseason opener.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 06:58:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f698db/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F683%2Fnbc_pft_pats_colts_260813.jpg"
+      },
       {
         "title": "Cardinals lose second-round rookie guard Chase Bisontis to knee injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-lose-second-round-rookie-guard-chase-bisontis-to-knee-injury",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 14 Aug 2026 00:35:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1470de7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F155%2F683%2Fnbc_pft_parsons_260811.jpg"
-      },
-      {
-        "title": "Mike Vrabel won't be delegating challenge-flag duties",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-wont-be-delegating-challenge-flag-duties",
-        "summary": "The NFL has tweaked the rules to allow head coaches to delegate before each game the task of physically throwing the red challenge flag.",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 00:07:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d97854/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F255%2Fnbc_pft_mike_vrabel_260812.jpg"
       }
     ]
   }
