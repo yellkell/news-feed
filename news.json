@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T02:37:23.742Z",
+  "updated": "2026-08-15T04:01:34.718Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Sean Payton takes shot at light turnout in Atlanta",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-takes-shot-at-light-turnout-in-atlanta",
+        "summary": "Broncos coach Sean Payton has a history with Atlanta, dating back to the intense rivalry between the Saints (whom he coached from 2006 through 2021) and the Falcons.",
+        "source": "nbcsports.com",
+        "date": "Fri, 14 Aug 2026 23:42:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6cd856/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_cousinsjob_260814.jpg"
+      },
+      {
         "title": "Steelers, DT Keeanu Benton agree to four-year extension",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-dt-keeanu-benton-agree-to-four-year-extension",
         "summary": "The Steelers and defensive tackle Keeanu Benton have agreed to a long-term extension.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 14 Aug 2026 19:48:44 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/a8a0219/2147483647/strip/false/crop/1147x645+27+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F3b%2F6bc83ccc448b8fa4a21c7dd5e105%2Fwatching-pft-live-friday-morning-137419549-jpg.webp"
-      },
-      {
-        "title": "Malik Willis, De'Von Achane play one series, score TD",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-willis-devon-achane-play-one-series-score-td",
-        "summary": "Malik Willis made his Miami debut in the team's first preseason game.",
-        "source": "nbcsports.com",
-        "date": "Fri, 14 Aug 2026 19:43:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1dcc62/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F278%2F731%2Fnbc_pft_achane_260812.jpg"
       }
     ]
   }
