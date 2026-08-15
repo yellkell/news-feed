@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T20:38:34.322Z",
+  "updated": "2026-08-15T21:19:06.839Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+        "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the…",
+        "source": "theverge.com",
+        "date": "2026-08-15T16:45:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
         "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
         "summary": "Screen-sharing bug lets remote hackers log in without a password.",
         "source": "arstechnica.com",
         "date": "Fri, 14 Aug 2026 18:32:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg"
-      },
-      {
-        "title": "Mark Zuckerberg has an Instagzam",
-        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-        "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram…",
-        "source": "theverge.com",
-        "date": "2026-08-14T12:54:16-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg"
       },
       {
-        "title": "You can now turn off Google Gemini’s visible watermarks",
-        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-        "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools.",
+        "title": "Mark Zuckerberg has an Instagzam",
+        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+        "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram…",
         "source": "theverge.com",
-        "date": "2026-08-14T12:39:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-14T12:54:16-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "John Harbaugh on Jaxson Dart's visit to medical tent: We need to block better",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-on-jaxson-darts-visit-to-medical-tent-we-need-to-block-better",
+        "summary": "Giants quarterback Jaxson Dart put the team's fans on a rollercoaster ride in Saturday's preseason opener against the Vikings.",
+        "source": "nbcsports.com",
+        "date": "Sat, 15 Aug 2026 17:12:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4b19a8d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F440%2F919%2Fnbc_pft_dartharbaugh_260804.jpg"
+      },
+      {
+        "title": "Jamal Adams has a right knee injury that \"doesn't look good\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-has-a-right-knee-injury-that-doesnt-look-good",
+        "summary": "Vikings linebacker/safety Jamal Adams' season is likely finished before it begins.",
+        "source": "nbcsports.com",
+        "date": "Sat, 15 Aug 2026 17:06:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/243d7f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F409%2F586%2Fnbc_pft_will_levis_260813.jpg"
+      },
+      {
+        "title": "Patriots sign OLs Darrian Dalcourt, Joe Michalski",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-sign-ols-darrian-dalcourt-joe-michalski",
+        "summary": "The Patriots returned to the practice field on Saturday and they added a pair of offensive linemen to the roster.",
+        "source": "nbcsports.com",
+        "date": "Sat, 15 Aug 2026 17:03:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d97854/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F277%2F255%2Fnbc_pft_mike_vrabel_260812.jpg"
+      },
       {
         "title": "Packers waive fourth-string QB Kyron Drones",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-waive-fourth-string-qb-kyron-drones",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 15 Aug 2026 15:35:18 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1834865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_brownsqb_260813.jpg"
-      },
-      {
-        "title": "Kevin O'Connell on Jamal Adams: Crushed for him, we're going to miss him",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-jamal-adams-crushed-for-him-were-going-to-miss-him",
-        "summary": "The Vikings have not given an official update on the nature of the injury that caused linebacker/safety Jamal Adams to be carted off in the first half of Saturday's game against…",
-        "source": "nbcsports.com",
-        "date": "Sat, 15 Aug 2026 14:50:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/846b28c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_vikingsjj_260813.jpg"
-      },
-      {
-        "title": "Matt Nagy is in the booth this week, will be on the sideline next week",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-nagy-is-in-the-booth-this-week-will-be-on-the-sideline-next-week",
-        "summary": "Former Chiefs offensive coordinator and Bears head coach Matt Nagy made his preseason debut with the Giants on Saturday.",
-        "source": "nbcsports.com",
-        "date": "Sat, 15 Aug 2026 14:43:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/584b307/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_giants_260811.jpg"
-      },
-      {
-        "title": "Raiders to sign DL Foley Fatukasi",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-to-sign-dl-foley-fatukasi",
-        "summary": "The Raiders are adding a veteran defender.",
-        "source": "nbcsports.com",
-        "date": "Sat, 15 Aug 2026 14:43:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6cd856/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_cousinsjob_260814.jpg"
       }
     ]
   }
