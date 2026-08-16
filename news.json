@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T12:22:33.200Z",
+  "updated": "2026-08-16T13:07:44.619Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-        "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the…",
+        "title": "Rogue AI aren’t science fiction anymore",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
         "source": "theverge.com",
-        "date": "2026-08-15T16:45:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -77,20 +77,20 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
+        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+        "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the…",
+        "source": "theverge.com",
+        "date": "2026-08-15T16:45:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
         "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
         "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
         "source": "arstechnica.com",
         "date": "Fri, 14 Aug 2026 17:03:54 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg"
-      },
-      {
-        "title": "Mark Zuckerberg has an Instagzam",
-        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-        "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram…",
-        "source": "theverge.com",
-        "date": "2026-08-14T12:54:16-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
