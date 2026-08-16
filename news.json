@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T05:26:27.665Z",
+  "updated": "2026-08-16T05:52:04.065Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Jeff Hafley pulled Ollie Gordon II from Friday's game for unsportsmanlike conduct foul",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeff-hafley-pulled-ollie-gordon-ii-from-fridays-game-for-unsportsmanlike-conduct-foul",
+        "summary": "The Dolphins in recent years have had an issue with discipline.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 01:44:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9c712e/2147483647/strip/false/crop/2173x1222+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F97%2Fa948c0a449b2b28a932721556c33%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29587759-400782400-tag-reuters-com-2026-binary-mt1usatoday29587759-baseimage-2173x1449-2026-08-15t025345z-400782400-mt1usatoday29587759-rtrmadp-3-nfl-miami-dolphins-at-washington-commanders.JPG"
+      },
+      {
         "title": "Ty Simpson dazzles in his Rams debut",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ty-simpson-dazzles-in-his-rams-debut",
         "summary": "And now it's becoming a little more apparent why the Rams used the 13th overall pick in the draft on quarterback Ty Simpson.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 15 Aug 2026 19:46:15 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/47b6d88/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F731%2Fnbc_pft_burrow_260813.jpg"
-      },
-      {
-        "title": "Jaxson Dart \"puzzled\" that he ends up in blue tent so often",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-puzzled-that-he-ends-up-in-blue-tent-so-often",
-        "summary": "Dart was checked after taking a big hit on a sack against the Vikings.",
-        "source": "nbcsports.com",
-        "date": "Sat, 15 Aug 2026 19:00:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab5ccae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F446%2F775%2Fnbc_pft_harbaughthree_260804.jpg"
       }
     ]
   }
