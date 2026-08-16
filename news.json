@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T22:55:48.003Z",
+  "updated": "2026-08-16T23:34:03.470Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Jamal Adams is out for the year with a knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-is-out-for-the-year-with-a-knee-injury",
+        "summary": "As expected, veteran defender Jamal Adams's 2026 season is over, after only one preseason game.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 19:23:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/846b28c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_vikingsjj_260813.jpg"
+      },
+      {
         "title": "Report: Kyle Monangai to have MRI on knee, Bears believe he avoided serious injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-kyle-monangai-to-have-mri-on-knee-bears-believe-he-avoided-serious-injury",
         "summary": "Running back Kyle Monangai made an early exit from Bears practice on Sunday after hurting his knee, but the team's current belief is that he avoided a major injury.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 16 Aug 2026 17:37:17 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1834865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_brownsqb_260813.jpg"
-      },
-      {
-        "title": "Aaron Donald worked out at Rams facility for a second time",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-worked-out-at-rams-facility-for-a-second-time",
-        "summary": "Aaron Donald initially worked out at the Rams team facility on Aug. 5 to evaluate how he felt.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 17:18:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bfe0660/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F699%2Fnbc_pft_rams_convo_260814.jpg"
       }
     ]
   }
