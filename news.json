@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T17:54:03.890Z",
+  "updated": "2026-08-16T18:17:12.574Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
+        "title": "Rogue AI aren’t science fiction anymore",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
         "source": "theverge.com",
-        "date": "2026-08-16T10:56:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Rogue AI aren’t science fiction anymore",
-        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
+        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+        "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the…",
         "source": "theverge.com",
-        "date": "2026-08-16T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-15T16:45:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Tucker Kraft does 11-on-11 work at Packers practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tucker-kraft-does-11-on-11-work-at-packers-practice",
+        "summary": "Packers tight end Tucker Kraft took a big step back toward the lineup on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 14:06:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f6a9e6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F400%2F803%2Fnbc_pft_jordan_love_260813.jpg"
+      },
+      {
+        "title": "Texans add TE Louis Hansen",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-add-te-louis-hansen",
+        "summary": "The Texans announced the addition of a tight end to the roster on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 13:57:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
+      },
       {
         "title": "Dolphins sign QB Mark Gronowski, LB Cam Riley",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-qb-mark-gronowski-lb-cam-riley",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 16 Aug 2026 12:40:01 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6929322/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F971%2F751%2Fnbc_pft_cowboysnickname_260731.jpg"
-      },
-      {
-        "title": "Report: Browns are expected to sign Za'Darius Smith",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-browns-are-expected-to-sign-zadarius-smith",
-        "summary": "It looks like Za'Darius Smith is headed back to the Browns.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 12:17:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1834865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_brownsqb_260813.jpg"
-      },
-      {
-        "title": "Mike Macdonald to Jalen Milroe: \"Let's go take another step\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-to-jalen-milroe-lets-go-take-another-step",
-        "summary": "The Seahawks used a third-round pick in 2025 on quarterback Jalen Milroe — the same round in which they acquired Russell Wilson, 13 years earlier.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 12:00:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2da9000/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_seahawksbidding_260720.jpg"
       }
     ]
   }
