@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T18:53:14.770Z",
+  "updated": "2026-08-16T19:15:20.874Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Titans sign TE Matt Lauter, RB Dominic Richardson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-sign-te-matt-lauter-rb-dominic-richardson",
+        "summary": "The Titans lost a pair of players to season-ending injuries in their preseason opener and they replaced them on the active roster on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 14:49:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/25ecfb9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F162%2F515%2Fnbc_pft_wardcarterv2_260811.jpg"
+      },
+      {
         "title": "Dolphins QB Quinn Ewers to miss time with groin injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-qb-quinn-ewers-to-miss-time-with-groin-injury",
         "summary": "The Dolphins brought quarterback Mark Gronowski back to the roster on Sunday and an injury to another player at the position likely contributed to the decision.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 16 Aug 2026 13:17:04 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7d058e4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F319%2Fnbc_pft_terrion_arnold_260814.jpg"
-      },
-      {
-        "title": "Odell Beckham Jr.: Felt good being out there, we'll see what happens",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-jr-felt-good-being-out-there-well-see-what-happens",
-        "summary": "Giants wide receiver Odell Beckham Jr. saw his first game action since Week 14 of the 2024 season in Saturday's preseason opener.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 12:41:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/584b307/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_giants_260811.jpg"
       }
     ]
   }
