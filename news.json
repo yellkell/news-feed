@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T21:41:26.270Z",
+  "updated": "2026-08-16T21:55:15.497Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
         "source": "theverge.com",
-        "date": "2026-08-16T17:32:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T10:56:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
+        "title": "Rogue AI aren’t science fiction anymore",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
         "source": "theverge.com",
-        "date": "2026-08-16T10:56:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Raiders sign WR Noah Brown",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-sign-wr-noah-brown",
+        "summary": "Veteran wide receiver Noah Brown has found a new team.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 17:49:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6cd856/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_cousinsjob_260814.jpg"
+      },
+      {
+        "title": "RB Jonathan Ward signs with Ravens",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-jonathan-ward-signs-with-ravens",
+        "summary": "The Ravens signed running back Jonathan Ward on Sunday, the team announced.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 17:42:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
+      },
+      {
+        "title": "Marcus Davenport visits the Bears",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marcus-davenport-visits-the-bears",
+        "summary": "Free agent defensive end Marcus Davenport has spent the last three seasons with NFC North teams and he met with another club in the division as he looks for a spot to play in 2026.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 17:41:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed9a947/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F699%2Fnbc_pft_endseg_260814.jpg"
+      },
+      {
+        "title": "Todd Monken: Shedeur Sanders has \"improved so much\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-shedeur-sanders-has-improved-so-much",
+        "summary": "After Deshaun Watson started against the Bears on Saturday, Browns head coach Todd Monken detailed how he'll divide the QB reps between Watson and second-year signal-caller Shedeur…",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 17:37:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1834865/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_brownsqb_260813.jpg"
+      },
+      {
         "title": "Aaron Donald worked out at Rams facility for a second time",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-worked-out-at-rams-facility-for-a-second-time",
         "summary": "Aaron Donald initially worked out at the Rams team facility on Aug. 5 to evaluate how he felt.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 16 Aug 2026 16:38:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7d058e4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F319%2Fnbc_pft_terrion_arnold_260814.jpg"
-      },
-      {
-        "title": "Bears activate LT Ozzy Trapilo from active/PUP",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-activate-lt-ozzy-trapilo-from-active-pup",
-        "summary": "The Bears activated offensive tackle Ozzy Trapilo from active/physically unable to perform, the team announced.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 16:31:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed9a947/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F699%2Fnbc_pft_endseg_260814.jpg"
-      },
-      {
-        "title": "George Kittle \"very confident\" he won't start season on reserve/PUP",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-very-confident-he-wont-start-season-on-reserve-pup",
-        "summary": "49ers tight end George Kittle is on the active/physically unable to perform list.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 16:18:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bfe0660/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F699%2Fnbc_pft_rams_convo_260814.jpg"
-      },
-      {
-        "title": "Christian McCaffrey is still not practicing",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-is-still-not-practicing",
-        "summary": "McCaffrey has now missed a full week.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 16:15:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bbdea30/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_lovedebut_260814.jpg"
-      },
-      {
-        "title": "Titans sign TE Matt Lauter, RB Dominic Richardson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-sign-te-matt-lauter-rb-dominic-richardson",
-        "summary": "The Titans lost a pair of players to season-ending injuries in their preseason opener and they replaced them on the active roster on Sunday.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 14:49:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/25ecfb9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F162%2F515%2Fnbc_pft_wardcarterv2_260811.jpg"
       }
     ]
   }
