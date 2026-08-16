@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T17:33:30.376Z",
+  "updated": "2026-08-16T17:54:03.890Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Dolphins sign QB Mark Gronowski, LB Cam Riley",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-qb-mark-gronowski-lb-cam-riley",
+        "summary": "Quarterback Mark Gronowski is back with the Dolphins.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 13:47:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1dcc62/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F278%2F731%2Fnbc_pft_achane_260812.jpg"
+      },
+      {
         "title": "Dan Campbell wishes coaches had monitors on the sideline",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-wishes-coaches-had-monitors-on-the-sideline",
         "summary": "After his team's preseason opener, Lions head coach Dan Campbell offered an interesting observation about something he didn't see.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 16 Aug 2026 12:00:42 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2da9000/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F555%2Fnbc_pft_seahawksbidding_260720.jpg"
-      },
-      {
-        "title": "Lions sign RB Trayveon Williams, CB Ekow Boye-Doe",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-rb-trayveon-williams-cb-ekow-boye-doe",
-        "summary": "The Lions announced a handful of roster moves on Sunday morning.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 11:47:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7d058e4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F319%2Fnbc_pft_terrion_arnold_260814.jpg"
       }
     ]
   }
