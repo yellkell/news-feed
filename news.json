@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-17T17:19:11.934Z",
+  "updated": "2026-08-17T17:52:23.380Z",
   "feed": {
     "VR": [
+      {
+        "title": "FitXR Adds Knee Strikes To Combat & Flow On Quest",
+        "url": "https://www.uploadvr.com/fitxr-adds-knee-strikes-to-combat-flow-on-quest/",
+        "summary": "FitXR added knee strikes to its Combat and Flow studios on Quest, increasing lower-body coordination and core engagement.",
+        "source": "uploadvr.com",
+        "date": "Mon, 17 Aug 2026 10:28:24 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/KneeStrikes_branded.png"
+      },
       {
         "title": "How to Find Every Major PC VR Mod in One Place",
         "url": "https://roadtovr.com/every-pc-vr-mod-database-steam/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Mon, 17 Aug 2026 16:14:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/pcvr.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "BrushHammer: Miniature Painter Drops on Meta Quest Later This Month",
-        "url": "https://www.uploadvr.com/brushhammer-miniature-painter-drops-on-meta-quest-later-this-month/",
-        "summary": "Mixed reality miniature painting app BrushHammer releases on Meta Quest on August 26.",
-        "source": "uploadvr.com",
-        "date": "Sun, 16 Aug 2026 15:38:19 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/BrushHammer_Thumbnail-1.png"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "Dystopian Survival Shooter CONVRGENCE Leaves PC VR Early Access In September",
-        "url": "https://www.uploadvr.com/dystopian-survival-shooter-convrgence-leaves-pc-vr-early-access-in-september/",
-        "summary": "Post-apocalyptic extraction shooter CONVRGENCE leaves PC VR Early Access on September 17.",
+        "title": "BrushHammer: Miniature Painter Drops on Meta Quest Later This Month",
+        "url": "https://www.uploadvr.com/brushhammer-miniature-painter-drops-on-meta-quest-later-this-month/",
+        "summary": "Mixed reality miniature painting app BrushHammer releases on Meta Quest on August 26.",
         "source": "uploadvr.com",
-        "date": "Sun, 16 Aug 2026 15:38:10 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/KeyArtWithLogo-1.png"
+        "date": "Sun, 16 Aug 2026 15:38:19 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/BrushHammer_Thumbnail-1.png"
       },
       {
         "title": "‘High on Life’ is Getting an Official VR Port for Quest, PC VR & PSVR 2 Next Year",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "George McCaskey says Bears are \"moving forward\" with Indiana as a stadium location",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-mccaskey-says-bears-are-moving-forward-with-indiana-as-a-stadium-location",
+        "summary": "Last Thursday, the Bears held a press conference during which their intention to build a new stadium in Indiana was reiterated.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 13:32:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed9a947/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F699%2Fnbc_pft_endseg_260814.jpg"
+      },
+      {
         "title": "Report: Von Miller's one-year deal with Cowboys is worth $5.5 million",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-von-millers-one-year-deal-with-cowboys-is-worth-5-5-million",
         "summary": "After veteran edge rusher Von Miller agreed to sign with the Cowboys on Sunday, there’s additional information about his deal.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 17 Aug 2026 12:18:07 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f2e16d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F789%2F467%2Fnbc_pft_vikingsqbs_260817.jpg"
-      },
-      {
-        "title": "Giants to sign QB Jake Haener",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-to-sign-qb-jake-haener",
-        "summary": "The Giants will have a new quarterback at practice this week.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 12:12:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b50996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F799%2F227%2Fnbc_pft_jaxsondartv3_260817.jpg"
       }
     ]
   }
