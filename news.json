@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T00:48:24.632Z",
+  "updated": "2026-08-17T02:15:09.975Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
         "source": "theverge.com",
-        "date": "2026-08-16T17:32:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T10:56:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
+        "title": "Rogue AI aren’t science fiction anymore",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
         "source": "theverge.com",
-        "date": "2026-08-16T10:56:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Carson Beck remains day-to-day with rib injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-remains-day-to-day-with-rib-injury",
+        "summary": "Cardinals rookie quarterback Carson Beck is not yet ready to practice.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 21:16:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bbdea30/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_lovedebut_260814.jpg"
+      },
+      {
+        "title": "Von Miller agrees to deal with Cowboys",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-agrees-to-deal-with-cowboys",
+        "summary": "Miller finally gets to play at home, having grown up in DeSoto, Texas, 24 miles from AT&T Stadium.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 21:14:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/99ede1f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F155%2F683%2Fnbc_pft_quinnen_260811.jpg"
+      },
+      {
+        "title": "Colts assistant G.M. Ed Dodds suggests team will keep Anthony Richardson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-assistant-g-m-ed-dodds-suggests-team-will-keep-anthony-richardson",
+        "summary": "The Colts haven't found a trade partner for fourth-year quarterback Anthony Richardson Sr.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 21:02:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d0b59a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F819%2Fnbc_pft_richardson_260814.jpg"
+      },
+      {
+        "title": "Former Cowboys OG John Niland dies at 82",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-cowboys-og-john-niland-dies-at-82",
+        "summary": "Former Cowboys offensive guard John Niland died Saturday morning in McKinney, Texas, his family announced Sunday.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 21:01:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/99ede1f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F155%2F683%2Fnbc_pft_quinnen_260811.jpg"
+      },
+      {
         "title": "Jeremiyah Love has a high ankle sprain",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiyah-love-has-a-high-ankle-sprain",
         "summary": "Cardinals hope he'll be ready for Week 1 at Chargers.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 16 Aug 2026 20:12:03 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
-      },
-      {
-        "title": "After Pro Bowl season, Packers CB Keisean Nixon is fighting for starting job",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-pro-bowl-season-packers-cb-keisean-nixon-is-fighting-for-starting-job",
-        "summary": "Keisean Nixon had previously been a Pro Bowler as a return specialist.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 19:35:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1470de7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F155%2F683%2Fnbc_pft_parsons_260811.jpg"
-      },
-      {
-        "title": "Jamal Adams is out for the year with a knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-is-out-for-the-year-with-a-knee-injury",
-        "summary": "As expected, veteran defender Jamal Adams's 2026 season is over, after only one preseason game.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 19:23:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/846b28c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F403%2F231%2Fnbc_pft_vikingsjj_260813.jpg"
-      },
-      {
-        "title": "Report: Kyle Monangai to have MRI on knee, Bears believe he avoided serious injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-kyle-monangai-to-have-mri-on-knee-bears-believe-he-avoided-serious-injury",
-        "summary": "Running back Kyle Monangai made an early exit from Bears practice on Sunday after hurting his knee, but the team's current belief is that he avoided a major injury.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 18:36:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed9a947/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F699%2Fnbc_pft_endseg_260814.jpg"
-      },
-      {
-        "title": "Raiders sign WR Noah Brown",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-sign-wr-noah-brown",
-        "summary": "Veteran wide receiver Noah Brown has found a new team.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 17:49:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6cd856/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F565%2F843%2Fnbc_pft_cousinsjob_260814.jpg"
       }
     ]
   }
