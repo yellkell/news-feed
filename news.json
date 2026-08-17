@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T09:41:53.119Z",
+  "updated": "2026-08-17T11:18:05.077Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
         "source": "theverge.com",
-        "date": "2026-08-16T17:32:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-17T06:57:13-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
         "source": "theverge.com",
-        "date": "2026-08-16T10:56:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T17:32:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
