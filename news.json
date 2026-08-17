@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T15:18:01.202Z",
+  "updated": "2026-08-17T15:47:00.814Z",
   "feed": {
     "VR": [
       {
@@ -61,12 +61,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
       },
       {
-        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
         "source": "theverge.com",
-        "date": "2026-08-17T06:57:13-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T17:32:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
         "source": "theverge.com",
-        "date": "2026-08-16T17:32:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T10:56:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Eagles sign CB Isaiah Bolden, release OL Hollin Pierce",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-cb-isaiah-bolden-release-ol-hollin-pierce",
+        "summary": "The Eagles have made a pair of roster moves on Monday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 11:33:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/26b8acd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F683%2Fnbc_pft_jalen_hurts_260813.jpg"
+      },
+      {
+        "title": "Tony Romo's leave opens door for J.J. Watt to take CBS top spot, permanently",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tony-romos-leave-opens-door-for-j-j-watt-to-take-cbs-top-spot-permanently",
+        "summary": "As Mike Tomlin often said during his time coaching the Steelers, \"One man's misfortune is another man's opportunity.\"",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 11:21:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/900273b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F257%2F811%2Fnbc_pft_romocbs_260803.jpg"
+      },
+      {
+        "title": "Falcons waive OL Layden Robinson, P Matthew Hayball",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-waive-ol-layden-robinson-p-matthew-hayball",
+        "summary": "The Falcons have moved on from a pair of players.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 11:19:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec21767/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F793%2F870%2Fnbc_pft_falconsqb_260817.jpg"
+      },
       {
         "title": "Bills re-sign LB Otis Reese IV",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-re-sign-lb-otis-reese-iv",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 17 Aug 2026 10:54:15 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/718ada3/2147483647/strip/false/crop/919x517+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F3e%2Fec65a40e494a015901cc8c9780af%2F120076038-e1502221009929.jpg"
-      },
-      {
-        "title": "Panthers officially add Darren Waller, waive two",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-officially-add-darren-waller-waive-two",
-        "summary": "The Panthers have made it official with Darren Waller.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 10:53:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d187d03/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F795%2F823%2Fnbc_pft_mccaffrey_260817.jpg"
-      },
-      {
-        "title": "Broncos close training camp practice to fans after storms damage bleachers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-close-training-camp-practice-to-fans-after-storms-damage-bleachers",
-        "summary": "The weather in Denver is clear and sunny today, but weekend storms will continue to affect Broncos training camp.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 10:46:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6403ee/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F453%2F107%2Fnbc_pft_taysomhill_260804.jpg"
-      },
-      {
-        "title": "Aaron Glenn: Breece Hall strained groin, I don't think it was a big deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-breece-hall-strained-groin-i-dont-think-it-was-a-big-deal",
-        "summary": "Hall will undergo more tests to confirm the initial diagnosis.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 10:38:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
       }
     ]
   }
