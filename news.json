@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T16:18:02.842Z",
+  "updated": "2026-08-17T16:52:39.369Z",
   "feed": {
     "VR": [
       {
@@ -61,12 +61,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
       },
       {
-        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
         "source": "theverge.com",
-        "date": "2026-08-17T06:57:13-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T17:32:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
         "source": "theverge.com",
-        "date": "2026-08-16T17:32:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T10:56:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "DeVonta Smith back at practice for Eagles",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devonta-smith-back-at-practice-for-eagles",
+        "summary": "The Eagles welcomed a key part of their offense back to the practice field on Monday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 12:42:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/26b8acd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F683%2Fnbc_pft_jalen_hurts_260813.jpg"
+      },
+      {
+        "title": "Vikings put Jamal Adams on IR, sign CB Bryce Phillips",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-put-jamal-adams-on-ir-sign-cb-bryce-phillips",
+        "summary": "The Vikings officially brought veteran safety/linebacker Jamal Adams's season to an end on Monday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 12:18:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f2e16d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F789%2F467%2Fnbc_pft_vikingsqbs_260817.jpg"
+      },
+      {
+        "title": "Giants to sign QB Jake Haener",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-to-sign-qb-jake-haener",
+        "summary": "The Giants will have a new quarterback at practice this week.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 12:12:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b50996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F799%2F227%2Fnbc_pft_jaxsondartv3_260817.jpg"
+      },
+      {
+        "title": "Najee Harris visiting with Giants on Monday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/najee-harris-visiting-with-giants-on-monday",
+        "summary": "Najee Harris may be going from one Harbaugh brother to the other.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 12:12:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b50996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F799%2F227%2Fnbc_pft_jaxsondartv3_260817.jpg"
+      },
+      {
         "title": "Marlon Humphrey, Nate Wiggins return to Ravens practice",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marlon-humphrey-nate-wiggins-return-to-ravens-practice",
         "summary": "The Ravens are healthier in their secondary this week.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 17 Aug 2026 12:00:39 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0af45d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F793%2F870%2Fnbc_pft_aarondonaldrams_260817.jpg"
-      },
-      {
-        "title": "Baker Mayfield will play in Bucs' second preseason game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-will-play-in-bucs-second-preseason-game",
-        "summary": "Buccaneers quarterback Baker Mayfield didn't play at all in the 2025 preseason, but the team is taking a different approach this summer.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 11:56:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/641da81/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F575%2Flicht.jpg"
-      },
-      {
-        "title": "Dabo Swinney praises Cade Klubnik's debut for the Jets",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dabo-swinney-praises-cade-klubniks-debut-for-the-jets",
-        "summary": "Jets quarterback Cade Klubnik's current coach praised Klubnik's preseason debut, touting his \"moxie\" and \"confidence.\"",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 11:50:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2a63d05/2147483647/strip/false/crop/3840x2160+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2Fe0%2F97da767649d3aa52fa2512eeb7ac%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29587879-1061263638-tag-reuters-com-2026-binary-mt1usatoday29587879-baseimage-3840x2568-2026-08-15t025925z-1061263638-mt1usatoday29587879-rtrmadp-3-nfl-tampa-bay-buccaneers-at-new-york-jets.JPG"
-      },
-      {
-        "title": "Texans sign CB Bryce Hall",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-cb-bryce-hall",
-        "summary": "Cornerback Bryce Hall worked out for the Texans this month and his performance landed him a longer stay in Houston.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 11:49:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
-      },
-      {
-        "title": "Titans sign CB Corey Mayfield Jr., waive LB Sean Brown",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-sign-cb-corey-mayfield-jr-waive-lb-sean-brown",
-        "summary": "The Titans have made a couple of roster moves to start the week.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 11:40:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/243d7f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F409%2F586%2Fnbc_pft_will_levis_260813.jpg"
       }
     ]
   }
