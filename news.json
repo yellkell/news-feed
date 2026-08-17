@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T14:54:40.715Z",
+  "updated": "2026-08-17T15:18:01.202Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Nvidia discloses $21B stake in SpaceX",
+        "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+        "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+        "source": "arstechnica.com",
+        "date": "Mon, 17 Aug 2026 14:22:54 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
+      },
+      {
         "title": "Anthropic explains how Claude’s invisible text watermarks will work",
         "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
         "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
         "source": "theverge.com",
         "date": "2026-08-17T06:57:13-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-        "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-        "summary": "Screen-sharing bug lets remote hackers log in without a password.",
-        "source": "arstechnica.com",
-        "date": "Fri, 14 Aug 2026 18:32:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -85,12 +85,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-        "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-        "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+        "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+        "summary": "Screen-sharing bug lets remote hackers log in without a password.",
         "source": "arstechnica.com",
-        "date": "Fri, 14 Aug 2026 17:03:54 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg"
+        "date": "Fri, 14 Aug 2026 18:32:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Bills re-sign LB Otis Reese IV",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-re-sign-lb-otis-reese-iv",
+        "summary": "The Bills have made a pair of roster moves on Monday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 11:01:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
+      },
+      {
+        "title": "Some think Christian McCaffrey's \"tightness\" could be a hold in",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/some-think-christian-mccaffreys-tightness-could-be-a-hold-in",
+        "summary": "The official word is that 49ers running back Christian McCaffrey has missed a week of practice due to \"tightness.\"",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 10:55:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bbde578/2147483647/strip/false/crop/3844x2162+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2Ff9f7e7784eddb19f975c92c866a3%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29578378-215763075-tag-reuters-com-2026-binary-mt1usatoday29578378-baseimage-3844x2563-2026-08-14t005841z-215763075-mt1usatoday29578378-rtrmadp-3-nfl-tennessee-titans-at-san-francisco-49ers.JPG"
+      },
+      {
+        "title": "Steelers cancel final day of training camp because of thunderstorms",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-cancel-final-day-of-training-camp-because-of-thunderstorms",
+        "summary": "There's severe weather in in Latrobe, Pennsylvania, today, and as a result, the Steelers' 2026 training camp has come to an end.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 10:54:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/718ada3/2147483647/strip/false/crop/919x517+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F3e%2Fec65a40e494a015901cc8c9780af%2F120076038-e1502221009929.jpg"
+      },
+      {
+        "title": "Panthers officially add Darren Waller, waive two",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-officially-add-darren-waller-waive-two",
+        "summary": "The Panthers have made it official with Darren Waller.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 10:53:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d187d03/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F795%2F823%2Fnbc_pft_mccaffrey_260817.jpg"
+      },
+      {
         "title": "Broncos close training camp practice to fans after storms damage bleachers",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-close-training-camp-practice-to-fans-after-storms-damage-bleachers",
         "summary": "The weather in Denver is clear and sunny today, but weekend storms will continue to affect Broncos training camp.",
@@ -113,42 +145,10 @@
       {
         "title": "Aaron Glenn: Breece Hall strained groin, I don't think it was a big deal",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-breece-hall-strained-groin-i-dont-think-it-was-a-big-deal",
-        "summary": "While Jets running back Breece Hall exited practice early on Monday, it doesn’t sound like he suffered a significant injury.",
+        "summary": "Hall will undergo more tests to confirm the initial diagnosis.",
         "source": "nbcsports.com",
         "date": "Mon, 17 Aug 2026 10:38:47 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
-      },
-      {
-        "title": "Is J.J. McCarthy at risk of falling to No. 3 on Vikings' depth chart?",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/is-j-j-mccarthy-at-risk-of-falling-to-no-3-on-vikings-depth-chart",
-        "summary": "Last week, the question was whether Vikings quarterback J.J.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 10:32:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f2e16d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F789%2F467%2Fnbc_pft_vikingsqbs_260817.jpg"
-      },
-      {
-        "title": "Commanders to sign RB Craig Reynolds",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-sign-rb-craig-reynolds",
-        "summary": "With an injury concern at the position, Washington is adding a running back.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 10:27:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9ab30d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F563%2F891%2FJaydenDanielsnewMPX8-14.jpg"
-      },
-      {
-        "title": "Browns sign TE Jermaine Terry, waive TE Brenden Bates",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-sign-te-jermaine-terry-waive-te-brenden-bates",
-        "summary": "The Browns have made a pair of moves at tight end.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 10:04:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c54b24e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F792%2F894%2Fnbc_pft_brownsqb_260817.jpg"
-      },
-      {
-        "title": "Breece Hall leaves Jets practice with apparent injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-leaves-jets-practice-with-apparent-injury",
-        "summary": "The problem with training camp is that every fan of every team is constantly bracing for the lightning bolt that could screw up the coming season.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 10:03:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2db7acf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F791%2F918%2Fnbc_pft_tysimpsondebut_260817.jpg"
       }
     ]
   }
