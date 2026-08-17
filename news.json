@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-17T15:47:00.814Z",
+  "updated": "2026-08-17T16:18:02.842Z",
   "feed": {
     "VR": [
+      {
+        "title": "How to Find Every Major PC VR Mod in One Place",
+        "url": "https://roadtovr.com/every-pc-vr-mod-database-steam/",
+        "summary": "Finding PC VR mods has always meant wading through a patchwork of Discord threads, news articles and GitHub repositories.",
+        "source": "roadtovr.com",
+        "date": "Mon, 17 Aug 2026 16:14:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/pcvr.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
       {
         "title": "BrushHammer: Miniature Painter Drops on Meta Quest Later This Month",
         "url": "https://www.uploadvr.com/brushhammer-miniature-painter-drops-on-meta-quest-later-this-month/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Sun, 16 Aug 2026 15:38:19 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/BrushHammer_Thumbnail-1.png"
-      },
-      {
-        "title": "‘High on Life’ is Getting an Official VR Port for Quest, PC VR & PSVR 2 Next Year",
-        "url": "https://roadtovr.com/high-on-life-vr-quest-psvr-2-steam-release/",
-        "summary": "Announced during the VR Games Showcase, Flat2VR Studios revealed it’s collaborating with Squanch Games to again work its flatscreen-to-VR magic on the comedic sci-fi shooter, High…",
-        "source": "roadtovr.com",
-        "date": "Fri, 14 Aug 2026 13:20:02 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/high-on-life-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -35,12 +35,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/KeyArtWithLogo-1.png"
       },
       {
-        "title": "Everything Announced at the August 2026 VR Games Showcase",
-        "url": "https://roadtovr.com/everything-announced-at-the-august-2026-vr-games-showcase/",
-        "summary": "The VR Games Showcase’s second anniversary event just wrapped up, delivering massive new game announcements.",
+        "title": "‘High on Life’ is Getting an Official VR Port for Quest, PC VR & PSVR 2 Next Year",
+        "url": "https://roadtovr.com/high-on-life-vr-quest-psvr-2-steam-release/",
+        "summary": "Announced during the VR Games Showcase, Flat2VR Studios revealed it’s collaborating with Squanch Games to again work its flatscreen-to-VR magic on the comedic sci-fi shooter, High…",
         "source": "roadtovr.com",
-        "date": "Thu, 13 Aug 2026 18:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/vrgs-aug-261.jpg?resize=1672%2C941&quality=89&ssl=1"
+        "date": "Fri, 14 Aug 2026 13:20:02 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/high-on-life-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
@@ -61,12 +61,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
       },
       {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
         "source": "theverge.com",
-        "date": "2026-08-16T17:32:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-17T06:57:13-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
         "source": "theverge.com",
-        "date": "2026-08-16T10:56:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T17:32:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Eagles sign CB Isaiah Bolden, release OL Hollin Pierce",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-cb-isaiah-bolden-release-ol-hollin-pierce",
-        "summary": "The Eagles have made a pair of roster moves on Monday.",
+        "title": "Marlon Humphrey, Nate Wiggins return to Ravens practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marlon-humphrey-nate-wiggins-return-to-ravens-practice",
+        "summary": "The Ravens are healthier in their secondary this week.",
         "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 11:33:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/26b8acd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F683%2Fnbc_pft_jalen_hurts_260813.jpg"
+        "date": "Mon, 17 Aug 2026 12:06:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
       },
       {
-        "title": "Tony Romo's leave opens door for J.J. Watt to take CBS top spot, permanently",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tony-romos-leave-opens-door-for-j-j-watt-to-take-cbs-top-spot-permanently",
-        "summary": "As Mike Tomlin often said during his time coaching the Steelers, \"One man's misfortune is another man's opportunity.\"",
+        "title": "After unexpected NFLN layoff, Tom Pelissero lands at Netflix",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-unexpected-nfln-layoff-tom-pelissero-lands-at-netflix",
+        "summary": "Last month, ESPN unexpectedly included NFL Network reporter Tom Pelissero in the latest round of layoffs, given that he had a year left on his existing NFLN deal.",
         "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 11:21:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/900273b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F257%2F811%2Fnbc_pft_romocbs_260803.jpg"
+        "date": "Mon, 17 Aug 2026 12:00:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0af45d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F793%2F870%2Fnbc_pft_aarondonaldrams_260817.jpg"
       },
       {
-        "title": "Falcons waive OL Layden Robinson, P Matthew Hayball",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-waive-ol-layden-robinson-p-matthew-hayball",
-        "summary": "The Falcons have moved on from a pair of players.",
+        "title": "Baker Mayfield will play in Bucs' second preseason game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-will-play-in-bucs-second-preseason-game",
+        "summary": "Buccaneers quarterback Baker Mayfield didn't play at all in the 2025 preseason, but the team is taking a different approach this summer.",
         "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 11:19:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec21767/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F793%2F870%2Fnbc_pft_falconsqb_260817.jpg"
+        "date": "Mon, 17 Aug 2026 11:56:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/641da81/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F871%2F575%2Flicht.jpg"
       },
       {
-        "title": "Bills re-sign LB Otis Reese IV",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-re-sign-lb-otis-reese-iv",
-        "summary": "The Bills have made a pair of roster moves on Monday.",
+        "title": "Dabo Swinney praises Cade Klubnik's debut for the Jets",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dabo-swinney-praises-cade-klubniks-debut-for-the-jets",
+        "summary": "Jets quarterback Cade Klubnik's current coach praised Klubnik's preseason debut, touting his \"moxie\" and \"confidence.\"",
         "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 11:01:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
+        "date": "Mon, 17 Aug 2026 11:50:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2a63d05/2147483647/strip/false/crop/3840x2160+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2Fe0%2F97da767649d3aa52fa2512eeb7ac%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29587879-1061263638-tag-reuters-com-2026-binary-mt1usatoday29587879-baseimage-3840x2568-2026-08-15t025925z-1061263638-mt1usatoday29587879-rtrmadp-3-nfl-tampa-bay-buccaneers-at-new-york-jets.JPG"
       },
       {
-        "title": "Some think Christian McCaffrey's \"tightness\" could be a hold in",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/some-think-christian-mccaffreys-tightness-could-be-a-hold-in",
-        "summary": "The official word is that 49ers running back Christian McCaffrey has missed a week of practice due to \"tightness.\"",
+        "title": "Texans sign CB Bryce Hall",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-cb-bryce-hall",
+        "summary": "Cornerback Bryce Hall worked out for the Texans this month and his performance landed him a longer stay in Houston.",
         "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 10:55:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bbde578/2147483647/strip/false/crop/3844x2162+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fb9%2Ff9f7e7784eddb19f975c92c866a3%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29578378-215763075-tag-reuters-com-2026-binary-mt1usatoday29578378-baseimage-3844x2563-2026-08-14t005841z-215763075-mt1usatoday29578378-rtrmadp-3-nfl-tennessee-titans-at-san-francisco-49ers.JPG"
+        "date": "Mon, 17 Aug 2026 11:49:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
       },
       {
-        "title": "Steelers cancel final day of training camp because of thunderstorms",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-cancel-final-day-of-training-camp-because-of-thunderstorms",
-        "summary": "There's severe weather in in Latrobe, Pennsylvania, today, and as a result, the Steelers' 2026 training camp has come to an end.",
+        "title": "Titans sign CB Corey Mayfield Jr., waive LB Sean Brown",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-sign-cb-corey-mayfield-jr-waive-lb-sean-brown",
+        "summary": "The Titans have made a couple of roster moves to start the week.",
         "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 10:54:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/718ada3/2147483647/strip/false/crop/919x517+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F3e%2Fec65a40e494a015901cc8c9780af%2F120076038-e1502221009929.jpg"
+        "date": "Mon, 17 Aug 2026 11:40:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/243d7f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F409%2F586%2Fnbc_pft_will_levis_260813.jpg"
       }
     ]
   }
