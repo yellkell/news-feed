@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T16:52:39.369Z",
+  "updated": "2026-08-17T17:19:11.934Z",
   "feed": {
     "VR": [
       {
@@ -61,12 +61,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
       },
       {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
         "source": "theverge.com",
-        "date": "2026-08-16T17:32:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-17T06:57:13-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
         "source": "theverge.com",
-        "date": "2026-08-16T10:56:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T17:32:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Report: Von Miller's one-year deal with Cowboys is worth $5.5 million",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-von-millers-one-year-deal-with-cowboys-is-worth-5-5-million",
+        "summary": "After veteran edge rusher Von Miller agreed to sign with the Cowboys on Sunday, there’s additional information about his deal.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 13:11:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5fef411/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F789%2F467%2Fnbc_pft_vonmiller_260817.jpg"
+      },
+      {
+        "title": "NFL: Jaxson Dart's visit to blue tent was a \"standard medical timeout\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-jaxson-darts-visit-to-blue-tent-was-a-standard-medical-timeout",
+        "summary": "Various factors on the play in question made an evaluation necessary.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 13:05:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b50996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F799%2F227%2Fnbc_pft_jaxsondartv3_260817.jpg"
+      },
+      {
+        "title": "Jets CB Mory Bamba to miss a couple weeks with knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-cb-mory-bamba-to-miss-a-couple-weeks-with-knee-injury",
+        "summary": "Jets rookie cornerback Mory Bamba impressed during last Friday's preseason opener, but the undrafted free agent's bid to make the team has hit an obstacle.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 12:53:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
+      },
       {
         "title": "DeVonta Smith back at practice for Eagles",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devonta-smith-back-at-practice-for-eagles",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 17 Aug 2026 12:12:43 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b50996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F799%2F227%2Fnbc_pft_jaxsondartv3_260817.jpg"
-      },
-      {
-        "title": "Najee Harris visiting with Giants on Monday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/najee-harris-visiting-with-giants-on-monday",
-        "summary": "Najee Harris may be going from one Harbaugh brother to the other.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 12:12:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b50996/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F799%2F227%2Fnbc_pft_jaxsondartv3_260817.jpg"
-      },
-      {
-        "title": "Marlon Humphrey, Nate Wiggins return to Ravens practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marlon-humphrey-nate-wiggins-return-to-ravens-practice",
-        "summary": "The Ravens are healthier in their secondary this week.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 12:06:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
-      },
-      {
-        "title": "After unexpected NFLN layoff, Tom Pelissero lands at Netflix",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-unexpected-nfln-layoff-tom-pelissero-lands-at-netflix",
-        "summary": "Last month, ESPN unexpectedly included NFL Network reporter Tom Pelissero in the latest round of layoffs, given that he had a year left on his existing NFLN deal.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 12:00:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0af45d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F793%2F870%2Fnbc_pft_aarondonaldrams_260817.jpg"
       }
     ]
   }
