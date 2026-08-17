@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T02:15:09.975Z",
+  "updated": "2026-08-17T03:13:59.529Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
         "source": "theverge.com",
-        "date": "2026-08-16T10:56:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T17:32:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Rogue AI aren’t science fiction anymore",
-        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking…",
         "source": "theverge.com",
-        "date": "2026-08-16T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-16T10:56:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Rodney Harrison's son, Christian, could be \"heartbeat\" of Arkansas defense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rodney-harrisons-son-christian-could-be-heartbeat-of-arkansas-defense",
+        "summary": "As college football season approaches, safety Christian Harrison is preparing for his first season at Arkansas.",
+        "source": "nbcsports.com",
+        "date": "Sun, 16 Aug 2026 23:07:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3d73cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F819%2FVrabeltossnoewmPX.jpg"
+      },
       {
         "title": "Carson Beck remains day-to-day with rib injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-remains-day-to-day-with-rib-injury",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 16 Aug 2026 20:23:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9314dc0/2147483647/strip/false/crop/5916x3328+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4e%2F7d%2F660ed3d8462eb4304cee5ab17688%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29578586-94692474-tag-reuters-com-2026-binary-mt1usatoday29578586-baseimage-5916x3944-2026-08-14t012441z-94692474-mt1usatoday29578586-rtrmadp-3-nfl-arizona-cardinals-at-las-vegas-raiders.JPG"
-      },
-      {
-        "title": "Bills' new grass field draws mixed reviews",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-new-grass-field-draws-mixed-reviews",
-        "summary": "The Bills have dumped artificial turf for grass in their new stadium.",
-        "source": "nbcsports.com",
-        "date": "Sun, 16 Aug 2026 20:12:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
       }
     ]
   }
