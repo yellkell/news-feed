@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T02:19:51.887Z",
+  "updated": "2026-08-18T03:58:25.547Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Report: Keenan Allen agrees to terms with Colts",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-keenan-allen-agrees-to-terms-with-colts",
+        "summary": "Another veteran receiver who had been available for months in free agency has found a new home.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 23:12:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d0b59a7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F566%2F819%2Fnbc_pft_richardson_260814.jpg"
+      },
+      {
         "title": "Jameson Williams out of practice with a minor shoulder injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameson-williams-out-of-practice-with-a-minor-shoulder-injury",
         "summary": "Lions wide receiver Jameson Williams did not practice on Sunday.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 17 Aug 2026 20:30:07 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/3587eb5/2147483647/strip/false/crop/1050x591+0+237/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F81%2Fbf4762084f219d6d1a61ab3efcd8%2Fbigshield2.jpg"
-      },
-      {
-        "title": "Report: CBS won't replace insider Jonathan Jones",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-cbs-wont-replace-insider-jonathan-jones",
-        "summary": "CBS has gotten out of the NFL Insider business.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 20:16:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/900273b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F257%2F811%2Fnbc_pft_romocbs_260803.jpg"
       }
     ]
   }
