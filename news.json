@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T01:00:59.873Z",
+  "updated": "2026-08-18T02:19:51.887Z",
   "feed": {
     "VR": [
       {
@@ -61,12 +61,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
       },
       {
-        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
+        "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+        "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+        "summary": "The greatest invention in pet tech in recent years is the litter robot.",
         "source": "theverge.com",
-        "date": "2026-08-17T06:57:13-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-17T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
         "source": "theverge.com",
-        "date": "2026-08-16T17:32:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-17T06:57:13-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Jameson Williams out of practice with a minor shoulder injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameson-williams-out-of-practice-with-a-minor-shoulder-injury",
+        "summary": "Lions wide receiver Jameson Williams did not practice on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 21:47:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/97c12c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F794%2F347%2Fnbc_pft_terrionarnold_260817.jpg"
+      },
+      {
+        "title": "Smoking-gun document produced by Korn Ferry could shake up Brian Flores case",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/smoking-gun-document-produced-by-korn-ferry-could-shake-up-brian-flores-case",
+        "summary": "Flores seeks to amend complaint based on \"insane\" document from search firm.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 21:36:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/500114a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F491%2F347%2Fnbc_pftpm_rooneyrule_260722.jpg"
+      },
+      {
+        "title": "Jerry Jones still open to substantive move despite adding Von Miller",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-still-open-to-substantive-move-despite-adding-von-miller",
+        "summary": "The Cowboys agreed to terms with veteran outside linebacker Von Miller on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 17 Aug 2026 21:26:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5fef411/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F789%2F467%2Fnbc_pft_vonmiller_260817.jpg"
+      },
       {
         "title": "Jaguars OG Patrick Mekari recently underwent back procedure",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-og-patrick-mekari-recently-underwent-back-procedure",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 17 Aug 2026 20:16:56 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/900273b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F257%2F811%2Fnbc_pft_romocbs_260803.jpg"
-      },
-      {
-        "title": "Sean McVay: Aaron Donald's second \"tryout\" is part of his process",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-aaron-donalds-second-tryout-is-part-of-his-process",
-        "summary": "Aaron Donald had a second workout at the Rams' team facility as he continues to decide whether to unretire.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 20:04:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0af45d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F793%2F870%2Fnbc_pft_aarondonaldrams_260817.jpg"
-      },
-      {
-        "title": "Mike Macdonald: \"No update\" on formal arrival of Terrion Arnold",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-no-update-on-formal-arrival-of-terrion-arnold",
-        "summary": "On Thursday, reports emerged that the Seahawks had an agreement with free-agent cornerback Terrion Arnold.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 19:55:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/97c12c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F794%2F347%2Fnbc_pft_terrionarnold_260817.jpg"
-      },
-      {
-        "title": "Kevin O'Connell: Despite injury, Jamal Adams will be \"important\" to Vikings in 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-despite-injury-jamal-adams-will-be-important-to-vikings-in-2026",
-        "summary": "The Vikings lost safety/linebacker Jamal Adams to a torn quad tendon during Saturday's preseason opener at the Giants.",
-        "source": "nbcsports.com",
-        "date": "Mon, 17 Aug 2026 19:39:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c98982d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F789%2F467%2Fnbc_pft_vikingsgiants_260817.jpg"
       }
     ]
   }
