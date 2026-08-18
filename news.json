@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:23:02.003Z",
+  "updated": "2026-08-18T15:54:28.749Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "James Palmer replaces Ian Rapoport as Prime Video's NFL Insider",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-palmer-replaces-ian-rapoport-as-prime-videos-nfl-insider",
+        "summary": "With the regular season approachint, multiple NFL broadcast partners are finalizing an eleventh-hour game of insider roulette.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 11:36:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ff4d5d4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F906%2F159%2Fnbc_pft_goodell_260818.jpg"
+      },
+      {
         "title": "Breece Hall out 2-3 weeks, should be ready for Week 1",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-out-2-3-weeks-should-be-ready-for-week-1",
         "summary": "Jets HC Aaron Glenn told reporters on Tuesday that Hall is expected back for the start of the season after suffering a groin injury on Monday.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 18 Aug 2026 10:18:00 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/3587eb5/2147483647/strip/false/crop/1050x591+0+237/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F81%2Fbf4762084f219d6d1a61ab3efcd8%2Fbigshield2.jpg"
-      },
-      {
-        "title": "Did Todd Monken tip his hand about Deshaun Watson being QB1?",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/did-todd-monken-tip-his-hand-about-deshaun-watson-being-qb1",
-        "summary": "Above all else, new Browns coach Todd Monken wants to turn the team into a winner.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 09:58:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b870d59/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_browns_qb_260818.jpg"
       }
     ]
   }
