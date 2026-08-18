@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T06:01:51.617Z",
+  "updated": "2026-08-18T07:01:29.806Z",
   "feed": {
     "VR": [
       {
@@ -61,12 +61,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
       },
       {
-        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
+        "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+        "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+        "summary": "The greatest invention in pet tech in recent years is the litter robot.",
         "source": "theverge.com",
-        "date": "2026-08-17T06:57:13-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-17T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules.",
         "source": "theverge.com",
-        "date": "2026-08-16T17:32:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-17T06:57:13-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
