@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T10:19:44.504Z",
+  "updated": "2026-08-18T11:17:26.700Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Apple’s camera-equipped AirPods appear in leaked video",
-        "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-        "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate.",
+        "title": "Elon Musk made flying even worse so Palantir could profit",
+        "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+        "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours.",
         "source": "theverge.com",
-        "date": "2026-08-18T05:00:01-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-18T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nvidia discloses $21B stake in SpaceX",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-        "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-        "summary": "The greatest invention in pet tech in recent years is the litter robot.",
+        "title": "ChatGPT is getting a dedicated mode for teens",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+        "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof.",
         "source": "theverge.com",
-        "date": "2026-08-17T07:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-18T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
