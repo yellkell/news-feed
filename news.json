@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T14:03:42.039Z",
+  "updated": "2026-08-18T14:50:01.794Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+        "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+        "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+        "source": "arstechnica.com",
+        "date": "Tue, 18 Aug 2026 13:00:04 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
+      },
+      {
         "title": "Firefox’s Smart Window promises a better AI browser",
         "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
         "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa.",
         "source": "theverge.com",
         "date": "2026-08-18T09:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Nvidia discloses $21B stake in SpaceX",
-        "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-        "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-        "source": "arstechnica.com",
-        "date": "Mon, 17 Aug 2026 14:22:54 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -85,12 +85,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-        "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-        "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+        "title": "Nvidia discloses $21B stake in SpaceX",
+        "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+        "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
         "source": "arstechnica.com",
-        "date": "Fri, 14 Aug 2026 18:32:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg"
+        "date": "Mon, 17 Aug 2026 14:22:54 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
       },
       {
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Keon Coleman not practicing Tuesday, wearing walking boot",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keon-coleman-not-practicing-tuesday-wearing-walking-boot",
+        "summary": "One of Buffalo's key receivers has an injury concern.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 10:19:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
+      },
+      {
+        "title": "For first anniversary of release, Big Shield ebook is free on Tuesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/for-first-anniversary-of-release-big-shield-ebook-is-free-on-tuesday",
+        "summary": "A year ago, Big Shield arrived as a cautionary tale regarding pro sports and legalized betting.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 10:18:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3587eb5/2147483647/strip/false/crop/1050x591+0+237/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F81%2Fbf4762084f219d6d1a61ab3efcd8%2Fbigshield2.jpg"
+      },
       {
         "title": "Did Todd Monken tip his hand about Deshaun Watson being QB1?",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/did-todd-monken-tip-his-hand-about-deshaun-watson-being-qb1",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 18 Aug 2026 09:32:51 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c51aa1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F907%2F635%2Fnbc_pft_giantaplayoffs_260818.jpg"
-      },
-      {
-        "title": "Dolphins sign DE Seth Coleman-Lyles",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-de-seth-coleman-lyles",
-        "summary": "The Dolphins made some changes to their defensive line on Tuesday.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 09:29:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7bb09ec/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F198%2Fnbc_pft_troy_aikman_finish_260814.jpg"
-      },
-      {
-        "title": "Za'Darius Smith signs one-year deal with Falcons",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zadarius-smith-signs-one-year-deal-with-falcons",
-        "summary": "After a flirtation with returning to Cleveland, veteran defensive end Za'Darius Smith has decided to go to Atlanta instead.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 09:05:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec21767/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F793%2F870%2Fnbc_pft_falconsqb_260817.jpg"
       }
     ]
   }
