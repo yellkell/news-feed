@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-18T21:15:17.470Z",
+  "updated": "2026-08-18T21:44:58.339Z",
   "feed": {
     "VR": [
       {
-        "title": "Ghosts Of Tabor Studio's Founder Is Chopping Down VR Cheaters One Game At A Time",
-        "url": "https://www.uploadvr.com/combat-waffles-scott-albright-is-eliminating-cheating/",
-        "summary": "We spoke to Scott Albright, the founder of Ghosts of Tabor developer Combat Waffle Studios, about Tomahawk, his team's anti-cheat solution for VR gaming.",
+        "title": "Tabletop Party Game All On Board Adding A Free New Game This Week",
+        "url": "https://www.uploadvr.com/tabletop-party-game-all-on-board-adding-a-free-new-game-this-week/",
+        "summary": "All On Board is adding Virus!, a new game, for free on Quest and Steam later this week.",
         "source": "uploadvr.com",
-        "date": "Tue, 18 Aug 2026 14:02:12 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/uvr-Gamescast081726.png"
+        "date": "Tue, 18 Aug 2026 14:25:38 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/All-On-Board-_Main-Key-Art.png"
       },
       {
         "title": "‘Into the Radius 2’ Leaves Quest Early Access Aug 27, Including Campaign & New Content",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "FitXR Adds Knee Strikes To Combat & Flow On Quest",
-        "url": "https://www.uploadvr.com/fitxr-adds-knee-strikes-to-combat-flow-on-quest/",
-        "summary": "FitXR added knee strikes to its Combat and Flow studios on Quest, increasing lower-body coordination and core engagement.",
+        "title": "Ghosts Of Tabor Studio's Founder Is Chopping Down VR Cheaters One Game At A Time",
+        "url": "https://www.uploadvr.com/combat-waffles-scott-albright-is-eliminating-cheating/",
+        "summary": "We spoke to Scott Albright, the founder of Ghosts of Tabor developer Combat Waffle Studios, about Tomahawk, his team's anti-cheat solution for VR gaming.",
         "source": "uploadvr.com",
-        "date": "Mon, 17 Aug 2026 10:28:24 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/KneeStrikes_branded.png"
+        "date": "Tue, 18 Aug 2026 14:02:12 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/uvr-Gamescast081726.png"
       },
       {
         "title": "How to Find Every Major PC VR Mod in One Place",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+        "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap.",
+        "source": "theverge.com",
+        "date": "2026-08-18T15:48:26-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371"
+      },
+      {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
         "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
         "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
         "source": "arstechnica.com",
         "date": "Tue, 18 Aug 2026 13:00:04 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
-      },
-      {
-        "title": "Firefox’s Smart Window promises a better AI browser",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-        "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa.",
-        "source": "theverge.com",
-        "date": "2026-08-18T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Google’s Pet Memory forgot who my cats are",
-        "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-        "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters.",
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its…",
         "source": "theverge.com",
-        "date": "2026-08-18T08:01:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-18T15:28:30-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nvidia discloses $21B stake in SpaceX",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Free agent DL Greg Gaines agrees to terms with Bills",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-dl-greg-gaines-agrees-to-terms-with-bills",
+        "summary": "The Bills are signing free agent defensive lineman Greg Gaines, Jeremy Fowler of ESPN reports.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 17:36:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
+      },
+      {
+        "title": "Todd Monken gets upset, ends physical Browns practice early",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-gets-upset-ends-browns-practice-early",
+        "summary": "Browns head coach Todd Monken found himself \"emotionally hijacked\" during a practice early in training camp and he was hot under the collar again on Tuesday.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 17:33:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aca546c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_sanders_260818.jpg"
+      },
+      {
+        "title": "Seahawks work out free agent CB Trevon Diggs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-work-out-free-agent-cb-trevon-diggs",
+        "summary": "The Seahawks agreed to terms with free agent cornerback Terrion Arnold, but he has not signed and the NFL reportedly will place him on the commissioner’s exempt list if he does.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 17:18:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/997ab0c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F794%2F347%2Fnbc_pft_devonwitherspoon_260817.jpg"
+      },
+      {
+        "title": "LB Shaq Thompson, DL DaQuan Jones visit Patriots",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lb-shaq-thompson-dl-daquan-jones-visit-patriots",
+        "summary": "The Patriots met with a pair of veteran defensive free agents on Tuesday.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 17:16:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
+      },
+      {
+        "title": "Chase Claypool, Josh Reynolds get tryouts with the Saints",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chase-claypool-josh-reynolds-get-tryouts-with-the-saints",
+        "summary": "Six years ago, it appeared that the Steelers had found a keeper in second-round receiver Chase Claypool.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 17:13:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a46de7a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F906%2F159%2Fnbc_pft_tysoninjury_260818.jpg"
+      },
+      {
         "title": "Packers claim DE Arden Walker off waivers",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-claim-de-arden-walker-off-waivers",
         "summary": "The Packers have brought in a player from a division rival.",
         "source": "nbcsports.com",
         "date": "Tue, 18 Aug 2026 17:08:16 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f6a9e6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F400%2F803%2Fnbc_pft_jordan_love_260813.jpg"
-      },
-      {
-        "title": "Von Miller wants to wear No. 40, has offers out to FB Hunter Luepke",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-wants-to-wear-no-40-has-offers-out-to-fb-hunter-luepke",
-        "summary": "Von Miller doesn't currently have a number on the Cowboys' official roster, and a day after signing a one-year deal with the team, he doesn't know what his number will be.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 16:55:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5fef411/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F789%2F467%2Fnbc_pft_vonmiller_260817.jpg"
-      },
-      {
-        "title": "Falcons list Jawaan Taylor as their starting right tackle",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-list-jawaan-taylor-as-their-starting-right-tackle",
-        "summary": "A week after he was activated from the physically unable to perform list, Jawaan Taylor is listed as the Falcons' starting right tackle.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 16:49:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec21767/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F793%2F870%2Fnbc_pft_falconsqb_260817.jpg"
-      },
-      {
-        "title": "Rams sign WR Alex Bachman",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-sign-wr-alex-bachman",
-        "summary": "The Rams have brought in a veteran receiver who started his career with the club.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 16:41:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0af45d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F793%2F870%2Fnbc_pft_aarondonaldrams_260817.jpg"
-      },
-      {
-        "title": "49ers WR Mike Evans left the joint practice early with \"tightness\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wr-mike-evans-left-the-joint-practice-early-with-tightness",
-        "summary": "49ers wide receiver Mike Evans exited Tuesday's joint practice early.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 16:16:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b9ad74/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F915%2F443%2FTomlinTonightSHowMPX.jpg"
-      },
-      {
-        "title": "Ravens sign OT David Sharpe",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-sign-ot-david-sharpe",
-        "summary": "Veteran offensive tackle David Sharpe is back for a second stint with the Ravens.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 16:10:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
       }
     ]
   }
