@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:37:59.862Z",
+  "updated": "2026-08-18T19:55:57.847Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-        "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its…",
+        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+        "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap.",
         "source": "theverge.com",
-        "date": "2026-08-18T15:28:30-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-18T15:48:26-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371"
       },
       {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Firefox’s Smart Window promises a better AI browser",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-        "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa.",
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its…",
         "source": "theverge.com",
-        "date": "2026-08-18T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-18T15:28:30-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nvidia discloses $21B stake in SpaceX",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Texans WR Jayden Higgins leaves joint practice early",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-wr-jayden-higgins-leaves-joint-practice-early",
+        "summary": "Texans wide receiver Jayden Higgins left the team's joint practice with the Raiders early.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 15:49:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
+      },
+      {
+        "title": "Kyle Shanahan: Christian McCaffrey's absence is not contract-related",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-christian-mccaffreys-absence-is-not-contract-related",
+        "summary": "Shanahan told reporters on Tuesday that McCaffrey would play if it were a regular-season game week.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 15:49:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d187d03/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F795%2F823%2Fnbc_pft_mccaffrey_260817.jpg"
+      },
+      {
+        "title": "Colts sign three players, put TE Carson Towt on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-sign-three-players-put-te-carson-towt-on-ir",
+        "summary": "The Colts announced a number of roster moves on Tuesday afternoon.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 15:45:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e863dbc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F906%2F159%2Fnbc_pft_keenanallen_260818.jpg"
+      },
+      {
+        "title": "Bo Nix on training camp fight with Nik Bonitto: \"I love it, it's football\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-on-training-camp-fight-with-nik-bonitto-i-love-it-its-football",
+        "summary": "Quarterbacks are usually not involved in training camp fights, but Broncos quarterback Bo Nix was today.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 15:38:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3fc37ab/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_afcoffense_260818.jpg"
+      },
+      {
         "title": "Ravens hope Nnamdi Madubuike will start contact work in \"next couple of weeks\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-hope-nnamdi-madubuike-will-start-contact-work-in-next-couple-of-weeks",
         "summary": "Ravens defensive tackle Nnamdi Madubuike came off the physically unable to perform list early in training camp, but he has not returned to a full practice workload.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 18 Aug 2026 14:50:18 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6d7a66d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_joint_practice_260818.jpg"
-      },
-      {
-        "title": "Mike Evans, Quentin Johnston exit 49ers-Chargers joint practice early",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-evans-quentin-johnston-exit-49ers-chargers-joint-practice-early",
-        "summary": "Both the 49ers and Chargers have seen wide receivers leave Tuesday's joint practice early.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 14:47:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/31da5f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F907%2F635%2Fnbc_pft_najeeharris_260818.jpg"
-      },
-      {
-        "title": "Report: Giants to release JuJu Smith-Schuster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-to-release-juju-smith-schuster",
-        "summary": "The Giants are set to sign running back Najee Harris and his arrival will reportedly result in the departure of one of his former Steelers teammates from the NFC East team's…",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 14:31:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/31da5f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F907%2F635%2Fnbc_pft_najeeharris_260818.jpg"
-      },
-      {
-        "title": "Calais Campbell expresses appreciation for widespread support after family tragedy",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/calais-campbell-expresses-appreciation-for-widespread-support-after-family-tragedy",
-        "summary": "Long-time veteran defensive tackle Calais Campbell experienced an unspeakable family tragedy in June, when his brother allegedly killed their mother.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 14:29:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3fc37ab/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_afcoffense_260818.jpg"
-      },
-      {
-        "title": "C Tyler Biadasz carted off at Chargers practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-tyler-biadasz-carted-off-at-chargers-practice",
-        "summary": "The Chargers saw one of their starting offensive linemen go down with an injury on Tuesday.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 13:38:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d759fc3/2147483647/strip/false/crop/6888x3875+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F68%2Fc09e32d3415ebe8be2e68ad4f443%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29485881-1718842836-tag-reuters-com-2026-binary-mt1usatoday29485881-baseimage-6888x4592-2026-07-31t060514z-1718842836-mt1usatoday29485881-rtrmadp-3-nfl-los-angeles-chargers-training-camp.JPG"
       }
     ]
   }
