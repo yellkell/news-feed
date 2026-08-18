@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:54:28.749Z",
+  "updated": "2026-08-18T16:21:36.731Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Jordan Love, Packers starters to play Friday night vs. Broncos",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-packers-starters-to-play-friday-night-vs-broncos",
+        "summary": "Green Bay's starters played in the team's preseason opener against Pittsburgh last week.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 12:09:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f6a9e6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F400%2F803%2Fnbc_pft_jordan_love_260813.jpg"
+      },
+      {
         "title": "James Palmer replaces Ian Rapoport as Prime Video's NFL Insider",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-palmer-replaces-ian-rapoport-as-prime-videos-nfl-insider",
         "summary": "With the regular season approachint, multiple NFL broadcast partners are finalizing an eleventh-hour game of insider roulette.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 18 Aug 2026 10:19:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
-      },
-      {
-        "title": "For first anniversary of release, Big Shield ebook is free on Tuesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/for-first-anniversary-of-release-big-shield-ebook-is-free-on-tuesday",
-        "summary": "A year ago, Big Shield arrived as a cautionary tale regarding pro sports and legalized betting.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 10:18:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3587eb5/2147483647/strip/false/crop/1050x591+0+237/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F81%2Fbf4762084f219d6d1a61ab3efcd8%2Fbigshield2.jpg"
       }
     ]
   }
