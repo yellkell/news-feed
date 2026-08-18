@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:05:28.801Z",
+  "updated": "2026-08-18T19:37:59.862Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its…",
+        "source": "theverge.com",
+        "date": "2026-08-18T15:28:30-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
         "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
         "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
         "source": "arstechnica.com",
         "date": "Tue, 18 Aug 2026 13:00:04 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
-      },
-      {
-        "title": "Firefox’s Smart Window promises a better AI browser",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-        "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa.",
-        "source": "theverge.com",
-        "date": "2026-08-18T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       },
       {
-        "title": "Google’s Pet Memory forgot who my cats are",
-        "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-        "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters.",
+        "title": "Firefox’s Smart Window promises a better AI browser",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+        "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa.",
         "source": "theverge.com",
-        "date": "2026-08-18T08:01:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-18T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nvidia discloses $21B stake in SpaceX",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Ravens hope Nnamdi Madubuike will start contact work in \"next couple of weeks\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-hope-nnamdi-madubuike-will-start-contact-work-in-next-couple-of-weeks",
+        "summary": "Ravens defensive tackle Nnamdi Madubuike came off the physically unable to perform list early in training camp, but he has not returned to a full practice workload.",
+        "source": "nbcsports.com",
+        "date": "Tue, 18 Aug 2026 15:11:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
+      },
       {
         "title": "Matt LaFleur on Keisean Nixon's complaints about second-team reps: \"Everybody's in competition\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-on-keisean-nixons-complaints-about-second-team-reps-everybodys-in-competition",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 18 Aug 2026 13:38:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d759fc3/2147483647/strip/false/crop/6888x3875+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F68%2Fc09e32d3415ebe8be2e68ad4f443%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29485881-1718842836-tag-reuters-com-2026-binary-mt1usatoday29485881-baseimage-6888x4592-2026-07-31t060514z-1718842836-mt1usatoday29485881-rtrmadp-3-nfl-los-angeles-chargers-training-camp.JPG"
-      },
-      {
-        "title": "Report: Keon Coleman suffered sprained foot/toe in preseason game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-keon-coleman-suffered-sprained-foot-toe-in-preseason-game",
-        "summary": "There is some new information on Bills receiver Keon Coleman, who did not practice on Tuesday and was spotted in a walking boot.",
-        "source": "nbcsports.com",
-        "date": "Tue, 18 Aug 2026 13:16:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05feaae/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F160%2F563%2Fnbc_pft_billsstadium_260811.jpg"
       }
     ]
   }
