@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T14:04:11.479Z",
+  "updated": "2026-08-19T14:50:45.289Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,20 @@
     ],
     "AI": [
       {
-        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-        "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap.",
+        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+        "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat…",
+        "source": "venturebeat.com",
+        "date": "Wed, 19 Aug 2026 14:18:12 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
+      },
+      {
+        "title": "Nvidia’s new financial strategy does not compute",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+        "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation.",
         "source": "theverge.com",
-        "date": "2026-08-18T15:48:26-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371"
+        "date": "2026-08-19T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -69,20 +77,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       },
       {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list…",
-        "source": "venturebeat.com",
-        "date": "Tue, 19 May 2026 17:45:00 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
-      },
-      {
-        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-        "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its…",
+        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+        "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap.",
         "source": "theverge.com",
-        "date": "2026-08-18T15:28:30-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-18T15:48:26-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371"
       },
       {
         "title": "Nvidia discloses $21B stake in SpaceX",
@@ -93,15 +93,39 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
       },
       {
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-        "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100…",
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list…",
         "source": "venturebeat.com",
-        "date": "Thu, 22 Jan 2026 14:00:00 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30"
+        "date": "Tue, 19 May 2026 17:45:00 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
       }
     ],
     "NFL": [
+      {
+        "title": "Chiefs sign LB Cam Jones, waive DE Anthony Dunn",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-sign-lb-cam-jones-waive-de-anthony-dunn",
+        "summary": "The Chiefs have brought a key special teams contributor back to their building.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 10:34:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58a06de/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1021%2F399%2FBienemynew8-19.jpg"
+      },
+      {
+        "title": "Eagles DC Vic Fangio concerned Jonathan Greenard will miss start of regular season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-dc-vic-fangio-concerned-jonathan-greenard-will-miss-start-of-regular-season",
+        "summary": "Eagles linebacker Jonathan Greenard has not practiced yet this summer and thoughts are beginning to turn toward his availability for the regular season.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 10:13:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1feb62f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1023%2F351%2Fnbc_pft_qbpov_260819.jpg"
+      },
+      {
+        "title": "ESPN adds Jason Kelce to the Dave Pasch/Kurt Warner NFL booth",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-adds-jason-kelce-to-the-dave-pasch-kurt-warner-nfl-booth",
+        "summary": "When Travis Kelce retires from the NFL, he'll likely land in an NFL broadcast booth.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 10:08:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6f462c9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1024%2F827%2Fnbc_pft_morefighting_260819.jpg"
+      },
       {
         "title": "ESPN adds Pat McAfee to Monday Night Countdown",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-adds-pat-mcafee-to-monday-night-countdown",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 19 Aug 2026 09:43:18 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/997ab0c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F794%2F347%2Fnbc_pft_devonwitherspoon_260817.jpg"
-      },
-      {
-        "title": "Titans, RB D'Ernest Johnson agree to one-year deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-rb-dernest-johnson-agree-to-one-year-deal",
-        "summary": "The Titans are bringing in a veteran running back.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 09:26:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/243d7f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F409%2F586%2Fnbc_pft_will_levis_260813.jpg"
-      },
-      {
-        "title": "Report: Giants agree to trade OL Daniel Faalele to Jaguars",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-agree-to-trade-ol-daniel-faalele-to-jaguars",
-        "summary": "The Jaguars have reportedly agreed to a trade to help bolster their offensive line in the wake of guard Patrick Mekari's back surgery.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 09:16:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/31da5f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F907%2F635%2Fnbc_pft_najeeharris_260818.jpg"
-      },
-      {
-        "title": "Jets sign WR Junior Bergen",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-sign-wr-junior-bergen",
-        "summary": "The Jets did some roster shuffling on Wednesday morning.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 08:48:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0611d97/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F907%2F635%2Fnbc_pft_breecehall_260818.jpg"
       }
     ]
   }
