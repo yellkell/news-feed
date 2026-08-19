@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T17:19:28.797Z",
+  "updated": "2026-08-19T17:47:50.804Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "OpenAI hit the brakes. Now what?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.",
+        "source": "theverge.com",
+        "date": "2026-08-19T13:10:09-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
         "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
         "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat…",
         "source": "venturebeat.com",
         "date": "Wed, 19 Aug 2026 14:18:12 GMT",
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
-      },
-      {
-        "title": "Nvidia’s new financial strategy does not compute",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-        "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation.",
-        "source": "theverge.com",
-        "date": "2026-08-19T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -77,12 +77,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       },
       {
-        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-        "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap.",
+        "title": "Meta AI is getting a Mac app",
+        "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+        "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide…",
         "source": "theverge.com",
-        "date": "2026-08-18T15:48:26-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371"
+        "date": "2026-08-19T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nvidia discloses $21B stake in SpaceX",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Christian McCaffrey's injury absence has more nuance than meets the eye",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffreys-injury-absence-has-more-nuance-than-meets-the-eye",
+        "summary": "When is a hold in not a hold in, but still kind of a hold in?",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 13:42:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d5b2d6/2147483647/strip/false/crop/5747x3233+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2F25%2F2f1ee391444693cebe80808b601e%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29528945-85935747-tag-reuters-com-2026-binary-mt1usatoday29528945-baseimage-5747x3833-2026-08-06t184043z-85935747-mt1usatoday29528945-rtrmadp-3-nfl-san-francisco-49ers-training-camp.JPG"
+      },
+      {
+        "title": "Baker Mayfield mends fences with his family",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-mends-fences-with-his-family",
+        "summary": "As franchise quarterbacks with family fractures go, most of the attention is given to Aaron Rodgers.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 13:15:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4b20717/2147483647/strip/false/crop/6368x3582+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fd4%2F2d652542474cb2123c24f070e9b7%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29586106-752977815-tag-reuters-com-2026-binary-mt1usatoday29586106-baseimage-6368x4248-2026-08-14t230812z-752977815-mt1usatoday29586106-rtrmadp-3-nfl-tampa-bay-buccaneers-at-new-york-jets.JPG"
+      },
       {
         "title": "49ers set to play \"a number\" of starters vs. Chargers on Thursday",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-set-to-play-a-number-of-starters-vs-chargers-on-thursday",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 19 Aug 2026 12:09:01 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6f462c9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1024%2F827%2Fnbc_pft_morefighting_260819.jpg"
-      },
-      {
-        "title": "Von Miller: Winning Super Bowl in Dallas would be different than Denver or L.A.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-winning-super-bowl-in-dallas-would-be-different-than-denver-or-l-a",
-        "summary": "Miller is looking for a third ring in his return to his home state.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 12:05:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2bf3dd3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F2%2F279%2Fnbc_pft_vonmiller_260819.jpg"
-      },
-      {
-        "title": "Bears left guard Joe Thuney would like clarity on who the left tackle next to him will be",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-left-guard-joe-thuney-would-like-clarity-on-who-the-left-tackle-next-to-him-will-be",
-        "summary": "The Bears' official depth chart lists four different players as the co-No. 1 left tackles.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 11:50:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed9a947/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F571%2F699%2Fnbc_pft_endseg_260814.jpg"
       }
     ]
   }
