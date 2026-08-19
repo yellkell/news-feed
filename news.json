@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:56:59.318Z",
+  "updated": "2026-08-19T20:22:47.508Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Google Gemini is getting a dedicated student hub",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
+        "source": "theverge.com",
+        "date": "2026-08-19T15:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
         "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
         "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat…",
         "source": "venturebeat.com",
         "date": "Wed, 19 Aug 2026 14:18:12 GMT",
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
-      },
-      {
-        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-        "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap.",
-        "source": "theverge.com",
-        "date": "2026-08-18T15:48:26-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371"
       },
       {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -77,12 +77,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       },
       {
-        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-        "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its…",
+        "title": "OpenAI hit the brakes. Now what?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.",
         "source": "theverge.com",
-        "date": "2026-08-18T15:28:30-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-19T13:10:09-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nvidia discloses $21B stake in SpaceX",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Chargers sign WR Liam Clifford",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-sign-wr-liam-clifford",
+        "summary": "The Chargers signed wide receiver Liam Clifford on Wednesday, the team announced.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 16:17:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/783d07b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1017%2F495%2Fnbc_pft_terrionarnold_260819.jpg"
+      },
+      {
+        "title": "Colts TE Tyler Warren exits practice with an injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-te-tyler-warren-exits-practice-with-an-injury",
+        "summary": "Colts tight end Tyler Warren left practice early after going down on a route in 11-on-11 drills.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 16:07:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e863dbc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F906%2F159%2Fnbc_pft_keenanallen_260818.jpg"
+      },
       {
         "title": "Aaron Glenn regrets his approach to the media in his first year",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-regrets-his-approach-to-the-media-in-his-first-year",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 19 Aug 2026 14:55:42 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
-      },
-      {
-        "title": "Quinshon Judkins is not practicing on Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quinshon-judkins-is-not-practicing-on-wednesday",
-        "summary": "One of Cleveland's key offensive players is not on the practice field on Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 14:40:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aca546c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_sanders_260818.jpg"
-      },
-      {
-        "title": "A.J. Brown says he hasn't spoken with Jalen Hurts since the trade",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-says-he-hasnt-spoken-with-jalen-hurts-since-the-trade",
-        "summary": "With the Eagles and Patriots going head-to-head for a joint practice in Foxborough before playing Saturday's preseason game, members of Philadelphia's beat corps got a chance to…",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 14:12:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1feb62f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1023%2F351%2Fnbc_pft_qbpov_260819.jpg"
       }
     ]
   }
