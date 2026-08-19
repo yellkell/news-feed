@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-19T20:22:47.508Z",
+  "updated": "2026-08-19T20:51:38.710Z",
   "feed": {
     "VR": [
+      {
+        "title": "Co-op Horde FPS The Long Survival Launches On PlayStation VR2 Next Week",
+        "url": "https://www.uploadvr.com/co-op-horde-fps-a-long-survive-launches-on-playstation-vr2-next-week/",
+        "summary": "The Long Survival (formerly A Long Survive) is set to arrive on PlayStation VR2 next week, following a false notification indicating it was available now.",
+        "source": "uploadvr.com",
+        "date": "Wed, 19 Aug 2026 13:43:16 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/HP_ly34XoAAV4kr-1-1-1.jpg"
+      },
       {
         "title": "Pico’s Vision Pro Competitor Gets Official Name and Debut Date",
         "url": "https://roadtovr.com/picos-vision-pro-competitor-release-date-pricr-name/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Wed, 19 Aug 2026 19:06:50 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Co-op VR JRPG Knights Of Fiona To Launch \"Free-To-Start\" With Paid Story Pass",
-        "url": "https://www.uploadvr.com/co-op-vr-jrpg-knights-of-fiona-to-launch-free-to-start-with-paid-story-pass/",
-        "summary": "VR co-op JRPG Knights of Fiona will launch \"free-to-start\" on Quest and PC VR, with the game's story and other features included in an optional paid Story Pass.",
-        "source": "uploadvr.com",
-        "date": "Tue, 18 Aug 2026 16:56:41 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/1920x1080keyart-3.png"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "Roguelike Shooter The Light Brigade's Final Content Update Is Live Now",
-        "url": "https://www.uploadvr.com/roguelike-shooter-the-light-brigades-final-content-update-is-live-now/",
-        "summary": "Roguelike VR FPS The Light Brigade Update 5.0 - The Definitive Edition is its final content update, available now on Quest and Steam.",
+        "title": "Co-op VR JRPG Knights Of Fiona To Launch \"Free-To-Start\" With Paid Story Pass",
+        "url": "https://www.uploadvr.com/co-op-vr-jrpg-knights-of-fiona-to-launch-free-to-start-with-paid-story-pass/",
+        "summary": "VR co-op JRPG Knights of Fiona will launch \"free-to-start\" on Quest and PC VR, with the game's story and other features included in an optional paid Story Pass.",
         "source": "uploadvr.com",
-        "date": "Tue, 18 Aug 2026 16:54:13 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/the-light-brigade.png"
+        "date": "Tue, 18 Aug 2026 16:56:41 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/1920x1080keyart-3.png"
       },
       {
         "title": "‘Into the Radius 2’ Leaves Quest Early Access Aug 27, Including Campaign & New Content",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Browns sign DE Jamil Muhammad, waive CB Jeadyn Lukus",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-sign-de-jamil-muhammad-waive-cb-jeadyn-lukus",
+        "summary": "The Browns have made a pair of roster moves on Wednesday.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 16:24:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6f462c9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1024%2F827%2Fnbc_pft_morefighting_260819.jpg"
+      },
+      {
         "title": "Chargers sign WR Liam Clifford",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-sign-wr-liam-clifford",
         "summary": "The Chargers signed wide receiver Liam Clifford on Wednesday, the team announced.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 19 Aug 2026 15:02:17 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e863dbc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F906%2F159%2Fnbc_pft_keenanallen_260818.jpg"
-      },
-      {
-        "title": "Ravens center Danny Pinter carted off the field at joint practice with Vikings",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-center-danny-pinter-carted-off-the-field-at-joint-practice-with-vikings",
-        "summary": "Ravens center Danny Pinter suffered an injury at today's joint practice with the Vikings.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 14:55:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
       }
     ]
   }
