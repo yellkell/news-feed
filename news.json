@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:21:53.051Z",
+  "updated": "2026-08-19T19:00:29.231Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI hit the brakes. Now what?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.",
+        "title": "Google Gemini is getting a dedicated student hub",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
         "source": "theverge.com",
-        "date": "2026-08-19T13:10:09-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-19T15:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -77,12 +77,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       },
       {
-        "title": "Meta AI is getting a Mac app",
-        "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-        "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide…",
+        "title": "OpenAI hit the brakes. Now what?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.",
         "source": "theverge.com",
-        "date": "2026-08-19T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-19T13:10:09-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nvidia discloses $21B stake in SpaceX",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Ravens center Danny Pinter carted off the field at joint practice with Vikings",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-center-danny-pinter-carted-off-the-field-at-joint-practice-with-vikings",
+        "summary": "Ravens center Danny Pinter suffered an injury at today's joint practice with the Vikings.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 14:55:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efda55a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F615%2F718%2Fnbc_pft_flowersconvo_260805.jpg"
+      },
+      {
+        "title": "Quinshon Judkins is not practicing on Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quinshon-judkins-is-not-practicing-on-wednesday",
+        "summary": "One of Cleveland's key offensive players is not on the practice field on Wednesday.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 14:40:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aca546c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_sanders_260818.jpg"
+      },
       {
         "title": "A.J. Brown says he hasn't spoken with Jalen Hurts since the trade",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-says-he-hasnt-spoken-with-jalen-hurts-since-the-trade",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 19 Aug 2026 13:15:33 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4b20717/2147483647/strip/false/crop/6368x3582+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fd4%2F2d652542474cb2123c24f070e9b7%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29586106-752977815-tag-reuters-com-2026-binary-mt1usatoday29586106-baseimage-6368x4248-2026-08-14t230812z-752977815-mt1usatoday29586106-rtrmadp-3-nfl-tampa-bay-buccaneers-at-new-york-jets.JPG"
-      },
-      {
-        "title": "49ers set to play \"a number\" of starters vs. Chargers on Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-set-to-play-a-number-of-starters-vs-chargers-on-thursday",
-        "summary": "The 49ers will have a representative first unit on the field when they take on the Chargers on Thursday night.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 13:14:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/887683b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1017%2F495%2Fnbc_pft_shanahanbosa_260819.jpg"
-      },
-      {
-        "title": "Texans to rest starters Thursday vs. Raiders",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-to-rest-starters-thursday-vs-raiders",
-        "summary": "Houston head coach DeMeco Ryans has changed his mind when it comes to playing time for Thursday’s preseason matchup with Las Vegas.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 12:52:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c79d56/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F567%2F795%2Fnbc_pft_powerrankings_260814.jpg"
       }
     ]
   }
