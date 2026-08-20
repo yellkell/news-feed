@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T15:46:58.598Z",
+  "updated": "2026-08-20T16:24:41.759Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "It’s Greg Brockman’s OpenAI now",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+        "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from…",
+        "source": "theverge.com",
+        "date": "2026-08-20T11:45:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Grok exfiltrates user data when malicious instructions are encrypted",
         "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
         "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
         "source": "arstechnica.com",
         "date": "Thu, 20 Aug 2026 13:00:35 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
-      },
-      {
-        "title": "Slack is launching collaborative vibe-coding channels",
-        "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-        "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations.",
-        "source": "theverge.com",
-        "date": "2026-08-20T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       },
       {
-        "title": "Google Gemini is getting a dedicated student hub",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
+        "title": "Welcome to the AI crisis in math",
+        "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+        "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead…",
         "source": "theverge.com",
-        "date": "2026-08-19T15:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-20T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Broncos add S Taylor Rapp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-add-s-taylor-rapp",
+        "summary": "The Broncos are adding some depth at safety.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 12:04:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/294e1d9/2147483647/strip/false/crop/4115x2315+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2Fa2%2Ffc1813af4ed8b308895fea7394dc%2F2234873531.jpg"
+      },
       {
         "title": "Via Vea defends Todd Bowles regarding last year's collapse",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/via-vea-defends-todd-bowles-regarding-last-years-collapse",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 10:48:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2928458/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2F17%2Fc10f63ee4ec885acd58dd6728208%2F2290652740.jpg"
-      },
-      {
-        "title": "New study shows postbiotic could reduce risk of brain damage from concussions",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-study-shows-postbiotic-could-reduce-risk-of-brain-damage-from-concussions",
-        "summary": "At a time when research is ongoing to develop a test to diagnose CTE in living patients, other research could lead to advances aimed at reducing the risk of brain damage from…",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 10:40:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4223f79/2147483647/strip/false/crop/6779x3813+0+353/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F95%2F698190c74376b444d5665393f78c%2Fdownload.jpg"
       }
     ]
   }
