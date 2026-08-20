@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-20T14:18:53.388Z",
+  "updated": "2026-08-20T15:02:31.493Z",
   "feed": {
     "VR": [
+      {
+        "title": "Steam Frame Unboxing & Setup Videos Leak, Pointing to Imminent Launch",
+        "url": "https://roadtovr.com/steam-frame-unboxing-setup-video-leak/",
+        "summary": "It looks as though Valve is actually gearing up to release Steam Frame, as user setup videos have leaked showing off unboxing and first-time user experience with Valve’s first…",
+        "source": "roadtovr.com",
+        "date": "Thu, 20 Aug 2026 14:23:48 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
       {
         "title": "Co-op Horde FPS The Long Survival Launches On PlayStation VR2 Next Week",
         "url": "https://www.uploadvr.com/co-op-horde-fps-a-long-survive-launches-on-playstation-vr2-next-week/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Wed, 19 Aug 2026 13:43:16 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/HP_ly34XoAAV4kr-1-1-1.jpg"
-      },
-      {
-        "title": "Pico’s Vision Pro Competitor Gets Official Name and Debut Date",
-        "url": "https://roadtovr.com/picos-vision-pro-competitor-release-date-pricr-name/",
-        "summary": "Pico’s Vision Pro competitor is set to debut at a special event in Beijing early next month, which is now officially named Pico Space Pro.",
-        "source": "roadtovr.com",
-        "date": "Wed, 19 Aug 2026 19:06:50 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -27,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
+        "title": "Pico’s Vision Pro Competitor Gets Official Name and Debut Date",
+        "url": "https://roadtovr.com/picos-vision-pro-competitor-release-date-pricr-name/",
+        "summary": "Pico’s Vision Pro competitor is set to debut at a special event in Beijing early next month, which is now officially named Pico Space Pro.",
+        "source": "roadtovr.com",
+        "date": "Wed, 19 Aug 2026 19:06:50 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "Co-op VR JRPG Knights Of Fiona To Launch \"Free-To-Start\" With Paid Story Pass",
         "url": "https://www.uploadvr.com/co-op-vr-jrpg-knights-of-fiona-to-launch-free-to-start-with-paid-story-pass/",
         "summary": "VR co-op JRPG Knights of Fiona will launch \"free-to-start\" on Quest and PC VR, with the game's story and other features included in an optional paid Story Pass.",
         "source": "uploadvr.com",
         "date": "Tue, 18 Aug 2026 16:56:41 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/1920x1080keyart-3.png"
-      },
-      {
-        "title": "‘Into the Radius 2’ Leaves Quest Early Access Aug 27, Including Campaign & New Content",
-        "url": "https://roadtovr.com/into-radius-2-quest-release-date/",
-        "summary": "CM Games announced its VR survival shooter Into the Radius 2 is officially leaving early access on Quest 3 and Quest 3S next week, bringing along with it a host of new (to Quest)…",
-        "source": "roadtovr.com",
-        "date": "Tue, 18 Aug 2026 16:24:58 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/into-radius-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Welcome to the AI crisis in math",
+        "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+        "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead…",
+        "source": "theverge.com",
+        "date": "2026-08-20T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Grok exfiltrates user data when malicious instructions are encrypted",
         "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
         "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
         "source": "arstechnica.com",
         "date": "Thu, 20 Aug 2026 13:00:35 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
-      },
-      {
-        "title": "Google Gemini is getting a dedicated student hub",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
-        "source": "theverge.com",
-        "date": "2026-08-19T15:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       },
       {
-        "title": "OpenAI hit the brakes. Now what?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.",
+        "title": "Slack is launching collaborative vibe-coding channels",
+        "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+        "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations.",
         "source": "theverge.com",
-        "date": "2026-08-19T13:10:09-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-20T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Patrick Mahomes will not play this week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-will-not-play-this-week",
+        "summary": "Chiefs head coach Andy Reid said early this month that he didn't know if quarterback Patrick Mahomes will play at all in the preseason and it looks like the team has settled on…",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 10:48:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2928458/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2F17%2Fc10f63ee4ec885acd58dd6728208%2F2290652740.jpg"
+      },
+      {
+        "title": "New study shows postbiotic could reduce risk of brain damage from concussions",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-study-shows-postbiotic-could-reduce-risk-of-brain-damage-from-concussions",
+        "summary": "At a time when research is ongoing to develop a test to diagnose CTE in living patients, other research could lead to advances aimed at reducing the risk of brain damage from…",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 10:40:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4223f79/2147483647/strip/false/crop/6779x3813+0+353/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F95%2F698190c74376b444d5665393f78c%2Fdownload.jpg"
+      },
+      {
+        "title": "Browns sign TE Drew Biber, place TE Jack Stoll on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-sign-te-drew-biber-place-te-jack-stoll-on-ir",
+        "summary": "The Browns have made a pair of moves at tight end on Thursday.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 10:34:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aca546c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_sanders_260818.jpg"
+      },
+      {
+        "title": "Mason Rudolph \"jealous\" of young QB program Mike McCarthy has implemented",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-rudolph-jealous-of-young-qb-program-mike-mccarthy-has-implemented",
+        "summary": "Mason Rudolph has been in the league since 2018, serving as a Steelers backup quarterback for the vast majority of his career.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 10:25:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f7bef7/2147483647/strip/false/crop/3680x2070+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2F3e%2Fd92693154a50884f536374bd6baa%2Fdownload.jpg"
+      },
+      {
+        "title": "Deputy failed in effort to serve Deion Sanders with court papers last week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deputy-failed-in-effort-to-serve-deion-sanders-with-court-papers-last-week",
+        "summary": "Colorado coach Deion Sanders is under subpoena to testify at Shilo's upcoming bankruptcy trial.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 10:15:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8430a83/2147483647/strip/false/crop/5392x3033+0+280/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2Ffa%2F7d051f254ccda4a40b5238d793aa%2F2289370028.jpg"
+      },
+      {
         "title": "Ben Johnson: Caleb Williams's accuracy is trending upward",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-caleb-williamss-accuracy-is-trending-upward",
         "summary": "After Ben Johnson became the Bears' head coach in 2025, there was a lot of focus on how his presence would impact quarterback Caleb Williams and much of that discussion focused on…",
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 10:11:23 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/33afd1d/2147483647/strip/false/crop/4558x2564+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F0b%2F452681d941a8b8e30053ddef969c%2F2287510720.jpg"
-      },
-      {
-        "title": "Dan Campbell: \"Our window is not closed\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-our-window-is-not-closed",
-        "summary": "The Lions are set up for another fast start. Can they match it with a strong finish?",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 09:43:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/97c12c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F794%2F347%2Fnbc_pft_terrionarnold_260817.jpg"
-      },
-      {
-        "title": "Jaguars have Travis Hunter practicing mostly at cornerback",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-have-travis-hunter-practicing-mostly-at-cornerback",
-        "summary": "It appears that Hunter will primarily play defense when the regular season starts.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 09:40:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/21fc6cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F202%2F131%2Fnbc_pft_liamcoen_260803.jpg"
-      },
-      {
-        "title": "Chiefs sign OL Kellen Dietsch",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-sign-ol-kellen-dietsch",
-        "summary": "The Chiefs worked out offensive lineman Kellen Diesch earlier this week and they liked what they saw.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 09:30:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58a06de/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1021%2F399%2FBienemynew8-19.jpg"
-      },
-      {
-        "title": "Commanders to play \"good amount\" of starters Saturday, but unsure on Jayden Daniels",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-play-good-amount-of-starters-saturday-but-unsure-on-jayden-daniels",
-        "summary": "Commanders head coach Dan Quinn shared some plans for Saturday's game against the Lions during a Thursday morning press conference, but the status of quarterback Jayden Daniels…",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 08:36:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/317d90f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F182%2Fnbc_pft_jayden_daniels_260813.jpg"
-      },
-      {
-        "title": "Commanders DT Johnny Newton to miss significant time after pec surgery",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-dt-johnny-newton-to-miss-significant-time-after-pec-surgery",
-        "summary": "Commanders defensive tackle Johnny Newton went to see a specialist in New York this week about his pectoral injury and the result of that meeting will be an extended absence from…",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 08:25:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9ab30d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F563%2F891%2FJaydenDanielsnewMPX8-14.jpg"
       }
     ]
   }
