@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T12:55:10.835Z",
+  "updated": "2026-08-20T13:39:20.750Z",
   "feed": {
     "VR": [
       {
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+        "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+        "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+        "source": "arstechnica.com",
+        "date": "Thu, 20 Aug 2026 13:00:35 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
+      },
+      {
         "title": "Slack is launching collaborative vibe-coding channels",
         "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
         "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations.",
@@ -69,14 +77,6 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       },
       {
-        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-        "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-        "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-        "source": "arstechnica.com",
-        "date": "Tue, 18 Aug 2026 13:00:04 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
-      },
-      {
         "title": "Google Gemini is getting a dedicated student hub",
         "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
         "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
@@ -85,12 +85,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Nvidia discloses $21B stake in SpaceX",
-        "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-        "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+        "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+        "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
         "source": "arstechnica.com",
-        "date": "Mon, 17 Aug 2026 14:22:54 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif"
+        "date": "Tue, 18 Aug 2026 13:00:04 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Chiefs sign OL Kellen Dietsch",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-sign-ol-kellen-dietsch",
+        "summary": "The Chiefs worked out offensive lineman Kellen Diesch earlier this week and they liked what they saw.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 09:30:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58a06de/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1021%2F399%2FBienemynew8-19.jpg"
+      },
       {
         "title": "Commanders to play \"good amount\" of starters Saturday, but unsure on Jayden Daniels",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-play-good-amount-of-starters-saturday-but-unsure-on-jayden-daniels",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 04:17:01 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/aca546c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_sanders_260818.jpg"
-      },
-      {
-        "title": "RB Myles Gaskin announces his retirement",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-myles-gaskin-announces-his-retirement",
-        "summary": "Running back Myles Gaskin announced his retirement from the NFL on Wednesday night.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 23:49:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7d18941/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F907%2F135%2Fnbc_pft_aikmanconvo_260818.jpg"
       }
     ]
   }
