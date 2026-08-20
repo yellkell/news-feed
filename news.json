@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T01:21:52.325Z",
+  "updated": "2026-08-20T02:34:04.885Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Tyler Warren has groin injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-warren-has-groin-injury",
+        "summary": "Colts tight end Tyler Warren left practice on Wednesday with an injury.",
+        "source": "nbcsports.com",
+        "date": "Wed, 19 Aug 2026 21:22:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e863dbc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F906%2F159%2Fnbc_pft_keenanallen_260818.jpg"
+      },
+      {
         "title": "Sean Payton uses Tuesday's \"tussle\" to warn players about potential ejections from games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-uses-tuesdays-tussle-to-warn-players-about-potential-ejections-from-games",
         "summary": "The Broncos had a fight at practice on Tuesday.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 19 Aug 2026 19:26:44 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/243d7f7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F409%2F586%2Fnbc_pft_will_levis_260813.jpg"
-      },
-      {
-        "title": "If NFL issued fines for fights during joint practices, the fights would stop",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/if-nfl-issued-fines-for-fights-during-joint-practices-the-fights-would-stop",
-        "summary": "It's joint practice fighting season, with Tuesday's all-out brawl between the Saints and Cowboys making its way to NBC Nightly News.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 19:24:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a4d0a39/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1018%2F471%2Fnbc_pft_dalnofight_260819.jpg"
       }
     ]
   }
