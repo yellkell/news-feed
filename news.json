@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T19:54:50.744Z",
+  "updated": "2026-08-20T20:19:24.211Z",
   "feed": {
     "VR": [
       {
@@ -55,7 +55,7 @@
       {
         "title": "It’s Greg Brockman’s OpenAI now",
         "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-        "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from…",
+        "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from…",
         "source": "theverge.com",
         "date": "2026-08-20T11:45:55-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Saquon Barkley lauds the recent RB deals: That's how it's supposed to be",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-lauds-the-recent-rb-deals-thats-how-its-supposed-to-be",
+        "summary": "Saquon Barkley was among a group of running backs who took part in a Zoom call in 2023 to discuss the depressed market for their position.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 16:08:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/65c8685/2147483647/strip/false/crop/4012x2257+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Fe0%2Fde69d5d84ed895d903191c2bb4b3%2F2291291753.jpg"
+      },
+      {
+        "title": "Todd Monken: Quinshon Judkins dealing with nagging injury, out as a precaution",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-quinshon-judkins-dealing-with-nagging-injury-out-as-a-precaution",
+        "summary": "While Browns running back Quinshon Judkins has not practiced over the last couple of days, it doesn’t sound like the team is particularly concerned about his availability going…",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 16:03:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7c58f40/2147483647/strip/false/crop/7943x4468+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2Fa2%2F11431f0f4e93a017a2cba8c82f4f%2F2287618926.jpg"
+      },
+      {
         "title": "Ja'Marr Chase on practice scuffle: We better f—ing protect Joe Burrow",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-on-practice-scuffle-we-better-f-ing-protect-joe-burrow",
         "summary": "While Thursday's Bengals-Bears joint practice appears to have been mostly tame, there was a moment where things got a little spicy between the two clubs.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 13:45:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/08affa9/2147483647/strip/false/crop/3486x1961+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2F39%2F93b05415433da9a10c6ee6d93480%2Fdownload.jpg"
-      },
-      {
-        "title": "Lions will start Joshua Dobbs at QB on Saturday vs. Commanders",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-will-start-joshua-dobbs-at-qb-on-saturday-vs-commanders",
-        "summary": "Quarterback Joshua Dobbs will get an opportunity to go ahead in Detroit’s backup competition this weekend.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 13:35:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a18f0b0/2147483647/strip/false/crop/4560x2565+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2F65%2F467a3dab408bb556ceda7e4723cf%2F2290379357.jpg"
-      },
-      {
-        "title": "Despite judge's frustrations, NFL continues arbitration quest in Brian Flores case",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-judges-frustrations-nfl-continues-arbitration-quest-in-brian-flores-case",
-        "summary": "Last month, the federal judge handling the Brian Flores case sent a very clear message to the NFL that it was time to end the arbitration quest and start defending the claims on…",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 13:24:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c3fdadb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F944%2F247%2Fnbc_pftpm_florescase_260818.jpg"
       }
     ]
   }
