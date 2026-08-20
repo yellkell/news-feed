@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T22:52:05.503Z",
+  "updated": "2026-08-20T23:47:39.889Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "C.J. Stroud will play tonight vs. Raiders",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-will-play-tonight-vs-raiders",
+        "summary": "DeMeco Ryans has changed his mind yet again.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 19:38:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05bb8a8/2147483647/strip/false/crop/8192x4608+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2Fd6%2Fba17890c4d2d8a5757e80c1c0056%2Fdownload.jpg"
+      },
+      {
+        "title": "Michael Penix still waiting for full clearance but expects it \"real soon\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-still-waiting-for-fully-clearance-but-expects-it-real-soon",
+        "summary": "Michael Penix was meeting with his doctor on a call Thursday night.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 19:20:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c24bc45/2147483647/strip/false/crop/4305x2422+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc7%2F11%2F94defc5149ba9551033e17dc1c7d%2F2290494768.jpg"
+      },
+      {
         "title": "Gardner Minshew to start for Cardinals on Saturday",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/gardner-minshew-to-start-for-cardinals-on-saturday",
         "summary": "The Cardinals will have their third starting quarterback in as many preseason games when they face the Cowboys on Saturday.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 17:39:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/67dea41/2147483647/strip/false/crop/2206x1241+0+115/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F78%2F8f4b185c456e94f16a2c2dd021c4%2F2254867291.jpg"
-      },
-      {
-        "title": "49ers re-sign RB Khalil Herbert, place Patrick Taylor on IR",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-re-sign-rb-khalil-herbert-place-patrick-taylor-on-ir",
-        "summary": "The 49ers re-signed running back Khalil Herbert after cutting him earlier this week.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 17:28:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d8bd9f5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F118%2F494%2Fnbc_pft_ncaanil_260820.jpg"
-      },
-      {
-        "title": "Jerry Jones: Cowboys will fine the players responsible for joint practice fights with Saints",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-cowboys-will-fine-the-players-responsible-for-joint-practice-fights-with-saints",
-        "summary": "Jerry will be passing along some of the $500,000 directly to the players who caused it.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 17:27:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d029130/2147483647/strip/false/crop/8660x4871+0+451/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2F4d%2Fd2f581b042cf9c6ae104bc614c00%2F2288337932.jpg"
       }
     ]
   }
