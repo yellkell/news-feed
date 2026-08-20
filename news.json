@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T13:39:20.750Z",
+  "updated": "2026-08-20T14:18:53.388Z",
   "feed": {
     "VR": [
       {
@@ -61,12 +61,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
       },
       {
-        "title": "Slack is launching collaborative vibe-coding channels",
-        "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-        "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations.",
+        "title": "Google Gemini is getting a dedicated student hub",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
         "source": "theverge.com",
-        "date": "2026-08-20T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-19T15:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       },
       {
-        "title": "Google Gemini is getting a dedicated student hub",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
+        "title": "OpenAI hit the brakes. Now what?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.",
         "source": "theverge.com",
-        "date": "2026-08-19T15:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-19T13:10:09-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Ben Johnson: Caleb Williams's accuracy is trending upward",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-caleb-williamss-accuracy-is-trending-upward",
+        "summary": "After Ben Johnson became the Bears' head coach in 2025, there was a lot of focus on how his presence would impact quarterback Caleb Williams and much of that discussion focused on…",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 10:11:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33afd1d/2147483647/strip/false/crop/4558x2564+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F0b%2F452681d941a8b8e30053ddef969c%2F2287510720.jpg"
+      },
+      {
+        "title": "Dan Campbell: \"Our window is not closed\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-our-window-is-not-closed",
+        "summary": "The Lions are set up for another fast start. Can they match it with a strong finish?",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 09:43:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/97c12c8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F794%2F347%2Fnbc_pft_terrionarnold_260817.jpg"
+      },
+      {
+        "title": "Jaguars have Travis Hunter practicing mostly at cornerback",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-have-travis-hunter-practicing-mostly-at-cornerback",
+        "summary": "It appears that Hunter will primarily play defense when the regular season starts.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 09:40:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/21fc6cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F202%2F131%2Fnbc_pft_liamcoen_260803.jpg"
+      },
       {
         "title": "Chiefs sign OL Kellen Dietsch",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-sign-ol-kellen-dietsch",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 08:25:12 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9ab30d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F563%2F891%2FJaydenDanielsnewMPX8-14.jpg"
-      },
-      {
-        "title": "Lane Johnson: We'll see 2024 Saquon Barkley again this year",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-johnson-well-see-2024-saquon-barkley-again-this-year",
-        "summary": "The Eagles are acclimating themselves to a new offense this offseason and right tackle Lane Johnson thinks it is going to suit one of the team's top players quite well.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 08:18:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1feb62f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1023%2F351%2Fnbc_pft_qbpov_260819.jpg"
-      },
-      {
-        "title": "Brian Schottenheimer: Terence Steele needs to be better",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-terence-steele-needs-to-be-better",
-        "summary": "Cowboys head coach Brian Schottenheimer wants more consistency from right tackle Terence Steele.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 06:35:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a4d0a39/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1018%2F471%2Fnbc_pft_dalnofight_260819.jpg"
-      },
-      {
-        "title": "Deshaun Watson on the reception he'll get from Browns fans: \"I don't care\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-on-the-reception-hell-get-from-browns-fans-i-dont-care",
-        "summary": "Watson, who is often booed in Cleveland, says it doesn't matter to him what he hears at Saturday's preseason home opener.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 04:17:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aca546c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F909%2F587%2Fnbc_pft_sanders_260818.jpg"
       }
     ]
   }
