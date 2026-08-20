@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T21:50:43.780Z",
+  "updated": "2026-08-20T22:17:58.859Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Gardner Minshew to start for Cardinals on Saturday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/gardner-minshew-to-start-for-cardinals-on-saturday",
+        "summary": "The Cardinals will have their third starting quarterback in as many preseason games when they face the Cowboys on Saturday.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 18:02:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b7b1d0/2147483647/strip/false/crop/4556x2563+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F65%2F3ec94ea9403e9e8ee1c0dcdd6004%2F2290500582.jpg"
+      },
+      {
+        "title": "Jaguars sign OL Timothy McKay",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-sign-ol-timothy-mckay",
+        "summary": "The Jaguars got Cole Van Lanen back from the physically unable to perform list on Thursday and they added another offensive lineman later in the day.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 17:51:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f04cb66/2147483647/strip/false/crop/5400x3038+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F8d%2F4daa530f4831beff67d69bf8063c%2F2280774014.jpg"
+      },
+      {
         "title": "Austin Jackson, Jermaine Eluemunor pulled from Dolphins-Giants practice after fights",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/austin-jackson-jermaine-eluemunor-pulled-from-dolphins-giants-practice-after-fights",
         "summary": "The Cowboys and Saints were fined after players from the two teams fought at a joint practice this week and two other clubs could be hearing from the league as well.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 17:27:56 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d029130/2147483647/strip/false/crop/8660x4871+0+451/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2F4d%2Fd2f581b042cf9c6ae104bc614c00%2F2288337932.jpg"
-      },
-      {
-        "title": "Saquon Barkley hates joint practices",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-hates-joint-practices",
-        "summary": "Eagles running back Saquon Barkley hates joint practices.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 17:23:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1c4bd4/2147483647/strip/false/crop/4478x2519+0+233/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F3b%2F718085dc4f4db99893650725db1b%2F2291291770.jpg"
-      },
-      {
-        "title": "Sean McVay on Aaron Donald: Think he'll keep working out, hope to have answer soon",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-aaron-donald-hell-keep-working-out-hope-to-have-answer-soon",
-        "summary": "The Rams have reported a pair of workouts for Aaron Donald in recent weeks and there will likely be more to come before the defensive tackle makes a decision on playing in 2026.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 17:19:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7bce7cb/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F945%2F723%2Fnbc_pftpm_mailbag_260818.jpg"
       }
     ]
   }
