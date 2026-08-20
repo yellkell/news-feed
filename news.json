@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T17:31:17.100Z",
+  "updated": "2026-08-20T18:00:36.608Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "It’s Greg Brockman’s OpenAI now",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+        "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from…",
+        "source": "theverge.com",
+        "date": "2026-08-20T11:45:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Grok exfiltrates user data when malicious instructions are encrypted",
         "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
         "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
         "source": "arstechnica.com",
         "date": "Thu, 20 Aug 2026 13:00:35 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
-      },
-      {
-        "title": "Google Gemini is getting a dedicated student hub",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
-        "source": "theverge.com",
-        "date": "2026-08-19T15:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       },
       {
-        "title": "OpenAI hit the brakes. Now what?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.",
+        "title": "Welcome to the AI crisis in math",
+        "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+        "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead…",
         "source": "theverge.com",
-        "date": "2026-08-19T13:10:09-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-20T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "CB Ennis Rakestraw left Lions practice with a leg injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-ennis-rakestraw-left-lions-practice-with-a-leg-injury",
+        "summary": "Lions cornerback Ennis Rakestraw has battled injuries for most of his time in the NFL and he suffered another one on Thursday.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 13:45:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/08affa9/2147483647/strip/false/crop/3486x1961+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2F39%2F93b05415433da9a10c6ee6d93480%2Fdownload.jpg"
+      },
+      {
+        "title": "Lions will start Joshua Dobbs at QB on Saturday vs. Commanders",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-will-start-joshua-dobbs-at-qb-on-saturday-vs-commanders",
+        "summary": "Quarterback Joshua Dobbs will get an opportunity to go ahead in Detroit’s backup competition this weekend.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 13:35:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a18f0b0/2147483647/strip/false/crop/4560x2565+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2F65%2F467a3dab408bb556ceda7e4723cf%2F2290379357.jpg"
+      },
+      {
         "title": "Despite judge's frustrations, NFL continues arbitration quest in Brian Flores case",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-judges-frustrations-nfl-continues-arbitration-quest-in-brian-flores-case",
         "summary": "Last month, the federal judge handling the Brian Flores case sent a very clear message to the NFL that it was time to end the arbitration quest and start defending the claims on…",
@@ -121,7 +137,7 @@
       {
         "title": "J.J. McCarthy \"more than likely\" to start Saturday's game",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-more-than-likely-to-start-saturdays-game",
-        "summary": "J.J.",
+        "summary": "McCarthy is fighting to hold the No. 2 spot.",
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 13:17:30 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea2cf4b/2147483647/strip/false/crop/4434x2494+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2F69%2Ffd841a164cf9a33f24576421e7dc%2F2290637884.jpg"
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 13:13:10 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/605104b/2147483647/strip/false/crop/5793x3259+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2Fa4%2Fe818f9db49759313798c9b9cb489%2F2245391071.jpg"
-      },
-      {
-        "title": "Rookie WR Makai Lemon returns to Eagles practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rookie-wr-makai-lemon-returns-to-eagles-practice",
-        "summary": "Eagles wide receiver Makai Lemon was back on the practice field Thursday.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 13:00:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7013488/2147483647/strip/false/crop/6153x3461+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F4d%2F6c8f662744de8125a3a0914d5b6e%2F2288502712.jpg"
-      },
-      {
-        "title": "Chiefs DE Ashton Gillotte could return in three weeks after ruptured plantar fascia",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-de-ashton-gillotte-could-return-in-three-weeks-after-ruptured-plantar-fascia",
-        "summary": "The Chiefs have an injury concern with one of their young defensive linemen, but it shouldn't keep him out for too long.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 12:46:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/95899fe/2147483647/strip/false/crop/3319x1867+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd3%2Fbe%2Fde9836a1483298f9b8e38b39e8b0%2F2289683216.jpg"
       }
     ]
   }
