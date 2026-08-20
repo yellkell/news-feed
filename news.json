@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T11:01:59.380Z",
+  "updated": "2026-08-20T12:55:10.835Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Google Gemini is getting a dedicated student hub",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
+        "title": "Slack is launching collaborative vibe-coding channels",
+        "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+        "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations.",
         "source": "theverge.com",
-        "date": "2026-08-19T15:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-20T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -77,12 +77,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
       },
       {
-        "title": "OpenAI hit the brakes. Now what?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-        "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast.",
+        "title": "Google Gemini is getting a dedicated student hub",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini.",
         "source": "theverge.com",
-        "date": "2026-08-19T13:10:09-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-19T15:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nvidia discloses $21B stake in SpaceX",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Commanders to play \"good amount\" of starters Saturday, but unsure on Jayden Daniels",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-play-good-amount-of-starters-saturday-but-unsure-on-jayden-daniels",
+        "summary": "Commanders head coach Dan Quinn shared some plans for Saturday's game against the Lions during a Thursday morning press conference, but the status of quarterback Jayden Daniels…",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 08:36:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/317d90f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F405%2F182%2Fnbc_pft_jayden_daniels_260813.jpg"
+      },
+      {
+        "title": "Commanders DT Johnny Newton to miss significant time after pec surgery",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-dt-johnny-newton-to-miss-significant-time-after-pec-surgery",
+        "summary": "Commanders defensive tackle Johnny Newton went to see a specialist in New York this week about his pectoral injury and the result of that meeting will be an extended absence from…",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 08:25:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9ab30d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F563%2F891%2FJaydenDanielsnewMPX8-14.jpg"
+      },
+      {
+        "title": "Lane Johnson: We'll see 2024 Saquon Barkley again this year",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-johnson-well-see-2024-saquon-barkley-again-this-year",
+        "summary": "The Eagles are acclimating themselves to a new offense this offseason and right tackle Lane Johnson thinks it is going to suit one of the team's top players quite well.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 08:18:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1feb62f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1023%2F351%2Fnbc_pft_qbpov_260819.jpg"
+      },
       {
         "title": "Brian Schottenheimer: Terence Steele needs to be better",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-terence-steele-needs-to-be-better",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 19 Aug 2026 23:49:03 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7d18941/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F907%2F135%2Fnbc_pft_aikmanconvo_260818.jpg"
-      },
-      {
-        "title": "Recent legal developments could open the door for Diego Pavia to play college football again",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/recent-legal-developments-could-open-the-door-for-diego-pavia-to-play-college-football-again",
-        "summary": "There has been no news about 2025 Heisman Trophy runner-up Diego Pavia since the Ravens released him shortly before the opening of training camp.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 23:38:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50f9d66/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F63%2F543%2Fnbc_pftpm_pavia_260724.jpg"
-      },
-      {
-        "title": "Jason Licht: Vita Vea is the type of player and person we want to build around",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jason-licht-vita-vea-is-the-type-of-player-and-person-we-want-to-build-around",
-        "summary": "The Buccaneers announced the one-year extension for defensive lineman Vita Vea on Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 23:02:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6f462c9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1024%2F827%2Fnbc_pft_morefighting_260819.jpg"
-      },
-      {
-        "title": "Commanders RB Rachaad White tweaked his hamstring",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-rb-rachaad-white-tweaked-his-hamstring",
-        "summary": "Commanders running back Rachaad White has missed the past few days with an undisclosed injury.",
-        "source": "nbcsports.com",
-        "date": "Wed, 19 Aug 2026 22:34:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0a1cd06/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F795%2F822%2Fnbc_pft_mariotaandlove_260817.jpg"
       }
     ]
   }
