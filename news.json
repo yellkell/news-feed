@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T12:56:59.320Z",
+  "updated": "2026-08-21T13:41:51.156Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Colts sign TE JJ Galbreath",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-sign-te-jj-galbreath",
+        "summary": "The Colts expect to be without Tyler Warren for a little bit, so they made a move on Friday to give themselves some more depth at tight end.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 09:14:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96eab91/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2F4d%2F48546f1e461cb7f72b8b9f20b136%2F2231351951.jpg"
+      },
+      {
+        "title": "Kyle Shanahan: Jacob Cowing is making punt return decision easier",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-jacob-cowing-is-making-punt-return-decision-easier",
+        "summary": "49ers wide receiver Jacob Cowing came into training camp without a secure hold on a roster spot, but he made a strong case for one on Thursday night.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 09:06:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2cf4446/2147483647/strip/false/crop/4900x2756+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff3%2Faaae85b8408f96369e01cc82eec8%2F2290752690.jpg"
+      },
+      {
         "title": "Fernando Mendoza: Thursday night taught me there's a lot more learning to do",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fernando-mendoza-thursday-night-taught-me-theres-a-lot-more-learning-to-do",
         "summary": "Mendoza threw a pick-six in his start against the Texans.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 21 Aug 2026 00:25:34 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/044e804/2147483647/strip/false/crop/8192x4608+0+428/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F5f%2Fbb22ab5440b0a6c5ec091e28c741%2F2194482306.jpg"
-      },
-      {
-        "title": "NFL says more than 200 players want to participate in Olympics (only 32 will be permitted to do so)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-says-more-than-200-players-want-to-participate-in-olympics-only-32-will-be-permitted-to-do-so",
-        "summary": "When it comes to NFL rosters, the supply of willing players far outweighs the demand.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 00:04:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5e31150/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F86%2F74762d1c45f285e68f6b63feda53%2F2284522684.jpg"
-      },
-      {
-        "title": "Woody Johnson buys minority stake in F1 team",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/woody-johnson-buys-minority-stake-in-f1-team",
-        "summary": "Woody Johnson is two-thirds of the way to the planes, trains, and automobiles trifecta.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 23:41:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a58b479/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F117%2F519%2Fnbc_pft_aaronglenn_260820.jpg"
       }
     ]
   }
