@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T22:15:05.492Z",
+  "updated": "2026-08-21T22:43:20.768Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Report: Rashod Bateman faces three charges from June incident with ex-girlfriend",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rashod-bateman-faces-three-charges-from-june-incident-with-ex-girlfriend",
+        "summary": "Ravens wide receiver Rashod Bateman faces three charges from a June 3 incident, TMZ Sports reports.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 18:30:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7aa97ce/2147483647/strip/false/crop/7254x4080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2Fdf%2Fe093a10b458bb8401130246c565f%2Fdownload.jpg"
+      },
+      {
         "title": "Klint Kubiak: Raiders have to get a lot better very fast at wide receiver",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-raiders-have-to-get-a-lot-better-very-fast-at-wide-receiver",
         "summary": "The Raiders have to get better at wide receiver in a hurry.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 21 Aug 2026 16:31:28 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/40cff41/2147483647/strip/false/crop/3833x2156+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F04%2Ffe%2F2cd0106e4e3d82dcdd7c178ad86a%2F2289349099.jpg"
-      },
-      {
-        "title": "Deion Sanders moves to quash subpoena to testify in Shilo's trial",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-moves-to-quash-subpoena-to-testify-in-shilos-trial",
-        "summary": "Colorado coach Deion Sanders has indeed been subpoenaed to testify at his son Shilo's bankruptcy trial, which starts on August 31.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 16:12:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/81b73a6/2147483647/strip/false/crop/7846x4413+0+408/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2Fce%2F4059461f4ff5a04039d48be318ec%2F2290510936.jpg"
       }
     ]
   }
