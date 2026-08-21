@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T15:01:30.168Z",
+  "updated": "2026-08-21T15:46:07.558Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+        "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+        "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+        "source": "arstechnica.com",
+        "date": "Fri, 21 Aug 2026 13:11:35 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg"
+      },
+      {
         "title": "Google Discover is getting an AI chatbot-tuned feed",
         "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
         "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see.",
         "source": "theverge.com",
         "date": "2026-08-20T17:50:22-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-        "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-        "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-        "source": "arstechnica.com",
-        "date": "Thu, 20 Aug 2026 13:00:35 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -85,12 +85,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-        "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-        "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+        "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+        "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
         "source": "arstechnica.com",
-        "date": "Tue, 18 Aug 2026 13:00:04 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg"
+        "date": "Thu, 20 Aug 2026 13:00:35 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -102,6 +102,38 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Jim Harbaugh was not happy with punter JK Scott's performance on touchdown return",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-was-not-happy-with-punter-jk-scotts-performance-on-touchdown-return",
+        "summary": "One of the most exciting plays in Thursday night's preseason action was an 83-yard punt return touchdown from San Francisco's Jacob Cowing.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 11:43:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea51e50/2147483647/strip/false/crop/3744x2106+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F29%2F2eae93ba49d891d1fb67ef6518fa%2F2290772838.jpg"
+      },
+      {
+        "title": "Report: Lions CB Ennis Rakestraw ankle injury is not considered serious",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-lions-cb-ennis-rakestraw-ankle-injury-is-not-considered-serious",
+        "summary": "Lions cornerback Ennis Rakestraw left practice after a non-contact injury to his leg on Thursday, but it does not sound like he is looking at an extended absence from the lineup.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 11:41:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6d5c539/2147483647/strip/false/crop/3036x1708+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2Fd0%2Fbc4defa04d57a7fac3ed4d0ef7a9%2F2026-07-29t144542z-924241804-mt1usatoday29470534-rtrmadp-3-detroit-lions-cornerback-ennis-rakestraw-jr-2-practices.jpg"
+      },
+      {
+        "title": "Appeals court stays injunction granting fifth year of college eligibility to NFL players",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/appeals-court-stays-injunction-granting-fifth-year-of-college-eligibility-to-nfl-players",
+        "summary": "Chaos leads to even more chaos. Which likely will lead to even more chaos.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 11:39:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e1ef4d/2147483647/strip/false/crop/8192x4608+0+428/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2Fa6%2F1944cd7848dc9df0c2a8dc553ac6%2F2286831918.jpg"
+      },
+      {
+        "title": "Michael Holley returns to PFT Live, a week after fainting on the air",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-holley-returns-to-pft-live-a-week-after-fainting-on-the-air",
+        "summary": "One week ago, Michael Holley fainted during his weekly spot on PFT Live.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 11:15:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3486727/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F264%2F491%2Fnbc_pft_holleyreturnsv2_260821.jpg"
+      },
       {
         "title": "Jon Gruden thinks his plan for calling Chiefs-Bucs preseason game could be a \"game-changer\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jon-gruden-thinks-his-plan-for-calling-chiefs-bucs-preseason-game-could-be-a-game-changer",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 21 Aug 2026 10:21:17 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ac6a22c/2147483647/strip/false/crop/7116x4003+0+76/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2F59%2F585685d141abb7124751ad3c8acf%2F2290739016.jpg"
-      },
-      {
-        "title": "The Athletic, NFL may deepen their relationship (conflict of interest be damned)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-athletic-nfl-may-deepen-their-relationship-conflict-of-interest-be-damned",
-        "summary": "With the NFL selling NFL Network and other media properties to ESPN, the league needs to beef up its digital offerings with new online content.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 10:14:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0323403/2147483647/strip/false/crop/5000x2813+0+260/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2F8c%2F483d26d345e18c3f7ae5c7785e78%2F2233247992.jpg"
-      },
-      {
-        "title": "Jim Harbaugh: Trey Lance and DJ Uiagalelei are in a tight race for backup QB",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-trey-lance-and-dj-uiagalelei-are-in-a-tight-race-for-backup-qb",
-        "summary": "Chargers head coach Jim Harbaugh remains undecided about who quarterback Justin Herbert's backup will be when the regular season starts.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 09:52:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bf8b169/2147483647/strip/false/crop/5174x2910+0+461/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F03%2F04%2F7052337d41dea294c172dc957ac7%2F2290752587.jpg"
-      },
-      {
-        "title": "Report: Parker Washington expected back at practice next week",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-parker-washington-expected-back-at-practice-next-week",
-        "summary": "Jaguars wide receiver Parker Washington has been out of practice this week, but his absence isn't expected to last much longer.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 09:47:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/90d681b/2147483647/strip/false/crop/5756x3238+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2F92%2Fe538ce94435c8aaee4477d5bbf0a%2F2290884183.jpg"
-      },
-      {
-        "title": "Colts sign TE JJ Galbreath",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-sign-te-jj-galbreath",
-        "summary": "The Colts expect to be without Tyler Warren for a little bit, so they made a move on Friday to give themselves some more depth at tight end.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 09:14:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96eab91/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2F4d%2F48546f1e461cb7f72b8b9f20b136%2F2231351951.jpg"
       }
     ]
   }
