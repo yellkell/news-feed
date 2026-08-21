@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T04:09:03.676Z",
+  "updated": "2026-08-21T04:51:31.510Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "On grass vs. turf, NFL clings to the injury-rate statistics",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-grass-vs-turf-nfl-clings-to-the-injury-rate-statistics",
+        "summary": "Injury rates don't overcome the reality that players strongly prefer grass.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 00:25:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/044e804/2147483647/strip/false/crop/8192x4608+0+428/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F5f%2Fbb22ab5440b0a6c5ec091e28c741%2F2194482306.jpg"
+      },
+      {
         "title": "NFL says more than 200 players want to participate in Olympics (only 32 will be permitted to do so)",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-says-more-than-200-players-want-to-participate-in-olympics-only-32-will-be-permitted-to-do-so",
         "summary": "When it comes to NFL rosters, the supply of willing players far outweighs the demand.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 22:26:03 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/afef9c4/2147483647/strip/false/crop/4582x2577+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F3c%2F796445fe4d6097a5669d29651e2b%2F2291348981.jpg"
-      },
-      {
-        "title": "Report: George Kittle ahead of schedule, has legitimate chance to play Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-george-kittle-ahead-of-schedule-has-legitimate-chance-to-play-week-1",
-        "summary": "There is another positive update on 49ers tight end George Kittle, who is recovering from a torn Achilles suffered in January.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 22:17:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/deaa277/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F46%2Ff42104e245c1acd645446bfebca1%2F2290628525.jpg"
       }
     ]
   }
