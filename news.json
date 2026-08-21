@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:33:28.781Z",
+  "updated": "2026-08-21T08:55:17.981Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Klint Kubiak not ready to name the Raiders' starting quarterback",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-not-ready-to-name-the-raiders-starting-quarterback",
+        "summary": "Kirk Cousins looks like the Raiders' Week One starter, but Kubiak is holding off on announcing it.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 04:13:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a2b1d17/2147483647/strip/false/crop/4000x2250+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F24%2F60f7939c452c8960bfceb8b3ad6d%2F2291357416.jpg"
+      },
+      {
         "title": "On grass vs. turf, NFL clings to the injury-rate statistics",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-grass-vs-turf-nfl-clings-to-the-injury-rate-statistics",
         "summary": "Injury rates don't overcome the reality that players strongly prefer grass.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 22:37:37 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/022554c/2147483647/strip/false/crop/4403x2477+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2F9a%2F1b035cfe4cd2b5a91780ff91fd2c%2F2291345890.jpg"
-      },
-      {
-        "title": "Justin Herbert plays just three snaps in preseason game vs. 49ers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-plays-just-three-snaps-in-preseason-game-vs-49ers",
-        "summary": "Chargers quarterback Justin Herbert was on the field for Thursday night’s preseason game against the 49ers.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 22:26:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/afef9c4/2147483647/strip/false/crop/4582x2577+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F3c%2F796445fe4d6097a5669d29651e2b%2F2291348981.jpg"
       }
     ]
   }
