@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-20T23:47:39.889Z",
+  "updated": "2026-08-21T00:51:46.797Z",
   "feed": {
     "VR": [
       {
-        "title": "Puzzles of the World Review: A Cozy Change Of Pace With Room To Grow",
-        "url": "https://www.uploadvr.com/puzzles-of-the-world-review-a-cozy-change-of-pace-with-room-to-grow/",
-        "summary": "Puzzles of the World checks off most of the cozy game checklist, but currently lacks staying power due to the limited amount of content available.",
+        "title": "How Supernatural Got A Second Life Without Meta",
+        "url": "https://www.uploadvr.com/how-supernatural-got-a-second-life-without-meta/",
+        "summary": "Months after Meta ended development and laid off its team, Supernatural's Head of Fitness tells UploadVR about the VR fitness app's unlikely path back as an independent company.",
         "source": "uploadvr.com",
-        "date": "Thu, 20 Aug 2026 15:35:20 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/uvr-puzzlesOfTheWorld.png"
+        "date": "Thu, 20 Aug 2026 17:02:36 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/SN-Flow-1.webp"
       },
       {
         "title": "Steam Frame Unboxing & Setup Videos Leak, Pointing to Imminent Launch",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
-        "title": "Twilight's End, Demeo x DnD Battlemarked's Next DLC Campaign, Drops Next Month",
-        "url": "https://www.uploadvr.com/twilights-end-demeo-x-dnd-battlemarkeds-next-dlc-campaign-drops-next-month/",
-        "summary": "Twilight's End is the next story campaign for Demeo x Dungeons & Dragons Battlemarked, launching on September 22 as a $9.99 DLC.",
+        "title": "Puzzles of the World Review: A Cozy Change Of Pace With Room To Grow",
+        "url": "https://www.uploadvr.com/puzzles-of-the-world-review-a-cozy-change-of-pace-with-room-to-grow/",
+        "summary": "Puzzles of the World checks off most of the cozy game checklist, but currently lacks staying power due to the limited amount of content available.",
         "source": "uploadvr.com",
-        "date": "Thu, 20 Aug 2026 15:34:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Usw1NTVUxrQ-HD.jpg"
+        "date": "Thu, 20 Aug 2026 15:35:20 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/uvr-puzzlesOfTheWorld.png"
       },
       {
         "title": "XREAL AURA Surpasses 10,000 Unit Reservations Ahead of Launch This Fall",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "A.J. Brown, Jalen Hurts speak for the first time since Brown's departure",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-jalen-hurts-speak-for-the-first-time-since-browns-departure",
+        "summary": "The Patriots receiver revealed Wednesday that the former teammates hadn't talked since his trade Philadelphia.",
+        "source": "nbcsports.com",
+        "date": "Thu, 20 Aug 2026 20:28:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f8eef88/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F115%2F567%2Fnbc_pft_ajbrown_260820.jpg"
+      },
+      {
         "title": "C.J. Stroud will play tonight vs. Raiders",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-will-play-tonight-vs-raiders",
         "summary": "DeMeco Ryans has changed his mind yet again.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 20 Aug 2026 17:40:03 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/656423d/2147483647/strip/false/crop/7577x4262+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2Fff%2F5f18f59340f293254945be4542ea%2F2290658178.jpg"
-      },
-      {
-        "title": "Browns TE Dae'Quan Wright enters college transfer portal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-te-daequan-wright-enters-college-transfer-portal",
-        "summary": "Nothing encapsulates the current chaos in college football like this — Browns tight end Dae'Quan Wright has entered the college transfer portal, via Matt Zenitz of CBS Sports.",
-        "source": "nbcsports.com",
-        "date": "Thu, 20 Aug 2026 17:39:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/67dea41/2147483647/strip/false/crop/2206x1241+0+115/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F78%2F8f4b185c456e94f16a2c2dd021c4%2F2254867291.jpg"
       }
     ]
   }
