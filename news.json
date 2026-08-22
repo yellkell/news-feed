@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:56:37.647Z",
+  "updated": "2026-08-22T15:43:06.498Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "MarShawn Lloyd finds end zone for first time in three years",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marshawn-lloyd-finds-end-zone-for-first-time-in-three-years",
+        "summary": "Packers running back MarShawn Lloyd entered the NFL as a third-round pick in 2024.",
+        "source": "nbcsports.com",
+        "date": "Sat, 22 Aug 2026 11:20:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5d7ed8c/2147483647/strip/false/crop/4788x2693+0+249/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F65%2Ff2c6bbf94abeb85a4d13565c6434%2F2290848542.jpg"
+      },
+      {
         "title": "NFL is investigating the allegations against Rashod Bateman",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-is-investigating-the-allegations-against-rashod-bateman",
         "summary": "A June 3 arrest of Ravens receiver Rashod Bateman came to light on Friday.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 22 Aug 2026 08:41:19 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/da97986/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2Fed%2F8eca7d5c42b59b50903afca6bf4b%2F2287643598.jpg"
-      },
-      {
-        "title": "Panthers see \"great improvement\" from offense in second preseason game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-see-great-improvement-from-offense-in-second-preseason-game",
-        "summary": "The Panthers offense set a low bar for improvement by failing to pick up a first down in three drives during their preseason opener and they cleared it on Friday night.",
-        "source": "nbcsports.com",
-        "date": "Sat, 22 Aug 2026 08:29:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8e77876/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2Fbd%2Ffc0e8213468fb1a3fee884192617%2F2290843085.jpg"
       }
     ]
   }
