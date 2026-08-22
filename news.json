@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:38:10.449Z",
+  "updated": "2026-08-22T14:56:37.647Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "NFL is investigating the allegations against Rashod Bateman",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-is-investigating-the-allegations-against-rashod-bateman",
+        "summary": "A June 3 arrest of Ravens receiver Rashod Bateman came to light on Friday.",
+        "source": "nbcsports.com",
+        "date": "Sat, 22 Aug 2026 10:43:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2199665/2147483647/strip/false/crop/3249x1828+0+169/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2F81%2Fa3f76abd40e596cd7eba97f64390%2F2248800084.jpg"
+      },
+      {
         "title": "Jayden Daniels is active for the Commanders on Saturday",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-is-active-for-the-commanders-on-saturday",
         "summary": "Commanders quarterback Jayden Daniels is set for his first action of the preseason.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 22 Aug 2026 08:29:20 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8e77876/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2Fbd%2Ffc0e8213468fb1a3fee884192617%2F2290843085.jpg"
-      },
-      {
-        "title": "Aaron Glenn: Geno Smith was exactly what we were looking for",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-geno-smith-was-exactly-what-we-were-looking-for",
-        "summary": "Quarterback Geno Smith's first game action since returning to the Jets couldn't have gone much better.",
-        "source": "nbcsports.com",
-        "date": "Sat, 22 Aug 2026 08:20:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f71ce84/2147483647/strip/false/crop/5864x3299+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbc%2Fe7%2Fbe3ed29042ae9656be631d743a7f%2F2290837570.jpg"
       }
     ]
   }
