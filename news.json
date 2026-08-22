@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:13:21.159Z",
+  "updated": "2026-08-22T14:38:10.449Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Jayden Daniels is active for the Commanders on Saturday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-is-active-for-the-commanders-on-saturday",
+        "summary": "Commanders quarterback Jayden Daniels is set for his first action of the preseason.",
+        "source": "nbcsports.com",
+        "date": "Sat, 22 Aug 2026 10:13:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/824a453/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F08%2F64828c0e473e8ad5560434186d32%2F2290752603.jpg"
+      },
+      {
         "title": "Deion Sanders has been quietly dealing with a lawsuit over his \"Prime\" logo",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-has-been-quietly-dealing-with-a-lawsuit-over-his-prime-logo",
         "summary": "Hall of Fame defensive back and Colorado coach Deion Sanders has had plenty of recent distractions arising from court dockets.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 22 Aug 2026 08:20:27 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f71ce84/2147483647/strip/false/crop/5864x3299+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbc%2Fe7%2Fbe3ed29042ae9656be631d743a7f%2F2290837570.jpg"
-      },
-      {
-        "title": "Nick Chubb is the fourth RB ever to retire with over 1,000 carries, over 5 yards a carry",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-chubb-is-the-fourth-rb-ever-to-retire-with-over-1-000-carries-over-5-yards-a-carry",
-        "summary": "Chubb retired with 7,349 yards on 1,462 carries, an average of 5.03 yards per carry.",
-        "source": "nbcsports.com",
-        "date": "Sat, 22 Aug 2026 07:09:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05eb9c1/2147483647/strip/false/crop/4000x2250+0+208/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2Fcb%2Feefaf9c1402baaa12212ddb46b4b%2F2161910028.jpg"
       }
     ]
   }
