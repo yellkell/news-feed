@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T21:55:43.823Z",
+  "updated": "2026-08-22T22:14:52.339Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Dolphins claim CB Jai'Onte' McMillan",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-claim-cb-jaionte-mcmillan",
+        "summary": "The Dolphins went to the waiver wire to add a cornerback on Saturday.",
+        "source": "nbcsports.com",
+        "date": "Sat, 22 Aug 2026 17:53:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cc7cdf2/2147483647/strip/false/crop/7718x4341+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff2%2F38%2Fd90828ac4740b08cb07f34938d09%2F2287511924.jpg"
+      },
+      {
         "title": "Deshaun Watson: Boos are a disrespectful thing, has nothing to do with performance",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-boos-are-a-disrespectful-thing-has-nothing-to-do-with-performance",
         "summary": "Watson was booed during his appearance in the third quarter of Saturday's home game.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 22 Aug 2026 17:07:31 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d00e695/2147483647/strip/false/crop/3030x1704+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2Fa2%2Fb7d824864a65b65a3fc0b1581d21%2F2291198189.jpg"
-      },
-      {
-        "title": "Cleveland fans boo Deshaun Watson as he struggles in return",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cleveland-fans-boo-deshaun-watson-as-he-struggles-in-return",
-        "summary": "Watson struggled in front of a hostile home crowd.",
-        "source": "nbcsports.com",
-        "date": "Sat, 22 Aug 2026 16:33:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b625b3b/2147483647/strip/false/crop/5325x2995+0+277/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2F92%2Fd0ebfae245288944e50cd467eb72%2F2291571403.jpg"
       }
     ]
   }
