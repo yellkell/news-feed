@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T01:11:04.570Z",
+  "updated": "2026-08-22T02:20:01.154Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-        "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it.",
+        "title": "Major YouTube creators are facing backlash for accepting AI money",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+        "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's…",
         "source": "theverge.com",
-        "date": "2026-08-21T17:25:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-21T09:37:52-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       },
       {
-        "title": "Major YouTube creators are facing backlash for accepting AI money",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-        "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's…",
+        "title": "Google Discover is getting an AI chatbot-tuned feed",
+        "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+        "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see.",
         "source": "theverge.com",
-        "date": "2026-08-21T09:37:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-20T17:50:22-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Grok exfiltrates user data when malicious instructions are encrypted",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Bo Nix leads Broncos to 10 points in his two series",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-leads-broncos-to-10-points-in-his-two-series",
+        "summary": "Bo Nix played in a football game for the first time in 216 days.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 22:03:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a68d20d/2147483647/strip/false/crop/3721x2093+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F98%2F94cbacf2499fb42647445cb979ec%2F2026-08-22t010554z-298848182-mt1usatoday29638772-rtrmadp-3-nfl-green-bay-packers-at-denver-broncos.jpg"
+      },
+      {
+        "title": "Jordan Love plays one series, throws TD pass",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-plays-one-series-throws-td-pass",
+        "summary": "Packers coach Matt LaFleur's plan was to play his starting offense more than one drive in Denver.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 21:49:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b15ef9/2147483647/strip/false/crop/6354x3574+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2Fca%2Fe6be7f9549bba92b396d23c1402e%2F2290843319.jpg"
+      },
+      {
+        "title": "Nick Chubb retires from the NFL",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-chubb-retires-from-the-nfl",
+        "summary": "Running back Nick Chubb, a four-time Pro Bowler, has announced his retirement.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 21:36:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2e150a3/2147483647/strip/false/crop/5536x3114+0+289/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2Fd9%2Fe368e5d8461baeeceab48f02cc0b%2F2188373302.jpg"
+      },
+      {
+        "title": "Ryan Fitzgerald hits 61-yard FG for Panthers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ryan-fitzgerald-hits-61-yard-fg-for-panthers",
+        "summary": "Panthers starting quarterback Bryce Young played 11 snaps on Friday against the Jaguars.",
+        "source": "nbcsports.com",
+        "date": "Fri, 21 Aug 2026 21:32:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b0b2f6/2147483647/strip/false/crop/4292x2414+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa6%2F36%2F08b70b444ff597223e93c9971625%2F2291188245.jpg"
+      },
+      {
         "title": "Josh McDaniels has ideal response as to whether Tom Brady helped Seahawks",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-mcdaniels-has-ideal-response-as-to-whether-tom-brady-helped-seahawks",
         "summary": "Patriots offensive coordinator Josh McDaniels worked in New England for each of the six Super Bowls that Tom Brady won there.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 21 Aug 2026 19:33:37 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/920e5a7/2147483647/strip/false/crop/7957x4476+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2F50%2Fa7ca17b4417bae644453991299d2%2F2026-07-25t224141z-237650802-mt1usatoday29450735-rtrmadp-3-nfl-seattle-seahawks-training-camp.jpg"
-      },
-      {
-        "title": "Geno Smith perfect in his only drive, throwing a TD",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/geno-smith-perfect-in-his-only-drive-throwing-a-td",
-        "summary": "Jets starting quarterback Geno Smith made his preseason debut on Friday night.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 19:33:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5eb6ca5/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2F5b%2F451a47c64fc3b6900be951324b83%2F2290831611.jpg"
-      },
-      {
-        "title": "Former Steelers, Chiefs WR Barry Pearson dies at 76",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-steelers-chiefs-wr-barry-pearson-dies-at-76",
-        "summary": "Former Steelers wide receiver Barry Pearson died Aug. 16, Chris Ward of steelersnow.com reports.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 19:16:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b81243e/2147483647/strip/false/crop/2700x1519+0+491/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2F84%2F439940694e9e82bcec2021ab1b0b%2Fdownload.jpg"
-      },
-      {
-        "title": "Marcus Freeman: \"Too late\" for Notre Dame to add players who get fifth year of eligibility",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marcus-freeman-too-late-for-notre-dame-to-add-players-who-get-fifth-year-of-eligibility",
-        "summary": "Some college programs are waiting for a chance to pounce on current NFL players who may end up finagling another year of college football.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 19:16:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d223da3/2147483647/strip/false/crop/4559x2564+0+427/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F33%2F3368b29f454dbd43ece8b8b7a040%2F2272816870.jpg"
-      },
-      {
-        "title": "Report: Rashod Bateman faces three charges from June incident with ex-girlfriend",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rashod-bateman-faces-three-charges-from-june-incident-with-ex-girlfriend",
-        "summary": "Ravens wide receiver Rashod Bateman faces three charges from a June 3 incident, TMZ Sports reports.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 18:30:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7aa97ce/2147483647/strip/false/crop/7254x4080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2Fdf%2Fe093a10b458bb8401130246c565f%2Fdownload.jpg"
       }
     ]
   }
