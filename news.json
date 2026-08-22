@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T10:41:54.529Z",
+  "updated": "2026-08-22T11:21:28.632Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Nick Chubb is the fourth RB ever to retire with over 1,000 carries, over 5 yards a carry",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-chubb-is-the-fourth-rb-ever-to-retire-with-over-1-000-carries-over-5-yards-a-carry",
+        "summary": "Chubb retired with 7,349 yards on 1,462 carries, an average of 5.03 yards per carry.",
+        "source": "nbcsports.com",
+        "date": "Sat, 22 Aug 2026 07:09:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05eb9c1/2147483647/strip/false/crop/4000x2250+0+208/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2Fcb%2Feefaf9c1402baaa12212ddb46b4b%2F2161910028.jpg"
+      },
+      {
         "title": "Xavier Legette misses Panthers' preseason game with foot/ankle injury",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavier-legette-misses-panthers-preseason-game-with-foot-ankle-injury",
         "summary": "Panthers wide receiver Xavier Legette missed Friday night's preseason game with what head coach Dave Canales described as a foot and ankle injury.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 22 Aug 2026 01:21:27 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/bfef05c/2147483647/strip/false/crop/3089x1738+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2F5c%2Fdc0c0d25445b9e4775e3e9d9ec81%2F2290840234.jpg"
-      },
-      {
-        "title": "Bo Nix leads Broncos to 10 points in his two series",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-leads-broncos-to-10-points-in-his-two-series",
-        "summary": "Bo Nix played in a football game for the first time in 216 days.",
-        "source": "nbcsports.com",
-        "date": "Fri, 21 Aug 2026 22:03:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a68d20d/2147483647/strip/false/crop/3721x2093+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F98%2F94cbacf2499fb42647445cb979ec%2F2026-08-22t010554z-298848182-mt1usatoday29638772-rtrmadp-3-nfl-green-bay-packers-at-denver-broncos.jpg"
       }
     ]
   }
