@@ -1,15 +1,7 @@
 {
-  "updated": "2026-08-23T10:47:23.336Z",
+  "updated": "2026-08-23T11:13:46.522Z",
   "feed": {
     "VR": [
-      {
-        "title": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It",
-        "url": "https://mixed-news.com/en/openai-just-unveiled-a-powerful-new-cyber-ai-but-you-probably-cant-use-it/",
-        "summary": "OpenAI has introduced a new AI system called GPT-5.6 Cyber, designed specifically for cybersecurity work such as vulnerability research, penetration testing, incident response, and…",
-        "source": "mixed-news.com",
-        "date": "Sat, 22 Aug 2026 19:15:07 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
-      },
       {
         "title": "Co-op Space Roguelike Sol Protocol Sets September Release Date On Quest 3",
         "url": "https://www.uploadvr.com/co-op-sol-protocol-sets-release-date-for-meta-quest/",
@@ -25,6 +17,14 @@
         "source": "roadtovr.com",
         "date": "Thu, 20 Aug 2026 14:23:48 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
+        "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
+        "summary": "Meta Horizon+ now includes more than 50 Xbox Game Pass titles at no extra cost, a free upgrade for subscribers and another reason for Quest owners to consider the service.",
+        "source": "mixed-news.com",
+        "date": "Sat, 25 Jul 2026 00:08:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
         "title": "How Supernatural Got A Second Life Without Meta",
@@ -43,12 +43,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
-        "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now includes more than 50 Xbox Game Pass titles at no extra cost, a free upgrade for subscribers and another reason for Quest owners to consider the service.",
+        "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
+        "url": "https://mixed-news.com/en/anthropic-could-drop-opus-5-any-moment-as-gpt-5-6-challenges-claudes-dominance-in-ai-coding/",
+        "summary": "Claude Opus 5 appears to have leaked through Anthropic’s own fallback system after a Fable 5 safeguard routed a conversation to “Opus 5 High,” according to a screenshot circulating…",
         "source": "mixed-news.com",
-        "date": "Sat, 25 Jul 2026 00:08:55 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
+        "date": "Fri, 24 Jul 2026 07:34:23 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Claude-Code.png"
       }
     ],
     "AI": [
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Eliot Wolf on Christian Gonzalez: \"Each side is trying to do what's right for them\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eliot-wolf-on-christian-gonzalez-each-side-is-trying-to-do-whats-right-for-them",
+        "summary": "When the Falcons signed running back Bijan Robinson to a new contract, the Lions and running back Jahmyr Gibbs used the Robinson deal as the template for quickly getting their own…",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 06:52:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c3c1f1/2147483647/strip/false/crop/4110x2312+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2F49%2F86c467114c36876153cef94918be%2F2289783712.jpg"
+      },
+      {
         "title": "It's time for the Browns and Deshaun Watson to go their separate ways",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/its-time-for-the-browns-and-deshaun-watson-to-go-their-separate-ways",
         "summary": "After Saturday's game and press conference, it's impossible for the Browns to play Watson again.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 23 Aug 2026 04:31:31 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/99d49eb/2147483647/strip/false/crop/3271x1840+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2Fd2%2Fc87f09b8457684a29556a8abf1d8%2F2290115679.jpg"
-      },
-      {
-        "title": "CeeDee Lamb's house was burglarized while the Cowboys were in Oxnard",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lambs-house-was-burglarized-wile-the-cowboys-were-in-oxnard",
-        "summary": "With the Cowboys spending training camp in Oxnard, some homes of the players were left unattended.",
-        "source": "nbcsports.com",
-        "date": "Sat, 22 Aug 2026 23:12:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1bf6163/2147483647/strip/false/crop/7074x3979+0+369/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F92%2F2a179b7d4d5cb50d0b188561ce85%2F2288743934.jpg"
       }
     ]
   }
