@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T21:13:40.856Z",
+  "updated": "2026-08-23T21:55:23.729Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Ashton Jeanty exits Sunday's practice with apparent leg injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ashton-jeanty-exits-sundays-practice-with-apparent-leg-injury",
+        "summary": "Jeanty went down after diving to make a catch during the day's session.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 17:43:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38a3ca2/2147483647/strip/false/crop/4122x2319+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F93%2Ff0c6e3c94e58b1df6b1c89d549c9%2F2288179609.jpg"
+      },
+      {
         "title": "Browns will waive Dae’Quan Wright, who has agreed to play for LSU",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-will-waive-daequan-wright-who-has-agreed-to-play-for-lsu",
         "summary": "Browns tight end Dae’Quan Wright is poised to do something that once would have been unthinkable: Leave the NFL and go play in the NCAA.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 23 Aug 2026 14:34:05 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/bbf4ece/2147483647/strip/false/crop/4695x2641+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Fbe%2F2651f5754133960cfb38811d39ad%2F2291058715.jpg"
-      },
-      {
-        "title": "Christian McCaffrey returns to 49ers practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-returns-to-49ers-practice",
-        "summary": "There is more positive news on the injury front for the 49ers.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 14:04:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c93771f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1017%2F495%2Fnbc_pft_mccaffery_260819.jpg"
       }
     ]
   }
