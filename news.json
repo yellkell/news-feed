@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:54:47.890Z",
+  "updated": "2026-08-23T19:16:55.616Z",
   "feed": {
     "VR": [
       {
@@ -11,28 +11,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
       },
       {
-        "title": "Co-op Space Roguelike Sol Protocol Sets September Release Date On Quest 3",
-        "url": "https://www.uploadvr.com/co-op-sol-protocol-sets-release-date-for-meta-quest/",
-        "summary": "Co-op space roguelike Sol Protocol takes off on September 17 in Early Access on Quest 3 headsets.",
-        "source": "uploadvr.com",
-        "date": "Fri, 21 Aug 2026 12:00:03 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/CoverImage_Landscape.png"
-      },
-      {
         "title": "Steam Frame Unboxing & Setup Videos Leak, Pointing to Imminent Launch",
         "url": "https://roadtovr.com/steam-frame-unboxing-setup-video-leak/",
         "summary": "It looks as though Valve is actually gearing up to release Steam Frame, as user setup videos have leaked showing off unboxing and first-time user experience with Valve’s first…",
         "source": "roadtovr.com",
         "date": "Thu, 20 Aug 2026 14:23:48 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "How Supernatural Got A Second Life Without Meta",
-        "url": "https://www.uploadvr.com/how-supernatural-got-a-second-life-without-meta/",
-        "summary": "Months after Meta ended development and laid off its team, Supernatural's Head of Fitness tells UploadVR about the VR fitness app's unlikely path back as an independent company.",
-        "source": "uploadvr.com",
-        "date": "Thu, 20 Aug 2026 17:02:36 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/SN-Flow-1.webp"
       },
       {
         "title": "XREAL AURA Surpasses 10,000 Unit Reservations Ahead of Launch This Fall",
@@ -49,6 +33,22 @@
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
+      },
+      {
+        "title": "Pico’s Vision Pro Competitor Gets Official Name and Debut Date",
+        "url": "https://roadtovr.com/picos-vision-pro-competitor-release-date-pricr-name/",
+        "summary": "Pico’s Vision Pro competitor is set to debut at a special event in Beijing early next month, which is now officially named Pico Space Pro.",
+        "source": "roadtovr.com",
+        "date": "Wed, 19 Aug 2026 19:06:50 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
+        "url": "https://mixed-news.com/en/anthropic-could-drop-opus-5-any-moment-as-gpt-5-6-challenges-claudes-dominance-in-ai-coding/",
+        "summary": "Claude Opus 5 appears to have leaked through Anthropic’s own fallback system after a Fable 5 safeguard routed a conversation to “Opus 5 High,” according to a screenshot circulating…",
+        "source": "mixed-news.com",
+        "date": "Fri, 24 Jul 2026 07:34:23 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Claude-Code.png"
       }
     ],
     "AI": [
