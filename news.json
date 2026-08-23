@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:55:05.405Z",
+  "updated": "2026-08-23T18:17:06.611Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Christian McCaffrey returns to 49ers practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-returns-to-49ers-practice",
+        "summary": "There is more positive news on the injury front for the 49ers.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 14:04:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c93771f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1017%2F495%2Fnbc_pft_mccaffery_260819.jpg"
+      },
+      {
         "title": "Mike Vrabel is protecting key starters in preseason due to depth concerns",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-is-protecting-key-starters-in-preseason-due-to-depth-concerns",
         "summary": "Patriots coach Mike Vrabel has kept quarterback Drake Maye and other key starters out of the first two preseason games.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 23 Aug 2026 12:55:11 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9add8da/2147483647/strip/false/crop/3600x2025+0+188/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa8%2F2d%2F6e9c917e4221b0ac87170d7331ce%2Fdownload.jpg"
-      },
-      {
-        "title": "RB Ja’Quinden Jackson was released from hospital, returned home with Eagles Saturday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-jaquinden-jackson-was-released-from-hospital-traveled-with-eagles-saturday-night",
-        "summary": "The Eagles shared a positive update on running back Ja'Quinden Jackson after a scary moment in Saturday's game against the Patriots.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 09:31:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/779fabb/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fc1%2F399ab7b949af8c4037d0e3b80744%2F2290524451.jpg"
       }
     ]
   }
