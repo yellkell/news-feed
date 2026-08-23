@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:34:33.254Z",
+  "updated": "2026-08-23T17:55:05.405Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Mike Vrabel is protecting key starters in preseason due to depth concerns",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-is-protecting-key-starters-in-preseason-due-to-depth-concerns",
+        "summary": "Patriots coach Mike Vrabel has kept quarterback Drake Maye and other key starters out of the first two preseason games.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 13:35:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4454716/2147483647/strip/false/crop/3396x1910+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb7%2F42%2Fe4c502d044e3a33008d9928bfb68%2F2026-08-23t033002z-636135760-mt1usatoday29647618-rtrmadp-3-nfl-philadelphia-eagles-at-new-england-patriots.jpg"
+      },
+      {
         "title": "Chargers place Tyler Biadasz on season-ending injured reserve",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-place-tyler-biadasz-on-season-ending-injured-reserve",
         "summary": "Chargers center Tyler Biadasz will not play at all this season.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 23 Aug 2026 09:31:14 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/779fabb/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fc1%2F399ab7b949af8c4037d0e3b80744%2F2290524451.jpg"
-      },
-      {
-        "title": "Missouri RB Ahmad Hardy will not play in season opener",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/missouri-rb-ahmad-hardy-will-not-play-in-season-opener",
-        "summary": "Missouri running back Ahmad Hardy will not play in the Tigers' first game of the 2026 season.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 09:24:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0a76d82/2147483647/strip/false/crop/3218x1810+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F55%2Fdb4e5a034dbebca0d29d14820478%2F2254081304.jpg"
       }
     ]
   }
