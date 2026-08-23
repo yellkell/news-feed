@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:13:47.958Z",
+  "updated": "2026-08-23T17:34:33.254Z",
   "feed": {
     "VR": [
       {
@@ -103,7 +103,31 @@
     ],
     "NFL": [
       {
-        "title": "Browns will place DE Alex Wright on IR with Achilles tear",
+        "title": "Chargers place Tyler Biadasz on season-ending injured reserve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-place-tyler-biadasz-on-season-ending-injured-reserve",
+        "summary": "Chargers center Tyler Biadasz will not play at all this season.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 13:31:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/524e95a/2147483647/strip/false/crop/7939x4466+0+415/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa8%2F68%2Fca7ed74d4366baf5c0cb0708a091%2F2271748831.jpg"
+      },
+      {
+        "title": "49ers activate George Kittle from PUP list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-activate-george-kittle-from-pup-list",
+        "summary": "Kittle, who suffered a torn Achilles tendon in January, is now eligible to practice and may be ready to play in Week One.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 13:23:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38f00e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F266%2F942%2Fnbc_pft_49ersexpiring_260821.jpg"
+      },
+      {
+        "title": "Bill Belichick is looking into the potential acquisition of players who get a fifth year",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-is-looking-into-the-potential-acquisition-of-players-who-get-a-fifth-year",
+        "summary": "Some schools, like Notre Dame, aren't exploring the addition of players from the class of 2022 who end up getting a fifth year of eligibility through the court system.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 13:12:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc204cf/2147483647/strip/false/crop/732x412+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2Fba%2F5c1315e2433389c59398256aba95%2F2026-07-28t135131z-1639758038-mt1usatoday29463214-rtrmadp-3-freshman-quarterback-travis-burgess-is-among-the-players.jpg"
+      },
+      {
+        "title": "Browns place DE Alex Wright on IR with Achilles tear",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-will-place-de-alex-wright-on-ir-with-achilles-tear",
         "summary": "Cleveland replaces Wright on the roster with veteran Derek Barnett.",
         "source": "nbcsports.com",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 23 Aug 2026 09:24:00 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/0a76d82/2147483647/strip/false/crop/3218x1810+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F55%2Fdb4e5a034dbebca0d29d14820478%2F2254081304.jpg"
-      },
-      {
-        "title": "Odell Beckham Jr. missed chance to make a touchdown catch",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-jr-missed-chance-to-make-a-touchdown-catch",
-        "summary": "Receiver Odell Beckham Jr. had a chance to step conclusively away from the roster bubble on Saturday.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 08:49:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f81c803/2147483647/strip/false/crop/4956x2788+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa0%2F20%2Fa4770fc34b4c8b4b62657e5e39ee%2F2291058464.jpg"
-      },
-      {
-        "title": "Joe Milton has strong game, but Cowboys backup QB competition \"long from over\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-milton-has-strong-game-but-cowboys-backup-qb-competition-long-from-over",
-        "summary": "The Cowboys know Dak Prescott is their starting quarterback, but they still have a decision to make about who will be the next man up on the depth chart.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 08:47:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/159e83d/2147483647/strip/false/crop/4102x2307+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2F4b%2Ff992ab374752a59029ad31913553%2F2291643568.jpg"
-      },
-      {
-        "title": "49ers sign TE Khalil Dinkins",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-te-khalil-dinkins",
-        "summary": "The 49ers brought tight end Khalil Dinkins back to the roster on Saturday.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 08:37:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38f00e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F266%2F942%2Fnbc_pft_49ersexpiring_260821.jpg"
       }
     ]
   }
