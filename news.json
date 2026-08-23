@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23T03:34:08.973Z",
+  "updated": "2026-08-23T07:59:22.587Z",
   "feed": {
     "VR": [
+      {
+        "title": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It",
+        "url": "https://mixed-news.com/en/openai-just-unveiled-a-powerful-new-cyber-ai-but-you-probably-cant-use-it/",
+        "summary": "OpenAI has introduced a new AI system called GPT-5.6 Cyber, designed specifically for cybersecurity work such as vulnerability research, penetration testing, incident response, and…",
+        "source": "mixed-news.com",
+        "date": "Sat, 22 Aug 2026 19:15:07 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
+      },
       {
         "title": "Co-op Space Roguelike Sol Protocol Sets September Release Date On Quest 3",
         "url": "https://www.uploadvr.com/co-op-sol-protocol-sets-release-date-for-meta-quest/",
@@ -17,14 +25,6 @@
         "source": "roadtovr.com",
         "date": "Thu, 20 Aug 2026 14:23:48 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
-        "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
-        "summary": "Meta Horizon+ now includes more than 50 Xbox Game Pass titles at no extra cost, a free upgrade for subscribers and another reason for Quest owners to consider the service.",
-        "source": "mixed-news.com",
-        "date": "Sat, 25 Jul 2026 00:08:55 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       },
       {
         "title": "How Supernatural Got A Second Life Without Meta",
@@ -43,12 +43,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
-        "url": "https://mixed-news.com/en/anthropic-could-drop-opus-5-any-moment-as-gpt-5-6-challenges-claudes-dominance-in-ai-coding/",
-        "summary": "Claude Opus 5 appears to have leaked through Anthropic’s own fallback system after a Fable 5 safeguard routed a conversation to “Opus 5 High,” according to a screenshot circulating…",
+        "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
+        "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
+        "summary": "Meta Horizon+ now includes more than 50 Xbox Game Pass titles at no extra cost, a free upgrade for subscribers and another reason for Quest owners to consider the service.",
         "source": "mixed-news.com",
-        "date": "Fri, 24 Jul 2026 07:34:23 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Claude-Code.png"
+        "date": "Sat, 25 Jul 2026 00:08:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
       }
     ],
     "AI": [
