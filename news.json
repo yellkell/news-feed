@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T19:16:55.616Z",
+  "updated": "2026-08-23T19:42:56.296Z",
   "feed": {
     "VR": [
       {
@@ -11,12 +11,28 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
       },
       {
+        "title": "Co-op Space Roguelike Sol Protocol Sets September Release Date On Quest 3",
+        "url": "https://www.uploadvr.com/co-op-sol-protocol-sets-release-date-for-meta-quest/",
+        "summary": "Co-op space roguelike Sol Protocol takes off on September 17 in Early Access on Quest 3 headsets.",
+        "source": "uploadvr.com",
+        "date": "Fri, 21 Aug 2026 12:00:03 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/CoverImage_Landscape.png"
+      },
+      {
         "title": "Steam Frame Unboxing & Setup Videos Leak, Pointing to Imminent Launch",
         "url": "https://roadtovr.com/steam-frame-unboxing-setup-video-leak/",
         "summary": "It looks as though Valve is actually gearing up to release Steam Frame, as user setup videos have leaked showing off unboxing and first-time user experience with Valve’s first…",
         "source": "roadtovr.com",
         "date": "Thu, 20 Aug 2026 14:23:48 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "How Supernatural Got A Second Life Without Meta",
+        "url": "https://www.uploadvr.com/how-supernatural-got-a-second-life-without-meta/",
+        "summary": "Months after Meta ended development and laid off its team, Supernatural's Head of Fitness tells UploadVR about the VR fitness app's unlikely path back as an independent company.",
+        "source": "uploadvr.com",
+        "date": "Thu, 20 Aug 2026 17:02:36 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/SN-Flow-1.webp"
       },
       {
         "title": "XREAL AURA Surpasses 10,000 Unit Reservations Ahead of Launch This Fall",
@@ -33,22 +49,6 @@
         "source": "mixed-news.com",
         "date": "Sat, 25 Jul 2026 00:08:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Meta-Horizon-Plus-now-include-Xbox-Game-Pass-SE.jpg"
-      },
-      {
-        "title": "Pico’s Vision Pro Competitor Gets Official Name and Debut Date",
-        "url": "https://roadtovr.com/picos-vision-pro-competitor-release-date-pricr-name/",
-        "summary": "Pico’s Vision Pro competitor is set to debut at a special event in Beijing early next month, which is now officially named Pico Space Pro.",
-        "source": "roadtovr.com",
-        "date": "Wed, 19 Aug 2026 19:06:50 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Anthropic could drop Opus 5 any moment, as GPT 5.6 challenges Claude's dominance in AI coding",
-        "url": "https://mixed-news.com/en/anthropic-could-drop-opus-5-any-moment-as-gpt-5-6-challenges-claudes-dominance-in-ai-coding/",
-        "summary": "Claude Opus 5 appears to have leaked through Anthropic’s own fallback system after a Fable 5 safeguard routed a conversation to “Opus 5 High,” according to a screenshot circulating…",
-        "source": "mixed-news.com",
-        "date": "Fri, 24 Jul 2026 07:34:23 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/07/Claude-Code.png"
       }
     ],
     "AI": [
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "A day after signing with Dolphins, LB Stephen Dix Jr. was making defensive calls in a game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-day-after-signing-with-dolphins-lb-stephen-dix-jr-was-making-defensive-calls-in-a-game",
+        "summary": "The preseason is often about figuring out the contours of the roster.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 15:14:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9eab252/2147483647/strip/false/crop/4793x2696+0+249/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2Ff1%2F28d4a2a8482b90c99fa4522c1345%2F2291609960.jpg"
+      },
+      {
         "title": "Kellen Moore: We wanted to accomplish more offensively on Saturday",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-we-wanted-to-accomplish-more-offensively-on-saturday",
         "summary": "Zach Wilson made a good case for the Saints' backup quarterback job in the team's first preseason game, but his second outing did not go as well.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 23 Aug 2026 13:23:08 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/38f00e5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F266%2F942%2Fnbc_pft_49ersexpiring_260821.jpg"
-      },
-      {
-        "title": "Bill Belichick is looking into the potential acquisition of players who get a fifth year",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-is-looking-into-the-potential-acquisition-of-players-who-get-a-fifth-year",
-        "summary": "Some schools, like Notre Dame, aren't exploring the addition of players from the class of 2022 who end up getting a fifth year of eligibility through the court system.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 13:12:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc204cf/2147483647/strip/false/crop/732x412+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2Fba%2F5c1315e2433389c59398256aba95%2F2026-07-28t135131z-1639758038-mt1usatoday29463214-rtrmadp-3-freshman-quarterback-travis-burgess-is-among-the-players.jpg"
       }
     ]
   }
