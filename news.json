@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T21:23:34.422Z",
+  "updated": "2026-08-24T21:51:29.779Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "NFL adds Tony Boselli to competition committee",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-adds-tony-boselli-to-competition-committee",
+        "summary": "Jaguars Executive V.P. of Football Operations Tony Boselli is the newest member of the NFL's competition committee.",
+        "source": "nbcsports.com",
+        "date": "Mon, 24 Aug 2026 17:23:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/535a58a/2147483647/strip/false/crop/6194x3484+0+323/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F35%2F05ce43a24c578f3f16fdc1a64110%2F2238023597.jpg"
+      },
+      {
         "title": "Aaron Glenn: Breece Hall, Kenyon Sadiq on track for Week 1",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-breece-hall-kenyon-sadiq-on-track-for-week-1",
         "summary": "Jets running back Breece Hall has missed the last week of work with a groin injury, but the team isn't showing much concern about his status for the season opener.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 24 Aug 2026 16:49:53 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/98ce7e4/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F28%2F04%2F0d6bd25a47328cf645166df86c45%2F2237729856.jpg"
-      },
-      {
-        "title": "Andy Reid: No predictions on Patrick Mahomes for season opener",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-no-predictions-on-patrick-mahomes-for-season-opener",
-        "summary": "Chiefs quarterback Patrick Mahomes avoided the physically unable to perform list to open training camp and he's been practicing without issue all summer, but head coach Andy Reid…",
-        "source": "nbcsports.com",
-        "date": "Mon, 24 Aug 2026 16:40:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2e2d066/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2Fe5%2F9d49970645b586f038659392a578%2F2291744289.jpg"
       }
     ]
   }
