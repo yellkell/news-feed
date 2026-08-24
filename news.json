@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T02:36:24.242Z",
+  "updated": "2026-08-24T03:36:52.631Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Raiders RB Ashton Jeanty diagnosed with sprained ankle",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-rb-ashton-jeanty-diagnosed-with-sprained-ankle",
+        "summary": "Raiders running back Ashton Jeanty needed help off the practice field on Sunday after injuring his right leg.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 23:25:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b3e7967/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F06%2F9a4fa3bb42ecbf3db667a647cfc9%2F2291444213.jpg"
+      },
+      {
+        "title": "Saints send LB Deion Jones to 49ers for RB Zamir White",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-send-lb-deion-jones-to-49ers-for-rb-zamir-white",
+        "summary": "The Saints are trading veteran linebacker Deion Jones to the 49ers in exchange for running back Zamir White, Adam Schefter of ESPN reports.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 23:05:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8d4c7dd/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8e%2Fa0%2F6acead51431d9dce9b4b73a1cee5%2Fdownload.jpg"
+      },
+      {
         "title": "Christian McCaffrey says recent practice absences were planned as part of load management",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-says-recent-practice-absences-were-planned-as-part-of-load-management",
         "summary": "Christian McCaffrey returned to practice on Sunday, his first time on the field with his teammates since Aug. 8.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 23 Aug 2026 18:55:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f68aea/2147483647/strip/false/crop/4896x2754+0+255/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F29%2F372459a443d0b028f2d248e333b9%2F2243513333.jpg"
-      },
-      {
-        "title": "Ashton Jeanty exits Sunday's practice with apparent leg injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ashton-jeanty-exits-sundays-practice-with-apparent-leg-injury",
-        "summary": "Jeanty went down after diving to make a catch during the day's session.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 17:43:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38a3ca2/2147483647/strip/false/crop/4122x2319+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F93%2Ff0c6e3c94e58b1df6b1c89d549c9%2F2288179609.jpg"
-      },
-      {
-        "title": "Browns will waive Dae’Quan Wright, who has agreed to play for LSU",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-will-waive-daequan-wright-who-has-agreed-to-play-for-lsu",
-        "summary": "Browns tight end Dae’Quan Wright is poised to do something that once would have been unthinkable: Leave the NFL and go play in the NCAA.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 17:08:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4f03faf/2147483647/strip/false/crop/3888x2187+0+203/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F19%2F0f%2Fb44936f54765af11f3d4ad432659%2F2255637153.jpg"
       }
     ]
   }
