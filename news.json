@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T23:42:57.459Z",
+  "updated": "2026-08-24T02:36:24.242Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Christian McCaffrey says recent practice absences were planned as part of load management",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-says-recent-practice-absences-were-planned-as-part-of-load-management",
+        "summary": "Christian McCaffrey returned to practice on Sunday, his first time on the field with his teammates since Aug. 8.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 22:13:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7fd33fa/2147483647/strip/false/crop/5747x3233+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2Fbb%2Fa00729634c0bb8c3ebd1cf2d745f%2Fdownload.jpg"
+      },
+      {
+        "title": "Seahawks second-round S Bud Clark carted off with leg injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-second-round-s-bud-clark-carted-off-with-leg-injury",
+        "summary": "Seahawks rookie safety Bud Clark was carted off with a right leg injury in Sunday night's preseason game against the Titans.",
+        "source": "nbcsports.com",
+        "date": "Sun, 23 Aug 2026 21:45:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50b8b53/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2F0f%2Ff201ebd24efebcd510788b38efe7%2F2290679493.jpg"
+      },
+      {
         "title": "Could Deshaun Watson get a two-game audition for the starting job?",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/could-deshaun-watson-get-a-two-game-audition-for-the-starting-job",
         "summary": "Browns coach Todd Monken surely knows which quarterback he'll name as the team's starter on Monday.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 23 Aug 2026 17:08:05 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/4f03faf/2147483647/strip/false/crop/3888x2187+0+203/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F19%2F0f%2Fb44936f54765af11f3d4ad432659%2F2255637153.jpg"
-      },
-      {
-        "title": "Jaguars sign DT Tommy Akingbesote, waive CB Devon Marshall",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-sign-dt-tommy-akingbesote-waive-cb-devon-marshall",
-        "summary": "The Jaguars have made a pair of roster moves on Sunday.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 16:18:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1eec8b/2147483647/strip/false/crop/4190x2357+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2F71%2F67c915404fa790c4953327c655ba%2F2290985870.jpg"
-      },
-      {
-        "title": "Todd Monken anticipates naming a starting quarterback on Monday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-anticipates-naming-starting-quarterback-on-monday",
-        "summary": "Monken says Saturday's comments from Deshaun Watson won't be a factor.",
-        "source": "nbcsports.com",
-        "date": "Sun, 23 Aug 2026 15:53:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e7861d8/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F267%2F918%2Fnbc_pft_watson_260821.jpg"
       }
     ]
   }
