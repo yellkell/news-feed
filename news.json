@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T22:50:34.890Z",
+  "updated": "2026-08-24T23:43:39.799Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+        "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+        "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+        "source": "arstechnica.com",
+        "date": "Mon, 24 Aug 2026 19:19:21 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg"
+      },
+      {
         "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
         "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
         "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it.",
         "source": "theverge.com",
         "date": "2026-08-21T17:25:50-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-        "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-        "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-        "source": "arstechnica.com",
-        "date": "Fri, 21 Aug 2026 13:11:35 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -85,12 +85,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-        "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-        "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+        "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+        "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
         "source": "arstechnica.com",
-        "date": "Thu, 20 Aug 2026 13:00:35 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg"
+        "date": "Fri, 21 Aug 2026 13:11:35 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg"
       },
       {
         "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -102,6 +102,38 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Sean Payton: The Riley Moss rib injury is \"nothing serious\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-the-riley-moss-rib-injury-is-nothing-serious",
+        "summary": "On Friday night, Broncos cornerback Riley Moss made an early exit with a rib injury.",
+        "source": "nbcsports.com",
+        "date": "Mon, 24 Aug 2026 19:29:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d510723/2147483647/strip/false/crop/7304x4109+0+507/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2F41%2F4a189a894039b256fe1b09a16550%2F2257692335.jpg"
+      },
+      {
+        "title": "Allen Robinson announces retirement",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/allen-robinson-announces-retirement",
+        "summary": "Former NFL wide receiver Allen Robinson II announced his retirement on Monday.",
+        "source": "nbcsports.com",
+        "date": "Mon, 24 Aug 2026 19:28:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1a0ad5e/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2Ff5%2F6cfa567a46bfad47c83f2814c11d%2Fdownload.jpg"
+      },
+      {
+        "title": "Jed York filed for divorce in May 2026",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jed-york-filed-for-divorce-in-may-2026",
+        "summary": "The private lives of the NFL's ultra-rich and famous are never really all that private.",
+        "source": "nbcsports.com",
+        "date": "Mon, 24 Aug 2026 19:22:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1616c87/2147483647/strip/false/crop/2432x1368+0+464/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F40%2Ffa%2F9ac39f0b47b8ad3e616deba5c39d%2F2242921101.jpg"
+      },
+      {
+        "title": "Report: Saints fear RB Ty Chandler suffered serious knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-saints-fear-rb-ty-chandler-suffered-serious-knee-injury",
+        "summary": "The Saints made a trade for Zamir White on Monday and injuries in their offensive backfield appear to be the reason why they made the made.",
+        "source": "nbcsports.com",
+        "date": "Mon, 24 Aug 2026 19:11:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ced57a1/2147483647/strip/false/crop/5467x3075+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2Fb2%2F426df9f84a978ed40cf28f1055a6%2F2290775643.jpg"
+      },
       {
         "title": "49ers sign DE Viliami Fehoko",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-de-viliami-fehoko",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 24 Aug 2026 18:26:10 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/49963a2/2147483647/strip/false/crop/7557x4251+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2Fd7%2Fa9b288574327a93df39d61a8a82c%2F2255086396.jpg"
-      },
-      {
-        "title": "Lions put RB Raheem Blackshear, WR Cedrick Wilson on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-put-rb-raheem-blackshear-wr-cedrick-wilson-on-injured-reserve",
-        "summary": "The Lions placed a couple of veterans on injured reserve Monday.",
-        "source": "nbcsports.com",
-        "date": "Mon, 24 Aug 2026 18:16:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/57a9c80/2147483647/strip/false/crop/6673x3754+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F0c%2F6063ae074f91a267aa3e4d350f61%2F2291041071.jpg"
-      },
-      {
-        "title": "Former Saints rookie Zxavian Harris returns to college, commits to LSU",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-saints-rookie-zxavian-harris-returns-to-college-commits-to-lsu",
-        "summary": "The Saints waived rookie defensive tackle Zxavian Harris on Aug. 8.",
-        "source": "nbcsports.com",
-        "date": "Mon, 24 Aug 2026 17:50:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/959011a/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2Ff3%2F75c1fe124d969dfd385107eb5c27%2Fdownload.jpg"
-      },
-      {
-        "title": "NFL adds Tony Boselli to competition committee",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-adds-tony-boselli-to-competition-committee",
-        "summary": "Jaguars Executive V.P. of Football Operations Tony Boselli is the newest member of the NFL's competition committee.",
-        "source": "nbcsports.com",
-        "date": "Mon, 24 Aug 2026 17:23:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/535a58a/2147483647/strip/false/crop/6194x3484+0+323/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F35%2F05ce43a24c578f3f16fdc1a64110%2F2238023597.jpg"
-      },
-      {
-        "title": "Aaron Glenn: Breece Hall, Kenyon Sadiq on track for Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-breece-hall-kenyon-sadiq-on-track-for-week-1",
-        "summary": "Jets running back Breece Hall has missed the last week of work with a groin injury, but the team isn't showing much concern about his status for the season opener.",
-        "source": "nbcsports.com",
-        "date": "Mon, 24 Aug 2026 17:05:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/387e1ae/2147483647/strip/false/crop/3087x1736+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2F8b%2F035316804dfabdb86ff8dfdcb8a6%2F2290645697.jpg"
       }
     ]
   }
