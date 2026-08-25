@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:41:46.086Z",
+  "updated": "2026-08-25T22:29:46.919Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Myles Garrett remains out of Rams' practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-remains-out-of-rams-practice",
+        "summary": "Rams pass rusher Myles Garrett remained out of practice Tuesday, the 12th practice he has missed with minor knee swelling.",
+        "source": "nbcsports.com",
+        "date": "Tue, 25 Aug 2026 18:14:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/08555cd/2147483647/strip/false/crop/7264x4086+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2F80%2Fd494f80e4ac1a74babd188a53940%2Fdownload.jpg"
+      },
+      {
         "title": "Texans to sign DE Derek Parish",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-to-sign-de-derek-parish",
         "summary": "The Texans lost defensive end Dylan Horton to a torn Achilles this week and they made a move to help fill in for him on Tuesday.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 25 Aug 2026 16:47:04 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8edb188/2147483647/strip/false/crop/4218x2373+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2F9a%2Ffad5363246f39547517e4ac86b29%2Fdownload.jpg"
-      },
-      {
-        "title": "Sam LaPorta returned to practice on Tuesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-laporta-returned-to-practice-on-tuesday",
-        "summary": "The Lions got one of their key offensive players back on the field on Tuesday.",
-        "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 16:43:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b57db5/2147483647/strip/false/crop/5740x3229+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F8e%2F58a309854d13b5d6111c840d82db%2F2288445817.jpg"
       }
     ]
   }
