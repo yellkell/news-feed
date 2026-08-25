@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T10:04:33.765Z",
+  "updated": "2026-08-25T10:47:20.635Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+        "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and…",
+        "source": "theverge.com",
+        "date": "2026-08-25T05:15:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
         "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
         "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
         "source": "arstechnica.com",
         "date": "Mon, 24 Aug 2026 19:19:21 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg"
-      },
-      {
-        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-        "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it.",
-        "source": "theverge.com",
-        "date": "2026-08-21T17:25:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       },
       {
-        "title": "Major YouTube creators are facing backlash for accepting AI money",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-        "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's…",
+        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+        "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it.",
         "source": "theverge.com",
-        "date": "2026-08-21T09:37:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-21T17:25:50-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "New study finds at least 24.5 percent of NFL players who died from 2016 to 2021 had CTE",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-study-finds-at-least-24-5-percent-of-nfl-players-who-died-from-2016-to-2021-had-cte",
+        "summary": "The New York Times raises the question of whether OSHA should get involved.",
+        "source": "nbcsports.com",
+        "date": "Tue, 25 Aug 2026 06:35:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/04a4cfd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F151%2F158%2Fnbc_pft_pftpm_alsfootball_260630.jpg"
+      },
       {
         "title": "As LSU chases NFL players, SEC speaks out against it",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-lsu-chases-nfl-players-sec-speaks-out-against-it",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 24 Aug 2026 21:51:24 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/179be8f/2147483647/strip/false/crop/5500x3094+0+270/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F26%2F4f%2F6ec15726496e90fd2f14f2cd7e3b%2F2291153832.jpg"
-      },
-      {
-        "title": "Deion Sanders on subpoena: \"When you're 'him,' you get sued\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-on-subpoena-when-youre-him-you-get-sued",
-        "summary": "Colorado coach Deion Sanders is under subpoena to testify at a trial involving his son, Shilo.",
-        "source": "nbcsports.com",
-        "date": "Mon, 24 Aug 2026 19:52:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e243b5a/2147483647/strip/false/crop/3600x2025+0+188/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2Fb9%2F342ea03c4f5f8f032afcdb15552e%2F2026-07-30t210732z-359021209-mt1usatoday29483253-rtrmadp-3-deion-sanders-takes-in-the-second-day-of-cleveland-browns.jpg"
       }
     ]
   }
