@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:51:56.862Z",
+  "updated": "2026-08-25T12:32:05.827Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Panthers expect Chuba Hubbard back for Week 1",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-expect-chuba-hubbard-back-for-week-1",
+        "summary": "Panthers running back Chuba Hubbard has been sidelined by a hamstring injury for the last couple of weeks, but the team is not concerned about his absence stretching into the…",
+        "source": "nbcsports.com",
+        "date": "Tue, 25 Aug 2026 07:57:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d62ecc9/2147483647/strip/false/crop/3435x1932+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F20%2F14%2F69f0827f4581b54155d5d38faf19%2F2255164839.jpg"
+      },
+      {
         "title": "Cowboys backup QB competition \"neck and neck\" heading into preseason finale",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-backup-qb-competition-neck-and-neck-heading-into-preseason-finale",
         "summary": "The Cowboys aren't ready to settle on a backup quarterback yet.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 25 Aug 2026 04:37:41 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec96760/2147483647/strip/false/crop/3774x2123+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fb9%2Ff35b67ce45a89e8104eb33a00753%2F2291237341.jpg"
-      },
-      {
-        "title": "Saints lose cornerback and special teamer Rejzohn Wright to season-ending hip injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-lose-cornerback-and-special-teamer-rejzohn-wright-to-season-ending-hip-injury",
-        "summary": "Saints cornerback and special teams contributor Rejzohn Wright will miss the entire 2026 season.",
-        "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 04:07:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eabf6e9/2147483647/strip/false/crop/3986x2242+0+207/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2F87%2Fe182c9b74c46971547a95d3a6219%2F2026-08-08t192202z-451058941-mt1usatoday29543502-rtrmadp-3-nfl-new-orleans-saints-training-camp.jpg"
       }
     ]
   }
