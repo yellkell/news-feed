@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T02:35:09.331Z",
+  "updated": "2026-08-25T03:29:37.035Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Police close investigation into death of Ed Oliver's young son",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/police-close-investigation-into-death-of-ed-olivers-young-son",
+        "summary": "On Saturday, the Bills acknowledged that defensive tackle Ed Oliver's young son died earlier this summer, after a report regarding the tragedy had emerged a day earlier.",
+        "source": "nbcsports.com",
+        "date": "Mon, 24 Aug 2026 23:16:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e00f850/2147483647/strip/false/crop/7418x4173+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F73%2F93454edc414bbba3d4b3474a0fde%2F2257214968.jpg"
+      },
+      {
         "title": "Justin Jefferson vows to return to NFL preeminence",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-jefferson-vows-to-return-to-nfl-pre-eminence",
         "summary": "There was a time, not all that long ago, that Justin Jefferson was regarded as the best receiver in the NFL, without question.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 24 Aug 2026 19:28:18 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1a0ad5e/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2Ff5%2F6cfa567a46bfad47c83f2814c11d%2Fdownload.jpg"
-      },
-      {
-        "title": "Jed York filed for divorce in May 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jed-york-filed-for-divorce-in-may-2026",
-        "summary": "The private lives of the NFL's ultra-rich and famous are never really all that private.",
-        "source": "nbcsports.com",
-        "date": "Mon, 24 Aug 2026 19:22:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1616c87/2147483647/strip/false/crop/2432x1368+0+464/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F40%2Ffa%2F9ac39f0b47b8ad3e616deba5c39d%2F2242921101.jpg"
       }
     ]
   }
