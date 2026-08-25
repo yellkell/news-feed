@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:20:55.238Z",
+  "updated": "2026-08-25T23:46:34.066Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "SEC, Big 10 block return of NFL players to member schools",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sec-big-10-block-return-of-nfl-players-to-member-schools",
+        "summary": "The chaos in college football is only getting more chaotic.",
+        "source": "nbcsports.com",
+        "date": "Tue, 25 Aug 2026 19:34:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cbd7481/2147483647/strip/false/crop/3509x1974+0+183/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F76%2Faec1b4f64735a9b4a03c4a1c6bd4%2F2277601438.jpg"
+      },
+      {
         "title": "With Aaron Donald undecided, Rams prepping for 53-player rosters with and without him",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-aaron-donald-undecided-rams-prepping-for-53-player-rosters-with-and-without-him",
         "summary": "The Rams open the season in 16 days, and defensive tackle Aaron Donald still has not reached a decision about his return.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 25 Aug 2026 17:33:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/67a8f6c/2147483647/strip/false/crop/5000x2813+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2Fe6%2Fbfbab69841febdb728310e33708d%2F2286975378.jpg"
-      },
-      {
-        "title": "Commanders sign OT D.J. Humphries to a one-year deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-sign-ot-d-j-humphries-to-a-one-year-deal",
-        "summary": "The Commanders signed offensive tackle D.J.",
-        "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 17:25:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1669154/2147483647/strip/false/crop/5903x3320+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2Fa5%2Fd801a2e14fe9be677e9d9acc412a%2F2256625068.jpg"
       }
     ]
   }
