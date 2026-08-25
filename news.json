@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-25T03:29:37.035Z",
+  "updated": "2026-08-25T07:28:39.237Z",
   "feed": {
     "VR": [
+      {
+        "title": "Pico’s Vision Pro Competitor Delayed Amid Cancelled September Reveal",
+        "url": "https://roadtovr.com/pico-vision-pro-competitor-delayed-cancelled-event/",
+        "summary": "Pico was set to debut its next flagship standalone XR headset early next month, however now the ByteDance subsidiary says it’s postponing the reveal and release date of its…",
+        "source": "roadtovr.com",
+        "date": "Tue, 25 Aug 2026 07:11:08 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
       {
         "title": "Project Phoenix: Everything We Know So Far About Meta's Next Headset",
         "url": "https://www.uploadvr.com/phoenix-everything-we-know-so-far-meta-next-headset/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Mon, 24 Aug 2026 10:04:15 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/combined-2.png"
-      },
-      {
-        "title": "Arm Patents Method to Reduce XR Motion Sickness Using Ultrasound",
-        "url": "https://roadtovr.com/arm-patent-xr-motion-sickness-vestibular-stimulation-ultrasound/",
-        "summary": "A newly granted patent from Arm describes a head-mounted system that analyzes motion in the images headed to a display, then sends control signals to ultrasonic transducers…",
-        "source": "roadtovr.com",
-        "date": "Mon, 24 Aug 2026 15:29:47 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/arm-vestibulat-stimulation-patent.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It",
@@ -27,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
       },
       {
+        "title": "Arm Patents Method to Reduce XR Motion Sickness Using Ultrasound",
+        "url": "https://roadtovr.com/arm-patent-xr-motion-sickness-vestibular-stimulation-ultrasound/",
+        "summary": "A newly granted patent from Arm describes a head-mounted system that analyzes motion in the images headed to a display, then sends control signals to ultrasonic transducers…",
+        "source": "roadtovr.com",
+        "date": "Mon, 24 Aug 2026 15:29:47 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/arm-vestibulat-stimulation-patent.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "Co-op Space Roguelike Sol Protocol Sets September Release Date On Quest 3",
         "url": "https://www.uploadvr.com/co-op-sol-protocol-sets-release-date-for-meta-quest/",
         "summary": "Co-op space roguelike Sol Protocol takes off on September 17 in Early Access on Quest 3 headsets.",
         "source": "uploadvr.com",
         "date": "Fri, 21 Aug 2026 12:00:03 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/CoverImage_Landscape.png"
-      },
-      {
-        "title": "Steam Frame Unboxing & Setup Videos Leak, Pointing to Imminent Launch",
-        "url": "https://roadtovr.com/steam-frame-unboxing-setup-video-leak/",
-        "summary": "It looks as though Valve is actually gearing up to release Steam Frame, as user setup videos have leaked showing off unboxing and first-time user experience with Valve’s first…",
-        "source": "roadtovr.com",
-        "date": "Thu, 20 Aug 2026 14:23:48 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/11/steam-frame-hands-on-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
