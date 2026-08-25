@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-25T12:32:05.827Z",
+  "updated": "2026-08-25T14:25:56.169Z",
   "feed": {
     "VR": [
+      {
+        "title": "Fast Travel Games' Erik Odeldahl On Building Payday: Aces High For VR",
+        "url": "https://www.uploadvr.com/fast-travel-games-erik-odeldahl-on-building-payday-aces-high-for-vr/",
+        "summary": "We played Payday: Aces High with Fast Travel Games and talked to Chief Creative Officer Erik Odeldahl on the VR design philosophies behind the co-op heist shooter.",
+        "source": "uploadvr.com",
+        "date": "Tue, 25 Aug 2026 07:05:16 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/ss_5bea2bfc606cf4dbf6d2b9761e41c34fda3153e6.1920x1080--1-.jpg"
+      },
       {
         "title": "Pico’s Vision Pro Competitor Delayed Amid Cancelled September Reveal",
         "url": "https://roadtovr.com/pico-vision-pro-competitor-delayed-cancelled-event/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Tue, 25 Aug 2026 07:11:08 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Project Phoenix: Everything We Know So Far About Meta's Next Headset",
-        "url": "https://www.uploadvr.com/phoenix-everything-we-know-so-far-meta-next-headset/",
-        "summary": "Here's everything we know (so far) about Project Phoenix, Meta's next headset.",
-        "source": "uploadvr.com",
-        "date": "Mon, 24 Aug 2026 10:04:15 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/combined-2.png"
       },
       {
         "title": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It",
@@ -27,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
       },
       {
+        "title": "Real VR Fishing \"US South\" DLC Launches On Quest & Steam",
+        "url": "https://www.uploadvr.com/real-vr-fishing-us-south-dlc-launches-on-quest-steam/",
+        "summary": "Real VR Fishing brings players to warm waters with its latest expansion, the US South DLC, out now on Quest and Steam.",
+        "source": "uploadvr.com",
+        "date": "Tue, 25 Aug 2026 06:59:07 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/real-vr-fishing-US-South-DLC_Banner_2560_1440.png"
+      },
+      {
         "title": "Arm Patents Method to Reduce XR Motion Sickness Using Ultrasound",
         "url": "https://roadtovr.com/arm-patent-xr-motion-sickness-vestibular-stimulation-ultrasound/",
         "summary": "A newly granted patent from Arm describes a head-mounted system that analyzes motion in the images headed to a display, then sends control signals to ultrasonic transducers…",
         "source": "roadtovr.com",
         "date": "Mon, 24 Aug 2026 15:29:47 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/arm-vestibulat-stimulation-patent.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Co-op Space Roguelike Sol Protocol Sets September Release Date On Quest 3",
-        "url": "https://www.uploadvr.com/co-op-sol-protocol-sets-release-date-for-meta-quest/",
-        "summary": "Co-op space roguelike Sol Protocol takes off on September 17 in Early Access on Quest 3 headsets.",
-        "source": "uploadvr.com",
-        "date": "Fri, 21 Aug 2026 12:00:03 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/CoverImage_Landscape.png"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-        "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and…",
+        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+        "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
         "source": "theverge.com",
-        "date": "2026-08-25T05:15:03-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-25T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       },
       {
-        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-        "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it.",
+        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+        "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and…",
         "source": "theverge.com",
-        "date": "2026-08-21T17:25:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-25T05:15:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Panthers expect Chuba Hubbard back for Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-expect-chuba-hubbard-back-for-week-1",
-        "summary": "Panthers running back Chuba Hubbard has been sidelined by a hamstring injury for the last couple of weeks, but the team is not concerned about his absence stretching into the…",
+        "title": "NFC North, AFC South teams reveal \"Rivalries\" uniforms",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfc-north-afc-south-teams-reveal-rivalries-uniforms",
+        "summary": "The NFL's second wave of \"Rivalries\" uniforms were unveiled on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 07:57:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d62ecc9/2147483647/strip/false/crop/3435x1932+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F20%2F14%2F69f0827f4581b54155d5d38faf19%2F2255164839.jpg"
+        "date": "Tue, 25 Aug 2026 10:21:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aee007f/2147483647/strip/false/crop/2560x1440+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F89%2F86b433b048e292bd2e2d7a776bfc%2Ffxufuqjjdfiebf3sfurr.webp"
       },
       {
-        "title": "Cowboys backup QB competition \"neck and neck\" heading into preseason finale",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-backup-qb-competition-neck-and-neck-heading-into-preseason-finale",
-        "summary": "The Cowboys aren't ready to settle on a backup quarterback yet.",
+        "title": "East Palestine trailer park owner clears the air on Jed York arrest",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/east-palestine-trailer-park-owner-clears-the-air-on-jed-york-arrest",
+        "summary": "One of the most stunning aspects of the news regarding 49ers owner Jed York's recent prostitution-related arrest was that it happened at a trailer park.",
         "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 07:48:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c4cd2df/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F56%2Fe6cddd514956829a3b3ebb39eac6%2F2290679519.jpg"
+        "date": "Tue, 25 Aug 2026 10:21:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d5282d9/2147483647/strip/false/crop/5034x2832+0+262/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F2f%2F7700a6e14c1e8bbf3671871553f9%2Fdownload.jpg"
       },
       {
-        "title": "Commanders to sign LB Boogie Basham",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-sign-lb-boogie-basham",
-        "summary": "The Commanders are adding a veteran edge rusher to their roster.",
+        "title": "Dolphins rookie Trey Moore to undergo ankle surgery",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-rookie-trey-moore-to-undergo-ankle-surgery",
+        "summary": "The Dolphins will be missing one of their rookies for an extended stretch.",
         "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 07:34:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d1d230/2147483647/strip/false/crop/5164x2905+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2Faa%2F7bc1cf534df4b72ee2fe3dd76e91%2F2231915485.jpg"
+        "date": "Tue, 25 Aug 2026 09:59:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e2d2312/2147483647/strip/false/crop/2145x1207+0+334/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2F34%2Fc3110ec941888ae63e4d87e0f523%2F2279319364.jpg"
       },
       {
-        "title": "New study finds at least 24.5 percent of NFL players who died from 2016 to 2021 had CTE",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-study-finds-at-least-24-5-percent-of-nfl-players-who-died-from-2016-to-2021-had-cte",
-        "summary": "The New York Times raises the question of whether OSHA should get involved.",
+        "title": "Some Bills starters will play this week, but not Josh Allen",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/some-bills-starters-will-play-this-week-but-not-josh-allen",
+        "summary": "Josh Allen started at quarterback for the Bills in their preseason opener and that will be his only game action ahead of Week 1.",
         "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 06:35:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/04a4cfd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F151%2F158%2Fnbc_pft_pftpm_alsfootball_260630.jpg"
+        "date": "Tue, 25 Aug 2026 09:53:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f49dd73/2147483647/strip/false/crop/8256x4644+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2F3a%2F5504d2c743b3aed6e88135a0ca54%2F2291349628.jpg"
       },
       {
-        "title": "As LSU chases NFL players, SEC speaks out against it",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-lsu-chases-nfl-players-sec-speaks-out-against-it",
-        "summary": "The current vibe in college football consists of Machiavelli vs. the lingering vestiges of amateurism.",
+        "title": "Commanders release S Will Harris, put LB Drake Jackson on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-release-s-will-harris-put-lb-drake-jackson-on-ir",
+        "summary": "The Commanders announced the previously reported signing of linebacker Boogie Basham on Tuesday morning and they also made a number of other roster moves.",
         "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 05:55:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c70695a/2147483647/strip/false/crop/2900x1631+0+151/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2Fb7%2F7100f50f437e8b37a0f86b36e48f%2F1235904237.jpg"
+        "date": "Tue, 25 Aug 2026 09:39:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a5dec18/2147483647/strip/false/crop/7067x3975+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F0e%2F29ef17cd4cb1906e9c9e152f43a6%2F2290790268.jpg"
       },
       {
-        "title": "Kellen Moore on Zxavian Harris going from Saints to LSU: There's no regulation to anything",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-on-zxavian-harris-going-from-saints-to-lsu-theres-no-regulation-to-anything",
-        "summary": "\"Hopefully there can be some leadership and some regulations developed,\" Moore said.",
+        "title": "New CTE study shines a brighter light on the \"dynamic\" kickoff",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-cte-study-shines-a-brighter-light-on-the-dynamic-kickoff",
+        "summary": "With the touchback moved to the 35, concussions dramatically increased in 2025.",
         "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 04:37:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec96760/2147483647/strip/false/crop/3774x2123+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fb9%2Ff35b67ce45a89e8104eb33a00753%2F2291237341.jpg"
+        "date": "Tue, 25 Aug 2026 09:35:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/21b1d5d/2147483647/strip/false/crop/3145x1769+0+164/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2Fbc%2Fe71333204ecb9b44f1c5ca8b6b65%2Fdownload.jpg"
       }
     ]
   }
