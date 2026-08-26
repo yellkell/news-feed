@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-26T14:03:48.157Z",
+  "updated": "2026-08-26T15:50:42.234Z",
   "feed": {
     "VR": [
+      {
+        "title": "Supernatural's New Independent App Is Now Available To Wishlist On Quest",
+        "url": "https://www.uploadvr.com/supernaturals-new-independent-app-is-now-available-to-wishlist-on-quest/",
+        "summary": "The new independent Supernatural app is now available to wishlist on Quest ahead of its launch this fall, while Meta's version has been renamed Legacy Edition.",
+        "source": "uploadvr.com",
+        "date": "Wed, 26 Aug 2026 07:43:40 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/SN-Wishlist.jpg"
+      },
       {
         "title": "Google Reportedly Working on New Live Translation Feature for Android XR",
         "url": "https://roadtovr.com/google-live-translation-android-xr-feature/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Wed, 26 Aug 2026 13:14:07 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Fast Travel Games' Erik Odeldahl On Building Payday: Aces High For VR",
-        "url": "https://www.uploadvr.com/fast-travel-games-erik-odeldahl-on-building-payday-aces-high-for-vr/",
-        "summary": "We played Payday: Aces High with Fast Travel Games and talked to Chief Creative Officer Erik Odeldahl about the VR design philosophies behind the co-op heist shooter.",
-        "source": "uploadvr.com",
-        "date": "Tue, 25 Aug 2026 07:05:16 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/ss_5bea2bfc606cf4dbf6d2b9761e41c34fda3153e6.1920x1080--1-.jpg"
       },
       {
         "title": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It",
@@ -27,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
       },
       {
+        "title": "Snoop Dogg Is The New Free Limited-Time Hitman World Of Assassination Elusive Target",
+        "url": "https://www.uploadvr.com/snoop-dogg-is-the-new-free-limited-hitman-world-of-assassination-elusive-target/",
+        "summary": "Snoop Dogg is the next limited-time Elusive Target in Hitman World of Assassination. 'The Herbalist' mission releases this Thursday.",
+        "source": "uploadvr.com",
+        "date": "Wed, 26 Aug 2026 07:26:52 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/j51iu24UIjU-HD.jpg"
+      },
+      {
         "title": "New Dev Tool From Meta Enables AI to Quickly Test Quest Games",
         "url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/",
         "summary": "Meta has introduced Meta XR Operator, an experimental tool designed to let AI coding agents autonomously build, test, debug, and visually verify VR apps.",
         "source": "roadtovr.com",
         "date": "Wed, 26 Aug 2026 06:50:17 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Real VR Fishing \"US South\" DLC Launches On Quest & Steam",
-        "url": "https://www.uploadvr.com/real-vr-fishing-us-south-dlc-launches-on-quest-steam/",
-        "summary": "Real VR Fishing brings players to warm waters with its latest expansion, the US South DLC, out now on Quest and Steam.",
-        "source": "uploadvr.com",
-        "date": "Tue, 25 Aug 2026 06:59:07 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/real-vr-fishing-US-South-DLC_Banner_2560_1440.png"
       },
       {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
@@ -53,28 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-        "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening.",
-        "source": "theverge.com",
-        "date": "2026-08-26T07:07:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-        "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-        "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
-        "source": "arstechnica.com",
-        "date": "Mon, 24 Aug 2026 19:19:21 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg"
-      },
-      {
-        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-        "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat…",
+        "title": "Orchestration is the new challenge for CX in the age of AI agents",
+        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to…",
         "source": "venturebeat.com",
-        "date": "Wed, 19 Aug 2026 14:18:12 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
+        "date": "Wed, 26 Aug 2026 14:30:00 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30"
       },
       {
         "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
@@ -85,6 +69,22 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
+        "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+        "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+        "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+        "source": "arstechnica.com",
+        "date": "Mon, 24 Aug 2026 19:19:21 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg"
+      },
+      {
+        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+        "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and…",
+        "source": "theverge.com",
+        "date": "2026-08-25T05:15:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
         "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
         "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
@@ -93,62 +93,62 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg"
       },
       {
-        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list…",
+        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+        "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat…",
         "source": "venturebeat.com",
-        "date": "Tue, 19 May 2026 17:45:00 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1TD0Sl7Zq6nnBSZMK9FXpl/41ce2cc6da055da7647670c71ba8aa6b/Nuneybits_Vector_art_of_an_oversized_white_search_bar_rimmed_in_695cac3f-1536-4438-acc1-51c16e2ff51f.webp?w=300&q=30"
+        "date": "Wed, 19 Aug 2026 14:18:12 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       }
     ],
     "NFL": [
       {
-        "title": "Dolphins agree to sign RB Coleman Bennett",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-agree-to-sign-rb-coleman-bennett",
-        "summary": "The Dolphins are adding a running back.",
+        "title": "Eagles will induct owner Jeffrey Lurie into their Hall of Fame",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-will-induct-owner-jeffrey-lurie-into-their-hall-of-fame",
+        "summary": "The owner of the Philadelphia Eagles didn't have to go far to congratulate the newest selection for the franchise's Hall of Fame.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 09:59:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f8a2412/2147483647/strip/false/crop/5616x3159+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F9d%2Ff06869e348cab5ebf0eb12bdbff4%2F2290789222.jpg"
+        "date": "Wed, 26 Aug 2026 11:23:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6baed4f/2147483647/strip/false/crop/5504x3096+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2F6b%2F73ba1b5244548bf07cbfe1b50430%2F2254197725.jpg"
       },
       {
-        "title": "Big Ten, SEC ban on former NFL players invites a contempt-of-court motion",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/big-ten-sec-ban-on-former-nfl-players-invites-a-contempt-of-court-motion",
-        "summary": "The Big Ten and the SEC may think their decision to ban players who have signed NFL contracts from playing for their member schools is the end of the issue.",
+        "title": "Ravens put C Danny Pinter on IR, sign LB Michael Barrett",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-put-c-danny-pinter-on-ir-sign-lb-michael-barrett",
+        "summary": "The Ravens officially ended center Danny Pinter's season on Wednesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 09:44:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87adec9/2147483647/strip/false/crop/3000x1688+0+139/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2F79%2F083b1567424983c0520160a8a2cd%2Fdownload.jpg"
+        "date": "Wed, 26 Aug 2026 11:01:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2570ad2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F574%2F51%2Fnbc_pft_ravensjerseys_260825.jpg"
       },
       {
-        "title": "Owners meet on Wednesday to vote on Seahawks sale",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/owners-meet-on-wednesday-to-vote-on-seahawks-sale",
-        "summary": "NFL owners typically meet every March, May, October, and December.",
+        "title": "OT Braden Smith, DL Ali Gaye carted off for Texans",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ot-braden-smith-dl-ali-gaye-carted-off-for-texans",
+        "summary": "The Texans had to make multiple calls for carts to help transport injured players during Wednesday's joint practice with the Panthers.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 09:24:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/59927e2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F576%2F503%2Fnbc_pft_jedyorknfl_260825.jpg"
+        "date": "Wed, 26 Aug 2026 10:55:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fe903ec/2147483647/strip/false/crop/2815x1583+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2Fb4%2Fc1197db94425b49672735f85f895%2F2290774956.jpg"
       },
       {
-        "title": "Report: Rueben Bain has an AC sprain, is expected to play in Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rueben-bain-has-an-ac-sprain-is-expected-to-play-in-week-1",
-        "summary": "Buccaneers first-round pick Rueben Bain is dealing with a shoulder injury.",
+        "title": "Pennsylvania governor says Eagles will remain in the city of Philadelphia \"for sure\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pennsylvania-governor-says-eagles-will-remain-in-the-city-of-philadelphia-for-sure",
+        "summary": "At a time when the Chiefs are preparing to leave Kansas City, Missouri, for Kansas City, Kansas, the Browns are preparing to leave Cleveland for Brook Park, Ohio, and the Bears are…",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 09:21:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/42fe6a5/2147483647/strip/false/crop/4800x2700+0+250/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2F31%2Fe426f3394632a3c5e3b8afc8a2d6%2F2291185933.jpg"
+        "date": "Wed, 26 Aug 2026 10:43:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6650cd/2147483647/strip/false/crop/5275x2967+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2Fe6%2F020545f04d9f805ed458a34f183d%2F2246964756.jpg"
       },
       {
-        "title": "Report: Giants WR Calvin Austin tore his ACL",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-wr-calvin-austin-tore-his-acl",
-        "summary": "Signs point to wide receiver Malik Nabers being back in the Giants lineup for Week 1 after tearing his ACL last season, but one of their other wideouts won't be joining him on the…",
+        "title": "Todd Monken on Shedeur Sanders: I'm excited about the long game for him",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-on-shedeur-sanders-im-excited-about-the-long-game-for-him",
+        "summary": "Shedeur Sanders did not win Cleveland’s quarterback competition over Deshaun Watson and will open the season as the Browns’ backup.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 08:40:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/31b9380/2147483647/strip/false/crop/2553x1436+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2F09%2Fae78705a4b518e40da0c4ea56db7%2F2290356523.jpg"
+        "date": "Wed, 26 Aug 2026 10:38:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/720164e/2147483647/strip/false/crop/5129x2885+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2Ffb%2F03a282f84fca89fcf962ed7f6a03%2F2277851267.jpg"
       },
       {
-        "title": "Commanders announce D.J. Humphries signing",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-announce-d-j-humphries-signing",
-        "summary": "Veteran tackle D.J.",
+        "title": "Report: Lane Kiffin, LSU instigated fifth-year lawsuit",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-lane-kiffin-lsu-instigated-fifth-year-lawsuit",
+        "summary": "Some NFL teams could, if they wanted, accuse Kiffin and LSU of tortious interference.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 08:25:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5fa2db7/2147483647/strip/false/crop/5166x2906+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F6f%2F258c28634ace960f0a644ccc5090%2F2240771947.jpg"
+        "date": "Wed, 26 Aug 2026 10:13:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/16455d5/2147483647/strip/false/crop/7093x3990+0+370/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F78%2Fecb3a8044732aa6b988a9710a50f%2F2288141510.jpg"
       }
     ]
   }
