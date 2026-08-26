@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-26T20:25:02.708Z",
+  "updated": "2026-08-26T23:53:58.113Z",
   "feed": {
     "VR": [
       {
-        "title": "Among Us 3D Developer Schell Games Confirms Layoffs",
-        "url": "https://www.uploadvr.com/among-us-3d-schell-games-confirms-layoffs/",
-        "summary": "Among Us 3D & I Expect You To Die developer Schell Games has laid off employees for the first time in its history.",
+        "title": "Isle Of Food Impressions: A Pretty Tasty Tropical Restaurant Sim",
+        "url": "https://www.uploadvr.com/isle-of-food-impressions-a-pretty-tasty-tropical-restaurant-sim/",
+        "summary": "Isle of Food takes a novel approach to a cooking simulation game by having you explore an island for food to prepare for your guests.",
         "source": "uploadvr.com",
-        "date": "Wed, 26 Aug 2026 09:28:06 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/a7830c8063e844d6c8bf0c9a61c6fc85b801eaca-1920x1080-1.jpg"
+        "date": "Wed, 26 Aug 2026 15:57:20 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/1000198665.jpg"
       },
       {
         "title": "Google Reportedly Working on New Live Translation Feature for Android XR",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
       },
       {
-        "title": "Supernatural's New Independent App Is Now Available To Wishlist On Quest",
-        "url": "https://www.uploadvr.com/supernaturals-new-independent-app-is-now-available-to-wishlist-on-quest/",
-        "summary": "The new independent Supernatural app is now available to wishlist on Quest ahead of its launch this fall, while Meta's version has been renamed Legacy Edition.",
+        "title": "Honking My Way Through Trombone Champ: Unflattened's Disney DLC",
+        "url": "https://www.uploadvr.com/trombone-champ-unflattened-disney-movie-magic-volume-1-dlc-impressions/",
+        "summary": "We honked our way through Disney Movie Magic Volume 1, the latest DLC for Trombone Champ: Unflattened.",
         "source": "uploadvr.com",
-        "date": "Wed, 26 Aug 2026 07:43:40 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/SN-Wishlist.jpg"
+        "date": "Wed, 26 Aug 2026 15:56:55 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/trombone-champ-header-disney.jpg"
       },
       {
         "title": "New Dev Tool From Meta Enables AI to Quickly Test Quest Games",
@@ -53,12 +53,20 @@
     ],
     "AI": [
       {
-        "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-        "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-        "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
+        "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+        "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+        "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months.",
         "source": "theverge.com",
-        "date": "2026-08-26T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-26T17:40:53-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+        "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+        "summary": "Report shows Meta's challenges replacing people with AI agents.",
+        "source": "arstechnica.com",
+        "date": "Wed, 26 Aug 2026 21:25:27 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg"
       },
       {
         "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -69,28 +77,20 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30"
       },
       {
+        "title": "OpenAI’s rogue AI model incident was worse than we thought",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+        "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret…",
+        "source": "theverge.com",
+        "date": "2026-08-26T17:36:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
         "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
         "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
         "source": "arstechnica.com",
         "date": "Mon, 24 Aug 2026 19:19:21 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg"
-      },
-      {
-        "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-        "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening.",
-        "source": "theverge.com",
-        "date": "2026-08-26T07:07:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-        "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-        "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-        "source": "arstechnica.com",
-        "date": "Fri, 21 Aug 2026 13:11:35 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg"
       },
       {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "NFL, NFLPA announce \"greater emphasis\" on five player-safety rules this season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-nflpa-announce-greater-emphasis-on-five-player-safety-rules-this-season",
-        "summary": "The NFL and NFL Players Association released a joint statement on Wednesday concerning player health and safety violations.",
+        "title": "Roger Goodell confirms league reviewing Jed York's plea deal for possible punishment",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-confirms-league-reviewing-jed-yorks-plea-deal-for-possible-punishment",
+        "summary": "Jed York did not attend the NFL owners' meeting in Atlanta on Wednesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 16:19:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc5d079/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2F87%2F2d8f013045a39026288c808bfb9e%2Fdownload.jpg"
+        "date": "Wed, 26 Aug 2026 19:42:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d49e30/2147483647/strip/false/crop/5184x2916+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2F2f%2Fc953610b461d8f9ed8668abf49ae%2Fdownload.jpg"
       },
       {
-        "title": "Report: Texans OT Braden Smith injured his foot in Wednesday's practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-texans-ot-braden-smith-injured-his-foot-in-wednesdays-practice",
-        "summary": "Texans offensive tackle Braden Smith had to be carted off the field during Wednesday's joint practice with the Panthers and head coach DeMeco Ryans did not have an update on his…",
+        "title": "John Harbaugh: Odell Beckham has had a \"good camp\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-odell-beckham-has-had-a-good-camp",
+        "summary": "Odell Beckham has not played an NFL game since Dec. 8, 2024, with the Dolphins, as he sat out the 2025 season.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 16:06:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a3ad818/2147483647/strip/false/crop/5401x3038+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2Fe6%2Fe8a0fc134ca0aebc8ff87d6c1d83%2F2026-08-14t150317z-2024054745-mt1usatoday29582158-rtrmadp-3-nfl-los-angeles-chargers-at-houston-texans.jpg"
+        "date": "Wed, 26 Aug 2026 18:52:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c12aaa4/2147483647/strip/false/crop/6069x3414+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F20%2Fd5%2Facdb6d384cacbfee3826219e94fa%2F2291060492.jpg"
       },
       {
-        "title": "Bills sign C Sincere Haynesworth, waive WR Mac Dalena",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-sign-c-sincere-haynesworth-waive-wr-mac-dalena",
-        "summary": "The Bills have made a pair of roster moves on Wednesday.",
+        "title": "Police officer in Jed York arrest video: \"It's crazy the people that do this\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/police-officer-in-jed-york-arrest-video-its-crazy-the-people-that-do-this",
+        "summary": "Body camera footage shows York being pulled over and handcuffed in a prostitution sting in East Palestine, Ohio.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 15:49:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8382767/2147483647/strip/false/crop/6072x3416+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F6d%2F43a5867d4562ad0355d2fc9c8152%2F2291246169.jpg"
+        "date": "Wed, 26 Aug 2026 18:45:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/43a9589/2147483647/strip/false/crop/7255x4081+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2Fea%2F91d70bc3451c91e27acaed5cc6ac%2F2249690724.jpg"
       },
       {
-        "title": "Saints sign DBs Michael Davis, David Long",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-sign-dbs-michael-davis-david-long",
-        "summary": "The Saints brought a member of their 2025 secondary back to the team on Wednesday.",
+        "title": "Za'Darius Smith retired last season to be with his mother before she died",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zadarius-smith-retired-last-season-to-be-with-his-mother-before-she-died",
+        "summary": "Za'Darius Smith's retirement took the Eagles by surprise last season and the veteran outside linebacker explained the decision in his first press conference since coming out of…",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 15:47:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e77c9ac/2147483647/strip/false/crop/6805x3828+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F68%2F583ef8f744e88e0846d0f87b9361%2F2248593714.jpg"
+        "date": "Wed, 26 Aug 2026 17:57:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/85b1344/2147483647/strip/false/crop/6407x3604+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F35%2Fe106599140718f52cbb012aa1582%2F2236658796.jpg"
       },
       {
-        "title": "Bucs sign WR Jha'Quan Jackson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-sign-wr-jhaquan-jackson",
-        "summary": "The Buccaneers signed wide receiver Jha'Quan Jackson on Wednesday, the team announced.",
+        "title": "Colts cornerback Charvarius Ward expects to play Week 1, while managing his back injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-cornerback-charvarius-ward-expects-to-play-week-1-while-managing-his-back-injury",
+        "summary": "Colts cornerback Charvarius Ward, who has been out the last two weeks with a back injury, expects to play Week One.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 15:44:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f19d2e2/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2Fcc%2Fb486dbe3483295389719566fc08b%2F2291744270.jpg"
+        "date": "Wed, 26 Aug 2026 17:26:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/496bbab/2147483647/strip/false/crop/3479x1957+0+182/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcc%2Fa4%2Fd2d928f94504bfb76b05fd1f7cea%2F2236778400.jpg"
       },
       {
-        "title": "Kevin Stefanski: Nick Chubb is a Hall of Fame player, person in my book",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-nick-chubb-is-a-hall-of-fame-player-person-in-my-book",
-        "summary": "Nick Chubb officially called it a career over the weekend, announcing his retirement after eight seasons in the league.",
+        "title": "S Taylor Rapp could re-sign with Broncos",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/s-taylor-rapp-could-re-sign-with-broncos",
+        "summary": "The Broncos signed veteran safety Taylor Rapp on Aug. 20.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 15:38:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9769568/2147483647/strip/false/crop/4769x2683+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2Fc3%2F2c57d7f24312934dfaa02f7373f1%2F2179925499.jpg"
+        "date": "Wed, 26 Aug 2026 17:08:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a8f688f/2147483647/strip/false/crop/2148x1208+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2Fbc%2F1d69e0564e8fa6ab32439aa9a03a%2Fdownload.jpg"
       }
     ]
   }
