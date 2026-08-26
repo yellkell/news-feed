@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T18:23:00.711Z",
+  "updated": "2026-08-26T20:25:02.708Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+        "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+        "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages.",
+        "source": "theverge.com",
+        "date": "2026-08-26T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Orchestration is the new challenge for CX in the age of AI agents",
         "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
         "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to…",
         "source": "venturebeat.com",
         "date": "Wed, 26 Aug 2026 14:30:00 GMT",
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30"
-      },
-      {
-        "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-        "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening.",
-        "source": "theverge.com",
-        "date": "2026-08-26T07:07:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
@@ -77,12 +77,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg"
       },
       {
-        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-        "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
+        "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+        "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening.",
         "source": "theverge.com",
-        "date": "2026-08-25T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-26T07:07:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Resurgence of Commanders' nickname and logo meets quick resistance",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/resurgence-of-commanders-nickname-and-logo-meets-quick-resistance",
-        "summary": "Once upon a time, former Washington owner Daniel Snyder said that he would \"all-caps\" never change the team's name.",
+        "title": "NFL, NFLPA announce \"greater emphasis\" on five player-safety rules this season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-nflpa-announce-greater-emphasis-on-five-player-safety-rules-this-season",
+        "summary": "The NFL and NFL Players Association released a joint statement on Wednesday concerning player health and safety violations.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 14:06:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/887a757/2147483647/strip/false/crop/5184x2916+0+270/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2F45%2F5560a60d482e9bf00c0cafeb5739%2F459497282.jpg"
+        "date": "Wed, 26 Aug 2026 16:19:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc5d079/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2F87%2F2d8f013045a39026288c808bfb9e%2Fdownload.jpg"
       },
       {
-        "title": "Tua Tagovailoa to start preseason finale, Michael Penix Jr. won't play",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-to-start-preseason-finale-michael-penix-jr-wont-play",
-        "summary": "With Week 1 quickly approaching, at some point, Falcons head coach Kevin Stefanski will officially name a starting quarterback.",
+        "title": "Report: Texans OT Braden Smith injured his foot in Wednesday's practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-texans-ot-braden-smith-injured-his-foot-in-wednesdays-practice",
+        "summary": "Texans offensive tackle Braden Smith had to be carted off the field during Wednesday's joint practice with the Panthers and head coach DeMeco Ryans did not have an update on his…",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 13:39:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1dc784d/2147483647/strip/false/crop/4553x2561+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2Fc9%2F5d7cd7a741e887829d0201cee0aa%2F2290766913.jpg"
+        "date": "Wed, 26 Aug 2026 16:06:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a3ad818/2147483647/strip/false/crop/5401x3038+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2Fe6%2Fe8a0fc134ca0aebc8ff87d6c1d83%2F2026-08-14t150317z-2024054745-mt1usatoday29582158-rtrmadp-3-nfl-los-angeles-chargers-at-houston-texans.jpg"
       },
       {
-        "title": "Latest episode of Hard Knocks downplays unresolved Terrion Arnold situation",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/latest-episode-of-hard-knocks-downplays-unresolved-terrion-arnold-situation",
-        "summary": "13 days since reaching an agreement, Arnold still hasn't been signed.",
+        "title": "Bills sign C Sincere Haynesworth, waive WR Mac Dalena",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-sign-c-sincere-haynesworth-waive-wr-mac-dalena",
+        "summary": "The Bills have made a pair of roster moves on Wednesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 13:27:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dbbda7a/2147483647/strip/false/crop/4778x2688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F40%2F24%2F1b52f656473faaf1d900271b9ea3%2Fdownload.jpg"
+        "date": "Wed, 26 Aug 2026 15:49:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8382767/2147483647/strip/false/crop/6072x3416+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F6d%2F43a5867d4562ad0355d2fc9c8152%2F2291246169.jpg"
       },
       {
-        "title": "Cardinals unsure if James Conner will be ready for Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-unsure-if-james-conner-will-be-ready-for-week-1",
-        "summary": "Jeremiyah Love won't be the only running back that the Cardinals are monitoring as they head into their Week 1 game against the Chargers.",
+        "title": "Saints sign DBs Michael Davis, David Long",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-sign-dbs-michael-davis-david-long",
+        "summary": "The Saints brought a member of their 2025 secondary back to the team on Wednesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 12:42:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a055489/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F576%2F1002%2Fnbc_pft_packerscardinalsjointpractice_260825.jpg"
+        "date": "Wed, 26 Aug 2026 15:47:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e77c9ac/2147483647/strip/false/crop/6805x3828+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F68%2F583ef8f744e88e0846d0f87b9361%2F2248593714.jpg"
       },
       {
-        "title": "New rookie patches inch NFL closer to jersey ads",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-rookie-patches-inch-nfl-closer-to-jersey-ads",
-        "summary": "In recent years, the NFL has added a jersey patch for players making their pro football debuts.",
+        "title": "Bucs sign WR Jha'Quan Jackson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-sign-wr-jhaquan-jackson",
+        "summary": "The Buccaneers signed wide receiver Jha'Quan Jackson on Wednesday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 12:24:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/86cbae7/2147483647/strip/false/crop/747x420+0+12/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F9e%2Fc41773ae48e3a9fab04f88c80a10%2Fimg-0972.jpeg"
+        "date": "Wed, 26 Aug 2026 15:44:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f19d2e2/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2Fcc%2Fb486dbe3483295389719566fc08b%2F2291744270.jpg"
       },
       {
-        "title": "Falcons OC Tommy Rees: We'll have open dialogue about our QB choice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-oc-tommy-rees-well-have-open-dialogue-about-our-qb-choice",
-        "summary": "The Falcons' quarterback competition fully launched this week with Michael Penix's clearance for all phases of football work and the team will be under a time crunch to make their…",
+        "title": "Kevin Stefanski: Nick Chubb is a Hall of Fame player, person in my book",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-nick-chubb-is-a-hall-of-fame-player-person-in-my-book",
+        "summary": "Nick Chubb officially called it a career over the weekend, announcing his retirement after eight seasons in the league.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 12:15:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5df3d8f/2147483647/strip/false/crop/4670x2627+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F2d%2F900295054fe792a55819ece8a8f9%2F2290494557.jpg"
+        "date": "Wed, 26 Aug 2026 15:38:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9769568/2147483647/strip/false/crop/4769x2683+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2Fc3%2F2c57d7f24312934dfaa02f7373f1%2F2179925499.jpg"
       }
     ]
   }
