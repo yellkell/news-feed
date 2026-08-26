@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T09:08:36.540Z",
+  "updated": "2026-08-26T09:54:44.056Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-        "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and…",
+        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+        "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday.",
         "source": "theverge.com",
-        "date": "2026-08-25T05:15:03-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-25T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
       },
       {
-        "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-        "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it.",
+        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+        "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and…",
         "source": "theverge.com",
-        "date": "2026-08-21T17:25:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-25T05:15:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Texas Tech coach Joey McGuire: We'll definitely look at adding a player cut by an NFL team",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texas-tech-coach-joey-mcguire-well-definitely-look-at-adding-a-player-cut-by-an-nfl-team",
+        "summary": "\"I know this: I get to keep my job if I win, and so I'm gonna constantly look at how we can be better as a team, and be better roster-wise,\" McGuire said.",
+        "source": "nbcsports.com",
+        "date": "Wed, 26 Aug 2026 05:28:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/143cf61/2147483647/strip/false/crop/5865x3299+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2F34%2F3417ffa7433485609fad84de95f7%2F2254284449.jpg"
+      },
       {
         "title": "Dave Canales: Bryce Young is our franchise QB right now, contract is up to front office",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dave-canales-bryce-young-is-our-franchise-qb-right-now-contract-is-up-to-front-office",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 25 Aug 2026 19:50:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/49963db/2147483647/strip/false/crop/5191x2920+0+271/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5a%2Feb%2F1be97d394e7f911da859408e2e69%2F2288500720.jpg"
-      },
-      {
-        "title": "SEC, Big 10 block return of NFL players to member schools",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sec-big-10-block-return-of-nfl-players-to-member-schools",
-        "summary": "The chaos in college football is only getting more chaotic.",
-        "source": "nbcsports.com",
-        "date": "Tue, 25 Aug 2026 19:34:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cbd7481/2147483647/strip/false/crop/3509x1974+0+183/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F76%2Faec1b4f64735a9b4a03c4a1c6bd4%2F2277601438.jpg"
       }
     ]
   }
