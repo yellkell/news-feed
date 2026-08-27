@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-27T06:26:06.941Z",
+  "updated": "2026-08-27T17:46:11.814Z",
   "feed": {
     "VR": [
       {
-        "title": "Isle Of Food Impressions: A Pretty Tasty Tropical Restaurant Sim",
-        "url": "https://www.uploadvr.com/isle-of-food-impressions-a-pretty-tasty-tropical-restaurant-sim/",
-        "summary": "Isle of Food takes a novel approach to a cooking simulation game by having you explore an island for food to prepare for your guests.",
+        "title": "Vertigo Rush Impressions: Charming Parkour Racing That Needs To Find Its Rhythm",
+        "url": "https://www.uploadvr.com/vertigo-rush-impressions-charming-parkour-racing-that-needs-to-find-its-rhythm/",
+        "summary": "Vertigo Rush is an arcade-style racer with a twist, using arm-swing locomotion to complete parkour-inspired urban race tracks in a picturesque dieselpunk setting.",
         "source": "uploadvr.com",
-        "date": "Wed, 26 Aug 2026 15:57:20 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/1000198665.jpg"
+        "date": "Thu, 27 Aug 2026 08:24:26 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/2026_08_26T21_07_36_000Z.jpg"
       },
       {
         "title": "Google Reportedly Working on New Live Translation Feature for Android XR",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
       },
       {
-        "title": "Honking My Way Through Trombone Champ: Unflattened's Disney DLC",
-        "url": "https://www.uploadvr.com/trombone-champ-unflattened-disney-movie-magic-volume-1-dlc-impressions/",
-        "summary": "We honked our way through Disney Movie Magic Volume 1, the latest DLC for Trombone Champ: Unflattened.",
+        "title": "Dragon Quest: The Dive Is A VR Attraction Capturing 40 Years of Gaming",
+        "url": "https://www.uploadvr.com/dragon-quest-the-dive-is-a-vr-attraction-capturing-40-years-of-gaming/",
+        "summary": "Dragon Quest: The Dive attempts to capture 40 years of the iconic franchise with a thrilling VR motion ride, but the Tokyo exhibition's steep entry price makes it a tough sell.",
         "source": "uploadvr.com",
-        "date": "Wed, 26 Aug 2026 15:56:55 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/trombone-champ-header-disney.jpg"
+        "date": "Thu, 27 Aug 2026 02:41:55 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/sub9.jpg"
       },
       {
         "title": "New Dev Tool From Meta Enables AI to Quickly Test Quest Games",
@@ -53,102 +53,102 @@
     ],
     "AI": [
       {
-        "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-        "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-        "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months.",
+        "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+        "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have…",
         "source": "theverge.com",
-        "date": "2026-08-26T17:40:53-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-        "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-        "summary": "Report shows Meta's challenges replacing people with AI agents.",
-        "source": "arstechnica.com",
-        "date": "Wed, 26 Aug 2026 21:25:27 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg"
+        "date": "2026-08-27T12:15:52-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Orchestration is the new challenge for CX in the age of AI agents",
         "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
         "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to…",
         "source": "venturebeat.com",
-        "date": "Wed, 26 Aug 2026 14:30:00 GMT",
+        "date": "Thu, 27 Aug 2026 14:30:00 GMT",
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30"
       },
       {
-        "title": "OpenAI’s rogue AI model incident was worse than we thought",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-        "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret…",
-        "source": "theverge.com",
-        "date": "2026-08-26T17:36:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-        "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-        "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+        "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+        "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+        "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
         "source": "arstechnica.com",
-        "date": "Mon, 24 Aug 2026 19:19:21 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg"
+        "date": "Thu, 27 Aug 2026 14:00:13 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
       },
       {
-        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-        "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat…",
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.",
         "source": "venturebeat.com",
-        "date": "Wed, 19 Aug 2026 14:18:12 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30"
+        "date": "Thu, 27 Aug 2026 14:01:00 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30"
+      },
+      {
+        "title": "OpenAI’s executive exodus has one big winner",
+        "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+        "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to…",
+        "source": "theverge.com",
+        "date": "2026-08-27T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+        "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+        "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+        "source": "arstechnica.com",
+        "date": "Thu, 27 Aug 2026 12:58:59 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "New safety-rule system would have resulted in one suspension in 2024 and one in 2025",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-safety-rule-system-would-have-resulted-in-one-suspension-in-2024-and-one-in-2025",
-        "summary": "The NFL and NFL Players Association have agreed to a new system aimed at enhancing player safety.",
+        "title": "Tommy Castellanos will play for Texas Tech after participating in NFL minicamp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tommy-castellanos-will-play-for-texas-tech-after-participating-in-nfl-minicamp",
+        "summary": "Although the Big 12 has now joined the Big Ten and SEC in banning anyone who has been an NFL player from returning to play college football, Texas Tech will be adding Tommy…",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 22:30:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e217ff7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F574%2F51%2Fnbc_pft_ctestudy_260825.jpg"
+        "date": "Thu, 27 Aug 2026 13:18:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/01e0fe4/2147483647/strip/false/crop/5049x2840+0+263/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2Ff9%2F8564cb9b4ee9b182dc8d2944ddea%2F2251540970.jpg"
       },
       {
-        "title": "Roger Goodell: We want the Pro Bowl to be an honor without an exhibition game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-we-want-the-pro-bowl-to-be-an-honor-without-an-exhibition-game",
-        "summary": "The NFL has had more than 100 Pro Bowlers in recent years because of players who were either too injured or disinterested in participating.",
+        "title": "Breaking down the new formula for safety-rule suspensions",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breaking-down-the-new-formula-for-safety-rule-suspensions",
+        "summary": "The NFL and NFL Players Association have adopted a new formula that calls for a one-game suspension when a player commits three violations of the same specific safety rule.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 21:48:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f7f50aa/2147483647/strip/false/crop/8192x4608+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa0%2Feb%2Fc30e79d84e778c0e2cf2c7e3c552%2F1462225415.jpg"
+        "date": "Thu, 27 Aug 2026 12:56:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f1a23da/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F798%2F675%2Fnbc_pft_nflpasystem_260827.jpg"
       },
       {
-        "title": "Report: Mike Evans expects to play Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-mike-evans-expects-to-play-week-1",
-        "summary": "49ers wide receiver Mike Evans did not practice on Tuesday due to a groin injury.",
+        "title": "Lions RB Isiah Pacheco dealing with a back injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-rb-isiah-pacheco-dealing-with-a-back-injury",
+        "summary": "Lions running back Isiah Pacheco has picked up another injury.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 21:14:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7cd7dd3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F690%2F267%2Fnbc_pft_aarondonald_260826.jpg"
+        "date": "Thu, 27 Aug 2026 12:31:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/135138c/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2Fea%2F34be504147279f44ac6d416865e2%2F2288445874.jpg"
       },
       {
-        "title": "Roger Goodell confirms league reviewing Jed York's plea deal for possible punishment",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-confirms-league-reviewing-jed-yorks-plea-deal-for-possible-punishment",
-        "summary": "Jed York did not attend the NFL owners' meeting in Atlanta on Wednesday.",
+        "title": "Jonnu Smith agrees to one-year deal with Packers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonnu-smith-agrees-to-one-year-deal-with-packers",
+        "summary": "The Packers are adding some depth to an offensive position.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 19:42:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d49e30/2147483647/strip/false/crop/5184x2916+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2F2f%2Fc953610b461d8f9ed8668abf49ae%2Fdownload.jpg"
+        "date": "Thu, 27 Aug 2026 12:11:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c8b5d9d/2147483647/strip/false/crop/7191x4045+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2F1c%2F7052580b4b8e88fa7dc7629c66fb%2F2256150130.jpg"
       },
       {
-        "title": "John Harbaugh: Odell Beckham has had a \"good camp\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-odell-beckham-has-had-a-good-camp",
-        "summary": "Odell Beckham has not played an NFL game since Dec. 8, 2024, with the Dolphins, as he sat out the 2025 season.",
+        "title": "Seahawks, Leonard Williams agree to three-year, $90 million extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-leonard-williams-agree-to-three-year-90-million-extension",
+        "summary": "Williams was previously entering the last year of his contract.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 18:52:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c12aaa4/2147483647/strip/false/crop/6069x3414+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F20%2Fd5%2Facdb6d384cacbfee3826219e94fa%2F2291060492.jpg"
+        "date": "Thu, 27 Aug 2026 10:56:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f37ace2/2147483647/strip/false/crop/3716x2090+0+232/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F08%2F20f3c87a490baf9797c592eb13c7%2F2258211283.jpg"
       },
       {
-        "title": "Police officer in Jed York arrest video: \"It's crazy the people that do this\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/police-officer-in-jed-york-arrest-video-its-crazy-the-people-that-do-this",
-        "summary": "Body camera footage shows York being pulled over and handcuffed in a prostitution sting in East Palestine, Ohio.",
+        "title": "Report: Browns to release WR Cedric Tillman",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-browns-to-release-wr-cedric-tillman",
+        "summary": "Wide receiver Cedric Tillman's time with the Browns is coming to an end.",
         "source": "nbcsports.com",
-        "date": "Wed, 26 Aug 2026 18:45:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/43a9589/2147483647/strip/false/crop/7255x4081+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2Fea%2F91d70bc3451c91e27acaed5cc6ac%2F2249690724.jpg"
+        "date": "Thu, 27 Aug 2026 10:49:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6d32770/2147483647/strip/false/crop/3744x2106+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2Fb1%2F0aac8c434dfc9c9bcf367c703a70%2Fdownload.jpg"
       }
     ]
   }
