@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T17:26:14.951Z",
+  "updated": "2026-08-30T19:56:06.235Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+        "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them.",
+        "source": "theverge.com",
+        "date": "2026-08-30T11:35:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Inside Meta’s push to put robots to work in data centers",
         "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
         "summary": "The company is testing robots on tasks that can performed by technicians.",
         "source": "arstechnica.com",
         "date": "Sun, 30 Aug 2026 11:03:47 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
-      },
-      {
-        "title": "Sony Music and Warner Chappell are suing Anthropic",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-        "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\"…",
-        "source": "theverge.com",
-        "date": "2026-08-29T14:19:53-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30"
       },
       {
-        "title": "Musicians-turned-detectives are hunting for AI grifters",
-        "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-        "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are…",
+        "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+        "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\"…",
         "source": "theverge.com",
-        "date": "2026-08-29T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479"
+        "date": "2026-08-29T14:19:53-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Bucs waive LB Jack Pyburn, paving way for LSU return",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-waive-lb-jack-pyburn-paving-way-for-lsu-return",
-        "summary": "In 2025, linebacker Jack Pyburn transferred to LSU from Florida.",
+        "title": "49ers release recent arrival LB Deion Jones",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-release-recent-arrival-lb-deion-jones",
+        "summary": "Veteran linebacker Deion Jones will have a short stint in San Francisco.",
         "source": "nbcsports.com",
-        "date": "Sun, 30 Aug 2026 13:11:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5831307/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F20%2Fcb%2Fc179a9a64e9b8e19d0f5b675be43%2F2291924416.jpg"
+        "date": "Sun, 30 Aug 2026 15:42:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfa349f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F807%2F458%2Fnbc_pft_ripipprobowl_260827.jpg"
       },
       {
-        "title": "Ravens cut 2024 third-round pick Adisa Isaac",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-cut-2024-third-round-pick-adisa-isaac",
-        "summary": "After two disappointing seasons in Baltimore, Adisa Isaac won't be around for a third.",
+        "title": "Cowboys to waive 2025 fifth-rounder Jaydon Blue",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-to-waive-2025-fifth-rounder-jaydon-blue",
+        "summary": "Cowboys running back Jaydon Blue said in June that he \"didn’t start off like I should have\" as a rookie last year, but that he felt ready to contribute to the Cowboys in 2026.",
         "source": "nbcsports.com",
-        "date": "Sun, 30 Aug 2026 13:10:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/77908c8/2147483647/strip/false/crop/5174x2910+0+269/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2Fd9%2F7de3024749499fd7065e40340052%2F2186582260.jpg"
+        "date": "Sun, 30 Aug 2026 15:39:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9bc2c9e/2147483647/strip/false/crop/4584x2579+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2F1b%2F6a9fde3e4ec9bb61b6dfc131ce39%2F2254642540.jpg"
       },
       {
-        "title": "Dillon Gabriel is reportedly safe in Cleveland",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dillon-gabriel-is-reportedly-safe-in-cleveland",
-        "summary": "The Browns would also like to find a way to keep QB Taylen Green.",
+        "title": "Giants release QB Brandon Allen",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-release-qb-brandon-allen",
+        "summary": "The Giants have released quarterback Brandon Allen, Mike Garafolo of NFL Media reports.",
         "source": "nbcsports.com",
-        "date": "Sun, 30 Aug 2026 12:50:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/74186bb/2147483647/strip/false/crop/4191x2357+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd3%2F62%2Fb5b3b43944be8d78e7f792c97a14%2F2291780144.jpg"
+        "date": "Sun, 30 Aug 2026 15:38:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/975de7f/2147483647/strip/false/crop/2388x1343+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F49%2F0d%2F4d4b20ac4261b51d163907f4a61e%2F2291609797.jpg"
       },
       {
-        "title": "For several players and teams, paid leave remains possible",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/for-several-players-and-teams-paid-leave-remains-possible",
-        "summary": "As all NFL franchises scramble to reduce their rosters to the maximum of 53 players as of 6:00 p.m.",
+        "title": "Saints waive Brock Rechsteiner, son of WWE Hall of Famer Scott Steiner",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-waive-brock-rechsteiner-son-of-wwe-hall-of-famer-scott-steiner",
+        "summary": "Receiver Brock Rechsteiner, the son of WWE Hall of Famer Scott Steiner, won't be making the Week 1 roster in New Orleans.",
         "source": "nbcsports.com",
-        "date": "Sun, 30 Aug 2026 12:32:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec9738b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F915%2F367%2FJoshJacobs8-28.jpg"
+        "date": "Sun, 30 Aug 2026 15:34:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5d14aab/2147483647/strip/false/crop/3520x1980+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2Fef%2Fdb5644c24e00905366d89a244a14%2F2026-08-08t192849z-1922670708-mt1usatoday29543569-rtrmadp-3-nfl-new-orleans-saints-training-camp.jpg"
       },
       {
-        "title": "Bills cut third-string QB Shane Buechele",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-cut-third-string-qb-shane-buechele",
-        "summary": "The Bills will not be keeping three quarterbacks on the 53-player roster.",
+        "title": "Report: Browns will keep four QBs, Taylen Green makes initial 53-man roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-browns-will-keep-four-qbs-taylen-green-makes-initial-53-man-roster",
+        "summary": "At least for now, the Browns are going to carry four quarterbacks on their 53-man roster.",
         "source": "nbcsports.com",
-        "date": "Sun, 30 Aug 2026 12:20:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/03ab6d4/2147483647/strip/false/crop/4976x2799+0+275/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2Ffb%2F3638583d4d08828f14aadbc19697%2F2292606897.jpg"
+        "date": "Sun, 30 Aug 2026 15:33:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/22dd4e8/2147483647/strip/false/crop/6805x3828+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2Fc9%2F5791ef9f4480ab6f024fa79c5aec%2F2292372096.jpg"
       },
       {
-        "title": "Bengals will release Josh Johnson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-will-release-josh-johnson",
-        "summary": "Quarterback Josh Johnson will have a chance to add to the long list of teams that have employed him over the course of his NFL career.",
+        "title": "Chargers to put OL Branson Taylor on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-to-put-ol-branson-taylor-on-ir",
+        "summary": "Branson Taylor was in the group of options to start at left guard for the Chargers at one point this summer, but he won't be an option in the early part of the regular season.",
         "source": "nbcsports.com",
-        "date": "Sun, 30 Aug 2026 11:55:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/64b3908/2147483647/strip/false/crop/4399x2474+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2F9f%2F594661a54d79a8199d12927613ad%2F2290623215.jpg"
+        "date": "Sun, 30 Aug 2026 15:32:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9f67a5e/2147483647/strip/false/crop/4034x2269+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2F55%2Fc9b9b8184fdc9f7e0ab1df53ad77%2F2229781473.jpg"
       }
     ]
   }
