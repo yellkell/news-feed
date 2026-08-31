@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T19:46:00.929Z",
+  "updated": "2026-08-31T23:31:21.151Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Think twice before installing this device promising free movies",
+        "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+        "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
+        "source": "arstechnica.com",
+        "date": "Mon, 31 Aug 2026 16:33:38 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp"
+      },
+      {
         "title": "Debian won’t ban AI code from its Linux distribution",
         "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
         "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI…",
         "source": "theverge.com",
         "date": "2026-08-31T11:34:58-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Inside Meta’s push to put robots to work in data centers",
-        "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-        "summary": "The company is testing robots on tasks that can performed by technicians.",
-        "source": "arstechnica.com",
-        "date": "Sun, 30 Aug 2026 11:03:47 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
       },
       {
         "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -85,12 +85,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-        "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-        "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+        "title": "Inside Meta’s push to put robots to work in data centers",
+        "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+        "summary": "The company is testing robots on tasks that can performed by technicians.",
         "source": "arstechnica.com",
-        "date": "Fri, 28 Aug 2026 11:15:05 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest-1152x648.jpg"
+        "date": "Sun, 30 Aug 2026 11:03:47 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
       },
       {
         "title": "When agents act on their own, governance has to live in the data layer",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Vikings to waive QB Max Brosmer",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-to-waive-qb-max-brosmer",
-        "summary": "The Vikings came out of cut-down day with four quarterbacks on their 53-man roster.",
+        "title": "Broderick Jones will compete for the Cowboys' right tackle job",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broderick-jones-will-compete-for-the-cowboys-right-tackle-job",
+        "summary": "Cowboys head coach Brian Schottenheimer shared the team's plan for the newly acquired Broderick Jones during a Monday press conference.",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 15:36:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edac720/2147483647/strip/false/crop/4880x2745+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F88%2F50fb10f44066920a9426d5fd5a4e%2F2292716448.jpg"
+        "date": "Mon, 31 Aug 2026 18:42:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6e31685/2147483647/strip/false/crop/7518x4229+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2Fe0%2F3f1198564199b6f09bab149affa4%2F2292620192.jpg"
       },
       {
-        "title": "Jets LB Joseph Ossai week-to-week with foot injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-lb-joseph-ossai-week-to-week-with-foot-injury",
-        "summary": "The Jets signed Joseph Ossai this offseason to help their pass rush, but he may not be available for their Week 1 game in Tennessee.",
+        "title": "John Lynch says \"nothing has changed\" with Brandon Aiyuk's status",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-lynch-says-nothing-has-changed-with-brandon-aiyuks-status",
+        "summary": "Brandon Aiyuk is out of sight, out of mind for the 49ers.",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 15:31:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec3d298/2147483647/strip/false/crop/3244x1825+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb0%2F60%2F7ea62fd342439b7cb7db286a106d%2F2292513822.jpg"
+        "date": "Mon, 31 Aug 2026 18:28:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b10240c/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F85%2F711%2Fnbc_pft_qb_dont_play_260831.jpg"
       },
       {
-        "title": "Ravens sign K Jake Moody to practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-sign-k-jake-moody-to-practice-squad",
-        "summary": "The Ravens have brought in some potential competition at kicker for Tyler Loop.",
+        "title": "Patriots put P Bryce Baringer on IR, sign Mitch Wishnowsky to practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-put-p-bryce-baringer-on-ir-sign-mitch-wishnowsky-to-practice-squad",
+        "summary": "The Patriots are set to have a new punter in Week 1.",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 15:17:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c980610/2147483647/strip/false/crop/5200x2925+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F0b%2Fb56afd6d4a55932387a5e516e267%2F2292206062.jpg"
+        "date": "Mon, 31 Aug 2026 18:26:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aec611d/2147483647/strip/false/crop/3900x2194+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F38%2F841c675048c99127b9255d1b3a2d%2F2290013102.jpg"
       },
       {
-        "title": "Nick Mullens, Joey Aguilar return to Jaguars practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-mullens-joey-aguilar-return-to-jaguars-practice-squad",
-        "summary": "The Jaguars cut three quarterbacks on Sunday and two of them returned to the practice squad on Monday.",
+        "title": "Jets sign K Jason Sanders to their practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-sign-k-jason-sanders-to-their-practice-squad",
+        "summary": "The Jets released Jason Sanders when they claimed Blake Grupe off of waivers on Monday, but the kicker was back in the organization a short time later.",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 15:15:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1ce282/2147483647/strip/false/crop/3999x2249+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F81%2F9b7ae7714e409a76ebaa9fdb9a9c%2F2292317348.jpg"
+        "date": "Mon, 31 Aug 2026 18:18:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/75fc529/2147483647/strip/false/crop/4875x2742+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F84%2F8f21479048f6bd1031183249018b%2F2026-08-22t021503z-1187042341-mt1usatoday29639746-rtrmadp-3-nfl-new-york-jets-at-pittsburgh-steelers.jpg"
       },
       {
-        "title": "Dolphins sign DE Malik Herring, announce eight cuts",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-de-malik-herring-announce-eight-cuts",
-        "summary": "The Dolphins turned over a good chunk of their initial 53-man roster on Monday.",
+        "title": "Broncos LB Jonathon Cooper pleads not guilty to assault, trial set for November",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-lb-jonathon-cooper-pleads-not-guilty-to-assault-trial-set-for-november",
+        "summary": "Broncos linebacker Jonathon Cooper was put on paid leave over the weekend due to his domestic violence arrest this offseason and he was in a Colorado courtroom for a hearing on…",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 15:08:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ecfd3ae/2147483647/strip/false/crop/6255x3518+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2Fa0%2F784f3cb04475bc5c5bb02e9ce05f%2F2186667952.jpg"
+        "date": "Mon, 31 Aug 2026 18:11:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f099d3a/2147483647/strip/false/crop/4542x2555+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fe4%2F0650c53e4b9ba1a37b3a321b8cc2%2F2290848303.jpg"
       },
       {
-        "title": "Emmanuel Henderson clears waivers, set to return to Seahawks' practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/emmanuel-henderson-clears-waivers-set-to-return-to-seahawks-practice-squad",
-        "summary": "It was a bit of a surprise when the Seahawks waived wide receiver and return man Emmanuel Henderson yesterday, as he was a sixth-round pick who looked good in the preseason.",
+        "title": "Raiders waive 2024 fourth-round pick Decamerion Richardson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-waive-2024-fourth-round-pick-decamerion-richardson",
+        "summary": "Two years after drafting him in the fourth round of the 2024 NFL Draft, the Raiders are saying goodbye to Decamerion Richardson.",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 15:08:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0100bf/2147483647/strip/false/crop/4744x2669+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fba%2F35%2Fb3b644454d14855402a211a65ce6%2F2291941548.jpg"
+        "date": "Mon, 31 Aug 2026 17:59:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f80c659/2147483647/strip/false/crop/209x118+0+46/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2Fca%2Fe6294bb879d3d06b8c4604a9787f%2Fraiders-helmet-getty-e1372107111763.jpg"
       }
     ]
   }
