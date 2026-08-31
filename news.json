@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-31T13:47:22.946Z",
+  "updated": "2026-08-31T19:46:00.929Z",
   "feed": {
     "VR": [
+      {
+        "title": "Prison-Break Comedy Sandbox Bad Inmate Coming Soon To Quest & PlayStation VR2",
+        "url": "https://www.uploadvr.com/prison-break-comedy-sandbox-bad-inmate-coming-soon-to-quest-playstation-vr2/",
+        "summary": "The physics-driven comedic prison-break sandbox game is coming to Quest and PlayStation VR2 in October.",
+        "source": "uploadvr.com",
+        "date": "Mon, 31 Aug 2026 08:43:03 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/BI_16x9_Master_Image_PS_3840x2160.jpg"
+      },
+      {
+        "title": "Quest 3 Update Unlocks Huge Boost in Refresh Rate, Up to 240Hz",
+        "url": "https://roadtovr.com/quest-3-update-boost-refresh-rate-240hz/",
+        "summary": "Meta just pushed an update to Quest 3 that’s effectively boosted the headset’s refresh rate up to 240Hz—or 207Hz at the headset’s full resolution.",
+        "source": "roadtovr.com",
+        "date": "Mon, 31 Aug 2026 13:59:51 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/04/quest-3-games.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It",
+        "url": "https://mixed-news.com/en/openai-just-unveiled-a-powerful-new-cyber-ai-but-you-probably-cant-use-it/",
+        "summary": "OpenAI has introduced a new AI system called GPT-5.6 Cyber, designed specifically for cybersecurity work such as vulnerability research, penetration testing, incident response, and…",
+        "source": "mixed-news.com",
+        "date": "Sat, 22 Aug 2026 19:15:07 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
+      },
       {
         "title": "Meta Is Working To Spin Off Worlds From The Horizon Mobile App",
         "url": "https://www.uploadvr.com/meta-is-working-to-spin-off-worlds-from-the-horizon-mobile-app/",
@@ -19,30 +43,6 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/hado.jpg?resize=955%2C637&quality=89&ssl=1"
       },
       {
-        "title": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It",
-        "url": "https://mixed-news.com/en/openai-just-unveiled-a-powerful-new-cyber-ai-but-you-probably-cant-use-it/",
-        "summary": "OpenAI has introduced a new AI system called GPT-5.6 Cyber, designed specifically for cybersecurity work such as vulnerability research, penetration testing, incident response, and…",
-        "source": "mixed-news.com",
-        "date": "Sat, 22 Aug 2026 19:15:07 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/08/images-1.jpg"
-      },
-      {
-        "title": "Veteran VR Studio Schell Games Confirms Layoffs Affecting 10 Percent of Staff",
-        "url": "https://roadtovr.com/among-us-vr-studio-schell-games-layoffs-aug-2026/",
-        "summary": "Schell Games, the veteran VR studio behind spy-themed puzzle series I Expect You to Die and Among Us 3D, confirmed it has laid off around 10 percent of staff.",
-        "source": "roadtovr.com",
-        "date": "Fri, 28 Aug 2026 11:19:51 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/schell-games.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Beat Saber Hip Hop Mixtape 2 Features Kendrick Lamar, Doja Cat, 21 Savage & More",
-        "url": "https://www.uploadvr.com/beat-sabers-hip-hop-mixtape-2-is-out-now-with-kendrick-lamar-doja-cat-2/",
-        "summary": "Beat Saber released its second Hip Hop Mixtape with 8 tracks featuring Cardi B, Kendrick Lamar, Doja Cat, & more.",
-        "source": "uploadvr.com",
-        "date": "Fri, 28 Aug 2026 02:26:27 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/3ZySIaXu2Q8-HD.jpg"
-      },
-      {
         "title": "Meta Horizon+ now includes Xbox Game Pass at no extra cost",
         "url": "https://mixed-news.com/en/meta-horizon-now-includes-xbox-game-pass-at-no-extra-cost/",
         "summary": "Meta Horizon+ now includes more than 50 Xbox Game Pass titles at no extra cost, a free upgrade for subscribers and another reason for Quest owners to consider the service.",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "ChatGPT to face tougher regulation in the EU",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-        "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union.",
+        "title": "Debian won’t ban AI code from its Linux distribution",
+        "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+        "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI…",
         "source": "theverge.com",
-        "date": "2026-08-31T09:27:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-31T11:34:58-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Inside Meta’s push to put robots to work in data centers",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30"
       },
       {
-        "title": "Instagram cracks down on AI accounts pretending to be human",
-        "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-        "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot.",
+        "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+        "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+        "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast.",
         "source": "theverge.com",
-        "date": "2026-08-31T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-08-31T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Mike Vrabel on Christian Gonzalez: I expect every healthy player to play and practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-on-christian-gonzalez-i-expect-every-healthy-player-to-play-and-practice",
-        "summary": "Christian Gonzalez returned to Patriots practice last week, but the cornerback's lack of a contract extension has led some to wonder if he might be off the field again as the team…",
+        "title": "Vikings to waive QB Max Brosmer",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-to-waive-qb-max-brosmer",
+        "summary": "The Vikings came out of cut-down day with four quarterbacks on their 53-man roster.",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 08:19:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9fc7edd/2147483647/strip/false/crop/4149x2334+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F71%2Fdc8700df44b6a22683a0e53f3cb9%2F2291582687.jpg"
+        "date": "Mon, 31 Aug 2026 15:36:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edac720/2147483647/strip/false/crop/4880x2745+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F88%2F50fb10f44066920a9426d5fd5a4e%2F2292716448.jpg"
       },
       {
-        "title": "Rams, already Super Bowl favorites, boost their odds to +500 after adding Aaron Donald",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-already-super-bowl-favorites-boost-their-odds-to-500-after-adding-aaron-donald",
-        "summary": "The Rams were the clear Super Bowl favorites even before Aaron Donald came out of retirement. Now it's not even close.",
+        "title": "Jets LB Joseph Ossai week-to-week with foot injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-lb-joseph-ossai-week-to-week-with-foot-injury",
+        "summary": "The Jets signed Joseph Ossai this offseason to help their pass rush, but he may not be available for their Week 1 game in Tennessee.",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 07:44:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d0612a/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F9c%2F6fe072294414906dfb2e0c7fdd08%2F1413501884.jpg"
+        "date": "Mon, 31 Aug 2026 15:31:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec3d298/2147483647/strip/false/crop/3244x1825+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb0%2F60%2F7ea62fd342439b7cb7db286a106d%2F2292513822.jpg"
       },
       {
-        "title": "Aaron Donald: My longtime speed trainer told me I haven't lost a step",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-my-longtime-speed-trainer-told-me-i-havent-lost-a-step",
-        "summary": "Donald says he has stayed in good shape during his two-year retirement and resumed football-specific conditioning this summer.",
+        "title": "Ravens sign K Jake Moody to practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-sign-k-jake-moody-to-practice-squad",
+        "summary": "The Ravens have brought in some potential competition at kicker for Tyler Loop.",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 04:29:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0a845d2/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fdf%2Fff15ce554c939001c9654329af34%2F2225876306.jpg"
+        "date": "Mon, 31 Aug 2026 15:17:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c980610/2147483647/strip/false/crop/5200x2925+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F0b%2Fb56afd6d4a55932387a5e516e267%2F2292206062.jpg"
       },
       {
-        "title": "Falcons 2024 third-round pick Bralen Trice cut without ever playing in a game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-2024-third-round-pick-bralen-trice-cut-without-ever-playing-in-a-game",
-        "summary": "When the Falcons drafted defensive end Bralen Trice in the third round in 2024, they thought he had a bright future.",
+        "title": "Nick Mullens, Joey Aguilar return to Jaguars practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-mullens-joey-aguilar-return-to-jaguars-practice-squad",
+        "summary": "The Jaguars cut three quarterbacks on Sunday and two of them returned to the practice squad on Monday.",
         "source": "nbcsports.com",
-        "date": "Mon, 31 Aug 2026 03:33:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/57996bf/2147483647/strip/false/crop/3840x2160+0+234/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2Fd5%2F8fb93c8649989da1d13ae66307de%2F2190858011.jpg"
+        "date": "Mon, 31 Aug 2026 15:15:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1ce282/2147483647/strip/false/crop/3999x2249+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F81%2F9b7ae7714e409a76ebaa9fdb9a9c%2F2292317348.jpg"
       },
       {
-        "title": "John Schneider on Terrion Arnold: \"The character didn't really fit with the allegations\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-schneider-on-terrion-arnold-the-character-didnt-really-fit-with-the-allegations",
-        "summary": "The Seahawks finally signed cornerback Terrion Arnold, more than two weeks after agreeing to a deal with him.",
+        "title": "Dolphins sign DE Malik Herring, announce eight cuts",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-de-malik-herring-announce-eight-cuts",
+        "summary": "The Dolphins turned over a good chunk of their initial 53-man roster on Monday.",
         "source": "nbcsports.com",
-        "date": "Sun, 30 Aug 2026 22:54:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4fead3e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F54%2F455%2Fnbc_pftpm_paidleave_260830.jpg"
+        "date": "Mon, 31 Aug 2026 15:08:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ecfd3ae/2147483647/strip/false/crop/6255x3518+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2Fa0%2F784f3cb04475bc5c5bb02e9ce05f%2F2186667952.jpg"
       },
       {
-        "title": "Ravens announce their moves to get to 53 players",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-announce-their-moves-to-get-to-53-players",
-        "summary": "The Ravens reached the 53-player limit on Sunday, but their biggest story was who they kept.",
+        "title": "Emmanuel Henderson clears waivers, set to return to Seahawks' practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/emmanuel-henderson-clears-waivers-set-to-return-to-seahawks-practice-squad",
+        "summary": "It was a bit of a surprise when the Seahawks waived wide receiver and return man Emmanuel Henderson yesterday, as he was a sixth-round pick who looked good in the preseason.",
         "source": "nbcsports.com",
-        "date": "Sun, 30 Aug 2026 21:43:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/492b7bd/2147483647/strip/false/crop/6022x3387+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2F54%2Ff421a4b24bb9bf51e90262eaaa12%2Fdownload.jpg"
+        "date": "Mon, 31 Aug 2026 15:08:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0100bf/2147483647/strip/false/crop/4744x2669+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fba%2F35%2Fb3b644454d14855402a211a65ce6%2F2291941548.jpg"
       }
     ]
   }
