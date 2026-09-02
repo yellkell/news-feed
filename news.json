@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T22:15:00.389Z",
+  "updated": "2026-09-02T00:16:31.471Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-        "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to…",
+        "title": "Google needs Hollywood more than the studios need AI",
+        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+        "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted…",
         "source": "theverge.com",
-        "date": "2026-09-01T16:45:49-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-01T18:50:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Think twice before installing this device promising free movies",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30"
       },
       {
-        "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-        "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\"…",
+        "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards.",
         "source": "theverge.com",
-        "date": "2026-09-01T15:02:54-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-01T18:01:36-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Inside Meta’s push to put robots to work in data centers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Bucs claim CB Kevin Knowles off waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-claim-cb-kevin-knowles-off-waivers",
-        "summary": "The Buccaneers claimed cornerback Kevin Knowles off waivers on Tuesday, according to the NFL's personnel notice.",
+        "title": "CBS has no comment about Tony Romo's statement",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-has-no-comment-about-tony-romos-statement",
+        "summary": "On Tuesday, former Cowboys quarterback and CBS broadcaster Tony Romo issued a statement announcing his no-contest plea to OWI charges and expressing his intention to return to CBS,…",
         "source": "nbcsports.com",
-        "date": "Tue, 01 Sep 2026 17:57:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c36b9f1/2147483647/strip/false/crop/3944x2219+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F0a%2F7b391bc34efb8a81acdf9a96e884%2F2292204065.jpg"
+        "date": "Tue, 01 Sep 2026 19:54:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9be41eb/2147483647/strip/false/crop/5196x2923+0+271/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2F17%2F1ea02e3743fc91559693889ddf29%2F2272050084.jpg"
       },
       {
-        "title": "Joe Milton clears waivers, becomes a free agent",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-milton-clears-waivers-becomes-a-free-agent",
-        "summary": "Joe Milton is a free agent.",
+        "title": "Former NFL assistant coach Kippy Brown dies at 71",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-nfl-assistant-coach-kippy-brown-dies-at-71",
+        "summary": "Former NFL assistant coach Kippy Brown died this week, Matt Young of the Houston Chronicle reports.",
         "source": "nbcsports.com",
-        "date": "Tue, 01 Sep 2026 17:36:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e666110/2147483647/strip/false/crop/4261x2397+0+222/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F89%2F343592bb4ba6929c3c7d265ba99d%2F2292862921.jpg"
+        "date": "Tue, 01 Sep 2026 19:42:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/710e879/2147483647/strip/false/crop/3245x1825+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F26%2F5d%2F03d4b12a4e268239967662ea5276%2F113434167.jpg"
       },
       {
-        "title": "Saints claim CB Decamerion Richardson off waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-claim-cb-decamerion-richardson-off-waivers",
-        "summary": "The Saints claimed cornerback Decamerion Richardson off waivers, according to the NFL's personnel notice.",
+        "title": "Giants receivers pick numbers that bring back good memories",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-receivers-pick-numbers-that-bring-back-good-memories",
+        "summary": "Jalin Hyatt's decision, voluntary or otherwise, to surrender No. 13 to Odell Beckham Jr. wasn't the only back-to-the-future move when it comes to Giants receiver numbers.",
         "source": "nbcsports.com",
-        "date": "Tue, 01 Sep 2026 17:19:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/53fab13/2147483647/strip/false/crop/7277x4093+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2F5e%2Fc54d8d744806a20dbf0c2026bdbe%2F2252308613.jpg"
+        "date": "Tue, 01 Sep 2026 19:33:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1c011a9/2147483647/strip/false/crop/300x169+0+29/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F9c%2F6466bb987df62bf7fe5a8baab302%2Fhakeem-nicks.jpg"
       },
       {
-        "title": "Kyle Van Noy visited with Vikings on Tuesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-van-noy-visited-with-vikings-on-tuesday",
-        "summary": "The Vikings are taking a look at a veteran edge defender who has plenty of familiarity with their defensive coordinator.",
+        "title": "Panthers place OL Brady Christensen on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-place-ol-brady-christensen-on-ir",
+        "summary": "The Panthers placed offensive lineman Brady Christensen on injured reserve Tuesday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Tue, 01 Sep 2026 17:19:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3590fb0/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2F03%2Ffcc0acc14213b9b6efabc8686ba0%2F2248733816.jpg"
+        "date": "Tue, 01 Sep 2026 19:18:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea07e34/2147483647/strip/false/crop/8150x4584+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2Ffb%2F21fc8834477fbb620553ea8d0a01%2F2292162675.jpg"
       },
       {
-        "title": "Dolphins cut QB Mark Gronowski from practice squad, sign Mazi Smith, Clelin Ferrell to it",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-cut-qb-mark-gronowski-from-practice-squad-sign-mazi-smith-clelin-ferrell-to-it",
-        "summary": "The Dolphins cut quarterback Mark Gronowski from the practice squad on Tuesday.",
+        "title": "John Spytek says Ashton Jeanty is in a \"good spot\" but offers no timeline on a return",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-spytek-says-ashton-jeanty-is-in-a-good-spot-but-offers-no-timeline-on-a-return",
+        "summary": "The Raiders running back sprained his ankle in an Aug. 23 practice.",
         "source": "nbcsports.com",
-        "date": "Tue, 01 Sep 2026 17:00:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3616920/2147483647/strip/false/crop/3979x2238+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2F0e%2F77a7501c4f0aa7fabe5056a8b656%2F2292515294.jpg"
+        "date": "Tue, 01 Sep 2026 18:59:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b3e7967/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F06%2F9a4fa3bb42ecbf3db667a647cfc9%2F2291444213.jpg"
       },
       {
-        "title": "Jeff Hafley excited for the chance to develop young players",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeff-hafley-excited-for-the-chance-to-develop-young-players",
-        "summary": "The Dolphins are starting over in Hafley's first year as head coach.",
+        "title": "Report: Tony Romo's BAC was 0.15 percent, nearly twice the legal limit",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tony-romos-bac-was-0-15-percent-nearly-twice-the-legal-limit",
+        "summary": "When former Cowboys quarterback and CBS broadcaster Tony Romo was arrested for OWI in Wisconsin, he initially indicated an unwillingness to submit to breath testing.",
         "source": "nbcsports.com",
-        "date": "Tue, 01 Sep 2026 17:00:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/30b0bba/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2F59%2F6ee14566439da357d2cc404244d0%2F2290752391.jpg"
+        "date": "Tue, 01 Sep 2026 18:51:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8dd02b1/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F5f%2F3ffa9fac4723976a42574121dc5e%2F959329790.jpg"
       }
     ]
   }
