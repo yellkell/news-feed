@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T17:20:25.123Z",
+  "updated": "2026-09-02T19:56:30.558Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Amazon’s AI assistant can now spot fake emails from the company",
+        "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+        "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came…",
+        "source": "theverge.com",
+        "date": "2026-09-02T13:52:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
         "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
         "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
         "source": "arstechnica.com",
         "date": "Wed, 02 Sep 2026 11:00:43 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg"
-      },
-      {
-        "title": "Google needs Hollywood more than the studios need AI",
-        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-        "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted…",
-        "source": "theverge.com",
-        "date": "2026-09-01T18:50:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -77,12 +77,12 @@
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30"
       },
       {
-        "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-        "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards.",
+        "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+        "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during…",
         "source": "theverge.com",
-        "date": "2026-09-01T18:01:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-02T12:40:50-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Think twice before installing this device promising free movies",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Chris Jones out of practice with back injury, Chiefs expect he'll be fine",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-jones-out-of-practice-with-back-injury-chiefs-expect-hell-be-fine",
-        "summary": "The Chiefs practiced without a key member of their defense on Wednesday, but there's no sign of concern about the absence extending into Week 1.",
+        "title": "Shemar Stewart returns to practice Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shemar-stewart-returns-to-practice-wednesday",
+        "summary": "Bengals defensive end Shemar Stewart returned to practice on Wednesday, ESPN's Ben Baby reports.",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 13:13:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/062b3c1/2147483647/strip/false/crop/6998x3936+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2Fa4%2F95a6eef1456fa5ec175c905688c6%2F2291017801.jpg"
+        "date": "Wed, 02 Sep 2026 15:33:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/925856b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F203%2F879%2FBurrow_Super_Bowl_raw_260901.jpg"
       },
       {
-        "title": "Raiders third-round pick Keyron Crawford to miss season with Achilles injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-third-round-pick-keyron-crawford-to-miss-season-with-achilles-injury",
-        "summary": "Raiders rookie defensive end Keyron Crawford was placed on injured reserve during the cut to 53 players last weekend and head coach Klint Kubiak updated the nature of his injury on…",
+        "title": "Jets work out three kickers, including Justin Tucker",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-work-out-three-kickers-including-justin-tucker",
+        "summary": "The Jets are desperate for a kicker.",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 13:02:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/60bc0c6/2147483647/strip/false/crop/3844x2162+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2F05%2F48ebb40243ba8e23ace8e9aa997a%2F2292373652.jpg"
+        "date": "Wed, 02 Sep 2026 15:17:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b21c288/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff4%2F8e%2F06b1b866413f9ab168df163ef6b4%2F2247744830.jpg"
       },
       {
-        "title": "Klint Kubiak is optimistic about Ashton Jeanty playing Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-is-optimistic-about-ashton-jeanty-playing-week-1",
-        "summary": "While the Raiders have characterized Ashton Jeanty as \"on the mend\" with his ankle injury, head coach Klint Kubiak provided a little more information on the running back in his…",
+        "title": "Howie Roseman: The bottom line is winning, Jalen Hurts and Nick Sirianni do that",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-the-bottom-line-is-winning-jalen-hurts-and-nick-sirianni-do-that",
+        "summary": "Eagles General Manager Howie Roseman says Philadelphia has a starting quarterback and a head coach who do what they're supposed to do: Win.",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 12:54:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9917447/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F937%2F839%2FFernandoMendoza8-28MPX.jpg"
+        "date": "Wed, 02 Sep 2026 15:01:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4a592a8/2147483647/strip/false/crop/3932x2212+0+205/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2Feb%2F3b63c9914e40be11599767230069%2F2247170013.jpg"
       },
       {
-        "title": "Raiders officially name Kirk Cousins their starting quarterback",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-officially-name-kirk-cousins-their-starting-quarterback",
-        "summary": "Cousins will officially begin the season as Las Vegas' QB1 over rookie Fernando Mendoza.",
+        "title": "Laquon Treadwell decides not to give No. 13 to Keenan Allen",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/laquon-treadwell-decides-not-to-give-no-13-to-keenan-allen",
+        "summary": "The No. 13 has been in the news lately, with veteran receivers hoping to wear it with their new teams.",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 12:45:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6a7b45/2147483647/strip/false/crop/6526x3671+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2F38%2Fb175b72241f0a7985296eb99d9a3%2F2026-08-21t174140z-974674778-mt1usatoday29635129-rtrmadp-3-nfl-las-vegas-raiders-at-houston-texans.jpg"
+        "date": "Wed, 02 Sep 2026 14:40:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e863dbc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F906%2F159%2Fnbc_pft_keenanallen_260818.jpg"
       },
       {
-        "title": "Kirk Cousins, Ashton Jeanty not participating in Wednesday's practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-ashton-jeanty-not-participating-in-wednesdays-practice",
-        "summary": "Jeanty is still recovering from an ankle injury, while the reason for Cousins' absence is currently unknown.",
+        "title": "Nick Bosa takes part in Wednesday's practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-takes-part-in-wednesdays-practice",
+        "summary": "A report on Wednesday morning brought good news about 49ers defensive end Nick Bosa's outlook for playing in Week 1 and the afternoon brought more good news.",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 11:56:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/67b6a3f/2147483647/strip/false/crop/2849x1603+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F05%2F29b1f68f4fdaa86b849845d7e600%2F2292366327.jpg"
+        "date": "Wed, 02 Sep 2026 14:40:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b120e03/2147483647/strip/false/crop/5369x3020+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2F13%2F36572a1d48b79ea351b8784a81e0%2F2236490862.jpg"
       },
       {
-        "title": "Patriots devised perfect way to mess with opposing field-goal kickers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-devised-perfect-way-to-mess-with-opposing-field-goal-kickers",
-        "summary": "Football fans with end zone seats have tried over the years to come up with ways to distract a kicker who is attempting a field goal.",
+        "title": "Dr. John York on Jed York's legal issue: \"That's been resolved\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dr-john-york-on-jed-yorks-legal-issue-thats-been-resolved",
+        "summary": "Last week, the non-stop NFL news cycle was briefly dominated by the arrest, and prompt no-contest plea, of 49ers owner Jed York on misdemeanor charges arising from a prostitution…",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 10:55:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0cb9a82/2147483647/strip/false/crop/4976x2799+0+259/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2F0b%2F7d6e05d940319374bbda22c3340b%2F1605858353.jpg"
+        "date": "Wed, 02 Sep 2026 14:20:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1795b5e/2147483647/strip/false/crop/1656x932+0+131/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2F7d%2F1d90a8484882a6c5a77612df011b%2F2275121966.jpg"
       }
     ]
   }
