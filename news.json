@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-02T19:56:30.558Z",
+  "updated": "2026-09-02T22:18:14.804Z",
   "feed": {
     "VR": [
       {
-        "title": "Galápagos: The Last Eden Is An Android XR Interactive Wildlife Experience",
-        "url": "https://www.uploadvr.com/galapagos-the-last-eden-is-an-android-xr-interactive-wildlife-experience/",
-        "summary": "Galápagos: The Last Eden is an hour-long interactive Android XR experience made in collaboration with Google and narrated by Margot Robbie.",
+        "title": "Steam Link's Latest Public Beta Adds Wired USB Support On Quest Headsets",
+        "url": "https://www.uploadvr.com/steam-links-latest-public-beta-adds-wired-usb-support-on-quest-headsets/",
+        "summary": "Following Virtual Desktop's implementation of the feature, the latest Public Beta release for Valve's Steam Link on Quest adds support for wired USB PC streaming.",
         "source": "uploadvr.com",
-        "date": "Wed, 02 Sep 2026 07:57:33 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Screenshot-2026-09-01-at-6.16.27-AM.png"
+        "date": "Wed, 02 Sep 2026 14:56:06 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Steam-Link-for-Quest.webp"
       },
       {
         "title": "The Worst Game on the Horizon Store Now Runs Better Than Any Other on Quest 3",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/S26-FE.jpg"
       },
       {
-        "title": "New Trailer Reveals Project Hail Mary: Journey Among The Stars Gameplay",
-        "url": "https://www.uploadvr.com/trailer-reveals-first-project-hail-mary-journey-among-the-stars-gameplay/",
-        "summary": "A new trailer reveals gameplay of Project Hail Mary: Journey Among The Stars, a mixed reality experience launching on Quest, Pico, and Android XR this fall.",
+        "title": "Starclash Immersive Animated Experience Out Now On Apple Vision Pro & Quest",
+        "url": "https://www.uploadvr.com/starclash-immersive-film-out-not-on-apple-vision-pro-and-quest/",
+        "summary": "The 33-minute immersive experience Starclash makes you the star of an animated film on Apple Vision Pro and Quest headsets.",
         "source": "uploadvr.com",
-        "date": "Wed, 02 Sep 2026 07:47:20 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/project-hail-mary-gameplay.jpg"
+        "date": "Wed, 02 Sep 2026 14:07:48 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/starclash-og.png"
       },
       {
         "title": "Steam Frame is Getting a Color Passthrough Camera Upgrade Add-on",
@@ -53,6 +53,30 @@
     ],
     "AI": [
       {
+        "title": "I rented a car, and within hours, my driver's license was for sale",
+        "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+        "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+        "source": "arstechnica.com",
+        "date": "Wed, 02 Sep 2026 20:32:02 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png"
+      },
+      {
+        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+        "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor.",
+        "source": "theverge.com",
+        "date": "2026-09-02T16:11:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.",
+        "source": "venturebeat.com",
+        "date": "Thu, 27 Aug 2026 14:01:00 GMT",
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30"
+      },
+      {
         "title": "Amazon’s AI assistant can now spot fake emails from the company",
         "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
         "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came…",
@@ -69,30 +93,6 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg"
       },
       {
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.",
-        "source": "venturebeat.com",
-        "date": "Thu, 27 Aug 2026 14:01:00 GMT",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30"
-      },
-      {
-        "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-        "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during…",
-        "source": "theverge.com",
-        "date": "2026-09-02T12:40:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Think twice before installing this device promising free movies",
-        "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-        "summary": "In exchange for free stuff, devices make home connections part of a proxy network.",
-        "source": "arstechnica.com",
-        "date": "Mon, 31 Aug 2026 16:33:38 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp"
-      },
-      {
         "title": "When agents act on their own, governance has to live in the data layer",
         "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
         "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to…",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Shemar Stewart returns to practice Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shemar-stewart-returns-to-practice-wednesday",
-        "summary": "Bengals defensive end Shemar Stewart returned to practice on Wednesday, ESPN's Ben Baby reports.",
+        "title": "Eric DeCosta: Marlon Humphrey didn't have a great year last year, will have one this year",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eric-decosta-marlon-humphrey-didnt-have-a-great-year-last-year-will-have-one-this-year",
+        "summary": "Ravens General Manager Eric DeCosta is expecting a bounce-back year from cornerback Marlon Humphrey.",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 15:33:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/925856b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F203%2F879%2FBurrow_Super_Bowl_raw_260901.jpg"
+        "date": "Wed, 02 Sep 2026 17:40:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a0bc75f/2147483647/strip/false/crop/5572x3134+0+278/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F01%2F6228fb92423c8b84a927aa110e8f%2F2281154458.jpg"
       },
       {
-        "title": "Jets work out three kickers, including Justin Tucker",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-work-out-three-kickers-including-justin-tucker",
-        "summary": "The Jets are desperate for a kicker.",
+        "title": "NBA imposes unprecedented punishment on Clippers for Kawhi Leonard salary-cap circumvention",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nba-imposes-unprecedented-punishment-on-clippers-for-kawhi-leonard-salary-cap-circumvention",
+        "summary": "The L.A.",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 15:17:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b21c288/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff4%2F8e%2F06b1b866413f9ab168df163ef6b4%2F2247744830.jpg"
+        "date": "Wed, 02 Sep 2026 17:19:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5833ca2/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F361%2F587%2Fpatriotsgoalpost.jpg"
       },
       {
-        "title": "Howie Roseman: The bottom line is winning, Jalen Hurts and Nick Sirianni do that",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-the-bottom-line-is-winning-jalen-hurts-and-nick-sirianni-do-that",
-        "summary": "Eagles General Manager Howie Roseman says Philadelphia has a starting quarterback and a head coach who do what they're supposed to do: Win.",
+        "title": "Cowboys sign QB Joe Milton to practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-sign-qb-joe-milton-to-practice-squad",
+        "summary": "The Cowboys wanted Joe Milton back on the practice squad, and on Wednesday, they made that happen.",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 15:01:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4a592a8/2147483647/strip/false/crop/3932x2212+0+205/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2Feb%2F3b63c9914e40be11599767230069%2F2247170013.jpg"
+        "date": "Wed, 02 Sep 2026 17:17:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c216cfc/2147483647/strip/false/crop/3296x1854+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F88%2Ff1%2F3de46f7a4cfd9b7b20790e0029c2%2F2291726370.jpg"
       },
       {
-        "title": "Laquon Treadwell decides not to give No. 13 to Keenan Allen",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/laquon-treadwell-decides-not-to-give-no-13-to-keenan-allen",
-        "summary": "The No. 13 has been in the news lately, with veteran receivers hoping to wear it with their new teams.",
+        "title": "Xavier Worthy: When it's time to play, we'll be ready",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/xavier-worthy-when-its-time-to-play-well-be-ready",
+        "summary": "Chiefs head coach Andy Reid hasn't set anything in stone regarding quarterback Patrick Mahomes's availability for their Monday night game against the Broncos in Week 1, but all…",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 14:40:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e863dbc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F906%2F159%2Fnbc_pft_keenanallen_260818.jpg"
+        "date": "Wed, 02 Sep 2026 17:03:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/85fc7c4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F687%2F838%2Fnbc_pft_mahomesconvo_260826.jpg"
       },
       {
-        "title": "Nick Bosa takes part in Wednesday's practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-takes-part-in-wednesdays-practice",
-        "summary": "A report on Wednesday morning brought good news about 49ers defensive end Nick Bosa's outlook for playing in Week 1 and the afternoon brought more good news.",
+        "title": "RB Jonathon Brooks out of practice with soreness, but Panthers unconcerned",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-jonathon-brooks-out-of-practice-with-soreness-but-panthers-unconcerned",
+        "summary": "Panthers running back Jonathon Brooks remained out of practice on Wednesday, but head coach Dave Canales is unconcerned that Brooks' injury will keep him out of the season opener.",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 14:40:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b120e03/2147483647/strip/false/crop/5369x3020+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2F13%2F36572a1d48b79ea351b8784a81e0%2F2236490862.jpg"
+        "date": "Wed, 02 Sep 2026 16:50:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a2140bb/2147483647/strip/false/crop/5313x2989+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2F54%2Ff4bf5ef048e58148de6a7c043805%2F2287612198.jpg"
       },
       {
-        "title": "Dr. John York on Jed York's legal issue: \"That's been resolved\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dr-john-york-on-jed-yorks-legal-issue-thats-been-resolved",
-        "summary": "Last week, the non-stop NFL news cycle was briefly dominated by the arrest, and prompt no-contest plea, of 49ers owner Jed York on misdemeanor charges arising from a prostitution…",
+        "title": "Mason Rudolph is happy Myles Garrett has left the AFC North",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-rudolph-is-happy-myles-garrett-has-left-the-afc-north",
+        "summary": "Defensive end Myles Garrett and quarterback Mason Rudolph became forever linked in NFL lore on the night of November 14, 2019, when Garrett ripped away Rudolph's helmet and struck…",
         "source": "nbcsports.com",
-        "date": "Wed, 02 Sep 2026 14:20:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1795b5e/2147483647/strip/false/crop/1656x932+0+131/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2F7d%2F1d90a8484882a6c5a77612df011b%2F2275121966.jpg"
+        "date": "Wed, 02 Sep 2026 16:39:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3086f2f/2147483647/strip/false/crop/2735x1538+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Fce%2F24dcf28e4bc09b9c060013ee4796%2F1187885918.jpg"
       }
     ]
   }
