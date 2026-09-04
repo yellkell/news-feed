@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-04T16:51:33.017Z",
+  "updated": "2026-09-04T19:14:15.098Z",
   "feed": {
     "VR": [
+      {
+        "title": "VR Design Unpacked: This Immersion Hack is Too Simple to Work So Well",
+        "url": "https://roadtovr.com/these-clever-tools-make-vr-way-more-immersive-inside-xr-design/",
+        "summary": "In Inside XR Design we examine specific examples of great VR design.",
+        "source": "roadtovr.com",
+        "date": "Fri, 04 Sep 2026 17:48:12 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/maxresdefault-13.jpg?resize=1280%2C720&quality=89&ssl=1"
+      },
       {
         "title": "Loony Laps Brings Tiny Cars & Big Chaos To Quest 3 In 2027",
         "url": "https://www.uploadvr.com/loony-laps-brings-tiny-cars-big-chaos-to-quest-3-in-2027/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Thu, 03 Sep 2026 16:35:19 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/trailer-cover-1.webp"
-      },
-      {
-        "title": "Steam Link for Quest Adds Wired USB-C Streaming in Public Beta",
-        "url": "https://roadtovr.com/steam-link-quest-wired-usb-update/",
-        "summary": "Valve has pushed an update to the Steam Link PC VR streaming app on Quest that finally includes the ability to play games via wired connection.",
-        "source": "roadtovr.com",
-        "date": "Thu, 03 Sep 2026 09:15:17 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/11/STEAM-LINK-meta-quest.jpg?resize=1440%2C810&quality=89&ssl=1"
       },
       {
         "title": "Exclusive: This is the Samsung Galaxy S26 FE with AI features, and here are all three colours, inside and out",
@@ -35,12 +35,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Finding-Frida-Hero.jpeg"
       },
       {
-        "title": "The Worst Game on the Horizon Store Now Runs Better Than Any Other on Quest 3",
-        "url": "https://roadtovr.com/unity-cube-worst-meta-quest-game-on-purpose-app-lab/",
-        "summary": "The Unity Cube is an objectively terrible game (it’s literally just a floating cube, after all) that was built to test the limits of what Quest content Meta would allow into its…",
+        "title": "Steam Link for Quest Adds Wired USB-C Streaming in Public Beta",
+        "url": "https://roadtovr.com/steam-link-quest-wired-usb-update/",
+        "summary": "Valve has pushed an update to the Steam Link PC VR streaming app on Quest that finally includes the ability to play games via wired connection.",
         "source": "roadtovr.com",
-        "date": "Wed, 02 Sep 2026 14:13:40 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/04/unity-cube-1.jpg?resize=1439%2C809&quality=89&ssl=1"
+        "date": "Thu, 03 Sep 2026 09:15:17 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/11/STEAM-LINK-meta-quest.jpg?resize=1440%2C810&quality=89&ssl=1"
       },
       {
         "title": "Steam Frame Could Come With a Free Copy of Half-Life: Alyx",
@@ -53,20 +53,36 @@
     ],
     "AI": [
       {
+        "title": "Roland is getting into generative AI music with Melody Flip",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+        "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music.",
+        "source": "theverge.com",
+        "date": "2026-09-04T13:51:35-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+        "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+        "summary": "Broadcom admits it put “too big a focus on VCF.”",
+        "source": "arstechnica.com",
+        "date": "Fri, 04 Sep 2026 17:35:02 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
+      },
+      {
+        "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+        "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+        "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+        "source": "arstechnica.com",
+        "date": "Fri, 04 Sep 2026 17:18:12 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg"
+      },
+      {
         "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
         "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
         "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new…",
         "source": "theverge.com",
         "date": "2026-09-04T12:05:57-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-        "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-        "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
-        "source": "arstechnica.com",
-        "date": "Thu, 03 Sep 2026 19:52:06 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg"
       },
       {
         "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
@@ -77,78 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-        "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-        "summary": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
+        "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+        "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+        "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
         "source": "arstechnica.com",
-        "date": "Thu, 03 Sep 2026 18:58:31 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-1152x648.jpg"
-      },
-      {
-        "title": "Instagram’s AI detection is a mess (again)",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-        "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance.",
-        "source": "theverge.com",
-        "date": "2026-09-04T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "I rented a car, and within hours, my driver's license was for sale",
-        "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-        "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
-        "source": "arstechnica.com",
-        "date": "Wed, 02 Sep 2026 20:32:02 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png"
+        "date": "Thu, 03 Sep 2026 19:52:06 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Brock Purdy: Playing in NFC West means we have to be at our best every moment",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-playing-in-nfc-west-means-we-have-to-be-at-our-best-every-moment",
-        "summary": "It doesn't take much effort to come up with an argument for the NFC West being the toughest division in the NFL.",
+        "title": "Cowboys' captains: Kenny Clark, Quinnen Williams, Dak Prescott, Brandon Aubrey",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-captains-kenny-clark-quinnen-williams-dak-prescott-brandon-aubrey",
+        "summary": "The Cowboys have two defensive captains this season, and both were acquired by trading Micah Parsons.",
         "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 12:06:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/493dc0b/2147483647/strip/false/crop/6486x3648+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2Fc1%2F22923e8f4273877c63163d203755%2F2189856244.jpg"
+        "date": "Fri, 04 Sep 2026 15:11:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1295451/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F437%2F263%2Fnbc_pft_cowboyswrs_260903.jpg"
       },
       {
-        "title": "Brian Schottenheimer says he's \"elated\" to have Joe Milton on Cowboys' practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-says-hes-elated-to-have-joe-milton-on-cowboys-practice-squad",
-        "summary": "When the Cowboys waived quarterback Joe Milton, they knew they wanted him back on the practice squad, but they weren't sure if another team would claim him on waivers, or persuade…",
+        "title": "Josh Jacobs's first court appearance moves from November 17 to September 10",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobss-first-court-appearance-moves-from-november-17-to-september-10",
+        "summary": "Paid leave puts a premium on expediting the prosecuion.",
         "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 11:35:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3433b0a/2147483647/strip/false/crop/4083x2297+0+213/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff4%2F60%2F611440344e38ab6727494e49d546%2F2292863019.jpg"
+        "date": "Fri, 04 Sep 2026 15:04:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/231febe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F361%2F587%2Fnbc_pftpm_paidleavestatus_260902.jpg"
       },
       {
-        "title": "Mike Vrabel: Christian Gonzalez situation hasn't been a distraction",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-christian-gonzalez-situation-hasnt-been-a-distraction",
-        "summary": "With the season opener rapidly approaching, it's still unclear whether Gonzalez will get a new deal — or if he'll play if he doesn't.",
+        "title": "Shaq Mason won't be disciplined after 2025 arrest, remains a free agent",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shaq-mason-wont-be-disciplined-after-2025-arrest-remains-a-free-agent",
+        "summary": "Shaq Mason is ready to resume his career.",
         "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 10:33:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b2294ad/2147483647/strip/false/crop/3556x2000+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F3c%2F5ac88b2c43629c3fa0233f95e859%2F2287221941.jpg"
+        "date": "Fri, 04 Sep 2026 14:58:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/29397a9/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2Ff2%2F71ab45cc45769ec74ee85ab6b207%2F2185918748.jpg"
       },
       {
-        "title": "LSU president tries to leverage current chaos into antitrust exemption",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lsu-president-tries-to-leverage-current-chaos-into-antitrust-exemption",
-        "summary": "The college sports ecosystem welcomes the current chaos in part, because it justifies the ongoing effort to get an antitrust exemption from Congress.",
+        "title": "Report: Clemson tells LSU that use of former NFL players could breach game contract",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-clemson-tells-lsu-that-use-of-former-nfl-players-could-breach-game-contract",
+        "summary": "As the SEC and LSU continue to battle over whether the Tigers will use former NFL players in Saturday night's regular-season opener, LSU's opponent has chimed in.",
         "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 09:45:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9faf4c0/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2F78%2F0c8f85dd4089bd9ca0f6dd1939db%2F2272098414.jpg"
+        "date": "Fri, 04 Sep 2026 14:54:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1a00ee6/2147483647/strip/false/crop/8256x4644+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2F5d%2F1a850a6446eba3c5b2ba36af4d77%2F2232932991.jpg"
       },
       {
-        "title": "Falcons to induct John Abraham, Bill Fralic into their Ring of Honor",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-to-induct-john-abraham-bill-fralic-into-their-ring-of-honor",
-        "summary": "The Falcons will add two former players to their Ring of Honor during the 2026 season.",
+        "title": "The Falcons still don't have a starting quarterback (but will soon)",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-falcons-still-dont-have-a-starting-quarterback-but-will-soon",
+        "summary": "With the first game of the season only nine days away, the Falcons still haven't named a starting quarterback.",
         "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 09:38:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f09d7be/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2F81%2F74fd05894016bc4a560ee9f73b4b%2F1231917131.jpg"
+        "date": "Fri, 04 Sep 2026 14:32:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/25d077f/2147483647/strip/false/crop/7534x4238+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2F4f%2F2cfddfc4475783ff8b4a7ee7de1f%2F2290739255.jpg"
       },
       {
-        "title": "Tank Dell agrees to revised contract for 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tank-dell-agrees-to-revised-contract-for-2026",
-        "summary": "Wide receiver Tank Dell and the Texans have worked out a revised contract for the coming season.",
+        "title": "Aaron Donald's status for Week 1 still TBD, all players set to travel to Australia",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donalds-status-for-week-1-still-tbd-all-players-set-to-travel-to-australia",
+        "summary": "At this point, it's still unclear whether or not Aaron Donald will play when the Rams take on the 49ers next week to open the 2026 season.",
         "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 09:19:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/25f9bce/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F323%2F498%2Fnbc_pft_stroud_260902.jpg"
+        "date": "Fri, 04 Sep 2026 14:21:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/31f57d6/2147483647/strip/false/crop/8080x4545+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2F53%2F170f81914bfb85d345214a74f87e%2F2026-08-31t155435z-1783927291-mt1usatoday29702239-rtrmadp-3-nfl-los-angeles-rams-aaron-donald-press-conference.jpg"
       }
     ]
   }
