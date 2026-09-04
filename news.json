@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T08:58:06.136Z",
+  "updated": "2026-09-04T13:11:10.394Z",
   "feed": {
     "VR": [
       {
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "Instagram’s AI detection is a mess (again)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+        "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance.",
+        "source": "theverge.com",
+        "date": "2026-09-04T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
         "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
         "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
@@ -61,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg"
       },
       {
-        "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-        "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering,…",
+        "title": "Why AI food looks like that",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+        "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food.",
         "source": "theverge.com",
-        "date": "2026-09-03T14:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-04T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
@@ -77,20 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-1152x648.jpg"
       },
       {
-        "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-        "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio.",
+        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+        "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith.",
         "source": "theverge.com",
-        "date": "2026-09-03T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Google now lets you chat with Gmail, Docs, and Keep",
-        "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-        "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them.",
-        "source": "theverge.com",
-        "date": "2026-09-03T12:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-04T06:44:15-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "I rented a car, and within hours, my driver's license was for sale",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Report: D'Andre Swift left Thursday's practice due to a cramp",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dandre-swift-left-thursdays-practice-due-to-a-cramp",
+        "summary": "The Bears saw two offensive players leave practice early on Thursday and a report updates the reason why one of them left the field.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 07:55:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c1f2b5e/2147483647/strip/false/crop/4044x2275+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Fc0%2F232129e94714a02af8f32dfed68e%2F2287508282.jpg"
+      },
+      {
+        "title": "49ers announce defensive end Sam Okuayinonu will not play Thursday vs. Rams",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-announce-defensive-end-sam-okuayinonu-will-not-play-thursday-vs-rams",
+        "summary": "Okuayinonu did not travel with the team to Australia and will not play Week One because of a foot injury.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 07:36:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/db226f0/2147483647/strip/false/crop/5642x3174+0+294/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcd%2F3f%2Fcfc18b2e4639a1feff9ef5a4f5a8%2F2256152746.jpg"
+      },
+      {
+        "title": "Dan Campbell: Jared Goff is massively underrated, reminds me of Drew Brees",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-jared-goff-is-massively-underrated-reminds-me-of-drew-brees",
+        "summary": "Lions head coach Dan Campbell was briefly Drew Brees' teammate in New Orleans, and was on the Saints' coaching staff for the last five seasons of Brees' career.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 06:52:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f679ed/2147483647/strip/false/crop/3230x1817+0+168/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F0b%2Fe34e3a35402bbcdc634c6767e5e2%2F2252097662.jpg"
+      },
       {
         "title": "Deion Sanders and Colorado start 1-0 with last-second win at Georgia Tech",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-and-colorado-start-1-0-with-last-second-win-at-georgia-tech",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 03 Sep 2026 22:02:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d047ea7/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2Fa6%2Fd8385e774dde90bb22f5ef0024a2%2F2272102960.jpg"
-      },
-      {
-        "title": "Von Miller gives Hunter Luepke \"chicken for life\" in exchange for No. 40",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-gives-hunter-luepke-chicken-for-life-in-exchange-for-no-40",
-        "summary": "Cowboys outside linebacker Von Miller and his teammate, Hunter Luepke, were playing a game of chicken with the No. 40.",
-        "source": "nbcsports.com",
-        "date": "Thu, 03 Sep 2026 22:01:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7f6506/2147483647/strip/false/crop/3064x1724+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F5f%2F4e89873940dbb69dcdb6620f81fa%2F2292862591.jpg"
-      },
-      {
-        "title": "Dianna Russini responds to internal review by The Athletic",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dianna-russini-responds-to-internal-review-by-the-athletic",
-        "summary": "On Thursday, The Athletic published the long-awaited report of its internal investigation regarding the work of former NFL Insider Dianna Russini.",
-        "source": "nbcsports.com",
-        "date": "Thu, 03 Sep 2026 21:42:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b59b38f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F254%2F687%2FRussini7-1.jpg"
-      },
-      {
-        "title": "DE Azeez Ojulari, OL Evan Neal, WR Ronnie Bell sign with Raiders' practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/de-azeez-ojulari-ol-evan-neal-wr-ronnie-bell-sign-with-raiders-practice-squad",
-        "summary": "The Raiders worked out 16 players on Thursday.",
-        "source": "nbcsports.com",
-        "date": "Thu, 03 Sep 2026 21:41:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d06d44a/2147483647/strip/false/crop/4285x2410+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F37%2F92ee8ac240388a29cd1f5db4bf41%2F2240482372.jpg"
       }
     ]
   }
