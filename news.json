@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-04T21:30:20.934Z",
+  "updated": "2026-09-04T23:19:12.106Z",
   "feed": {
     "VR": [
+      {
+        "title": "Puzzling Places 5-Year Birthday Update Includes Weekly Puzzles & A Guest Pass",
+        "url": "https://www.uploadvr.com/puzzling-places-5-year-birthday-update-includes-weekly-puzzles-a-guest-pass/",
+        "summary": "Puzzling Places celebrates five years with a new update including a free weekly puzzle, a guest pass system for multiplayer, and refinements in its mixed reality integration.",
+        "source": "uploadvr.com",
+        "date": "Fri, 04 Sep 2026 16:12:48 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/-2H0q59tsMM-HD.jpg"
+      },
       {
         "title": "VR Design Unpacked: This Immersion Hack is Too Simple to Work So Well",
         "url": "https://roadtovr.com/these-clever-tools-make-vr-way-more-immersive-inside-xr-design/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Fri, 04 Sep 2026 17:48:12 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/maxresdefault-13.jpg?resize=1280%2C720&quality=89&ssl=1"
-      },
-      {
-        "title": "Loony Laps Brings Tiny Cars & Big Chaos To Quest 3 In 2027",
-        "url": "https://www.uploadvr.com/loony-laps-brings-tiny-cars-big-chaos-to-quest-3-in-2027/",
-        "summary": "The solo-developed Loony Laps is an arcade toy racer for VR and mixed reality coming to Quest 3 headsets next year.",
-        "source": "uploadvr.com",
-        "date": "Thu, 03 Sep 2026 16:35:19 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/trailer-cover-1.webp"
       },
       {
         "title": "Exclusive: This is the Samsung Galaxy S26 FE with AI features, and here are all three colours, inside and out",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/S26-FE.jpg"
       },
       {
-        "title": "Finding Frida Uses VR To Rediscover A Forgotten Textile Artist",
-        "url": "https://www.uploadvr.com/finding-frida-uses-vr-to-rediscover-a-forgotten-textile-artist/",
-        "summary": "Finding Frida is a 41-minute VR documentary at Venice Immersive using photorealistic 3D scans and animated artwork to explore the life of forgotten Norwegian textile artist Frida…",
+        "title": "Play Drifters: Blackout Crew For Free This Weekend On Quest",
+        "url": "https://www.uploadvr.com/play-drifters-blackout-crew-for-free-this-weekend-on-quest/",
+        "summary": "Sci-fi VR team extraction shooter Drifters: Blackout Crew is holding a free open playtest this weekend on Quest.",
         "source": "uploadvr.com",
-        "date": "Thu, 03 Sep 2026 16:33:29 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Finding-Frida-Hero.jpeg"
+        "date": "Fri, 04 Sep 2026 16:07:47 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/hero.png"
       },
       {
         "title": "Steam Link for Quest Adds Wired USB-C Streaming in Public Beta",
@@ -53,6 +53,22 @@
     ],
     "AI": [
       {
+        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+        "source": "arstechnica.com",
+        "date": "Fri, 04 Sep 2026 22:17:36 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
+      },
+      {
+        "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+        "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering,…",
+        "source": "theverge.com",
+        "date": "2026-09-03T14:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
         "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
         "summary": "Broadcom admits it put “too big a focus on VCF.”",
@@ -61,12 +77,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
       },
       {
-        "title": "Why AI food looks like that",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-        "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food.",
+        "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+        "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio.",
         "source": "theverge.com",
-        "date": "2026-09-04T07:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-03T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
@@ -77,31 +93,55 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg"
       },
       {
-        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-        "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith.",
+        "title": "Google now lets you chat with Gmail, Docs, and Keep",
+        "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+        "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them.",
         "source": "theverge.com",
-        "date": "2026-09-04T06:44:15-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-        "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new…",
-        "source": "theverge.com",
-        "date": "2026-09-04T06:41:48-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-        "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-        "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
-        "source": "arstechnica.com",
-        "date": "Thu, 03 Sep 2026 19:52:06 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg"
+        "date": "2026-09-03T12:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
+      {
+        "title": "Sean McDermott sees the Bills getting to the Super Bowl in 2026",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcdermott-sees-the-bills-getting-to-the-super-bowl-in-2026",
+        "summary": "The Bills fired coach Sean McDermott two days after an overtime loss to the Broncos in the divisional round of the playoffs.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 19:00:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c764d8d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F554%2F455%2Fnbc_pft_gilettevideoboard_260904.jpg"
+      },
+      {
+        "title": "Two Indiana players get TRO to return for 2026",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/two-indiana-players-get-tro-to-return-for-2026",
+        "summary": "Curt Cignetti apparently is an agent of chaos, too.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 18:39:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38e1288/2147483647/strip/false/crop/6888x3875+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F48%2Ff7%2F9bcc6e6147f2acf96b04aac4a9fd%2F1558610806.jpg"
+      },
+      {
+        "title": "As Aaron Rodgers plans to retire, the next step is fatherhood",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-aaron-rodgers-plans-to-retire-the-next-step-is-fatherhood",
+        "summary": "Aaron Rodgers will retire from football after the upcoming season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 18:03:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8c60574/2147483647/strip/false/crop/4649x2615+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2Fb9%2Fe5a117464a43807314134788acac%2F2289856474.jpg"
+      },
+      {
+        "title": "Report: 49ers to sign DE Khalid Kareem to active roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-49ers-to-sign-de-khalid-kareem-to-active-roster",
+        "summary": "The 49ers are adding some help at defensive end ahead of their season opener in Australia.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 17:59:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/021684b/2147483647/strip/false/crop/4917x2766+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2F35%2F191312ef45a58c62a6c294ff9484%2F2254219065.jpg"
+      },
+      {
+        "title": "Michael Wilson: I wanted to stay in Arizona to be a centerpiece of turnaround",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-wilson-i-wanted-to-stay-in-arizona-to-be-a-centerpiece-of-turnaround",
+        "summary": "Cardinals wide receiver Michael Wilson got his long-awaited contract extension this week, keeping him under contract through the 2029 season.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 17:54:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a2bf1d7/2147483647/strip/false/crop/2530x1423+0+357/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Fe1%2F0f7a3f88423b87f0cc7d095f2d8a%2F2253309680.jpg"
+      },
       {
         "title": "S Taylor Rapp worked out for the Broncos",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/s-taylor-rapp-worked-out-for-the-broncos",
@@ -109,46 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 04 Sep 2026 17:07:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2820289/2147483647/strip/false/crop/4339x2441+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F36%2F6bfbc82a4f78ba4691fa15e363fa%2F2241224438.jpg"
-      },
-      {
-        "title": "Falcons sign LB Bralen Trice back to practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-sign-lb-bralen-trice-back-to-practice-squad",
-        "summary": "The Falcons signed linebacker Bralen Trice to the practice squad, the team announced.",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 16:44:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/41bfcd7/2147483647/strip/false/crop/3260x1834+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2F86%2Fe682f4ae4d51ab534fd107cf73fd%2F2231227463.jpg"
-      },
-      {
-        "title": "Sean McVay: I look at Stetson Bennett, Ty Simpson as \"2A, 2B\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-i-look-at-stetson-bennett-ty-simpson-as-2a-2b",
-        "summary": "The Rams released a depth chart that shows Stetson Bennett as the team's second quarterback and first-round pick Ty Simpson as their third quarterback, but head coach Sean McVay…",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 16:41:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d606817/2147483647/strip/false/crop/3173x1785+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2F35%2Fa4ca41e84d099c51547e241a5b54%2F2287235307.jpg"
-      },
-      {
-        "title": "Cowboys' captains: Kenny Clark, Quinnen Williams, Dak Prescott, Brandon Aubrey",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-captains-kenny-clark-quinnen-williams-dak-prescott-brandon-aubrey",
-        "summary": "The Cowboys have two defensive captains this season, and both were acquired by trading Micah Parsons.",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 15:11:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1295451/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F437%2F263%2Fnbc_pft_cowboyswrs_260903.jpg"
-      },
-      {
-        "title": "Josh Jacobs's first court appearance moves from November 17 to September 10",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobss-first-court-appearance-moves-from-november-17-to-september-10",
-        "summary": "Paid leave puts a premium on expediting the prosecuion.",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 15:04:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/231febe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F361%2F587%2Fnbc_pftpm_paidleavestatus_260902.jpg"
-      },
-      {
-        "title": "Shaq Mason won't be disciplined after 2025 arrest, remains a free agent",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shaq-mason-wont-be-disciplined-after-2025-arrest-remains-a-free-agent",
-        "summary": "Shaq Mason is ready to resume his career.",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 14:58:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/29397a9/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2Ff2%2F71ab45cc45769ec74ee85ab6b207%2F2185918748.jpg"
       }
     ]
   }
