@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T19:14:15.098Z",
+  "updated": "2026-09-04T21:30:20.934Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
-        "title": "Roland is getting into generative AI music with Melody Flip",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-        "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music.",
-        "source": "theverge.com",
-        "date": "2026-09-04T13:51:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
         "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
         "summary": "Broadcom admits it put “too big a focus on VCF.”",
         "source": "arstechnica.com",
         "date": "Fri, 04 Sep 2026 17:35:02 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
+      },
+      {
+        "title": "Why AI food looks like that",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+        "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food.",
+        "source": "theverge.com",
+        "date": "2026-09-04T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
@@ -77,20 +77,20 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg"
       },
       {
-        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-        "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-        "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new…",
+        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+        "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+        "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith.",
         "source": "theverge.com",
-        "date": "2026-09-04T12:05:57-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-04T06:44:15-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-        "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the…",
+        "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+        "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new…",
         "source": "theverge.com",
-        "date": "2026-09-04T09:34:12-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-04T06:41:48-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "S Taylor Rapp worked out for the Broncos",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/s-taylor-rapp-worked-out-for-the-broncos",
+        "summary": "When safety Taylor Rapp was released by the Broncos in August, the team left the door open for a return.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 17:07:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2820289/2147483647/strip/false/crop/4339x2441+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F36%2F6bfbc82a4f78ba4691fa15e363fa%2F2241224438.jpg"
+      },
+      {
+        "title": "Falcons sign LB Bralen Trice back to practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-sign-lb-bralen-trice-back-to-practice-squad",
+        "summary": "The Falcons signed linebacker Bralen Trice to the practice squad, the team announced.",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 16:44:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/41bfcd7/2147483647/strip/false/crop/3260x1834+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2F86%2Fe682f4ae4d51ab534fd107cf73fd%2F2231227463.jpg"
+      },
+      {
+        "title": "Sean McVay: I look at Stetson Bennett, Ty Simpson as \"2A, 2B\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-i-look-at-stetson-bennett-ty-simpson-as-2a-2b",
+        "summary": "The Rams released a depth chart that shows Stetson Bennett as the team's second quarterback and first-round pick Ty Simpson as their third quarterback, but head coach Sean McVay…",
+        "source": "nbcsports.com",
+        "date": "Fri, 04 Sep 2026 16:41:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d606817/2147483647/strip/false/crop/3173x1785+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2F35%2Fa4ca41e84d099c51547e241a5b54%2F2287235307.jpg"
+      },
       {
         "title": "Cowboys' captains: Kenny Clark, Quinnen Williams, Dak Prescott, Brandon Aubrey",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-captains-kenny-clark-quinnen-williams-dak-prescott-brandon-aubrey",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 04 Sep 2026 14:58:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/29397a9/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2Ff2%2F71ab45cc45769ec74ee85ab6b207%2F2185918748.jpg"
-      },
-      {
-        "title": "Report: Clemson tells LSU that use of former NFL players could breach game contract",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-clemson-tells-lsu-that-use-of-former-nfl-players-could-breach-game-contract",
-        "summary": "As the SEC and LSU continue to battle over whether the Tigers will use former NFL players in Saturday night's regular-season opener, LSU's opponent has chimed in.",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 14:54:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1a00ee6/2147483647/strip/false/crop/8256x4644+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2F5d%2F1a850a6446eba3c5b2ba36af4d77%2F2232932991.jpg"
-      },
-      {
-        "title": "The Falcons still don't have a starting quarterback (but will soon)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-falcons-still-dont-have-a-starting-quarterback-but-will-soon",
-        "summary": "With the first game of the season only nine days away, the Falcons still haven't named a starting quarterback.",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 14:32:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/25d077f/2147483647/strip/false/crop/7534x4238+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2F4f%2F2cfddfc4475783ff8b4a7ee7de1f%2F2290739255.jpg"
-      },
-      {
-        "title": "Aaron Donald's status for Week 1 still TBD, all players set to travel to Australia",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donalds-status-for-week-1-still-tbd-all-players-set-to-travel-to-australia",
-        "summary": "At this point, it's still unclear whether or not Aaron Donald will play when the Rams take on the 49ers next week to open the 2026 season.",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 14:21:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/31f57d6/2147483647/strip/false/crop/8080x4545+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2F53%2F170f81914bfb85d345214a74f87e%2F2026-08-31t155435z-1783927291-mt1usatoday29702239-rtrmadp-3-nfl-los-angeles-rams-aaron-donald-press-conference.jpg"
       }
     ]
   }
