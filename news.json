@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T05:44:03.886Z",
+  "updated": "2026-09-05T09:24:04.560Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "RedZone Channel is no longer commercial-free, but Scott Hanson promises fewer commercials",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/redzone-channel-is-no-longer-commercial-free-but-scott-hanson-promises-fewer-commercials",
+        "summary": "For years, host Scott Hanson introduced NFL RedZone Channel by welcoming viewers to \"Seven hours of commercial-free football.\"",
+        "source": "nbcsports.com",
+        "date": "Sat, 05 Sep 2026 04:20:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/46cc5f3/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F554%2F455%2Fnbc_pft_marksanchez_260904.jpg"
+      },
+      {
         "title": "LSU blinks, for now, on the issue of putting former NFL players on the roster",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lsu-blinks-for-now-on-the-issue-of-putting-former-nfl-players-on-the-roster",
         "summary": "Dae’Quan Wright and Zxavian Harris weren't added to the team by Friday's deadline.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 04 Sep 2026 20:03:15 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ef931ed/2147483647/strip/false/crop/4124x2320+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F87%2Ff3180d0944d9a592a145f203b87a%2F2292152698.jpg"
-      },
-      {
-        "title": "Eagles have seven captains, with none from special teams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-have-seven-captains-with-none-from-special-teams",
-        "summary": "Like last year, the Eagles have five offensive captains.",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 19:20:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/942a9ba/2147483647/strip/false/crop/4209x2368+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fc9%2F1bd1f3ae492dba37096fc777f63d%2F2256501053.jpg"
       }
     ]
   }
