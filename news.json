@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T09:24:04.560Z",
+  "updated": "2026-09-05T12:53:27.162Z",
   "feed": {
     "VR": [
       {
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "OpenAI admits to German wiki ‘incident’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.",
+        "source": "theverge.com",
+        "date": "2026-09-05T07:15:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
         "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
         "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
@@ -77,14 +85,6 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
       },
       {
-        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-        "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-        "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new…",
-        "source": "theverge.com",
-        "date": "2026-09-04T12:05:57-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
         "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
         "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
@@ -93,15 +93,31 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg"
       },
       {
-        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-        "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the…",
+        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+        "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+        "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new…",
         "source": "theverge.com",
-        "date": "2026-09-04T09:34:12-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-04T12:05:57-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
+      {
+        "title": "Deion Sanders didn't have to testify in the Shilo Sanders bankruptcy trial",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-didnt-have-to-testify-in-the-shilo-sanders-bankruptcy-trial",
+        "summary": "Thursday was a good day for Deion Sanders, on two counts.",
+        "source": "nbcsports.com",
+        "date": "Sat, 05 Sep 2026 08:19:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6fc9734/2147483647/strip/false/crop/3848x2165+0+200/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F67%2Fe82adbcb4fab8585c47a2b2ad27f%2F2293020125.jpg"
+      },
+      {
+        "title": "Miami Hurricanes linebacker Mohamed Toure starts his eighth year of college football",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/miami-hurricanes-linebacker-mohamed-toure-starts-his-eighth-year-of-college-football",
+        "summary": "As controversy about player eligibility embroils college football, LSU has decided not to play two former NFL players today.",
+        "source": "nbcsports.com",
+        "date": "Sat, 05 Sep 2026 05:37:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f808186/2147483647/strip/false/crop/4500x2531+0+375/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2Fa9%2F4f13d3c2466e9f3b7768b7343029%2F2293600505.jpg"
+      },
       {
         "title": "RedZone Channel is no longer commercial-free, but Scott Hanson promises fewer commercials",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/redzone-channel-is-no-longer-commercial-free-but-scott-hanson-promises-fewer-commercials",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 04 Sep 2026 23:38:39 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e4d7db6/2147483647/strip/false/crop/5000x2813+0+260/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2F17%2F18d578e44e28a11034192f20ac9b%2F2175547822.jpg"
-      },
-      {
-        "title": "After getting shot in February, 49ers DE Keion White is good to go",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-getting-shot-in-february-49ers-de-keion-white-is-good-to-go",
-        "summary": "The very strange 2026 for the 49ers included the February shooting of defensive end Keion White in a San Francisco bar and nightclub, which reportedly happened after the rapper Lil…",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 22:50:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/67297a8/2147483647/strip/false/crop/4212x2369+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F7b%2F4a3b16ea4e8b822dcb6385951678%2F2248918062.jpg"
-      },
-      {
-        "title": "Ongoing UNC investigation could take out Bill Belichick, for cause",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ongoing-unc-investigation-could-take-out-bill-belichick-with-cause",
-        "summary": "Question of whether Belichick knew about, and didn't report, certain issues under investigation could bring him down.",
-        "source": "nbcsports.com",
-        "date": "Fri, 04 Sep 2026 20:03:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ef931ed/2147483647/strip/false/crop/4124x2320+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F87%2Ff3180d0944d9a592a145f203b87a%2F2292152698.jpg"
       }
     ]
   }
