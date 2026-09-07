@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-07T04:34:40.906Z",
+  "updated": "2026-09-07T09:43:28.488Z",
   "feed": {
     "VR": [
+      {
+        "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
+        "url": "https://mixed-news.com/en/mit-put-a-robot-under-3-6-feet-of-arctic-ice-and-got-data-back-through-the-ice/",
+        "summary": "MIT researchers sent a remotely operated robot beneath 3.6 feet of Arctic ice and managed to transmit data through the frozen surface, a step toward sensor networks that could…",
+        "source": "mixed-news.com",
+        "date": "Mon, 07 Sep 2026 01:25:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
+      },
       {
         "title": "Pico Space Pro Appears To Receive FCC Certification Following Delay To Q4",
         "url": "https://www.uploadvr.com/pico-space-pro-appears-to-receive-fcc-certification-following-delay-to-q4/",
@@ -19,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/maxresdefault-13.jpg?resize=1280%2C720&quality=89&ssl=1"
       },
       {
-        "title": "Exclusive: This is the Samsung Galaxy S26 FE with AI features, and here are all three colours, inside and out",
-        "url": "https://mixed-news.com/en/exclusive-this-is-the-samsung-galaxy-s26-fe-with-ai-features-and-here-are-all-three-colours-inside-and-out/",
-        "summary": "We have obtained the complete retail asset pack for the Samsung Galaxy S26 FE (up to 150 images!), and it is the most comprehensive look at the phone anyone has published.",
+        "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
+        "url": "https://mixed-news.com/en/steam-frame-launch-looks-days-away-as-valve-quietly-prepares-reservations/",
+        "summary": "Valve still refuses to give us a Steam Frame release date, but the company has now started making the same backend changes that appeared shortly before Steam Machine reservations…",
         "source": "mixed-news.com",
-        "date": "Wed, 02 Sep 2026 11:53:13 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/S26-FE.jpg"
+        "date": "Mon, 07 Sep 2026 01:20:42 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/STeam-frame.jpg"
       },
       {
         "title": "Puzzling Places 5-Year Birthday Update Includes Weekly Puzzles & A Guest Pass",
@@ -41,14 +49,6 @@
         "source": "roadtovr.com",
         "date": "Thu, 03 Sep 2026 09:15:17 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/11/STEAM-LINK-meta-quest.jpg?resize=1440%2C810&quality=89&ssl=1"
-      },
-      {
-        "title": "Steam Frame Could Come With a Free Copy of Half-Life: Alyx",
-        "url": "https://mixed-news.com/en/steam-frame-could-come-with-a-free-copy-of-half-life-alyx/",
-        "summary": "Valve may have one very good reason for Steam Frame buyers to pick up the headset at launch: Half-Life: Alyx could be included for free.",
-        "source": "mixed-news.com",
-        "date": "Tue, 01 Sep 2026 16:30:25 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Half-Life-Alyx-screenshot-hands-up-at-metro-cop.jpg"
       }
     ],
     "AI": [
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Kyle Shanahan \"a little confused\" playing Friday in Australia, which is Thursday in America",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-a-little-confused-playing-friday-in-australia-which-is-thursday-in-america",
+        "summary": "\"I feel like I'm in the future,\" Shanahan said on Sunday. \"I call today Tuesday. No, wait, sorry, I call today Wednesday.\"",
+        "source": "nbcsports.com",
+        "date": "Mon, 07 Sep 2026 04:41:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eb8f530/2147483647/strip/false/crop/5100x2869+0+261/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2Ff7%2F3b7b433a42ad8b96fc83d5c20b6d%2F2293888551.jpg"
+      },
+      {
+        "title": "49ers' Sam Okuayinonu has \"bad injury\" to his foot, hopes to play by end of season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sam-okuayinonu-has-bad-injury-to-his-foot-hopes-to-play-by-end-of-season",
+        "summary": "When 49ers defensive lineman Sam Okuayinonu hurt his foot in the final practice before the team flight to Australia, there was hope that he could make a later flight and still play…",
+        "source": "nbcsports.com",
+        "date": "Mon, 07 Sep 2026 04:00:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/db226f0/2147483647/strip/false/crop/5642x3174+0+294/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcd%2F3f%2Fcfc18b2e4639a1feff9ef5a4f5a8%2F2256152746.jpg"
+      },
+      {
+        "title": "NFL's new three-strike system doesn't apply until the 2026 regular season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfls-new-three-strike-system-doesnt-apply-until-the-2026-regular-season",
+        "summary": "The NFL and the NFL Players Association have agreed to a new three-strike formula that will trigger automatic suspensions for repeated violations of five specific safety rules:…",
+        "source": "nbcsports.com",
+        "date": "Mon, 07 Sep 2026 01:09:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/47619b0/2147483647/strip/false/crop/4975x2798+0+226/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2F30%2F277262954621886bb19a9e846030%2F2290940734.jpg"
+      },
+      {
+        "title": "Kyle Shanahan expects Aaron Donald to play on Thursday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-expects-aaron-donald-to-play-on-thursday-night",
+        "summary": "Aaron Donald is back.",
+        "source": "nbcsports.com",
+        "date": "Mon, 07 Sep 2026 00:43:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/31f57d6/2147483647/strip/false/crop/8080x4545+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2F53%2F170f81914bfb85d345214a74f87e%2F2026-08-31t155435z-1783927291-mt1usatoday29702239-rtrmadp-3-nfl-los-angeles-rams-aaron-donald-press-conference.jpg"
+      },
+      {
         "title": "Kyle Shanahan expects 49ers fan takeover vs. Rams in Melbourne",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-expects-49ers-fan-takeover-vs-rams-in-melbourne",
         "summary": "49ers coach Kyle Shanahan has been salty about the Rams' desire to export a home game to Australia, in order to avoid yet another San Francisco-fan takeover of SoFi Stadium.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 06 Sep 2026 22:24:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c86be5e/2147483647/strip/false/crop/3471x1952+0+159/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2F11%2F52ca58f543d397092ed850af459f%2F2291785823.jpg"
-      },
-      {
-        "title": "Mike Macdonald on Terrion Arnold: He's in the building and learning",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-on-terrion-arnold-hes-in-the-building-and-learning",
-        "summary": "Seahawks cornerback Terrion Arnold starts the 2026 season on paid leave, due to eight felony charges arising from an alleged armed robbery and kidnapping.",
-        "source": "nbcsports.com",
-        "date": "Sun, 06 Sep 2026 21:34:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/231febe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F361%2F587%2Fnbc_pftpm_paidleavestatus_260902.jpg"
-      },
-      {
-        "title": "With opener looming, Rams DE Myles Garrett returns to practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-opener-looming-rams-de-myles-garrett-returns-to-practice",
-        "summary": "Knee injury had kept 2025 defensive player of the year out for a while.",
-        "source": "nbcsports.com",
-        "date": "Sun, 06 Sep 2026 21:23:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b386ef/2147483647/strip/false/crop/4928x2772+0+257/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F15%2Ff4660a7f4a97b8bb771ba413e86a%2F2287310739.jpg"
-      },
-      {
-        "title": "Brian Fleury embraces his first opportunity as an offensive coordinator",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-fleury-embraces-his-first-opportunity-as-an-offensive-coordinator",
-        "summary": "Brian Fleury's moment has arrived.",
-        "source": "nbcsports.com",
-        "date": "Sun, 06 Sep 2026 21:11:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/80c22e0/2147483647/strip/false/crop/3648x2052+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2Fc7%2Fb613879b4194a356106f34ac49d5%2F2292362804.jpg"
-      },
-      {
-        "title": "Giants extend guard Jon Runyan Jr. by two years",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-extend-guard-jon-runyan-jr-by-two-years",
-        "summary": "The Giants are using the last Sunday before the start of the 2026 regular season to take care of some internal business.",
-        "source": "nbcsports.com",
-        "date": "Sun, 06 Sep 2026 20:43:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e1565a8/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F3e%2F3748448c4bce8650bc4f37fc8c18%2F2244766742.jpg"
       }
     ]
   }
