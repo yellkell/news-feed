@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T22:21:08.629Z",
+  "updated": "2026-09-07T00:07:28.474Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI admits to German wiki ‘incident’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-        "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.",
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.",
         "source": "theverge.com",
-        "date": "2026-09-05T07:15:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-06T19:36:04-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
       },
       {
-        "title": "Roland is getting into generative AI music with Melody Flip",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-        "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music.",
+        "title": "OpenAI admits to German wiki ‘incident’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.",
         "source": "theverge.com",
-        "date": "2026-09-04T13:51:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-05T07:15:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
@@ -85,20 +85,20 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
       },
       {
+        "title": "Roland is getting into generative AI music with Melody Flip",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+        "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music.",
+        "source": "theverge.com",
+        "date": "2026-09-04T13:51:35-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
         "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
         "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
         "source": "arstechnica.com",
         "date": "Fri, 04 Sep 2026 17:18:12 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg"
-      },
-      {
-        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-        "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-        "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new…",
-        "source": "theverge.com",
-        "date": "2026-09-04T12:05:57-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       }
     ],
     "NFL": [
