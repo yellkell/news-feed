@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-08T00:22:40.055Z",
+  "updated": "2026-09-08T04:56:36.397Z",
   "feed": {
     "VR": [
       {
-        "title": "Museas & Astronoma On Apple Vision Pro Support Curiosity & Discovery",
-        "url": "https://www.uploadvr.com/museas-astronoma-on-apple-vision-pro-support-curiosity-discovery/",
-        "summary": "What makes exploring art and science in spatial apps so compelling? We look at Apple Vision Pro apps Museas and Astronoma to learn how to design for curiosity and discovery.",
+        "title": "FunFitLand Brings Live Heart Rate Tracking Into VR With New Phone App",
+        "url": "https://www.uploadvr.com/funfitland-brings-live-heart-rate-tracking-into-vr-with-new-phone-app/",
+        "summary": "FunFitLand's new smartphone app brings live heart rate data from compatible wearables directly into your VR workouts on Quest and Apple Vision Pro.",
         "source": "uploadvr.com",
-        "date": "Mon, 07 Sep 2026 16:28:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Moon.jpeg"
+        "date": "Mon, 07 Sep 2026 19:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/FunFitLand_Live_Heart_Rate_Key_Visual.png"
       },
       {
         "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/maxresdefault-13.jpg?resize=1280%2C720&quality=89&ssl=1"
       },
       {
-        "title": "Secret Of The Pyramid Builders Is An Educational VR Wonder",
-        "url": "https://www.uploadvr.com/secret-of-the-pyramid-builders-is-an-educational-vr-wonder/",
-        "summary": "Excurio's latest immersive VR experience, The Secret of the Pyramid Builders, is an educational wonder that explores how the Great Pyramids were built.",
+        "title": "Museas & Astronoma On Apple Vision Pro Support Curiosity & Discovery",
+        "url": "https://www.uploadvr.com/museas-astronoma-on-apple-vision-pro-support-curiosity-discovery/",
+        "summary": "What makes exploring art and science in spatial apps so compelling? We look at Apple Vision Pro apps Museas and Astronoma to learn how to design for curiosity and discovery.",
         "source": "uploadvr.com",
-        "date": "Mon, 07 Sep 2026 15:36:13 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/aR8WzWGnmrmGqE3Q_Insidethemastaba--TheSecretofthePyramidBuilders---Excurio.jpeg"
+        "date": "Mon, 07 Sep 2026 16:28:57 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Moon.jpeg"
       },
       {
         "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
@@ -103,6 +103,30 @@
     ],
     "NFL": [
       {
+        "title": "George Kittle \"in good shape\" to play season opener",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-in-good-shape-to-play-season-opener",
+        "summary": "Tight end George Kittle traveled with the 49ers to Australia, which was a sign he would play in Thursday night's season opener.",
+        "source": "nbcsports.com",
+        "date": "Mon, 07 Sep 2026 23:16:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b9b3be/2147483647/strip/false/crop/2954x1662+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2F4a%2F8f16bfcc4f2090ea0839a6efc722%2F2292702841.jpg"
+      },
+      {
+        "title": "Raheem Morris confirms Nick Bosa will play season opener",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raheem-morris-confirms-nick-bosa-will-play-season-opener",
+        "summary": "The 49ers defensive end tore his ACL in a Sept. 21 game against the Cardinals and underwent surgery Sept. 26.",
+        "source": "nbcsports.com",
+        "date": "Mon, 07 Sep 2026 22:13:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12360ff/2147483647/strip/false/crop/3999x2249+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2F88%2F822a52554ade8e339ddf79b9bc72%2F2287882334.jpg"
+      },
+      {
+        "title": "Aaron Donald mum on plans for season opener",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-mum-on-plans-for-season-opener",
+        "summary": "49ers coach Kyle Shanahan expects to see Aaron Donald on Thursday night, but like Rams defensive coordinator Chris Shula earlier Monday, the defensive tackle declined to reveal his…",
+        "source": "nbcsports.com",
+        "date": "Mon, 07 Sep 2026 20:24:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a6644a7/2147483647/strip/false/crop/8196x4610+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F18%2F6049bc1e4497a6048b0284638691%2F2026-08-31t155429z-1185233756-mt1usatoday29702238-rtrmadp-3-nfl-los-angeles-rams-aaron-donald-press-conference.jpg"
+      },
+      {
         "title": "Report: Three teams have reached out to Darius Slayton",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-three-teams-have-reached-out-to-darius-slayton",
         "summary": "The Giants released wide receiver Darius Slayton on Monday, making him a free agent.",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Mon, 07 Sep 2026 18:36:25 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f83421e/2147483647/strip/false/crop/5239x2947+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2F7d%2F3e0b3e084dbfbd9bbc95a5fee2e1%2F2290500820.jpg"
-      },
-      {
-        "title": "Darius Slayton: Grateful for time with Giants, excited to see what's next",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darius-slayton-grateful-for-time-with-giants-excited-to-see-whats-next",
-        "summary": "Wide receiver Darius Slayton's long run with the Giants came to an end on Monday.",
-        "source": "nbcsports.com",
-        "date": "Mon, 07 Sep 2026 18:10:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d00bb46/2147483647/strip/false/crop/5728x3222+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2Fb8%2F2ac767c84d5b936bbdf2a31a22cd%2F2243519597.jpg"
-      },
-      {
-        "title": "Titans LB Cedric Gray injured in off-road vehicle accident",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-lb-cedric-gray-injured-in-off-road-vehicle-accident",
-        "summary": "Titans linebacker Cedric Gray has entered the NFL's concussion protocol after being injured in an off-field accident over the weekend.",
-        "source": "nbcsports.com",
-        "date": "Mon, 07 Sep 2026 18:01:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/02bfc57/2147483647/strip/false/crop/6656x3744+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2Ffa%2F31c566ea4b069198fa9a306b0116%2F2250948472.jpg"
-      },
-      {
-        "title": "Rams DC Chris Shula: Everything's day by day with Aaron Donald",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-dc-chris-shula-everythings-day-by-day-with-aaron-donald",
-        "summary": "The Rams are moving closer to their trip to Australia for their season opener against the 49ers and it remains unclear if defensive tackle Aaron Donald is going to be on the field.",
-        "source": "nbcsports.com",
-        "date": "Mon, 07 Sep 2026 17:58:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b372c5/2147483647/strip/false/crop/8340x4691+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F6c%2Ff17d9c074dc39744ae6d60b42048%2F2026-08-31t052519z-1033848884-mt1usatoday29700930-rtrmadp-3-nfl-los-angeles-rams-aaron-donald-press-conference.jpg"
       }
     ]
   }
