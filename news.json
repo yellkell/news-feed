@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-08T13:44:40.625Z",
+  "updated": "2026-09-08T17:32:30.295Z",
   "feed": {
     "VR": [
+      {
+        "title": "VRChat Wins Its First Emmy With Uncanny Alley: A New Day Immersive Theatre Production",
+        "url": "https://www.uploadvr.com/vrchat-wins-its-first-emmy-with-uncanny-alley-a-new-day-immersive-theatre-production/",
+        "summary": "VRChat has won its first Emmy! The immersive theatre experience Uncanny Alley: A New Day took home the award for Outstanding Emerging Media Program.",
+        "source": "uploadvr.com",
+        "date": "Tue, 08 Sep 2026 09:30:13 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/1pMIz2Mwo6I-HD.jpg"
+      },
       {
         "title": "Pico Space Pro Clears FCC Following Cancelled September Reveal",
         "url": "https://roadtovr.com/pico-space-pro-fcc-cert-reveal-cancelled/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Tue, 08 Sep 2026 10:10:58 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/07/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "FunFitLand Brings Live Heart Rate Tracking Into VR With New Phone App",
-        "url": "https://www.uploadvr.com/funfitland-brings-live-heart-rate-tracking-into-vr-with-new-phone-app/",
-        "summary": "FunFitLand's new smartphone app brings live heart rate data from compatible wearables directly into your VR workouts on Quest and Apple Vision Pro.",
-        "source": "uploadvr.com",
-        "date": "Mon, 07 Sep 2026 19:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/FunFitLand_Live_Heart_Rate_Key_Visual.png"
       },
       {
         "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
       },
       {
-        "title": "Museas & Astronoma On Apple Vision Pro Support Curiosity & Discovery",
-        "url": "https://www.uploadvr.com/museas-astronoma-on-apple-vision-pro-support-curiosity-discovery/",
-        "summary": "What makes exploring art and science in spatial apps so compelling? We look at Apple Vision Pro apps Museas and Astronoma to learn how to design for curiosity and discovery.",
+        "title": "Tiny Flock, The New VR Game From The Makers Of Human: Fall Flat, Launches This Month",
+        "url": "https://www.uploadvr.com/tiny-flock-the-new-vr-game-from-the-makers-of-human-fall-flat-launches-this-month/",
+        "summary": "The creators of Human: Fall Flat have announced their next game, Tiny Flock, is coming this month.",
         "source": "uploadvr.com",
-        "date": "Mon, 07 Sep 2026 16:28:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Moon.jpeg"
+        "date": "Tue, 08 Sep 2026 09:29:03 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/slack-imgs.png"
       },
       {
         "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-        "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-        "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software.",
+        "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+        "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw.",
         "source": "theverge.com",
-        "date": "2026-09-08T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-08T13:27:31-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
       },
       {
-        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-        "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.",
+        "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+        "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating…",
         "source": "theverge.com",
-        "date": "2026-09-06T19:36:04-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-08T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
       },
       {
-        "title": "OpenAI admits to German wiki ‘incident’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-        "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.",
+        "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+        "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+        "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software.",
         "source": "theverge.com",
-        "date": "2026-09-05T07:15:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-08T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Brian Schottenheimer: We have \"great confidence\" in T.J. Bass replacing Tyler Smith",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-we-have-great-confidence-in-t-j-bass-replacing-tyler-smith",
-        "summary": "The Cowboys showed how much they valued T.J.",
+        "title": "Mike Tomlin on a possible return to coaching: \"Never say never\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-on-a-possible-return-to-coaching-never-say-never",
+        "summary": "As he embarks on TV career, Tomlin doesn't rule out a second act in the NFL.",
         "source": "nbcsports.com",
-        "date": "Tue, 08 Sep 2026 08:36:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/13d18be/2147483647/strip/false/crop/6962x3916+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2F4f%2Ff607fae7478293d71ddde31c02f6%2F2253278169.jpg"
+        "date": "Tue, 08 Sep 2026 13:15:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ac54b09/2147483647/strip/false/crop/5400x3038+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2Fb9%2F3443c6d94056b8d24754027ef201%2F2257078174.jpg"
       },
       {
-        "title": "C.J. Stroud: Pressure is a privilege",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-pressure-is-a-privilege",
-        "summary": "The Texans have gone to the playoffs in each of quarterback C.J.",
+        "title": "Rome Odunze dealing with foot injury, Bears hopeful he'll play Week 1",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rome-odunze-dealing-with-foot-injury-bears-hopeful-hell-play-week-1",
+        "summary": "Bears receiver Rome Odunze is dealing with a foot injury, but he may still be able to play in Sunday’s season opener against the Panthers.",
         "source": "nbcsports.com",
-        "date": "Tue, 08 Sep 2026 08:18:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4ef301a/2147483647/strip/false/crop/3778x2125+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F6e%2F677257b54d42b303f69cd45cf6ec%2F2291450576.jpg"
+        "date": "Tue, 08 Sep 2026 13:13:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/20c8556/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2F13%2Fc9cd81b34c278dd6987b24bcba48%2F2291246096.jpg"
       },
       {
-        "title": "JC Latham gives opponents a warning about what the Titans' offensive line won't allow",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jc-latham-gives-opponents-a-warning-about-what-the-titans-offensive-line-wont-allow",
-        "summary": "Titans offensive tackle JC Latham wants opposing teams to know they're not going to get away with any cheap shots on quarterback Cam Ward.",
+        "title": "SEC seeks authority to expel LSU",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sec-seeks-authority-to-expel-lsu",
+        "summary": "Even though LSU blinked for now on the issue of adding former NFL players to the roster for its first game of the 2026 season, the SEC wants to be able to blow the Tigers out of…",
         "source": "nbcsports.com",
-        "date": "Tue, 08 Sep 2026 06:17:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ba0c19a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F552%2F1003%2Fnbc_pft_robertsalah_260904.jpg"
+        "date": "Tue, 08 Sep 2026 12:56:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/893c34f/2147483647/strip/false/crop/7034x3957+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F4c%2F15e213b749e08eb5bd41dc900610%2F2253214150.jpg"
       },
       {
-        "title": "NFL fines Cam Taylor-Britt and four other players for preseason Week 3 infractions",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-fines-cam-taylor-britt-and-four-other-players-for-preseason-week-3-infractions",
-        "summary": "The NFL fines players for illegal hits during the preseason, but for the third and final week of the preseason, those fines were fairly limited.",
+        "title": "Breece Hall set to practice this week, \"trending towards playing\" against Titans",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-set-to-practice-this-week-trending-towards-playing-against-titans",
+        "summary": "Running back Breece Hall remains on the right path to be in the lineup for the Jets against the Titans in Week 1.",
         "source": "nbcsports.com",
-        "date": "Tue, 08 Sep 2026 05:49:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58e0ee1/2147483647/strip/false/crop/6501x3657+0+339/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2F1a%2F1397abbf41f3bc25d2245d779b04%2F2291412184.jpg"
+        "date": "Tue, 08 Sep 2026 12:22:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/da6a54a/2147483647/strip/false/crop/3029x1704+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F1e%2F9ef9bd6a4dfa85d58139c057acef%2F2289998287.jpg"
       },
       {
-        "title": "Seahawks pick different captains for each game, including Sam Darnold for Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-pick-different-captains-for-each-game-including-sam-darnold-for-week-1",
-        "summary": "When the Seahawks open the season on Wednesday night against the Patriots, quarterback Sam Darnold will be one of their captains.",
+        "title": "Brandon Graham says he's \"officially done\" playing football",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-graham-says-hes-officially-done-playing-football",
+        "summary": "Brandon Graham's first retirement was a brief one, but he says the second one will be a lasting exit from the football field.",
         "source": "nbcsports.com",
-        "date": "Tue, 08 Sep 2026 03:58:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/26ee47f/2147483647/strip/false/crop/7238x4071+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2F6d%2F5275e1a84625ae23aa6ad0383ce9%2F2292365195.jpg"
+        "date": "Tue, 08 Sep 2026 12:14:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/736333b/2147483647/strip/false/crop/7216x4059+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F37%2F9b433e1d4c57b516f55b162a510f%2F2254419563.jpg"
       },
       {
-        "title": "Christian Gonzalez, Patriots agree to four-year extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-patriots-agree-to-four-year-extension",
-        "summary": "Gonzalez has agreed to a deal that will make him the league's highest-paid corner, ending a contract dispute.",
+        "title": "Lamar Jackson: \"I don't feel like I have anything to prove to anyone but myself\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-i-dont-feel-like-i-have-anything-to-prove-to-anyone-but-myself",
+        "summary": "I feel great. I feel healthy, 100 percent healthy. I'm just ready to get after it,\" Jackson said.",
         "source": "nbcsports.com",
-        "date": "Tue, 08 Sep 2026 01:11:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c4b53b4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F818%2F119%2Fnbc_pft_christian_g_260908.jpg"
+        "date": "Tue, 08 Sep 2026 11:58:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/30d00c1/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2f%2F6b%2Fef88930940189b74d5945f793e02%2F2293048274.jpg"
       }
     ]
   }
