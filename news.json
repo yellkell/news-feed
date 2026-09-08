@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-08T09:19:31.532Z",
+  "updated": "2026-09-08T13:44:40.625Z",
   "feed": {
     "VR": [
+      {
+        "title": "Pico Space Pro Clears FCC Following Cancelled September Reveal",
+        "url": "https://roadtovr.com/pico-space-pro-fcc-cert-reveal-cancelled/",
+        "summary": "Pico’s upcoming Apple Vision Pro competitor, Space Pro, was initially meant to debut earlier this month, although the ByteDance subsidiary cancelled the event and postponed its…",
+        "source": "roadtovr.com",
+        "date": "Tue, 08 Sep 2026 10:10:58 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/07/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
       {
         "title": "FunFitLand Brings Live Heart Rate Tracking Into VR With New Phone App",
         "url": "https://www.uploadvr.com/funfitland-brings-live-heart-rate-tracking-into-vr-with-new-phone-app/",
@@ -17,14 +25,6 @@
         "source": "mixed-news.com",
         "date": "Mon, 07 Sep 2026 01:25:55 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
-      },
-      {
-        "title": "VR Design Unpacked: This Immersion Hack is Too Simple to Work So Well",
-        "url": "https://roadtovr.com/these-clever-tools-make-vr-way-more-immersive-inside-xr-design/",
-        "summary": "In Inside XR Design we examine specific examples of great VR design.",
-        "source": "roadtovr.com",
-        "date": "Fri, 04 Sep 2026 17:48:12 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/maxresdefault-13.jpg?resize=1280%2C720&quality=89&ssl=1"
       },
       {
         "title": "Museas & Astronoma On Apple Vision Pro Support Curiosity & Discovery",
@@ -43,22 +43,22 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/STeam-frame.jpg"
       },
       {
-        "title": "Steam Link for Quest Adds Wired USB-C Streaming in Public Beta",
-        "url": "https://roadtovr.com/steam-link-quest-wired-usb-update/",
-        "summary": "Valve has pushed an update to the Steam Link PC VR streaming app on Quest that finally includes the ability to play games via wired connection.",
+        "title": "VR Design Unpacked: This Immersion Hack is Too Simple to Work So Well",
+        "url": "https://roadtovr.com/these-clever-tools-make-vr-way-more-immersive-inside-xr-design/",
+        "summary": "In Inside XR Design we examine specific examples of great VR design.",
         "source": "roadtovr.com",
-        "date": "Thu, 03 Sep 2026 09:15:17 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/11/STEAM-LINK-meta-quest.jpg?resize=1440%2C810&quality=89&ssl=1"
+        "date": "Fri, 04 Sep 2026 17:48:12 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/08/maxresdefault-13.jpg?resize=1280%2C720&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-        "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.",
+        "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+        "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+        "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software.",
         "source": "theverge.com",
-        "date": "2026-09-06T19:36:04-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-08T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
       },
       {
-        "title": "OpenAI admits to German wiki ‘incident’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-        "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.",
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.",
         "source": "theverge.com",
-        "date": "2026-09-05T07:15:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-06T19:36:04-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
       },
       {
-        "title": "Roland is getting into generative AI music with Melody Flip",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-        "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music.",
+        "title": "OpenAI admits to German wiki ‘incident’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets.",
         "source": "theverge.com",
-        "date": "2026-09-04T13:51:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-05T07:15:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
@@ -102,6 +102,38 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Brian Schottenheimer: We have \"great confidence\" in T.J. Bass replacing Tyler Smith",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-we-have-great-confidence-in-t-j-bass-replacing-tyler-smith",
+        "summary": "The Cowboys showed how much they valued T.J.",
+        "source": "nbcsports.com",
+        "date": "Tue, 08 Sep 2026 08:36:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/13d18be/2147483647/strip/false/crop/6962x3916+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2F4f%2Ff607fae7478293d71ddde31c02f6%2F2253278169.jpg"
+      },
+      {
+        "title": "C.J. Stroud: Pressure is a privilege",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-pressure-is-a-privilege",
+        "summary": "The Texans have gone to the playoffs in each of quarterback C.J.",
+        "source": "nbcsports.com",
+        "date": "Tue, 08 Sep 2026 08:18:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4ef301a/2147483647/strip/false/crop/3778x2125+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F6e%2F677257b54d42b303f69cd45cf6ec%2F2291450576.jpg"
+      },
+      {
+        "title": "JC Latham gives opponents a warning about what the Titans' offensive line won't allow",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jc-latham-gives-opponents-a-warning-about-what-the-titans-offensive-line-wont-allow",
+        "summary": "Titans offensive tackle JC Latham wants opposing teams to know they're not going to get away with any cheap shots on quarterback Cam Ward.",
+        "source": "nbcsports.com",
+        "date": "Tue, 08 Sep 2026 06:17:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ba0c19a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F552%2F1003%2Fnbc_pft_robertsalah_260904.jpg"
+      },
+      {
+        "title": "NFL fines Cam Taylor-Britt and four other players for preseason Week 3 infractions",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-fines-cam-taylor-britt-and-four-other-players-for-preseason-week-3-infractions",
+        "summary": "The NFL fines players for illegal hits during the preseason, but for the third and final week of the preseason, those fines were fairly limited.",
+        "source": "nbcsports.com",
+        "date": "Tue, 08 Sep 2026 05:49:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58e0ee1/2147483647/strip/false/crop/6501x3657+0+339/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2F1a%2F1397abbf41f3bc25d2245d779b04%2F2291412184.jpg"
+      },
       {
         "title": "Seahawks pick different captains for each game, including Sam Darnold for Week 1",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-pick-different-captains-for-each-game-including-sam-darnold-for-week-1",
@@ -116,39 +148,7 @@
         "summary": "Gonzalez has agreed to a deal that will make him the league's highest-paid corner, ending a contract dispute.",
         "source": "nbcsports.com",
         "date": "Tue, 08 Sep 2026 01:11:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6074167/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F325%2F951%2Fnbc_pft_gonzales_260902.jpg"
-      },
-      {
-        "title": "George Kittle \"in good shape\" to play season opener",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-in-good-shape-to-play-season-opener",
-        "summary": "Tight end George Kittle traveled with the 49ers to Australia, which was a sign he would play in Thursday night's season opener.",
-        "source": "nbcsports.com",
-        "date": "Mon, 07 Sep 2026 23:16:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b9b3be/2147483647/strip/false/crop/2954x1662+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2F4a%2F8f16bfcc4f2090ea0839a6efc722%2F2292702841.jpg"
-      },
-      {
-        "title": "Raheem Morris confirms Nick Bosa will play season opener",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raheem-morris-confirms-nick-bosa-will-play-season-opener",
-        "summary": "The 49ers defensive end tore his ACL in a Sept. 21 game against the Cardinals and underwent surgery Sept. 26.",
-        "source": "nbcsports.com",
-        "date": "Mon, 07 Sep 2026 22:13:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12360ff/2147483647/strip/false/crop/3999x2249+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2F88%2F822a52554ade8e339ddf79b9bc72%2F2287882334.jpg"
-      },
-      {
-        "title": "Aaron Donald mum on plans for season opener",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-mum-on-plans-for-season-opener",
-        "summary": "49ers coach Kyle Shanahan expects to see Aaron Donald on Thursday night, but like Rams defensive coordinator Chris Shula earlier Monday, the defensive tackle declined to reveal his…",
-        "source": "nbcsports.com",
-        "date": "Mon, 07 Sep 2026 20:24:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a6644a7/2147483647/strip/false/crop/8196x4610+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F18%2F6049bc1e4497a6048b0284638691%2F2026-08-31t155429z-1185233756-mt1usatoday29702238-rtrmadp-3-nfl-los-angeles-rams-aaron-donald-press-conference.jpg"
-      },
-      {
-        "title": "Report: Three teams have reached out to Darius Slayton",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-three-teams-have-reached-out-to-darius-slayton",
-        "summary": "The Giants released wide receiver Darius Slayton on Monday, making him a free agent.",
-        "source": "nbcsports.com",
-        "date": "Mon, 07 Sep 2026 19:56:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50c3af3/2147483647/strip/false/crop/3510x1974+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2Fb1%2F8143a2384e0db9d6bd699599506c%2F2243519625.jpg"
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c4b53b4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F818%2F119%2Fnbc_pft_christian_g_260908.jpg"
       }
     ]
   }
