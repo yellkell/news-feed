@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T22:49:36.309Z",
+  "updated": "2026-09-09T00:55:35.843Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Why this month's Microsoft patch release is a doozy",
+        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+        "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+        "source": "arstechnica.com",
+        "date": "Tue, 08 Sep 2026 21:11:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+      },
+      {
         "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
         "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
         "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired.",
         "source": "theverge.com",
         "date": "2026-09-08T16:53:52-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-        "source": "arstechnica.com",
-        "date": "Fri, 04 Sep 2026 22:17:36 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
       },
       {
         "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-        "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-        "summary": "Broadcom admits it put “too big a focus on VCF.”",
+        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
         "source": "arstechnica.com",
-        "date": "Fri, 04 Sep 2026 17:35:02 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
+        "date": "Fri, 04 Sep 2026 22:17:36 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
       },
       {
         "title": "Meta bets on AI agent Muse to catch up in AI race",
@@ -93,15 +93,39 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-        "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-        "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+        "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+        "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+        "summary": "Broadcom admits it put “too big a focus on VCF.”",
         "source": "arstechnica.com",
-        "date": "Fri, 04 Sep 2026 17:18:12 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg"
+        "date": "Fri, 04 Sep 2026 17:35:02 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
       }
     ],
     "NFL": [
+      {
+        "title": "Myles Garrett ready for start of season despite lack of training camp reps",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-ready-for-start-of-season-despite-lack-of-training-camp-reps",
+        "summary": "Rams outside linebacker Myles Garrett did not practice Tuesday.",
+        "source": "nbcsports.com",
+        "date": "Tue, 08 Sep 2026 19:48:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/02031e7/2147483647/strip/false/crop/4189x2356+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F80%2F8c238710416b89a79d25951dae26%2F2287917294.jpg"
+      },
+      {
+        "title": "Myles Garrett did not practice before Rams' departure for Australia",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-did-not-practice-before-rams-departure-for-australia",
+        "summary": "Pass rusher Myles Garrett has not practiced much this summer because of knee swelling, and he did not practice Tuesday.",
+        "source": "nbcsports.com",
+        "date": "Tue, 08 Sep 2026 19:02:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3415ed/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F818%2F619%2Fnbc_pft_rams_sean_260908.jpg"
+      },
+      {
+        "title": "Dolphins LT Patrick Paul: Maxx Crosby is a hothead, have to get him off his game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-lt-patrick-paul-maxx-crosby-is-a-hothead-have-to-get-him-off-his-game",
+        "summary": "When the Dolphins hosted the Raiders in 2024, Raiders defensive end Maxx Crosby helped set up an early Miami touchdown by drawing an unnecessary roughness penalty for taking a…",
+        "source": "nbcsports.com",
+        "date": "Tue, 08 Sep 2026 18:46:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/57b9637/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2F4a%2F22b39e5f40aea3c96b13b6622310%2F2291621610.jpg"
+      },
       {
         "title": "Nick Bosa, George Kittle limited participants in practice",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-george-kittle-limited-participants-in-practice",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 08 Sep 2026 18:15:21 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b445036/2147483647/strip/false/crop/7509x4224+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F19%2Ff2%2Fa54b449544998dbf2f827dd08259%2F2191122194.jpg"
-      },
-      {
-        "title": "Sean McVay: Myles Garrett is ready to go against the 49ers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-myles-garrett-is-ready-to-go-against-the-49ers",
-        "summary": "Defensive tackle Aaron Donald won't be in the Rams' lineup when they take the field against the 49ers in Melbourne, Australia this week, but defensive end Myles Garrett will be on…",
-        "source": "nbcsports.com",
-        "date": "Tue, 08 Sep 2026 18:11:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c57076b/2147483647/strip/false/crop/7824x4401+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F49%2F5e97a9e144f3aeeb7360a36a387b%2F2287963092.jpg"
-      },
-      {
-        "title": "in 2017, John Harbaugh wanted Colin Kaepernick in Baltimore",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-2017-john-harbaugh-wanted-colin-kaepernick-in-baltimore",
-        "summary": "With former NFL quarterback Colin Kaepernick on the brink of releasing a new book, he's been talking a little more than usual as part of the promotion.",
-        "source": "nbcsports.com",
-        "date": "Tue, 08 Sep 2026 17:59:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a4eb3bf/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdb%2Fc9%2F01d2fbce4af388877c763e9ce011%2F1895097528.jpg"
-      },
-      {
-        "title": "Joe Burrow: I'm here for the long haul; I'm not going anywhere",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-im-here-for-the-long-haul-im-not-going-anywhere",
-        "summary": "Carson Palmer forced his way out of Cincinnati in 2011, requesting a trade and threatening to retire rather than play for the Bengals again.",
-        "source": "nbcsports.com",
-        "date": "Tue, 08 Sep 2026 17:35:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7f6af68/2147483647/strip/false/crop/4646x2613+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F91%2F0c%2F3d118de64b38a0a0a3da8745b6cb%2F1427277592.jpg"
       }
     ]
   }
