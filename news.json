@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-10T13:58:40.420Z",
+  "updated": "2026-09-10T17:31:54.190Z",
   "feed": {
     "VR": [
+      {
+        "title": "Breachers: Outbreak Effectively Canceled By Triangle Factory",
+        "url": "https://www.uploadvr.com/breachers-outbreak-canceled/",
+        "summary": "Co-op zombie shooter Breachers: Outbreak has been put on hold by Triangle Factory, effectively canceled, less than three months after its reveal.",
+        "source": "uploadvr.com",
+        "date": "Thu, 10 Sep 2026 10:23:07 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Thumbnail_NoPlatforms.png"
+      },
       {
         "title": "‘In Death: Unchained’ Gets New Season Starting This Month After 2 Years of Silence",
         "url": "https://roadtovr.com/in-death-unchained-new-season-quest-pico/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Thu, 10 Sep 2026 13:01:30 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2020/06/in-death-unchained.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Squingle Arcade Is Available Now For Free On PC VR",
-        "url": "https://www.uploadvr.com/squingle-arcade-available-now-on-pcvr/",
-        "summary": "Squingle Arcade, the follow up to the original fluid-maze-navigating puzzle game Squingle, is out now for PC VR.",
-        "source": "uploadvr.com",
-        "date": "Wed, 09 Sep 2026 17:14:39 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Squingle-Arcade---Key-Art--Landscape-.png"
       },
       {
         "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
@@ -27,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
       },
       {
+        "title": "Gunman Contracts: Stand Alone Early Access Review - Such Beautiful Violence",
+        "url": "https://www.uploadvr.com/gunman-contracts-stand-alone-early-access-review-such-beautiful-violence/",
+        "summary": "Gunman Contracts: Stand Alone, out now on Steam in Early Access, is disgusting, violent, and brutal. It's also one of the best VR shooters we've ever played.",
+        "source": "uploadvr.com",
+        "date": "Thu, 10 Sep 2026 10:14:23 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/gunman-contracts-header-image-21.jpg"
+      },
+      {
         "title": "‘No Man’s Sky’ Brings a Whole New Universe of Possibilities in Cosmos Update",
         "url": "https://roadtovr.com/no-mans-sky-cosmos-update-psvr-2-steam/",
         "summary": "Hello Games has released its biggest update yet to VR-supported space sim No Man’s Sky (2016), completely overhauling space itself.",
         "source": "roadtovr.com",
         "date": "Thu, 10 Sep 2026 10:47:46 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/no-mans-sky-7.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "The Lightkeepers Impressions: This Unique Co-op Tower Defense Wants You To Grind",
-        "url": "https://www.uploadvr.com/the-lightkeepers-vr-impressions-on-meta-quest/",
-        "summary": "The Lightkeepers, out this week on Quest 3, has a satisfying gameplay loop that somehow works despite no individual part of the game being exceptional on its own.",
-        "source": "uploadvr.com",
-        "date": "Wed, 09 Sep 2026 17:14:10 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-lightkeepersImpressions--1-.png"
       },
       {
         "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Mathematicians want proof OpenAI didn’t use their work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-        "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries.",
+        "title": "Universal Music is launching an AI music platform with ElevenLabs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+        "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on…",
         "source": "theverge.com",
-        "date": "2026-09-10T07:00:57-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-10T11:38:19-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
-        "title": "Suno releases its first AI music model made with record industry help",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-        "summary": "Suno's new v6 AI music model is its first made with support from the record industry.",
+        "title": "Meta’s Muse AI works and creeps me out",
+        "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+        "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools.",
         "source": "theverge.com",
-        "date": "2026-09-09T17:42:19-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-10T11:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Why this month's Microsoft patch release is a doozy",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
-        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-        "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph.",
+        "title": "Why the current tech backlash feels different",
+        "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+        "summary": "This interview has been lightly edited for length and clarity.",
         "source": "theverge.com",
-        "date": "2026-09-09T17:16:34-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-10T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Bryce Young: Contract's out of my control, I'm just about football",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-young-contracts-out-of-my-control-im-just-about-football",
-        "summary": "Panthers owner David Tepper weighed in on quarterback Bryce Young's future on Wednesday.",
+        "title": "Mike Macdonald: Sam Darnold's hip looks good, but we don't know how long he'll miss",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-sam-darnolds-hip-looks-good-but-we-dont-know-how-long-hell-miss",
+        "summary": "Seahawks quarterback Sam Darnold will miss some time with the hip injury that knocked him out of Wednesday night's game.",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 09:56:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2bbd3f1/2147483647/strip/false/crop/3150x1772+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2Fce%2F1995f5a24534a8bcde912d16a33d%2F2291226480.jpg"
+        "date": "Thu, 10 Sep 2026 13:00:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d0c469a/2147483647/strip/false/crop/5507x3098+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2F25%2F2b80d7a44f06805f10e24b9ae591%2F2293895240.jpg"
       },
       {
-        "title": "Sean McVay: Flight was great, guys seem fresh, we'll be ready to rock",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-flight-was-great-guys-seem-fresh-well-be-ready-to-rock",
-        "summary": "The Rams' flight to Melbourne landed on Thursday morning local time, which left them with about 28 hours to acclimate to Australia before their game against the 49ers gets…",
+        "title": "Report: Sam Darnold is expected to miss time, MRI under review",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-sam-darnold-is-expected-to-miss-time-mri-under-review",
+        "summary": "Signs continue to indicate that Seahawks quarterback Sam Darnold suffered a major injury during Wednesday's season opener.",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 09:23:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec1a56c/2147483647/strip/false/crop/4055x2281+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2F86%2Fdeb90c984b13a85c31072b6139dc%2F2294465820.jpg"
+        "date": "Thu, 10 Sep 2026 12:24:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/85dba4f/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2F20%2F1a8198114dbea3931143ee3e2f9e%2F2293890369.jpg"
       },
       {
-        "title": "Will Anderson on facing the Bills: An AFC Championship matchup",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-anderson-on-facing-the-bills-an-afc-championship-matchup",
-        "summary": "A perusal of the many published predictions for the 2026 season finds a lot of support for the Bills and Texans as two of the strongest teams in the AFC.",
+        "title": "Josh Jacobs pleads no contest to two misdemeanor charges",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobs-pleads-no-contest-to-two-misdemeanor-charges",
+        "summary": "Jacobs was placed on paid leave by the NFL last month.",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 08:56:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f7c664d/2147483647/strip/false/crop/8456x4757+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2F58%2F51e531a5444fb33e21dadd650890%2F2257292448.jpg"
+        "date": "Thu, 10 Sep 2026 12:21:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/db7e603/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F46%2Fd33de90a4a478b7f78a05f434458%2F2282391264.jpg"
       },
       {
-        "title": "Panthers restructure DL Tershawn Wharton's contract",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-restructure-dl-tershawn-whartons-contract",
-        "summary": "The Panthers have created some more cap room ahead of Week 1.",
+        "title": "Jets OC Frank Reich on Breece Hall: My mindset is if he's healthy, just play ball",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-oc-frank-reich-on-breece-hall-my-mindset-is-if-hes-healthy-just-play-ball",
+        "summary": "Jets running back Breece Hall was listed as a full participant in Wednesday's practice, which puts him on track to play against the Titans in Week 1 after missing a chunk of time…",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 08:10:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eb0f098/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F924%2F575%2Fnbc_pft_lsunews_260909.jpg"
+        "date": "Thu, 10 Sep 2026 12:09:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f79c4b1/2147483647/strip/false/crop/4738x2665+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2Fcf%2F190264c841e5bf7f2f94954cc06a%2F2243677712.jpg"
       },
       {
-        "title": "Harrison Smith: I kind of knew I'd be back the whole time",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/harrison-smith-i-kind-of-knew-id-be-back-the-whole-time",
-        "summary": "Vikings fans saluted Harrison Smith's entire career when he walked off the field at the end of Week 18 last season, but thoughts that it was the final time the safety would be on…",
+        "title": "Jahmyr Gibbs would \"for sure\" take himself first overall in a fantasy draft",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-would-for-sure-take-himself-first-overall-in-a-fantasy-draft",
+        "summary": "Lions running back Jahmyr Gibbs is a popular choice as the first overall pick in fantasy drafts, and he thinks he's the right choice.",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 07:14:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2e1af17/2147483647/strip/false/crop/5119x2879+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb7%2Fec%2F60ec036b4a27a5ee5fb031e24785%2F2260430566.jpg"
+        "date": "Thu, 10 Sep 2026 11:46:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fc5c230/2147483647/strip/false/crop/7525x4233+0+392/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2F97%2F8ee19c3d42c7bee1b2ef6b7711e8%2F2282782023.jpg"
       },
       {
-        "title": "Ernest Jones: When you think about Seattle, we want you to think about defense",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ernest-jones-when-you-think-about-seattle-we-want-you-to-think-about-defense",
-        "summary": "The Seahawks didn't put any points on the board until the fourth quarter on Wednesday night, but waiting to get the scoring started didn't keep them from coming up with a win.",
+        "title": "\"Strong possibility\" Tua Tagovailoa will be cut, if/when benched",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/strong-possibility-tua-tagovailoa-will-be-cut-if-when-benched",
+        "summary": "On Sunday, Falcons quarterback Tua Tagovailoa returns to the place where he made his last start with the Dolphins.",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 06:45:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/89f61a9/2147483647/strip/false/crop/4840x2723+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2Fac%2Fb4512e4e4298926a66f4d794295e%2F2293890428.jpg"
+        "date": "Thu, 10 Sep 2026 11:37:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8c9dc07/2147483647/strip/false/crop/4095x2303+0+246/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F26%2F25%2Fef37018a48669bd662e1a88b4031%2F2294302993.jpg"
       }
     ]
   }
