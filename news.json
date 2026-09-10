@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-09T22:45:26.067Z",
+  "updated": "2026-09-10T00:44:02.515Z",
   "feed": {
     "VR": [
       {
-        "title": "With Steam Frame Looming, No Man's Sky Adds PC VR Eye-Tracked Foveated Rendering",
-        "url": "https://www.uploadvr.com/no-mans-sky-adds-pc-vr-eye-tracked-foveated-rendering/",
-        "summary": "The new Cosmos update for No Man's Sky also adds eye-tracked foveated rendering on PC VR, boosting performance ahead of Valve's upcoming Steam Frame headset.",
+        "title": "Squingle Arcade Is Available Now For Free On PC VR",
+        "url": "https://www.uploadvr.com/squingle-arcade-available-now-on-pcvr/",
+        "summary": "Squingle Arcade, the follow up to the original fluid-maze-navigating puzzle game Squingle, is out now for PC VR.",
         "source": "uploadvr.com",
-        "date": "Wed, 09 Sep 2026 10:14:49 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/No-Man-s-Sky-foveated-rendering-PSVR2.png"
+        "date": "Wed, 09 Sep 2026 17:14:39 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Squingle-Arcade---Key-Art--Landscape-.png"
       },
       {
         "title": "TikTok Parent Reportedly Building AI Model to Rival Google’s Genie for Real-Time Spatial Video",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
       },
       {
-        "title": "Color-A-Cube Voxelizes Walkabout Mini Golf Courses In New Collab",
-        "url": "https://www.uploadvr.com/color-a-cube-voxelizes-walkabout-mini-golf-courses-in-new-collab/",
-        "summary": "Color-A-Cube has partnered with Walkabout Mini Golf for a four-week collaboration bringing four of Walkabout's courses into the voxel cube-coloring app.",
+        "title": "The Lightkeepers Impressions: This Unique Co-op Tower Defense Wants You To Grind",
+        "url": "https://www.uploadvr.com/the-lightkeepers-vr-impressions-on-meta-quest/",
+        "summary": "The Lightkeepers, out this week on Quest 3, has a satisfying gameplay loop that somehow works despite no individual part of the game being exceptional on its own.",
         "source": "uploadvr.com",
-        "date": "Wed, 09 Sep 2026 08:10:01 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/673759338_1615997353524812_129550227081992422_n.webp"
+        "date": "Wed, 09 Sep 2026 17:14:10 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-lightkeepersImpressions--1-.png"
       },
       {
         "title": "Pico Space Pro Clears FCC Following Cancelled September Reveal",
@@ -61,12 +61,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Why this month's Microsoft patch release is a doozy",
-        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-        "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+        "title": "4 groups caught using the same Chrome and Windows exploit kit",
+        "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+        "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
         "source": "arstechnica.com",
-        "date": "Tue, 08 Sep 2026 21:11:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+        "date": "Wed, 09 Sep 2026 20:55:02 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
         "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+        "title": "Why this month's Microsoft patch release is a doozy",
+        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+        "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
         "source": "arstechnica.com",
-        "date": "Fri, 04 Sep 2026 22:17:36 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
+        "date": "Tue, 08 Sep 2026 21:11:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
         "title": "Read the Apple document explaining how new listening features still protect your privacy",
@@ -93,15 +93,47 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-        "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-        "summary": "Broadcom admits it put “too big a focus on VCF.”",
+        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
         "source": "arstechnica.com",
-        "date": "Fri, 04 Sep 2026 17:35:02 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
+        "date": "Fri, 04 Sep 2026 22:17:36 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
       }
     ],
     "NFL": [
+      {
+        "title": "Rams land in Melbourne some 28 hours before kickoff",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-land-in-melbourne-some-28-hours-before-kickoff",
+        "summary": "The Rams landed in Melbourne at 7 a.m. local time ahead of their season opener against the 49ers.",
+        "source": "nbcsports.com",
+        "date": "Wed, 09 Sep 2026 20:25:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1e689f2/2147483647/strip/false/crop/4844x2725+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2Fef%2F7559ccf147c5b8818c90b68d5e7d%2F2291047118.jpg"
+      },
+      {
+        "title": "Eagles OLB Jonathan Greenard limited in Wednesday's practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-olb-jonathan-greenard-limited-in-wednesdays-practice",
+        "summary": "Outside linebacker Jonathan Greenard returned to practice on Wednesday, and the Eagles' practice report shows he was limited.",
+        "source": "nbcsports.com",
+        "date": "Wed, 09 Sep 2026 20:13:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7957c45/2147483647/strip/false/crop/3840x2160+0+392/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2Fe8%2Fb0d6c4b04c228b5444523b45bd23%2F2278775883.jpg"
+      },
+      {
+        "title": "Seahawks-Patriots inactives: S Nick Emmanwori will not play",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-patriots-inactives-s-nick-emmanwori-will-not-play",
+        "summary": "Safety Nick Emmanwori will not play the season opener tonight.",
+        "source": "nbcsports.com",
+        "date": "Wed, 09 Sep 2026 19:02:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ffd4732/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F924%2F575%2Fnbc_pft_patsoffensiveline_260909.jpg"
+      },
+      {
+        "title": "49ers DT James Thompson returns to limited work, while Nick Bosa, George Kittle remain limited",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-dt-james-thompson-returns-to-limited-work-while-nick-bosa-george-kittle-remain-limited",
+        "summary": "The 49ers had only one change to their injury report Wednesday: Defensive tackle James Thompson (hamstring) returned to limited work.",
+        "source": "nbcsports.com",
+        "date": "Wed, 09 Sep 2026 18:49:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7d5fa46/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe8%2F87%2Fdf05832149568dedccb6711bb908%2F2287894508.jpg"
+      },
       {
         "title": "George Pickens: Greg Newsome should feel how he feels, but we disagree",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-greg-newsome-should-feel-how-he-feels-but-we-disagree",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 09 Sep 2026 18:21:59 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e4dc100/2147483647/strip/false/crop/4894x2753+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1e%2F1c%2F3a1f467d4ff384908ca59a21c178%2F2253962389.jpg"
-      },
-      {
-        "title": "Packers list RT Zach Bako-Bewele, LG Aaron Banks, LT Jordan Morgan as limited in practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-list-rt-zach-bako-bewele-lg-aaron-banks-lt-jordan-morgan-as-limited-in-practice",
-        "summary": "A pair of starting offensive linemen landed on the Packers' first injury report ahead of Sunday's game in Minnesota.",
-        "source": "nbcsports.com",
-        "date": "Wed, 09 Sep 2026 17:59:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/25ed9da/2147483647/strip/false/crop/2407x1354+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2Fef%2Fabc910de415fac7299d0f1c83bb8%2F2243668619.jpg"
-      },
-      {
-        "title": "Jacory Croskey-Merritt, K'Lavon Chaisson, Odafe Oweh limited in Commanders practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacory-croskey-merritt-klavon-chaisson-odafe-oweh-limited-in-commanders-practice",
-        "summary": "The Commanders listed three of their starters as limited participants in practice on their first injury report of the 2026 season.",
-        "source": "nbcsports.com",
-        "date": "Wed, 09 Sep 2026 17:49:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e863df5/2147483647/strip/false/crop/4067x2288+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4b%2F4e%2F3db8291048aba3408750b71f3333%2F2253763060.jpg"
-      },
-      {
-        "title": "Doctors recommend Tyreek Hill hold off on coming back until October",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/doctors-recommend-tyreek-hill-hold-off-on-coming-back-until-october",
-        "summary": "Tyreek Hill will not be playing in the first week of the 2026 season and it looks like it will be some time before there's a chance of seeing the wide receiver back on an NFL…",
-        "source": "nbcsports.com",
-        "date": "Wed, 09 Sep 2026 17:42:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/da23202/2147483647/strip/false/crop/3923x2207+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F20%2Ff2%2Fa480602e485a8c5de305d4404a5e%2F2239960248.jpg"
-      },
-      {
-        "title": "Inside the new Baker Mayfield deal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-new-baker-mayfield-deal",
-        "summary": "Buccaneers quarterback Baker Mayfield has signed his new contract.",
-        "source": "nbcsports.com",
-        "date": "Wed, 09 Sep 2026 17:36:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/973da11/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2Ff3%2F75f584a74e13813d3481e5273031%2F2292888208.jpg"
       }
     ]
   }
