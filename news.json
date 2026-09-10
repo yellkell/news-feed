@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-10T09:55:00.642Z",
+  "updated": "2026-09-10T13:58:40.420Z",
   "feed": {
     "VR": [
+      {
+        "title": "‘In Death: Unchained’ Gets New Season Starting This Month After 2 Years of Silence",
+        "url": "https://roadtovr.com/in-death-unchained-new-season-quest-pico/",
+        "summary": "Award-winning rogue-lite bow-shooter In Death: Unchained (2020) isn’t dead, at least not with a new season coming later this month.",
+        "source": "roadtovr.com",
+        "date": "Thu, 10 Sep 2026 13:01:30 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2020/06/in-death-unchained.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
       {
         "title": "Squingle Arcade Is Available Now For Free On PC VR",
         "url": "https://www.uploadvr.com/squingle-arcade-available-now-on-pcvr/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Wed, 09 Sep 2026 17:14:39 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Squingle-Arcade---Key-Art--Landscape-.png"
-      },
-      {
-        "title": "TikTok Parent Reportedly Building AI Model to Rival Google’s Genie for Real-Time Spatial Video",
-        "url": "https://roadtovr.com/tiktok-bytedance-ai-model-google-genie-report/",
-        "summary": "TikTok parent ByteDance is reportedly preparing an AI model that could let you create real-time spatial videos similar to Google Genie.",
-        "source": "roadtovr.com",
-        "date": "Wed, 09 Sep 2026 10:44:59 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/bytedance.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
@@ -27,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
       },
       {
+        "title": "‘No Man’s Sky’ Brings a Whole New Universe of Possibilities in Cosmos Update",
+        "url": "https://roadtovr.com/no-mans-sky-cosmos-update-psvr-2-steam/",
+        "summary": "Hello Games has released its biggest update yet to VR-supported space sim No Man’s Sky (2016), completely overhauling space itself.",
+        "source": "roadtovr.com",
+        "date": "Thu, 10 Sep 2026 10:47:46 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/no-mans-sky-7.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "The Lightkeepers Impressions: This Unique Co-op Tower Defense Wants You To Grind",
         "url": "https://www.uploadvr.com/the-lightkeepers-vr-impressions-on-meta-quest/",
         "summary": "The Lightkeepers, out this week on Quest 3, has a satisfying gameplay loop that somehow works despite no individual part of the game being exceptional on its own.",
         "source": "uploadvr.com",
         "date": "Wed, 09 Sep 2026 17:14:10 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-lightkeepersImpressions--1-.png"
-      },
-      {
-        "title": "Pico Space Pro Clears FCC Following Cancelled September Reveal",
-        "url": "https://roadtovr.com/pico-space-pro-fcc-cert-reveal-cancelled/",
-        "summary": "Pico’s upcoming Apple Vision Pro competitor, Space Pro, was initially meant to debut earlier this month, although the ByteDance subsidiary cancelled the event and postponed its…",
-        "source": "roadtovr.com",
-        "date": "Tue, 08 Sep 2026 10:10:58 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2025/07/pico-logo-2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
@@ -53,15 +53,15 @@
     ],
     "AI": [
       {
-        "title": "Suno releases its first AI music model made with record industry help",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-        "summary": "Suno's new v6 AI music model is its first made with support from the record industry.",
+        "title": "Mathematicians want proof OpenAI didn’t use their work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+        "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries.",
         "source": "theverge.com",
-        "date": "2026-09-09T17:42:19-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-10T07:00:57-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "4 groups caught using the same Chrome and Windows exploit kit",
+        "title": "Four groups caught using the same Chrome and Windows exploit kit",
         "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
         "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
         "source": "arstechnica.com",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
-        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-        "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph.",
+        "title": "Suno releases its first AI music model made with record industry help",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+        "summary": "Suno's new v6 AI music model is its first made with support from the record industry.",
         "source": "theverge.com",
-        "date": "2026-09-09T17:16:34-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-09T17:42:19-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Why this month's Microsoft patch release is a doozy",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
-        "title": "Read the Apple document explaining how new listening features still protect your privacy",
-        "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-        "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music…",
+        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+        "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph.",
         "source": "theverge.com",
-        "date": "2026-09-09T16:44:43-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-09T17:16:34-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Jaxon Smith-Njigba had 122 of the Seahawks' 200 receiving yards, and Seattle's only TD",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxon-smith-njigba-had-122-of-the-seahawks-200-receiving-yards-and-seattles-only-td",
-        "summary": "\"It's not all on me,\" Smith-Njigba said. \"It's a team effort.\"",
+        "title": "Bryce Young: Contract's out of my control, I'm just about football",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-young-contracts-out-of-my-control-im-just-about-football",
+        "summary": "Panthers owner David Tepper weighed in on quarterback Bryce Young's future on Wednesday.",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 05:45:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12b69c2/2147483647/strip/false/crop/6594x3709+0+343/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F99%2F68f85119498b8b4791d23fff39a7%2F2293890402.jpg"
+        "date": "Thu, 10 Sep 2026 09:56:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2bbd3f1/2147483647/strip/false/crop/3150x1772+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2Fce%2F1995f5a24534a8bcde912d16a33d%2F2291226480.jpg"
       },
       {
-        "title": "Mike Vrabel: You can't throw three interceptions, Drake Maye knows that",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-you-cant-throw-three-interceptions-drake-maye-knows-that",
-        "summary": "Patriots coach Mike Vrabel pointed to quarterback Drake Maye's turnovers as the difference after losing to the Seahawks.",
+        "title": "Sean McVay: Flight was great, guys seem fresh, we'll be ready to rock",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-flight-was-great-guys-seem-fresh-well-be-ready-to-rock",
+        "summary": "The Rams' flight to Melbourne landed on Thursday morning local time, which left them with about 28 hours to acclimate to Australia before their game against the 49ers gets…",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 05:24:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d3cc063/2147483647/strip/false/crop/4962x2791+0+258/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Fbe%2F5c2c5c4d43e387d171c7fcd58526%2F2294435393.jpg"
+        "date": "Thu, 10 Sep 2026 09:23:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec1a56c/2147483647/strip/false/crop/4055x2281+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2F86%2Fdeb90c984b13a85c31072b6139dc%2F2294465820.jpg"
       },
       {
-        "title": "Drake Maye: My bad decisions cost us the game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-my-bad-decisions-cost-us-the-game",
-        "summary": "\"That wasn't how I play football and how I want to represent my game and playing quarterback for the Patriots,\" Maye said after losing to the Seahawks.",
+        "title": "Will Anderson on facing the Bills: An AFC Championship matchup",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-anderson-on-facing-the-bills-an-afc-championship-matchup",
+        "summary": "A perusal of the many published predictions for the 2026 season finds a lot of support for the Bills and Texans as two of the strongest teams in the AFC.",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 04:11:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c9a3603/2147483647/strip/false/crop/3484x1960+0+181/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2Fb7%2Ff56f31f04dcab8fe67d413230259%2F2294436960.jpg"
+        "date": "Thu, 10 Sep 2026 08:56:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f7c664d/2147483647/strip/false/crop/8456x4757+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2F58%2F51e531a5444fb33e21dadd650890%2F2257292448.jpg"
       },
       {
-        "title": "Report: Deshaun Watson was cited for speeding on August 26",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-deshaun-watson-was-cited-for-speeding-on-august-26",
-        "summary": "The eventful month for Browns quarterback Deshaun Watson included a speeding ticket, two days after he was named the starter.",
+        "title": "Panthers restructure DL Tershawn Wharton's contract",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-restructure-dl-tershawn-whartons-contract",
+        "summary": "The Panthers have created some more cap room ahead of Week 1.",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 00:24:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/277d088/2147483647/strip/false/crop/7892x4439+0+411/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2F4c%2Fb861901c4ff190ccee7bb6eb9d9d%2F2292575967.jpg"
+        "date": "Thu, 10 Sep 2026 08:10:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eb0f098/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F924%2F575%2Fnbc_pft_lsunews_260909.jpg"
       },
       {
-        "title": "Mike Macdonald: Sam Darnold did not suffer hip fracture, more tests to come",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-sam-darnold-did-not-suffer-hip-fracture-more-tests-to-come",
-        "summary": "The Seahawks received some positive news on quarterback Sam Darnold, but the extent of his hip injury is still unclear.",
+        "title": "Harrison Smith: I kind of knew I'd be back the whole time",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/harrison-smith-i-kind-of-knew-id-be-back-the-whole-time",
+        "summary": "Vikings fans saluted Harrison Smith's entire career when he walked off the field at the end of Week 18 last season, but thoughts that it was the final time the safety would be on…",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 00:04:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b908ee/2147483647/strip/false/crop/4932x2774+0+82/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2F4f%2F8e68e42f4ab6a691bcb45e9142c7%2F2294421968.jpg"
+        "date": "Thu, 10 Sep 2026 07:14:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2e1af17/2147483647/strip/false/crop/5119x2879+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb7%2Fec%2F60ec036b4a27a5ee5fb031e24785%2F2260430566.jpg"
       },
       {
-        "title": "Mike Vrabel had no postgame update on A.J. Brown",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-had-no-postgame-update-on-a-j-brown",
-        "summary": "It's still unclear what kind of injury and recovery Patriots receiver A.J.",
+        "title": "Ernest Jones: When you think about Seattle, we want you to think about defense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ernest-jones-when-you-think-about-seattle-we-want-you-to-think-about-defense",
+        "summary": "The Seahawks didn't put any points on the board until the fourth quarter on Wednesday night, but waiting to get the scoring started didn't keep them from coming up with a win.",
         "source": "nbcsports.com",
-        "date": "Wed, 09 Sep 2026 23:46:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9e8ff9/2147483647/strip/false/crop/7828x4403+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2F8e%2F0bceb9e14a06832f7a507b379820%2F2293877385.jpg"
+        "date": "Thu, 10 Sep 2026 06:45:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/89f61a9/2147483647/strip/false/crop/4840x2723+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2Fac%2Fb4512e4e4298926a66f4d794295e%2F2293890428.jpg"
       }
     ]
   }
