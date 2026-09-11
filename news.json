@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T09:44:06.991Z",
+  "updated": "2026-09-11T13:50:07.599Z",
   "feed": {
     "VR": [
       {
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "ClickFix attacks infecting PCs and Macs are going viral",
+        "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+        "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+        "source": "arstechnica.com",
+        "date": "Fri, 11 Sep 2026 11:30:58 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
+      },
+      {
         "title": "Slack can now vibe-code interactive charts and reports inside chats",
         "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
         "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat.",
         "source": "theverge.com",
         "date": "2026-09-10T17:25:21-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Four groups caught using the same Chrome and Windows exploit kit",
-        "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-        "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
-        "source": "arstechnica.com",
-        "date": "Wed, 09 Sep 2026 20:55:02 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
         "title": "Schools are catching on to Big Tech’s playbook",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Why this month's Microsoft patch release is a doozy",
-        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-        "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+        "title": "Four groups caught using the same Chrome and Windows exploit kit",
+        "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+        "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
         "source": "arstechnica.com",
-        "date": "Tue, 08 Sep 2026 21:11:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+        "date": "Wed, 09 Sep 2026 20:55:02 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
         "title": "Universal Music is launching an AI music platform with ElevenLabs",
@@ -93,62 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-        "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+        "title": "Why this month's Microsoft patch release is a doozy",
+        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+        "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
         "source": "arstechnica.com",
-        "date": "Fri, 04 Sep 2026 22:17:36 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
+        "date": "Tue, 08 Sep 2026 21:11:46 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Myles Garrett: \"This was the worst version of myself that I've put out there\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-this-was-the-worst-version-of-myself-that-ive-put-out-there",
-        "summary": "Garrett said he needs to get healthy after missing most of training camp with a knee injury.",
+        "title": "Jonathan Greenard feels \"close,\" but Eagles' plan for Sunday remains unknown",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-greenard-feels-close-but-eagles-plan-for-sunday-remains-unknown",
+        "summary": "Linebacker Jonathan Greenard has been practicing for the Eagles this week, but it remains unclear whether he'll be on the field against the Commanders on Sunday.",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 04:41:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1c017fb/2147483647/strip/false/crop/5454x3068+0+284/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F76%2Ff3393f534587af9dd781a2ae0f15%2F2294592589.jpg"
+        "date": "Fri, 11 Sep 2026 09:28:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c939c51/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F441%2F167%2Fnbc_pft_jalenhurts_260903.jpg"
       },
       {
-        "title": "49ers tight end Jake Tonges suffers MCL injury, Kyle Shanahan says \"it wasn't good\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-tight-end-jake-tonges-suffers-mcl-injury-kyle-shanahan-says-it-wasnt-good",
-        "summary": "49ers tight end Jake Tonges left Thursday night's win over the Rams with a knee injury, and coach Kyle Shanahan offered an ominous update after the game.",
+        "title": "Packers DC Jonathan Gannon: Kyler Murray can wreck games if you're not coordinated",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-dc-jonathan-gannon-kyler-murray-can-wreck-games-if-youre-not-coordinated",
+        "summary": "The Jonathan Gannon-Kyler Murray partnership in Arizona ended with both men moving on after the 2025 season, but they'll be back together for the first game of their new starts.",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 03:56:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/154b99c/2147483647/strip/false/crop/5759x3239+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Fd1%2F20d97a804464b5ff95bf36342b5f%2F2294073740.jpg"
+        "date": "Fri, 11 Sep 2026 08:03:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/74ad1a1/2147483647/strip/false/crop/3790x2132+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F4f%2F48cb587648c7b3d28438f477bb3e%2F2237422121.jpg"
       },
       {
-        "title": "49ers WR De'Zhaun Stribling's Achilles is intact, to undergo MRI on ankle",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wr-dezhaun-striblings-achilles-is-intact-to-undergo-mri-on-ankle",
-        "summary": "The way 49ers wide receiver De'Zhaun Stribling suddenly ended his route and started limping on one leg had everyone thinking the worst.",
+        "title": "Matthew Stafford rarely succeeds on quarterback sneaks, but Rams tried one anyway",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-rarely-succeeds-on-quarterback-sneaks-but-rams-tried-one-anyway",
+        "summary": "With the Rams facing fourth-and-goal at the 1-yard line on Thursday night, Matthew Stafford attempted a quarterback sneak.",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 00:23:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/850d81b/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2F2c%2F398c948c4b5e905c7fca8f15d537%2F2294601016.jpg"
+        "date": "Fri, 11 Sep 2026 07:32:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7aa264c/2147483647/strip/false/crop/5572x3134+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fab%2F0f%2F2daa54f04adcae588f858626ca52%2F2026-09-11t030230z-655426645-mt1usatoday29784009-rtrmadp-3-nfl-san-francisco-49ers-at-los-angeles-rams.jpg"
       },
       {
-        "title": "Cowboys agree to terms with WR Ryan Flournoy on one-year extension",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-agree-to-terms-with-wr-ryan-flournoy-on-one-year-extension",
-        "summary": "The Cowboys have agreed to terms with wide receiver Ryan Flournoy on a one-year contract extension, according to Jordan Schultz of The Schultz Report.",
+        "title": "Fred Warner felt the Rams \"withered away\" as game went on",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fred-warner-felt-the-rams-withered-away-as-game-went-on",
+        "summary": "The Rams took a 7-3 lead over the 49ers on the first play of the second quarter on Thursday night, but it was not a sign that things were going to go their way for the rest of…",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 00:12:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c58eca4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F820%2F571%2Fnbc_pft_tyler_s_260908.jpg"
+        "date": "Fri, 11 Sep 2026 06:58:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/892e9ab/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2F22%2F84bb56ef410b9bfa545f6f1bab7f%2F2294615642.jpg"
       },
       {
-        "title": "Sean McVay: \"This will define us only if we allow it to\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-this-will-define-us-only-if-we-allow-it-to",
-        "summary": "Something happened on the road to a perfect season for the Rams.",
+        "title": "Kyle Shanahan: I love calling plays for Mike Evans",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-i-love-calling-plays-for-mike-evans",
+        "summary": "Mike Evans built his career with the Buccaneers on being the guy quarterbacks looked to on third down and in the red zone, and it didn't take long for him to take on the same role…",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 23:57:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10f82eb/2147483647/strip/false/crop/4004x2252+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2F4f%2Fcad0e35341fc80610164f1dabc26%2F2294611431.jpg"
+        "date": "Fri, 11 Sep 2026 06:39:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b238ce9/2147483647/strip/false/crop/6206x3491+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F91%2Ff8cb8ea047cd88aae348f396e470%2F2294605167.jpg"
       },
       {
-        "title": "The 49ers-Rams travel question won't be fully resolved until Week 2, or beyond",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-49ers-rams-travel-question-wont-be-fully-resolved-until-week-2-or-beyond",
-        "summary": "Based on Thursday night's smothering down under by the 49ers against the Rams, it appears that San Francisco's early-arrival approach worked better than the Rams' strategy of…",
+        "title": "Kyle Shanahan: Win or lose, everyone would make a big deal about our travel schedules",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-win-or-lose-everyone-would-make-a-big-deal-about-our-travel-schedules",
+        "summary": "The 49ers and Rams took opposite approaches to the longest road trip in NFL history: The 49ers arrived in Australia a full week early to give themselves time to acclimate.",
         "source": "nbcsports.com",
-        "date": "Thu, 10 Sep 2026 23:43:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/93d2c0f/2147483647/strip/false/crop/5648x3177+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F94%2Fd9%2Fc4ec2ad84dd4950718683da265a6%2F2294596456.jpg"
+        "date": "Fri, 11 Sep 2026 05:59:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f249c4d/2147483647/strip/false/crop/6863x3860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F97%2F7981fa5547c2978226d71ab98ac5%2F2294615806.jpg"
       }
     ]
   }
