@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T17:26:25.832Z",
+  "updated": "2026-09-11T19:54:55.957Z",
   "feed": {
     "VR": [
       {
@@ -53,14 +53,6 @@
     ],
     "AI": [
       {
-        "title": "Anthropic spent this week in hot water over cybersecurity",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-        "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the…",
-        "source": "theverge.com",
-        "date": "2026-09-11T12:09:14-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
         "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
         "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
@@ -69,12 +61,20 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-        "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported…",
+        "title": "Slack can now vibe-code interactive charts and reports inside chats",
+        "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+        "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat.",
         "source": "theverge.com",
-        "date": "2026-09-11T10:25:21-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-10T17:25:21-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Schools are catching on to Big Tech’s playbook",
+        "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+        "summary": "It's the hot new thing in tech, and it's where all the jobs are.",
+        "source": "theverge.com",
+        "date": "2026-09-10T15:44:20-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
-        "title": "Slack can now vibe-code interactive charts and reports inside chats",
-        "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-        "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat.",
+        "title": "Universal Music is launching an AI music platform with ElevenLabs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+        "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on…",
         "source": "theverge.com",
-        "date": "2026-09-10T17:25:21-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-10T11:38:19-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Why this month's Microsoft patch release is a doozy",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Dan Quinn: All players on 53-man roster cleared to play Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-all-players-on-53-man-roster-cleared-to-play-week-1",
-        "summary": "Commanders head coach Dan Quinn delivered some positive injury news on Friday.",
+        "title": "Todd Monken on Deshaun Watson: \"I really like where he's at\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-on-deshaun-watson-i-really-like-where-hes-at",
+        "summary": "On Sunday, Deshaun Watson will make his first start in almost two years when the Browns take on the Jaguars.",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 13:09:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/73cd1b3/2147483647/strip/false/crop/5189x2919+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2Fa8%2Fe8707eb448668ed07db9fd29ed08%2F2253762447.jpg"
+        "date": "Fri, 11 Sep 2026 15:52:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c6f7e7c/2147483647/strip/false/crop/7391x4157+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc7%2Ffa%2F622a3f8d49ff9b9becbec931e3e0%2F2292366891.jpg"
       },
       {
-        "title": "Patriots to put A.J. Brown on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-patriots-to-put-a-j-brown-on-injured-reserve",
-        "summary": "Brown will miss at least four games with a high-ankle sprain.",
+        "title": "Bears, D'Andre Swift agree to three-year contract extension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-dandre-swift-agree-to-three-year-contract-extension",
+        "summary": "Bears running back D'Andre Swift will kick off the new season with a new contract.",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 12:50:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/562e47c/2147483647/strip/false/crop/4070x2289+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F55%2Ffd174bb04d80bd65c64b72d15f27%2F2294428336.jpg"
+        "date": "Fri, 11 Sep 2026 15:45:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c366b90/2147483647/strip/false/crop/4498x2530+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F49%2F5431fbd4434c8661465ec208ff60%2F2264635872.jpg"
       },
       {
-        "title": "Tua Tagovailoa absent from open portion of Falcons practice Friday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-absent-from-open-portion-of-falcons-practice-friday",
-        "summary": "Cooper Rush may be starting against the Steelers in Week 1.",
+        "title": "Texans place second-round pick Kayden McDonald on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-place-second-round-pick-kayden-mcdonald-on-ir",
+        "summary": "Texans second-round pick Kayden McDonald won't be making his NFL debut in September.",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 12:33:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/279c9be/2147483647/strip/false/crop/4189x2356+0+269/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2Fa2%2Fbc797e3048ed9658024f60a335aa%2F2294304714.jpg"
+        "date": "Fri, 11 Sep 2026 15:29:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/468192a/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F5a%2F79a069614a63b0c9836739a89fc6%2F2292612718.jpg"
       },
       {
-        "title": "NFLPA names Laremy Tunsil their Community MVP for Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-names-laremy-tunsil-their-community-mvp-for-week-1",
-        "summary": "The NFL Players Association announced on Friday that Commanders offensive tackle Laremy Tunsil has been named their Community MVP for Week 1 of the 2026 season.",
+        "title": "Shemar Stewart doubtful, Ja'Marr Chase and Tee Higgins set to play Week 1",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shemar-stewart-doubtful-jamarr-chase-and-tee-higgins-set-to-play-week-1",
+        "summary": "The Bengals are unlikely to have defensive end Shemar Stewart for Sunday's season opener against the Buccaneers, but the rest of their 53-man roster is healthy to play — including…",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 12:27:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/35e679b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F917%2F319%2Fnbc_pft_commanderslogo_260828.jpg"
+        "date": "Fri, 11 Sep 2026 15:26:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9edc67b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F164%2F239%2Fnbc_pft_playoffmeter_260911.jpg"
       },
       {
-        "title": "LB Cedric Gray out for the Titans in Week 1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lb-cedric-gray-out-for-the-titans-in-week-1",
-        "summary": "The Titans will play without linebacker Cedric Gray this weekend.",
+        "title": "RB Malik Davis carted off at Cowboys practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-malik-davis-carted-off-at-cowboys-practice",
+        "summary": "The Cowboys may need to pivot to a new plan for their offensive backfield ahead of Sunday night's game against the Giants.",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 11:58:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f83f0db/2147483647/strip/false/crop/6797x3823+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F69%2F105754ea4ac5bc692012f3dccea4%2F2250948143.jpg"
+        "date": "Fri, 11 Sep 2026 15:22:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b809e6c/2147483647/strip/false/crop/4102x2307+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F69%2Ffb22af434c14af7215017f3466f2%2F2291644563.jpg"
       },
       {
-        "title": "Jets rule out Joseph Ossai, list second-rounder D'Angelo Ponds as doubtful for Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-rule-out-joseph-ossai-list-second-rounder-dangelo-ponds-as-doubtful-for-sunday",
-        "summary": "A couple of new Jets will likely have to wait at least another week before making their debut for the team.",
+        "title": "Rome Odunze, Xavier Woods questionable for Bears vs. Panthers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rome-odunze-xavier-woods-questionable-for-bears-vs-panthers",
+        "summary": "Two Bears starters are questionable for Sunday's opener against the Panthers.",
         "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 11:49:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/615689d/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2Fe3%2Fdf8e2f644da7954b6b9b7cd5313d%2F2293177237.jpg"
+        "date": "Fri, 11 Sep 2026 15:12:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/413ed07/2147483647/strip/false/crop/4481x2521+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Fbc%2Fb017750f4a00a31a07aa0f7cdc36%2F2287510676.jpg"
       }
     ]
   }
