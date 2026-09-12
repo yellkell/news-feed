@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-11T22:07:38.164Z",
+  "updated": "2026-09-12T00:15:35.871Z",
   "feed": {
     "VR": [
       {
-        "title": "iPhone Duo Seemingly Can't Capture Spatial Photos Or Video",
-        "url": "https://www.uploadvr.com/iphone-duo-seemingly-cant-capture-spatial-photos-or-video/",
-        "summary": "Apple's $2000 iPhone Duo has two rear cameras, but seemingly can't capture spatial photos or video for viewing on Apple Vision Pro.",
+        "title": "Moss VR Developer Polyarc Games Has Shut Down",
+        "url": "https://www.uploadvr.com/moss-vr-developer-polyarc-games-has-shut-down/",
+        "summary": "Polyarc Games, the developer of the two Moss VR games and Glassbreakers: Champions of Moss, has shut down.",
         "source": "uploadvr.com",
-        "date": "Fri, 11 Sep 2026 14:15:11 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/iPhone-Duo-pointing-camera-crop.png"
+        "date": "Fri, 11 Sep 2026 15:20:49 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-polyarc-shutdown.png"
       },
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
       },
       {
-        "title": "Real VR Fishing Celebrates 7th Anniversary With Prehistoric Sharks Event",
-        "url": "https://www.uploadvr.com/real-vr-fishing-celebrates-7th-anniversary-with-prehistoric-sharks-event/",
-        "summary": "Real VR Fishing's seventh anniversary event kicks off Sept 15 on Quest and PC VR, bringing seven ancient sharks to hidden prehistoric locations for anglers to hook!",
+        "title": "iPhone Duo Seemingly Can't Capture Spatial Photos Or Video",
+        "url": "https://www.uploadvr.com/iphone-duo-seemingly-cant-capture-spatial-photos-or-video/",
+        "summary": "Apple's $2000 iPhone Duo has two rear cameras, but seemingly can't capture spatial photos or video for viewing on Apple Vision Pro.",
         "source": "uploadvr.com",
-        "date": "Fri, 11 Sep 2026 07:08:52 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/7th-Anniv_Banner_2560_1440.png"
+        "date": "Fri, 11 Sep 2026 14:15:11 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/iPhone-Duo-pointing-camera-crop.png"
       },
       {
         "title": "Meta’s Next-gen MR Headset Appears to Have Leaked Ahead of Connect",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Titans claim G Atonio Mafi off of waivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-claim-g-atonio-mafi-off-of-waivers",
+        "summary": "The Titans tweaked their offensive line ahead of Sunday's game against the Jets.",
+        "source": "nbcsports.com",
+        "date": "Fri, 11 Sep 2026 18:29:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9903d03/2147483647/strip/false/crop/3809x2143+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2Fa1%2F17c411d348ec95d17ee5561dd4bc%2F2290775079.jpg"
+      },
+      {
         "title": "Free agent LB Xavier Thomas suspended three games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-lb-xavier-thomas-suspended-three-games",
         "summary": "The NFL has suspended free agent linebacker Xavier Thomas for the first three weeks of the season, according to the league's personnel notice.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 11 Sep 2026 16:54:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/d98b68e/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2Fe2%2F73dfca034a3790ede886a32c2943%2F2254859350.jpg"
-      },
-      {
-        "title": "Lions release DL Levi Onwuzurike",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-release-dl-levi-onwuzurike",
-        "summary": "The Lions dropped a player from their active roster on Friday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 16:41:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2630a93/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F925%2F551%2Fnbc_pft_sbpredictions_260909.jpg"
       }
     ]
   }
