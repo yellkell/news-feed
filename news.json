@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T20:24:37.146Z",
+  "updated": "2026-09-12T22:26:09.239Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-        "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to…",
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host.",
         "source": "theverge.com",
-        "date": "2026-09-12T12:23:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-12T17:41:36-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Trump is giving data centers a pass to pollute",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-        "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former…",
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+        "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune.",
         "source": "theverge.com",
-        "date": "2026-09-12T10:41:27-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-12T17:16:28-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
-        "title": "OpenAI just wants to win",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-        "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics.",
+        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+        "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to…",
         "source": "theverge.com",
-        "date": "2026-09-12T07:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-12T12:23:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Why this month's Microsoft patch release is a doozy",
@@ -102,6 +102,38 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Dante Moore struggles as Oregon loses to 24-point underdog Oklahoma State",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dante-moore-struggles-as-oregon-loses-to-24-point-underdog-oklahoma-state",
+        "summary": "Oregon quarterback Dante Moore is a potential first overall pick in the 2027 NFL draft, but today he had a rough outing.",
+        "source": "nbcsports.com",
+        "date": "Sat, 12 Sep 2026 17:14:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/db3bf4d/2147483647/strip/false/crop/2975x1673+0+158/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2Fe4%2F71c80f0a470cab47acd5a971324e%2F2026-09-12t194150z-825144857-mt1usatoday29802308-rtrmadp-3-oregon-quarterback-dante-moore-throws-a-pass-as-the-oregon.jpg"
+      },
+      {
+        "title": "Giants sign WR Dalen Cambre off of practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-wr-dalen-cambre-off-of-practice-squad",
+        "summary": "The Giants have added a pair of wide receivers to the roster for Sunday night's game against the Cowboys.",
+        "source": "nbcsports.com",
+        "date": "Sat, 12 Sep 2026 16:43:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/db00572/2147483647/strip/false/crop/4217x2372+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2Ff3%2F77b57463406fb506b9b4dc5846ad%2F2253961168.jpg"
+      },
+      {
+        "title": "Vikings elevate Kyle Van Noy, DeeJay Dallas for Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-elevate-kyle-van-noy-deejay-dallas-for-sunday",
+        "summary": "Kyle Van Noy is set to make his Vikings debut on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Sat, 12 Sep 2026 16:38:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a28656e/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F81%2F5b2d3be449b2a782ae92cefdcff3%2F2248736410.jpg"
+      },
+      {
+        "title": "Eagles place second-round pick Eli Stowers on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-place-second-round-pick-eli-stowers-on-ir",
+        "summary": "Eagles second-round pick Eli Stowers won't be making his regular season debut against the Commanders on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Sat, 12 Sep 2026 16:29:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cdd0a29/2147483647/strip/false/crop/3900x2194+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2Fd8%2F9ede0aeb4b719e5d6563d93920ff%2F2291347469.jpg"
+      },
       {
         "title": "Cooper Rush is dealing with back spasms, Falcons still expect him to start Sunday",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cooper-rush-is-dealing-with-back-spasms-falcons-still-expect-him-to-start-sunday",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 12 Sep 2026 16:10:14 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e1fc6c6/2147483647/strip/false/crop/6088x3425+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffc%2F34%2F083cea8e45bba515d09207f30237%2F2256157539.jpg"
-      },
-      {
-        "title": "Saints put RB Audric Estime on IR",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-put-rb-audric-estime-on-ir",
-        "summary": "The Saints announced a few roster moves ahead of Sunday's opener against the Lions.",
-        "source": "nbcsports.com",
-        "date": "Sat, 12 Sep 2026 15:52:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9cd89a1/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2Ffb%2Fc2e81b124945952d52d532fe4100%2F2286911583.jpg"
-      },
-      {
-        "title": "Bears sign QB Miller Moss to practice squad, elevate him for Sunday's game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-qb-miller-moss-to-practice-squad-elevate-him-for-sundays-game",
-        "summary": "The Bears listed backup quarterback Tyson Bagent as questionable for Sunday's game against the Panthers with a back injury and it looks like they're expecting him to be inactive.",
-        "source": "nbcsports.com",
-        "date": "Sat, 12 Sep 2026 15:34:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/927da5f/2147483647/strip/false/crop/4943x2780+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2Fb5%2F364ae74f494a8a4dbce5b269252d%2F2292365135.jpg"
-      },
-      {
-        "title": "Josh Simmons is ruled out for the Chiefs on Monday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-simmon-is-ruled-out-for-the-chiefs-on-monday-night",
-        "summary": "Undrafted rookie Kahlil Benson will start at left tackle vs. the Broncos.",
-        "source": "nbcsports.com",
-        "date": "Sat, 12 Sep 2026 15:26:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/048398c/2147483647/strip/false/crop/5049x2840+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F95%2Fe2%2F45103ebc4b2eaaedf02a37dd6ff2%2F2235839031.jpg"
-      },
-      {
-        "title": "Packers elevate WR Bo Melton, LB Kristian Welch",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-elevate-wr-bo-melton-lb-kristian-welch",
-        "summary": "Wide receiver Bo Melton lost his spot on the Packers' 53-man roster this week, but he'll be available for Sunday's game against the Vikings.",
-        "source": "nbcsports.com",
-        "date": "Sat, 12 Sep 2026 15:22:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/693ac6a/2147483647/strip/false/crop/7149x4021+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2Fab%2F61f48a234492afe2ecb0c7e4d5e8%2F2260430559.jpg"
       }
     ]
   }
