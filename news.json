@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T08:57:35.629Z",
+  "updated": "2026-09-12T12:38:02.960Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-        "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a…",
+        "title": "OpenAI just wants to win",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+        "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics.",
         "source": "theverge.com",
-        "date": "2026-09-11T16:44:02-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-12T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Anthropic spent this week in hot water over cybersecurity",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-        "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the…",
+        "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+        "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a…",
         "source": "theverge.com",
-        "date": "2026-09-11T12:09:14-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-11T16:44:02-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
-        "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-        "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported…",
+        "title": "Anthropic spent this week in hot water over cybersecurity",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+        "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the…",
         "source": "theverge.com",
-        "date": "2026-09-11T10:25:21-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-11T12:09:14-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Why this month's Microsoft patch release is a doozy",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Should NFL mandate early travel for Week 1 international games?",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/should-nfl-mandate-early-travel-for-week-1-international-games",
+        "summary": "As the conversation continues on the Rams' apparent misfire regarding the decision to barnstorm into and out of Melbourne, there's another question that needs to be asked about…",
+        "source": "nbcsports.com",
+        "date": "Sat, 12 Sep 2026 08:30:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8f1d464/2147483647/strip/false/crop/7498x4218+0+391/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F39%2F893a01de4dc3a58ff57f66583bc5%2F2290554749.jpg"
+      },
+      {
+        "title": "After arriving in David Montgomery trade, Juice Scruggs is Lions' starting center",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-arriving-in-david-montgomery-trade-juice-scruggs-is-lions-starting-center",
+        "summary": "When the Lions traded running back David Montgomery to the Texans in March, Juice Scruggs was viewed as mostly a throw-in along with the fourth-round pick and seventh-round pick…",
+        "source": "nbcsports.com",
+        "date": "Sat, 12 Sep 2026 05:31:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3958f9d/2147483647/strip/false/crop/4203x2364+0+219/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F87%2F69%2F798cb7f1450594517aefc0cb3b63%2F2026-08-17t231235z-1804784290-mt1usatoday29606286-rtrmadp-3-detroit-lions-quarterback-jared-goff-16-and-offensive.jpg"
+      },
       {
         "title": "Ben Johnson sees Bears practicing at a championship level, unlike last year",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-sees-bears-practicing-at-a-championship-level-unlike-last-year",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 11 Sep 2026 22:54:00 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9e90b7/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2Fe3%2Fb11032534ade9100b92c2e994afb%2F2291919356.jpg"
-      },
-      {
-        "title": "Vikings convert CB Isaiah Rodgers's playing-time incentives into a signing bonus",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-convert-cb-isaiah-rodgerss-playing-time-incentives-into-a-signing-bonus",
-        "summary": "Cornerback Isaiah Rodgers had a solid 2025 season for the Vikings.",
-        "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 20:51:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4990d3b/2147483647/strip/false/crop/8640x4860+0+450/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2F64%2Fd8237f094d61a36a8758140d15bf%2F2250764635.jpg"
-      },
-      {
-        "title": "Bills' initial grass field had \"major deformations\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-initial-grass-field-had-major-deformations",
-        "summary": "In six days, the Bills will host the first regular-season game at their new stadium.",
-        "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 20:37:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9ae6471/2147483647/strip/false/crop/7728x4347+0+403/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2Fd7%2F398f71c24b57919fe46100b8aa72%2F2292620064.jpg"
       }
     ]
   }
