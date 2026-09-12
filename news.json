@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T04:48:32.091Z",
+  "updated": "2026-09-12T08:57:35.629Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Ben Johnson sees Bears practicing at a championship level, unlike last year",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-sees-bears-practicing-at-a-championship-level-unlike-last-year",
+        "summary": "A year ago, Johnson said his team's practice habits were not yet championship-caliber. He no longer thinks that.",
+        "source": "nbcsports.com",
+        "date": "Sat, 12 Sep 2026 04:46:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/449af03/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F923%2F99%2Fnbc_pft_nfcpredicts_260909.jpg"
+      },
+      {
         "title": "Caleb Williams is one game from tying the franchise record for multiple TD passes",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-is-one-game-from-tying-the-franchise-record-for-multiple-td-passes",
         "summary": "The Bears have still never had a quarterback with 4,000 passing yards in a single season.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 11 Sep 2026 20:37:44 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/9ae6471/2147483647/strip/false/crop/7728x4347+0+403/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2Fd7%2F398f71c24b57919fe46100b8aa72%2F2292620064.jpg"
-      },
-      {
-        "title": "Titans claim G Atonio Mafi off of waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-claim-g-atonio-mafi-off-of-waivers",
-        "summary": "The Titans tweaked their offensive line ahead of Sunday's game against the Jets.",
-        "source": "nbcsports.com",
-        "date": "Fri, 11 Sep 2026 18:29:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9903d03/2147483647/strip/false/crop/3809x2143+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2Fa1%2F17c411d348ec95d17ee5561dd4bc%2F2290775079.jpg"
       }
     ]
   }
