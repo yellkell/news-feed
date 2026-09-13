@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-13T19:26:45.547Z",
+  "updated": "2026-09-13T21:32:51.598Z",
   "feed": {
     "VR": [
       {
-        "title": "Threads Apps Arrived On Quest & Meta Ray-Ban Display",
-        "url": "https://www.uploadvr.com/threads-apps-arrived-on-quest-meta-ray-ban-display/",
-        "summary": "Threads arrived on Quest headsets and Meta Ray-Ban Display, alongside a swathe of other updates for Meta's smart glasses.",
+        "title": "EssilorLuxottica Acquired Lynx After Liquidation, Leaving R2 Launch Unlikely",
+        "url": "https://www.uploadvr.com/essilorluxottica-acquired-lynx-after-liquidation-leaving-r2-launch-unlikely/",
+        "summary": "French XR startup Lynx was acquired by eyewear giant EssilorLuxottica following its compulsory liquidation, but the fate of its R2 headset remains unclear.",
         "source": "uploadvr.com",
-        "date": "Sun, 13 Sep 2026 11:48:46 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Threads-on-Quest-and-Meta-Ray-Ban-Display.png"
+        "date": "Sun, 13 Sep 2026 13:11:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Lynx-R2-featured.png"
       },
       {
         "title": "Linus Tech Tips Steam Frame Unboxing & First Impressions Leaks Ahead of Official Launch",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
       },
       {
-        "title": "Moss VR Developer Polyarc Games Has Shut Down",
-        "url": "https://www.uploadvr.com/moss-vr-developer-polyarc-games-has-shut-down/",
-        "summary": "Polyarc Games, the developer of the two Moss VR games and Glassbreakers: Champions of Moss, has shut down.",
+        "title": "Threads Apps Arrived On Quest & Meta Ray-Ban Display",
+        "url": "https://www.uploadvr.com/threads-apps-arrived-on-quest-meta-ray-ban-display/",
+        "summary": "Threads arrived on Quest headsets and Meta Ray-Ban Display, alongside a swathe of other updates for Meta's smart glasses.",
         "source": "uploadvr.com",
-        "date": "Fri, 11 Sep 2026 15:20:49 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-polyarc-shutdown.png"
+        "date": "Sun, 13 Sep 2026 11:48:46 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Threads-on-Quest-and-Meta-Ray-Ban-Display.png"
       },
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI’s rogue AI tried to hack another company in May",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-        "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host.",
+        "title": "Trump and Mike Johnson think the AI industry is overreacting",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+        "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development.",
         "source": "theverge.com",
-        "date": "2026-09-12T17:41:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-13T15:41:48-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-        "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune.",
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host.",
         "source": "theverge.com",
-        "date": "2026-09-12T17:16:28-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-12T17:41:36-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
-        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-        "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to…",
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+        "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune.",
         "source": "theverge.com",
-        "date": "2026-09-12T12:23:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-12T17:16:28-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Why this month's Microsoft patch release is a doozy",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Bucs close to within 27-20 of Bengals",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-close-to-within-27-20-of-bengals",
-        "summary": "The first half was all Bengals.",
+        "title": "Zay Flowers aggravates hamstring injury, questionable for Week 2",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zay-flowers-aggravates-hamstring-injury-questionable-for-week-2",
+        "summary": "Ravens receiver Zay Flowers had an impressive first half in Indianapolis, with five catches for 150 yards.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 15:15:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc8d704/2147483647/strip/false/crop/7230x4067+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffe%2Ffa%2Fbadbf76648cfad99855a5fe480de%2F2295085615.jpg"
+        "date": "Sun, 13 Sep 2026 17:27:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5ede98b/2147483647/strip/false/crop/7200x4050+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F2a%2F71d6e330401993583220c95d2c21%2F2294658061.jpg"
       },
       {
-        "title": "Ravens lose WR Ja'Kobi Lane to a wrist injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-lose-wr-jakobi-lane-to-a-wrist-injury",
-        "summary": "The Ravens have a big lead over the Colts, but they are running short on healthy wideouts.",
+        "title": "Kyler Murray ruled out with concussion",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-ruled-out-with-concussion",
+        "summary": "Murray sustained a hard blow to the head while sliding on a scramble in the first quarter.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 15:13:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/006c727/2147483647/strip/false/crop/5500x3094+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2Fce%2Fc028bb0544b2ab64ce514fae002a%2F2291241919.jpg"
+        "date": "Sun, 13 Sep 2026 17:22:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ddf8a29/2147483647/strip/false/crop/5704x3209+0+103/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F01%2Fb8%2Fd4e538d14ae4bc3f1a3334db652b%2F2295108498.jpg"
       },
       {
-        "title": "Aaron Banks inactive for Packers-Vikings",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-banks-inactive-for-packers-vikings",
-        "summary": "The Packers will be playing Sunday’s game against the Vikings without guard Aaron Banks.",
+        "title": "Dallas Goedert gets the first Eagles TD of the season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dallas-goedert-gets-the-first-eagles-td-of-the-season",
+        "summary": "The Eagles offense had a rough go of it on their first couple of possessions on Sunday, but things got rolling the third time they had the ball.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 15:03:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4ca3805/2147483647/strip/false/crop/5637x3171+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2Fa3%2F98bbcc194d5b958344d77b620baf%2F2256050448.jpg"
+        "date": "Sun, 13 Sep 2026 17:04:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0298d78/2147483647/strip/false/crop/5490x3088+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F4e%2F37b18c1844b5bd36ff1494259ebf%2F2291063336.jpg"
       },
       {
-        "title": "Andy Dalton is active as the Eagles' backup quarterback",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-dalton-is-active-as-the-eagles-backup-quarterback",
-        "summary": "The Eagles were mum about their backup quarterback this week, but we finally got the answer 90 minutes ahead of their game against the Commanders.",
+        "title": "Kyler Murray exits after taking hard hit in first quarter",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-exits-after-taking-hard-hit-in-first-quarter",
+        "summary": "Carson Wentz has entered the game for Minnesota at QB.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 15:02:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ae72c06/2147483647/strip/false/crop/5086x2861+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6b%2F46%2F678693044919a328a1ef9009c4f1%2F2293418575.jpg"
+        "date": "Sun, 13 Sep 2026 17:02:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f62ef78/2147483647/strip/false/crop/4537x2552+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1e%2F26%2F913adad7402c80e9b3a16431613e%2F2294641362.jpg"
       },
       {
-        "title": "Breece Hall extends Jets lead to 17-7",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-extends-jets-lead-to-17-7",
-        "summary": "The Jets scored a touchdown on their first offensive possession in Tennessee on Sunday and they added another one on their first possession of the second half.",
+        "title": "Kirk Cousins perfect on first drive, Raiders lead 7-0",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-perfect-on-first-drive-raiders-lead-7-0",
+        "summary": "The Raiders named Kirk Cousins their starter, and the question has always been: For how long?",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 14:56:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8eac9a/2147483647/strip/false/crop/4374x2460+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2F75%2F4cbf11934f068b3742228884642a%2F2295081735.jpg"
+        "date": "Sun, 13 Sep 2026 17:00:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/965d083/2147483647/strip/false/crop/4007x2254+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc7%2F14%2F4cb1e4b7486f83f7c95aa91880e0%2F2295105732.jpg"
       },
       {
-        "title": "Bills lead Texans 24-21 at halftime",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-lead-texans-24-21-at-halftime",
-        "summary": "The Texans and Bills are playing what could end up being one of the best games of the regular season.",
+        "title": "Jordan Love throws 81-yard TD to Christian Watson, Packers lead 9-0",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-throws-81-yard-td-to-christian-watson-packers-lead-9-0",
+        "summary": "Jordan Love has just connected on the longest touchdown of his career.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 14:47:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d34c7d/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F3f%2F41075bad47ceb1ac17597ab23e3a%2F2295081283.jpg"
+        "date": "Sun, 13 Sep 2026 16:55:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b93994/2147483647/strip/false/crop/5691x3201+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2Fa0%2Faf13a8a04f35894430f2e8f17af5%2F2294658097.jpg"
       }
     ]
   }
