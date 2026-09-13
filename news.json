@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-13T04:42:46.635Z",
+  "updated": "2026-09-13T09:44:35.367Z",
   "feed": {
     "VR": [
+      {
+        "title": "Linus Tech Tips Steam Frame Unboxing & First Impressions Leaks Ahead of Official Launch",
+        "url": "https://roadtovr.com/valve-steam-frame-unboxing-leak-price-release-date/",
+        "summary": "Linus Tech Tips’ secondary channel ShortCircuit appears to have jumped the gun on publishing its first impressions and unboxing of Steam Frame, suggesting we’re truly now right…",
+        "source": "roadtovr.com",
+        "date": "Sun, 13 Sep 2026 06:25:25 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/ltt-steam-frame-leak.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
       {
         "title": "Moss VR Developer Polyarc Games Has Shut Down",
         "url": "https://www.uploadvr.com/moss-vr-developer-polyarc-games-has-shut-down/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Fri, 11 Sep 2026 15:20:49 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-polyarc-shutdown.png"
-      },
-      {
-        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
-        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve has dropped a sizeable update to SteamVR, paving the way for what appears to be imminent launch of its long-awaited standalone VR headset, Steam Frame.",
-        "source": "roadtovr.com",
-        "date": "Fri, 11 Sep 2026 16:20:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
         "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
@@ -35,12 +35,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/iPhone-Duo-pointing-camera-crop.png"
       },
       {
-        "title": "Meta’s Next-gen MR Headset Appears to Have Leaked Ahead of Connect",
-        "url": "https://roadtovr.com/meta-next-gen-mr-headset-phoenix-leak-connect-2026/",
-        "summary": "Images of Meta’s ‘Project Phoenix’ mixed reality headset appear to have leaked ahead of its anticipated unveiling at Connect later this month.",
+        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
+        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
+        "summary": "Valve has dropped a sizeable update to SteamVR, paving the way for what appears to be imminent launch of its long-awaited standalone VR headset, Steam Frame.",
         "source": "roadtovr.com",
-        "date": "Fri, 11 Sep 2026 08:53:50 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/meta-phoenix-leak.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Fri, 11 Sep 2026 16:20:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Ryan Day: Ohio State considered letting Texas score, but decided we'd play defense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ryan-day-ohio-state-considered-letting-texas-score-but-decided-wed-play-defense",
+        "summary": "With 1:23 remaining in the fourth quarter on Saturday night, Ohio State led 23-17, but Texas had first-and-goal at the 1-yard line.",
+        "source": "nbcsports.com",
+        "date": "Sun, 13 Sep 2026 05:35:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5420a51/2147483647/strip/false/crop/3987x2243+0+208/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2F81%2Fcd16e7004722b04fd5b2f6a6ebc7%2F2294483073.jpg"
+      },
+      {
+        "title": "Arch Manning puts \"nightmares\" behind him as Texas beats Ohio State",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arch-manning-puts-nightmares-behind-him-as-texas-beats-ohio-state",
+        "summary": "\"I couldn't lose to them again. I had nightmares about that game last year,\" Manning said.",
+        "source": "nbcsports.com",
+        "date": "Sun, 13 Sep 2026 04:59:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/de64d40/2147483647/strip/false/crop/4943x2780+0+258/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2F8a%2F12efc1494b2b8a3f9d962551ece6%2F2294979051.jpg"
+      },
+      {
         "title": "Kyler Murray will be the ninth Vikings' starting QB since 2023",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-will-be-the-ninth-vikings-starting-qb-since-2023",
         "summary": "On Sunday, Kyler Murray will make his first start for the Vikings.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 12 Sep 2026 20:40:28 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2cce12a/2147483647/strip/false/crop/4012x2257+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2Fe4%2F5f43cc604b80a3fba3d06e96c197%2F2290884162.jpg"
-      },
-      {
-        "title": "Patriots place WR A.J. Brown on IR, officially sign DT DaQuan Jones",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-place-wr-a-j-brown-on-ir-officially-sign-dt-daquan-jones",
-        "summary": "The Patriots made official the signing of veteran defensive tackle DaQuan Jones.",
-        "source": "nbcsports.com",
-        "date": "Sat, 12 Sep 2026 20:12:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5f29369/2147483647/strip/false/crop/3813x2145+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Fb0%2Fff28256f45b9bc724c90c6fb07bb%2F2294934499.jpg"
-      },
-      {
-        "title": "Broncos have no injury designations for Monday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-have-no-injury-designations-for-monday-night",
-        "summary": "The Denver Broncos' shot at an appearance in Super Bowl LX arguably was derailed by an injury to quarterback Bo Nix.",
-        "source": "nbcsports.com",
-        "date": "Sat, 12 Sep 2026 20:01:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b866658/2147483647/strip/false/crop/5544x3119+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2F55%2Fe8e164b44c838f77597ce601b900%2F2290766885.jpg"
       }
     ]
   }
