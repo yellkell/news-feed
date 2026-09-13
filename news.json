@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-13T17:09:05.568Z",
+  "updated": "2026-09-13T19:26:45.547Z",
   "feed": {
     "VR": [
+      {
+        "title": "Threads Apps Arrived On Quest & Meta Ray-Ban Display",
+        "url": "https://www.uploadvr.com/threads-apps-arrived-on-quest-meta-ray-ban-display/",
+        "summary": "Threads arrived on Quest headsets and Meta Ray-Ban Display, alongside a swathe of other updates for Meta's smart glasses.",
+        "source": "uploadvr.com",
+        "date": "Sun, 13 Sep 2026 11:48:46 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Threads-on-Quest-and-Meta-Ray-Ban-Display.png"
+      },
       {
         "title": "Linus Tech Tips Steam Frame Unboxing & First Impressions Leaks Ahead of Official Launch",
         "url": "https://roadtovr.com/valve-steam-frame-unboxing-leak-price-release-date/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Sun, 13 Sep 2026 06:25:25 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/ltt-steam-frame-leak.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Moss VR Developer Polyarc Games Has Shut Down",
-        "url": "https://www.uploadvr.com/moss-vr-developer-polyarc-games-has-shut-down/",
-        "summary": "Polyarc Games, the developer of the two Moss VR games and Glassbreakers: Champions of Moss, has shut down.",
-        "source": "uploadvr.com",
-        "date": "Fri, 11 Sep 2026 15:20:49 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-polyarc-shutdown.png"
       },
       {
         "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
@@ -27,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
       },
       {
-        "title": "iPhone Duo Seemingly Can't Capture Spatial Photos Or Video",
-        "url": "https://www.uploadvr.com/iphone-duo-seemingly-cant-capture-spatial-photos-or-video/",
-        "summary": "Apple's $2000 iPhone Duo has two rear cameras, but seemingly can't capture spatial photos or video for viewing on Apple Vision Pro.",
+        "title": "Moss VR Developer Polyarc Games Has Shut Down",
+        "url": "https://www.uploadvr.com/moss-vr-developer-polyarc-games-has-shut-down/",
+        "summary": "Polyarc Games, the developer of the two Moss VR games and Glassbreakers: Champions of Moss, has shut down.",
         "source": "uploadvr.com",
-        "date": "Fri, 11 Sep 2026 14:15:11 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/iPhone-Duo-pointing-camera-crop.png"
+        "date": "Fri, 11 Sep 2026 15:20:49 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-polyarc-shutdown.png"
       },
       {
         "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "As clock ticks toward Sunday night, Malik Nabers waits for a sign from above",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-clock-ticks-toward-sunday-night-malik-nabers-waits-for-a-sign-from-above",
-        "summary": "The Giants host the Cowboys on Sunday night.",
+        "title": "Bucs close to within 27-20 of Bengals",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-close-to-within-27-20-of-bengals",
+        "summary": "The first half was all Bengals.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 12:36:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/420c658/2147483647/strip/false/crop/3468x1951+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F68%2Fdc%2F8aaa5d8942eda28f6cffbaf27bca%2F2292511659.jpg"
+        "date": "Sun, 13 Sep 2026 15:15:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc8d704/2147483647/strip/false/crop/7230x4067+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffe%2Ffa%2Fbadbf76648cfad99855a5fe480de%2F2295085615.jpg"
       },
       {
-        "title": "Cowboys RB Malik Davis is out for the year after hip surgery",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-rb-malik-davis-is-out-for-the-year-after-hip-surgery",
-        "summary": "When Cowboys running back Malik Davis suffered a serious hip injury on Friday, Cowboys exec Stephen Jones said Davis will be out \"some period of time.\"",
+        "title": "Ravens lose WR Ja'Kobi Lane to a wrist injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-lose-wr-jakobi-lane-to-a-wrist-injury",
+        "summary": "The Ravens have a big lead over the Colts, but they are running short on healthy wideouts.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 12:02:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/02340dd/2147483647/strip/false/crop/7198x4049+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F34%2Ffcd5e048479bb7cd3b08566a3b4c%2F2250397858.jpg"
+        "date": "Sun, 13 Sep 2026 15:13:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/006c727/2147483647/strip/false/crop/5500x3094+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2Fce%2Fc028bb0544b2ab64ce514fae002a%2F2291241919.jpg"
       },
       {
-        "title": "Joey Porter Jr. is inactive for the Steelers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-is-inactive-for-the-steelers",
-        "summary": "Porter has a back injury, but his desire for a contract extension also looms over the situation in Pittsburgh.",
+        "title": "Aaron Banks inactive for Packers-Vikings",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-banks-inactive-for-packers-vikings",
+        "summary": "The Packers will be playing Sunday’s game against the Vikings without guard Aaron Banks.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 11:39:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e237b61/2147483647/strip/false/crop/7568x4257+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2F48%2F1cc519e347d3887c31913f8f15f5%2F2252441757.jpg"
+        "date": "Sun, 13 Sep 2026 15:03:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4ca3805/2147483647/strip/false/crop/5637x3171+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2Fa3%2F98bbcc194d5b958344d77b620baf%2F2256050448.jpg"
       },
       {
-        "title": "Myles Garrett will have knee surgery, head to IR",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-will-have-knee-surgery-head-to-ir",
-        "summary": "The dream team has encountered an unexpected detour.",
+        "title": "Andy Dalton is active as the Eagles' backup quarterback",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-dalton-is-active-as-the-eagles-backup-quarterback",
+        "summary": "The Eagles were mum about their backup quarterback this week, but we finally got the answer 90 minutes ahead of their game against the Commanders.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 11:29:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/634f90d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F163%2F763%2Fnbc_pft_mylesgarrett_260911.jpg"
+        "date": "Sun, 13 Sep 2026 15:02:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ae72c06/2147483647/strip/false/crop/5086x2861+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6b%2F46%2F678693044919a328a1ef9009c4f1%2F2293418575.jpg"
       },
       {
-        "title": "Olamide Zaccheaus will be the Falcons' emergency option at QB",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/olamide-zaccheaus-will-be-the-falcons-emergency-option-at-qb",
-        "summary": "The Falcons kept four quarterbacks on their 53-man roster, but they still needed to get creative with their plans at the position for Sunday's game against the Steelers.",
+        "title": "Breece Hall extends Jets lead to 17-7",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-extends-jets-lead-to-17-7",
+        "summary": "The Jets scored a touchdown on their first offensive possession in Tennessee on Sunday and they added another one on their first possession of the second half.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 11:20:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/92a22a7/2147483647/strip/false/crop/3968x2232+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9a%2F31%2F32034a404b6ebe87d6def150ee73%2F2287503238.jpg"
+        "date": "Sun, 13 Sep 2026 14:56:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8eac9a/2147483647/strip/false/crop/4374x2460+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2F75%2F4cbf11934f068b3742228884642a%2F2295081735.jpg"
       },
       {
-        "title": "Cooper Rush has had a wild ride in 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cooper-rush-has-had-a-wild-ride-in-2026",
-        "summary": "Cooper Rush has had a wild ride in 2026.",
+        "title": "Bills lead Texans 24-21 at halftime",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-lead-texans-24-21-at-halftime",
+        "summary": "The Texans and Bills are playing what could end up being one of the best games of the regular season.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 11:20:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/44fe1f1/2147483647/strip/false/crop/4990x2807+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2Fff%2Fe5437417418994f517c076dd18bc%2F2290494826.jpg"
+        "date": "Sun, 13 Sep 2026 14:47:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d34c7d/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F3f%2F41075bad47ceb1ac17597ab23e3a%2F2295081283.jpg"
       }
     ]
   }
