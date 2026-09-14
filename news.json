@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-14T18:51:41.380Z",
+  "updated": "2026-09-14T22:13:07.355Z",
   "feed": {
     "VR": [
+      {
+        "title": "Steam Frame Will Launch With Half-Life: Alyx & At Least 70 Verified Games",
+        "url": "https://www.uploadvr.com/great-on-steam-frame-vr-games-valve/",
+        "summary": "The Steam Frame will launch with at least 70 VR Games certified by Valve to run standalone and we have a full list.",
+        "source": "uploadvr.com",
+        "date": "Mon, 14 Sep 2026 11:15:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/great-on-frame-v2-1.png"
+      },
       {
         "title": "Valve Announces Steam Frame Price, Release Date, and Accessories – Pre-orders Now Open",
         "url": "https://roadtovr.com/valve-steam-frame-price-release-pre-orders/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Mon, 14 Sep 2026 17:01:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Steam Frame Is $1059 & Comes With Standalone Half-Life: Alyx, Reservations Open Now",
-        "url": "https://www.uploadvr.com/steam-frame-price-revealed-reservations-opened-alyx-included/",
-        "summary": "BREAKING: Steam Frame starts at $1059 for the 256GB model and comes with standalone-capable Half-Life: Alyx. Reservations are open right now.",
-        "source": "uploadvr.com",
-        "date": "Mon, 14 Sep 2026 10:00:16 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Steam-Frame-1.png"
       },
       {
         "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
@@ -27,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
       },
       {
+        "title": "Steam Frame Is $1059 & Comes With Standalone Half-Life: Alyx, Reservations Open Now",
+        "url": "https://www.uploadvr.com/steam-frame-price-revealed-reservations-opened-alyx-included/",
+        "summary": "BREAKING: Steam Frame starts at $1059 for the 256GB model and comes with standalone-capable Half-Life: Alyx. Reservations are open right now.",
+        "source": "uploadvr.com",
+        "date": "Mon, 14 Sep 2026 10:00:16 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Steam-Frame-1.png"
+      },
+      {
         "title": "Valve Confirms Half-Life: Alyx is Coming to Steam Frame Standalone, But Not in Time for Launch",
         "url": "https://roadtovr.com/valve-half-life-alyx-coming-steam-frame-date/",
         "summary": "The rumors are true: Valve finally confirmed it’s creating a standalone port of Half-Life: Alyx (2020) for Steam Frame, although it won’t be ready at launch.",
         "source": "roadtovr.com",
         "date": "Mon, 14 Sep 2026 17:00:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/hla-steam-frame.jpg?resize=1800%2C1350&quality=89&ssl=1"
-      },
-      {
-        "title": "Aces Of Thunder Gets Crossplay & More In Latest Update",
-        "url": "https://www.uploadvr.com/aces-of-thunder-crossplay-update/",
-        "summary": "Combat VR flight sim Aces of Thunder received a major update, including crossplay between PC VR and PlayStation VR2.",
-        "source": "uploadvr.com",
-        "date": "Mon, 14 Sep 2026 09:21:11 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/slack-imgs-1.png"
       },
       {
         "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
@@ -53,12 +53,28 @@
     ],
     "AI": [
       {
-        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-        "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress.",
+        "title": "What execs and politicians are saying about slowing down AI development",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+        "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development…",
         "source": "theverge.com",
-        "date": "2026-09-14T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-14T17:21:42-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+        "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+        "source": "arstechnica.com",
+        "date": "Mon, 14 Sep 2026 21:04:32 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
+      },
+      {
+        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+        "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+        "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit.",
+        "source": "theverge.com",
+        "date": "2026-09-14T16:03:37-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Trump and Mike Johnson think the AI industry is overreacting",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-        "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development.",
+        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+        "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress.",
         "source": "theverge.com",
-        "date": "2026-09-13T15:41:48-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-14T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Wed, 09 Sep 2026 20:55:02 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
-      },
-      {
-        "title": "OpenAI’s rogue AI tried to hack another company in May",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-        "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host.",
-        "source": "theverge.com",
-        "date": "2026-09-12T17:41:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Why this month's Microsoft patch release is a doozy",
-        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-        "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-        "source": "arstechnica.com",
-        "date": "Tue, 08 Sep 2026 21:11:46 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Brian Thomas will be limited in practice, but Jaguars expect him to play in Week 2",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-thomas-will-be-limited-in-practice-but-jaguars-expect-him-to-play-in-week-2",
-        "summary": "Jaguars wide receiver Brian Thomas is managing a shoulder injury after the team's season-opening win over the Browns.",
+        "title": "Jim Harbaugh: In retrospect, I wish we'd gotten guys more preseason reps",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-in-retrospect-i-wish-wed-gotten-guys-more-preseason-reps",
+        "summary": "The Chargers had one of the most disappointing debut performances and it left head coach Jim Harbaugh with some second thoughts about how the team prepared for the start of the…",
         "source": "nbcsports.com",
-        "date": "Mon, 14 Sep 2026 14:42:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a727e7b/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2Fc0%2Ff941fd0f45cb8905ffdaa85768fb%2F2294776398.jpg"
+        "date": "Mon, 14 Sep 2026 17:52:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/165c11a/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2F8b%2Fcfacbcc544c197fe42f446d284f6%2F2294692992.jpg"
       },
       {
-        "title": "Kevin O'Connell: Kyler Murray feels \"pretty good,\" we'll take it a day at a time",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-kyler-murray-feels-pretty-good-well-take-it-a-day-at-a-time",
-        "summary": "Vikings quarterback Kyler Murray was knocked out of Sunday's game on the team's third offensive possession and head coach Kevin O'Connell gave an update on his condition at a…",
+        "title": "With 42 points in Broncos-Chiefs, the Week 1 scoring record will be broken",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-42-points-in-broncos-chiefs-the-week-1-scoring-record-will-be-broken",
+        "summary": "Through 15 games, 750 points have been scored.",
         "source": "nbcsports.com",
-        "date": "Mon, 14 Sep 2026 14:32:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a0f1476/2147483647/strip/false/crop/4931x2774+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2F88%2F5ea046cb44a4987cd17f42bb90de%2F2295110849.jpg"
+        "date": "Mon, 14 Sep 2026 17:48:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3757f5/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F61%2F110a869f4356abf7106b337114f9%2F2295247424.jpg"
       },
       {
-        "title": "Sean McVay: TBD if Aaron Donald plays vs. Giants in Week 2",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-tbd-if-aaron-donald-plays-vs-giants-in-week-2",
-        "summary": "After electing to come out of retirement, Rams defensive tackle Aaron Donald did not travel to Australia for the team's eventual Week 1 loss to the 49ers.",
+        "title": "DeMarvion Overshown (hamstring), Malik Hooker (arm) will both miss 1-2 weeks",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/demarvion-overshown-hamstring-malik-hooker-arm-will-both-miss-1-2-weeks",
+        "summary": "Cowboys linebacker DeMarvion Overshown will miss time with a hamstring injury, Brian Schottenheimer said Monday.",
         "source": "nbcsports.com",
-        "date": "Mon, 14 Sep 2026 13:20:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b372c5/2147483647/strip/false/crop/8340x4691+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F6c%2Ff17d9c074dc39744ae6d60b42048%2F2026-08-31t052519z-1033848884-mt1usatoday29700930-rtrmadp-3-nfl-los-angeles-rams-aaron-donald-press-conference.jpg"
+        "date": "Mon, 14 Sep 2026 17:38:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c1e9449/2147483647/strip/false/crop/4969x2795+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F68%2F19434ef74f2e9fcff50f30ad9b3e%2F2294686285.jpg"
       },
       {
-        "title": "Henry To'oTo'o will be out for \"some time\" with shoulder injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/henry-tootoo-will-be-out-for-some-time-with-shoulder-injury",
-        "summary": "The Texans lost the game on Sunday and they also lost a key defensive player for some time.",
+        "title": "Lions running back Isiah Pacheco had back surgery, will miss significant time",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-running-back-isiah-pacheco-had-back-surgery-will-miss-significant-time",
+        "summary": "Lions running back Isiah Pacheco started the season on injured reserve, and he won't be on the field any time soon.",
         "source": "nbcsports.com",
-        "date": "Mon, 14 Sep 2026 12:59:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5cecc7d/2147483647/strip/false/crop/5194x2922+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff4%2Fc2%2Fc59954f445bbbe798b655109a74a%2F2257293413.jpg"
+        "date": "Mon, 14 Sep 2026 17:33:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/135138c/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2Fea%2F34be504147279f44ac6d416865e2%2F2288445874.jpg"
       },
       {
-        "title": "Cowboys S Malik Hooker fractured a bone in his forearm",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-s-malik-hooker-fractured-a-bone-in-his-forearm",
-        "summary": "Cowboys safety Malik Hooker left Sunday night's loss to the Giants with a forearm injury and it remains unclear when he might be able to return to the lineup.",
+        "title": "Broncos release WR Lil'Jordan Humphrey in procedural move",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-release-wr-liljordan-humphrey-in-procedural-move",
+        "summary": "The Broncos released wide receiver Lil'Jordan Humphrey on Monday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Mon, 14 Sep 2026 12:55:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0cd8486/2147483647/strip/false/crop/8391x4720+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2F88%2F93f8683d4372aef9f8d21f002136%2F2253278894.jpg"
+        "date": "Mon, 14 Sep 2026 17:21:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6acd070/2147483647/strip/false/crop/7597x4273+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2Fa6%2Fab04cbbe4f91af4207a7e3968d1c%2F2258688086.jpg"
       },
       {
-        "title": "Sean McVay: We thought Myles Garrett's knee injury was something he could work through",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-we-thought-myles-garretts-knee-injury-was-something-he-could-work-through",
-        "summary": "Before Sunday's games kicked off, there was big news involving a team that had opened its season earlier in the week.",
+        "title": "Patriot-Seahawks opener averaged 25.1 million viewers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriot-seahawks-opener-averaged-25-1-million-viewers",
+        "summary": "Now that football season has returned, so has the season of tracking the sizes of the TV audiences for football games.",
         "source": "nbcsports.com",
-        "date": "Mon, 14 Sep 2026 12:40:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6d48ac9/2147483647/strip/false/crop/6169x3470+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2F88%2F8fcef0b241fd8795475914a303f3%2F2294592591.jpg"
+        "date": "Mon, 14 Sep 2026 17:15:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fbb259a/2147483647/strip/false/crop/5873x3304+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2F02%2F7fab26ad4cfc80dd4d61ac30d7e1%2F2294933683.jpg"
       }
     ]
   }
