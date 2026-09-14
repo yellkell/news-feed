@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-14T06:45:41.293Z",
+  "updated": "2026-09-14T13:31:37.331Z",
   "feed": {
     "VR": [
+      {
+        "title": "Apple Laid Off Around 100 Staff Working On Vision Pro, But Don't Panic",
+        "url": "https://www.uploadvr.com/apple-vision-pro-layoffs-2026-gaming-immersive-video/",
+        "summary": "Apple laid off around 100 staff working on Vision Pro, including \"largely shutting down\" the spatial gaming team and downsizing the immersive video team, Bloomberg's Mark Gurman…",
+        "source": "uploadvr.com",
+        "date": "Mon, 14 Sep 2026 06:06:59 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Apple-Vision-Pro.png"
+      },
+      {
+        "title": "‘Moss’ Developer Polyarc Announces Closure Following “major project” Cancellation",
+        "url": "https://roadtovr.com/moss-polyarc-closure-project-cancellation/",
+        "summary": "Moss developer Polyarc Games announced it’s closing shop following a “major project” cancellation earlier this year.",
+        "source": "roadtovr.com",
+        "date": "Mon, 14 Sep 2026 11:14:59 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2022/04/moss-book-2-review-7.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
+        "url": "https://mixed-news.com/en/mit-put-a-robot-under-3-6-feet-of-arctic-ice-and-got-data-back-through-the-ice/",
+        "summary": "MIT researchers sent a remotely operated robot beneath 3.6 feet of Arctic ice and managed to transmit data through the frozen surface, a step toward sensor networks that could…",
+        "source": "mixed-news.com",
+        "date": "Mon, 07 Sep 2026 01:25:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
+      },
       {
         "title": "EssilorLuxottica Acquired Lynx After Liquidation, Leaving R2 Launch Unlikely",
         "url": "https://www.uploadvr.com/essilorluxottica-acquired-lynx-after-liquidation-leaving-r2-launch-unlikely/",
@@ -19,30 +43,6 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/ltt-steam-frame-leak.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
-        "url": "https://mixed-news.com/en/mit-put-a-robot-under-3-6-feet-of-arctic-ice-and-got-data-back-through-the-ice/",
-        "summary": "MIT researchers sent a remotely operated robot beneath 3.6 feet of Arctic ice and managed to transmit data through the frozen surface, a step toward sensor networks that could…",
-        "source": "mixed-news.com",
-        "date": "Mon, 07 Sep 2026 01:25:55 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
-      },
-      {
-        "title": "Threads Apps Arrived On Quest & Meta Ray-Ban Display",
-        "url": "https://www.uploadvr.com/threads-apps-arrived-on-quest-meta-ray-ban-display/",
-        "summary": "Threads arrived on Quest headsets and Meta Ray-Ban Display, alongside a swathe of other updates for Meta's smart glasses.",
-        "source": "uploadvr.com",
-        "date": "Sun, 13 Sep 2026 11:48:46 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Threads-on-Quest-and-Meta-Ray-Ban-Display.png"
-      },
-      {
-        "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
-        "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-        "summary": "Valve has dropped a sizeable update to SteamVR, paving the way for what appears to be imminent launch of its long-awaited standalone VR headset, Steam Frame.",
-        "source": "roadtovr.com",
-        "date": "Fri, 11 Sep 2026 16:20:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
-      },
-      {
         "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
         "url": "https://mixed-news.com/en/steam-frame-launch-looks-days-away-as-valve-quietly-prepares-reservations/",
         "summary": "Valve still refuses to give us a Steam Frame release date, but the company has now started making the same backend changes that appeared shortly before Steam Machine reservations…",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Trump and Mike Johnson think the AI industry is overreacting",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-        "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development.",
+        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+        "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress.",
         "source": "theverge.com",
-        "date": "2026-09-13T15:41:48-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-14T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "OpenAI’s rogue AI tried to hack another company in May",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-        "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host.",
+        "title": "Trump and Mike Johnson think the AI industry is overreacting",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+        "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development.",
         "source": "theverge.com",
-        "date": "2026-09-12T17:41:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-13T15:41:48-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
       },
       {
-        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-        "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune.",
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host.",
         "source": "theverge.com",
-        "date": "2026-09-12T17:16:28-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-12T17:41:36-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Why this month's Microsoft patch release is a doozy",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Sunday Night Football: Jaxson Dart throws three TDs, Giants beat Cowboys 28-20",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxson-dart-throws-three-tds-giants-beat-cowboys-28-20",
-        "summary": "New York won its first game under new head coach John Harbaugh by controlling the ball and the clock.",
+        "title": "Jonathan Taylor: Loss to Ravens definitely a wakeup call",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-taylor-loss-to-ravens-definitely-a-wakeup-call",
+        "summary": "The Colts picked up right where they left off in Week 1 of the 2026 season, but that was not a good thing.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 23:39:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/39d1432/2147483647/strip/false/crop/4938x2778+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2F00%2F2c4ce4f94d63a152d605cbf077de%2F2026-09-14t031654z-112645859-mt1usatoday29817576-rtrmadp-3-nfl-dallas-cowboys-at-new-york-giants.jpg"
+        "date": "Mon, 14 Sep 2026 09:19:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/14a4560/2147483647/strip/false/crop/7200x4050+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F99%2F0df8fa034702b1c90c7ea8e9c77c%2F2294658361.jpg"
       },
       {
-        "title": "Report: Ja'Kobi Lane is believed to have suffered fractured wrist",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jakobi-lane-is-believed-to-have-suffered-fractured-wrist",
-        "summary": "The Ravens will be without one of their key rookies for some time.",
+        "title": "Malik Nabers knew it was time to make his return during pregame warmups",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-nabers-knew-it-was-time-to-make-his-return-during-pregame-warmups",
+        "summary": "Wide receiver Malik Nabers made his first appearance in the Giants' lineup in almost a year when he took the field against the Cowboys on Sunday night.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 22:26:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6227eba/2147483647/strip/false/crop/5515x3102+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2Fea%2F831923df45b29d0610a7bc3624c7%2F2292376508.jpg"
+        "date": "Mon, 14 Sep 2026 09:03:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/870c499/2147483647/strip/false/crop/3477x1956+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2Fde%2F923e420148d2a9b1224b66fb344b%2F2294711155.jpg"
       },
       {
-        "title": "Isaiah Likely's second touchdown of the night gives Giants 21-7 lead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/isaiah-likelys-second-touchdown-of-the-night-gives-giants-21-7-lead",
-        "summary": "Don't look now, but the Giants are putting it on the Cowboys.",
+        "title": "Jalen Hurts: It's about meeting the moment when opportunity comes",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-hurts-its-about-meeting-the-moment-when-opportunity-comes",
+        "summary": "There were some long stretches during Sunday's game when the Eagles offense failed to click, including five three-and-outs in 11 total possessions, but they were able to beat the…",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 22:22:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/714ca03/2147483647/strip/false/crop/4530x2548+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2F36%2F014781ba4302b3ba0a334ca3d192%2F2295130390.jpg"
+        "date": "Mon, 14 Sep 2026 08:43:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2fabb8d/2147483647/strip/false/crop/5213x2932+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3a%2F3a%2Fc03d5c444824aa39dc86954cf40d%2F2295126229.jpg"
       },
       {
-        "title": "Sunday Night Football: Jaxson Dart TD pass gives Giants 14-7 halftime lead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxson-dart-td-pass-gives-giants-14-7-halftime-lead",
-        "summary": "Dart connected with TE Isaiah Likely for a 15-yard touchdown late in the second quarter.",
+        "title": "Josh Allen on late TD to beat Texans: Sometimes the ball bounces your way",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-on-late-td-to-beat-texans-sometimes-the-ball-bounces-your-way",
+        "summary": "It's hard to come up with too many examples of how thin the line between winning and losing can be than back-to-back plays that the Bills ran late in the fourth quarter in Houston…",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 21:56:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b09777/2147483647/strip/false/crop/3246x1826+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F3c%2Fa8973d904da5b7864e7915b70460%2F2294686157.jpg"
+        "date": "Mon, 14 Sep 2026 08:23:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2649146/2147483647/strip/false/crop/3195x1797+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F5b%2Fe9ea498a4584bfe179512fe32c22%2F2294753036.jpg"
       },
       {
-        "title": "Mike LaFleur is first Cardinals' coach to win debut since Don Coryell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-lafleur-is-first-cardinals-coach-to-win-debut-since-don-coryell",
-        "summary": "The Cardinals weren't picked to win on Sunday.",
+        "title": "Travis Hunter played 4 snaps on offense, 29 on defense",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-played-4-snaps-on-offense-29-on-defense",
+        "summary": "Jaguars cornerback and wide receiver Travis Hunter was a starter on defense and a bit player on offense in Week 1 against the Browns.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 21:44:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc4426c/2147483647/strip/false/crop/2748x1546+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2F15%2F4783469147a891583885ed761004%2F2295118301.jpg"
+        "date": "Mon, 14 Sep 2026 08:08:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a365377/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2F4a%2F7454aed14c51805c16a2184f64b2%2F2295113924.jpg"
       },
       {
-        "title": "Dak Prescott 1-yard TD to CeeDee Lamb ties Cowboys, Giants at 7-7",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-1-yard-td-to-ceedee-lamb-ties-cowboys-giants-at-7-7",
-        "summary": "The Cowboys have tied it up.",
+        "title": "Zac Taylor: We felt the presence of our defensive additions on Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zac-taylor-we-felt-the-presence-of-our-defensive-additions-on-sunday",
+        "summary": "The biggest storyline of the Bengals offseason was the moves they made to improve their defense and the new players were front and center in Sunday's 33-27 win over the Buccaneers.",
         "source": "nbcsports.com",
-        "date": "Sun, 13 Sep 2026 21:24:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/570bde5/2147483647/strip/false/crop/3816x2147+0+199/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2F0b%2F121236aa4d0890166027e2abd0d4%2F2294689932.jpg"
+        "date": "Mon, 14 Sep 2026 08:07:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/49b8ea9/2147483647/strip/false/crop/4705x2647+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2F9b%2Fe660980a4f51b453dad21808a8fa%2F2295087394.jpg"
       }
     ]
   }
