@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-16T07:54:22.443Z",
+  "updated": "2026-09-16T12:58:37.155Z",
   "feed": {
     "VR": [
+      {
+        "title": "Meta Reportedly Building Smart Glasses without Cameras Following Public Backlash",
+        "url": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
+        "summary": "Meta is reportedly preparing a new slate of smart glasses that are ditching those pesky cameras.",
+        "source": "roadtovr.com",
+        "date": "Wed, 16 Sep 2026 12:49:39 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/ray-ban-no-camera.jpg?resize=1620%2C1080&quality=89&ssl=1"
+      },
       {
         "title": "I Am Your Beast VR Review-In-Progress: I Am A Speedrunning Badass",
         "url": "https://www.uploadvr.com/i-am-your-beast-vr-review-in-progress/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Tue, 15 Sep 2026 10:54:01 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/7.jpg"
-      },
-      {
-        "title": "Valve Announces Steam Frame Price, Release Date, and Accessories – Pre-orders Now Open",
-        "url": "https://roadtovr.com/valve-steam-frame-price-release-pre-orders/",
-        "summary": "Valve today opened pre-orders for Steam Frame, its long-awaited standalone VR headset, which finally reveals pricing info, official accessories, and release date.",
-        "source": "roadtovr.com",
-        "date": "Mon, 14 Sep 2026 17:01:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
         "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
@@ -27,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
       },
       {
+        "title": "Meta Reportedly Unveiling Next-gen MR Headset at Connect, Hologram-like Call Experience",
+        "url": "https://roadtovr.com/meta-project-phoenix-connect-unveiling-codec-avatar/",
+        "summary": "Meta isn’t only rumored to unveil its next-gen mixed reality headset next week, but also a photorealistic “hologram-like” call function using its latest avatars.",
+        "source": "roadtovr.com",
+        "date": "Wed, 16 Sep 2026 12:20:56 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/sensors-phoenix.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
         "title": "Bomb The Hill Early Access Review: Bring The Skater Rush To Your Room In VR",
         "url": "https://www.uploadvr.com/bomb-the-hill-early-access-review/",
         "summary": "Bomb the Hill on Quest is a fun downhill VR skateboarding experience with a surprisingly touching story about the early days of the sport.",
         "source": "uploadvr.com",
         "date": "Tue, 15 Sep 2026 06:18:26 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Bomb-the-Hill-Tape-Player.jpg"
-      },
-      {
-        "title": "Valve Confirms Half-Life: Alyx is Coming to Steam Frame Standalone, But Not in Time for Launch",
-        "url": "https://roadtovr.com/valve-half-life-alyx-coming-steam-frame-date/",
-        "summary": "The rumors are true: Valve finally confirmed it’s creating a standalone port of Half-Life: Alyx (2020) for Steam Frame, although it won’t be ready at launch.",
-        "source": "roadtovr.com",
-        "date": "Mon, 14 Sep 2026 17:00:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/hla-steam-frame.jpg?resize=1800%2C1350&quality=89&ssl=1"
       },
       {
         "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "AI and data centers are incredibly unpopular in every poll",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-        "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are…",
+        "title": "A brief history of AI executives calling for regulation",
+        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+        "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including…",
         "source": "theverge.com",
-        "date": "2026-09-15T19:34:25-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-16T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
       },
       {
-        "title": "Meta’s new One subscriptions put a price on social media and AI",
-        "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-        "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
+        "title": "AI and data centers are incredibly unpopular in every poll",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+        "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are…",
         "source": "theverge.com",
-        "date": "2026-09-15T11:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-15T19:34:25-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "This doorbell camera lets a human security guard watch your front door",
-        "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-        "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door.",
+        "title": "Meta’s new One subscriptions put a price on social media and AI",
+        "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+        "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
         "source": "theverge.com",
-        "date": "2026-09-15T09:36:45-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-15T11:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Commanders to sign OL Lucas Patrick",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-sign-ol-lucas-patrick",
+        "summary": "The Commanders are adding a veteran offensive lineman to the roster ahead of their Week 2 game in Dallas.",
+        "source": "nbcsports.com",
+        "date": "Wed, 16 Sep 2026 08:44:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/35e679b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F917%2F319%2Fnbc_pft_commanderslogo_260828.jpg"
+      },
+      {
+        "title": "Joe Brady: No concerns about Highmark Stadium field for Thursday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-brady-no-concerns-about-highmark-stadium-field-for-thursday-night",
+        "summary": "The condition of the playing field at the new Highmark Stadium became a talking point after the Bills played their first preseason game at the building this summer.",
+        "source": "nbcsports.com",
+        "date": "Wed, 16 Sep 2026 06:58:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0abd693/2147483647/strip/false/crop/5510x3099+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F13d531a24dd585b46f393c56ee26%2F2294750612.jpg"
+      },
+      {
+        "title": "Jacoby Brissett leads the NFL in passing yards since becoming the Cardinals' starter",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-leads-the-nfl-in-passing-yards-since-becoming-the-cardinals-starter",
+        "summary": "Brissett's 277 passing yards on Sunday helped the Cardinals beat the Chargers.",
+        "source": "nbcsports.com",
+        "date": "Wed, 16 Sep 2026 04:46:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4a57b7e/2147483647/strip/false/crop/7819x4398+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdb%2F1b%2Fff22f62d4a1f87ab956494e07a67%2F2295512184.jpg"
+      },
       {
         "title": "Ben Johnson suggests he wanted Bears to score 60 points at Carolina",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-suggests-he-wanted-bears-to-score-60-points-at-carolina",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 15 Sep 2026 22:39:46 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a2906e/2147483647/strip/false/crop/3628x2041+0+189/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2Fca%2F99c2cffb456f8935947fcdb36a6d%2F2282389923.jpg"
-      },
-      {
-        "title": "Chargers to sign WR Marquez Valdes-Scantling to practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-to-sign-wr-marquez-valdes-scantling-to-practice-squad",
-        "summary": "The Chargers are signing wide receiver Marquez Valdes-Scantling to their practice squad, Jeremy Fowler of ESPN reports.",
-        "source": "nbcsports.com",
-        "date": "Tue, 15 Sep 2026 22:24:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5113af5/2147483647/strip/false/crop/5818x3273+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3a%2F48%2F02de91894fdf8f1b40b1527d1ef7%2F2292862765.jpg"
-      },
-      {
-        "title": "Broncos seem to be nervous about a potential Drew Brees tampering case",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-seem-to-be-nervous-about-a-potential-drew-brees-tampering-case",
-        "summary": "On Monday, Adam Schefter of ESPN reported that the Broncos talked to quarterback Drew Brees about joining the team for the AFC Championship, without acknowledging that Brees's…",
-        "source": "nbcsports.com",
-        "date": "Tue, 15 Sep 2026 22:18:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/41f086e/2147483647/strip/false/crop/3828x2153+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F43%2Fe9c7821148108beab3493d270884%2F2250996497.jpg"
-      },
-      {
-        "title": "Senate advances the Protect College Sports Act",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/senate-advances-the-protect-college-sports-act",
-        "summary": "ESPN has gotten its apparent wish.",
-        "source": "nbcsports.com",
-        "date": "Tue, 15 Sep 2026 21:54:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/570926d/2147483647/strip/false/crop/2752x1548+0+144/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2Fb5%2F1076fc354a868cdf391747074720%2F2288400081.jpg"
       }
     ]
   }
