@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T17:30:59.382Z",
+  "updated": "2026-09-16T20:24:45.535Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Apple might make servers again to cash in on the AI rush",
-        "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-        "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with NVIDIA to make it happen.",
+        "title": "AI and data centers are incredibly unpopular in every poll",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+        "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are…",
         "source": "theverge.com",
-        "date": "2026-09-16T13:20:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-15T19:34:25-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
       },
       {
-        "title": "Google will now let any AI agent run your smart home",
-        "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-        "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the…",
+        "title": "Meta’s new One subscriptions put a price on social media and AI",
+        "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+        "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
         "source": "theverge.com",
-        "date": "2026-09-16T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-15T11:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Claude comes for Gemini with its own take on Docs and Slides",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-        "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with…",
+        "title": "This doorbell camera lets a human security guard watch your front door",
+        "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+        "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door.",
         "source": "theverge.com",
-        "date": "2026-09-16T12:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-15T09:36:45-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Mike Vrabel: TreVeyon Henderson will increase practice workload on Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-treveyon-henderson-will-increase-practice-workload-on-wednesday",
-        "summary": "There is some positive news on the injury front for one of New England's key young players.",
+        "title": "Bills list S Cole Bishop, RB Ty Johnson, DL T.J. Sanders as questionable for Thursday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-list-s-cole-bishop-rb-ty-johnson-dl-t-j-sanders-as-questionable-for-thursday-night",
+        "summary": "The Bills have three players on their final injury report of Week 2.",
         "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 13:18:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9e1e12c/2147483647/strip/false/crop/4343x2443+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2Fea%2Fb9636fb945edbff43ff52af299af%2F2280499554.jpg"
+        "date": "Wed, 16 Sep 2026 16:21:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a9171f/2147483647/strip/false/crop/4198x2361+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2F87%2F70012d6b4108b5a389c7284e0572%2F2294752692.jpg"
       },
       {
-        "title": "Giants expect Aaron Donald to play on Monday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-expect-aaron-donald-to-play-on-monday-night",
-        "summary": "Rams head coach Sean McVay said on Monday that the team has not decided whether defensive tackle Aaron Donald will play in Week 2, but the opposing head coach believes he knows the…",
+        "title": "Michael Penix: I'm dying to be out there, some goals I still have to achieve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-im-dying-to-be-out-there-some-goals-i-still-have-to-achieve",
+        "summary": "The Falcons haven't named a starting quarterback for Sunday's game against the Panthers and Michael Penix didn't do much to suggest that he'll be the choice during his Wednesday…",
         "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 13:13:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3aed93/2147483647/strip/false/crop/5128x2885+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F78%2F932c7bc94ccda9ec88ad79dfc72b%2F2294592446.jpg"
+        "date": "Wed, 16 Sep 2026 16:16:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4f8a88b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F525%2F75%2Fnbc_pft_falconsqbs_260915.jpg"
       },
       {
-        "title": "Chiefs will have Mansoor Delane at Wednesday's practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-will-have-mansoor-delane-at-wednesdays-practice",
-        "summary": "Word on Tuesday was that Chiefs cornerback Mansoor Delane avoided a serious shoulder injury in Monday night's win over the Broncos and the first-round pick is set to be back on the…",
+        "title": "NFL fines Azeez Al-Shaair again for eye-black message",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-fines-azeez-al-shaair-again-for-eye-black-message",
+        "summary": "The NFL continues to fine Texans linebacker Azeez Al-Shaair for his habit of putting messages on his eye black.",
         "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 12:58:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/652c59b/2147483647/strip/false/crop/4682x2634+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fc4%2Fb7ee855844c588d82d0138e05a48%2F2295316035.jpg"
+        "date": "Wed, 16 Sep 2026 16:11:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/08bdbb3/2147483647/strip/false/crop/3532x1987+0+252/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2F5b%2Fa8c849a549c4aba9319c9397dd7f%2F2026-08-21t004445z-555436631-mt1usatoday29629901-rtrmadp-3-nfl-los-angeles-chargers-at-houston-texans.jpg"
       },
       {
-        "title": "Nick Sirianni explains decision not to put Landon Dickerson on injury report",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-explains-decision-not-to-put-landon-dickerson-on-injury-report",
-        "summary": "Apparently, an injury isn't an injury if a team doesn't know with certainty what the injury is.",
+        "title": "Lions RT Blake Miller, LG Christian Mahogany out for Thursday vs. Bills",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-rt-blake-miller-lg-christian-mahogany-out-for-thursday-vs-bills",
+        "summary": "The Lions will not have two of their starting offensive linemen when they play the Bills on Thursday night.",
         "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 12:57:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/17e27cd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F649%2F99%2Fnbc_pft_tylerowens_260916.jpg"
+        "date": "Wed, 16 Sep 2026 15:53:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19d5b74/2147483647/strip/false/crop/4170x2346+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F35%2F35f5907f4812ba74b16106c1eb5a%2F2294692995.jpg"
       },
       {
-        "title": "49ers to put WR De'Zhaun Stribling on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-to-put-wr-dezhaun-stribling-on-injured-reserve",
-        "summary": "49ers rookie wide receiver De'Zhaun Stribling will miss at least four games due to the ankle injury he suffered in last Thursday's season-opening win over the Rams.",
+        "title": "49ers TE Jake Tonges out for the season, WR De'Zhaun Stribling out around 10 weeks",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-te-jake-tonges-out-for-the-season-wr-dezhaun-stribling-out-around-10-weeks",
+        "summary": "Initial word on 49ers tight end Jake Tonges's knee injury was that it would keep him out for an extended period of time and head coach Kyle Shanahan provided an update on where…",
         "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 12:52:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6961e39/2147483647/strip/false/crop/4501x2532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2Fb4%2Fa106fdab4049a50e16315d227406%2F2294929521.jpg"
+        "date": "Wed, 16 Sep 2026 15:53:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f39bcfc/2147483647/strip/false/crop/4242x2386+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2F43%2Fac46de5446eb8764333b09f66322%2F2292703004.jpg"
       },
       {
-        "title": "Deshaun Watson: The media thinks I'm supposed to throw for 400 yards, 5 TDs each week",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-the-media-thinks-im-supposed-to-throw-for-400-yards-5-tds-each-week",
-        "summary": "Deshaun Watson will start for the Browns again on Sunday when they play Baker Mayfield and the Buccaneers.",
+        "title": "Joe Burrow dealing with back tightness, expects to play against Texans",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-dealing-with-back-tightness-expects-to-play-against-texans",
+        "summary": "Bengals quarterback Joe Burrow will be on this week's injury report, but he doesn't expect to be at risk of missing Sunday's game against the Texans.",
         "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 12:48:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b03bd8f/2147483647/strip/false/crop/7892x4439+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2F4c%2Fb861901c4ff190ccee7bb6eb9d9d%2F2292575967.jpg"
+        "date": "Wed, 16 Sep 2026 15:43:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/013b6e8/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2F80%2F20e4e59c4d8cb0da24f5af0856b0%2F2295037303.jpg"
       }
     ]
   }
