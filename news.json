@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-16T12:58:37.155Z",
+  "updated": "2026-09-16T17:30:59.382Z",
   "feed": {
     "VR": [
+      {
+        "title": "‘Great on Frame’ Page Now Boasts 130+ Games & Apps Optimized for Steam Frame",
+        "url": "https://roadtovr.com/great-on-frame-steam-store-page-50-games/",
+        "summary": "Valve’s ‘Great on Frame’ page highlights games specifically optimized for Steam Frame, and it’s now grown to over 130 titles.",
+        "source": "roadtovr.com",
+        "date": "Wed, 16 Sep 2026 14:30:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/great-on-frame-1.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
+        "title": "Transformers: Beyond Reality Redux Transforms $20 Into Disappointment",
+        "url": "https://www.uploadvr.com/transformers-beyond-reality-redux-transforms-20-into-disappointment/",
+        "summary": "While Transformers: Beyond Reality Redux added some minor gameplay improvements for its Quest release, the overall experience is bland, visually downgraded, and disappointingly…",
+        "source": "uploadvr.com",
+        "date": "Wed, 16 Sep 2026 07:10:24 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/transformers-beyond-reality-redux-header.jpg"
+      },
+      {
+        "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
+        "url": "https://mixed-news.com/en/mit-put-a-robot-under-3-6-feet-of-arctic-ice-and-got-data-back-through-the-ice/",
+        "summary": "MIT researchers sent a remotely operated robot beneath 3.6 feet of Arctic ice and managed to transmit data through the frozen surface, a step toward sensor networks that could…",
+        "source": "mixed-news.com",
+        "date": "Mon, 07 Sep 2026 01:25:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
+      },
       {
         "title": "Meta Reportedly Building Smart Glasses without Cameras Following Public Backlash",
         "url": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
@@ -19,30 +43,6 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/7.jpg"
       },
       {
-        "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
-        "url": "https://mixed-news.com/en/mit-put-a-robot-under-3-6-feet-of-arctic-ice-and-got-data-back-through-the-ice/",
-        "summary": "MIT researchers sent a remotely operated robot beneath 3.6 feet of Arctic ice and managed to transmit data through the frozen surface, a step toward sensor networks that could…",
-        "source": "mixed-news.com",
-        "date": "Mon, 07 Sep 2026 01:25:55 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
-      },
-      {
-        "title": "Meta Reportedly Unveiling Next-gen MR Headset at Connect, Hologram-like Call Experience",
-        "url": "https://roadtovr.com/meta-project-phoenix-connect-unveiling-codec-avatar/",
-        "summary": "Meta isn’t only rumored to unveil its next-gen mixed reality headset next week, but also a photorealistic “hologram-like” call function using its latest avatars.",
-        "source": "roadtovr.com",
-        "date": "Wed, 16 Sep 2026 12:20:56 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/sensors-phoenix.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Bomb The Hill Early Access Review: Bring The Skater Rush To Your Room In VR",
-        "url": "https://www.uploadvr.com/bomb-the-hill-early-access-review/",
-        "summary": "Bomb the Hill on Quest is a fun downhill VR skateboarding experience with a surprisingly touching story about the early days of the sport.",
-        "source": "uploadvr.com",
-        "date": "Tue, 15 Sep 2026 06:18:26 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Bomb-the-Hill-Tape-Player.jpg"
-      },
-      {
         "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
         "url": "https://mixed-news.com/en/steam-frame-launch-looks-days-away-as-valve-quietly-prepares-reservations/",
         "summary": "Valve still refuses to give us a Steam Frame release date, but the company has now started making the same backend changes that appeared shortly before Steam Machine reservations…",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "A brief history of AI executives calling for regulation",
-        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-        "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including…",
+        "title": "Apple might make servers again to cash in on the AI rush",
+        "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+        "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with NVIDIA to make it happen.",
         "source": "theverge.com",
-        "date": "2026-09-16T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-16T13:20:29-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
       },
       {
-        "title": "AI and data centers are incredibly unpopular in every poll",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-        "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are…",
+        "title": "Google will now let any AI agent run your smart home",
+        "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+        "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the…",
         "source": "theverge.com",
-        "date": "2026-09-15T19:34:25-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-16T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Meta’s new One subscriptions put a price on social media and AI",
-        "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-        "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage.",
+        "title": "Claude comes for Gemini with its own take on Docs and Slides",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+        "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with…",
         "source": "theverge.com",
-        "date": "2026-09-15T11:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-16T12:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Four groups caught using the same Chrome and Windows exploit kit",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Commanders to sign OL Lucas Patrick",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-sign-ol-lucas-patrick",
-        "summary": "The Commanders are adding a veteran offensive lineman to the roster ahead of their Week 2 game in Dallas.",
+        "title": "Mike Vrabel: TreVeyon Henderson will increase practice workload on Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-treveyon-henderson-will-increase-practice-workload-on-wednesday",
+        "summary": "There is some positive news on the injury front for one of New England's key young players.",
         "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 08:44:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/35e679b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F917%2F319%2Fnbc_pft_commanderslogo_260828.jpg"
+        "date": "Wed, 16 Sep 2026 13:18:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9e1e12c/2147483647/strip/false/crop/4343x2443+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2Fea%2Fb9636fb945edbff43ff52af299af%2F2280499554.jpg"
       },
       {
-        "title": "Joe Brady: No concerns about Highmark Stadium field for Thursday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-brady-no-concerns-about-highmark-stadium-field-for-thursday-night",
-        "summary": "The condition of the playing field at the new Highmark Stadium became a talking point after the Bills played their first preseason game at the building this summer.",
+        "title": "Giants expect Aaron Donald to play on Monday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-expect-aaron-donald-to-play-on-monday-night",
+        "summary": "Rams head coach Sean McVay said on Monday that the team has not decided whether defensive tackle Aaron Donald will play in Week 2, but the opposing head coach believes he knows the…",
         "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 06:58:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0abd693/2147483647/strip/false/crop/5510x3099+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F13d531a24dd585b46f393c56ee26%2F2294750612.jpg"
+        "date": "Wed, 16 Sep 2026 13:13:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3aed93/2147483647/strip/false/crop/5128x2885+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F78%2F932c7bc94ccda9ec88ad79dfc72b%2F2294592446.jpg"
       },
       {
-        "title": "Jacoby Brissett leads the NFL in passing yards since becoming the Cardinals' starter",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-leads-the-nfl-in-passing-yards-since-becoming-the-cardinals-starter",
-        "summary": "Brissett's 277 passing yards on Sunday helped the Cardinals beat the Chargers.",
+        "title": "Chiefs will have Mansoor Delane at Wednesday's practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-will-have-mansoor-delane-at-wednesdays-practice",
+        "summary": "Word on Tuesday was that Chiefs cornerback Mansoor Delane avoided a serious shoulder injury in Monday night's win over the Broncos and the first-round pick is set to be back on the…",
         "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 04:46:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4a57b7e/2147483647/strip/false/crop/7819x4398+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdb%2F1b%2Fff22f62d4a1f87ab956494e07a67%2F2295512184.jpg"
+        "date": "Wed, 16 Sep 2026 12:58:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/652c59b/2147483647/strip/false/crop/4682x2634+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fc4%2Fb7ee855844c588d82d0138e05a48%2F2295316035.jpg"
       },
       {
-        "title": "Ben Johnson suggests he wanted Bears to score 60 points at Carolina",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-suggests-he-wanted-bears-to-score-60-points-at-carolina",
-        "summary": "The Bears scored 59 points on Sunday at Carolina.",
+        "title": "Nick Sirianni explains decision not to put Landon Dickerson on injury report",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-explains-decision-not-to-put-landon-dickerson-on-injury-report",
+        "summary": "Apparently, an injury isn't an injury if a team doesn't know with certainty what the injury is.",
         "source": "nbcsports.com",
-        "date": "Tue, 15 Sep 2026 23:35:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/74f53d1/2147483647/strip/false/crop/3820x2149+0+199/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8e%2F38%2F8888d89f49479f5521fb59b0e1ef%2F2295104120.jpg"
+        "date": "Wed, 16 Sep 2026 12:57:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/17e27cd/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F649%2F99%2Fnbc_pft_tylerowens_260916.jpg"
       },
       {
-        "title": "Arch Manning apologizes for \"insensitive comment\" about AI video from Saturday's game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arch-manning-apologizes-for-insensitive-comment-about-ai-video-from-saturdays-game",
-        "summary": "Saturday was a good day for Texas quarterback Arch Manning.",
+        "title": "49ers to put WR De'Zhaun Stribling on injured reserve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-to-put-wr-dezhaun-stribling-on-injured-reserve",
+        "summary": "49ers rookie wide receiver De'Zhaun Stribling will miss at least four games due to the ankle injury he suffered in last Thursday's season-opening win over the Rams.",
         "source": "nbcsports.com",
-        "date": "Tue, 15 Sep 2026 23:18:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eb1899c/2147483647/strip/false/crop/4520x2543+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F55%2F30%2F536e07964f2a82b115a8443f3a45%2F2295340270.jpg"
+        "date": "Wed, 16 Sep 2026 12:52:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6961e39/2147483647/strip/false/crop/4501x2532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2Fb4%2Fa106fdab4049a50e16315d227406%2F2294929521.jpg"
       },
       {
-        "title": "Victim in Josh Jacobs case files motion to permanently seal video",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/victim-in-josh-jacobs-case-files-motion-to-permanently-seal-video",
-        "summary": "Latest move could make it harder for NFL to see the video.",
+        "title": "Deshaun Watson: The media thinks I'm supposed to throw for 400 yards, 5 TDs each week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-the-media-thinks-im-supposed-to-throw-for-400-yards-5-tds-each-week",
+        "summary": "Deshaun Watson will start for the Browns again on Sunday when they play Baker Mayfield and the Buccaneers.",
         "source": "nbcsports.com",
-        "date": "Tue, 15 Sep 2026 22:39:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a2906e/2147483647/strip/false/crop/3628x2041+0+189/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2Fca%2F99c2cffb456f8935947fcdb36a6d%2F2282389923.jpg"
+        "date": "Wed, 16 Sep 2026 12:48:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b03bd8f/2147483647/strip/false/crop/7892x4439+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2F4c%2Fb861901c4ff190ccee7bb6eb9d9d%2F2292575967.jpg"
       }
     ]
   }
