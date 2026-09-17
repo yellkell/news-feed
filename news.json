@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:22:40.899Z",
+  "updated": "2026-09-17T06:19:25.220Z",
   "feed": {
     "VR": [
       {
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+        "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel…",
+        "source": "theverge.com",
+        "date": "2026-09-16T19:40:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
         "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
         "summary": "Group plans to be largely out of commission for several weeks.",
@@ -69,14 +77,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-16-at-4.19.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "The AI data center e-waste problem is huge — and getting bigger",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-        "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns.",
-        "source": "theverge.com",
-        "date": "2026-09-16T16:40:46-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
         "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
         "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
       },
       {
-        "title": "Apple might make servers again to cash in on the AI rush",
-        "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-        "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen.",
+        "title": "The AI data center e-waste problem is huge — and getting bigger",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+        "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns.",
         "source": "theverge.com",
-        "date": "2026-09-16T13:20:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-16T16:40:46-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ClickFix attacks infecting PCs and Macs are going viral",
@@ -102,6 +102,30 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Report: Keenan Allen's BAC was measured at 0.224 percent",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-keenan-allens-bac-was-measured-at-0-224-percent",
+        "summary": "Colts receiver Keenan Allen faces an enhanced misdemeanor charge for DUI, because his blood-alcohol concentration (alcohol concentration equivalent, in Indiana parlance) exceeded…",
+        "source": "nbcsports.com",
+        "date": "Wed, 16 Sep 2026 22:43:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/97f5d4c/2147483647/strip/false/crop/4800x2700+0+833/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2Fd3%2F67500bec45b58341aec270cfa976%2F2294902437.jpg"
+      },
+      {
+        "title": "A new book, Accessory After The Fact, is coming",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-new-book-accessory-after-the-fact-is-coming",
+        "summary": "During the first year of the pandemic, after the draft ended and the NFL basically shut down, I had more free time than I'd had in years.",
+        "source": "nbcsports.com",
+        "date": "Wed, 16 Sep 2026 22:18:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/636e5a3/2147483647/strip/false/crop/8660x4871+0+451/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Ffe%2F2e8b00eb4c3bb1770d95c5f16008%2F2295411830.jpg"
+      },
+      {
+        "title": "NFLPA will \"explore all options\" regarding league's position on Dae'Quan Wright, Zxavien Harris",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-will-explore-all-options-regarding-leagues-position-on-daequan-wright-zxavien-harris",
+        "summary": "After LSU slammed the door on former NFL tryout players Dae'Quan Wright and Zxavien Harris, the NFL re-slammed the door on their potential return to pro football during the 2026…",
+        "source": "nbcsports.com",
+        "date": "Wed, 16 Sep 2026 21:35:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3455ccf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F649%2F99%2Fnbc_pft_collegesportsact_260916.jpg"
+      },
       {
         "title": "ManningCast slumps to 705,000 viewers",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/manningcast-slumps-to-705-000-viewers",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 16 Sep 2026 20:04:42 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7f064a5/2147483647/strip/false/crop/8089x4550+0+421/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F19%2Fac%2F396b1c8a4269ab599b52217310b0%2F2295493154.jpg"
-      },
-      {
-        "title": "Leonard Williams: \"We all have faith\" in Drew Lock",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/leonard-williams-we-all-have-faith-in-drew-lock",
-        "summary": "Seahawks believe in Sam Darnold's replacement.",
-        "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 20:01:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3064e84/2147483647/strip/false/crop/5588x3143+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F8b%2F6b01df884ce5ac44fa03470ec670%2F2294933689.jpg"
-      },
-      {
-        "title": "Ken Zampese: Browns \"mucked it up\" with Baker Mayfield",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ken-zampese-browns-mucked-it-up-with-baker-mayfield",
-        "summary": "Eight years to the day after Baker Mayfield made his debut for the Browns, he'll be facing the Browns in his fourth year as the starting quarterback of the Buccaneers.",
-        "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 19:41:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/13ebf25/2147483647/strip/false/crop/4442x2499+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F65%2F39696d524785bd4729317507f1cc%2F1009793502.jpg"
-      },
-      {
-        "title": "Macklemore, Robert Kraft make significant donations to Palestinian relief",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/macklemore-robert-kraft-make-significant-donations-to-palestinian-relief",
-        "summary": "The recent spat between Macklemore and Patriots owner Robert Kraft regarding Macklemore's presence on Ed Sheeran's tour has led to some good.",
-        "source": "nbcsports.com",
-        "date": "Wed, 16 Sep 2026 19:20:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1cdd6f/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2F28%2F4406b22642829a5668c79938725b%2F2294405701.jpg"
       }
     ]
   }
