@@ -1,22 +1,46 @@
 {
-  "updated": "2026-09-18T13:52:36.999Z",
+  "updated": "2026-09-18T17:23:26.924Z",
   "feed": {
     "VR": [
       {
-        "title": "Valve says the RAM crisis pushed Steam Frame above the price it was aiming for",
-        "url": "https://mixed-news.com/en/valve-says-ram-crisis-pushed-steam-frame-above-target-price/",
-        "summary": "Valve says Steam Frame was meant to be cheaper, and that the global memory shortage is why it is not.",
+        "title": "Steam Frame reservations appear on eBay for $2,000, but Valve's terms bar any transfer",
+        "url": "https://mixed-news.com/en/steam-frame-reservations-ebay-2000-valve-terms-bar-transfer/",
+        "summary": "Steam Frame reservations are listed on eBay at asking prices of $2,000 or more, but a buyer may be paying for a purchase right that Valve's own terms say cannot change hands.",
         "source": "mixed-news.com",
-        "date": "Fri, 18 Sep 2026 11:00:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/2867aba4d7462a18c249189ff1e7fee5b60f706a.jpg"
+        "date": "Fri, 18 Sep 2026 16:27:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/66ccca0b704d6f2e55abf7f7b7c600d77016c0c3.jpg"
       },
       {
-        "title": "visionOS 27 Launched For Apple Vision Pro Headsets, Bringing Siri AI & More",
-        "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
-        "summary": "Apple launched visionOS 27 for Vision Pro headsets this week. Read our extensive rundown of all the biggest features & improvements.",
+        "title": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
+        "url": "https://www.uploadvr.com/flow-chaser-brings-procedural-spatial-rhythm-gameplay-to-apple-vision-pro/",
+        "summary": "Flow Chaser is a new spatial rhythm game for Apple Vision Pro that launched alongside the recently released visionOS 27.",
         "source": "uploadvr.com",
-        "date": "Thu, 17 Sep 2026 19:20:37 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/visionOS-27.jpeg"
+        "date": "Fri, 18 Sep 2026 08:26:19 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Flow-Chaser-Promo.jpeg"
+      },
+      {
+        "title": "Unseen Reality XR Glasses Secures $1.2M in Successful Kickstarter",
+        "url": "https://roadtovr.com/unseen-reality-xr-glasses-1m-kickstarter/",
+        "summary": "Unseen Reality took to Kickstarter last month to fund its monitor-replacing mixed reality glasses, URXR One.",
+        "source": "roadtovr.com",
+        "date": "Fri, 18 Sep 2026 15:07:59 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
+      },
+      {
+        "title": "Espionage Adventure Spymaster Leaves PC VR & Quest Early Access In October",
+        "url": "https://www.uploadvr.com/espionage-adventure-spymaster-leaves-pc-vr-quest-early-access-in-october/",
+        "summary": "After a 5-month Early Access period, time-warping secret agent VR adventure Spymaster gets its full Quest and Steam release on October 15.",
+        "source": "uploadvr.com",
+        "date": "Fri, 18 Sep 2026 08:25:23 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Spymaster_KeyArt--2-.png"
+      },
+      {
+        "title": "Steam Frame's power supply is a $29 extra, and Valve only sells its accessories at checkout",
+        "url": "https://mixed-news.com/en/steam-frame-power-supply-29-accessories-only-at-checkout/",
+        "summary": "Steam Frame's 45W power supply is a separate $29 item in the US, and Valve sells it, like its two accessory kits, only at checkout.",
+        "source": "mixed-news.com",
+        "date": "Fri, 18 Sep 2026 15:01:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/maxresdefault-1.jpg"
       },
       {
         "title": "Snap Announces New “anticipatory” AI Service & Apps for First Consumer ‘Specs’ AR Glasses",
@@ -25,40 +49,16 @@
         "source": "roadtovr.com",
         "date": "Wed, 16 Sep 2026 23:40:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?resize=1800%2C1200&quality=100&ssl=1"
-      },
-      {
-        "title": "Steam now sells VR games that won't run on a PC, and Valve is fine with that",
-        "url": "https://mixed-news.com/en/steam-frame-only-vr-games-wont-run-on-pc-valve/",
-        "summary": "Two of the VR games that arrived on Steam with Steam Frame on September 14 will not run on a gaming PC at all, and Valve says that is allowed.",
-        "source": "mixed-news.com",
-        "date": "Fri, 18 Sep 2026 09:34:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/ss_b227afc226cde772d3c7b7af0484e4f59656a4ef.1920x1080.jpg"
-      },
-      {
-        "title": "Scalpers & Scammers Swoop In To Prey On Waitlisted Would-Be Steam Frame Buyers",
-        "url": "https://www.uploadvr.com/scalpers-scammers-swoop-in-to-prey-on-waitlisted-would-be-steam-frame-buyers/",
-        "summary": "Scalpers & scammers are circling waitlisted Steam Frame buyers like vultures with insanely overpriced listings on secondary markets.",
-        "source": "uploadvr.com",
-        "date": "Thu, 17 Sep 2026 16:55:04 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr---banner.png"
-      },
-      {
-        "title": "Steam Frame Review – Power-user’s Playground",
-        "url": "https://roadtovr.com/valve-steam-frame-review/",
-        "summary": "Steam Frame is finally here. It’s Valve’s second-ever VR headset, and a radically different product than its first. Did Valve pull off the vision? And, if so, who is Steam Frame…",
-        "source": "roadtovr.com",
-        "date": "Wed, 16 Sep 2026 22:52:10 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/steam-frame-review-20.jpg?resize=1440%2C960&quality=100&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Flash floods can strike without warning — this new technology could change that",
-        "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-        "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border.",
+        "title": "What Hollywood thinks about existential AI warnings",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+        "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening.",
         "source": "theverge.com",
-        "date": "2026-09-18T07:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-18T12:35:19-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
       },
       {
-        "title": "The AI Superintelligence Slowdown",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-        "summary": "Remember when tech leaders would tell their employees to “move fast and break things”?",
+        "title": "Security researchers used Claude to help them hack into OpenAI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+        "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5,…",
         "source": "theverge.com",
-        "date": "2026-09-17T15:28:24-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-18T11:30:16-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg"
       },
       {
-        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-        "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts.",
+        "title": "Flash floods can strike without warning — this new technology could change that",
+        "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+        "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border.",
         "source": "theverge.com",
-        "date": "2026-09-17T14:58:05-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-18T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Ravens DC Anthony Weaver: Tyler Shough reminds me of \"a poor-man's Josh Allen\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-dc-anthony-weaver-tyler-shough-reminds-me-of-a-poor-mans-josh-allen",
-        "summary": "Josh Allen's skills were on display in Buffalo's win over the Lions on Thursday night and his performance was the latest reason why any quarterback should be excited about being…",
+        "title": "Bills' decision to play Canadian anthem is \"all about the business\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-decision-to-play-canadian-anthem-is-all-about-the-business",
+        "summary": "The Bills christened their new stadium with both the American and Canadian national anthems, with the quartet known as Barenaked Ladies singing O Canada before kickoff.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 09:14:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eadb8fb/2147483647/strip/false/crop/5000x2813+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2Fff%2Fac9d8e924594b38e0bf29869eb8d%2F2294957973.jpg"
+        "date": "Fri, 18 Sep 2026 13:11:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d2dce25/2147483647/strip/false/crop/5065x2849+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcd%2Fb8%2Fa201657f4e7eb121c6a86d0cfb87%2F2295834696.jpg"
       },
       {
-        "title": "Makai Lemon knows he has \"lots to improve\" after minus-5 yards in his first NFL game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/makai-lemon-knows-he-has-lots-to-improve-after-minus-5-yards-in-his-first-nfl-game",
-        "summary": "Eagles rookie wide receiver Makai Lemon had a box score to forget in the first game of his NFL career: Against the Commanders, Lemon caught three passes for minus-5 yards.",
+        "title": "Anthony Richardson set to be QB2 on Sunday, Ashton Dulin ruled out",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-set-to-be-qb2-on-sunday-ashton-dulin-ruled-out",
+        "summary": "The Colts have ruled out one player for Sunday night's matchup with the Chiefs, but their backup quarterback will be OK to play.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 08:06:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/746ee75/2147483647/strip/false/crop/6407x3604+0+334/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2Fda%2F7e2444b949be8d413ebaf14b821e%2F2295350838.jpg"
+        "date": "Fri, 18 Sep 2026 13:09:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9f137ae/2147483647/strip/false/crop/7200x4050+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2F89%2F005d703443cc9497b7dea51b97bf%2F2291043638.jpg"
       },
       {
-        "title": "Report: DJ Moore day-to-day with shoulder injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dj-moore-day-to-day-with-shoulder-injury",
-        "summary": "Thursday night was a good night for the Bills on most fronts, but one exception was the shoulder injury that knocked wide receiver DJ Moore out of the game in the second quarter.",
+        "title": "Cooper Rush is expected to start for Falcons vs. Panthers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cooper-rush-is-expected-to-start-for-falcons-vs-panthers",
+        "summary": "Michael Penix Jr. still isn't ready to go.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 08:00:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/481f7de/2147483647/strip/false/crop/5713x3214+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F24%2Fc028dffd483e8bfa1365278a50cc%2F2295833892.jpg"
+        "date": "Fri, 18 Sep 2026 12:41:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a2e338b/2147483647/strip/false/crop/5769x3245+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2F30%2F516dbf5e4ae19fd223fc0c73cac4%2F2026-09-13t204707z-684097099-mt1usatoday29813921-rtrmadp-3-nfl-atlanta-falcons-at-pittsburgh-steelers.jpg"
       },
       {
-        "title": "Bo Nix: We're not freaking out about being 0-1",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-were-not-freaking-out-about-being-0-1",
-        "summary": "The Broncos opened the regular season with a dud against the Chiefs, but they're not making too much of one result as they prepare for Sunday's home opener against the Jaguars.",
+        "title": "Jalen Coker has no injury designation for Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-coker-has-no-injury-designation-for-sunday",
+        "summary": "Wide receiver Jalen Coker is good to go for the Panthers on Sunday.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 07:15:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec5dcdf/2147483647/strip/false/crop/3086x1736+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F26%2F340a833846e2b6cc9ad51e8c0723%2F2295491984.jpg"
+        "date": "Fri, 18 Sep 2026 12:39:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d3fb4be/2147483647/strip/false/crop/5360x3015+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F12%2F4961d8114c6db2c05f8e35b0870b%2F2256622859.jpg"
       },
       {
-        "title": "Jalen Carter to wear a cast on his wrist against the Titans",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-carter-to-wear-a-cast-on-his-wrist-against-the-titans",
-        "summary": "Eagles defensive tackle Jalen Carter returned to practice on Thursday with a new look.",
+        "title": "Zac Taylor: Joe Burrow was a full participant on Friday, feels good",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zac-taylor-joe-burrow-was-a-full-participant-on-friday-feels-good",
+        "summary": "Burrow appears set to start against Houston on Sunday despite dealing with a back issue this week.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 07:05:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d66b62/2147483647/strip/false/crop/4711x2650+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2Fae%2Fc82592f84d589f82d6a6d5d38dfc%2F2295119983.jpg"
+        "date": "Fri, 18 Sep 2026 12:37:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fbe7cb1/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F28%2F59f044754e58a1b390ade8bd38d4%2F2295038757.jpg"
       },
       {
-        "title": "Josh Allen: Very fortunate to be the QB to open this stadium",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-very-fortunate-to-be-the-qb-to-open-this-stadium",
-        "summary": "Josh Allen had a lot of big games in the old Highmark Stadium, but it's hard to top the one he came up with for the first game in the new one.",
+        "title": "There will be no written report of the UNC investigation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/there-will-be-no-written-report-of-the-unc-investigation",
+        "summary": "The investigation into the North Carolina football program has concluded.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 06:54:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/292eb1f/2147483647/strip/false/crop/5753x3236+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F92%2F300353cc4ba1a187185d3374ae53%2F2295234833.jpg"
+        "date": "Fri, 18 Sep 2026 12:20:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/02e13a4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F917%2F319%2Fnbc_pft_belichick_260828.jpg"
       }
     ]
   }
