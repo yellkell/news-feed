@@ -1,15 +1,7 @@
 {
-  "updated": "2026-09-18T17:23:26.924Z",
+  "updated": "2026-09-18T19:49:10.326Z",
   "feed": {
     "VR": [
-      {
-        "title": "Steam Frame reservations appear on eBay for $2,000, but Valve's terms bar any transfer",
-        "url": "https://mixed-news.com/en/steam-frame-reservations-ebay-2000-valve-terms-bar-transfer/",
-        "summary": "Steam Frame reservations are listed on eBay at asking prices of $2,000 or more, but a buyer may be paying for a purchase right that Valve's own terms say cannot change hands.",
-        "source": "mixed-news.com",
-        "date": "Fri, 18 Sep 2026 16:27:43 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/66ccca0b704d6f2e55abf7f7b7c600d77016c0c3.jpg"
-      },
       {
         "title": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
         "url": "https://www.uploadvr.com/flow-chaser-brings-procedural-spatial-rhythm-gameplay-to-apple-vision-pro/",
@@ -27,6 +19,14 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
+        "title": "Valve says the RAM crisis pushed Steam Frame above the price it was aiming for",
+        "url": "https://mixed-news.com/en/valve-says-ram-crisis-pushed-steam-frame-above-target-price/",
+        "summary": "Valve says Steam Frame was meant to be cheaper, and that the global memory shortage is why it is not.",
+        "source": "mixed-news.com",
+        "date": "Fri, 18 Sep 2026 11:00:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/2867aba4d7462a18c249189ff1e7fee5b60f706a.jpg"
+      },
+      {
         "title": "Espionage Adventure Spymaster Leaves PC VR & Quest Early Access In October",
         "url": "https://www.uploadvr.com/espionage-adventure-spymaster-leaves-pc-vr-quest-early-access-in-october/",
         "summary": "After a 5-month Early Access period, time-warping secret agent VR adventure Spymaster gets its full Quest and Steam release on October 15.",
@@ -35,12 +35,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Spymaster_KeyArt--2-.png"
       },
       {
-        "title": "Steam Frame's power supply is a $29 extra, and Valve only sells its accessories at checkout",
-        "url": "https://mixed-news.com/en/steam-frame-power-supply-29-accessories-only-at-checkout/",
-        "summary": "Steam Frame's 45W power supply is a separate $29 item in the US, and Valve sells it, like its two accessory kits, only at checkout.",
+        "title": "Steam now sells VR games that won't run on a PC, and Valve is fine with that",
+        "url": "https://mixed-news.com/en/steam-frame-only-vr-games-wont-run-on-pc-valve/",
+        "summary": "Two of the VR games that arrived on Steam with Steam Frame on September 14 will not run on a gaming PC at all, and Valve says that is allowed.",
         "source": "mixed-news.com",
-        "date": "Fri, 18 Sep 2026 15:01:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/maxresdefault-1.jpg"
+        "date": "Fri, 18 Sep 2026 09:34:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/ss_b227afc226cde772d3c7b7af0484e4f59656a4ef.1920x1080.jpg"
       },
       {
         "title": "Snap Announces New “anticipatory” AI Service & Apps for First Consumer ‘Specs’ AR Glasses",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "What Hollywood thinks about existential AI warnings",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-        "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening.",
+        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+        "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+        "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down…",
         "source": "theverge.com",
-        "date": "2026-09-18T12:35:19-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-18T14:29:17-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
       },
       {
-        "title": "Security researchers used Claude to help them hack into OpenAI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-        "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5,…",
+        "title": "Gavin Newsom is pushing for an AI kill switch",
+        "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+        "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new…",
         "source": "theverge.com",
-        "date": "2026-09-18T11:30:16-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-18T13:04:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292819671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg"
       },
       {
-        "title": "Flash floods can strike without warning — this new technology could change that",
-        "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-        "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border.",
+        "title": "What Hollywood thinks about existential AI warnings",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+        "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening.",
         "source": "theverge.com",
-        "date": "2026-09-18T07:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-18T12:35:19-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Bills' decision to play Canadian anthem is \"all about the business\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-decision-to-play-canadian-anthem-is-all-about-the-business",
-        "summary": "The Bills christened their new stadium with both the American and Canadian national anthems, with the quartet known as Barenaked Ladies singing O Canada before kickoff.",
+        "title": "Will McDonald questionable for Jets, Minkah Fitzpatrick ruled out",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-mcdonald-questionable-for-jets-minkah-fitzpatrick-ruled-out",
+        "summary": "The Jets will be missing a handful of players as they try to open a season with a 2-0 record for the first time since 2015, but they hope linebacker Will McDonald won't be one of…",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 13:11:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d2dce25/2147483647/strip/false/crop/5065x2849+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcd%2Fb8%2Fa201657f4e7eb121c6a86d0cfb87%2F2295834696.jpg"
+        "date": "Fri, 18 Sep 2026 15:39:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b027985/2147483647/strip/false/crop/3652x2054+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F50%2Fb322f8364ea4b89904635532eca0%2F2291625718.jpg"
       },
       {
-        "title": "Anthony Richardson set to be QB2 on Sunday, Ashton Dulin ruled out",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-set-to-be-qb2-on-sunday-ashton-dulin-ruled-out",
-        "summary": "The Colts have ruled out one player for Sunday night's matchup with the Chiefs, but their backup quarterback will be OK to play.",
+        "title": "Joe Brady: If DJ Moore can be out there for Week 3, he’ll be out there",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-brady-if-dj-moore-can-be-out-there-for-week-3-hell-be-out-there",
+        "summary": "After defeating the Lions on Thursday night, the Bills will have a long weekend to rest up and heal before hosting the Chargers in Week 3.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 13:09:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9f137ae/2147483647/strip/false/crop/7200x4050+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2F89%2F005d703443cc9497b7dea51b97bf%2F2291043638.jpg"
+        "date": "Fri, 18 Sep 2026 15:37:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58775a1/2147483647/strip/false/crop/3887x2186+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2Fae%2Ffef259a94109b1857df18e9df27b%2F2026-09-18t175529z-1415953953-mt1usatoday29848981-rtrmadp-3-nfl-buffalo-bills-at-houston-texans.jpg"
       },
       {
-        "title": "Cooper Rush is expected to start for Falcons vs. Panthers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cooper-rush-is-expected-to-start-for-falcons-vs-panthers",
-        "summary": "Michael Penix Jr. still isn't ready to go.",
+        "title": "Ravens list Zay Flowers as doubtful; Trey Hendrickson and Ronnie Stanley are questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-list-zay-flowers-as-doubtful-trey-hendrickson-and-ronnie-stanley-are-questionable",
+        "summary": "Ravens wide receiver Zay Flowers was back on the practice field Friday, but he's unlikely to be back in their lineup for Sunday's game against the Saints.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 12:41:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a2e338b/2147483647/strip/false/crop/5769x3245+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2F30%2F516dbf5e4ae19fd223fc0c73cac4%2F2026-09-13t204707z-684097099-mt1usatoday29813921-rtrmadp-3-nfl-atlanta-falcons-at-pittsburgh-steelers.jpg"
+        "date": "Fri, 18 Sep 2026 15:22:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efdf430/2147483647/strip/false/crop/4538x2553+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F32%2Fbb49cb5541f5a007ca7a5cf3b35b%2F2295961056.jpg"
       },
       {
-        "title": "Jalen Coker has no injury designation for Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-coker-has-no-injury-designation-for-sunday",
-        "summary": "Wide receiver Jalen Coker is good to go for the Panthers on Sunday.",
+        "title": "D'Andre Swift, Kyle Monangai good to go for Bears",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dandre-swift-kyle-monangai-good-to-go-for-bears",
+        "summary": "The Bears had their top two running backs on the injury report this week, but neither one of them is at risk of missing Sunday's game against the Vikings.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 12:39:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d3fb4be/2147483647/strip/false/crop/5360x3015+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F12%2F4961d8114c6db2c05f8e35b0870b%2F2256622859.jpg"
+        "date": "Fri, 18 Sep 2026 15:12:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/14da38d/2147483647/strip/false/crop/4645x2613+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2F3b%2Fa9f4b30e4c4d8f5aafc99675bd90%2F2295100172.jpg"
       },
       {
-        "title": "Zac Taylor: Joe Burrow was a full participant on Friday, feels good",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zac-taylor-joe-burrow-was-a-full-participant-on-friday-feels-good",
-        "summary": "Burrow appears set to start against Houston on Sunday despite dealing with a back issue this week.",
+        "title": "Raiders call Brock Bowers doubtful to play in Week 2",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-call-brock-bowers-doubtful-to-play-in-week-2",
+        "summary": "Tight end Brock Bowers was back at practice for the Raiders on Friday, but it looks like he is going to miss another game.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 12:37:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fbe7cb1/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F28%2F59f044754e58a1b390ade8bd38d4%2F2295038757.jpg"
+        "date": "Fri, 18 Sep 2026 14:55:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7ca6860/2147483647/strip/false/crop/5246x2951+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9a%2F51%2Fe13c15294d4c8c5bf6f9d173ed71%2F2251546593.jpg"
       },
       {
-        "title": "There will be no written report of the UNC investigation",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/there-will-be-no-written-report-of-the-unc-investigation",
-        "summary": "The investigation into the North Carolina football program has concluded.",
+        "title": "Bills are third team ever to start 2-0 while giving up more than 30 points in both games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-are-third-team-ever-to-start-2-0-while-giving-up-more-than-30-points-in-both-games",
+        "summary": "The Bills have started the season with two wins over two teams that entered the season as favorites to win their divisions.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 12:20:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/02e13a4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F917%2F319%2Fnbc_pft_belichick_260828.jpg"
+        "date": "Fri, 18 Sep 2026 14:50:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3149747/2147483647/strip/false/crop/4188x2356+0+218/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa6%2F83%2Fa86174dd43eba9275ffe70e523b2%2F2295236383.jpg"
       }
     ]
   }
