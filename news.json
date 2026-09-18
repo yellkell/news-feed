@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-18T09:44:48.676Z",
+  "updated": "2026-09-18T13:52:36.999Z",
   "feed": {
     "VR": [
+      {
+        "title": "Valve says the RAM crisis pushed Steam Frame above the price it was aiming for",
+        "url": "https://mixed-news.com/en/valve-says-ram-crisis-pushed-steam-frame-above-target-price/",
+        "summary": "Valve says Steam Frame was meant to be cheaper, and that the global memory shortage is why it is not.",
+        "source": "mixed-news.com",
+        "date": "Fri, 18 Sep 2026 11:00:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/2867aba4d7462a18c249189ff1e7fee5b60f706a.jpg"
+      },
       {
         "title": "visionOS 27 Launched For Apple Vision Pro Headsets, Bringing Siri AI & More",
         "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
@@ -19,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?resize=1800%2C1200&quality=100&ssl=1"
       },
       {
-        "title": "MIT put a robot under 3.6 feet of Arctic ice and got data back through the ice",
-        "url": "https://mixed-news.com/en/mit-put-a-robot-under-3-6-feet-of-arctic-ice-and-got-data-back-through-the-ice/",
-        "summary": "MIT researchers sent a remotely operated robot beneath 3.6 feet of Arctic ice and managed to transmit data through the frozen surface, a step toward sensor networks that could…",
+        "title": "Steam now sells VR games that won't run on a PC, and Valve is fine with that",
+        "url": "https://mixed-news.com/en/steam-frame-only-vr-games-wont-run-on-pc-valve/",
+        "summary": "Two of the VR games that arrived on Steam with Steam Frame on September 14 will not run on a gaming PC at all, and Valve says that is allowed.",
         "source": "mixed-news.com",
-        "date": "Mon, 07 Sep 2026 01:25:55 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/G1-Robot.webp"
+        "date": "Fri, 18 Sep 2026 09:34:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/ss_b227afc226cde772d3c7b7af0484e4f59656a4ef.1920x1080.jpg"
       },
       {
         "title": "Scalpers & Scammers Swoop In To Prey On Waitlisted Would-Be Steam Frame Buyers",
@@ -41,24 +49,16 @@
         "source": "roadtovr.com",
         "date": "Wed, 16 Sep 2026 22:52:10 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/steam-frame-review-20.jpg?resize=1440%2C960&quality=100&ssl=1"
-      },
-      {
-        "title": "Steam Frame launch looks days away as Valve quietly prepares reservations",
-        "url": "https://mixed-news.com/en/steam-frame-launch-looks-days-away-as-valve-quietly-prepares-reservations/",
-        "summary": "Valve still refuses to give us a Steam Frame release date, but the company has now started making the same backend changes that appeared shortly before Steam Machine reservations…",
-        "source": "mixed-news.com",
-        "date": "Mon, 07 Sep 2026 01:20:42 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/06/STeam-frame.jpg"
       }
     ],
     "AI": [
       {
-        "title": "The AI Superintelligence Slowdown",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-        "summary": "Remember when tech leaders would tell their employees to “move fast and break things”?",
+        "title": "Flash floods can strike without warning — this new technology could change that",
+        "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+        "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border.",
         "source": "theverge.com",
-        "date": "2026-09-17T15:28:24-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-18T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
       },
       {
-        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-        "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts.",
+        "title": "The AI Superintelligence Slowdown",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+        "summary": "Remember when tech leaders would tell their employees to “move fast and break things”?",
         "source": "theverge.com",
-        "date": "2026-09-17T14:58:05-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-17T15:28:24-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg"
       },
       {
-        "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-        "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-        "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI.",
+        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+        "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts.",
         "source": "theverge.com",
-        "date": "2026-09-17T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-17T14:58:05-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Sean McVay: Myles Garrett is like Wolverine, healing fast, but we won't rush him back",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-myles-garrett-is-like-wolverine-healing-fast-but-we-wont-rush-him-back",
-        "summary": "\"I'm reluctant to put a timeline on it. We know that he's going to miss those four weeks at a minimum,\" McVay said.",
+        "title": "Ravens DC Anthony Weaver: Tyler Shough reminds me of \"a poor-man's Josh Allen\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-dc-anthony-weaver-tyler-shough-reminds-me-of-a-poor-mans-josh-allen",
+        "summary": "Josh Allen's skills were on display in Buffalo's win over the Lions on Thursday night and his performance was the latest reason why any quarterback should be excited about being…",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 05:20:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ace8bda/2147483647/strip/false/crop/5614x3158+0+293/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F34%2F444a77384612bf2bde6fd1684056%2F2294592418.jpg"
+        "date": "Fri, 18 Sep 2026 09:14:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eadb8fb/2147483647/strip/false/crop/5000x2813+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2Fff%2Fac9d8e924594b38e0bf29869eb8d%2F2294957973.jpg"
       },
       {
-        "title": "Dan Campbell: It's a long season, Lions need to get better",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-its-a-long-season-lions-need-to-get-better",
-        "summary": "\"They got after us, and we didn't play good enough, and we didn't coach good enough. That falls on me,\" Campbell said.",
+        "title": "Makai Lemon knows he has \"lots to improve\" after minus-5 yards in his first NFL game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/makai-lemon-knows-he-has-lots-to-improve-after-minus-5-yards-in-his-first-nfl-game",
+        "summary": "Eagles rookie wide receiver Makai Lemon had a box score to forget in the first game of his NFL career: Against the Commanders, Lemon caught three passes for minus-5 yards.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 04:24:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd87389/2147483647/strip/false/crop/5908x3323+0+308/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F85%2Fab%2Ff021b3af4dbba4e1895eb4b32a02%2F2295236533.jpg"
+        "date": "Fri, 18 Sep 2026 08:06:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/746ee75/2147483647/strip/false/crop/6407x3604+0+334/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2Fda%2F7e2444b949be8d413ebaf14b821e%2F2295350838.jpg"
       },
       {
-        "title": "Roger Goodell: Europe is the most likely destination for a franchise",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-europe-is-the-most-likely-destination-for-a-franchise",
-        "summary": "Last month, Commissioner Roger Goodell said he has \"no doubt\" that the NFL will have a team headquartered outside the United States.",
+        "title": "Report: DJ Moore day-to-day with shoulder injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dj-moore-day-to-day-with-shoulder-injury",
+        "summary": "Thursday night was a good night for the Bills on most fronts, but one exception was the shoulder injury that knocked wide receiver DJ Moore out of the game in the second quarter.",
         "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 00:15:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/41ae54f/2147483647/strip/false/crop/5616x3159+0+293/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F82%2F5a%2F37c6f7e9426488de9d787d9eb032%2F2295024107.jpg"
+        "date": "Fri, 18 Sep 2026 08:00:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/481f7de/2147483647/strip/false/crop/5713x3214+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F24%2Fc028dffd483e8bfa1365278a50cc%2F2295833892.jpg"
       },
       {
-        "title": "Emmitt Smith thinks Derrick Henry can break all-time rushing record",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/emmitt-smith-thinks-derrick-henry-can-break-all-time-rushing-record",
-        "summary": "Derrick Henry, at age 32, is playing like he did at age 22.",
+        "title": "Bo Nix: We're not freaking out about being 0-1",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-were-not-freaking-out-about-being-0-1",
+        "summary": "The Broncos opened the regular season with a dud against the Chiefs, but they're not making too much of one result as they prepare for Sunday's home opener against the Jaguars.",
         "source": "nbcsports.com",
-        "date": "Thu, 17 Sep 2026 23:51:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2242e27/2147483647/strip/false/crop/7200x4050+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2F8a%2F346f5e614cec9d04e9c5b83bc89c%2F2294902347.jpg"
+        "date": "Fri, 18 Sep 2026 07:15:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec5dcdf/2147483647/strip/false/crop/3086x1736+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F26%2F340a833846e2b6cc9ad51e8c0723%2F2295491984.jpg"
       },
       {
-        "title": "Thursday Night Football: Josh Allen accounts for five TDs in Bills' 41-31 win over Lions",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-josh-allen-accounts-for-five-tds-in-bills-41-31-win-over-lions",
-        "summary": "The Bills quarterback threw three touchdowns and ran for two.",
+        "title": "Jalen Carter to wear a cast on his wrist against the Titans",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-carter-to-wear-a-cast-on-his-wrist-against-the-titans",
+        "summary": "Eagles defensive tackle Jalen Carter returned to practice on Thursday with a new look.",
         "source": "nbcsports.com",
-        "date": "Thu, 17 Sep 2026 23:35:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/171a845/2147483647/strip/false/crop/4323x2432+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F89%2F09251c2e4d04b1eae7a71a5e9f9c%2F2295226629.jpg"
+        "date": "Fri, 18 Sep 2026 07:05:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d66b62/2147483647/strip/false/crop/4711x2650+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2Fae%2Fc82592f84d589f82d6a6d5d38dfc%2F2295119983.jpg"
       },
       {
-        "title": "Sean McVay hopes the Rams never play in Australia again",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-hopes-the-rams-never-play-in-australia-again",
-        "summary": "One week ago, the Rams made their debut in Australia.",
+        "title": "Josh Allen: Very fortunate to be the QB to open this stadium",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-very-fortunate-to-be-the-qb-to-open-this-stadium",
+        "summary": "Josh Allen had a lot of big games in the old Highmark Stadium, but it's hard to top the one he came up with for the first game in the new one.",
         "source": "nbcsports.com",
-        "date": "Thu, 17 Sep 2026 23:12:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/82ad3f0/2147483647/strip/false/crop/5472x3078+0+285/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2F71%2F4c2bea0845408d2c227d03f40780%2F2295448424.jpg"
+        "date": "Fri, 18 Sep 2026 06:54:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/292eb1f/2147483647/strip/false/crop/5753x3236+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F92%2F300353cc4ba1a187185d3374ae53%2F2295234833.jpg"
       }
     ]
   }
