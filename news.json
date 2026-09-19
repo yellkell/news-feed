@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-19T04:49:13.794Z",
+  "updated": "2026-09-19T09:06:01.006Z",
   "feed": {
     "VR": [
+      {
+        "title": "Anthropic says Claude led 26% of its own AI research work in August",
+        "url": "https://mixed-news.com/en/claude-leads-26-percent-anthropic-ai-research-work/",
+        "summary": "Anthropic says Claude \"leads\" 26% of the company's own AI research and development work as of August 2026, but the figure is self-reported and has not been independently verified.",
+        "source": "mixed-news.com",
+        "date": "Sat, 19 Sep 2026 07:19:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630-1.jpg"
+      },
       {
         "title": "Meta Could Demo Phoenix Headset At Connect With Full-Body Codec Avatars",
         "url": "https://www.uploadvr.com/meta-could-demo-phoenix-headset-at-connect-with-full-body-codec-avatars/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Fri, 18 Sep 2026 19:05:22 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/theinformlomacodec.png"
-      },
-      {
-        "title": "ChatGPT now works inside Microsoft Word, even on the free plan",
-        "url": "https://mixed-news.com/en/chatgpt-now-works-inside-microsoft-word-free-plan/",
-        "summary": "ChatGPT now works inside Microsoft Word on every ChatGPT plan, including Free, and it arrives through the same add-in that already brings it to Excel and PowerPoint.",
-        "source": "mixed-news.com",
-        "date": "Fri, 18 Sep 2026 21:20:37 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/image4_ChatGPTForWordinaction.png"
       },
       {
         "title": "Unseen Reality XR Glasses Secures $1.2M in Successful Kickstarter",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "PS VR2 is out of stock on Sony's US store, and Firewall Ultra is now offline for good",
-        "url": "https://mixed-news.com/en/ps-vr2-out-of-stock-sony-us-store-firewall-ultra-offline/",
-        "summary": "PlayStation VR2 is out of stock on Sony's own US store, and one of its bigger online shooters stopped working on September 17.",
+        "title": "visionOS 27 brings Siri AI to Vision Pro, even in the EU where iPhone misses out",
+        "url": "https://mixed-news.com/en/visionos-27-siri-ai-apple-vision-pro-eu/",
+        "summary": "visionOS 27 brings Apple's new Siri AI to Apple Vision Pro, and European owners get something their iPhones do not.",
         "source": "mixed-news.com",
-        "date": "Fri, 18 Sep 2026 20:31:25 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/3f47126d5792269cca353c5057c106c7da1e33bd.jpg"
+        "date": "Sat, 19 Sep 2026 06:17:13 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Apple-visionOS-27-panoramas-to-spatial-scenes_big.jpg.large_.jpg"
       },
       {
         "title": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "DeForest Buckner: Colts didn't play up to our standards, whatsoever",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deforest-buckner-colts-didnt-play-up-to-our-standards-whatsoever",
+        "summary": "The Colts' defense gave up 304 passing yards and 202 rushing yards in their Week 1 loss to the Ravens, and Colts defensive tackle DeForest Buckner says it was unacceptable.",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 05:00:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/24c8f60/2147483647/strip/false/crop/5119x2879+0+267/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F32%2F60f2198e4ee1a91f04f78437e923%2F2295090142.jpg"
+      },
+      {
         "title": "Jerry Jones: The Giants were better than we thought they were",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-the-giants-were-better-than-we-thought-they-were",
         "summary": "Jones seemingly tries to temper expectations for the 2026 Cowboys.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 18 Sep 2026 21:12:38 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/15be6c9/2147483647/strip/false/crop/3000x1688+0+201/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9a%2F58%2F9e12a3d04e2fbf3ba78dbd34160c%2F2291032344.jpg"
-      },
-      {
-        "title": "Rams WR Puka Nacua misses practice with a hip injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-add-wr-puka-nacua-misses-practice-with-a-hip-injury",
-        "summary": "The Rams added wide receiver Puka Nacua to the injury report on Friday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 20:02:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72ddfbf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F524%2F599%2Fnbc_pft_mylesgarrett_260915.jpg"
       }
     ]
   }
