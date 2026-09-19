@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T21:01:19.657Z",
+  "updated": "2026-09-19T23:00:08.001Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Gemini went rogue, hacked three companies, and Google hid it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-        "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
+        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+        "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy.",
         "source": "theverge.com",
-        "date": "2026-09-19T11:25:03-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-19T16:44:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
       },
       {
-        "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-        "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of…",
+        "title": "Gemini went rogue, hacked three companies, and Google hid it",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+        "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
         "source": "theverge.com",
-        "date": "2026-09-19T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-19T11:25:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg"
       },
       {
-        "title": "The AI regulation smackdown isn’t over",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-        "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
+        "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+        "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of…",
         "source": "theverge.com",
-        "date": "2026-09-19T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-19T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Bengals elevate Josh Johnson to active roster with Joe Burrow questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-elevate-josh-johnson-to-active-roster-with-joe-burrow-questionable",
+        "summary": "Bengals quarterback Joe Burrow says he plans to play tomorrow against the Texans.",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 18:37:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/64b3908/2147483647/strip/false/crop/4399x2474+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2F9f%2F594661a54d79a8199d12927613ad%2F2290623215.jpg"
+      },
+      {
+        "title": "Bill Belichick and North Carolina blow big lead, lose 28-20 at Clemson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-and-north-carolina-blow-big-lead-lose-28-20-at-clemson",
+        "summary": "Bill Belichick appeared to be on the verge of his biggest win as North Carolina's head coach today at Clemson, but his team fell apart late in a 28-20 loss.",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 17:54:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cc378c2/2147483647/strip/false/crop/5157x2901+0+269/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F62%2F51fb8fe4451b8b7f539d0258c2f2%2F2295498420.jpg"
+      },
+      {
+        "title": "NFL issues three fines for player safety fouls that count toward possible suspensions",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-issues-three-fines-for-player-safety-fouls-that-count-toward-possible-suspensions",
+        "summary": "The first week of the 2026 season featured three fouls that will count toward possible suspensions.",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 17:44:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/91faf64/2147483647/strip/false/crop/8376x4712+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2Feb%2Ff576d8be4c6a8aba317e708720ae%2F2295677910.jpg"
+      },
+      {
+        "title": "NFL will no longer allow Patriots to use video board to confuse opposing kickers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-no-longer-allow-patriots-to-use-video-board-to-confuse-opposing-kickers",
+        "summary": "The Patriots' longstanding tactic of creating an optical illusion for the road team's kicker has been banned.",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 17:18:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cc77d17/2147483647/strip/false/crop/5881x3308+0+306/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0c%2F8d%2Fe1aeb0574b46bd354064b1b80e27%2F1672782433.jpg"
+      },
+      {
+        "title": "Lukas Van Ness fined for hit on Carson Wentz, no fine for hit on Kyler Murray",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lukas-van-ness-fined-for-hit-on-carson-wentz-no-fine-for-hit-on-kyler-murray",
+        "summary": "Packers linebacker Lukas Van Ness was involved in the Week 1 play that ended with Vikings quarterback Kyler Murray suffering a concussion, but the only fine for a hit on a…",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 17:00:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0a86974/2147483647/strip/false/crop/4750x2672+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F96%2Fbf50bfa1471788003a2e6d98cf2e%2F2295118084.jpg"
+      },
+      {
         "title": "49ers TE Jake Tonges fined for leg whip on same play he tore his MCL",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-te-jake-tonges-fined-for-leg-whip-on-same-play-he-tore-his-mcl",
         "summary": "49ers tight end Jake Tonges's final play of the 2026 season was a painful one in more ways than one.",
         "source": "nbcsports.com",
         "date": "Sat, 19 Sep 2026 16:28:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f39bcfc/2147483647/strip/false/crop/4242x2386+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2F43%2Fac46de5446eb8764333b09f66322%2F2292703004.jpg"
-      },
-      {
-        "title": "Stefon Diggs fined for jumping on goalpost after Week 1 TD",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stefon-diggs-fined-for-jumping-on-goalpost-after-week-1-td",
-        "summary": "Commanders wide receiver Stefon Diggs punctuated his first touchdown as a member of the team with a celebration that hurt Washington on the field and hurt Diggs in the wallet.",
-        "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 16:15:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6963f70/2147483647/strip/false/crop/4423x2488+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F42%2F99f143c6480a97b444fa76fcda66%2F2295124722.jpg"
-      },
-      {
-        "title": "Ravens downgrade Zay Flowers to out for Sunday vs. Saints",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-downgrade-zay-flowers-to-out-for-sunday-vs-saints",
-        "summary": "While Zay Flowers was able to get back on the practice field on Friday, he won’t be playing on Sunday against the Saints.",
-        "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 16:08:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/923370f/2147483647/strip/false/crop/4775x2686+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2F84%2F54f9dffa447ebe018c1187306bde%2F2295083506.jpg"
-      },
-      {
-        "title": "Raiders elevate TE Chris Myarick with Brock Bowers listed as doubtful",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-elevate-te-chris-myarick-with-brock-bowers-listed-as-doubtful",
-        "summary": "The Raiders didn't officially rule Brock Bowers out on Friday, but signs point to the tight end missing his second straight game on Sunday,.",
-        "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 16:08:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e9584b6/2147483647/strip/false/crop/4265x2399+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2Fea%2F9970eba84e2a85d9363540b4c156%2F2026-08-21t174930z-74086226-mt1usatoday29635260-rtrmadp-3-nfl-las-vegas-raiders-at-houston-texans.jpg"
-      },
-      {
-        "title": "Cowboys elevate linebackers Justin Barron, Curtis Robinson from practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-elevate-linebackers-justin-barron-curtis-robinson-from-practice-squad",
-        "summary": "The Cowboys added a pair of linebackers to their roster for Sunday's game against the Commanders.",
-        "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 16:00:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2eb664e/2147483647/strip/false/crop/7829x4404+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2F35%2Ff6a412bc4701a51fd841d0b4dfcc%2F2026-08-23t023546z-947275258-mt1usatoday29647125-rtrmadp-3-nfl-dallas-cowboys-at-arizona-cardinals.jpg"
-      },
-      {
-        "title": "Deonte Banks, Micah McFadden questionable for Monday vs. Rams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deonte-banks-micah-mcfadden-questionalbe-for-monday-vs-rams",
-        "summary": "The Giants have two players with game statuses for Monday night's game against the Rams.",
-        "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 15:44:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a765a69/2147483647/strip/false/crop/4769x2683+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2Fc9%2F5e1ffd324fa38b1d4b63c3123a67%2F2291226609.jpg"
       }
     ]
   }
