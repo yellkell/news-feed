@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-19T13:07:35.068Z",
+  "updated": "2026-09-19T16:27:30.696Z",
   "feed": {
     "VR": [
       {
-        "title": "Anthropic loosens Claude's biology safeguards for vetted teams, removes them for some projects",
-        "url": "https://mixed-news.com/en/anthropic-loosens-claude-biology-safeguards-vetted-teams/",
-        "summary": "Anthropic now offers verified life science teams a version of Claude with looser biology safeguards, and for approved high-risk projects it removes every safeguard that blocks life…",
+        "title": "Siri AI has daily usage limits, and Apple says expanded access will come for a fee",
+        "url": "https://mixed-news.com/en/apple-siri-ai-daily-limits-expanded-access-fee/",
+        "summary": "Apple's new Siri AI comes with a daily cap, and Apple says getting more than that will cost money at some point.",
         "source": "mixed-news.com",
-        "date": "Sat, 19 Sep 2026 11:44:48 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/68f2c5953b717d86cfadf9a3_og-life-science.jpg"
+        "date": "Sat, 19 Sep 2026 15:16:58 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Apple-Siri-AI-conversation-01_big.jpg.large_2x.jpg"
       },
       {
         "title": "Meta Could Demo Phoenix Headset At Connect With Full-Body Codec Avatars",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "visionOS 27 opens Vision Pro tracking to third-party accessories at up to 90Hz",
-        "url": "https://mixed-news.com/en/visionos-27-vision-pro-spatial-accessories-90hz-ps-vr2-unity/",
-        "summary": "visionOS 27 lets other companies build tracked accessories for Apple Vision Pro, but the first hardware is not on sale yet.",
+        "title": "ChatGPT starts testing ads that open a chat with a brand's own AI agent",
+        "url": "https://mixed-news.com/en/chatgpt-testing-ads-open-chat-with-brand-ai-agent/",
+        "summary": "ChatGPT ads can now lead to a conversation with a company's own AI agent, but only in a small US test for now.",
         "source": "mixed-news.com",
-        "date": "Sat, 19 Sep 2026 10:32:11 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/10824_wide_900x506_2x.jpg"
+        "date": "Sat, 19 Sep 2026 14:00:19 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/reimagining-advertising-with-ai-seo.png"
       },
       {
         "title": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "The AI regulation smackdown isn’t over",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-        "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
+        "title": "Gemini went rogue, hacked three companies, and Google hid it",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+        "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
         "source": "theverge.com",
-        "date": "2026-09-19T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-19T11:25:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
       },
       {
-        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-        "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning.",
+        "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+        "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of…",
         "source": "theverge.com",
-        "date": "2026-09-18T17:07:24-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-19T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg"
       },
       {
-        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-        "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-        "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down…",
+        "title": "The AI regulation smackdown isn’t over",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+        "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation.",
         "source": "theverge.com",
-        "date": "2026-09-18T14:29:17-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-19T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
@@ -102,6 +102,38 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Bengals DE Shemar Stewart will make season debut on Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-de-shemar-stewart-will-make-season-debut-on-sunday",
+        "summary": "Bengals defensive end Shemar Stewart will make his season debut on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 12:01:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bde1662/2147483647/strip/false/crop/5153x2899+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2F6a%2F7d0bcb7f46669f59850b175a3000%2F2255474515.jpg"
+      },
+      {
+        "title": "Will SEC whack Lane Kiffin for injury-report shenanigans?",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-sec-whack-lane-kiffin-for-injury-report-shenanigans",
+        "summary": "The age of bet!",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 10:02:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/447859d/2147483647/strip/false/crop/3255x1831+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2F2e%2Fdb56f83b4d21866fcdffc0471970%2F2293261302.jpg"
+      },
+      {
+        "title": "Weird rule from Saints-Lions wasn't mentioned during AFC Championship",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/weird-rule-from-saints-lions-wasnt-mentioned-during-afc-championship",
+        "summary": "That strange rule no one seemed to know about had a major impact on the Week 1 game between the Saints and Lions.",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 09:38:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e155b9e/2147483647/strip/false/crop/4660x2621+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2Fb8%2F0cab96624e11a5a4104326cb239b%2F2257692331.jpg"
+      },
+      {
+        "title": "Lane Kiffin returns to Ole Miss, and draws a very profane chant",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-kiffin-returns-to-ole-miss-and-draws-a-very-profane-chant",
+        "summary": "Football's equivalent of the Joker returns to Gotham City on Saturday, when coach Lane Kiffin's LSU team plays at Ole Miss, the program he ditched during a playoff season.",
+        "source": "nbcsports.com",
+        "date": "Sat, 19 Sep 2026 09:17:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ca7d52c/2147483647/strip/false/crop/6960x3915+0+363/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6f%2F71%2Fc88ca3df4ef08999c09d2e2456fe%2F2295311274.jpg"
+      },
       {
         "title": "Hollywood Brown: I don't know if chances will come, I just have to work",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hollywood-brown-i-dont-know-if-chances-will-come-i-just-have-to-work",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 19 Sep 2026 06:31:51 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8a5f8de/2147483647/strip/false/crop/3552x1998+0+185/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2F83%2F0fc3fa934ecb9402652a0211566b%2F2295110932.jpg"
-      },
-      {
-        "title": "DeForest Buckner: Colts didn't play up to our standards, whatsoever",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deforest-buckner-colts-didnt-play-up-to-our-standards-whatsoever",
-        "summary": "The Colts' defense gave up 304 passing yards and 202 rushing yards in their Week 1 loss to the Ravens, and Colts defensive tackle DeForest Buckner says it was unacceptable.",
-        "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 05:00:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/24c8f60/2147483647/strip/false/crop/5119x2879+0+267/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F32%2F60f2198e4ee1a91f04f78437e923%2F2295090142.jpg"
-      },
-      {
-        "title": "Jerry Jones: The Giants were better than we thought they were",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-the-giants-were-better-than-we-thought-they-were",
-        "summary": "Jones seemingly tries to temper expectations for the 2026 Cowboys.",
-        "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 23:58:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/377afc9/2147483647/strip/false/crop/4505x2534+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2F75%2F5532746547c88241ebee0b2a4333%2F2295124947.jpg"
-      },
-      {
-        "title": "Potential victims of 49ers imposter Daejon Love now exceed 60",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/potential-victims-of-49ers-imposter-darjean-love-now-exceed-60",
-        "summary": "Daejon Love's scam worked incredibly well.",
-        "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 22:39:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/929b327/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F821%2F471%2Fnbc_pftpm_miasf_260917.jpg"
-      },
-      {
-        "title": "Dolphins DE Chop Robinson in concussion protocol, out for Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-de-chop-robinson-in-concussion-protocol-out-for-sunday",
-        "summary": "Dolphins defensive end Chop Robinson will not play Sunday against the 49ers.",
-        "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 22:02:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4b12b66/2147483647/strip/false/crop/5606x3153+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2F4b%2F706f93424ff687d22ba8642e933d%2F2295041328.jpg"
       }
     ]
   }
