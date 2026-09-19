@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-18T22:07:27.704Z",
+  "updated": "2026-09-19T00:18:01.043Z",
   "feed": {
     "VR": [
+      {
+        "title": "ChatGPT now works inside Microsoft Word, even on the free plan",
+        "url": "https://mixed-news.com/en/chatgpt-now-works-inside-microsoft-word-free-plan/",
+        "summary": "ChatGPT now works inside Microsoft Word on every ChatGPT plan, including Free, and it arrives through the same add-in that already brings it to Excel and PowerPoint.",
+        "source": "mixed-news.com",
+        "date": "Fri, 18 Sep 2026 21:20:37 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/image4_ChatGPTForWordinaction.png"
+      },
       {
         "title": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
         "url": "https://www.uploadvr.com/flow-chaser-brings-procedural-spatial-rhythm-gameplay-to-apple-vision-pro/",
@@ -19,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "Valve says the RAM crisis pushed Steam Frame above the price it was aiming for",
-        "url": "https://mixed-news.com/en/valve-says-ram-crisis-pushed-steam-frame-above-target-price/",
-        "summary": "Valve says Steam Frame was meant to be cheaper, and that the global memory shortage is why it is not.",
+        "title": "PS VR2 is out of stock on Sony's US store, and Firewall Ultra is now offline for good",
+        "url": "https://mixed-news.com/en/ps-vr2-out-of-stock-sony-us-store-firewall-ultra-offline/",
+        "summary": "PlayStation VR2 is out of stock on Sony's own US store, and one of its bigger online shooters stopped working on September 17.",
         "source": "mixed-news.com",
-        "date": "Fri, 18 Sep 2026 11:00:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/2867aba4d7462a18c249189ff1e7fee5b60f706a.jpg"
+        "date": "Fri, 18 Sep 2026 20:31:25 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/3f47126d5792269cca353c5057c106c7da1e33bd.jpg"
       },
       {
         "title": "Espionage Adventure Spymaster Leaves PC VR & Quest Early Access In October",
@@ -33,14 +41,6 @@
         "source": "uploadvr.com",
         "date": "Fri, 18 Sep 2026 08:25:23 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Spymaster_KeyArt--2-.png"
-      },
-      {
-        "title": "Steam now sells VR games that won't run on a PC, and Valve is fine with that",
-        "url": "https://mixed-news.com/en/steam-frame-only-vr-games-wont-run-on-pc-valve/",
-        "summary": "Two of the VR games that arrived on Steam with Steam Frame on September 14 will not run on a gaming PC at all, and Valve says that is allowed.",
-        "source": "mixed-news.com",
-        "date": "Fri, 18 Sep 2026 09:34:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/ss_b227afc226cde772d3c7b7af0484e4f59656a4ef.1920x1080.jpg"
       },
       {
         "title": "Snap Announces New “anticipatory” AI Service & Apps for First Consumer ‘Specs’ AR Glasses",
@@ -103,6 +103,30 @@
     ],
     "NFL": [
       {
+        "title": "Rams WR Puka Nacua misses practice with a hip injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-add-wr-puka-nacua-misses-practice-with-a-hip-injury",
+        "summary": "The Rams added wide receiver Puka Nacua to the injury report on Friday.",
+        "source": "nbcsports.com",
+        "date": "Fri, 18 Sep 2026 20:02:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72ddfbf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F524%2F599%2Fnbc_pft_mylesgarrett_260915.jpg"
+      },
+      {
+        "title": "49ers K Eddy Piñeiro is questionable with an illness",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-k-eddy-pineiro-is-questionable-with-an-illness",
+        "summary": "49ers kicker Eddy Piñeiro is questionable to play against the Dolphins because of an illness.",
+        "source": "nbcsports.com",
+        "date": "Fri, 18 Sep 2026 19:31:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d81020/2147483647/strip/false/crop/4463x2510+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F94%2Fba%2F800884bb46b596409347fd42f988%2F2292506926.jpg"
+      },
+      {
+        "title": "Aaron Donald plans to play on Monday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-plans-to-play-on-monday-night",
+        "summary": "The return of the three-time Defensive Player of the Year will come against the Giants.",
+        "source": "nbcsports.com",
+        "date": "Fri, 18 Sep 2026 18:24:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/44fa04c/2147483647/strip/false/crop/4795x2697+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F82%2F93d6831d42ccba5540fecc7b1d66%2F2294592636.jpg"
+      },
+      {
         "title": "Deshaun Watson could lose seventh straight start on Sunday",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-could-lose-seventh-straight-start-on-sunday",
         "summary": "It's been a long week for Browns quarterback Deshaun Watson.",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 18 Sep 2026 17:00:27 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2666609/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F816%2F591%2Fnbc_pftpm_nyglar_260917.jpg"
-      },
-      {
-        "title": "Mike Macdonald: Not sure when Sam Darnold will be back, but I'm optimistic",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-not-sure-when-sam-darnold-will-be-back-but-im-optimistic",
-        "summary": "The Seahawks ruled quarterback Sam Darnold out for Week 2 a couple of days ago, but his health was still a topic for head coach Mike Macdonald during Friday's press conference.",
-        "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 16:57:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/91d6c42/2147483647/strip/false/crop/5210x2931+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F30%2Fb4f5c637465694a33a76ace61e7a%2F2294934563.jpg"
-      },
-      {
-        "title": "Chargers list Ladd McConkey as questionable",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-list-ladd-mcconkey-as-questionable",
-        "summary": "The Chargers had wide receiver Ladd McConkey on the practice field Friday for the first time this week, but his status for Sunday's game against the Raiders remains up in the air.",
-        "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 16:40:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d44c48a/2147483647/strip/false/crop/7753x4361+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F6c%2F3b3c921544b3be916598d3fd86d5%2F2294984483.jpg"
-      },
-      {
-        "title": "Chris Jones, Mansoor Delane listed as questionable to face Colts",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-jones-mansoor-delane-listed-as-questionable-to-face-colts",
-        "summary": "The Chiefs have a couple of question marks on the defensive side of the ball heading into Sunday's game against the Colts.",
-        "source": "nbcsports.com",
-        "date": "Fri, 18 Sep 2026 16:25:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f244ad/2147483647/strip/false/crop/3851x2166+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F58%2F8f849125465daefdd91b9818b4bc%2F2295927025.jpg"
       }
     ]
   }
