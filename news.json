@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-20T10:05:39.249Z",
+  "updated": "2026-09-20T14:12:49.105Z",
   "feed": {
     "VR": [
       {
-        "title": "Forefront adds fighter jets, a Vietnam map and Steam Frame support in v6.0",
-        "url": "https://mixed-news.com/en/forefront-v6-fighter-jets-karst-map-steam-frame-support/",
-        "summary": "Triangle Factory pushed version 6.0.180 of Forefront live on September 17, and the biggest addition is a flyable fighter jet.",
+        "title": "URXR One display glasses raised $1.29M on Kickstarter, and nothing has shipped",
+        "url": "https://mixed-news.com/en/urxr-one-kickstarter-1-29-million-93-gram-display-glasses/",
+        "summary": "Unseen Reality's URXR One, a pair of 93-gram display glasses with no battery and no computer of their own, closed a Kickstarter on September 18 with $1,292,710 pledged by 1,585…",
         "source": "mixed-news.com",
-        "date": "Sun, 20 Sep 2026 07:06:19 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-2.jpg"
+        "date": "Sun, 20 Sep 2026 11:42:26 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/front.png"
       },
       {
         "title": "Meta Could Demo Phoenix Headset At Connect With Full-Body Codec Avatars",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "Google says Gemini broke into three real companies during a May security test",
-        "url": "https://mixed-news.com/en/google-gemini-broke-into-three-real-companies-may-security-test/",
-        "summary": "Google has confirmed that its Gemini model reached the systems of three real companies during a cybersecurity test in May 2026.",
+        "title": "Spymaster leaves Early Access on October 15 with three new missions",
+        "url": "https://mixed-news.com/en/spymaster-leaves-early-access-october-15-three-new-missions/",
+        "summary": "InnerspaceVR will take Spymaster out of Early Access on October 15, releasing 1.0 on Meta Quest and SteamVR on the same day.",
         "source": "mixed-news.com",
-        "date": "Sun, 20 Sep 2026 06:04:40 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/secure_AI_frontier_hero_v2.width-1200.format-webp.webp"
+        "date": "Sun, 20 Sep 2026 10:37:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-3.jpg"
       },
       {
         "title": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
@@ -52,6 +52,22 @@
       }
     ],
     "AI": [
+      {
+        "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+        "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+        "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is…",
+        "source": "theverge.com",
+        "date": "2026-09-20T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+        "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+        "source": "arstechnica.com",
+        "date": "Sun, 20 Sep 2026 11:07:00 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
+      },
       {
         "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
         "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Wed, 16 Sep 2026 21:08:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg"
-      },
-      {
-        "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-        "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of…",
-        "source": "theverge.com",
-        "date": "2026-09-19T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-        "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-        "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-        "source": "arstechnica.com",
-        "date": "Mon, 14 Sep 2026 21:04:32 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Trinidad Chambliss shows NFL talent in leading Ole Miss to win over LSU",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trinidad-chambliss-shows-nfl-talent-in-leading-ole-miss-to-win-over-lsu",
-        "summary": "Once a zero-star prospect, Chambliss is currently sixth in the betting odds to go first overall in the 2027 NFL draft.",
+        "title": "Bears open latest home slate at Soldier Field; how many more will there be?",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-open-latest-home-slate-at-soldier-field-how-many-more-will-there-be",
+        "summary": "Illinois remains viable — and Chicago could still keep the team.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 05:05:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/941c2e0/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2F54%2F6dbb32ea4fefa1c3d922122fd510%2F2296160972.jpg"
+        "date": "Sun, 20 Sep 2026 09:46:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9319094/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F898%2F123%2Fnbc_pft_vikingsbears_260918.jpg"
       },
       {
-        "title": "Deion Sanders, Colorado get thumped by Northwestern, 41-7",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-colorado-get-thumped-by-northwestern-41-7",
-        "summary": "Like Bill Belichick, Deion Sanders had led his college team to a somewhat unexpected 2-0 start in 2026.",
+        "title": "Report: Eagles to move Cam Jurgens to guard, Drew Kendall to start at center",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-eagles-to-move-cam-jurgens-to-guard-drew-kendall-to-start-at-center",
+        "summary": "Eagles offensive coordinator Sean Mannion said this week that the team would keep any plans for replacing left guard Landon Dickerson in-house, including whether moving center Cam…",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 00:24:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6d2bcd7/2147483647/strip/false/crop/3391x1907+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F9c%2Ffb1056484a32a215de729b693cec%2F2026-09-19t225223z-1699512021-mt1usatoday29863920-rtrmadp-3-ncaa-football-colorado-at-northwestern.jpg"
+        "date": "Sun, 20 Sep 2026 09:31:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69c9c11/2147483647/strip/false/crop/7285x4098+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2Fb0%2F985d6ab74a8da2fa8216f6ed1e28%2F2295347231.jpg"
       },
       {
-        "title": "NFL is aware of potential issues with field in Brazil for Ravens-Cowboys",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-is-aware-of-potential-issues-with-field-in-brazil-for-ravens-cowboys",
-        "summary": "The clock is ticking for the Week 3 game.",
+        "title": "Sam Darnold is \"recovering faster than anyone had anticipated\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-is-recovering-faster-than-anyone-had-anticipated",
+        "summary": "Seahawks quarterback Sam Darnold left the Week 1 game against the Patriots after five snaps, with a hip injury becoming a glute tendon injury for which the team reportedly sought…",
         "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 23:20:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8d3a17/2147483647/strip/false/crop/4816x2709+0+228/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4b%2F01%2Fc6cc5d784e5a9591a57bc19f73cc%2F2295231475.jpg"
+        "date": "Sun, 20 Sep 2026 09:22:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efcd54f/2147483647/strip/false/crop/8315x4677+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fd0%2F7478f9db4cb0aa4c227162dd6f4d%2F2294807445.jpg"
       },
       {
-        "title": "Bengals elevate Josh Johnson to active roster with Joe Burrow questionable",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-elevate-josh-johnson-to-active-roster-with-joe-burrow-questionable",
-        "summary": "Bengals quarterback Joe Burrow says he plans to play tomorrow against the Texans.",
+        "title": "Report: Michael Penix Jr. could debut for Falcons on Thursday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-michael-penix-jr-could-debut-for-falcons-on-thursday-night",
+        "summary": "The Falcons have been waiting.",
         "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 18:37:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/64b3908/2147483647/strip/false/crop/4399x2474+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2F9f%2F594661a54d79a8199d12927613ad%2F2290623215.jpg"
+        "date": "Sun, 20 Sep 2026 09:08:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4363b44/2147483647/strip/false/crop/3793x2134+0+198/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2d%2F24%2F1d28106149ffb11b0eeb0c2b318c%2F2026-08-28t224855z-379664376-mt1usatoday29682287-rtrmadp-3-nfl-atlanta-falcons-at-miami-dolphins.jpg"
       },
       {
-        "title": "Bill Belichick and North Carolina blow big lead, lose 28-20 at Clemson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-and-north-carolina-blow-big-lead-lose-28-20-at-clemson",
-        "summary": "Bill Belichick appeared to be on the verge of his biggest win as North Carolina's head coach today at Clemson, but his team fell apart late in a 28-20 loss.",
+        "title": "Broncos are expected to be without RJ Harvey on Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-are-expected-to-be-without-rj-harvey-on-sunday",
+        "summary": "The Broncos are on track to be without one of their running backs for Sunday's game against the Jaguars.",
         "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 17:54:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cc378c2/2147483647/strip/false/crop/5157x2901+0+269/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F62%2F51fb8fe4451b8b7f539d0258c2f2%2F2295498420.jpg"
+        "date": "Sun, 20 Sep 2026 08:27:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d739c2/2147483647/strip/false/crop/8445x4750+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2Fc8%2F859f151f41bc8c4d1519a5b3f272%2F2295492420.jpg"
       },
       {
-        "title": "NFL issues three fines for player safety fouls that count toward possible suspensions",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-issues-three-fines-for-player-safety-fouls-that-count-toward-possible-suspensions",
-        "summary": "The first week of the 2026 season featured three fouls that will count toward possible suspensions.",
+        "title": "Report: Joey Porter Jr. considering second opinion on back injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-joey-porter-jr-considering-second-opinion-on-back-injury",
+        "summary": "Porter will miss his second straight game on Sunday.",
         "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 17:44:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/91faf64/2147483647/strip/false/crop/8376x4712+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2Feb%2Ff576d8be4c6a8aba317e708720ae%2F2295677910.jpg"
+        "date": "Sun, 20 Sep 2026 08:21:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0994b63/2147483647/strip/false/crop/5944x3344+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F0a%2Fa0bd04c44763915a036fd41bb1e7%2F2256269976.jpg"
       }
     ]
   }
