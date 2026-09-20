@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-20T14:12:49.105Z",
+  "updated": "2026-09-20T17:28:19.351Z",
   "feed": {
     "VR": [
       {
-        "title": "URXR One display glasses raised $1.29M on Kickstarter, and nothing has shipped",
-        "url": "https://mixed-news.com/en/urxr-one-kickstarter-1-29-million-93-gram-display-glasses/",
-        "summary": "Unseen Reality's URXR One, a pair of 93-gram display glasses with no battery and no computer of their own, closed a Kickstarter on September 18 with $1,292,710 pledged by 1,585…",
+        "title": "Forefront adds fighter jets, a Vietnam map and Steam Frame support in v6.0",
+        "url": "https://mixed-news.com/en/forefront-v6-fighter-jets-karst-map-steam-frame-support/",
+        "summary": "Triangle Factory pushed version 6.0.180 of Forefront live on September 17, and the biggest addition is a flyable fighter jet.",
         "source": "mixed-news.com",
-        "date": "Sun, 20 Sep 2026 11:42:26 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/front.png"
+        "date": "Sun, 20 Sep 2026 07:06:19 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-2.jpg"
       },
       {
         "title": "Meta Could Demo Phoenix Headset At Connect With Full-Body Codec Avatars",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "Spymaster leaves Early Access on October 15 with three new missions",
-        "url": "https://mixed-news.com/en/spymaster-leaves-early-access-october-15-three-new-missions/",
-        "summary": "InnerspaceVR will take Spymaster out of Early Access on October 15, releasing 1.0 on Meta Quest and SteamVR on the same day.",
+        "title": "Google says Gemini broke into three real companies during a May security test",
+        "url": "https://mixed-news.com/en/google-gemini-broke-into-three-real-companies-may-security-test/",
+        "summary": "Google has confirmed that its Gemini model reached the systems of three real companies during a cybersecurity test in May 2026.",
         "source": "mixed-news.com",
-        "date": "Sun, 20 Sep 2026 10:37:43 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-3.jpg"
+        "date": "Sun, 20 Sep 2026 06:04:40 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/secure_AI_frontier_hero_v2.width-1200.format-webp.webp"
       },
       {
         "title": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-        "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-        "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is…",
+        "title": "Trump now says he wants to form an ‘AI Force’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+        "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum…",
         "source": "theverge.com",
-        "date": "2026-09-20T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-20T11:39:22-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
       },
       {
-        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-        "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy.",
+        "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+        "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+        "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is…",
         "source": "theverge.com",
-        "date": "2026-09-19T16:44:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-20T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
       },
       {
-        "title": "Gemini went rogue, hacked three companies, and Google hid it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-        "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company.",
+        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+        "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy.",
         "source": "theverge.com",
-        "date": "2026-09-19T11:25:03-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-19T16:44:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Bears open latest home slate at Soldier Field; how many more will there be?",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-open-latest-home-slate-at-soldier-field-how-many-more-will-there-be",
-        "summary": "Illinois remains viable — and Chicago could still keep the team.",
+        "title": "Packers RT Zach Bako-Bewele carted off",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-rt-zach-bako-bewele-carted-off",
+        "summary": "The Packers had a rough opening series against the Jets on Sunday.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 09:46:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9319094/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F898%2F123%2Fnbc_pft_vikingsbears_260918.jpg"
+        "date": "Sun, 20 Sep 2026 13:21:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fade126/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F642%2F267%2Fnbc_pft_mattlafluer_260916.jpg"
       },
       {
-        "title": "Report: Eagles to move Cam Jurgens to guard, Drew Kendall to start at center",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-eagles-to-move-cam-jurgens-to-guard-drew-kendall-to-start-at-center",
-        "summary": "Eagles offensive coordinator Sean Mannion said this week that the team would keep any plans for replacing left guard Landon Dickerson in-house, including whether moving center Cam…",
+        "title": "Jayden Reed placed on backboard, carted off in first quarter",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-reed-placed-on-backboard-carted-off-in-first-quarter",
+        "summary": "The Packers lost a wide receiver early in their bid for a win over the Jets at MetLife Stadium.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 09:31:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69c9c11/2147483647/strip/false/crop/7285x4098+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2Fb0%2F985d6ab74a8da2fa8216f6ed1e28%2F2295347231.jpg"
+        "date": "Sun, 20 Sep 2026 13:11:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bb21550/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F817%2F67%2FGB_BYJ_prev_raw_PFT_PM_260917.jpg"
       },
       {
-        "title": "Sam Darnold is \"recovering faster than anyone had anticipated\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-is-recovering-faster-than-anyone-had-anticipated",
-        "summary": "Seahawks quarterback Sam Darnold left the Week 1 game against the Patriots after five snaps, with a hip injury becoming a glute tendon injury for which the team reportedly sought…",
+        "title": "Second opinions resulted in good news for Sam Darnold",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/second-opinions-resulted-in-good-news-for-sam-darnold",
+        "summary": "Last Sunday, Jay Glazer of Fox Sports reported that the Seahawks were seeking up to four second opinions regarding quarterback Sam Darnold's injured glute tendon.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 09:22:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/efcd54f/2147483647/strip/false/crop/8315x4677+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fd0%2F7478f9db4cb0aa4c227162dd6f4d%2F2294807445.jpg"
+        "date": "Sun, 20 Sep 2026 12:53:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/91d6c42/2147483647/strip/false/crop/5210x2931+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F30%2Fb4f5c637465694a33a76ace61e7a%2F2294934563.jpg"
       },
       {
-        "title": "Report: Michael Penix Jr. could debut for Falcons on Thursday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-michael-penix-jr-could-debut-for-falcons-on-thursday-night",
-        "summary": "The Falcons have been waiting.",
+        "title": "Former Giants GM Ernie Accorsi dies at 84",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-giants-gm-ernie-accorsi-dies-at-84",
+        "summary": "The Giants announced the death of their former General Manager Ernie Accorsi at the age of 84 on Sunday.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 09:08:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4363b44/2147483647/strip/false/crop/3793x2134+0+198/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2d%2F24%2F1d28106149ffb11b0eeb0c2b318c%2F2026-08-28t224855z-379664376-mt1usatoday29682287-rtrmadp-3-nfl-atlanta-falcons-at-miami-dolphins.jpg"
+        "date": "Sun, 20 Sep 2026 12:41:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/51b7f9c/2147483647/strip/false/crop/4588x2581+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2F22%2F308ff1444392afb348098f0eb40d%2F623244862.jpg"
       },
       {
-        "title": "Broncos are expected to be without RJ Harvey on Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-are-expected-to-be-without-rj-harvey-on-sunday",
-        "summary": "The Broncos are on track to be without one of their running backs for Sunday's game against the Jaguars.",
+        "title": "NFL Network pregame skips the Walt Anderson segment",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-network-pregame-skips-the-walt-anderson-segment",
+        "summary": "As the ESPN and NFL Network integration continues, there has been one noticeable change to the NFLN Sunday pregame show.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 08:27:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d739c2/2147483647/strip/false/crop/8445x4750+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2Fc8%2F859f151f41bc8c4d1519a5b3f272%2F2295492420.jpg"
+        "date": "Sun, 20 Sep 2026 12:39:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8c79b17/2147483647/strip/false/crop/348x196+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F3a%2F3c2e20dba8800627258304a79580%2Fanderson-walt-584-e1344045875997.jpg"
       },
       {
-        "title": "Report: Joey Porter Jr. considering second opinion on back injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-joey-porter-jr-considering-second-opinion-on-back-injury",
-        "summary": "Porter will miss his second straight game on Sunday.",
+        "title": "Aaron Donald says, \"It's go time\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-says-its-go-time",
+        "summary": "Defensive tackle Aaron Donald last played in a football game on January 14, 2024, when the Rams lost to the Lions at Ford Field in the divisional round of the playoffs.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 08:21:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0994b63/2147483647/strip/false/crop/5944x3344+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F0a%2Fa0bd04c44763915a036fd41bb1e7%2F2256269976.jpg"
+        "date": "Sun, 20 Sep 2026 12:21:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/44fa04c/2147483647/strip/false/crop/4795x2697+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F82%2F93d6831d42ccba5540fecc7b1d66%2F2294592636.jpg"
       }
     ]
   }
