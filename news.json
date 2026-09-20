@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-20T05:34:33.320Z",
+  "updated": "2026-09-20T10:05:39.249Z",
   "feed": {
     "VR": [
       {
-        "title": "Anthropic says Claude led 26% of its own AI research work in August",
-        "url": "https://mixed-news.com/en/claude-leads-26-percent-anthropic-ai-research-work/",
-        "summary": "Anthropic says Claude \"leads\" 26% of the company's own AI research and development work as of August 2026, but the figure is self-reported and has not been independently verified.",
+        "title": "Forefront adds fighter jets, a Vietnam map and Steam Frame support in v6.0",
+        "url": "https://mixed-news.com/en/forefront-v6-fighter-jets-karst-map-steam-frame-support/",
+        "summary": "Triangle Factory pushed version 6.0.180 of Forefront live on September 17, and the biggest addition is a flyable fighter jet.",
         "source": "mixed-news.com",
-        "date": "Sat, 19 Sep 2026 07:19:43 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630-1.jpg"
+        "date": "Sun, 20 Sep 2026 07:06:19 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-2.jpg"
       },
       {
         "title": "Meta Could Demo Phoenix Headset At Connect With Full-Body Codec Avatars",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "visionOS 27 brings Siri AI to Vision Pro, even in the EU where iPhone misses out",
-        "url": "https://mixed-news.com/en/visionos-27-siri-ai-apple-vision-pro-eu/",
-        "summary": "visionOS 27 brings Apple's new Siri AI to Apple Vision Pro, and European owners get something their iPhones do not.",
+        "title": "Google says Gemini broke into three real companies during a May security test",
+        "url": "https://mixed-news.com/en/google-gemini-broke-into-three-real-companies-may-security-test/",
+        "summary": "Google has confirmed that its Gemini model reached the systems of three real companies during a cybersecurity test in May 2026.",
         "source": "mixed-news.com",
-        "date": "Sat, 19 Sep 2026 06:17:13 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Apple-visionOS-27-panoramas-to-spatial-scenes_big.jpg.large_.jpg"
+        "date": "Sun, 20 Sep 2026 06:04:40 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/secure_AI_frontier_hero_v2.width-1200.format-webp.webp"
       },
       {
         "title": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Trinidad Chambliss shows NFL talent in leading Ole Miss to win over LSU",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trinidad-chambliss-shows-nfl-talent-in-leading-ole-miss-to-win-over-lsu",
+        "summary": "Once a zero-star prospect, Chambliss is currently sixth in the betting odds to go first overall in the 2027 NFL draft.",
+        "source": "nbcsports.com",
+        "date": "Sun, 20 Sep 2026 05:05:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/941c2e0/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2F54%2F6dbb32ea4fefa1c3d922122fd510%2F2296160972.jpg"
+      },
+      {
         "title": "Deion Sanders, Colorado get thumped by Northwestern, 41-7",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-colorado-get-thumped-by-northwestern-41-7",
         "summary": "Like Bill Belichick, Deion Sanders had led his college team to a somewhat unexpected 2-0 start in 2026.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 19 Sep 2026 17:44:21 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/91faf64/2147483647/strip/false/crop/8376x4712+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2Feb%2Ff576d8be4c6a8aba317e708720ae%2F2295677910.jpg"
-      },
-      {
-        "title": "NFL will no longer allow Patriots to use video board to confuse opposing kickers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-no-longer-allow-patriots-to-use-video-board-to-confuse-opposing-kickers",
-        "summary": "The Patriots' longstanding tactic of creating an optical illusion for the road team's kicker has been banned.",
-        "source": "nbcsports.com",
-        "date": "Sat, 19 Sep 2026 17:18:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cc77d17/2147483647/strip/false/crop/5881x3308+0+306/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0c%2F8d%2Fe1aeb0574b46bd354064b1b80e27%2F1672782433.jpg"
       }
     ]
   }
