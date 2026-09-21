@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-21T01:43:27.812Z",
+  "updated": "2026-09-21T07:12:24.587Z",
   "feed": {
     "VR": [
+      {
+        "title": "Watch Snap's CEO Demo Specs True AR Glasses Live On Stage",
+        "url": "https://www.uploadvr.com/watch-snap-ceo-demo-specs-ar-glasses-live-on-stage/",
+        "summary": "Snap's CEO demoed the soon-to-launch Specs standalone true AR glasses live on stage, including an official Harry Potter experience from HBO.",
+        "source": "uploadvr.com",
+        "date": "Sun, 20 Sep 2026 20:25:03 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/See-for-Yourself-Watch-the-SPECS-Launch-Event-00.14.13.236.jpeg"
+      },
       {
         "title": "Forefront adds fighter jets, a Vietnam map and Steam Frame support in v6.0",
         "url": "https://mixed-news.com/en/forefront-v6-fighter-jets-karst-map-steam-frame-support/",
@@ -9,14 +17,6 @@
         "source": "mixed-news.com",
         "date": "Sun, 20 Sep 2026 07:06:19 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-2.jpg"
-      },
-      {
-        "title": "Meta Could Demo Phoenix Headset At Connect With Full-Body Codec Avatars",
-        "url": "https://www.uploadvr.com/meta-could-demo-phoenix-headset-at-connect-with-full-body-codec-avatars/",
-        "summary": "Meta could demo its upcoming ultralight headset next week at Connect with photorealistic full-body Codec Avatars, The Information reports.",
-        "source": "uploadvr.com",
-        "date": "Fri, 18 Sep 2026 19:05:22 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/theinformlomacodec.png"
       },
       {
         "title": "Unseen Reality XR Glasses Secures $1.2M in Successful Kickstarter",
@@ -27,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
+        "title": "Snap's Specs Have A Cross-Platform AI Agent & Optional Cellular Charging Case",
+        "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+        "summary": "Snap announced that its Specs AR glasses, still set to launch this fall, have a cross-platform AI agent and an optional cellular charging case for on-the-go connectivity.",
+        "source": "uploadvr.com",
+        "date": "Sun, 20 Sep 2026 19:49:42 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Specs-Intelligence-and-Cellular-Charging-Case-featured.png"
+      },
+      {
         "title": "Google says Gemini broke into three real companies during a May security test",
         "url": "https://mixed-news.com/en/google-gemini-broke-into-three-real-companies-may-security-test/",
         "summary": "Google has confirmed that its Gemini model reached the systems of three real companies during a cybersecurity test in May 2026.",
         "source": "mixed-news.com",
         "date": "Sun, 20 Sep 2026 06:04:40 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/secure_AI_frontier_hero_v2.width-1200.format-webp.webp"
-      },
-      {
-        "title": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
-        "url": "https://www.uploadvr.com/flow-chaser-brings-procedural-spatial-rhythm-gameplay-to-apple-vision-pro/",
-        "summary": "Flow Chaser is a new spatial rhythm game for Apple Vision Pro that launched alongside the recently released visionOS 27.",
-        "source": "uploadvr.com",
-        "date": "Fri, 18 Sep 2026 08:26:19 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Flow-Chaser-Promo.jpeg"
       },
       {
         "title": "Snap Announces New “anticipatory” AI Service & Apps for First Consumer ‘Specs’ AR Glasses",
@@ -53,7 +53,7 @@
     ],
     "AI": [
       {
-        "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+        "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
         "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
         "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades.",
         "source": "theverge.com",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Get ready for three straight Falcons prime-time games (barring a Week 5 flex)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/get-ready-for-three-straight-falcons-prime-time-games-barring-a-week-5-flex",
-        "summary": "The Falcons aren't ready for prime time.",
+        "title": "Sunday Night Football: Patrick Mahomes throws for 382 yards, 3 TDs in 33-30 OT win",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-patrick-mahomes-throws-for-382-yards-3-tds-in-33-30-ot-win",
+        "summary": "The Chiefs are now 2-0 after the club used every second of regulation and OT to defeat the Colts.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 21:31:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/41f3761/2147483647/strip/false/crop/7760x4365+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2F71%2F1876ee0b42fabafc0c9e070bf735%2F2295799764.jpg"
+        "date": "Mon, 21 Sep 2026 00:02:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/437a461/2147483647/strip/false/crop/3327x1871+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2F28%2F753669b342e781c3e4b4a0c2fae3%2F2296318993.jpg"
       },
       {
-        "title": "Alec Pierce downgraded to out with heel injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alec-pierce-downgraded-to-out-with-heel-injury",
-        "summary": "There is not good news on Colts receiver Alec Pierce.",
+        "title": "Report: Alec Pierce's X-rays negative, will undergo more testing on Monday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-alec-pierces-x-rays-negative-will-undergo-more-testing-on-monday",
+        "summary": "There is a little more information about Colts receiver Alec Pierce after he left Sunday's game with a heel injury.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 21:24:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd821f3/2147483647/strip/false/crop/6316x3553+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F46%2F8b%2F5b6dbd4443d5a59a9b01c5e08417%2F2255081378.jpg"
+        "date": "Sun, 20 Sep 2026 22:51:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/964a30c/2147483647/strip/false/crop/4096x2304+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F3c%2F98ffcba24004b7fbd55771af5f4f%2F2248106121.jpg"
       },
       {
-        "title": "Initial hope is that Caleb Williams has a Grade 1 hamstring strain",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/initial-hope-is-that-caleb-williams-has-a-grade-1-hamstring-strain",
-        "summary": "It looked bad.",
+        "title": "Josh Allen surges in MVP odds, and Caleb Williams is off the board",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-surges-in-mvp-odds-and-caleb-williams-is-off-the-board",
+        "summary": "After Week 1, Bills quarterback Josh Allen had his MVP odds move from +600 to +500.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 21:16:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/416eaf9/2147483647/strip/false/crop/2292x1289+654+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F49%2F3b78fb1044bb8d2f137b63ba04c6%2F2295799682.jpg"
+        "date": "Sun, 20 Sep 2026 22:39:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bd5efb2/2147483647/strip/false/crop/7871x4427+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2F7d%2F4f862d82413d9364c3fe6eef8402%2F2296083751.jpg"
       },
       {
-        "title": "Alec Pierce questionable to return with heel injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alec-pierce-questionable-to-return-with-heel-injury",
-        "summary": "The Colts may have a significant injury issue with one of their best offensive players.",
+        "title": "Chiefs score on fourth down after Patrick Mahomes deep ball, lead 24-20",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-score-on-fourth-down-after-patrick-mahomes-deep-ball-lead-24-20",
+        "summary": "The Chiefs are back in the lead.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 21:10:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f053ac/2147483647/strip/false/crop/3688x2075+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd3%2F0d%2F16b2fb1443868737b12aca747a7f%2F2026-09-13t164749z-1915945494-mt1usatoday29810794-rtrmadp-3-nfl-baltimore-ravens-at-indianapolis-colts.jpg"
+        "date": "Sun, 20 Sep 2026 22:19:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc27859/2147483647/strip/false/crop/5180x2914+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fab%2Fc9b97ebf43a2834f648a9fcee846%2F2295810520.jpg"
       },
       {
-        "title": "Tyler Shough \"loved\" Anthony Weaver calling him a \"poor man's Josh Allen\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-shough-loved-anthony-weaver-calling-him-a-poor-mans-josh-allen",
-        "summary": "Ravens defensive coordinator Anthony Weaver unintentionally gave Saints quarterback Tyler Shough a new nickname last week.",
+        "title": "NFL intends to proceed with Ravens-Cowboys in Brazil, despite field concerns",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-intends-to-proceed-with-ravens-cowboys-in-brazil-despite-field-concerns",
+        "summary": "When it comes to the NFL's obsession with expanding pro football's footprint, nothing will get in the way.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 21:05:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4258a3e/2147483647/strip/false/crop/2896x1629+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F46%2F9d%2F1f42dabc4eb18a952bc30cc294c5%2F2296285202.jpg"
+        "date": "Sun, 20 Sep 2026 21:53:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2c986eb/2147483647/strip/false/crop/2436x1370+0+254/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fae%2F97%2F48077ea24d80ba78a525d88e0674%2F2295830468.jpg"
       },
       {
-        "title": "The Browns apparently will stick with Deshaun Watson for home opener",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-browns-apparently-will-stick-with-deshaun-watson-for-home-opener",
-        "summary": "Browns quarterback Deshaun Watson didn't throw for 400 yards and five touchdowns, but he likely did enough to earn another start.",
+        "title": "Sunday Night Football: Colts lead Chiefs 20-17 at halftime",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-colts-lead-chiefs-20-17-at-halftime",
+        "summary": "Jonathan Taylor ran in a 24-yard touchdown to give the Colts the lead at the break.",
         "source": "nbcsports.com",
-        "date": "Sun, 20 Sep 2026 21:03:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3d0c30b/2147483647/strip/false/crop/7203x4052+0+376/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb7%2Fad%2Ff5fdd7ec4a939d989cf9fd883fff%2F2296303217.jpg"
+        "date": "Sun, 20 Sep 2026 21:51:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/645793e/2147483647/strip/false/crop/6833x3844+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2Fac%2Febfe9bac4df88994534b3a5b9765%2F2296313953.jpg"
       }
     ]
   }
