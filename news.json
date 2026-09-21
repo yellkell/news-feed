@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-21T19:24:30.968Z",
+  "updated": "2026-09-21T22:41:07.482Z",
   "feed": {
     "VR": [
+      {
+        "title": "Underwater Narrative Puzzler Echoes Of Mora VR Available Today On Steam",
+        "url": "https://www.uploadvr.com/underwater-narrative-puzzler-echoes-of-mora-vr-available-today-on-steam/",
+        "summary": "After a delay from the planned April release, deep sea story-based puzzle game Echoes of Mora VR released today on Steam, with an optional flatscreen mode.",
+        "source": "uploadvr.com",
+        "date": "Mon, 21 Sep 2026 14:06:13 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/EchoesOfMoraVR_KeyArt_2560x1440_withLogo.png"
+      },
+      {
+        "title": "Here’s How Much a VR Ready PC Costs in 2026",
+        "url": "https://roadtovr.com/best-vr-ready-pc-cost-price/",
+        "summary": "The cost of PC components has shifted rapidly in recent years thanks to the RAMpocalypse, inflation, and more.",
+        "source": "roadtovr.com",
+        "date": "Mon, 21 Sep 2026 19:40:26 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2019/12/Steamvr-headsets.jpg?resize=1920%2C1080&quality=100&ssl=1"
+      },
+      {
+        "title": "ZuckOff spots Ray-Ban Meta and Snap Spectacles over Bluetooth, but not whether they record",
+        "url": "https://mixed-news.com/en/zuckoff-app-detects-camera-glasses-bluetooth/",
+        "summary": "A free app called ZuckOff listens for the Bluetooth advertisements that camera glasses broadcast, then tells you when a pair is in the room.",
+        "source": "mixed-news.com",
+        "date": "Mon, 21 Sep 2026 11:37:50 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/1286x0w.jpg"
+      },
       {
         "title": "Claude in Chrome transcripts can now be pulled by Enterprise compliance teams, in beta",
         "url": "https://mixed-news.com/en/claude-in-chrome-sessions-compliance-api-enterprise-beta/",
@@ -25,40 +49,16 @@
         "source": "roadtovr.com",
         "date": "Fri, 18 Sep 2026 15:07:59 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
-      },
-      {
-        "title": "Meta's CTO says a few bad actors should not shape the debate about its camera glasses",
-        "url": "https://mixed-news.com/en/bosworth-bad-actors-meta-glasses-privacy-recording-light/",
-        "summary": "Meta's chief technology officer says the argument about its camera glasses is being shaped by a small group of people misusing them.",
-        "source": "mixed-news.com",
-        "date": "Mon, 21 Sep 2026 09:27:47 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Meta-Ray-Ban-Display_Social-Share.jpg"
-      },
-      {
-        "title": "Crucial Accessories To Make VR Fitness Work Better",
-        "url": "https://www.uploadvr.com/crucial-accessories-to-make-vr-fitness-work-better/",
-        "summary": "Exercising in VR can bring heat, sweat, and discomfort. From knuckle grips to battery straps, here are the accessories we use to make VR fitness better.",
-        "source": "uploadvr.com",
-        "date": "Mon, 21 Sep 2026 02:00:47 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/IMG_2555.jpg"
-      },
-      {
-        "title": "Snap Announces New “anticipatory” AI Service & Apps for First Consumer ‘Specs’ AR Glasses",
-        "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
-        "summary": "Snap today announced new experiences, services and partnerships for SPECS, the company’s upcoming pair of consumer AR glasses.",
-        "source": "roadtovr.com",
-        "date": "Wed, 16 Sep 2026 23:40:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?resize=1800%2C1200&quality=100&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Can John Ternus find Apple’s next big thing?",
-        "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-        "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.",
+        "title": "California tightens rules on AI data center energy and water use",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+        "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The…",
         "source": "theverge.com",
-        "date": "2026-09-21T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-21T16:29:45-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
       },
       {
-        "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-        "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-        "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout.",
+        "title": "Can John Ternus find Apple’s next big thing?",
+        "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+        "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.",
         "source": "theverge.com",
-        "date": "2026-09-21T09:36:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-21T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
       },
       {
-        "title": "UN says AI safeguards can’t wait for certainty",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-        "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first…",
+        "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+        "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+        "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout.",
         "source": "theverge.com",
-        "date": "2026-09-21T06:18:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-21T09:36:52-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Commanders DB Nick Cross stayed in Dallas Sunday after suffering internal injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-db-nick-cross-stayed-in-dallas-sunday-after-suffering-internal-injury",
-        "summary": "Jayden Daniels's injury was the major storyline for the Commanders in Sunday's loss to the Cowboys, but the quarterback was not the only member of the team to suffer an injury.",
+        "title": "Cardinals CB Will Johnson has a neck injury that could end his season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-cb-will-johnson-has-a-neck-injury-that-could-end-his-season",
+        "summary": "Cardinals cornerback Will Johnson's season might be finished.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 15:21:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9cb0533/2147483647/strip/false/crop/7462x4197+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2Fb1%2Fffa940bc4e27b2a502bad5f5fd7b%2F2295350826.jpg"
+        "date": "Mon, 21 Sep 2026 18:10:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/403c6f7/2147483647/strip/false/crop/5133x2887+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F4a%2F69244dae434fb652ce5a5cfd0544%2F2295512436.jpg"
       },
       {
-        "title": "Jayden Daniels consulting specialists after dislocating left elbow Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-jayden-daniels-consulting-specialists-after-dislocating-left-elbow-sunday",
-        "summary": "Commanders quarterback Jayden Daniels dislocated his left elbow during Sunday's loss to the Commanders and is now trying to sort out how long he will be out of action as a result…",
+        "title": "Cowboys CB Cobie Durant, S P.J. Locke will miss a few weeks with injuries",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-cb-cobie-durant-s-p-j-locke-will-miss-a-few-weeks-with-injuries",
+        "summary": "Cowboys cornerback Cobie Durant and safety P.J.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 15:14:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4aa5a19/2147483647/strip/false/crop/3529x1985+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2F68%2Fb6267817441c831bb31991d8cd0f%2F2296299564.jpg"
+        "date": "Mon, 21 Sep 2026 17:48:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b35c0ec/2147483647/strip/false/crop/4858x2733+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fc6%2F981bd01b47cd889b01bacc57ad12%2F2295131419.jpg"
       },
       {
-        "title": "Report: Joey Porter Jr. rejected $27 million in 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-joey-porter-jr-rejected-27-million-in-2026",
-        "summary": "As the contract standoff continues between the Steelers and cornerback Joey Porter Jr., some of the details regarding the negotiations are leaking.",
+        "title": "Panthers RB Jonathon Brooks is week-to-week with groin injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-rb-jonathon-brooks-is-week-to-week-with-groin-injury",
+        "summary": "Often-injured Panthers running back Jonathon Brooks is injured again.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 14:56:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/88bc23e/2147483647/strip/false/crop/5520x3105+0+288/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F16%2Fe2efd642442cb7f251fbd9a43ae9%2F2026-09-18t214624z-1588912265-mt1usatoday29850476-rtrmadp-3-nfl-atlanta-falcons-at-pittsburgh-steelers.jpg"
+        "date": "Mon, 21 Sep 2026 17:46:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2a0abc5/2147483647/strip/false/crop/5925x3333+0+309/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F8d%2Fbd38865241b2adb1599812dad4ae%2F2295924502.jpg"
       },
       {
-        "title": "Jerry Jones: I was worried what it would be like if Cowboys started 0-2",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-i-was-worried-what-it-would-be-like-if-cowboys-started-0-2",
-        "summary": "The Cowboys got their first win of the season on Sunday, and Jerry Jones breathed a sigh of relief.",
+        "title": "Dallas Goedert sprained his MCL, will miss a few weeks",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dallas-goedert-sprained-his-mcl-will-miss-a-few-weeks",
+        "summary": "Eagles tight end Dallas Goedert underwent an MRI on his injured right knee on Monday.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 14:42:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3914646/2147483647/strip/false/crop/5724x3220+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F66%2Fe2%2F3446238a4c99a6aa5602ec6f8fce%2F2296287211.jpg"
+        "date": "Mon, 21 Sep 2026 17:19:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc38d67/2147483647/strip/false/crop/8083x4547+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2F12%2Fe029e43644a3aa7a324ca4abb7f6%2F2295351875.jpg"
       },
       {
-        "title": "Kyler Murray clears concussion protocol, set to start Week 3 vs. Bucs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-clears-concussion-protocol-set-to-start-week-3-vs-bucs",
-        "summary": "Murray will be back in the starting lineup for next week's game after Carson Wentz started Week 2.",
+        "title": "Shane Steichen on Alec Pierce: Still gathering info on his heel, unsure of availability",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-on-alec-pierce-still-gathering-info-on-his-heel-unsure-of-availability",
+        "summary": "At this point, it's still unclear how much time Alec Pierce will miss after departing last night's loss to the Chiefs.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 14:27:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/268c1fc/2147483647/strip/false/crop/4817x2710+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2F51%2F0af51f944c4da12dc169f5413fc5%2F2295701246.jpg"
+        "date": "Mon, 21 Sep 2026 17:00:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/628179a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F105%2F79%2Fnbc_pft_coltsdiscussion_260921.jpg"
       },
       {
-        "title": "Seahawks don't think Jadarian Price's shoulder injury is serious",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-dont-think-jadarian-prices-shoulder-injury-is-serious",
-        "summary": "Seahawks rookie running back Jadarian Price left Sunday's win over the Cardinals with an injury, but it doesn't look like he is facing an extended absence from the lineup.",
+        "title": "Michael Penix Jr. will start for Falcons on Thursday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-jr-will-start-for-falcons-on-thursday-night",
+        "summary": "2024 first-rounder will return from November 2025 ACL tear.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 14:18:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aa47444/2147483647/strip/false/crop/3200x1800+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2F6e%2F031dd3a541c4b9447bdd47bde5a3%2F2296297004.jpg"
+        "date": "Mon, 21 Sep 2026 16:45:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b7948b/2147483647/strip/false/crop/4239x2384+0+221/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2F96%2F93f4020440c1a29eedf07c5a0a9f%2F2296285508.jpg"
       }
     ]
   }
