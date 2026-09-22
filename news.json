@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:41:36.364Z",
+  "updated": "2026-09-22T19:10:41.062Z",
   "feed": {
     "VR": [
       {
@@ -53,6 +53,30 @@
     ],
     "AI": [
       {
+        "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+        "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+        "summary": "The English hospitals recovered patient care data only.",
+        "source": "arstechnica.com",
+        "date": "Tue, 22 Sep 2026 16:55:40 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255624329-1024x648.jpg"
+      },
+      {
+        "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+        "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup.",
+        "source": "theverge.com",
+        "date": "2026-09-22T12:34:08-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+        "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents.",
+        "source": "theverge.com",
+        "date": "2026-09-22T12:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
         "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
         "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
@@ -61,20 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
       },
       {
-        "title": "California tightens rules on AI data center energy and water use",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-        "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The…",
+        "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+        "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is…",
         "source": "theverge.com",
-        "date": "2026-09-21T16:29:45-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Can John Ternus find Apple’s next big thing?",
-        "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-        "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.",
-        "source": "theverge.com",
-        "date": "2026-09-21T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-22T12:01:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Sun, 20 Sep 2026 11:07:00 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
-      },
-      {
-        "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-        "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-        "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout.",
-        "source": "theverge.com",
-        "date": "2026-09-21T09:36:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-        "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-        "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-        "source": "arstechnica.com",
-        "date": "Thu, 17 Sep 2026 18:33:13 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Klint Kubiak: I enjoy that our team's 2-0, but no one's made the playoffs going 2-0",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-i-enjoy-that-our-teams-2-0-but-no-ones-made-the-playoffs-going-2-0",
-        "summary": "There might be a little something brewing with the Raiders.",
+        "title": "Packers RT Zach Bako-Bewele out for season with torn patellar tendon",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-rt-zach-bako-bewele-out-for-season-with-torn-patellar-tendon",
+        "summary": "The Packers will need a new right tackle for the rest of the 2026 season.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 11:33:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab1e47e/2147483647/strip/false/crop/4629x2604+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F98%2F1a202a7547cbae4d2d3392726100%2F2296305472.jpg"
+        "date": "Tue, 22 Sep 2026 15:01:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ef1f38/2147483647/strip/false/crop/2730x1536+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F95%2Fc0%2F6a31baf14a6b81df24bd4c55182b%2F2295799862.jpg"
       },
       {
-        "title": "Drew Brees reverses course, says he texted the Broncos about AFC Championship",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-brees-reverses-course-says-he-texted-the-broncos-about-afc-championship",
-        "summary": "The regular season consists of a unique rhythm.",
+        "title": "Report: Jaxson Dart's injury could be season-ending",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jaxson-darts-injury-could-be-season-ending",
+        "summary": "MRI brings bad news for the Giants.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 11:17:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec8cf65/2147483647/strip/false/crop/5576x3137+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2Fba%2F400cf25a493c968900d53908eb65%2F2289627644.jpg"
+        "date": "Tue, 22 Sep 2026 14:44:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/18df535/2147483647/strip/false/crop/5539x3116+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8c%2Fcd%2F4192f1314243bb4aaef1087c3778%2F2296490913.jpg"
       },
       {
-        "title": "Odell Beckham Jr. was on the field for three plays on Monday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-jr-was-on-the-field-for-three-plays-on-monday-night",
-        "summary": "The first real sighting of Giants receiver Odell Beckham Jr. on Monday night happened when ESPN cameras captured him giving his former head coach, Sean McVay, a post-game hug.",
+        "title": "Sean McVay hopeful, but unsure of Puka Nacua's availability for Week 3",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-hopeful-but-unsure-of-puka-nacuas-availability-for-week-3",
+        "summary": "The Rams did not have an issue playing without star receiver Puka Nacua on Monday night, defeating the Giants, 28-6.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 10:46:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/18e5ab3/2147483647/strip/false/crop/6008x3380+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2Fa4%2F1be4363d4319a220202d9df2defe%2F2295973654.jpg"
+        "date": "Tue, 22 Sep 2026 14:39:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0a467f/2147483647/strip/false/crop/2306x1297+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F09%2Fb9075bf140fda5be278c2a24799b%2F2294075358.jpg"
       },
       {
-        "title": "Andy Reid: Kenneth Walker wants the ball every play, doesn't want to be relieved",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-kenneth-walker-wants-the-ball-every-play-doesnt-want-to-be-relieved",
-        "summary": "Through two weeks, Chiefs running back Kenneth Walker looks like one of the true prizes of free agency.",
+        "title": "Through two weeks, four starting quarterbacks have been injured",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/through-two-weeks-four-starting-quarterbacks-have-been-injured",
+        "summary": "The 2023 season featured more than a few serious quarterback injuries.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 10:19:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f5f59b6/2147483647/strip/false/crop/5205x2928+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2F7d%2F0daab11b413aafe8817ab99a5185%2F2295987910.jpg"
+        "date": "Tue, 22 Sep 2026 14:33:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fa8d715/2147483647/strip/false/crop/5289x2975+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F7c%2F5404ff394fcaabb9f804708b21e0%2F2296285055.jpg"
       },
       {
-        "title": "PFT's Week 3 2026 NFL power rankings",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-3-2026-nfl-power-rankings",
-        "summary": "The Seahawks continue to rule the roost.",
+        "title": "Tyson Bagent placed in concussion protocol, putting Case Keenum in line to start Week 3",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyson-bagent-placed-in-concussion-protocol-putting-case-keenum-in-line-to-start-week-3",
+        "summary": "Chicago is dealing with multiple injuries at quarterback. The club will play Philadelphia on Monday night.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 09:45:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7c13c6e/2147483647/strip/false/crop/8119x4567+0+423/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F18%2Fe5a9e7e848c3859590372c605138%2F2296305886.jpg"
+        "date": "Tue, 22 Sep 2026 14:22:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/934a483/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2Ff2%2Fd1606319476a90f45ee1edd968f3%2F2296282451.jpg"
       },
       {
-        "title": "Dan Campbell on Kerby Joseph: We're trying to get him back, but he's not ready",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-on-kerby-joseph-were-trying-to-get-him-back-but-hes-not-ready",
-        "summary": "The Lions have struggled in the secondary through the first two weeks of the season and part of the reason why they're having a hard time is the absence of safeties Brian Branch…",
+        "title": "The three players fined for violating one of the five key safety rules have appealed",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-three-players-fined-for-the-violating-one-of-the-five-key-safety-rules-have-appealed",
+        "summary": "The NFL has adopted a new procedure when it comes to five key safety rules.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 09:33:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a85b6d1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F895%2F195%2Fnbc_pft_lions_260918.jpg"
+        "date": "Tue, 22 Sep 2026 14:08:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6d6309/2147483647/strip/false/crop/8192x4608+0+428/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2Ff9%2F70495e0b4f6a853e4365f9a8e80b%2F2294984226.jpg"
       }
     ]
   }
