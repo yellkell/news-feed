@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-22T06:11:10.408Z",
+  "updated": "2026-09-22T11:35:08.000Z",
   "feed": {
     "VR": [
+      {
+        "title": "Grok 4.7 ties GPT-6 Astra's cheapest setting, and costs $2.73 per task against $0.82",
+        "url": "https://mixed-news.com/en/grok-4-7-cost-per-task-intelligence-index-gpt-6-astra/",
+        "summary": "SpaceXAI's new Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index, the same mark the leaderboard gives GPT-6 Astra at its lowest effort setting.",
+        "source": "mixed-news.com",
+        "date": "Tue, 22 Sep 2026 08:30:22 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/grok-4-7-og.webp"
+      },
       {
         "title": "Underwater Narrative Puzzler Echoes Of Mora VR Available Today On Steam",
         "url": "https://www.uploadvr.com/underwater-narrative-puzzler-echoes-of-mora-vr-available-today-on-steam/",
@@ -19,20 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2019/12/Steamvr-headsets.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "ZuckOff spots Ray-Ban Meta and Snap Spectacles over Bluetooth, but not whether they record",
-        "url": "https://mixed-news.com/en/zuckoff-app-detects-camera-glasses-bluetooth/",
-        "summary": "A free app called ZuckOff listens for the Bluetooth advertisements that camera glasses broadcast, then tells you when a pair is in the room.",
+        "title": "Steam's new Pyrowave codec uses up to 10 times the bandwidth, and wants gigabit ethernet",
+        "url": "https://mixed-news.com/en/steam-pyrowave-codec-10-times-bandwidth-gigabit-ethernet/",
+        "summary": "Valve has added an experimental video codec called Pyrowave to Steam Remote Play, and it uses five to 10 times the bandwidth of the streaming codecs Steam uses now.",
         "source": "mixed-news.com",
-        "date": "Mon, 21 Sep 2026 11:37:50 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/1286x0w.jpg"
-      },
-      {
-        "title": "Claude in Chrome transcripts can now be pulled by Enterprise compliance teams, in beta",
-        "url": "https://mixed-news.com/en/claude-in-chrome-sessions-compliance-api-enterprise-beta/",
-        "summary": "If your employer runs Claude Enterprise, what Claude does in your browser is now a record someone else can fetch.",
-        "source": "mixed-news.com",
-        "date": "Mon, 21 Sep 2026 10:25:14 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6a17252301e24bf3474f6e9f_og-enterprise-solutions.jpg"
+        "date": "Tue, 22 Sep 2026 07:45:05 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/social_media_share4.png"
       },
       {
         "title": "Acute Immersive Powers Custom visionOS Apps For Immersive Video",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Seahawks expect Sam Darnold to practice \"in some capacity\" Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-expect-sam-darnold-to-practice-in-some-capacity-wednesday",
+        "summary": "Word over the weekend was encouraging about quarterback Sam Darnold's recovery from the glute injury that kept him from playing in Week 2 and head coach Mike Macdonald brought more…",
+        "source": "nbcsports.com",
+        "date": "Tue, 22 Sep 2026 06:57:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bb48ed2/2147483647/strip/false/crop/5966x3356+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F82%2F1ed6f55d45e6b03e313511b1f872%2F2294934525.jpg"
+      },
+      {
+        "title": "Matthew Stafford: We leaned on Davante Adams Monday and he came through for us",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-we-leaned-on-davante-adams-monday-and-he-came-through-for-us",
+        "summary": "The Rams didn't have Puka Nacua for Monday night's game against the Giants, but the wide receiver's absence didn't wind up holding them back.",
+        "source": "nbcsports.com",
+        "date": "Tue, 22 Sep 2026 06:49:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6e530f0/2147483647/strip/false/crop/3723x2094+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2F31%2Fe2f5dbd0427d80225c4835bb7eba%2F2296485163.jpg"
+      },
+      {
+        "title": "Aaron Donald: Game wasn't as fast as I thought",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-game-wasnt-as-fast-as-i-thought",
+        "summary": "Donald played his first game since 2023 on Monday night.",
+        "source": "nbcsports.com",
+        "date": "Tue, 22 Sep 2026 06:29:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/54798db/2147483647/strip/false/crop/5680x3195+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4b%2F0c%2F5d429c9b4b7d93e6eb031971407b%2F2295973619.jpg"
+      },
+      {
+        "title": "Brian Burns says his low ankle sprain is \"nothing serious\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-burns-says-his-low-ankle-sprain-is-nothing-serious",
+        "summary": "Burns limped off the field and to the locker room on Monday night but said after the game he would be OK.",
+        "source": "nbcsports.com",
+        "date": "Tue, 22 Sep 2026 04:49:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e89581/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F11%2F016784d442d7ba3f16a61a209585%2F2295980052.jpg"
+      },
+      {
+        "title": "Sean McVay attributes Week 1 loss to \"dumbass coach that makes travel plans\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-attributes-week-1-loss-to-dumbass-coach-that-makes-travel-plans",
+        "summary": "After the Rams beat the Giants on Monday night, McVay took the blame for the Week 1 debacle in Australia.",
+        "source": "nbcsports.com",
+        "date": "Tue, 22 Sep 2026 04:07:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d1f142/2147483647/strip/false/crop/4000x2250+0+208/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F6c%2Fbc006d1d4f07b4fe826dd61c29d5%2F2295980138.jpg"
+      },
+      {
         "title": "Jaxson Dart is believed to have a sprained MCL",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-is-believed-to-have-a-sprained-mcl",
         "summary": "MRI is coming on Monday.",
         "source": "nbcsports.com",
         "date": "Mon, 21 Sep 2026 23:46:11 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8497abf/2147483647/strip/false/crop/5568x3132+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fa1%2F6f7545ea45ed80840efd9822c720%2F2026-09-22t033421z-2075806672-mt1usatoday29883898-rtrmadp-3-nfl-new-york-giants-at-los-angeles-rams.jpg"
-      },
-      {
-        "title": "Monday Night Football: Rams roll Giants 28-6 after Jaxson Dart's departure",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-rams-roll-giants-28-6-after-jaxson-darts-departure",
-        "summary": "Matthew Stafford threw four touchdown passes, two to Davante Adams, who had 195 yards.",
-        "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 23:24:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/23a4536/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F56%2Fbdb100c94316890a8219a3d38812%2F2296485429.jpg"
-      },
-      {
-        "title": "Brian Burns, Andrew Thomas injured in fourth quarter",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-burns-andrew-thomas-injured-in-fourth-quarter",
-        "summary": "Monday night's game can't end soon enough for the Giants.",
-        "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 23:11:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2ea2244/2147483647/strip/false/crop/3325x1870+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2Fab%2F2fb84a8f4840a169cadea9540e44%2F2296473891.jpg"
-      },
-      {
-        "title": "Report: Jaxson Dart wanted to return to the game despite knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jaxson-dart-wanted-to-return-to-the-game-despite-knee-injury",
-        "summary": "Giants quarterback Jaxson Dart left Monday night's game early with a knee injury, and he didn't return.",
-        "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 23:04:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bc3be3f/2147483647/strip/false/crop/3715x2090+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F31%2Fad46d6f7473b8a8de45ac9f183f5%2F2296476840.jpg"
-      },
-      {
-        "title": "Davante Adams has 195 yards, two TDs as Rams take 21-3 lead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-has-195-yards-two-tds-as-rams-take-21-3-lead",
-        "summary": "Davante Adams is having a career day.",
-        "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 22:23:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e01854/2147483647/strip/false/crop/4675x2630+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F07%2F1bd7c3ee425198b38c008d308ab8%2F2296484612.jpg"
-      },
-      {
-        "title": "Jaxson Dart ruled out but \"going to be OK\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-ruled-out-but-going-to-be-ok",
-        "summary": "The Giants quarterback hurt his left knee on the team's first possession of Monday Night Football.",
-        "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 22:08:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ba69c8a/2147483647/strip/false/crop/5216x2934+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2Fc4%2F97910b61484eac26b15615127152%2F2296476787.jpg"
       }
     ]
   }
