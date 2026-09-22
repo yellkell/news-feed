@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T22:41:07.482Z",
+  "updated": "2026-09-22T01:10:06.739Z",
   "feed": {
     "VR": [
       {
@@ -19,14 +19,6 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2019/12/Steamvr-headsets.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "ZuckOff spots Ray-Ban Meta and Snap Spectacles over Bluetooth, but not whether they record",
-        "url": "https://mixed-news.com/en/zuckoff-app-detects-camera-glasses-bluetooth/",
-        "summary": "A free app called ZuckOff listens for the Bluetooth advertisements that camera glasses broadcast, then tells you when a pair is in the room.",
-        "source": "mixed-news.com",
-        "date": "Mon, 21 Sep 2026 11:37:50 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/1286x0w.jpg"
-      },
-      {
         "title": "Claude in Chrome transcripts can now be pulled by Enterprise compliance teams, in beta",
         "url": "https://mixed-news.com/en/claude-in-chrome-sessions-compliance-api-enterprise-beta/",
         "summary": "If your employer runs Claude Enterprise, what Claude does in your browser is now a record someone else can fetch.",
@@ -43,6 +35,14 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/IMG_4684-headline-removed.png"
       },
       {
+        "title": "Meta's CTO says a few bad actors should not shape the debate about its camera glasses",
+        "url": "https://mixed-news.com/en/bosworth-bad-actors-meta-glasses-privacy-recording-light/",
+        "summary": "Meta's chief technology officer says the argument about its camera glasses is being shaped by a small group of people misusing them.",
+        "source": "mixed-news.com",
+        "date": "Mon, 21 Sep 2026 09:27:47 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Meta-Ray-Ban-Display_Social-Share.jpg"
+      },
+      {
         "title": "Unseen Reality XR Glasses Secures $1.2M in Successful Kickstarter",
         "url": "https://roadtovr.com/unseen-reality-xr-glasses-1m-kickstarter/",
         "summary": "Unseen Reality took to Kickstarter last month to fund its monitor-replacing mixed reality glasses, URXR One.",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+        "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+        "source": "arstechnica.com",
+        "date": "Mon, 21 Sep 2026 22:24:38 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
+      },
+      {
         "title": "California tightens rules on AI data center energy and water use",
         "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
         "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The…",
         "source": "theverge.com",
         "date": "2026-09-21T16:29:45-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-        "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-        "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
-        "source": "arstechnica.com",
-        "date": "Sun, 20 Sep 2026 11:07:00 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
       },
       {
         "title": "Can John Ternus find Apple’s next big thing?",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-        "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-        "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+        "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+        "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+        "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
         "source": "arstechnica.com",
-        "date": "Thu, 17 Sep 2026 18:33:13 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
+        "date": "Sun, 20 Sep 2026 11:07:00 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
       },
       {
         "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
@@ -93,62 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-        "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-        "summary": "Group plans to be largely out of commission for several weeks.",
+        "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+        "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+        "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
         "source": "arstechnica.com",
-        "date": "Wed, 16 Sep 2026 21:08:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg"
+        "date": "Thu, 17 Sep 2026 18:33:13 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Cardinals CB Will Johnson has a neck injury that could end his season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-cb-will-johnson-has-a-neck-injury-that-could-end-his-season",
-        "summary": "Cardinals cornerback Will Johnson's season might be finished.",
+        "title": "Giants receiver Malik Nabers suffers apparent arm injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-receiver-malik-nabers-suffers-apparent-arm-injury",
+        "summary": "Nabers exits in considerable pain.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 18:10:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/403c6f7/2147483647/strip/false/crop/5133x2887+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F4a%2F69244dae434fb652ce5a5cfd0544%2F2295512436.jpg"
+        "date": "Mon, 21 Sep 2026 21:00:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1086cc3/2147483647/strip/false/crop/7267x4088+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F15%2Fdc%2Fe1c8a8c4455c972bae90f70425f4%2F2295968680.jpg"
       },
       {
-        "title": "Cowboys CB Cobie Durant, S P.J. Locke will miss a few weeks with injuries",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-cb-cobie-durant-s-p-j-locke-will-miss-a-few-weeks-with-injuries",
-        "summary": "Cowboys cornerback Cobie Durant and safety P.J.",
+        "title": "Davante Adams gives Rams 7-0 lead with his 118th career TD",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-gives-rams-7-0-lead-with-his-118th-career-td",
+        "summary": "Matthew Stafford doesn't have Puka Nacua, but he does have Davante Adams.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 17:48:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b35c0ec/2147483647/strip/false/crop/4858x2733+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fc6%2F981bd01b47cd889b01bacc57ad12%2F2295131419.jpg"
+        "date": "Mon, 21 Sep 2026 20:59:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e1eebb3/2147483647/strip/false/crop/3268x1838+0+105/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F00%2F0cb9c1524cc9ad7c380f6a455cba%2F2295967619.jpg"
       },
       {
-        "title": "Panthers RB Jonathon Brooks is week-to-week with groin injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-rb-jonathon-brooks-is-week-to-week-with-groin-injury",
-        "summary": "Often-injured Panthers running back Jonathon Brooks is injured again.",
+        "title": "Alec Pierce aggravated heel injury, will miss at least several weeks",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alec-pierce-aggravated-heel-injury-will-miss-at-least-several-weeks",
+        "summary": "As the Colts try to turn around a season that has started with two straight losses (and now nine in a row), they'll be missing one of their highest-paid players, for multiple…",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 17:46:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2a0abc5/2147483647/strip/false/crop/5925x3333+0+309/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F8d%2Fbd38865241b2adb1599812dad4ae%2F2295924502.jpg"
+        "date": "Mon, 21 Sep 2026 20:41:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/964a30c/2147483647/strip/false/crop/4096x2304+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F3c%2F98ffcba24004b7fbd55771af5f4f%2F2248106121.jpg"
       },
       {
-        "title": "Dallas Goedert sprained his MCL, will miss a few weeks",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dallas-goedert-sprained-his-mcl-will-miss-a-few-weeks",
-        "summary": "Eagles tight end Dallas Goedert underwent an MRI on his injured right knee on Monday.",
+        "title": "Jaxson Dart questionable to return with knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-questionable-to-return-with-knee-injury",
+        "summary": "The Giants quarterback was injured on the team's first possession Monday night.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 17:19:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc38d67/2147483647/strip/false/crop/8083x4547+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2F12%2Fe029e43644a3aa7a324ca4abb7f6%2F2295351875.jpg"
+        "date": "Mon, 21 Sep 2026 20:39:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bd50a69/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2Fd4%2F33f443574a15b5f7abd5a902ee4d%2F2296476168.jpg"
       },
       {
-        "title": "Shane Steichen on Alec Pierce: Still gathering info on his heel, unsure of availability",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-on-alec-pierce-still-gathering-info-on-his-heel-unsure-of-availability",
-        "summary": "At this point, it's still unclear how much time Alec Pierce will miss after departing last night's loss to the Chiefs.",
+        "title": "Jaxson Dart injures leg on Giants' first possession",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-injures-leg-on-giants-first-possession",
+        "summary": "The quarterback was sandwiched between two defenders and remained on the ground holding his left knee.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 17:00:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/628179a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F105%2F79%2Fnbc_pft_coltsdiscussion_260921.jpg"
+        "date": "Mon, 21 Sep 2026 20:30:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/656973b/2147483647/strip/false/crop/3941x2217+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F9e%2F07f08aee4c06a864f23ae136a08d%2F2296473729.jpg"
       },
       {
-        "title": "Michael Penix Jr. will start for Falcons on Thursday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-jr-will-start-for-falcons-on-thursday-night",
-        "summary": "2024 first-rounder will return from November 2025 ACL tear.",
+        "title": "Monday Night Football: Puka Nacua is officially inactive with hip injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-puka-nacua-is-officially-inactive-with-hip-injury",
+        "summary": "Aaron Donald may be back, but the Rams will not have one of their best offensive players for Monday night's matchup against the Giants.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 16:45:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b7948b/2147483647/strip/false/crop/4239x2384+0+221/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2F96%2F93f4020440c1a29eedf07c5a0a9f%2F2296285508.jpg"
+        "date": "Mon, 21 Sep 2026 19:00:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5739d53/2147483647/strip/false/crop/3364x1892+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2Fb1%2Fc0735c914e7687a843fa4f855da4%2F2294053136.jpg"
       }
     ]
   }
