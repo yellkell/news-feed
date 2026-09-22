@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-22T11:35:08.000Z",
+  "updated": "2026-09-22T15:41:36.364Z",
   "feed": {
     "VR": [
+      {
+        "title": "Demeo X DnD: Battlemarked Twilight's End DLC Review - An Epic Tabletop RPG Conclusion",
+        "url": "https://www.uploadvr.com/demeo-x-dnd-battlemarked-twilights-end-dlc-review/",
+        "summary": "Twilight's End, the third campaign for Demeo X Dungeons & Dragons: Battlemarked, wraps up the tabletop RPG's story with an excellent endgame.",
+        "source": "uploadvr.com",
+        "date": "Tue, 22 Sep 2026 08:38:48 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/battlemarked-dlc---selection.png"
+      },
+      {
+        "title": "‘Demeo DnD: Battlemarked’ Gets Third Campaign Today, Expands Support to Xbox",
+        "url": "https://roadtovr.com/demeo-dnd-battlemarked-campaign-3-release-xbox/",
+        "summary": "Resolution Games, in collaboration with Hasbros’ Wizards of the Coast, today launched its next adventure campaign for Demeo x Dungeons & Dragons: Battlemarked (2025).",
+        "source": "roadtovr.com",
+        "date": "Tue, 22 Sep 2026 13:00:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/dnd-battlemarked-3.jpg?resize=1920%2C1080&quality=100&ssl=1"
+      },
       {
         "title": "Grok 4.7 ties GPT-6 Astra's cheapest setting, and costs $2.73 per task against $0.82",
         "url": "https://mixed-news.com/en/grok-4-7-cost-per-task-intelligence-index-gpt-6-astra/",
@@ -9,6 +25,14 @@
         "source": "mixed-news.com",
         "date": "Tue, 22 Sep 2026 08:30:22 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/grok-4-7-og.webp"
+      },
+      {
+        "title": "Steam's new Pyrowave codec uses up to 10 times the bandwidth, and wants gigabit ethernet",
+        "url": "https://mixed-news.com/en/steam-pyrowave-codec-10-times-bandwidth-gigabit-ethernet/",
+        "summary": "Valve has added an experimental video codec called Pyrowave to Steam Remote Play, and it uses five to 10 times the bandwidth of the streaming codecs Steam uses now.",
+        "source": "mixed-news.com",
+        "date": "Tue, 22 Sep 2026 07:45:05 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/social_media_share4.png"
       },
       {
         "title": "Underwater Narrative Puzzler Echoes Of Mora VR Available Today On Steam",
@@ -25,30 +49,6 @@
         "source": "roadtovr.com",
         "date": "Mon, 21 Sep 2026 19:40:26 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2019/12/Steamvr-headsets.jpg?resize=1920%2C1080&quality=100&ssl=1"
-      },
-      {
-        "title": "Steam's new Pyrowave codec uses up to 10 times the bandwidth, and wants gigabit ethernet",
-        "url": "https://mixed-news.com/en/steam-pyrowave-codec-10-times-bandwidth-gigabit-ethernet/",
-        "summary": "Valve has added an experimental video codec called Pyrowave to Steam Remote Play, and it uses five to 10 times the bandwidth of the streaming codecs Steam uses now.",
-        "source": "mixed-news.com",
-        "date": "Tue, 22 Sep 2026 07:45:05 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/social_media_share4.png"
-      },
-      {
-        "title": "Acute Immersive Powers Custom visionOS Apps For Immersive Video",
-        "url": "https://www.uploadvr.com/acute-immersive-powers-custom-visionos-apps-for-immersive-video/",
-        "summary": "Acute Immersive empowers businesses to build their own custom immersive video apps for Apple Vision Pro, complete with built-in publishing, monetization, and analytics tools.",
-        "source": "uploadvr.com",
-        "date": "Mon, 21 Sep 2026 03:00:23 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/IMG_4684-headline-removed.png"
-      },
-      {
-        "title": "Unseen Reality XR Glasses Secures $1.2M in Successful Kickstarter",
-        "url": "https://roadtovr.com/unseen-reality-xr-glasses-1m-kickstarter/",
-        "summary": "Unseen Reality took to Kickstarter last month to fund its monitor-replacing mixed reality glasses, URXR One.",
-        "source": "roadtovr.com",
-        "date": "Fri, 18 Sep 2026 15:07:59 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/urxr-one.jpg?resize=1920%2C1080&quality=100&ssl=1"
       }
     ],
     "AI": [
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Seahawks expect Sam Darnold to practice \"in some capacity\" Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-expect-sam-darnold-to-practice-in-some-capacity-wednesday",
-        "summary": "Word over the weekend was encouraging about quarterback Sam Darnold's recovery from the glute injury that kept him from playing in Week 2 and head coach Mike Macdonald brought more…",
+        "title": "Klint Kubiak: I enjoy that our team's 2-0, but no one's made the playoffs going 2-0",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-i-enjoy-that-our-teams-2-0-but-no-ones-made-the-playoffs-going-2-0",
+        "summary": "There might be a little something brewing with the Raiders.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 06:57:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bb48ed2/2147483647/strip/false/crop/5966x3356+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F82%2F1ed6f55d45e6b03e313511b1f872%2F2294934525.jpg"
+        "date": "Tue, 22 Sep 2026 11:33:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab1e47e/2147483647/strip/false/crop/4629x2604+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F98%2F1a202a7547cbae4d2d3392726100%2F2296305472.jpg"
       },
       {
-        "title": "Matthew Stafford: We leaned on Davante Adams Monday and he came through for us",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-we-leaned-on-davante-adams-monday-and-he-came-through-for-us",
-        "summary": "The Rams didn't have Puka Nacua for Monday night's game against the Giants, but the wide receiver's absence didn't wind up holding them back.",
+        "title": "Drew Brees reverses course, says he texted the Broncos about AFC Championship",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-brees-reverses-course-says-he-texted-the-broncos-about-afc-championship",
+        "summary": "The regular season consists of a unique rhythm.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 06:49:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6e530f0/2147483647/strip/false/crop/3723x2094+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2F31%2Fe2f5dbd0427d80225c4835bb7eba%2F2296485163.jpg"
+        "date": "Tue, 22 Sep 2026 11:17:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec8cf65/2147483647/strip/false/crop/5576x3137+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2Fba%2F400cf25a493c968900d53908eb65%2F2289627644.jpg"
       },
       {
-        "title": "Aaron Donald: Game wasn't as fast as I thought",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-game-wasnt-as-fast-as-i-thought",
-        "summary": "Donald played his first game since 2023 on Monday night.",
+        "title": "Odell Beckham Jr. was on the field for three plays on Monday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-jr-was-on-the-field-for-three-plays-on-monday-night",
+        "summary": "The first real sighting of Giants receiver Odell Beckham Jr. on Monday night happened when ESPN cameras captured him giving his former head coach, Sean McVay, a post-game hug.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 06:29:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/54798db/2147483647/strip/false/crop/5680x3195+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4b%2F0c%2F5d429c9b4b7d93e6eb031971407b%2F2295973619.jpg"
+        "date": "Tue, 22 Sep 2026 10:46:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/18e5ab3/2147483647/strip/false/crop/6008x3380+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2Fa4%2F1be4363d4319a220202d9df2defe%2F2295973654.jpg"
       },
       {
-        "title": "Brian Burns says his low ankle sprain is \"nothing serious\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-burns-says-his-low-ankle-sprain-is-nothing-serious",
-        "summary": "Burns limped off the field and to the locker room on Monday night but said after the game he would be OK.",
+        "title": "Andy Reid: Kenneth Walker wants the ball every play, doesn't want to be relieved",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-kenneth-walker-wants-the-ball-every-play-doesnt-want-to-be-relieved",
+        "summary": "Through two weeks, Chiefs running back Kenneth Walker looks like one of the true prizes of free agency.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 04:49:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7e89581/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F11%2F016784d442d7ba3f16a61a209585%2F2295980052.jpg"
+        "date": "Tue, 22 Sep 2026 10:19:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f5f59b6/2147483647/strip/false/crop/5205x2928+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2F7d%2F0daab11b413aafe8817ab99a5185%2F2295987910.jpg"
       },
       {
-        "title": "Sean McVay attributes Week 1 loss to \"dumbass coach that makes travel plans\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-attributes-week-1-loss-to-dumbass-coach-that-makes-travel-plans",
-        "summary": "After the Rams beat the Giants on Monday night, McVay took the blame for the Week 1 debacle in Australia.",
+        "title": "PFT's Week 3 2026 NFL power rankings",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-3-2026-nfl-power-rankings",
+        "summary": "The Seahawks continue to rule the roost.",
         "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 04:07:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d1f142/2147483647/strip/false/crop/4000x2250+0+208/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F6c%2Fbc006d1d4f07b4fe826dd61c29d5%2F2295980138.jpg"
+        "date": "Tue, 22 Sep 2026 09:45:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7c13c6e/2147483647/strip/false/crop/8119x4567+0+423/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F18%2Fe5a9e7e848c3859590372c605138%2F2296305886.jpg"
       },
       {
-        "title": "Jaxson Dart is believed to have a sprained MCL",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-is-believed-to-have-a-sprained-mcl",
-        "summary": "MRI is coming on Monday.",
+        "title": "Dan Campbell on Kerby Joseph: We're trying to get him back, but he's not ready",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-on-kerby-joseph-were-trying-to-get-him-back-but-hes-not-ready",
+        "summary": "The Lions have struggled in the secondary through the first two weeks of the season and part of the reason why they're having a hard time is the absence of safeties Brian Branch…",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 23:46:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8497abf/2147483647/strip/false/crop/5568x3132+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fa1%2F6f7545ea45ed80840efd9822c720%2F2026-09-22t033421z-2075806672-mt1usatoday29883898-rtrmadp-3-nfl-new-york-giants-at-los-angeles-rams.jpg"
+        "date": "Tue, 22 Sep 2026 09:33:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a85b6d1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F895%2F195%2Fnbc_pft_lions_260918.jpg"
       }
     ]
   }
