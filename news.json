@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:10:06.739Z",
+  "updated": "2026-09-22T06:11:10.408Z",
   "feed": {
     "VR": [
       {
@@ -19,6 +19,14 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2019/12/Steamvr-headsets.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
+        "title": "ZuckOff spots Ray-Ban Meta and Snap Spectacles over Bluetooth, but not whether they record",
+        "url": "https://mixed-news.com/en/zuckoff-app-detects-camera-glasses-bluetooth/",
+        "summary": "A free app called ZuckOff listens for the Bluetooth advertisements that camera glasses broadcast, then tells you when a pair is in the room.",
+        "source": "mixed-news.com",
+        "date": "Mon, 21 Sep 2026 11:37:50 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/1286x0w.jpg"
+      },
+      {
         "title": "Claude in Chrome transcripts can now be pulled by Enterprise compliance teams, in beta",
         "url": "https://mixed-news.com/en/claude-in-chrome-sessions-compliance-api-enterprise-beta/",
         "summary": "If your employer runs Claude Enterprise, what Claude does in your browser is now a record someone else can fetch.",
@@ -33,14 +41,6 @@
         "source": "uploadvr.com",
         "date": "Mon, 21 Sep 2026 03:00:23 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/IMG_4684-headline-removed.png"
-      },
-      {
-        "title": "Meta's CTO says a few bad actors should not shape the debate about its camera glasses",
-        "url": "https://mixed-news.com/en/bosworth-bad-actors-meta-glasses-privacy-recording-light/",
-        "summary": "Meta's chief technology officer says the argument about its camera glasses is being shaped by a small group of people misusing them.",
-        "source": "mixed-news.com",
-        "date": "Mon, 21 Sep 2026 09:27:47 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Meta-Ray-Ban-Display_Social-Share.jpg"
       },
       {
         "title": "Unseen Reality XR Glasses Secures $1.2M in Successful Kickstarter",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Giants receiver Malik Nabers suffers apparent arm injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-receiver-malik-nabers-suffers-apparent-arm-injury",
-        "summary": "Nabers exits in considerable pain.",
+        "title": "Jaxson Dart is believed to have a sprained MCL",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-is-believed-to-have-a-sprained-mcl",
+        "summary": "MRI is coming on Monday.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 21:00:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1086cc3/2147483647/strip/false/crop/7267x4088+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F15%2Fdc%2Fe1c8a8c4455c972bae90f70425f4%2F2295968680.jpg"
+        "date": "Mon, 21 Sep 2026 23:46:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8497abf/2147483647/strip/false/crop/5568x3132+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fa1%2F6f7545ea45ed80840efd9822c720%2F2026-09-22t033421z-2075806672-mt1usatoday29883898-rtrmadp-3-nfl-new-york-giants-at-los-angeles-rams.jpg"
       },
       {
-        "title": "Davante Adams gives Rams 7-0 lead with his 118th career TD",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-gives-rams-7-0-lead-with-his-118th-career-td",
-        "summary": "Matthew Stafford doesn't have Puka Nacua, but he does have Davante Adams.",
+        "title": "Monday Night Football: Rams roll Giants 28-6 after Jaxson Dart's departure",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-rams-roll-giants-28-6-after-jaxson-darts-departure",
+        "summary": "Matthew Stafford threw four touchdown passes, two to Davante Adams, who had 195 yards.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 20:59:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e1eebb3/2147483647/strip/false/crop/3268x1838+0+105/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F00%2F0cb9c1524cc9ad7c380f6a455cba%2F2295967619.jpg"
+        "date": "Mon, 21 Sep 2026 23:24:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/23a4536/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F56%2Fbdb100c94316890a8219a3d38812%2F2296485429.jpg"
       },
       {
-        "title": "Alec Pierce aggravated heel injury, will miss at least several weeks",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alec-pierce-aggravated-heel-injury-will-miss-at-least-several-weeks",
-        "summary": "As the Colts try to turn around a season that has started with two straight losses (and now nine in a row), they'll be missing one of their highest-paid players, for multiple…",
+        "title": "Brian Burns, Andrew Thomas injured in fourth quarter",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-burns-andrew-thomas-injured-in-fourth-quarter",
+        "summary": "Monday night's game can't end soon enough for the Giants.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 20:41:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/964a30c/2147483647/strip/false/crop/4096x2304+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F3c%2F98ffcba24004b7fbd55771af5f4f%2F2248106121.jpg"
+        "date": "Mon, 21 Sep 2026 23:11:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2ea2244/2147483647/strip/false/crop/3325x1870+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2Fab%2F2fb84a8f4840a169cadea9540e44%2F2296473891.jpg"
       },
       {
-        "title": "Jaxson Dart questionable to return with knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-questionable-to-return-with-knee-injury",
-        "summary": "The Giants quarterback was injured on the team's first possession Monday night.",
+        "title": "Report: Jaxson Dart wanted to return to the game despite knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jaxson-dart-wanted-to-return-to-the-game-despite-knee-injury",
+        "summary": "Giants quarterback Jaxson Dart left Monday night's game early with a knee injury, and he didn't return.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 20:39:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bd50a69/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2Fd4%2F33f443574a15b5f7abd5a902ee4d%2F2296476168.jpg"
+        "date": "Mon, 21 Sep 2026 23:04:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bc3be3f/2147483647/strip/false/crop/3715x2090+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F31%2Fad46d6f7473b8a8de45ac9f183f5%2F2296476840.jpg"
       },
       {
-        "title": "Jaxson Dart injures leg on Giants' first possession",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-injures-leg-on-giants-first-possession",
-        "summary": "The quarterback was sandwiched between two defenders and remained on the ground holding his left knee.",
+        "title": "Davante Adams has 195 yards, two TDs as Rams take 21-3 lead",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-has-195-yards-two-tds-as-rams-take-21-3-lead",
+        "summary": "Davante Adams is having a career day.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 20:30:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/656973b/2147483647/strip/false/crop/3941x2217+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F9e%2F07f08aee4c06a864f23ae136a08d%2F2296473729.jpg"
+        "date": "Mon, 21 Sep 2026 22:23:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e01854/2147483647/strip/false/crop/4675x2630+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F07%2F1bd7c3ee425198b38c008d308ab8%2F2296484612.jpg"
       },
       {
-        "title": "Monday Night Football: Puka Nacua is officially inactive with hip injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-puka-nacua-is-officially-inactive-with-hip-injury",
-        "summary": "Aaron Donald may be back, but the Rams will not have one of their best offensive players for Monday night's matchup against the Giants.",
+        "title": "Jaxson Dart ruled out but \"going to be OK\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-ruled-out-but-going-to-be-ok",
+        "summary": "The Giants quarterback hurt his left knee on the team's first possession of Monday Night Football.",
         "source": "nbcsports.com",
-        "date": "Mon, 21 Sep 2026 19:00:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5739d53/2147483647/strip/false/crop/3364x1892+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2Fb1%2Fc0735c914e7687a843fa4f855da4%2F2294053136.jpg"
+        "date": "Mon, 21 Sep 2026 22:08:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ba69c8a/2147483647/strip/false/crop/5216x2934+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2Fc4%2F97910b61484eac26b15615127152%2F2296476787.jpg"
       }
     ]
   }
