@@ -1,14 +1,22 @@
 {
-  "updated": "2026-09-23T05:01:11.879Z",
+  "updated": "2026-09-23T09:56:56.138Z",
   "feed": {
     "VR": [
       {
-        "title": "'Android XR Bridge' Tool Brings Quest Exclusives To PC VR",
-        "url": "https://www.uploadvr.com/android-xr-bridge-tool-brings-quest-exclusives-to-pc-vr/",
-        "summary": "Quest exclusives like Batman: Arkham Shadow and Asgard's Wrath 2 are now playable on PC VR thanks to Android XR Bridge, an experimental tool from developer Feli Reintgen.",
+        "title": "The Human Fall Flat studio's first built-for-VR game lands September 29, at $14.99 on Quest",
+        "url": "https://mixed-news.com/en/tiny-flock-no-brakes-games-vr-quest-steam-september-29/",
+        "summary": "Tiny Flock arrives on Meta Quest and Steam on September 29, and it is the first game No Brakes Games has built for VR from scratch rather than a VR edition of a game it had shipped…",
+        "source": "mixed-news.com",
+        "date": "Wed, 23 Sep 2026 08:51:10 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-10.jpg"
+      },
+      {
+        "title": "URXR One Kickstarter Raises $1.3M For Ultralight Tethered Passthrough Headset",
+        "url": "https://www.uploadvr.com/urxr-one-ultralight-passthrough-headset-kickstarter/",
+        "summary": "Unseen Reality's Kickstarter raised almost $1.3 million for URXR One, a 93-gram ultralight VR-style passthrough headset that acts as a virtual monitor.",
         "source": "uploadvr.com",
-        "date": "Tue, 22 Sep 2026 17:54:59 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/i-made-terrible-batman-arkham-steam-frame-photoshop.png"
+        "date": "Tue, 22 Sep 2026 23:11:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/01---Purple-branded-hero---1878x1170.png"
       },
       {
         "title": "‘Demeo DnD: Battlemarked’ Gets Third Campaign Today, Expands Support to Xbox",
@@ -19,28 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/dnd-battlemarked-3.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "Grok 4.7 ties GPT-6 Astra's cheapest setting, and costs $2.73 per task against $0.82",
-        "url": "https://mixed-news.com/en/grok-4-7-cost-per-task-intelligence-index-gpt-6-astra/",
-        "summary": "SpaceXAI's new Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index, the same mark the leaderboard gives GPT-6 Astra at its lowest effort setting.",
+        "title": "Meta's $299 camera glasses land in Spectrum stores, with demo tables and no contract",
+        "url": "https://mixed-news.com/en/meta-glasses-adventurer-299-spectrum-stores-demo-tables/",
+        "summary": "Charter has started selling Meta’s camera glasses in its own shops, listing the Meta Glasses Adventurer at $299 in the US at select Spectrum Stores and online at Spectrum.com.",
         "source": "mixed-news.com",
-        "date": "Tue, 22 Sep 2026 08:30:22 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/grok-4-7-og.webp"
+        "date": "Wed, 23 Sep 2026 07:50:31 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/MetaGlasses_Hero_0.webp"
       },
       {
-        "title": "Demeo X DnD: Battlemarked Twilight's End DLC Review - An Epic Tabletop RPG Conclusion",
-        "url": "https://www.uploadvr.com/demeo-x-dnd-battlemarked-twilights-end-dlc-review/",
-        "summary": "Twilight's End, the third campaign for Demeo X Dungeons & Dragons: Battlemarked, wraps up the tabletop RPG's story with an excellent endgame.",
+        "title": "'Android XR Bridge' Tool Brings Quest Exclusives To PC VR",
+        "url": "https://www.uploadvr.com/android-xr-bridge-tool-brings-quest-exclusives-to-pc-vr/",
+        "summary": "Quest exclusives like Batman: Arkham Shadow and Asgard's Wrath 2 are now playable on PC VR thanks to Android XR Bridge, an experimental tool from developer Feli Reintgen.",
         "source": "uploadvr.com",
-        "date": "Tue, 22 Sep 2026 08:38:48 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/battlemarked-dlc---selection.png"
-      },
-      {
-        "title": "Steam's new Pyrowave codec uses up to 10 times the bandwidth, and wants gigabit ethernet",
-        "url": "https://mixed-news.com/en/steam-pyrowave-codec-10-times-bandwidth-gigabit-ethernet/",
-        "summary": "Valve has added an experimental video codec called Pyrowave to Steam Remote Play, and it uses five to 10 times the bandwidth of the streaming codecs Steam uses now.",
-        "source": "mixed-news.com",
-        "date": "Tue, 22 Sep 2026 07:45:05 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/social_media_share4.png"
+        "date": "Tue, 22 Sep 2026 17:54:59 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/i-made-terrible-batman-arkham-steam-frame-photoshop.png"
       },
       {
         "title": "Here’s How Much a VR Ready PC Costs in 2026",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Derrick Henry says Ravens weren't good enough, but not complaining about lack of carries",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-says-ravens-werent-good-enough-but-not-complaining-about-lack-of-carries",
+        "summary": "The Ravens barely used Henry in the second half of their loss to the Saints.",
+        "source": "nbcsports.com",
+        "date": "Wed, 23 Sep 2026 04:37:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/47b02d1/2147483647/strip/false/crop/7224x4064+0+376/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2F40%2F87f41a3d49fc96188d1528801f93%2F2296408045.jpg"
+      },
+      {
         "title": "Alleged victim of Daejon Love says she reported him to 49ers in December 2025",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alleged-victim-of-daejon-love-says-she-reported-him-to-49ers-in-december-2025",
         "summary": "The 49ers have said, via information previously provided by an unnamed team source to Kalyn Kahler of ESPN, that they did not know about Daejon Love, who allegedly posed as a…",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 22 Sep 2026 20:39:16 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/452b768/2147483647/strip/false/crop/7965x4480+0+415/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe6%2F37%2F500e5d0749c6b30cd8a00c2fb8c9%2F2296530267.jpg"
-      },
-      {
-        "title": "Mike Macdonald's comments about Sean Payton weren't intended for public consumption",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonalds-comments-about-sean-payton-werent-intended-for-public-consumption",
-        "summary": "Seahawks coach Mike Macdonald launched his career as a head coach with a win over Sean Payton and the Denver Broncos.",
-        "source": "nbcsports.com",
-        "date": "Tue, 22 Sep 2026 20:09:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eb12d30/2147483647/strip/false/crop/5360x3015+0+279/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2F95%2F0de86b904274a8fffa31b28d6df6%2F2171012435.jpg"
       }
     ]
   }
