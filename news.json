@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-23T18:37:38.641Z",
+  "updated": "2026-09-23T21:46:50.653Z",
   "feed": {
     "VR": [
+      {
+        "title": "Hot Dogs, Horseshoes & Hand Grenades 2 Launches On Quest 3 In November",
+        "url": "https://www.uploadvr.com/hot-dogs-horseshoes-hand-grenades-2-launches-on-quest-3-in-november/",
+        "summary": "Hots Dogs, Horseshoes & Hand Grenades 2 launches on Quest 3 on November 12 for $40 with pre-orders open now at a 10% discount.",
+        "source": "uploadvr.com",
+        "date": "Wed, 23 Sep 2026 14:01:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Hot-Dogs--Horseshoes--and-Hand-Grenades-2---Cover-Art.png"
+      },
       {
         "title": "Watch the Meta Connect 2026 Keynote Right Here",
         "url": "https://roadtovr.com/meta-connect-2026-keynote-livestream-watch-time/",
@@ -19,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-10.jpg"
       },
       {
-        "title": "URXR One Kickstarter Raises $1.3M For Ultralight Tethered Passthrough Headset",
-        "url": "https://www.uploadvr.com/urxr-one-ultralight-passthrough-headset-kickstarter/",
-        "summary": "Unseen Reality's Kickstarter raised almost $1.3 million for URXR One, a 93-gram ultralight VR-style passthrough headset that acts as a virtual monitor.",
+        "title": "Snap Specs Hands-On: Minimum Viable Consumer True AR Glasses",
+        "url": "https://www.uploadvr.com/snap-specs-hands-on-minimum-viable-consumer-true-ar-glasses/",
+        "summary": "Snap Specs is optically rough, but with impressive tracking just about passes the minimum bar for first-generation true AR glasses.",
         "source": "uploadvr.com",
-        "date": "Tue, 22 Sep 2026 23:11:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/01---Purple-branded-hero---1878x1170.png"
+        "date": "Wed, 23 Sep 2026 13:52:12 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/David-wearing-Snap-Specs-indoors-launch-event.png"
       },
       {
         "title": "Meta's $299 camera glasses land in Spectrum stores, with demo tables and no contract",
@@ -33,14 +41,6 @@
         "source": "mixed-news.com",
         "date": "Wed, 23 Sep 2026 07:50:31 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/MetaGlasses_Hero_0.webp"
-      },
-      {
-        "title": "'Android XR Bridge' Tool Brings Quest Exclusives To PC VR",
-        "url": "https://www.uploadvr.com/android-xr-bridge-tool-brings-quest-exclusives-to-pc-vr/",
-        "summary": "Quest exclusives like Batman: Arkham Shadow and Asgard's Wrath 2 are now playable on PC VR thanks to Android XR Bridge, an experimental tool from developer Feli Reintgen.",
-        "source": "uploadvr.com",
-        "date": "Tue, 22 Sep 2026 17:54:59 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/i-made-terrible-batman-arkham-steam-frame-photoshop.png"
       },
       {
         "title": "‘Demeo DnD: Battlemarked’ Gets Third Campaign Today, Expands Support to Xbox",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Data centers are black boxes, but California wants to change that",
-        "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-        "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills…",
+        "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+        "summary": "Modern life comes with an unending, auto-populating to-do list.",
         "source": "theverge.com",
-        "date": "2026-09-23T14:22:57-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-23T15:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04272_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg"
       },
       {
-        "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-        "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr.",
+        "title": "Data centers are black boxes, but California wants to change that",
+        "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+        "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills…",
         "source": "theverge.com",
-        "date": "2026-09-23T14:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-23T14:22:57-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255624329-1024x648.jpg"
       },
       {
-        "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-        "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill…",
+        "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+        "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr.",
         "source": "theverge.com",
-        "date": "2026-09-23T12:23:05-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294931488.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-23T14:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "2026 season has seen the most kickoff return yards ever through two weeks",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2026-season-has-seen-the-most-kickoff-return-yards-ever-through-two-weeks",
-        "summary": "The NFL overhauled kickoff procedures a couple of years ago as a way to increase the number of kickoff returns and it has worked as intended.",
+        "title": "John Harbaugh: All options are open for adding a veteran QB",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-all-options-are-open-for-adding-a-veteran-qb",
+        "summary": "Jaxson Dart will miss at least the rest of the regular season with his knee injury.",
         "source": "nbcsports.com",
-        "date": "Wed, 23 Sep 2026 14:23:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f2b2d63/2147483647/strip/false/crop/4904x2759+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F86%2F20407c5a4f528035a34ea0521a06%2F2295125199.jpg"
+        "date": "Wed, 23 Sep 2026 17:40:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e121bea/2147483647/strip/false/crop/2883x1622+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2Fee%2Fcf427e5b4ed3a80d897727122ab8%2F2294758728.jpg"
       },
       {
-        "title": "Giants have various possible options at quarterback (but not many good ones)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-have-various-possible-options-at-quarterback-but-not-many-good-ones",
-        "summary": "With Giants quarterback Jaxson Dart reportedly heading for season-ending knee surgery, the Giants have to make a decision about the quarterback position moving forward.",
+        "title": "Cowboys practice without LB DeMarvion Overshown, S Malik Hooker",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-practice-without-lb-demarvion-overshown-s-malik-hooker",
+        "summary": "The Cowboys rank 29th defensively, and to add injury to insult, they have three starters and a key reserve out of practice.",
         "source": "nbcsports.com",
-        "date": "Wed, 23 Sep 2026 14:14:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/13bf5b5/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F346%2F795%2Fnbc_pft_jameiswinston_260923.jpg"
+        "date": "Wed, 23 Sep 2026 17:17:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9995662/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F236%2F935%2FBrazilplayingsurface9-22.jpg"
       },
       {
-        "title": "Andrei Iosivas headed to IR with torn ligament in thumb",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andrei-iosivas-headed-to-ir-with-torn-ligament-in-thumb",
-        "summary": "The Bengals will be without one of their key offensive players for some time.",
+        "title": "Joe Burrow is no longer on the Bengals injury report",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-is-no-longer-on-the-bengals-injury-report",
+        "summary": "At a press conference before the Bengals practiced on Wednesday, head coach Zay Taylor said that he wasn't sure how much quarterback Joe Burrow would be able to do at practice.",
         "source": "nbcsports.com",
-        "date": "Wed, 23 Sep 2026 13:48:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6f5e1bc/2147483647/strip/false/crop/4742x2667+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F46%2Fb8ab307a4ab6b9c1c8f315096366%2F2294769744.jpg"
+        "date": "Wed, 23 Sep 2026 17:03:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5eecdec/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F91%2Fd5%2Fb9c5893b4301bea5e193d79eb4bf%2F2296658497.jpg"
       },
       {
-        "title": "Ben Johnson: At this point, we're unsure of who will start at QB on Monday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-at-this-point-were-unsure-of-who-will-start-at-qb-on-monday-night",
-        "summary": "With Caleb Williams and Tyson Bagent each dealing with an injury, Case Keenum is in line to start for the Bears at quarterback in Week 3.",
+        "title": "The Joey Porter Jr. situation lingers, with no end in sight",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-joey-porter-jr-situation-lingers-with-no-end-in-sight",
+        "summary": "With the Steelers facing the Bengals this weekend — and receivers Ja'Marr Chase and Tee Higgins — it would be helpful to have cornerback Joey Porter Jr. on the field.",
         "source": "nbcsports.com",
-        "date": "Wed, 23 Sep 2026 13:31:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c562556/2147483647/strip/false/crop/6791x3820+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2F12%2F05fa205d492faa645d77b60fc7bf%2F2218663461.jpg"
+        "date": "Wed, 23 Sep 2026 16:57:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cbb0953/2147483647/strip/false/crop/7670x4314+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2F21%2Fac576dc649f382a3365605926ba1%2F2026-09-18t214720z-1028739935-mt1usatoday29850486-rtrmadp-3-nfl-atlanta-falcons-at-pittsburgh-steelers.jpg"
       },
       {
-        "title": "Cardinals put CB Will Johnson on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-put-cb-will-johnson-on-injured-reserve",
-        "summary": "Cardinals cornerback Will Johnson may have played his final snap of the 2026 season.",
+        "title": "Ravens DL Nnamdi Madubuike a full practice participant for first time this season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-dl-nnamdi-madubuike-a-full-practice-participant-for-first-time-this-season",
+        "summary": "Ravens defensive tackle Nnamdi Madubuike injured his neck in Week 2 last season and has not seen the field since.",
         "source": "nbcsports.com",
-        "date": "Wed, 23 Sep 2026 13:31:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/207720c/2147483647/strip/false/crop/5994x3372+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F1b%2F4cdf37d94db194f215e3e8e5afc4%2F2295512461.jpg"
+        "date": "Wed, 23 Sep 2026 16:55:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ee8d8e0/2147483647/strip/false/crop/4000x2250+0+215/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc1%2F03%2F4e4b0f9f4505acc2e045cd1aa589%2F2229070665.jpg"
       },
       {
-        "title": "Senators Cory Booker, Chris Murphy propose $5 million cap on college coaching salaries",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/senators-cory-booker-chris-murphy-propose-5-million-cap-on-college-coaching-salaries",
-        "summary": "The biggest problem with the so-called \"Protect College Sports Act\" is that it does nothing to protect college football players.",
+        "title": "Mansoor Delane returns to full participation, Josh Simmons DNP on Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mansoor-delane-returns-to-full-participation-josh-simmons-dnp-on-wednesday",
+        "summary": "Chiefs rookie cornerback Mansoor Delane was active for an emergency situation on Sunday but did not end up playing in the win over the Colts.",
         "source": "nbcsports.com",
-        "date": "Wed, 23 Sep 2026 13:29:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/396be3b/2147483647/strip/false/crop/3304x1859+0+172/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F29%2F1775dada4e71a32e7f8705ca1fad%2F2289048353.jpg"
+        "date": "Wed, 23 Sep 2026 16:52:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/597dea4/2147483647/strip/false/crop/5041x2836+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2Fc4%2Fca5df85b4c5c827365b044346cf5%2F2296029770.jpg"
       }
     ]
   }
