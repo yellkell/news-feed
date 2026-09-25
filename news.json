@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-25T04:54:37.993Z",
+  "updated": "2026-09-25T09:56:22.568Z",
   "feed": {
     "VR": [
+      {
+        "title": "Steam Link now streams to your Quest over a USB cable, if you run two betas",
+        "url": "https://mixed-news.com/en/steamvr-beta-2-18-1-tethered-quest-usb-aurora-default-environment/",
+        "summary": "Steam Link can now stream PC VR to a Meta Quest down a USB cable, with no Wi-Fi involved.",
+        "source": "mixed-news.com",
+        "date": "Fri, 25 Sep 2026 09:35:06 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/capsule_616x353-3.jpg"
+      },
       {
         "title": "Hologram: Meta Is Finally Set To Ship Realistic Avatars, And We Tried Them",
         "url": "https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/",
@@ -19,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "Disney+ starts streaming Marvel films in 3D in November, and Meta has not named the device",
-        "url": "https://mixed-news.com/en/disney-plus-marvel-films-3d-november-meta-has-not-named-device/",
-        "summary": "Disney+ will start streaming Marvel films in 3D in November, Meta says, and the announcement names no device to watch them on.",
+        "title": "Meta's $1,299.99 VR Glasses see 70 degrees, where your Quest 3 sees 110",
+        "url": "https://mixed-news.com/en/meta-vr-glasses-70-66-degree-field-of-view-quest-3-110-96/",
+        "summary": "Meta VR Glasses show roughly 70 by 66 degrees of field of view, against 110 by 96 on Meta Quest 3, and the comparison is Meta's own.",
         "source": "mixed-news.com",
-        "date": "Thu, 24 Sep 2026 09:23:24 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Avengers_-Infinity-War-_-Disney-Immersive-Cinema-by-ILM.png"
+        "date": "Fri, 25 Sep 2026 08:48:19 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/02_VRGlasses_Inline_Lenses.jpg"
       },
       {
         "title": "Watch the Meta Connect 2026 Developer State of the Union Keynote Right Here",
@@ -33,14 +41,6 @@
         "source": "roadtovr.com",
         "date": "Thu, 24 Sep 2026 14:35:35 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/meta-connect-2026.jpg?resize=1200%2C800&quality=100&ssl=1"
-      },
-      {
-        "title": "Meta Ray-Ban Display goes on sale in the UK at £749, with Germany at €899 on October 13",
-        "url": "https://mixed-news.com/en/meta-ray-ban-display-uk-749-germany-899-five-markets/",
-        "summary": "Meta Ray-Ban Display is on sale outside the US for the first time, and Meta's UK store lists it at £749.",
-        "source": "mixed-news.com",
-        "date": "Thu, 24 Sep 2026 08:46:32 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Meta-Ray-Ban-Display_Social-Share.jpg"
       },
       {
         "title": "Every New Game & Update Announced For Meta VR Glasses",
@@ -103,6 +103,30 @@
     ],
     "NFL": [
       {
+        "title": "Bijan Robinson and Drake London had a historic night, with 194 yards each",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-and-drake-london-had-a-historic-night-with-194-yards-each",
+        "summary": "Falcons running back Bijan Robinson and wide receiver Drake London ran wild at Lambeau Field on Thursday night.",
+        "source": "nbcsports.com",
+        "date": "Fri, 25 Sep 2026 05:08:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/67c532f/2147483647/strip/false/crop/8265x4649+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F5f%2F227f9af94b9cb8ebf332486f534e%2F2297017809.jpg"
+      },
+      {
+        "title": "Zach Ertz: I never wanted to leave Philadelphia, glad to be back to my favorite place",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zach-ertz-i-never-wanted-to-leave-philadelphia-glad-to-be-back-to-my-favorite-place",
+        "summary": "Veteran tight end Zach Ertz has returned to Philadelphia for his second stint with the Eagles, and he says he never wanted to leave.",
+        "source": "nbcsports.com",
+        "date": "Fri, 25 Sep 2026 04:53:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/89a9c88/2147483647/strip/false/crop/4000x2250+0+208/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F90%2F0d0c182640308210509ca2755047%2F2166866082.jpg"
+      },
+      {
+        "title": "Tucker Kraft: Disappointing that fans booed us at Lambeau Field, won't help us win",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tucker-kraft-disappointing-that-fans-booed-us-at-lambeau-field-wont-help-us-win",
+        "summary": "\"It'd be much easier with the 70,000 people behind us rather than opposing us,\" Kraft said of the Packers fans who booed during the 35-14 loss.",
+        "source": "nbcsports.com",
+        "date": "Fri, 25 Sep 2026 04:22:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/28aae38/2147483647/strip/false/crop/5468x3076+0+285/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F86%2F07376d39437192e3b983de7481fe%2F2296347058.jpg"
+      },
+      {
         "title": "Matt LaFleur on ugly loss to Falcons: \"It was a butt-whooping\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-on-ugly-loss-to-falcons-it-was-a-butt-whooping",
         "summary": "The running game was MIA against ATL.",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 24 Sep 2026 22:35:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b95519/2147483647/strip/false/crop/8256x4644+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F40%2F3a%2Fb9b31bc64f088d49b70bdda35f00%2F2260429304.jpg"
-      },
-      {
-        "title": "Falcons rolling, taking a 24-7 lead on the Packers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-rolling-taking-a-24-7-lead-on-the-packers",
-        "summary": "The Falcons are dominating the Packers at Lambeau Field.",
-        "source": "nbcsports.com",
-        "date": "Thu, 24 Sep 2026 22:28:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a67c744/2147483647/strip/false/crop/3991x2245+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2F84%2F820594be410ba4428ca0105f5b54%2F2296353347.jpg"
-      },
-      {
-        "title": "On Thursday, Mike McCarthy didn't want to say much about Joey Porter Jr.'s status",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-thursday-mike-mccarthy-didnt-want-to-say-much-about-joey-porter-jr-s-status",
-        "summary": "On Wednesday, Steelers coach Mike McCarthy wasn't asked about cornerback Joey Porter Jr.",
-        "source": "nbcsports.com",
-        "date": "Thu, 24 Sep 2026 22:14:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8f44589/2147483647/strip/false/crop/7513x4226+0+391/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F24%2F2bcad8f844e0bc8617e6a9352d10%2F2295073935.jpg"
-      },
-      {
-        "title": "Thursday Night Football: Falcons lead Packers 17-7 at halftime",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-falcons-lead-packers-17-7-at-halftime",
-        "summary": "Michael Penix is back . . . and so are the Falcons.",
-        "source": "nbcsports.com",
-        "date": "Thu, 24 Sep 2026 21:52:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c29ce7/2147483647/strip/false/crop/5326x2996+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F15%2F0933ed2d49a3bd2167ba12617900%2F2296352047.jpg"
       }
     ]
   }
