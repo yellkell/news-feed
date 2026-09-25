@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-25T14:57:20.371Z",
+  "updated": "2026-09-25T19:07:28.011Z",
   "feed": {
     "VR": [
       {
-        "title": "SteamOS 3.8.28 adds preliminary Steam Frame adapter support, but not VR streaming",
-        "url": "https://mixed-news.com/en/steamos-3-8-28-stable-steam-frame-wireless-adapter-mesa-vram/",
-        "summary": "SteamOS 3.8.28 reached the stable channel on September 24, and the first line on Steam Frame is a careful one.",
+        "title": "Meta's $1,299.99 VR Glasses see 70 degrees, where your Quest 3 sees 110",
+        "url": "https://mixed-news.com/en/meta-vr-glasses-70-66-degree-field-of-view-quest-3-110-96/",
+        "summary": "Meta VR Glasses show roughly 70 by 66 degrees of field of view, against 110 by 96 on Meta Quest 3, and the comparison is Meta's own.",
         "source": "mixed-news.com",
-        "date": "Fri, 25 Sep 2026 14:12:53 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/cd78aecb9b08a705ea2008a833c2b03f1305c848.jpg"
+        "date": "Fri, 25 Sep 2026 08:48:19 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/02_VRGlasses_Inline_Lenses.jpg"
       },
       {
         "title": "Hologram: Meta Is Finally Set To Ship Realistic Avatars, And We Tried Them",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "Meta puts $1 million into VR apps, but your entry must work with hands alone",
-        "url": "https://mixed-news.com/en/meta-vr-start-developer-competition-1-million-hands-only/",
-        "summary": "Meta has opened a $1 million VR Start Developer Competition, and the entry rule leaves no room to argue: \"Your experience must be fully usable with hands, end-to-end.",
+        "title": "ILM filmed National Geographic: Beyond in Africa for Meta VR Glasses and Quest 3",
+        "url": "https://mixed-news.com/en/ilm-national-geographic-beyond-meta-vr-glasses-quest-3/",
+        "summary": "Industrial Light & Magic has filmed a National Geographic experience on location in Africa for Meta's headsets, and it is being built for Meta Quest 3 and 3S as well as the Meta VR…",
         "source": "mixed-news.com",
-        "date": "Fri, 25 Sep 2026 13:26:09 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/01_VRGlasses_Inline_CloseUp.jpg"
+        "date": "Thu, 24 Sep 2026 15:16:09 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/National-Geographic_-Beyond-_-ILM-1536x864-1.png"
       },
       {
         "title": "Watch the Meta Connect 2026 Developer State of the Union Keynote Right Here",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-        "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-        "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats.",
+        "title": "Meta makes the Muse filesystem even more accessible",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+        "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users.",
         "source": "theverge.com",
-        "date": "2026-09-25T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-25T12:49:53-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
-        "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-        "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-        "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today.",
+        "title": "Sony and UMG are suing Suno again",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+        "summary": "Sony and Universal Music Group filed yet another suit against Suno.",
         "source": "theverge.com",
-        "date": "2026-09-25T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/copilothed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-25T11:51:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg"
       },
       {
-        "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-        "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.",
+        "title": "One company is at the center of a wave of rogue AI attacks",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+        "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety.",
         "source": "theverge.com",
-        "date": "2026-09-24T15:59:26-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&#038;strip=all&#038;crop=0,0,94.893468926603,100"
+        "date": "2026-09-25T11:39:48-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Work continues on field for Ravens-Cowboys",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/work-continues-on-field-for-ravens-cowboys",
-        "summary": "On Sunday, the Ravens and the Cowboys will play in Brazil.",
+        "title": "Brock Bowers questionable to face Saints",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-bowers-questionable-to-face-saints",
+        "summary": "Tight end Brock Bowers could make his 2026 debut when the Raiders take on the Saints in New Orleans on Sunday.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 10:37:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3a36ea5/2147483647/strip/false/crop/4200x2363+0+219/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F34%2F0e5d91874b93bb81654ff5673cad%2F1485851486.jpg"
+        "date": "Fri, 25 Sep 2026 14:59:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8b9d016/2147483647/strip/false/crop/5689x3200+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F28%2F53%2Ff335ed3b4341854e165631909bbb%2F2253043276.jpg"
       },
       {
-        "title": "Jaxson Dart to undergo meniscus surgery on Friday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-to-undergo-meniscus-surgery-on-friday",
-        "summary": "While Dart's meniscus is the primary concern, Dart's MCL and PCL will be addressed in the procedure if necessary.",
+        "title": "John Harbaugh: Sunday would be the perfect time to get Odell Beckham involved",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-sunday-would-be-the-perfect-time-to-get-odell-beckham-involved",
+        "summary": "Through two games this season, Giants wide receiver Odell Beckham has still not had a single pass thrown his way.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 10:36:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bb39c66/2147483647/strip/false/crop/7206x4053+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc1%2F9c%2Fb126a3c64ce5ac035052254b8fd3%2F2295968931.jpg"
+        "date": "Fri, 25 Sep 2026 14:56:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9584a30/2147483647/strip/false/crop/4808x2705+0+250/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc1%2F00%2Fe20f11b64b19aa3812ef5de7b5da%2F2294677968.jpg"
       },
       {
-        "title": "The Packers' struggles could be the Jets' gain",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-packers-struggles-could-be-the-jets-gain",
-        "summary": "As the football-following world began to come to terms with the possibility that the Packers could be very bad this year, Cowboys fans began to perk up.",
+        "title": "Chargers add Trey Lance to injury report, list him as questionable for Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-add-trey-lance-to-injury-report-list-him-as-questionable-for-sunday",
+        "summary": "The Chargers may need to make a roster move to add a quarterback ahead of Sunday's game against the Bills.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 10:11:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ba0802/2147483647/strip/false/crop/3675x2067+0+191/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Faf%2F83d492fa45ff862fd1fe36e9a590%2F2296286285.jpg"
+        "date": "Fri, 25 Sep 2026 14:42:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05eb07e/2147483647/strip/false/crop/4501x2532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa0%2Fa6%2Feb3b55e94585b4185f5f04aa29f2%2F2294983156.jpg"
       },
       {
-        "title": "Christian Watson: We have to put a better product on the field if we want fans to have our back",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-watson-we-have-to-put-a-better-product-on-the-field-if-we-want-fans-to-have-our-back",
-        "summary": "Things got ugly at Lambeau Field on Thursday night, with the Packers getting booed by the fans during their worst home loss of the Matt LaFleur era.",
+        "title": "Bills to list DJ Moore, Keon Coleman as questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-to-list-dj-moore-keon-coleman-as-questionable",
+        "summary": "A pair of Bills wide receivers will be listed as questionable for Sunday's game against the Chargers.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 09:52:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/46ad20d/2147483647/strip/false/crop/4426x2490+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F96%2F2ff950104619bdfef073566078e4%2F2296353639.jpg"
+        "date": "Fri, 25 Sep 2026 14:25:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fdbefa6/2147483647/strip/false/crop/4811x2706+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F1d%2F00ab51064d8c9ee40cc0b772f7e8%2F2296143284.jpg"
       },
       {
-        "title": "Ed Policy may regret not waiting on Matt LaFleur, Brian Gutenkunst contracts",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ed-policy-may-regret-not-waiting-on-matt-lafleur-brian-gutenkunst-contracts",
-        "summary": "After Ed Policy succeeded Mark Murphy as the president and CEO of the Packers, it quickly became clear that 2025 would be an up-or-out season for coach Matt LaFleur and G.M.",
+        "title": "Puka Nacua doubtful to play on Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-doubtful-to-play-on-sunday",
+        "summary": "Nacua is likely to miss his second straight game.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 09:46:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c0ce911/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F608%2F7%2Fnbc_pft_mattlafluerextension_260925.jpg"
+        "date": "Fri, 25 Sep 2026 14:15:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5a8a316/2147483647/strip/false/crop/4295x2416+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F17%2F0ebbc4a54e56ad1caa010f19670d%2F2294606332.jpg"
       },
       {
-        "title": "Jordan Love: Packers' run game needs to improve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-packers-run-game-needs-to-improve",
-        "summary": "Packers quarterback Jordan Love passed for 312 yards while the running game gained 17 yards in Thursday night's loss to the Falcons, and Love says that needs to change.",
+        "title": "John Harbaugh: We're in the process of adding a quarterback",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-were-in-the-process-of-adding-a-quarterback",
+        "summary": "The Giants are down to two healthy quarterbacks, but that should be changing soon.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 09:31:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7fada6d/2147483647/strip/false/crop/5464x3074+0+285/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Faa%2F4f4658e743d7a0adf81f25ce5d7d%2F2297017684.jpg"
+        "date": "Fri, 25 Sep 2026 13:43:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0bb1201/2147483647/strip/false/crop/5448x3065+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2F1b%2Fe614b6ff42c385395e6ff96444f1%2F2296079771.jpg"
       }
     ]
   }
