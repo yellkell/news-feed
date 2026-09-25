@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-25T09:56:22.568Z",
+  "updated": "2026-09-25T14:57:20.371Z",
   "feed": {
     "VR": [
       {
-        "title": "Steam Link now streams to your Quest over a USB cable, if you run two betas",
-        "url": "https://mixed-news.com/en/steamvr-beta-2-18-1-tethered-quest-usb-aurora-default-environment/",
-        "summary": "Steam Link can now stream PC VR to a Meta Quest down a USB cable, with no Wi-Fi involved.",
+        "title": "SteamOS 3.8.28 adds preliminary Steam Frame adapter support, but not VR streaming",
+        "url": "https://mixed-news.com/en/steamos-3-8-28-stable-steam-frame-wireless-adapter-mesa-vram/",
+        "summary": "SteamOS 3.8.28 reached the stable channel on September 24, and the first line on Steam Frame is a careful one.",
         "source": "mixed-news.com",
-        "date": "Fri, 25 Sep 2026 09:35:06 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/capsule_616x353-3.jpg"
+        "date": "Fri, 25 Sep 2026 14:12:53 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/cd78aecb9b08a705ea2008a833c2b03f1305c848.jpg"
       },
       {
         "title": "Hologram: Meta Is Finally Set To Ship Realistic Avatars, And We Tried Them",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg?resize=1920%2C1080&quality=100&ssl=1"
       },
       {
-        "title": "Meta's $1,299.99 VR Glasses see 70 degrees, where your Quest 3 sees 110",
-        "url": "https://mixed-news.com/en/meta-vr-glasses-70-66-degree-field-of-view-quest-3-110-96/",
-        "summary": "Meta VR Glasses show roughly 70 by 66 degrees of field of view, against 110 by 96 on Meta Quest 3, and the comparison is Meta's own.",
+        "title": "Meta puts $1 million into VR apps, but your entry must work with hands alone",
+        "url": "https://mixed-news.com/en/meta-vr-start-developer-competition-1-million-hands-only/",
+        "summary": "Meta has opened a $1 million VR Start Developer Competition, and the entry rule leaves no room to argue: \"Your experience must be fully usable with hands, end-to-end.",
         "source": "mixed-news.com",
-        "date": "Fri, 25 Sep 2026 08:48:19 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/02_VRGlasses_Inline_Lenses.jpg"
+        "date": "Fri, 25 Sep 2026 13:26:09 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/01_VRGlasses_Inline_CloseUp.jpg"
       },
       {
         "title": "Watch the Meta Connect 2026 Developer State of the Union Keynote Right Here",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-        "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.",
+        "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+        "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+        "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats.",
         "source": "theverge.com",
-        "date": "2026-09-24T15:59:26-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&#038;strip=all&#038;crop=0,0,94.893468926603,100"
+        "date": "2026-09-25T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
-        "title": "Jensen Huang talks about AI and climate change like a supervillain",
-        "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-        "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.",
+        "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+        "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+        "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today.",
         "source": "theverge.com",
-        "date": "2026-09-24T14:04:44-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-25T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/copilothed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg"
       },
       {
-        "title": "Meta is going to let you build games with AI right on your phone",
-        "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-        "summary": "Meta has a new plan to get people to make games for its Horizon social platform.",
+        "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+        "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+        "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time.",
         "source": "theverge.com",
-        "date": "2026-09-24T13:52:29-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-24T15:59:26-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&#038;strip=all&#038;crop=0,0,94.893468926603,100"
       },
       {
         "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Bijan Robinson and Drake London had a historic night, with 194 yards each",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-and-drake-london-had-a-historic-night-with-194-yards-each",
-        "summary": "Falcons running back Bijan Robinson and wide receiver Drake London ran wild at Lambeau Field on Thursday night.",
+        "title": "Work continues on field for Ravens-Cowboys",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/work-continues-on-field-for-ravens-cowboys",
+        "summary": "On Sunday, the Ravens and the Cowboys will play in Brazil.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 05:08:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/67c532f/2147483647/strip/false/crop/8265x4649+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F5f%2F227f9af94b9cb8ebf332486f534e%2F2297017809.jpg"
+        "date": "Fri, 25 Sep 2026 10:37:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3a36ea5/2147483647/strip/false/crop/4200x2363+0+219/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F34%2F0e5d91874b93bb81654ff5673cad%2F1485851486.jpg"
       },
       {
-        "title": "Zach Ertz: I never wanted to leave Philadelphia, glad to be back to my favorite place",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zach-ertz-i-never-wanted-to-leave-philadelphia-glad-to-be-back-to-my-favorite-place",
-        "summary": "Veteran tight end Zach Ertz has returned to Philadelphia for his second stint with the Eagles, and he says he never wanted to leave.",
+        "title": "Jaxson Dart to undergo meniscus surgery on Friday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-to-undergo-meniscus-surgery-on-friday",
+        "summary": "While Dart's meniscus is the primary concern, Dart's MCL and PCL will be addressed in the procedure if necessary.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 04:53:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/89a9c88/2147483647/strip/false/crop/4000x2250+0+208/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F90%2F0d0c182640308210509ca2755047%2F2166866082.jpg"
+        "date": "Fri, 25 Sep 2026 10:36:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bb39c66/2147483647/strip/false/crop/7206x4053+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc1%2F9c%2Fb126a3c64ce5ac035052254b8fd3%2F2295968931.jpg"
       },
       {
-        "title": "Tucker Kraft: Disappointing that fans booed us at Lambeau Field, won't help us win",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tucker-kraft-disappointing-that-fans-booed-us-at-lambeau-field-wont-help-us-win",
-        "summary": "\"It'd be much easier with the 70,000 people behind us rather than opposing us,\" Kraft said of the Packers fans who booed during the 35-14 loss.",
+        "title": "The Packers' struggles could be the Jets' gain",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-packers-struggles-could-be-the-jets-gain",
+        "summary": "As the football-following world began to come to terms with the possibility that the Packers could be very bad this year, Cowboys fans began to perk up.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 04:22:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/28aae38/2147483647/strip/false/crop/5468x3076+0+285/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F86%2F07376d39437192e3b983de7481fe%2F2296347058.jpg"
+        "date": "Fri, 25 Sep 2026 10:11:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ba0802/2147483647/strip/false/crop/3675x2067+0+191/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Faf%2F83d492fa45ff862fd1fe36e9a590%2F2296286285.jpg"
       },
       {
-        "title": "Matt LaFleur on ugly loss to Falcons: \"It was a butt-whooping\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-on-ugly-loss-to-falcons-it-was-a-butt-whooping",
-        "summary": "The running game was MIA against ATL.",
+        "title": "Christian Watson: We have to put a better product on the field if we want fans to have our back",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-watson-we-have-to-put-a-better-product-on-the-field-if-we-want-fans-to-have-our-back",
+        "summary": "Things got ugly at Lambeau Field on Thursday night, with the Packers getting booed by the fans during their worst home loss of the Matt LaFleur era.",
         "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 00:05:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2a09f67/2147483647/strip/false/crop/6312x3551+0+329/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F37%2F58e9ab0e4ec4a1185aab546f9be5%2F2297006143.jpg"
+        "date": "Fri, 25 Sep 2026 09:52:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/46ad20d/2147483647/strip/false/crop/4426x2490+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F96%2F2ff950104619bdfef073566078e4%2F2296353639.jpg"
       },
       {
-        "title": "Thursday Night Football: Drake London, Bijan Robinson run by Packers 35-14",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-drake-london-bijan-robinson-run-by-packers-35-14",
-        "summary": "London and Robinson combined for 407 yards and two touchdowns in Michael Penix's return to the lineup.",
+        "title": "Ed Policy may regret not waiting on Matt LaFleur, Brian Gutenkunst contracts",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ed-policy-may-regret-not-waiting-on-matt-lafleur-brian-gutenkunst-contracts",
+        "summary": "After Ed Policy succeeded Mark Murphy as the president and CEO of the Packers, it quickly became clear that 2025 would be an up-or-out season for coach Matt LaFleur and G.M.",
         "source": "nbcsports.com",
-        "date": "Thu, 24 Sep 2026 23:25:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5294b7a/2147483647/strip/false/crop/3830x2154+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd5%2F7c%2F78ce4ec34d8f99221758b893ff57%2F2297003806.jpg"
+        "date": "Fri, 25 Sep 2026 09:46:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c0ce911/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F608%2F7%2Fnbc_pft_mattlafluerextension_260925.jpg"
       },
       {
-        "title": "Ruling on key sealed document in Brian Flores case is also under seal, for now",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ruling-on-key-sealed-document-in-brian-flores-case-is-also-under-seal-for-now",
-        "summary": "The Brian Flores case against the NFL and several teams (Dolphins, Texans, Giants, and Broncos) has recently focused on a document produced by Korn Ferry, in connection with a…",
+        "title": "Jordan Love: Packers' run game needs to improve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-packers-run-game-needs-to-improve",
+        "summary": "Packers quarterback Jordan Love passed for 312 yards while the running game gained 17 yards in Thursday night's loss to the Falcons, and Love says that needs to change.",
         "source": "nbcsports.com",
-        "date": "Thu, 24 Sep 2026 22:35:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b95519/2147483647/strip/false/crop/8256x4644+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F40%2F3a%2Fb9b31bc64f088d49b70bdda35f00%2F2260429304.jpg"
+        "date": "Fri, 25 Sep 2026 09:31:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7fada6d/2147483647/strip/false/crop/5464x3074+0+285/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Faa%2F4f4658e743d7a0adf81f25ce5d7d%2F2297017684.jpg"
       }
     ]
   }
