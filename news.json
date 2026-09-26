@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:32:00.864Z",
+  "updated": "2026-09-26T10:15:11.535Z",
   "feed": {
     "VR": [
       {
@@ -11,12 +11,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/JH-Major-Update-post.png"
       },
       {
-        "title": "Meta's $1,299.99 VR Glasses see 70 degrees, where your Quest 3 sees 110",
-        "url": "https://mixed-news.com/en/meta-vr-glasses-70-66-degree-field-of-view-quest-3-110-96/",
-        "summary": "Meta VR Glasses show roughly 70 by 66 degrees of field of view, against 110 by 96 on Meta Quest 3, and the comparison is Meta's own.",
+        "title": "ChatGPT Ads now run in over 60 countries, but only Free and Go users see them",
+        "url": "https://mixed-news.com/en/chatgpt-ads-60-countries-southeast-asia-taiwan-free-go/",
+        "summary": "ChatGPT Ads have started rolling out across seven more markets in Asia, which takes the product past 60 countries, and OpenAI says ads are shown only to people on the Free and Go…",
         "source": "mixed-news.com",
-        "date": "Fri, 25 Sep 2026 08:48:19 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/02_VRGlasses_Inline_Lenses.jpg"
+        "date": "Fri, 25 Sep 2026 19:38:12 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/chatgpt-ads-expands-to-southeast-asia-and-taiwan-seo.png"
       },
       {
         "title": "Meta Launches $1M Developer Competition to Stock ‘VR Glasses’ with More Hand-tracked Apps",
@@ -35,12 +35,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/CourseScreenshot11.webp"
       },
       {
-        "title": "ILM filmed National Geographic: Beyond in Africa for Meta VR Glasses and Quest 3",
-        "url": "https://mixed-news.com/en/ilm-national-geographic-beyond-meta-vr-glasses-quest-3/",
-        "summary": "Industrial Light & Magic has filmed a National Geographic experience on location in Africa for Meta's headsets, and it is being built for Meta Quest 3 and 3S as well as the Meta VR…",
+        "title": "A symlink could send a Claude Code write outside your project, and 2.1.280 blocks it",
+        "url": "https://mixed-news.com/en/claude-code-symlink-write-outside-project-2-1-280/",
+        "summary": "Claude Code judged a write through a symlinked path by the path you typed rather than by where the file actually landed, so acceptEdits, permission allow rules and auto mode could…",
         "source": "mixed-news.com",
-        "date": "Thu, 24 Sep 2026 15:16:09 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/National-Geographic_-Beyond-_-ILM-1536x864-1.png"
+        "date": "Fri, 25 Sep 2026 18:52:50 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/b3d55d767e7796957c7c80317ff33cd1dbd164fa.jpg"
       },
       {
         "title": "Watch the Meta Connect 2026 Developer State of the Union Keynote Right Here",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Commanders announce Marcus Mariota will be a team captain for the rest of the season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-announce-marcus-mariota-will-be-a-team-captain-for-the-rest-of-the-season",
+        "summary": "Mariota will start in place of the injured Jayden Daniels on Sunday against the Seahawks.",
+        "source": "nbcsports.com",
+        "date": "Sat, 26 Sep 2026 04:25:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed279f5/2147483647/strip/false/crop/3374x1898+0+176/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2F82%2F068d7afe4520b2d6b50677fea9f2%2F2296569895.jpg"
+      },
+      {
         "title": "Seven teams face an 0-3 hole — and only seven 0-3 teams have ever made the playoffs",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seven-teams-face-an-0-3-hole-and-only-seven-0-3-teams-have-ever-made-the-playoffs",
         "summary": "Eight teams entered Week 3 at 0-2.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 25 Sep 2026 19:37:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1246233/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F0d%2F316caf5f47e3aecd8d5d29d6cfab%2F2233066061.jpg"
-      },
-      {
-        "title": "Josh Allen is having a historic start to the season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-is-having-a-historic-start-to-the-season",
-        "summary": "Bills quarterback Josh Allen has gotten off to a great start in 2026.",
-        "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 19:28:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6602d0b/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F79%2F2034909747e0aa8cd3dce311ab75%2F2296157605.jpg"
       }
     ]
   }
