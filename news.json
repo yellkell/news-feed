@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:15:11.535Z",
+  "updated": "2026-09-26T14:36:59.293Z",
   "feed": {
     "VR": [
       {
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+        "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+        "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare.",
+        "source": "theverge.com",
+        "date": "2026-09-26T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
         "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
         "summary": "Ads appearing all over the Internet are trying to scam people.",
@@ -69,14 +77,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Sony and UMG are suing Suno again",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-        "summary": "Sony and Universal Music Group filed yet another suit against Suno.",
-        "source": "theverge.com",
-        "date": "2026-09-25T11:51:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
         "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
         "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
-        "title": "One company is at the center of a wave of rogue AI attacks",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-        "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety.",
+        "title": "Sony and UMG are suing Suno again",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+        "summary": "Sony and Universal Music Group filed yet another suit against Suno.",
         "source": "theverge.com",
-        "date": "2026-09-25T11:39:48-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-25T11:51:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Jim Harbaugh hopes to rebound from first 0-2 start as a head coach",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-hopes-to-rebound-from-first-0-2-start-as-a-head-coach",
+        "summary": "It was a bad weekend for the Brothers Harbaugh at SoFi Stadium.",
+        "source": "nbcsports.com",
+        "date": "Sat, 26 Sep 2026 10:12:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5979d00/2147483647/strip/false/crop/3583x2015+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2F20%2F3f3d07d74a52a7f3f9720dd27746%2F2296280262.jpg"
+      },
+      {
+        "title": "UNC chancellor on Bill Belichick: \"Support comes with expectations\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/unc-chancellor-on-bill-belichick-support-comes-with-expectations",
+        "summary": "Internal turmoil at the North Carolina football program brought down G.M.",
+        "source": "nbcsports.com",
+        "date": "Sat, 26 Sep 2026 09:35:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/455bb92/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2F68%2F75b332414e5da30d717235172b8b%2F2295566453.jpg"
+      },
+      {
+        "title": "Deion Sanders on Travis Hunter's usage: \"I have no idea what's going on\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-on-travis-hunters-usage-i-have-no-idea-whats-going-on",
+        "summary": "Back in May, Colorado coach Deion Sanders expressed disappointment that he hadn't heard from the Jaguars regarding how to coach, and how to deploy, cornerback/receiver Travis…",
+        "source": "nbcsports.com",
+        "date": "Sat, 26 Sep 2026 09:04:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/248118c/2147483647/strip/false/crop/6515x3665+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2Fb4%2Ff727a06b415abf2d94dbd0e8940c%2F2296288022.jpg"
+      },
+      {
+        "title": "Titans-Giants tickets are available for as little as $17",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-giants-tickets-are-available-for-as-little-as-17",
+        "summary": "Two months ago, the price point for a ticket for a specific event at MetLife Stadium landed as high as $39,704.",
+        "source": "nbcsports.com",
+        "date": "Sat, 26 Sep 2026 08:22:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/13a5820/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2F9d%2F64f376e64d8fa9ac64d84ca76ef9%2F2026-09-13t232259z-304588863-mt1usatoday29816360-rtrmadp-3-new-york-giants-fans-cheer-as-players-warm-up-before-a-week.jpg"
+      },
+      {
+        "title": "Brian Daboll downplays revenge as motivation for Titans-Giants game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-daboll-downplays-revenge-as-motivation-for-titans-giants-game",
+        "summary": "Titans offensive coordinator Brian Daboll will be coaching against the team that fired him when he faces the Giants on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Sat, 26 Sep 2026 07:01:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5185e9f/2147483647/strip/false/crop/3328x1872+0+173/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffc%2Fd5%2F54e96ce94d85a5a314eeac494fd2%2F2292021623.jpg"
+      },
+      {
         "title": "Commanders announce Marcus Mariota will be a team captain for the rest of the season",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-announce-marcus-mariota-will-be-a-team-captain-for-the-rest-of-the-season",
         "summary": "Mariota will start in place of the injured Jayden Daniels on Sunday against the Seahawks.",
         "source": "nbcsports.com",
         "date": "Sat, 26 Sep 2026 04:25:00 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed279f5/2147483647/strip/false/crop/3374x1898+0+176/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2F82%2F068d7afe4520b2d6b50677fea9f2%2F2296569895.jpg"
-      },
-      {
-        "title": "Seven teams face an 0-3 hole — and only seven 0-3 teams have ever made the playoffs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seven-teams-face-an-0-3-hole-and-only-seven-0-3-teams-have-ever-made-the-playoffs",
-        "summary": "Eight teams entered Week 3 at 0-2.",
-        "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 23:39:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a9a3a63/2147483647/strip/false/crop/4000x2250+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2F0b%2F0950c3e349fc9ce16c66619fbf10%2F2296569768.jpg"
-      },
-      {
-        "title": "Tim Tebow pauses his relationship with Life Surge after Pablo Torre investigation",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tim-tebow-pauses-his-relationship-with-life-surge-after-pablo-torre-investigation",
-        "summary": "Pablo Torre is a troublemaker.",
-        "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 22:37:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/446b376/2147483647/strip/false/crop/4221x2374+0+260/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe8%2F21%2Fc3dbdf4e43b3a2103a0ac6bbd5ab%2F2295801471.jpg"
-      },
-      {
-        "title": "After Week 2 stinger, Saquon Barkley vows to be \"fearless\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-week-2-stinger-saquon-barkley-vow-to-be-fearless",
-        "summary": "Barkley missed much of Sunday's game after injury.",
-        "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 22:17:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f943e3c/2147483647/strip/false/crop/4812x2707+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6b%2F16%2F1cf0e2ad41b3bbb184a549746c76%2F2296320351.jpg"
-      },
-      {
-        "title": "Bud Light leans in to fines for beer celebrations",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bud-light-leans-in-to-fines-for-beer-celebrations",
-        "summary": "The Church Lady has commandeered the league office.",
-        "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 19:54:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50b26b8/2147483647/strip/false/crop/4556x2563+0+237/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F4c%2Fc19c8a064385979b01fd5b73450c%2F2225875801.jpg"
-      },
-      {
-        "title": "Bears ST coach says Eagles are violating intent of the rule by using holder on kickoffs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-st-coach-says-eagles-are-violating-intent-of-the-rule-by-using-holder-on-kickoffs",
-        "summary": "Last week, the Eagles used a holder on their kickoffs so that the ball could be placed at an angle that affected the trajectory of the ball and made it harder for the returner to…",
-        "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 19:37:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1246233/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F0d%2F316caf5f47e3aecd8d5d29d6cfab%2F2233066061.jpg"
       }
     ]
   }
