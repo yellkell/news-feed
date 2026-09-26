@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T18:01:21.447Z",
+  "updated": "2026-09-26T21:06:13.816Z",
   "feed": {
     "VR": [
       {
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "OpenAI pauses training of its ‘most capable models’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most…",
+        "source": "theverge.com",
+        "date": "2026-09-26T12:34:59-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
         "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
         "summary": "Ads appearing all over the Internet are trying to scam people.",
@@ -61,20 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Meta makes the Muse filesystem even more accessible",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-        "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users.",
+        "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+        "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+        "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare.",
         "source": "theverge.com",
-        "date": "2026-09-25T12:49:53-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Sony and UMG are suing Suno again",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-        "summary": "Sony and Universal Music Group filed yet another suit against Suno.",
-        "source": "theverge.com",
-        "date": "2026-09-25T11:51:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-26T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
-        "title": "One company is at the center of a wave of rogue AI attacks",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-        "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety.",
+        "title": "Meta makes the Muse filesystem even more accessible",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+        "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users.",
         "source": "theverge.com",
-        "date": "2026-09-25T11:39:48-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-25T12:49:53-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Jordan Love continues to have low completion percentage",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-continues-to-have-low-completion-percentage",
-        "summary": "Packers quarterback Jordan Love entered Week 3 with the lowest completion percentage among qualifying starters, at 52.1.",
+        "title": "Roquan Smith fined for facemask on Tyler Shough on game-winning QB sneak",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roquan-smith-fined-for-facemask-on-tyler-shough-on-game-winning-qb-sneak",
+        "summary": "Tyler Shough's fourth-down quarterback sneak for the game-winning touchdown was controversial.",
         "source": "nbcsports.com",
-        "date": "Sat, 26 Sep 2026 13:55:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/789f9ca/2147483647/strip/false/crop/5984x3366+0+312/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2Fb8%2F3aa47ee54e39a7a4f5b9f201ed6c%2F2297128623.jpg"
+        "date": "Sat, 26 Sep 2026 16:41:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ad3ee52/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F20%2Fd5d313774d3b9e65fe275421dfa3%2F2296468102.jpg"
       },
       {
-        "title": "Report: Packers to sign G Laken Tomlinson off Cowboys practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-packers-to-sign-g-laken-tomlinson-off-cowboys-practice-squad",
-        "summary": "Packers head coach Matt LaFleur rejected the idea of making a change at offensive line coach after Thursday night's loss to the Falcons, but the team is making a change to the…",
+        "title": "WR DeVonta Smith, RB Saquon Barkley have no injury designation for Monday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-devonta-smith-rb-saquon-barkley-have-no-injury-designation-for-monday-night",
+        "summary": "The Eagles will have wide receiver DeVonta Smith and running back Saquon Barkley on Monday night.",
         "source": "nbcsports.com",
-        "date": "Sat, 26 Sep 2026 13:44:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec75765/2147483647/strip/false/crop/7145x4019+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2F58%2F7b71663a408f80d532dad6836c99%2F2243827484.jpg"
+        "date": "Sat, 26 Sep 2026 16:26:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/08e781b/2147483647/strip/false/crop/5930x3336+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Fcf%2F2f9d65a5414da238b7b9d4bbcd73%2F2296320266.jpg"
       },
       {
-        "title": "Bears QB Tyson Bagent will return to practice Saturday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-qb-tyson-bagent-has-cleared-concussion-protocol",
-        "summary": "Tyson Bagent could be the starting quarterback for the Bears on Monday night.",
+        "title": "Bucs elevate S Ifeatu Melifonwu from practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-elevate-s-ifeatu-melifonwu-from-practice-squad",
+        "summary": "The Buccaneers elevated safety Ifeatu Melifonwu from the practice squad on Saturday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Sat, 26 Sep 2026 13:09:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bc40b4d/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F75%2F6f152b1b49e0b5924dee87d878e6%2F2296290728.jpg"
+        "date": "Sat, 26 Sep 2026 16:16:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e0ee517/2147483647/strip/false/crop/7350x4134+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2F92%2Fdda8cd6d4cdc9907cafa6bd6146a%2F2296258269.jpg"
       },
       {
-        "title": "Jets elevate Sterling Shepard, sign WR Jamaal Pritchett",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-elevate-sterling-shepard-sign-wr-jamaal-pritchett",
-        "summary": "The Jets have added a couple of wide receivers to their roster for Sunday's game in Detroit.",
+        "title": "Texans place LB Jake Hummel on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-place-lb-jake-hummel-on-ir",
+        "summary": "The Texans placed linebacker Jake Hummel on injured reserve, the team announced Saturday.",
         "source": "nbcsports.com",
-        "date": "Sat, 26 Sep 2026 12:56:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1043d8/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2Fc2%2F36ac274a4451a6d0a2f1a6a05274%2F2246257847.jpg"
+        "date": "Sat, 26 Sep 2026 16:02:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4674eb9/2147483647/strip/false/crop/3295x1853+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F72%2Fdf51bb84479a8c7861a1bf4f0657%2F2290742970.jpg"
       },
       {
-        "title": "Ohio State WR Jeremiah Smith catches 4 passes for 123 yards and 2 TDs in first 12 minutes",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ohio-state-wr-jeremiah-smith-catches-4-passes-for-123-yards-and-2-tds-in-first-12-minutes",
-        "summary": "Ohio State wide receiver Jeremiah Smith is considered by many the most talented prospect in the 2027 NFL draft, and he's showing why today against Illinois.",
+        "title": "Colts' defense has already given up more than 1,000 yards",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-defense-has-already-given-up-more-than-1-000-yards",
+        "summary": "As the 0-2 Colts prepare for an AFC South showdown with the 0-2 Texans, Indy needs to hope for something better from the defense.",
         "source": "nbcsports.com",
-        "date": "Sat, 26 Sep 2026 12:47:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb6b995/2147483647/strip/false/crop/4811x2706+0+251/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2Fd1%2F8f7519994dd49fe307f6e2f4022b%2F2296792845.jpg"
+        "date": "Sat, 26 Sep 2026 16:00:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0c8e47/2147483647/strip/false/crop/3378x1900+0+177/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2F88%2F27f7861940adb24029f2af14bc6a%2F2296029982.jpg"
       },
       {
-        "title": "Titans elevate RB Michael Carter, sign DB Erick Hallett to active roster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-elevate-rb-michael-carter-sign-db-erick-hallett-to-active-roster",
-        "summary": "The Titans are dealing with a couple of injuries in their offensive backfield, so they have added a running back to the roster for Sunday's game against the Giants.",
+        "title": "Vikings LB Ivan Pace doesn't travel with team, is questionable for Bucs game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-lb-ivan-pace-doesnt-travel-with-team-is-questionable-for-bucs-game",
+        "summary": "The Vikings traveled to Florida for Sunday's game against the Buccaneers without linebacker Ivan Pace Jr.",
         "source": "nbcsports.com",
-        "date": "Sat, 26 Sep 2026 12:45:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/945a54d/2147483647/strip/false/crop/3024x1701+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff2%2Fd7%2Feda1e22649e9b681a03a5662eee9%2F2293423573.jpg"
+        "date": "Sat, 26 Sep 2026 15:49:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4a4307f/2147483647/strip/false/crop/6245x3513+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2F38%2Ff07cb35549dfa65bb20b3ef26a5d%2F2179937117.jpg"
       }
     ]
   }
