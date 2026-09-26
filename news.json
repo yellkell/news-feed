@@ -1,30 +1,14 @@
 {
-  "updated": "2026-09-26T00:43:45.577Z",
+  "updated": "2026-09-26T05:32:00.864Z",
   "feed": {
     "VR": [
       {
-        "title": "Meta’s New Immersive Series Follows NBA Champion Draymond Green Through Therapy",
-        "url": "https://www.uploadvr.com/metas-new-immersive-series-follows-nba-champion-draymond-green-through-therapy/",
-        "summary": "Meta is launching Open Season on Quest next week, a new 180° VR documentary series following NBA champion Draymond Green through real therapy sessions.",
+        "title": "Just Hoops 2.0 Update Emphasizes Hand Tracking & Accessibility",
+        "url": "https://www.uploadvr.com/just-hoops-update-emphasizes-hand-tracking-more-accessibility-options/",
+        "summary": "Just Hoops 2.0 is available now on Quest with improved hand tracking, a mixed reality playground mode, and a slew of new accessibility features for more casual players.",
         "source": "uploadvr.com",
-        "date": "Fri, 25 Sep 2026 17:41:11 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Open-Season-on-Draymond-Green---Key-Art.png"
-      },
-      {
-        "title": "Steam Link now streams to your Quest over a USB cable, if you run two betas",
-        "url": "https://mixed-news.com/en/steamvr-beta-2-18-1-tethered-quest-usb-aurora-default-environment/",
-        "summary": "Steam Link can now stream PC VR to a Meta Quest down a USB cable, with no Wi-Fi involved.",
-        "source": "mixed-news.com",
-        "date": "Fri, 25 Sep 2026 09:35:06 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/capsule_616x353-3.jpg"
-      },
-      {
-        "title": "Meta Launches $1M Developer Competition to Stock ‘VR Glasses’ with More Hand-tracked Apps",
-        "url": "https://roadtovr.com/meta-vr-glasses-dev-competition-1m-2026/",
-        "summary": "At Meta’s annual developer conference today, the company announced its next VR Start Developer Competition, this time slated to award a prize pool of $1 million to spark the…",
-        "source": "roadtovr.com",
-        "date": "Thu, 24 Sep 2026 18:35:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg?resize=1920%2C1080&quality=100&ssl=1"
+        "date": "Fri, 25 Sep 2026 19:04:53 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/JH-Major-Update-post.png"
       },
       {
         "title": "Meta's $1,299.99 VR Glasses see 70 degrees, where your Quest 3 sees 110",
@@ -35,12 +19,28 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/02_VRGlasses_Inline_Lenses.jpg"
       },
       {
-        "title": "Hologram: Meta Is Finally Set To Ship Realistic Avatars, And We Tried Them",
-        "url": "https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/",
-        "summary": "Meta finally set a concrete timeline to ship realistic avatars, shoulders-up on Meta Ray-Ban Display and then full-body on Meta VR Glasses. We briefly tried both at Connect.",
+        "title": "Meta Launches $1M Developer Competition to Stock ‘VR Glasses’ with More Hand-tracked Apps",
+        "url": "https://roadtovr.com/meta-vr-glasses-dev-competition-1m-2026/",
+        "summary": "At Meta’s annual developer conference today, the company announced its next VR Start Developer Competition, this time slated to award a prize pool of $1 million to spark the…",
+        "source": "roadtovr.com",
+        "date": "Thu, 24 Sep 2026 18:35:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg?resize=1920%2C1080&quality=100&ssl=1"
+      },
+      {
+        "title": "Medinah Country Club No. 3 Is The Newest Course Added To GOLF+",
+        "url": "https://www.uploadvr.com/medinah-country-club-no-3-is-the-newest-course-added-to-golf/",
+        "summary": "GOLF+ continues to add to its ever-growing lineup of real-world golf courses with Medinah Country Club No. 3, the site of this year's Presidents Cup.",
         "source": "uploadvr.com",
-        "date": "Thu, 24 Sep 2026 19:30:01 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Meta-Hologram-calling-featured-image.png"
+        "date": "Fri, 25 Sep 2026 19:04:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/CourseScreenshot11.webp"
+      },
+      {
+        "title": "ILM filmed National Geographic: Beyond in Africa for Meta VR Glasses and Quest 3",
+        "url": "https://mixed-news.com/en/ilm-national-geographic-beyond-meta-vr-glasses-quest-3/",
+        "summary": "Industrial Light & Magic has filmed a National Geographic experience on location in Africa for Meta's headsets, and it is being built for Meta Quest 3 and 3S as well as the Meta VR…",
+        "source": "mixed-news.com",
+        "date": "Thu, 24 Sep 2026 15:16:09 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/National-Geographic_-Beyond-_-ILM-1536x864-1.png"
       },
       {
         "title": "Watch the Meta Connect 2026 Developer State of the Union Keynote Right Here",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+        "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+        "summary": "Ads appearing all over the Internet are trying to scam people.",
+        "source": "arstechnica.com",
+        "date": "Fri, 25 Sep 2026 19:38:59 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
+      },
+      {
         "title": "Meta makes the Muse filesystem even more accessible",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
         "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users.",
         "source": "theverge.com",
         "date": "2026-09-25T12:49:53-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "There's a new way to break RSA that's faster than anything we've seen before",
-        "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-        "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
-        "source": "arstechnica.com",
-        "date": "Thu, 24 Sep 2026 11:15:44 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
         "title": "Sony and UMG are suing Suno again",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-        "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-        "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+        "title": "There's a new way to break RSA that's faster than anything we've seen before",
+        "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+        "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
         "source": "arstechnica.com",
-        "date": "Tue, 22 Sep 2026 19:45:47 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg"
+        "date": "Thu, 24 Sep 2026 11:15:44 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
         "title": "One company is at the center of a wave of rogue AI attacks",
@@ -93,15 +93,39 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-        "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-        "summary": "The English hospitals recovered patient care data only.",
+        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+        "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+        "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
         "source": "arstechnica.com",
-        "date": "Tue, 22 Sep 2026 16:55:40 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255624329-1024x648.jpg"
+        "date": "Tue, 22 Sep 2026 19:45:47 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg"
       }
     ],
     "NFL": [
+      {
+        "title": "Seven teams face an 0-3 hole — and only seven 0-3 teams have ever made the playoffs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seven-teams-face-an-0-3-hole-and-only-seven-0-3-teams-have-ever-made-the-playoffs",
+        "summary": "Eight teams entered Week 3 at 0-2.",
+        "source": "nbcsports.com",
+        "date": "Fri, 25 Sep 2026 23:39:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a9a3a63/2147483647/strip/false/crop/4000x2250+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2F0b%2F0950c3e349fc9ce16c66619fbf10%2F2296569768.jpg"
+      },
+      {
+        "title": "Tim Tebow pauses his relationship with Life Surge after Pablo Torre investigation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tim-tebow-pauses-his-relationship-with-life-surge-after-pablo-torre-investigation",
+        "summary": "Pablo Torre is a troublemaker.",
+        "source": "nbcsports.com",
+        "date": "Fri, 25 Sep 2026 22:37:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/446b376/2147483647/strip/false/crop/4221x2374+0+260/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe8%2F21%2Fc3dbdf4e43b3a2103a0ac6bbd5ab%2F2295801471.jpg"
+      },
+      {
+        "title": "After Week 2 stinger, Saquon Barkley vows to be \"fearless\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-week-2-stinger-saquon-barkley-vow-to-be-fearless",
+        "summary": "Barkley missed much of Sunday's game after injury.",
+        "source": "nbcsports.com",
+        "date": "Fri, 25 Sep 2026 22:17:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f943e3c/2147483647/strip/false/crop/4812x2707+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6b%2F16%2F1cf0e2ad41b3bbb184a549746c76%2F2296320351.jpg"
+      },
       {
         "title": "Bud Light leans in to fines for beer celebrations",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bud-light-leans-in-to-fines-for-beer-celebrations",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 25 Sep 2026 19:28:35 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6602d0b/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F79%2F2034909747e0aa8cd3dce311ab75%2F2296157605.jpg"
-      },
-      {
-        "title": "Kyle Shanahan on Nick Bosa's injury: I know he's bummed, but he'll be back",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-on-nick-bosas-injury-i-know-hes-bummed-but-hell-be-back",
-        "summary": "49ers head coach Kyle Shanahan confirmed defensive end Nick Bosa will miss multiple weeks after injuring his calf before Thursday's practice.",
-        "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 19:01:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/49f16ea/2147483647/strip/false/crop/6558x3689+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F9a%2Feba219674321beca60d36ee5e522%2F2296278441.jpg"
-      },
-      {
-        "title": "Saquon Barkley back to full participation, Hollywood Brown doesn't practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-back-to-full-participation-hollywood-brown-doesnt-practice",
-        "summary": "Eagles running back Saquon Barkley said that he expects to be good to go for Monday night's game against the Bears and Friday's injury report shows that he's on track to play.",
-        "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 18:24:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/406649a/2147483647/strip/false/crop/5421x3049+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Faf%2Fbe45cd454a9ab6ae295625aac024%2F2296320188.jpg"
-      },
-      {
-        "title": "49ers WR Mike Evans is questionable with a hip injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wr-mike-evans-is-questionable-with-a-hip-injury",
-        "summary": "49ers wide receiver Mike Evans returned to practice Friday, but he is questionable to play Sunday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 25 Sep 2026 17:44:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f052cb/2147483647/strip/false/crop/2432x1368+0+183/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3f%2F58%2F63bd48dd48fc86bc7688114ca95c%2F2296855087.jpg"
       }
     ]
   }
