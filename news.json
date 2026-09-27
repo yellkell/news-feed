@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T13:11:30.485Z",
+  "updated": "2026-09-27T17:43:52.342Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI pauses training of its ‘most capable models’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-        "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most…",
+        "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+        "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and…",
         "source": "theverge.com",
-        "date": "2026-09-26T12:34:59-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-27T13:21:07-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-        "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-        "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare.",
+        "title": "OpenAI pauses training of its ‘most capable models’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most…",
         "source": "theverge.com",
-        "date": "2026-09-26T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-26T12:34:59-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
-        "title": "Meta makes the Muse filesystem even more accessible",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-        "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users.",
+        "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+        "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+        "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare.",
         "source": "theverge.com",
-        "date": "2026-09-25T12:49:53-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-26T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Desman Stephens II returned to sideline after hit that sent Dante Moore to the hospital",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/desman-stephens-ii-returned-to-sideline-after-hit-that-sent-dante-moore-to-the-hospital",
-        "summary": "Saturday night's game between Oregon and USC included a hit from Trojans linebacker Desman Stephens II that knocked out Ducks quarterback Dante Moore and sent him to the hospital.",
+        "title": "De'Von Achane questionable to return with knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devon-achane-questionable-to-return-with-knee-injury",
+        "summary": "One of Miami's best players went down on the team's first drive of Sunday's game against the Chiefs.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 08:47:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3e72699/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff3%2F32%2Fec58df844350adcca99fbbd2172f%2F2297368305.jpg"
+        "date": "Sun, 27 Sep 2026 13:29:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d3ffc67/2147483647/strip/false/crop/4501x2532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcc%2Fe4%2F4990655f4829801ef508f90b0a9e%2F2296986905.jpg"
       },
       {
-        "title": "Report: \"Handful\" of teams have begun inquiring about Steelers CB Joey Porter Jr.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-handful-of-teams-have-begun-inquiring-about-steelers-cb-joey-porter-jr",
-        "summary": "Cowboys and Lions reportedly have called.",
+        "title": "Jadarian Price fumbles, Marcus Mariota takes advantage as Commanders lead Seahawks 7-0",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jadarian-price-fumbles-marcus-mariota-takes-advantage-as-commanders-lead-seahawks-7-0",
+        "summary": "The Commanders took a surprising early lead over the heavily favored Seahawks.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 08:29:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f4e878c/2147483647/strip/false/crop/4931x2774+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2Ff5%2Fdce61a8c46c18802daff46e09fed%2F2026-09-13t175214z-453947014-mt1usatoday29811437-rtrmadp-3-nfl-atlanta-falcons-at-pittsburgh-steelers.jpg"
+        "date": "Sun, 27 Sep 2026 13:27:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/45b2691/2147483647/strip/false/crop/3667x2063+0+191/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F45%2Fb67cc9034b3fad4b40bd8efb14dd%2F2297414734.jpg"
       },
       {
-        "title": "Steelers WR Michael Pittman Jr. (foot) is expected to play",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-wr-michael-pittman-jr-foot-is-expected-to-play",
-        "summary": "The Steelers need a lift on offense.",
+        "title": "Colts K Spencer Shrader questionable to return with groin injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-k-spencer-shrader-questionable-to-return-with-groin-injury",
+        "summary": "Colts kicker Spencer Shrader apparently injured himself in pregame warmups.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 08:10:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fe5a25f/2147483647/strip/false/crop/5053x2842+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc7%2Ff5%2F3819a843473d8c2277d06adcf61d%2F2295428020.jpg"
+        "date": "Sun, 27 Sep 2026 13:22:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/be05363/2147483647/strip/false/crop/7084x3985+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc4%2Fe7%2F86926a0a4bda825ffa912a1cfdf7%2F2290751968.jpg"
       },
       {
-        "title": "Report: Myles Garrett will need about six weeks to recover from knee surgery",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-myles-garrett-will-need-about-six-weeks-to-recover-from-knee-surgery",
-        "summary": "Garrett might not be back until Week 9 against the Commanders.",
+        "title": "Deshaun Watson avoids boos in first drive back in Cleveland since 2024",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-avoids-boos-in-first-drive-back-in-cleveland-since-2024",
+        "summary": "The last time Deshaun Watson took the field in Cleveland, there were cheers when he was carted off the field with what ended up being a torn Achilles.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 07:21:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72ddfbf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F524%2F599%2Fnbc_pft_mylesgarrett_260915.jpg"
+        "date": "Sun, 27 Sep 2026 13:20:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/61163e3/2147483647/strip/false/crop/4329x2435+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7b%2Fc3%2F6b974d084153a567f042e3fa805a%2F2297408142.jpg"
       },
       {
-        "title": "Oregon coach Dan Lanning blasts \"disgusting play\" by USC that injured Dante Moore",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/oregon-coach-dan-lanning-blasts-disgusting-play-by-usc-that-injured-dante-moore",
-        "summary": "Oregon coach Dan Lanning was furious after Saturday's win over USC at the illegal play that knocked Ducks quarterback Dante Moore out of the game and sent him to the hospital.",
+        "title": "Aaron Rodgers, Roman Wilson connect on touchdown pass on Steelers' first drive",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-roman-wilson-connect-on-touchdown-pass-on-steelers-first-drive",
+        "summary": "Rodgers went 3-for-4 for 73 yards on the Steelers' first possession.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 05:43:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b4f3e40/2147483647/strip/false/crop/6807x3829+0+355/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2Ff8%2F2b9463a442f987b83c8e1670789b%2F2026-09-27t005656z-2034824270-mt1usatoday29926757-rtrmadp-3-ncaa-football-oregon-at-southern-california.jpg"
+        "date": "Sun, 27 Sep 2026 13:13:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b145bef/2147483647/strip/false/crop/6933x3900+0+361/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2Fb3%2Fd7c4ea4d4d8e92fea0fbac3ccfae%2F2297409852.jpg"
       },
       {
-        "title": "Justin Herbert could pass to his brother as Chargers elevate tight end Patrick Herbert",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-could-pass-to-his-brother-as-chargers-elevate-tight-end-patrick-herbert",
-        "summary": "The younger Herbert brother will be active for the Chargers for the first time today.",
+        "title": "Giants hope to add one, possibly two, quarterbacks as early as Monday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-hope-to-add-one-possibly-two-quarterbacks-as-early-as-monday",
+        "summary": "The Giants will get through the Week 3 game against the Titans with Jameis Winston at quarterback, backed up by Jake Haener.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 05:02:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/252ca51/2147483647/strip/false/crop/4000x2250+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fee%2F6f%2Faa27cba94acb8be4fa51c04b60c1%2F2296177109.jpg"
+        "date": "Sun, 27 Sep 2026 13:01:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/607b4d3/2147483647/strip/false/crop/7413x4170+0+386/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2F85%2F71311aef47b08a549a467278d1bf%2F2291060260.jpg"
       }
     ]
   }
