@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-27T23:12:07.573Z",
+  "updated": "2026-09-28T01:38:47.794Z",
   "feed": {
     "VR": [
+      {
+        "title": "Meta Ray-Ban Display Gets New Features, Online Ordering & International Launch",
+        "url": "https://www.uploadvr.com/meta-ray-ban-display-gets-new-features-online-ordering-international-launch/",
+        "summary": "Meta Ray-Ban Display is now available in the UK and Canada, and will be available in France, Italy and Germany next month. It's also getting new features and updates.",
+        "source": "uploadvr.com",
+        "date": "Sun, 27 Sep 2026 18:07:44 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Meta-Ray-Ban-Display-Connect-2026-news.png"
+      },
+      {
+        "title": "Meta says its AI glasses will capture Dolby Atmos video, but Ray-Ban Meta Audio has no camera",
+        "url": "https://mixed-news.com/en/meta-ai-glasses-dolby-atmos-video-ray-ban-meta-audio-no-camera/",
+        "summary": "Meta says its AI glasses will be the first consumer devices that can capture and experience video in Dolby Atmos with 360-degree spatial sound, some time before the end of 2026.",
+        "source": "mixed-news.com",
+        "date": "Sun, 27 Sep 2026 23:30:36 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Introducing-Ray-Ban-Meta-Audio-and-More-AI-Glasses-Styles_Header.jpg"
+      },
+      {
+        "title": "Meta Launches $1M Developer Competition to Stock ‘VR Glasses’ with More Hand-tracked Apps",
+        "url": "https://roadtovr.com/meta-vr-glasses-dev-competition-1m-2026/",
+        "summary": "At Meta’s annual developer conference today, the company announced its next VR Start Developer Competition, this time slated to award a prize pool of $1 million to spark the…",
+        "source": "roadtovr.com",
+        "date": "Thu, 24 Sep 2026 18:35:13 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg?resize=1920%2C1080&quality=100&ssl=1"
+      },
       {
         "title": "OpenAI discounts GPT-6 cached input up to 90%, if you reuse it inside 30 minutes",
         "url": "https://mixed-news.com/en/openai-gpt-6-prompt-caching-30-minute-window-90-percent/",
@@ -17,30 +41,6 @@
         "source": "uploadvr.com",
         "date": "Sat, 26 Sep 2026 18:20:01 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/822466517_1408772514571805_2185377775423489501_n.png"
-      },
-      {
-        "title": "Meta Launches $1M Developer Competition to Stock ‘VR Glasses’ with More Hand-tracked Apps",
-        "url": "https://roadtovr.com/meta-vr-glasses-dev-competition-1m-2026/",
-        "summary": "At Meta’s annual developer conference today, the company announced its next VR Start Developer Competition, this time slated to award a prize pool of $1 million to spark the…",
-        "source": "roadtovr.com",
-        "date": "Thu, 24 Sep 2026 18:35:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg?resize=1920%2C1080&quality=100&ssl=1"
-      },
-      {
-        "title": "SteamOS 3.9.2 beta stops the frame limiter clamping VR streamed to a Steam Frame",
-        "url": "https://mixed-news.com/en/steamos-3-9-2-beta-frame-limiter-vr-steam-machine-steam-frame/",
-        "summary": "SteamOS 3.9.2 fixes the frame limiter being applied to VR titles streamed from a Steam Machine to a Steam Frame, the first time Valve's release notes have named that streaming…",
-        "source": "mixed-news.com",
-        "date": "Sun, 27 Sep 2026 04:02:32 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-16.jpg"
-      },
-      {
-        "title": "Just Hoops 2.0 Update Emphasizes Hand Tracking & Accessibility",
-        "url": "https://www.uploadvr.com/just-hoops-update-emphasizes-hand-tracking-more-accessibility-options/",
-        "summary": "Just Hoops 2.0 is available now on Quest with improved hand tracking, a mixed reality playground mode, and a slew of new accessibility features for more casual players.",
-        "source": "uploadvr.com",
-        "date": "Fri, 25 Sep 2026 19:04:53 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/JH-Major-Update-post.png"
       },
       {
         "title": "Watch the Meta Connect 2026 Developer State of the Union Keynote Right Here",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Sunday Night Football: Marvin Mims, Puka Nacua inactive for Broncos-Rams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-marvin-mims-puka-nacua-inactive-for-broncos-rams",
-        "summary": "Both the Rams and Broncos will be without a key receiver on Sunday night in Week 3.",
+        "title": "Drake Maye attributes fumble to blood on the ball",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-attributes-fumble-to-blood-on-the-ball",
+        "summary": "Patriots quarterback Drake Maye had an unusual moment on Sunday, when he cocked his arm to throw and his hand came forward without the ball in it.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 19:05:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7119056/2147483647/strip/false/crop/4532x2549+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F2e%2F8b2efbc241448ee41486b88aed70%2F2295987867.jpg"
+        "date": "Sun, 27 Sep 2026 21:06:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c850306/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F39%2Fa425e1404dbeb557c4df02739d36%2F2026-09-27t190514z-113935097-mt1usatoday29933346-rtrmadp-3-new-england-patriots-quarterback-drake-maye-10-loses-the.jpg"
       },
       {
-        "title": "Travis Hunter: \"Little bit\" of relief to get first interception",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-little-bit-of-relief-to-get-first-interception",
-        "summary": "Jaguars head coach Liam Coen's talk about giving Travis Hunter more to do in Week 3 didn't result in a major change to his role, but the 2025 first-round pick was able to check off…",
+        "title": "John Harbaugh expects Jameis Winston to remain QB1 no matter who Giants add at the position",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-expects-jameis-winston-to-remain-qb1-no-matter-who-giants-add-at-the-position",
+        "summary": "It wasn't pretty — and it was only the winless Titans — but Jameis Winston won his first game as a starter since Dec. 15, 2024, when he was with the Browns.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 18:45:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68d5405/2147483647/strip/false/crop/4800x2700+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdf%2F63%2F640c1b474de9b90d63ddf8a4cfcd%2F2297447786.jpg"
+        "date": "Sun, 27 Sep 2026 20:56:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7ff09cb/2147483647/strip/false/crop/2267x1275+0+130/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdf%2F06%2Fd71e19e74a25a55f092dc4677c26%2F2297437514.jpg"
       },
       {
-        "title": "Ravens lead Cowboys 24-21 as the teams trade TDs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-lead-cowboys-24-21-as-the-teams-trade-tds",
-        "summary": "The Ravens lead the Cowboys 24-21 late in the third quarter.",
+        "title": "Matthew Stafford TD pass gives Rams early 7-0 lead over Broncos",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-td-pass-gives-rams-early-7-0-lead-over-broncos",
+        "summary": "The Rams have taken an early 7-0 lead over the Broncos, but they are dealing with more injury issues.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 18:44:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a9c7f4a/2147483647/strip/false/crop/7450x4191+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa0%2F61%2F9741fbd5474cb74f59433aa0ff9b%2F2297434636.jpg"
+        "date": "Sun, 27 Sep 2026 20:53:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a66242/2147483647/strip/false/crop/4388x2468+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2F6a%2F9bec9fc44ddb9cdd38304b9f580c%2F2297466359.jpg"
       },
       {
-        "title": "Saints score two quick TDs, lead Raiders 27-16 in third quarter",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-score-two-quick-tds-lead-raiders-27-16-in-third-quarter",
-        "summary": "The Saints have started the second half with a stop and a score, then a takeaway and a score.",
+        "title": "Deebo Samuel makes NFL history with 0 catches for 80 receiving yards and 1 TD",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deebo-samuel-makes-nfl-history-with-0-catches-for-80-receiving-yards-and-1-td",
+        "summary": "San Francisco wide receiver Deebo Samuel had a stat line never before seen in NFL history today: Zero catches, 80 receiving yards and a receiving touchdown.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 18:33:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/28501fb/2147483647/strip/false/crop/6301x3544+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Fe3%2F94f31c88429db35d28a3e1b74afd%2F2296934841.jpg"
+        "date": "Sun, 27 Sep 2026 20:48:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/489389e/2147483647/strip/false/crop/4626x2602+0+241/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F02%2F7826b9464f15b51f51d31488755c%2F2297454059.jpg"
       },
       {
-        "title": "Drake Maye: This has to be a turning point",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-this-has-to-be-a-turning-point",
-        "summary": "Patriots quarterback Drake Maye's rough start to the 2026 season continued in Jacksonville on Sunday.",
+        "title": "Oregon says Dante Moore's CT scan and MRI were \"clean\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/oregon-says-dante-moores-ct-scan-and-mri-were-clean",
+        "summary": "Oregon quarterback Dante Moore, one of the top prospects in the 2027 draft, suffered a significant concussion on Saturday night, when he was knocked unconscious after sliding by…",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 18:22:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4ffd776/2147483647/strip/false/crop/7617x4285+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F34%2Fd8%2F18b9309b4268a8aa816264f9b3c1%2F2297417831.jpg"
+        "date": "Sun, 27 Sep 2026 20:48:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/90f5bf5/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F74%2F342484924438bb043d10816d7347%2F2297371980.jpg"
       },
       {
-        "title": "Justin Jefferson ruled out with ankle injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-jefferson-ruled-out-with-ankle-injury",
-        "summary": "Vikings wide receiver Justin Jefferson's day is done.",
+        "title": "Kyle Shanahan: We don't know nature of Mike Evans injury, will find out more Monday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-we-dont-know-nature-of-mike-evans-injury-will-find-out-more-monday",
+        "summary": "The 49ers improved to 3-0 against the Cardinals on Sunday, but their list of injured players got a little longer.",
         "source": "nbcsports.com",
-        "date": "Sun, 27 Sep 2026 18:17:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e18935f/2147483647/strip/false/crop/3150x1772+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F09%2F58ac97804bac8c485b070e4d7761%2F2296084506.jpg"
+        "date": "Sun, 27 Sep 2026 20:30:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c17781/2147483647/strip/false/crop/8053x4530+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2Fc4%2Fccd910c142c098c636db7df8bade%2F2296937839.jpg"
       }
     ]
   }
