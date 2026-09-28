@@ -1,22 +1,22 @@
 {
-  "updated": "2026-09-28T15:57:19.580Z",
+  "updated": "2026-09-28T21:35:11.471Z",
   "feed": {
     "VR": [
       {
-        "title": "Wearable Devices wins a China patent allowance for measuring how hard you pinch",
-        "url": "https://mixed-news.com/en/wearable-devices-china-patent-allowance-pinch-intensity-mudra/",
-        "summary": "Wearable Devices says China's patent office has allowed an application covering how hard a pinch is, not merely whether the fingers met.",
+        "title": "Anyone on a paid Claude plan can now submit a plugin, and every submission gets scanned",
+        "url": "https://mixed-news.com/en/anthropic-claude-directory-plugin-submission-portal-safety-scan/",
+        "summary": "Anthropic has opened a developer portal for getting a plugin into the Claude directory, and it is open to anyone on a paid Claude plan rather than to partners.",
         "source": "mixed-news.com",
-        "date": "Mon, 28 Sep 2026 15:28:31 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/fd494d_e42085958866490aa208b584999ce872mv2.png"
+        "date": "Mon, 28 Sep 2026 20:54:48 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/69051360369f8c1bb58fc2fe_og_build-artifacts.jpg"
       },
       {
-        "title": "Hands-on: Meta’s ‘Hologram’ Avatars Aim to Take on Apple Personas on VR Glasses",
-        "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
-        "summary": "Meta’s long-promised photorealistic avatars are set to release in the next few months, which the company is calling ‘holograms’.",
+        "title": "Arcturus Vision Steam Frame Add-on Review – A Literal Night and Day Difference",
+        "url": "https://roadtovr.com/arcturus-vision-camera-review-steam-frame-passthrough-add-on/",
+        "summary": "Arcturus Vision Camera is an add-on module for Steam Frame which greatly enhances its passthrough camera quality.",
         "source": "roadtovr.com",
-        "date": "Mon, 28 Sep 2026 12:00:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/meta-hologram-connect-2026.jpg?resize=1800%2C1200&quality=100&ssl=1"
+        "date": "Mon, 28 Sep 2026 18:00:43 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/steam-frame-review-25.jpg?resize=1428%2C952&quality=100&ssl=1"
       },
       {
         "title": "Ray-Ban Meta Audio Drops The Camera For A Lighter, Socially Acceptable Design",
@@ -27,12 +27,20 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Lifestyle3.jpg"
       },
       {
-        "title": "Report: Apple wants smart glasses out by the end of 2027, and the first pair has no display",
-        "url": "https://mixed-news.com/en/apple-smart-glasses-end-of-2027-no-display-n224-headset-report/",
-        "summary": "Apple wants its first smart glasses out in some form by the end of 2027, and that first pair is reported to carry audio, a camera and smart features but no display.",
+        "title": "Steam Next Fest's demo deadline falls on September 28, and the fest opens October 19",
+        "url": "https://mixed-news.com/en/steam-next-fest-demo-deadline-september-28-opens-october-19/",
+        "summary": "Valve's deadline for getting a demo into October's Steam Next Fest falls on September 28, and the fest itself opens on October 19.",
         "source": "mixed-news.com",
-        "date": "Mon, 28 Sep 2026 14:41:16 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2024/02/Apple-Vision-Pro-von-oben.jpg"
+        "date": "Mon, 28 Sep 2026 20:08:15 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-19.jpg"
+      },
+      {
+        "title": "Hands-on: Meta’s ‘Hologram’ Avatars Aim to Take on Apple Personas on VR Glasses",
+        "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
+        "summary": "Meta’s long-promised photorealistic avatars are set to release in the next few months, which the company is calling ‘holograms’.",
+        "source": "roadtovr.com",
+        "date": "Mon, 28 Sep 2026 12:00:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/meta-hologram-connect-2026.jpg?resize=1800%2C1200&quality=100&ssl=1"
       },
       {
         "title": "Meta Ray-Ban Display Gets New Features, Online Ordering & International Launch",
@@ -41,24 +49,16 @@
         "source": "uploadvr.com",
         "date": "Sun, 27 Sep 2026 18:07:44 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Meta-Ray-Ban-Display-Connect-2026-news.png"
-      },
-      {
-        "title": "Meta Launches $1M Developer Competition to Stock ‘VR Glasses’ with More Hand-tracked Apps",
-        "url": "https://roadtovr.com/meta-vr-glasses-dev-competition-1m-2026/",
-        "summary": "At Meta’s annual developer conference today, the company announced its next VR Start Developer Competition, this time slated to award a prize pool of $1 million to spark the…",
-        "source": "roadtovr.com",
-        "date": "Thu, 24 Sep 2026 18:35:13 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg?resize=1920%2C1080&quality=100&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes",
-        "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-        "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.",
+        "title": "Florida seeks a ban on ChatGPT acting like a person",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+        "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over…",
         "source": "theverge.com",
-        "date": "2026-09-28T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-28_Cannon-Brookes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-28T13:00:23-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-        "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-        "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by…",
+        "title": "OpenAI keeps bulldozing mathematicians",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+        "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing…",
         "source": "theverge.com",
-        "date": "2026-09-28T09:36:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-28T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
-        "title": "Engram is a sampler that turns broken AI hallucinations into music",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-        "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram.",
+        "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+        "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+        "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal.",
         "source": "theverge.com",
-        "date": "2026-09-27T16:46:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-28T12:44:57-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2289554785.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Dexter Lawrence: Our goal wasn't to go undefeated, we'll own this one",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dexter-lawrence-our-goal-wasnt-to-go-undefeated-well-own-this-one",
-        "summary": "Through two games, the Bengals’ defense looked like it had undergone a significant transformation in the offseason — partially due to the addition of Dexter Lawrence.",
+        "title": "Field survived Ravens-Cowboys, for the most part",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/field-survived-ravens-cowboys-for-the-most-part",
+        "summary": "The Ravens-Cowboys game at Maracanå Stadium in Rio de Janeiro raised red flags regarding the quality of the field.",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 11:52:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/da5c7ec/2147483647/strip/false/crop/7309x4111+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2Ff1%2F52bd139449ab9639f4ec3a0c7547%2F2297513363.jpg"
+        "date": "Mon, 28 Sep 2026 17:20:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50c8018/2147483647/strip/false/crop/4036x2270+0+210/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fcb%2F071ce1e945c08afdf409b5019725%2F2297435535.jpg"
       },
       {
-        "title": "Mekhi Becton worked out for the Packers, will sign with the team",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mekhi-becton-worked-out-for-the-packers",
-        "summary": "The Packers signed guard Laken Tomlinson after last Thursday's loss to the Falcons and they may not be done adding to their offensive line options.",
+        "title": "Packers place RT Zach Bako-Bewele on injured reserve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-place-rt-zach-bako-bewele-on-injured-reserve",
+        "summary": "The Packers placed right tackle Zach Bako-Bewele on injured reserve Monday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 11:38:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/602350b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F609%2F483%2FjordanloveMPX.jpg"
+        "date": "Mon, 28 Sep 2026 17:07:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6614007/2147483647/strip/false/crop/3735x2101+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe8%2F8e%2F2b02ddcd432980a4419e6b485ddf%2F2295799793.jpg"
       },
       {
-        "title": "Report: Jalen Coker questionable for Week 4 with a quad strain",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jalen-coker-questionable-for-week-4-with-a-quad-strain",
-        "summary": "Panthers wide receiver Jalen Coker was able to play on Sunday after being listed as questionable due to an ankle injury, but a different injury brought his day to an early end.",
+        "title": "Tucker Kraft changes his tune, a bit, on reaction to Green Bay booing",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tucker-kraft-changes-his-tune-a-bit-on-reaction-to-green-bay-booing",
+        "summary": "Green Bay Packers fans didn't like what they saw on Thursday night.",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 11:14:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/65ff8e5/2147483647/strip/false/crop/3844x2162+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2F3b%2F05d6e1ad4b12a0d521b438bf79a0%2F2297002142.jpg"
+        "date": "Mon, 28 Sep 2026 17:04:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ac37b03/2147483647/strip/false/crop/5705x3209+0+297/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2F89%2F91a3f24f419390b69d7c9ae3e787%2F2296349459.jpg"
       },
       {
-        "title": "Despite 1-2 start, Rams remain favorites to win the Super Bowl",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/despite-1-2-start-rams-remain-favorites-to-win-the-super-bowl",
-        "summary": "A disappointing start to the season hasn't changed the Rams' status as the Super Bowl favorites.",
+        "title": "Report: Mike Evans considered day-to-day with rib injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-mike-evans-considered-day-to-day-with-rib-injury",
+        "summary": "49ers wide receiver Mike Evans had to leave Sunday's win over the Cardinals on a cart after suffering a rib injury, but it does not look like he will be missing much time as a…",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 10:57:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/032cd4a/2147483647/strip/false/crop/4971x2796+0+260/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa8%2F88%2F2ce9bf31469ea9e8d13c70426841%2F2297491127.jpg"
+        "date": "Mon, 28 Sep 2026 16:45:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/14e2ccf/2147483647/strip/false/crop/4649x2615+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F18%2F34618a6344408693521233c0e58b%2F2297446253.jpg"
       },
       {
-        "title": "De'Von Achane out for season with torn ACL",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devon-achane-out-for-season-with-torn-acl",
-        "summary": "Achane exited Sunday's game against the Chiefs in the first quarter.",
+        "title": "Travis Etienne set to miss time due to hamstring injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-etienne-set-to-miss-time-due-to-hamstring-injury",
+        "summary": "One of New Orleans' key offensive players is set to be sidelined for a bit.",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 10:49:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ae5d7b/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2F12%2Fd573537740808c003999f055eccc%2F2296283870.jpg"
+        "date": "Mon, 28 Sep 2026 16:39:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9da6c3e/2147483647/strip/false/crop/6109x3436+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2F4e%2F687e560f46e09495b65e3cf606f7%2F2296408642.jpg"
       },
       {
-        "title": "Report: Commanders LB Leo Chenal to have season-ending neck surgery",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-commanders-lb-leo-chenal-to-have-season-ending-neck-surgery",
-        "summary": "Commanders linebacker Leo Chenal was put on a stretcher and carted off the field during Sunday's home win with a neck injury that will reportedly end his season.",
+        "title": "49ers sign Matt Judon to practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-matt-judon-to-practice-squad",
+        "summary": "The Ravens signed defensive end Matt Judon to the practice squad Monday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 09:22:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8beb53c/2147483647/strip/false/crop/5847x3289+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2Fc9%2Feb37139a4d3ea0d4e1e6b4846630%2F2297429875.jpg"
+        "date": "Mon, 28 Sep 2026 16:35:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7fab851/2147483647/strip/false/crop/7676x4318+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F97%2Fdcc443f549a6b3eb4ce2b418fba0%2F2190858090.jpg"
       }
     ]
   }
