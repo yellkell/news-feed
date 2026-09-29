@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-29T07:08:31.557Z",
+  "updated": "2026-09-29T14:02:16.230Z",
   "feed": {
     "VR": [
+      {
+        "title": "Meta VR Glasses, Quest 3 & Steam Frame Compared – Specs & Features",
+        "url": "https://roadtovr.com/meta-vr-glasses-quest-3-steam-frame-compared-specs/",
+        "summary": "It’s another big moment in VR hardware, but which headset should you consider buying?",
+        "source": "roadtovr.com",
+        "date": "Tue, 29 Sep 2026 11:54:02 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/frame-quest-vr-glasses.png?resize=1537%2C1023&quality=80&ssl=1"
+      },
       {
         "title": "Mighty Coconut Downsizes For The Second Time This Year",
         "url": "https://www.uploadvr.com/mighty-coconut-downsizes-for-the-second-time-t/",
@@ -17,14 +25,6 @@
         "source": "mixed-news.com",
         "date": "Tue, 29 Sep 2026 00:02:19 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-17.jpg"
-      },
-      {
-        "title": "Arcturus Vision Steam Frame Add-on Review – A Literal Night and Day Difference",
-        "url": "https://roadtovr.com/arcturus-vision-camera-review-steam-frame-passthrough-add-on/",
-        "summary": "Arcturus Vision Camera is an add-on module for Steam Frame which greatly enhances its passthrough camera quality.",
-        "source": "roadtovr.com",
-        "date": "Mon, 28 Sep 2026 18:00:43 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/steam-frame-review-25.jpg?resize=1428%2C952&quality=89&ssl=1"
       },
       {
         "title": "Meta's Smart Glasses Are Getting Its 'Muse' AI Agent",
@@ -43,22 +43,22 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/share-og.png"
       },
       {
-        "title": "Hands-on: Meta’s ‘Hologram’ Avatars Aim to Take on Apple Personas on VR Glasses",
-        "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
-        "summary": "Meta’s long-promised photorealistic avatars are set to release in the next few months, which the company is calling ‘holograms’.",
+        "title": "Arcturus Vision Steam Frame Add-on Review – A Literal Night and Day Difference",
+        "url": "https://roadtovr.com/arcturus-vision-camera-review-steam-frame-passthrough-add-on/",
+        "summary": "Arcturus Vision Camera is an add-on module for Steam Frame which greatly enhances its passthrough camera quality.",
         "source": "roadtovr.com",
-        "date": "Mon, 28 Sep 2026 12:00:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/meta-hologram-connect-2026.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "date": "Mon, 28 Sep 2026 18:00:43 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/steam-frame-review-25.jpg?resize=1428%2C952&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-        "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr.",
+        "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+        "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+        "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep.",
         "source": "theverge.com",
-        "date": "2026-09-28T17:31:35-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-29T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292801324.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "OpenAI’s AI agents need to catch up",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-        "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running,…",
+        "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+        "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power,…",
         "source": "theverge.com",
-        "date": "2026-09-28T14:45:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-29T07:48:27-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
-        "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-        "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door.",
+        "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+        "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+        "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr.",
         "source": "theverge.com",
-        "date": "2026-09-28T14:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-28T17:31:35-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Sean McVay apologizes for Sunday night press conference cameo",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-apologizes-for-sunday-night-press-conference-cameo",
-        "summary": "Sunday night's Rams-Broncos game had an interesting postscript arising from coach Sean McVay's postgame press conference.",
+        "title": "Klint Kubiak is the early favorite for coach of the year",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-is-the-early-favorite-for-coach-of-the-year",
+        "summary": "In the battle of the offensive coordinators of the last two Super Bowl winners, Raiders coach Klint Kubiak got the better of Saints coach Kellen Moore.",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 23:42:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/15b8447/2147483647/strip/false/crop/5122x2881+0+278/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2Fff%2Fc484692046daa9596f417e7d23a5%2F2296959394.jpg"
+        "date": "Tue, 29 Sep 2026 09:46:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/62f46c0/2147483647/strip/false/crop/4857x2732+0+253/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F10%2F47f9472a4567aeeab163879d34ad%2F2297460962.jpg"
       },
       {
-        "title": "Monday Night Football: Case Keenum, Bears beat Eagles 27-7",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-case-keenum-bears-beat-eagles-27-7",
-        "summary": "The Bears third-string quarterback hadn't played since 2023.",
+        "title": "PFT's Week 4 2026 NFL power rankings",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-4-2026-nfl-power-rankings",
+        "summary": "There's a new sheriff in town (and they're dressed like 1960s Batman).",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 23:15:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5f0a4c2/2147483647/strip/false/crop/3953x2224+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2F92%2F0629f20449c7924b86d88d3b2a3c%2F2297636771.jpg"
+        "date": "Tue, 29 Sep 2026 09:09:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6f5138c/2147483647/strip/false/crop/4689x2638+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F91%2F16%2F914fc4e845e3bc97b809cfd20cd9%2F2296910476.jpg"
       },
       {
-        "title": "Senate passes the Protect College Sports Act",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/senate-passes-the-protect-college-sports-act",
-        "summary": "Report says there's a \"0.0 percent chance\" the House passes it before election day in November.",
+        "title": "Report: Bengals to bring back WR Mitchell Tinsley",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-bengals-to-bring-back-wr-mitchell-tinsley",
+        "summary": "Wide receiver Mitchell Tinsley played in every game for the Bengals last season and he is reportedly heading back to Cincinnati this week.",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 22:33:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/86a5578/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F898%2F623%2Fnbc_pft_chrismurphy_260918.jpg"
+        "date": "Tue, 29 Sep 2026 08:50:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c7229e/2147483647/strip/false/crop/7955x4475+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2F48%2F969637f94189b2105dac5d004ec3%2F2293417736.jpg"
       },
       {
-        "title": "Case Keenum's second TD pass has Bears holding 20-7 lead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/case-keenums-second-td-pass-has-bears-holding-20-7-lead",
-        "summary": "The Bears looked like they might be in trouble early in the practice week, with their top two quarterbacks on the injury report.",
+        "title": "Robert Saleh: Cam Ward made a bad decision, but he isn't reckless",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/robert-saleh-cam-ward-made-a-bad-decision-but-he-isnt-reckless",
+        "summary": "After quarterback Cam Ward threw an interception in the end zone late in the fourth quarter of Sunday's 12-7 loss to the Giants, Titans head coach Robert Saleh said that Ward has…",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 22:23:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7551636/2147483647/strip/false/crop/4505x2534+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2Ff6%2Ff9521a72436dbb1d21800850455b%2F2297632887.jpg"
+        "date": "Tue, 29 Sep 2026 08:32:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c672ac3/2147483647/strip/false/crop/6141x3454+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F49%2Ffe%2Fb45352ac438ebfbf8bc5a7515ca6%2F2026-09-27t205827z-1755182498-mt1usatoday29934935-rtrmadp-3-tennessee-titans-quarterback-cam-ward-1-throws-the-ball.jpg"
       },
       {
-        "title": "Bears LT Braxton Jones questionable to return with knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-lt-braxton-jones-questionable-to-return-with-knee-injury",
-        "summary": "Bears left tackle Braxton Jones is in the training room for further evaluation after a third-quarter injury.",
+        "title": "Jaguars got football from Travis Hunter's first interception after sideline squabble",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-got-football-from-travis-hunters-first-interception-after-sideline-squabble",
+        "summary": "Jaguars cornerback Travis Hunter's first NFL interception helped Jacksonville beat the Patriots on Sunday, but it also touched off an odd scene on the sideline.",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 22:16:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4fc057e/2147483647/strip/false/crop/4726x2658+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2Ff4%2F1dd65ec54790ab81cb8fe9bb550b%2F2297634894.jpg"
+        "date": "Tue, 29 Sep 2026 07:07:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cc92225/2147483647/strip/false/crop/3587x2018+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F54%2F6ffd05f4462abf7a0baecf72ec97%2F2297036828.jpg"
       },
       {
-        "title": "Nick Sirianni on Jalen Hurts medical check: \"Doctors have to do their job\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-on-jalen-hurts-medical-check-doctors-have-to-do-their-job",
-        "summary": "Eagles quarterback Jalen Hurts was visibly frustrated by a sideline concussion evaluation that kept him off the field for a promising drive that ended in an Andy Dalton…",
+        "title": "Buccaneers WR Jalen McMillan is expected to miss 6-8 weeks with knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-wr-jalen-mcmillan-is-expected-to-miss-6-8-weeks-with-knee-injury",
+        "summary": "Quarterback Baker Mayfield's dislocated thumb was the headline news for the Buccaneers on the injury front in Week 3, but he isn't the only offensive player set to miss time.",
         "source": "nbcsports.com",
-        "date": "Mon, 28 Sep 2026 21:52:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6c42bf/2147483647/strip/false/crop/2954x1662+0+462/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F68%2Fdf%2F6ff326e04ef69fdf6e206e4ffca5%2F2297631074.jpg"
+        "date": "Tue, 29 Sep 2026 06:35:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bd67122/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc1%2Fcd%2Fb533ea3c47ac8ddc3ce4c1e488d3%2F2252771701.jpg"
       }
     ]
   }
