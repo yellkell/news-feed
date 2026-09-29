@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-29T19:23:55.946Z",
+  "updated": "2026-09-29T23:04:06.182Z",
   "feed": {
     "VR": [
+      {
+        "title": "GPT-6 Astra completed a supply-chain attack in 29.2% of simulated runs, UK testers say",
+        "url": "https://mixed-news.com/en/aisi-gpt-6-astra-supply-chain-attack-29-2-percent-simulated-runs/",
+        "summary": "The UK's AI Security Institute tested GPT-6 Astra before its public release and found that it completed a supply-chain attack in 29.2% of runs, against 6.3% for GPT-5.6 Sol and 0%…",
+        "source": "mixed-news.com",
+        "date": "Tue, 29 Sep 2026 22:49:13 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6aba75fbad2017fa6a5ff7ae_Fig1.png"
+      },
+      {
+        "title": "Dungeons Of Eternity's Tomb Extraction Update Is A Rune-aissance For An Aging Game",
+        "url": "https://www.uploadvr.com/dungeons-of-eternitys-tomb-extraction-update-is-a-rune-aissance-for-an-aging-game/",
+        "summary": "Dungeons of Eternity's free Tomb Extraction update adds an entertaining new dungeon type, a welcome change of pace as the VR roguelite enters its fourth year.",
+        "source": "uploadvr.com",
+        "date": "Tue, 29 Sep 2026 12:26:01 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/vlcsnap-2026-09-29-10h39m38s788.png"
+      },
       {
         "title": "Meta Plans VR Glasses Strap Accessory for Active VR Gaming",
         "url": "https://roadtovr.com/meta-vr-glasses-strap-accessory-active-vr-gaming/",
@@ -9,6 +25,14 @@
         "source": "roadtovr.com",
         "date": "Tue, 29 Sep 2026 16:02:45 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/meta-vr-glasses-1-edited.jpg?resize=1123%2C748&quality=89&ssl=1"
+      },
+      {
+        "title": "AMD is buying World Labs for about $8.2 billion, and Fei-Fei Li joins as chief scientist",
+        "url": "https://mixed-news.com/en/amd-world-labs-8-2-billion-fei-fei-li-chief-scientist/",
+        "summary": "AMD said on September 28 that it has signed a definitive agreement to buy World Labs, the San Francisco lab whose models generate, reconstruct and simulate interactive 3D…",
+        "source": "mixed-news.com",
+        "date": "Tue, 29 Sep 2026 22:01:47 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/063180c6-5b1a-4200-b238-99d7083699ae.jpg"
       },
       {
         "title": "Tiny Flock Review: A Small-Scale Puzzle Game That's Big On Charm",
@@ -19,46 +43,22 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/tiny-flock-header-image.jpg"
       },
       {
-        "title": "Steam Link grabs your Nvidia card for VR streaming, and you cannot tell it not to",
-        "url": "https://mixed-news.com/en/steam-link-nvidia-card-vr-streaming-no-gpu-picker/",
-        "summary": "Steam Link picks a discrete GPU when it streams VR to a headset, and on a machine holding two of them it prefers an Nvidia card over an AMD one.",
-        "source": "mixed-news.com",
-        "date": "Tue, 29 Sep 2026 00:02:19 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-17.jpg"
-      },
-      {
         "title": "Meta VR Glasses, Quest 3 & Steam Frame Compared – Specs & Features",
         "url": "https://roadtovr.com/meta-vr-glasses-quest-3-steam-frame-compared-specs/",
         "summary": "It’s another big moment in VR hardware, but which headset should you consider buying?",
         "source": "roadtovr.com",
         "date": "Tue, 29 Sep 2026 11:54:02 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/frame-quest-vr-glasses.png?resize=1537%2C1023&quality=80&ssl=1"
-      },
-      {
-        "title": "Mighty Coconut Downsizes For The Second Time This Year",
-        "url": "https://www.uploadvr.com/mighty-coconut-downsizes-for-the-second-time-t/",
-        "summary": "More layoffs hit Walkabout Mini Golf developer Mighty Coconut.",
-        "source": "uploadvr.com",
-        "date": "Mon, 28 Sep 2026 18:32:27 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/walkabout-banner.png"
-      },
-      {
-        "title": "ChatGPT's new security history logs your sign-ins, MFA changes and passkeys",
-        "url": "https://mixed-news.com/en/chatgpt-security-history-sign-ins-mfa-passkeys/",
-        "summary": "ChatGPT accounts now carry a security history, a list of recent security activity covering sign-ins, sign-outs and changes to multi-factor authentication, passkeys and other…",
-        "source": "mixed-news.com",
-        "date": "Mon, 28 Sep 2026 23:16:05 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/share-og.png"
       }
     ],
     "AI": [
       {
-        "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-        "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview.",
+        "title": "Trump orders US government to call AI ‘Super Intelligence’",
+        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+        "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will…",
         "source": "theverge.com",
-        "date": "2026-09-29T13:35:03-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-29T18:25:45-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "OpenAI launches Dots, its Muse competitor",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-        "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots.",
+        "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+        "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+        "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause.",
         "source": "theverge.com",
-        "date": "2026-09-29T13:15:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dots-Hero-Image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-29T17:49:09-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       },
       {
-        "title": "Protesters gather at OpenAI’s DevDay",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-        "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants.",
+        "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+        "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview.",
         "source": "theverge.com",
-        "date": "2026-09-29T13:12:27-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-29T13:35:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Tua Tagovailoa: Job description right now is to support Michael Penix",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-job-description-right-now-is-to-support-michael-penix",
-        "summary": "Tua Tagovailoa's chance to be the Falcons' starting quarterback may have come and gone.",
+        "title": "Bucs sign QB Brett Rypien to the practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-sign-qb-brett-rypien-to-the-practice-squad",
+        "summary": "The Buccaneers are signing quarterback Brett Rypien to their practice squad, Rick Stroud of the Tampa Bay Times reports.",
         "source": "nbcsports.com",
-        "date": "Tue, 29 Sep 2026 15:16:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d688571/2147483647/strip/false/crop/3877x2181+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F18%2F4f1f4a1b402c95a7d382391ddc90%2F2296351651.jpg"
+        "date": "Tue, 29 Sep 2026 18:58:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b1a9fb/2147483647/strip/false/crop/3123x1757+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F4f%2F9109aae443dcae04db7630941fa2%2F2292507342.jpg"
       },
       {
-        "title": "Ben Johnson on Week 4 QB: We'll see how it plays out",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-on-week-4-qb-well-see-how-it-plays-out",
-        "summary": "Johnson was mum on his plans for QB this week in a radio interview on Tuesday.",
+        "title": "Texans sign RB Dare Ogunbowale off Raiders' practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-rb-dare-ogunbowale-off-raiders-practice-squad",
+        "summary": "The Texans signed running back Dare Ogunbowale off the Raiders' practice squad on Tuesday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Tue, 29 Sep 2026 15:05:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/709db2a/2147483647/strip/false/crop/7191x4045+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2Fd8%2F281fa87a45a9a61490e741b65fbf%2F2297115165.jpg"
+        "date": "Tue, 29 Sep 2026 18:19:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ce277ea/2147483647/strip/false/crop/8100x4556+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdf%2Fd8%2F7f34fda64505a67af3e1f913ed94%2F2257293952.jpg"
       },
       {
-        "title": "Jacob Rodriguez is Defensive Rookie of the Year favorite after big game vs. Chiefs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacob-rodriguez-is-defensive-rookie-of-the-year-favorite-after-big-game-vs-chiefs",
-        "summary": "As a linebacker at Texas Tech last season, linebacker Jacob Rodriguez as a unanimous All-American, and his long list of honors included the Bronko Nagurski Trophy and Chuck…",
+        "title": "Kevin Zeitler had a visit with the Packers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-zeitler-had-a-visit-with-the-packers",
+        "summary": "The Packers have added a pair of veteran offensive linemen in the past couple of days and they may not be done addressing the area.",
         "source": "nbcsports.com",
-        "date": "Tue, 29 Sep 2026 14:20:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7551ac2/2147483647/strip/false/crop/2920x1643+0+152/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2F58%2F09d8f6c94852ad17e0f0e8b5cc3b%2F2297056712.jpg"
+        "date": "Tue, 29 Sep 2026 18:02:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/735b2c0/2147483647/strip/false/crop/4131x2324+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Fe4%2F8b3a5d7648b6a156c09b1cf66acf%2F2254172331.jpg"
       },
       {
-        "title": "Rams waive S Tanner Ingle",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-waive-s-tanner-ingle",
-        "summary": "The Rams are moving on from one of their defensive backs.",
+        "title": "Giants put Brian Burns on IR, sign WR Charlie Jones off practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-put-brian-burns-on-ir-sign-wr-charlie-jones-off-practice-squad",
+        "summary": "The Giants' roster moves on Tuesday included moving linebacker Brian Burns to injured reserve.",
         "source": "nbcsports.com",
-        "date": "Tue, 29 Sep 2026 14:19:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/65a758c/2147483647/strip/false/crop/5331x2999+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2F88%2Fd23d5777475da303250be40bf5a1%2F2294983436.jpg"
+        "date": "Tue, 29 Sep 2026 17:51:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/315c233/2147483647/strip/false/crop/4360x2453+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2Fde%2F5923d5fd4c57bfa902d7b03f0fea%2F2297587413.jpg"
       },
       {
-        "title": "Giants signing WR Braxton Berrios to 53-man roster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-signing-wr-braxton-berrios-to-53-man-roster",
-        "summary": "With Odell Beckham Jr. on his way out, another Giants receiver is on his way up.",
+        "title": "Brian Schottenheimer: I hurt the team in loss to the Ravens",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-i-hurt-the-team-in-loss-to-the-ravens",
+        "summary": "Cowboys owner Jerry Jones said there was \"no explanation\" for how the team closed out the game.",
         "source": "nbcsports.com",
-        "date": "Tue, 29 Sep 2026 13:56:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6710f31/2147483647/strip/false/crop/5338x3003+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2Fbe%2Fcfc1b80b46ffb61d4c693ee3f499%2F2297625587.jpg"
+        "date": "Tue, 29 Sep 2026 17:44:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d693c1c/2147483647/strip/false/crop/8256x4644+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F96%2F581408c548e9abc64aac3bbb79f6%2F2296480353.jpg"
       },
       {
-        "title": "Raiders-Chiefs gets top CBS billing over Broncos-49ers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-chiefs-gets-top-cbs-billing-over-broncos-49ers",
-        "summary": "Sunday's slate of games includes a couple of big late-afternoon game.",
+        "title": "Vikings sign LB Kyle Van Noy to active roster, place TE Josh Oliver on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-lb-kyle-van-noy-to-active-roster-place-te-josh-oliver-on-ir",
+        "summary": "The Vikings signed outside linebacker Kyle Van Noy and quarterback Max Brosmer from their practice squad to their 53-player roster.",
         "source": "nbcsports.com",
-        "date": "Tue, 29 Sep 2026 13:51:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/184130d/2147483647/strip/false/crop/3804x2140+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4c%2F29%2F4e875913452288a1a3bf1800e27a%2F2254709688.jpg"
+        "date": "Tue, 29 Sep 2026 17:37:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f32e3f4/2147483647/strip/false/crop/3348x1883+0+283/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F68%2F08%2F97b96efb470d87f23077346a8c53%2F2026-09-27t230058z-1813975577-mt1usatoday29936559-rtrmadp-3-nfl-minnesota-vikings-at-tampa-bay-buccaneers.jpg"
       }
     ]
   }
