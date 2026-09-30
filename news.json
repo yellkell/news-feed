@@ -1,14 +1,22 @@
 {
-  "updated": "2026-09-30T15:09:55.758Z",
+  "updated": "2026-09-30T19:59:22.430Z",
   "feed": {
     "VR": [
       {
-        "title": "An executive order makes America.gov the single front door to federal services, on Gemini",
-        "url": "https://mixed-news.com/en/america-gov-executive-order-gemini-federal-services/",
-        "summary": "An executive order signed on September 29 directs the General Services Administration to establish America.gov as \"the unified digital front door to the Federal Government for…",
+        "title": "New Trailer Reveals Hedge-Trimming & Pie-Eating Gameplay In Evangelion: Δ Cross Reflections",
+        "url": "https://www.uploadvr.com/new-trailer-reveals-hedge-trimming-pie-eating-gameplay-in-evangelion-d-cross-reflections/",
+        "summary": "We got our first glimpse of hedge-trimming and pie-eating in a new trailer for Evangelion: Δ Cross Reflections.",
+        "source": "uploadvr.com",
+        "date": "Wed, 30 Sep 2026 10:31:20 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/evangelion-hedge-trimming.png"
+      },
+      {
+        "title": "One Meta VR CLI command crops your Quest to the VR Glasses' 70 degrees",
+        "url": "https://mixed-news.com/en/metavr-fov-sim-enable-quest-meta-vr-glasses-field-of-view-simulation/",
+        "summary": "One command, metavr device fov-sim enable, masks a Quest down to the Meta VR Glasses' 70 degree by 66 degree field of view, so a developer can see what an app loses on a headset…",
         "source": "mixed-news.com",
-        "date": "Wed, 30 Sep 2026 14:58:13 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/secure_AI_frontier_hero_v2.width-1200.format-webp.webp"
+        "date": "Wed, 30 Sep 2026 15:44:46 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Meta-Quest-3.png"
       },
       {
         "title": "‘Walkabout Mini Golf’ Studio Announces Another Round of Layoffs Following DLC Price Hike",
@@ -19,28 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/walkabout-mini-golf-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
+        "title": "An executive order makes America.gov the single front door to federal services, on Gemini",
+        "url": "https://mixed-news.com/en/america-gov-executive-order-gemini-federal-services/",
+        "summary": "An executive order signed on September 29 directs the General Services Administration to establish America.gov as \"the unified digital front door to the Federal Government for…",
+        "source": "mixed-news.com",
+        "date": "Wed, 30 Sep 2026 14:58:13 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/secure_AI_frontier_hero_v2.width-1200.format-webp.webp"
+      },
+      {
         "title": "ROSÉ & Bruno Mars' Viral \"APT.\" Is Beat Saber's Latest Shock Drop",
         "url": "https://www.uploadvr.com/rose-bruno-mars-vita-apt-is-the-latest-beat-saber-shock-drop/",
         "summary": "Beat Saber dropped its fourth Shock Drop with ROSÉ & Bruno Mars' viral single \"APT.\", available now on Quest & PC VR.",
         "source": "uploadvr.com",
         "date": "Tue, 29 Sep 2026 18:20:46 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/beat-saber-apt-shock-drop.webp"
-      },
-      {
-        "title": "Walkabout Mini Golf's studio is cutting 10 jobs, its second round this year",
-        "url": "https://mixed-news.com/en/mighty-coconut-walkabout-mini-golf-10-jobs-second-round/",
-        "summary": "Mighty Coconut, the studio behind Walkabout Mini Golf, said on September 28 that it will part with 10 people over the next several months.",
-        "source": "mixed-news.com",
-        "date": "Wed, 30 Sep 2026 14:11:09 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-23.jpg"
-      },
-      {
-        "title": "Dungeons Of Eternity's Tomb Extraction Update Is A Rune-aissance For An Aging Game",
-        "url": "https://www.uploadvr.com/dungeons-of-eternitys-tomb-extraction-update-is-a-rune-aissance-for-an-aging-game/",
-        "summary": "Dungeons of Eternity's free Tomb Extraction update adds an entertaining new dungeon type, a welcome change of pace as the VR roguelite enters its fourth year.",
-        "source": "uploadvr.com",
-        "date": "Tue, 29 Sep 2026 12:26:01 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/vlcsnap-2026-09-29-10h39m38s788.png"
       },
       {
         "title": "Meta Plans VR Glasses Strap Accessory for Active VR Gaming",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Google reportedly tests paying publishers for AI search results",
-        "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-        "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information.",
+        "title": "The AI Tamagotchis are coming",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+        "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices.",
         "source": "theverge.com",
-        "date": "2026-09-30T10:51:49-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-30T14:07:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Cloudflare plans to issue quantum-safe TLS certificates",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg"
       },
       {
-        "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-        "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-        "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts.",
+        "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+        "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion.",
         "source": "theverge.com",
-        "date": "2026-09-30T10:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-30T13:15:49-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       },
       {
-        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-        "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial…",
+        "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+        "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online.",
         "source": "theverge.com",
-        "date": "2026-09-30T08:24:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-30T11:18:49-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "There's a new way to break RSA that's faster than anything we've seen before",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Wink Martindale offers to help \"outclassed\" Cowboys defensive coordinator Christian Parker",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wink-martindale-offers-to-help-outclassed-cowboys-defensive-coordinator-christian-parker",
-        "summary": "Coaching inexperience is holding the Cowboys back.",
+        "title": "Lamar Jackson \"dealing with something small,\" wound up limited at practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-dealing-with-something-small-wound-up-limited-at-practice",
+        "summary": "Ravens quarterback Lamar Jackson was not on the field for the portion of Wednesday's practice that was open to the media, but he wound up getting out there before the session came…",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 11:02:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f274ee/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2Fd4%2F48150c1b42719f961663cf6b0510%2F2149441950.jpg"
+        "date": "Wed, 30 Sep 2026 15:50:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/30645bd/2147483647/strip/false/crop/3218x1810+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1e%2F50%2Fc7d1fdc04e6eb9702761a389c3d0%2F2026-09-27t231759z-1463230824-up1em9r1spxum-rtrmadp-3-football-nfl-bal-dal.jpg"
       },
       {
-        "title": "Buccaneers place WR Jalen McMillan on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-place-wr-jalen-mcmillan-on-injured-reserve",
-        "summary": "Tampa Bay has announced a series of roster moves on Wednesday morning.",
+        "title": "George Kittle on Mike Evans' injury: Fractured ribs suck",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-on-mike-evans-injury-fractured-ribs-suck",
+        "summary": "49ers coach Kyle Shanahan wouldn't go into specifics about Mike Evans' rib injury.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 10:50:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c7e5d05/2147483647/strip/false/crop/7315x4115+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2Fb1%2Fc2cc34d04599882797980a18ca60%2F2296836455.jpg"
+        "date": "Wed, 30 Sep 2026 15:47:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/df16c9b/2147483647/strip/false/crop/3875x2180+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F12%2F129ccbeb4540b189222256672253%2F2297818448.jpg"
       },
       {
-        "title": "Amazon extends Kirk Herbstreit, with a significant caveat",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/amazon-extends-kirk-herbstreit-with-a-significant-caveat",
-        "summary": "Kirk Herbstreit claims he's oblivious to American politics.",
+        "title": "Browns rule out C Elgton Jenkins for Thursday vs. Steelers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-rule-out-c-elgton-jenkins-for-thursday-vs-steelers",
+        "summary": "The Browns will not have their starting center for Thursday night's game against the Steelers.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 10:15:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/011e9c7/2147483647/strip/false/crop/4684x2635+0+244/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fba%2F87%2Fc20917d748bb9fee5c4ccbe2d322%2F2296651024.jpg"
+        "date": "Wed, 30 Sep 2026 15:35:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f39fa2/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2F02%2F7ad80540400aaaff045d943f8628%2F2294776143.jpg"
       },
       {
-        "title": "Jayden Daniels will be a limited participant in practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-will-be-a-limited-participant-in-practice",
-        "summary": "Quarterback Jayden Daniels made the trip to London with the Commanders for this week's game against the Colts and head coach Dan Quinn updated their plans for his practice work at…",
+        "title": "Ben Johnson: QB on Sunday will be whoever gives us the best chance to win",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-qb-on-sunday-will-be-whoever-gives-us-the-best-chance-to-win",
+        "summary": "Bears head coach Ben Johnson wasn't ready to name a quarterback for Week 4 on Tuesday and nothing changed on Wednesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 10:00:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1c45da0/2147483647/strip/false/crop/4871x2740+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3a%2F64%2F69943a3e4f678d2b8c298b2867a0%2F2296859780.jpg"
+        "date": "Wed, 30 Sep 2026 15:28:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd0e31b/2147483647/strip/false/crop/5246x2951+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F90%2F9f0e34494700ae650450cbf00346%2F2234938498.jpg"
       },
       {
-        "title": "More than 100 former players object to settlement of class action against NFL disability plan",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/more-than-100-former-players-object-to-settlement-of-class-action-against-nfl-disability-plan",
-        "summary": "The settlement of any class action includes an opportunity for the members of the class to object to the proposed deal.",
+        "title": "Steelers rule Joey Porter Jr. out for Thursday, Jalen Ramsey questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-rule-joey-porter-jr-out-for-thursday-jalen-ramsey-questionable",
+        "summary": "Porter will miss his fourth straight game.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 09:52:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d39f199/2147483647/strip/false/crop/7416x4172+0+387/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2F78%2Fb1ede24b4050b2a1feac8fce8aaf%2F2295967461.jpg"
+        "date": "Wed, 30 Sep 2026 15:13:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0c0655/2147483647/strip/false/crop/3559x2002+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2F7d%2Feed5a82c4fb8a2766b8810a235bb%2F2255187003.jpg"
       },
       {
-        "title": "Aaron Rodgers ties Ben Roethlisberger with 165 career wins, fifth-most ever",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-ties-ben-roethlisberger-with-165-career-wins-fifth-most-ever",
-        "summary": "By beating the Bengals on Sunday, Steelers quarterback Aaron Rodgers equaled former Steelers quarterback Ben Roethlisberger's career win total.",
+        "title": "Bryce Young fully participates in Panthers practice, but Jalen Coker and Xavier Legette sit out",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-young-fully-participates-in-panthers-practice-but-jalen-coker-and-xavier-legette-sit-out",
+        "summary": "The Panthers placed their starting cornerbacks on injured reserve on Wednesday, but there was a positive development for quarterback Bryce Young later in the day.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 09:52:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/53d2d67/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2Fc3%2Fc86a0e1e4fbbb1302605eceefaf0%2F1364445667.jpg"
+        "date": "Wed, 30 Sep 2026 14:57:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8dea20c/2147483647/strip/false/crop/5485x3085+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffa%2F35%2F4cd2c9ec4278b5f657a8e3242251%2F2297330253.jpg"
       }
     ]
   }
