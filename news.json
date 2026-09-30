@@ -1,22 +1,22 @@
 {
-  "updated": "2026-09-30T19:59:22.430Z",
+  "updated": "2026-09-30T23:34:30.183Z",
   "feed": {
     "VR": [
       {
-        "title": "New Trailer Reveals Hedge-Trimming & Pie-Eating Gameplay In Evangelion: Δ Cross Reflections",
-        "url": "https://www.uploadvr.com/new-trailer-reveals-hedge-trimming-pie-eating-gameplay-in-evangelion-d-cross-reflections/",
-        "summary": "We got our first glimpse of hedge-trimming and pie-eating in a new trailer for Evangelion: Δ Cross Reflections.",
-        "source": "uploadvr.com",
-        "date": "Wed, 30 Sep 2026 10:31:20 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/evangelion-hedge-trimming.png"
+        "title": "Gemini 4 Argon lifts Google's output limit to 1M tokens, but only cyber defenders have it",
+        "url": "https://mixed-news.com/en/gemini-4-argon-1m-output-token-limit-cyber-defenders/",
+        "summary": "Google announced a new frontier model, Gemini 4 Argon, on September 30, and the first people to get it are neither developers nor subscribers.",
+        "source": "mixed-news.com",
+        "date": "Wed, 30 Sep 2026 23:25:48 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/g4_30-09-26_key-art_blog.width-1300.png"
       },
       {
-        "title": "One Meta VR CLI command crops your Quest to the VR Glasses' 70 degrees",
-        "url": "https://mixed-news.com/en/metavr-fov-sim-enable-quest-meta-vr-glasses-field-of-view-simulation/",
-        "summary": "One command, metavr device fov-sim enable, masks a Quest down to the Meta VR Glasses' 70 degree by 66 degree field of view, so a developer can see what an app loses on a headset…",
-        "source": "mixed-news.com",
-        "date": "Wed, 30 Sep 2026 15:44:46 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Meta-Quest-3.png"
+        "title": "New VR Games & Releases October 2026: Quest, PC VR, PS VR2 & More",
+        "url": "https://www.uploadvr.com/new-vr-games-releases-october-2026-quest-pc-vr-ps-vr2-more/",
+        "summary": "Wondering what VR games are releasing in October that you can look forward to? Read our full roundup here.",
+        "source": "uploadvr.com",
+        "date": "Wed, 30 Sep 2026 13:11:25 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-new-Games-october-2026.png"
       },
       {
         "title": "‘Walkabout Mini Golf’ Studio Announces Another Round of Layoffs Following DLC Price Hike",
@@ -27,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/walkabout-mini-golf-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "An executive order makes America.gov the single front door to federal services, on Gemini",
-        "url": "https://mixed-news.com/en/america-gov-executive-order-gemini-federal-services/",
-        "summary": "An executive order signed on September 29 directs the General Services Administration to establish America.gov as \"the unified digital front door to the Federal Government for…",
+        "title": "GPT-6 Astra's Ultrafast tier costs $300 per million output tokens, six times standard",
+        "url": "https://mixed-news.com/en/gpt-6-astra-ultrafast-tier-300-million-output-tokens/",
+        "summary": "OpenAI has added an Ultrafast service tier for GPT-6 Astra, and on prompts of 272,000 input tokens or fewer it charges $300 per 1M output tokens where the standard tier charges…",
         "source": "mixed-news.com",
-        "date": "Wed, 30 Sep 2026 14:58:13 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/secure_AI_frontier_hero_v2.width-1200.format-webp.webp"
+        "date": "Wed, 30 Sep 2026 23:10:54 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/career-website-dark-v3.png"
       },
       {
-        "title": "ROSÉ & Bruno Mars' Viral \"APT.\" Is Beat Saber's Latest Shock Drop",
-        "url": "https://www.uploadvr.com/rose-bruno-mars-vita-apt-is-the-latest-beat-saber-shock-drop/",
-        "summary": "Beat Saber dropped its fourth Shock Drop with ROSÉ & Bruno Mars' viral single \"APT.\", available now on Quest & PC VR.",
+        "title": "New Trailer Reveals Hedge-Trimming & Pie-Eating Gameplay In Evangelion: Δ Cross Reflections",
+        "url": "https://www.uploadvr.com/new-trailer-reveals-hedge-trimming-pie-eating-gameplay-in-evangelion-d-cross-reflections/",
+        "summary": "We got our first glimpse of hedge-trimming and pie-eating in a new trailer for Evangelion: Δ Cross Reflections.",
         "source": "uploadvr.com",
-        "date": "Tue, 29 Sep 2026 18:20:46 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/beat-saber-apt-shock-drop.webp"
+        "date": "Wed, 30 Sep 2026 10:31:20 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/evangelion-hedge-trimming.png"
       },
       {
         "title": "Meta Plans VR Glasses Strap Accessory for Active VR Gaming",
@@ -52,6 +52,22 @@
       }
     ],
     "AI": [
+      {
+        "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+        "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+        "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+        "source": "arstechnica.com",
+        "date": "Wed, 30 Sep 2026 20:44:48 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+      },
+      {
+        "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+        "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon.",
+        "source": "theverge.com",
+        "date": "2026-09-30T16:41:41-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
       {
         "title": "The AI Tamagotchis are coming",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Fri, 25 Sep 2026 19:38:59 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
-      },
-      {
-        "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-        "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online.",
-        "source": "theverge.com",
-        "date": "2026-09-30T11:18:49-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "There's a new way to break RSA that's faster than anything we've seen before",
-        "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-        "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
-        "source": "arstechnica.com",
-        "date": "Thu, 24 Sep 2026 11:15:44 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Lamar Jackson \"dealing with something small,\" wound up limited at practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-dealing-with-something-small-wound-up-limited-at-practice",
-        "summary": "Ravens quarterback Lamar Jackson was not on the field for the portion of Wednesday's practice that was open to the media, but he wound up getting out there before the session came…",
+        "title": "Jim Harbaugh, to no surprise, spoke to John Harbaugh before J.J. McCarthy trade",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-to-no-surprise-spoke-to-john-harbaugh-before-j-j-mccarthy-trade",
+        "summary": "Before the 2024 draft, former Michigan coach Jim Harbaugh had plenty of glowing things to say about former Michigan quarterback J.J.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 15:50:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/30645bd/2147483647/strip/false/crop/3218x1810+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1e%2F50%2Fc7d1fdc04e6eb9702761a389c3d0%2F2026-09-27t231759z-1463230824-up1em9r1spxum-rtrmadp-3-football-nfl-bal-dal.jpg"
+        "date": "Wed, 30 Sep 2026 19:14:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/de2d737/2147483647/strip/false/crop/3181x1789+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2Fdc%2F16a9dfdc4bb4a4884a4bf636343b%2F2243247386.jpg"
       },
       {
-        "title": "George Kittle on Mike Evans' injury: Fractured ribs suck",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-on-mike-evans-injury-fractured-ribs-suck",
-        "summary": "49ers coach Kyle Shanahan wouldn't go into specifics about Mike Evans' rib injury.",
+        "title": "Zack Baun, DeVonta Smith miss practice for Eagles",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zack-baun-devonta-smith-miss-practice-for-eagles",
+        "summary": "The Eagles were missing several players at Wednesday's practice, including linebacker Zack Baun.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 15:47:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/df16c9b/2147483647/strip/false/crop/3875x2180+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F12%2F129ccbeb4540b189222256672253%2F2297818448.jpg"
+        "date": "Wed, 30 Sep 2026 19:13:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bd931f6/2147483647/strip/false/crop/7474x4204+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F52%2Ffc4f86c44f618426fca6f0ffa00b%2F2295351601.jpg"
       },
       {
-        "title": "Browns rule out C Elgton Jenkins for Thursday vs. Steelers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-rule-out-c-elgton-jenkins-for-thursday-vs-steelers",
-        "summary": "The Browns will not have their starting center for Thursday night's game against the Steelers.",
+        "title": "Marvin Mims, Jaylen Waddle had full participation Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-mims-jaylen-waddle-had-full-participation-wednesday",
+        "summary": "Broncos wide receiver Marvin Mims returned to full participation at Wednesday's practice.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 15:35:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f39fa2/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2F02%2F7ad80540400aaaff045d943f8628%2F2294776143.jpg"
+        "date": "Wed, 30 Sep 2026 19:08:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/db236d8/2147483647/strip/false/crop/4533x2550+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2F42%2F57fb2a804c8dbbb3ee795fd92b1b%2F2026-09-18t081343z-11105018-mt1usatoday29846730-rtrmadp-3-nfl-denver-broncos-at-kansas-city-chiefs.jpg"
       },
       {
-        "title": "Ben Johnson: QB on Sunday will be whoever gives us the best chance to win",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-qb-on-sunday-will-be-whoever-gives-us-the-best-chance-to-win",
-        "summary": "Bears head coach Ben Johnson wasn't ready to name a quarterback for Week 4 on Tuesday and nothing changed on Wednesday.",
+        "title": "Aaron Donald misses practice with a sore back",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-misses-practice-with-a-sore-back",
+        "summary": "The Rams got wide receiver Puka Nacua back on the practice field Wednesday, but they were missing an important part of their defense.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 15:28:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd0e31b/2147483647/strip/false/crop/5246x2951+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F90%2F9f0e34494700ae650450cbf00346%2F2234938498.jpg"
+        "date": "Wed, 30 Sep 2026 18:53:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/95c01ad/2147483647/strip/false/crop/5172x2909+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2F85%2F603b91354f1da0263da2cd1bba97%2F2297596835.jpg"
       },
       {
-        "title": "Steelers rule Joey Porter Jr. out for Thursday, Jalen Ramsey questionable",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-rule-joey-porter-jr-out-for-thursday-jalen-ramsey-questionable",
-        "summary": "Porter will miss his fourth straight game.",
+        "title": "Drake Maye: I love playing for Mike Vrabel, that's not going to change",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-i-love-playing-for-mike-vrabel-thats-not-going-to-change",
+        "summary": "Patriots head coach Mike Vrabel dismissed a report that he has issues with quarterback Drake Maye during a Wednesday press conference by saying that coaching Maye is the reason…",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 15:13:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0c0655/2147483647/strip/false/crop/3559x2002+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2F7d%2Feed5a82c4fb8a2766b8810a235bb%2F2255187003.jpg"
+        "date": "Wed, 30 Sep 2026 18:26:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/741431d/2147483647/strip/false/crop/7512x4226+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2F08%2Fb22d1f0f4d8cba95f05272f8080e%2F2257062057.jpg"
       },
       {
-        "title": "Bryce Young fully participates in Panthers practice, but Jalen Coker and Xavier Legette sit out",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-young-fully-participates-in-panthers-practice-but-jalen-coker-and-xavier-legette-sit-out",
-        "summary": "The Panthers placed their starting cornerbacks on injured reserve on Wednesday, but there was a positive development for quarterback Bryce Young later in the day.",
+        "title": "Keon Coleman out of practice for Bills, Deone Walker limited",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keon-coleman-out-of-practice-for-bills-deone-walker-limited",
+        "summary": "Wide receiver Keon Coleman missed the first Bills practice of the week.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 14:57:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8dea20c/2147483647/strip/false/crop/5485x3085+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffa%2F35%2F4cd2c9ec4278b5f657a8e3242251%2F2297330253.jpg"
+        "date": "Wed, 30 Sep 2026 18:14:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a805730/2147483647/strip/false/crop/6781x3814+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F3b%2Fd30999264ca5bc0481563821b744%2F2297751398.jpg"
       }
     ]
   }
