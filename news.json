@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-30T02:05:14.014Z",
+  "updated": "2026-09-30T08:29:34.147Z",
   "feed": {
     "VR": [
+      {
+        "title": "SteamVR beta 2.18.1 ends right-eye ghosting, say 8 of the 12 who reported it",
+        "url": "https://mixed-news.com/en/steamvr-beta-2-18-1-right-eye-ghosting-steam-link-linux-quest-pico/",
+        "summary": "Eight of the 12 Linux owners who reported right-eye ghosting through Steam Link say SteamVR beta 2.18.1 has ended it.",
+        "source": "mixed-news.com",
+        "date": "Wed, 30 Sep 2026 07:57:20 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-17.jpg"
+      },
+      {
+        "title": "‘Walkabout Mini Golf’ Studio Announces Another Round of Layoffs Following DLC Price Hike",
+        "url": "https://roadtovr.com/walkabout-mini-golf-studio-announces-another-round-of-lay-offs-following-dlc-price-hike/",
+        "summary": "Mighty Coconut, indie studio behind hit VR game Walkabout Mini Golf (2020), announced another round of layoffs affecting ~35% of staff.",
+        "source": "roadtovr.com",
+        "date": "Wed, 30 Sep 2026 07:56:40 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/walkabout-mini-golf-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
       {
         "title": "ROSÉ & Bruno Mars' Viral \"APT.\" Is Beat Saber's Latest Shock Drop",
         "url": "https://www.uploadvr.com/rose-bruno-mars-vita-apt-is-the-latest-beat-saber-shock-drop/",
@@ -11,28 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/beat-saber-apt-shock-drop.webp"
       },
       {
-        "title": "GPT-6 Astra completed a supply-chain attack in 29.2% of simulated runs, UK testers say",
-        "url": "https://mixed-news.com/en/aisi-gpt-6-astra-supply-chain-attack-29-2-percent-simulated-runs/",
-        "summary": "The UK's AI Security Institute tested GPT-6 Astra before its public release and found that it completed a supply-chain attack in 29.2% of runs, against 6.3% for GPT-5.6 Sol and 0%…",
+        "title": "GPT-6.1 Sol costs $2 and $10 per million tokens, and halves GPT-6 Sol's cache rate",
+        "url": "https://mixed-news.com/en/gpt-6-1-sol-pricing-cached-input-halved/",
+        "summary": "OpenAI's new GPT-6.1 Sol lists at $2 per million input tokens and $10 per million output tokens on short-context requests, and its cached input rate of $0.10 per million is half…",
         "source": "mixed-news.com",
-        "date": "Tue, 29 Sep 2026 22:49:13 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6aba75fbad2017fa6a5ff7ae_Fig1.png"
-      },
-      {
-        "title": "Meta Plans VR Glasses Strap Accessory for Active VR Gaming",
-        "url": "https://roadtovr.com/meta-vr-glasses-strap-accessory-active-vr-gaming/",
-        "summary": "Meta VR Glasses can play all of the same games you might on Quest, whether it be through integrated hand-tracking or by pairing optional Touch Plus controllers.",
-        "source": "roadtovr.com",
-        "date": "Tue, 29 Sep 2026 16:02:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/meta-vr-glasses-1-edited.jpg?resize=1123%2C748&quality=89&ssl=1"
-      },
-      {
-        "title": "AMD is buying World Labs for about $8.2 billion, and Fei-Fei Li joins as chief scientist",
-        "url": "https://mixed-news.com/en/amd-world-labs-8-2-billion-fei-fei-li-chief-scientist/",
-        "summary": "AMD said on September 28 that it has signed a definitive agreement to buy World Labs, the San Francisco lab whose models generate, reconstruct and simulate interactive 3D…",
-        "source": "mixed-news.com",
-        "date": "Tue, 29 Sep 2026 22:01:47 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/063180c6-5b1a-4200-b238-99d7083699ae.jpg"
+        "date": "Wed, 30 Sep 2026 07:11:05 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/gpt-6-sol-luna-seo.png"
       },
       {
         "title": "Dungeons Of Eternity's Tomb Extraction Update Is A Rune-aissance For An Aging Game",
@@ -43,12 +43,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/vlcsnap-2026-09-29-10h39m38s788.png"
       },
       {
-        "title": "Meta VR Glasses, Quest 3 & Steam Frame Compared – Specs & Features",
-        "url": "https://roadtovr.com/meta-vr-glasses-quest-3-steam-frame-compared-specs/",
-        "summary": "It’s another big moment in VR hardware, but which headset should you consider buying?",
+        "title": "Meta Plans VR Glasses Strap Accessory for Active VR Gaming",
+        "url": "https://roadtovr.com/meta-vr-glasses-strap-accessory-active-vr-gaming/",
+        "summary": "Meta VR Glasses can play all of the same games you might on Quest, whether it be through integrated hand-tracking or by pairing optional Touch Plus controllers.",
         "source": "roadtovr.com",
-        "date": "Tue, 29 Sep 2026 11:54:02 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/frame-quest-vr-glasses.png?resize=1537%2C1023&quality=80&ssl=1"
+        "date": "Tue, 29 Sep 2026 16:02:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/meta-vr-glasses-1-edited.jpg?resize=1123%2C748&quality=89&ssl=1"
       }
     ],
     "AI": [
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Giants don't plan to add Odell Beckham Jr. to the practice squad \"at this time\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-dont-plan-to-add-odell-beckham-jr-to-the-practice-squad-at-this-time",
+        "summary": "The full scope of the moves the Giants made on Tuesday made their point clear.",
+        "source": "nbcsports.com",
+        "date": "Wed, 30 Sep 2026 00:02:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7cdfee9/2147483647/strip/false/crop/4000x2250+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2Fc0%2Ffa9998e84b93958ef515b6f8c6d1%2F2294758536.jpg"
+      },
+      {
+        "title": "In the offseason, Giants weren't interested in Joe Flacco",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-the-offseason-giants-werent-interested-in-joe-flacco",
+        "summary": "Quarterback Joe Flacco became a free agent in March.",
+        "source": "nbcsports.com",
+        "date": "Tue, 29 Sep 2026 22:37:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f88c440/2147483647/strip/false/crop/5433x3056+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F37%2F4e8025e14bd9b98b6d246d341a40%2F2248798063.jpg"
+      },
+      {
         "title": "Cowboys agree to terms with DBs Juanyeh Thomas, Alex Austin",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-agree-to-terms-with-dbs-juanyeh-thomas-alex-austin",
         "summary": "The Cowboys have been hit hard by injuries in their secondary, which is why they had four defensive backs in town to workout.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 29 Sep 2026 20:15:52 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2c5498a/2147483647/strip/false/crop/4456x2507+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F94%2F6a%2F12f6206a4342a472916039cd37c4%2F2297767970.jpg"
-      },
-      {
-        "title": "Jalen Ramsey says he has a broken wrist",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-ramsey-says-he-has-a-broken-wrist",
-        "summary": "In advance of Thursday night's game at Cleveland, Steelers defensive back Jalen Ramsey was listed as limited in practice on Monday and Tuesday, with a wrist injury.",
-        "source": "nbcsports.com",
-        "date": "Tue, 29 Sep 2026 20:01:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3441be7/2147483647/strip/false/crop/5451x3066+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F0f%2F6c97072c4c94ad20f99a30be7eb3%2F2297419002.jpg"
-      },
-      {
-        "title": "Report: 49ers to sign Dante Pettis to the practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-49ers-to-sign-dante-pettis-to-the-practice-squad",
-        "summary": "The 49ers are signing wide receiver Dante Pettis to their practice squad, according to Jordan Schultz of The Schultz Report.",
-        "source": "nbcsports.com",
-        "date": "Tue, 29 Sep 2026 19:32:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/887bb79/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2F2f%2F2e28dc964e8887ad46e0b79c821e%2F2248867991.jpg"
       }
     ]
   }
