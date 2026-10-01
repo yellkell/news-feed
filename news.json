@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-01T16:25:59.001Z",
+  "updated": "2026-10-01T21:10:23.960Z",
   "feed": {
     "VR": [
       {
-        "title": "An executive order tells federal agencies to say Super Intelligence instead of AI",
-        "url": "https://mixed-news.com/en/executive-order-super-intelligence-replaces-artificial-intelligence/",
-        "summary": "An executive order signed on September 29 directs the US executive branch to use the terms \"Super Intelligence\" and \"SI\" in place of \"Artificial Intelligence\" and \"AI\".",
+        "title": "VR Realms launched free on Steam on September 25 and posted three update notes in five days",
+        "url": "https://mixed-news.com/en/vr-realms-steam-launch-three-updates-spatial-voice-mirrors/",
+        "summary": "VR Realms, a free social platform for VR and desktop, arrived on Steam on September 25 and its developer has posted three sets of update notes in the five days since.",
         "source": "mixed-news.com",
-        "date": "Thu, 01 Oct 2026 16:21:58 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2022/02/Artificial-Intelligence-unsplash.jpg"
+        "date": "Thu, 01 Oct 2026 21:01:32 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/header-1.jpg"
       },
       {
         "title": "The World Of Red Bull's Big Wave Surfing Makes Apple Immersive's 180° Frame Feel Limitless",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Meta says covering the capture LED disables its AI glasses' camera",
-        "url": "https://mixed-news.com/en/meta-capture-led-covered-disables-camera-dutch-sticker-ban/",
-        "summary": "Meta says its AI glasses shut their own camera down if the recording light is covered.",
+        "title": "Gemini's Live Avatar switches between 97 languages, but only on Gemini Enterprise",
+        "url": "https://mixed-news.com/en/gemini-3-8-live-avatar-97-languages-gemini-enterprise/",
+        "summary": "Google has given Gemini a talking face that moves between 97 languages in the middle of a conversation, and it runs in Gemini Enterprise and nowhere else.",
         "source": "mixed-news.com",
-        "date": "Thu, 01 Oct 2026 15:34:53 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/03_Ray-Ban-Meta-Gen3_Carousel_03.jpg"
+        "date": "Thu, 01 Oct 2026 20:14:49 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Slide_16_9_-_37.width-1300.png"
       },
       {
         "title": "A New Walk-In Attraction Brings The House Of The Dead To VR",
@@ -52,6 +52,22 @@
       }
     ],
     "AI": [
+      {
+        "title": "Memory executives expect RAM shortage to continue through 2028",
+        "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+        "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+        "source": "arstechnica.com",
+        "date": "Thu, 01 Oct 2026 17:49:56 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg"
+      },
+      {
+        "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+        "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+        "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web…",
+        "source": "theverge.com",
+        "date": "2026-10-01T13:12:21-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
       {
         "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Wed, 30 Sep 2026 11:15:14 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg"
-      },
-      {
-        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-        "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a…",
-        "source": "theverge.com",
-        "date": "2026-09-30T20:23:45-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-30-at-5.16.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-        "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-        "summary": "Ads appearing all over the Internet are trying to scam people.",
-        "source": "arstechnica.com",
-        "date": "Fri, 25 Sep 2026 19:38:59 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Vikings KR Myles Price named the NFC special teams player of the month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-kr-myles-price-named-the-nfc-special-teams-player-of-the-month",
-        "summary": "Myles Price was named the NFC's special teams player of the week on Wednesday and Thursday brought another award for the Vikings wideout.",
+        "title": "Bucs get Chris Godwin, Yaya Diaby back at practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-get-chris-godwin-yaya-diaby-back-at-practice",
+        "summary": "Buccaneers wide receiver Chris Godwin returned to practice on Thursday.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 12:16:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8239daa/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F2b%2F8fb26bfe4f6ba03e07f4448ba38a%2F2296910383.jpg"
+        "date": "Thu, 01 Oct 2026 16:57:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ececb4/2147483647/strip/false/crop/6196x3485+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2Fd3%2Fd34dd9634227a09c2d36b664f145%2F2296835864.jpg"
       },
       {
-        "title": "Evan McPherson named AFC special teams player of the month for September",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/evan-mcpherson-named-afc-special-teams-player-of-the-month-for-september",
-        "summary": "Evan McPherson has been a critical piece for Cincinnati’s success through the season’s first three weeks and the league has now recognized him for it.",
+        "title": "Keon Coleman returns to practice as limited participant on Thursday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keon-coleman-returns-to-practice-as-limited-participant-on-thursday",
+        "summary": "The Bills got one of their key offensive players back on the field on Thursday.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 12:16:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/32220cf/2147483647/strip/false/crop/6118x3441+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2F46%2Fc6f3e7484d6eb1650b2b674cb07a%2F2297553795.jpg"
+        "date": "Thu, 01 Oct 2026 16:51:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bca22e9/2147483647/strip/false/crop/7577x4262+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2Fdb%2F7ccd27364108a0e800aa03476ea3%2F2296082379.jpg"
       },
       {
-        "title": "Greg Rousseau named AFC defensive player of the month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/greg-rousseau-named-afc-defensive-player-of-the-month",
-        "summary": "Greg Rousseau has put together an impressive start to the 2026 season and the league has taken notice.",
+        "title": "Christian Gonzalez, Christian Barmore remain out of practice for Patriots",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-christian-barmore-remain-out-of-practice-for-patriots",
+        "summary": "Patriots cornerback Christian Gonzalez missed his second practice of the week on Thursday.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 12:11:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6336e96/2147483647/strip/false/crop/5155x2900+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2F20%2Feab4f02342e5b9f2d50b07ea2d4d%2F2295234799.jpg"
+        "date": "Thu, 01 Oct 2026 16:49:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5971b2c/2147483647/strip/false/crop/4880x2745+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2F9a%2F530a499b47a19eb372253f9406e0%2F2297221821.jpg"
       },
       {
-        "title": "Giants S Jevon Holland named the NFC defensive player of the month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-s-jevon-holland-named-the-nfc-defensive-player-of-the-month",
-        "summary": "The Giants wrapped up a 12-7 win over the Titans last Sunday when safety Jevon Holland intercepted a pass in the end zone and the play also wrapped up a stellar month for Holland.",
+        "title": "49ers sign WR Brandin Cooks to active roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-wr-brandin-cooks-to-active-roster",
+        "summary": "The 49ers signed wide receiver Brandin Cooks to the active roster from the practice squad, the team announced Thursday.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 12:10:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0acc89/2147483647/strip/false/crop/4055x2281+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fb3%2Fc575427941c59165729bd75b673a%2F2297619355.jpg"
+        "date": "Thu, 01 Oct 2026 16:46:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/99d6379/2147483647/strip/false/crop/4298x2418+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F4f%2F58ea075f41e1add14a9c392cb7bc%2F2257214684.jpg"
       },
       {
-        "title": "Kenneth Walker named AFC offensive player of the month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-named-afc-offensive-player-of-the-month",
-        "summary": "The Chiefs have started the season 3-0 and the reigning Super Bowl MVP is a big reason why.",
+        "title": "Saints put Travis Etienne on injured reserve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-put-travis-etienne-on-injured-reserve",
+        "summary": "Saints head coach Kellen Moore said earlier this week that running back Travis Etienne would miss time with a hamstring injury and Moore revealed just how much time on Thursday.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 12:06:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d555fc/2147483647/strip/false/crop/5459x3071+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2Fd9%2F0d92ad0342d59630a9041213c002%2F2296826017.jpg"
+        "date": "Thu, 01 Oct 2026 16:41:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0033106/2147483647/strip/false/crop/7132x4012+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2Ff8%2F2996db024413bb61a498d0ebbb3b%2F2297820654.jpg"
       },
       {
-        "title": "Brock Purdy is the NFC offensive player of the month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-is-the-nfc-offensive-player-of-the-month",
-        "summary": "The 49ers have dealt with a slew of injuries over the first month of the season, but quarterback Brock Purdy has stayed healthy and he's a big reason why the team is 3-0.",
+        "title": "Lamar Jackson, Zay Flowers upgraded to full participants on Thursday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-zay-flowers-upgraded-to-full-participants-on-thursday",
+        "summary": "There is some positive news on the injury front for the Ravens.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 12:05:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6a487e9/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fdc%2F74d0b32641739dc4a66baf800455%2F2297652108.jpg"
+        "date": "Thu, 01 Oct 2026 16:35:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f41723/2147483647/strip/false/crop/7382x4152+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2Fe7%2F1097bca241148fd48b46640180d8%2F2296408525.jpg"
       }
     ]
   }
