@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-01T09:11:46.961Z",
+  "updated": "2026-10-01T16:25:59.001Z",
   "feed": {
     "VR": [
+      {
+        "title": "An executive order tells federal agencies to say Super Intelligence instead of AI",
+        "url": "https://mixed-news.com/en/executive-order-super-intelligence-replaces-artificial-intelligence/",
+        "summary": "An executive order signed on September 29 directs the US executive branch to use the terms \"Super Intelligence\" and \"SI\" in place of \"Artificial Intelligence\" and \"AI\".",
+        "source": "mixed-news.com",
+        "date": "Thu, 01 Oct 2026 16:21:58 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2022/02/Artificial-Intelligence-unsplash.jpg"
+      },
+      {
+        "title": "The World Of Red Bull's Big Wave Surfing Makes Apple Immersive's 180° Frame Feel Limitless",
+        "url": "https://www.uploadvr.com/the-world-of-red-bulls-big-wave-surfing-makes-apple-immersives-180deg-frame-feel-limitless/",
+        "summary": "The World of Red Bull: Big Wave Surfing brings the heaviest waves in Tahiti to Apple Vision Pro. This 180-degree video sets a new gold standard for sports storytelling.",
+        "source": "uploadvr.com",
+        "date": "Thu, 01 Oct 2026 09:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/_BT51138.JPG"
+      },
       {
         "title": "Samsung FCC Approval Signals Gentle Monster & Warby Parker Smart Glasses Nearing Release",
         "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
@@ -11,36 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Gemini's Gems go away from November, and skills cannot use Canvas or Deep Research yet",
-        "url": "https://mixed-news.com/en/gemini-gems-removed-november-skills-canvas-deep-research/",
-        "summary": "Google is removing Gems from the Gemini app, and it has put three dates on it: November 2026 for personal Google accounts, March 2027 for Workspace business, enterprise and…",
+        "title": "Meta says covering the capture LED disables its AI glasses' camera",
+        "url": "https://mixed-news.com/en/meta-capture-led-covered-disables-camera-dutch-sticker-ban/",
+        "summary": "Meta says its AI glasses shut their own camera down if the recording light is covered.",
         "source": "mixed-news.com",
-        "date": "Thu, 01 Oct 2026 08:34:48 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Skills_thumbnail.width-1300.png"
+        "date": "Thu, 01 Oct 2026 15:34:53 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/03_Ray-Ban-Meta-Gen3_Carousel_03.jpg"
       },
       {
-        "title": "New VR Games & Releases October 2026: Quest, PC VR, PS VR2 & More",
-        "url": "https://www.uploadvr.com/new-vr-games-releases-october-2026-quest-pc-vr-ps-vr2-more/",
-        "summary": "Wondering what VR games are releasing in October that you can look forward to? Read our full roundup here.",
+        "title": "A New Walk-In Attraction Brings The House Of The Dead To VR",
+        "url": "https://www.uploadvr.com/a-new-walk-in-attraction-brings-the-house-of-the-dead-to-vr/",
+        "summary": "Sega has released a teaser video revealing a new, large-scale VR arcade attraction in its long-running The House of the Dead series.",
         "source": "uploadvr.com",
-        "date": "Wed, 30 Sep 2026 13:11:25 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/uvr-new-Games-october-2026.png"
-      },
-      {
-        "title": "Minecraft Dungeons II does not run on Linux, and Mojang says its team is working on it",
-        "url": "https://mixed-news.com/en/minecraft-dungeons-2-linux-steamos-gaming-services-mojang-reply/",
-        "summary": "Minecraft Dungeons II arrived on Steam on September 29 at $29.99 in the US, and it does not start on Linux or SteamOS.",
-        "source": "mixed-news.com",
-        "date": "Thu, 01 Oct 2026 07:47:55 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/header.jpg"
-      },
-      {
-        "title": "New Trailer Reveals Hedge-Trimming & Pie-Eating Gameplay In Evangelion: Δ Cross Reflections",
-        "url": "https://www.uploadvr.com/new-trailer-reveals-hedge-trimming-pie-eating-gameplay-in-evangelion-d-cross-reflections/",
-        "summary": "We got our first glimpse of hedge-trimming and pie-eating in a new trailer for Evangelion: Δ Cross Reflections.",
-        "source": "uploadvr.com",
-        "date": "Wed, 30 Sep 2026 10:31:20 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/evangelion-hedge-trimming.png"
+        "date": "Thu, 01 Oct 2026 05:10:22 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/the-house-of-the-dead-reawakened-VR-game.jpg"
       },
       {
         "title": "‘Walkabout Mini Golf’ Studio Announces Another Round of Layoffs Following DLC Price Hike",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-        "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a…",
+        "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+        "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success.",
         "source": "theverge.com",
-        "date": "2026-09-30T20:23:45-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-30-at-5.16.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-01T10:36:50-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
-        "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-        "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon.",
+        "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+        "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+        "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.",
         "source": "theverge.com",
-        "date": "2026-09-30T16:41:41-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-01T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Cloudflare plans to issue quantum-safe TLS certificates",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg"
       },
       {
-        "title": "The AI Tamagotchis are coming",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-        "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices.",
+        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+        "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a…",
         "source": "theverge.com",
-        "date": "2026-09-30T14:07:38-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-09-30T20:23:45-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-30-at-5.16.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Cowboys send Steelers 2027 sixth-round pick and 2028 second-round pick for Joey Porter Jr.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-send-steelers-2027-sixth-round-pick-and-2028-second-round-pick-for-joey-porter-jr",
-        "summary": "One of the NFL's best young cornerbacks is heading to Dallas, and Pittsburgh is getting two picks.",
+        "title": "Vikings KR Myles Price named the NFC special teams player of the month",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-kr-myles-price-named-the-nfc-special-teams-player-of-the-month",
+        "summary": "Myles Price was named the NFC's special teams player of the week on Wednesday and Thursday brought another award for the Vikings wideout.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 04:52:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/be4d678/2147483647/strip/false/crop/7534x4238+0+392/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2F0e%2Fba0796414e6681e6b36705ca1604%2F2026-09-27t170244z-1927669538-mt1usatoday29931319-rtrmadp-3-nfl-cincinnati-bengals-at-pittsburgh-steelers.jpg"
+        "date": "Thu, 01 Oct 2026 12:16:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8239daa/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F2b%2F8fb26bfe4f6ba03e07f4448ba38a%2F2296910383.jpg"
       },
       {
-        "title": "Steelers trade Joey Porter Jr. to the Cowboys",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-trade-joey-porter-jr-to-the-cowboys",
-        "summary": "Contract impasse ends with Porter being sent to a new team.",
+        "title": "Evan McPherson named AFC special teams player of the month for September",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/evan-mcpherson-named-afc-special-teams-player-of-the-month-for-september",
+        "summary": "Evan McPherson has been a critical piece for Cincinnati’s success through the season’s first three weeks and the league has now recognized him for it.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 23:54:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/294afe1/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2F4c%2F24570c2042699adfdbd16cf5c629%2F2178455820.jpg"
+        "date": "Thu, 01 Oct 2026 12:16:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/32220cf/2147483647/strip/false/crop/6118x3441+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2F46%2Fc6f3e7484d6eb1650b2b674cb07a%2F2297553795.jpg"
       },
       {
-        "title": "3-0 Vikings are a game away from a dubious record",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/3-0-vikings-are-a-game-away-from-a-dubious-record",
-        "summary": "The Vikings have scratched and clawed their way to a 3-0 record.",
+        "title": "Greg Rousseau named AFC defensive player of the month",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/greg-rousseau-named-afc-defensive-player-of-the-month",
+        "summary": "Greg Rousseau has put together an impressive start to the 2026 season and the league has taken notice.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 22:53:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ef0756d/2147483647/strip/false/crop/3500x1969+0+182/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2Fd9%2Ff2d3ee5949f68bd3a5e80150132a%2F2297602633.jpg"
+        "date": "Thu, 01 Oct 2026 12:11:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6336e96/2147483647/strip/false/crop/5155x2900+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2F20%2Feab4f02342e5b9f2d50b07ea2d4d%2F2295234799.jpg"
       },
       {
-        "title": "Five Rams missed practice on Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/five-rams-missed-practice-on-wednesday",
-        "summary": "The Rams are banged up in advance of Sunday's key game at the Eagles.",
+        "title": "Giants S Jevon Holland named the NFC defensive player of the month",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-s-jevon-holland-named-the-nfc-defensive-player-of-the-month",
+        "summary": "The Giants wrapped up a 12-7 win over the Titans last Sunday when safety Jevon Holland intercepted a pass in the end zone and the play also wrapped up a stellar month for Holland.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 21:38:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/262015e/2147483647/strip/false/crop/5820x3274+0+606/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2Fa3%2Fe2878ced403a947ae92269efc3bd%2F2290940463.jpg"
+        "date": "Thu, 01 Oct 2026 12:10:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0acc89/2147483647/strip/false/crop/4055x2281+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fb3%2Fc575427941c59165729bd75b673a%2F2297619355.jpg"
       },
       {
-        "title": "Kirk Cousins has seven consecutive victories as a starter",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-has-seven-consecutive-victories-as-a-starter",
-        "summary": "Kirk Cousins is still a bridge quarterback for the Raiders, holding down the starting job until No. 1 overall pick Fernando Mendoza is ready.",
+        "title": "Kenneth Walker named AFC offensive player of the month",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-named-afc-offensive-player-of-the-month",
+        "summary": "The Chiefs have started the season 3-0 and the reigning Super Bowl MVP is a big reason why.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 21:21:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ba0ee55/2147483647/strip/false/crop/5467x3075+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2F0b%2F8730a0e740cc8b6420ae2fc491e7%2F2297820483.jpg"
+        "date": "Thu, 01 Oct 2026 12:06:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d555fc/2147483647/strip/false/crop/5459x3071+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2Fd9%2F0d92ad0342d59630a9041213c002%2F2296826017.jpg"
       },
       {
-        "title": "Jalen Carter has a hairline fracture in his wrist",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-carter-has-a-hairline-fracture-in-his-wrist",
-        "summary": "Officially, Eagles defensive tackle Jalen Carter fully participated in practice with a wrist injury.",
+        "title": "Brock Purdy is the NFC offensive player of the month",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-is-the-nfc-offensive-player-of-the-month",
+        "summary": "The 49ers have dealt with a slew of injuries over the first month of the season, but quarterback Brock Purdy has stayed healthy and he's a big reason why the team is 3-0.",
         "source": "nbcsports.com",
-        "date": "Wed, 30 Sep 2026 21:14:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b3a1b65/2147483647/strip/false/crop/7823x4400+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F64%2F80137bce4136ace37bbf6534b905%2F2295347131.jpg"
+        "date": "Thu, 01 Oct 2026 12:05:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6a487e9/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fdc%2F74d0b32641739dc4a66baf800455%2F2297652108.jpg"
       }
     ]
   }
