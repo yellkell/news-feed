@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-01T21:10:23.960Z",
+  "updated": "2026-10-02T00:45:11.293Z",
   "feed": {
     "VR": [
       {
-        "title": "VR Realms launched free on Steam on September 25 and posted three update notes in five days",
-        "url": "https://mixed-news.com/en/vr-realms-steam-launch-three-updates-spatial-voice-mirrors/",
-        "summary": "VR Realms, a free social platform for VR and desktop, arrived on Steam on September 25 and its developer has posted three sets of update notes in the five days since.",
+        "title": "An unannounced Xreal folding keyboard cleared the FCC, and its exhibits name Aura",
+        "url": "https://mixed-news.com/en/xreal-fcc-grant-folding-keyboard-aura-exhibits/",
+        "summary": "Xreal has an FCC grant for a Bluetooth keyboard it has not announced.",
         "source": "mixed-news.com",
-        "date": "Thu, 01 Oct 2026 21:01:32 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/header-1.jpg"
+        "date": "Fri, 02 Oct 2026 00:12:41 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/aura-91g-glasses-style-ar-eyewear.webp"
       },
       {
         "title": "The World Of Red Bull's Big Wave Surfing Makes Apple Immersive's 180° Frame Feel Limitless",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Gemini's Live Avatar switches between 97 languages, but only on Gemini Enterprise",
-        "url": "https://mixed-news.com/en/gemini-3-8-live-avatar-97-languages-gemini-enterprise/",
-        "summary": "Google has given Gemini a talking face that moves between 97 languages in the middle of a conversation, and it runs in Gemini Enterprise and nowhere else.",
+        "title": "Gemini 4 Argon ranks fifth of 73 on the legal benchmark Google cites as leading",
+        "url": "https://mixed-news.com/en/gemini-4-argon-harveys-legal-agent-benchmark-fifth-of-73/",
+        "summary": "Google says Gemini 4 Argon shows “similarly leading performance” on Harvey’s Legal Agent Benchmark, one of two outside evaluations it names in its Gemini 4 Argon announcement of…",
         "source": "mixed-news.com",
-        "date": "Thu, 01 Oct 2026 20:14:49 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Slide_16_9_-_37.width-1300.png"
+        "date": "Thu, 01 Oct 2026 23:25:41 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/hlab.png"
       },
       {
         "title": "A New Walk-In Attraction Brings The House Of The Dead To VR",
@@ -52,6 +52,22 @@
       }
     ],
     "AI": [
+      {
+        "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+        "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+        "summary": "It has been a bad month for federal government cybersecurity.",
+        "source": "arstechnica.com",
+        "date": "Thu, 01 Oct 2026 20:28:45 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
+      },
+      {
+        "title": "Google’s new Guided Vision feature can help you read the fine print",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+        "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at.",
+        "source": "theverge.com",
+        "date": "2026-10-01T15:47:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
       {
         "title": "Memory executives expect RAM shortage to continue through 2028",
         "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Wed, 30 Sep 2026 20:44:48 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
-      },
-      {
-        "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-        "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-        "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.",
-        "source": "theverge.com",
-        "date": "2026-10-01T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-        "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-        "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-        "source": "arstechnica.com",
-        "date": "Wed, 30 Sep 2026 11:15:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Bucs get Chris Godwin, Yaya Diaby back at practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-get-chris-godwin-yaya-diaby-back-at-practice",
-        "summary": "Buccaneers wide receiver Chris Godwin returned to practice on Thursday.",
+        "title": "RB Jadarian Price did not practice; RB Zach Charbonnet limited in his return",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-jadarian-price-did-not-practice-rb-zach-charbonnet-limited-in-his-return",
+        "summary": "Seahawks running back Jadarian Price was downgraded to out of practice Thursday, missing the session with a chest injury.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 16:57:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ececb4/2147483647/strip/false/crop/6196x3485+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2Fd3%2Fd34dd9634227a09c2d36b664f145%2F2296835864.jpg"
+        "date": "Thu, 01 Oct 2026 20:22:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2cadfe1/2147483647/strip/false/crop/5681x3196+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2F97%2Fb8dff07b43378ab1d6e78d987f20%2F2296924725.jpg"
       },
       {
-        "title": "Keon Coleman returns to practice as limited participant on Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keon-coleman-returns-to-practice-as-limited-participant-on-thursday",
-        "summary": "The Bills got one of their key offensive players back on the field on Thursday.",
+        "title": "Aaron Donald remains out of practice; Puka Nacua still limited",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-remains-out-of-practice-puka-nacua-still-limited",
+        "summary": "The Rams' injury report remained the same as on Wednesday aside from wide receiver Davante Adams returning from a rest day and nose tackle Poona Ford taking a rest day.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 16:51:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bca22e9/2147483647/strip/false/crop/7577x4262+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2Fdb%2F7ccd27364108a0e800aa03476ea3%2F2296082379.jpg"
+        "date": "Thu, 01 Oct 2026 19:09:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9f0eae3/2147483647/strip/false/crop/5775x3248+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F15%2Ff92bb2814390b964758ee5af4521%2F2297596777.jpg"
       },
       {
-        "title": "Christian Gonzalez, Christian Barmore remain out of practice for Patriots",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-christian-barmore-remain-out-of-practice-for-patriots",
-        "summary": "Patriots cornerback Christian Gonzalez missed his second practice of the week on Thursday.",
+        "title": "Thursday Night Football: Steelers CB Jalen Ramsey is active vs. Browns",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-steelers-cb-jalen-ramsey-is-active-vs-browns",
+        "summary": "Steelers cornerback Jalen Ramsey is active for Thursday Night Football.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 16:49:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5971b2c/2147483647/strip/false/crop/4880x2745+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2F9a%2F530a499b47a19eb372253f9406e0%2F2297221821.jpg"
+        "date": "Thu, 01 Oct 2026 18:59:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ac5afb0/2147483647/strip/false/crop/7327x4121+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2Fe7%2F95dae64846088fb24edf5a310d5f%2F2297515030.jpg"
       },
       {
-        "title": "49ers sign WR Brandin Cooks to active roster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-wr-brandin-cooks-to-active-roster",
-        "summary": "The 49ers signed wide receiver Brandin Cooks to the active roster from the practice squad, the team announced Thursday.",
+        "title": "49ers LT Trent Williams returns to limited participation Thursday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-lt-trent-williams-returns-to-limited-participation-thursday",
+        "summary": "49ers left tackle Trent Williams returned to practice Thursday.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 16:46:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/99d6379/2147483647/strip/false/crop/4298x2418+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F4f%2F58ea075f41e1add14a9c392cb7bc%2F2257214684.jpg"
+        "date": "Thu, 01 Oct 2026 18:48:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cc445fe/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2Fe9%2Ffac683d2401fb558c0ad583a7d89%2F2295814506.jpg"
       },
       {
-        "title": "Saints put Travis Etienne on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-put-travis-etienne-on-injured-reserve",
-        "summary": "Saints head coach Kellen Moore said earlier this week that running back Travis Etienne would miss time with a hamstring injury and Moore revealed just how much time on Thursday.",
+        "title": "WR DeVonta Smith, LB Zack Baun remain out of practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-devonta-smith-lb-zack-baun-remain-out-of-practice",
+        "summary": "Eagles linebacker Zack Baun (concussion) and wide receiver DeVonta Smith (hamstring) remained out of Thursday's practice.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 16:41:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0033106/2147483647/strip/false/crop/7132x4012+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2Ff8%2F2996db024413bb61a498d0ebbb3b%2F2297820654.jpg"
+        "date": "Thu, 01 Oct 2026 18:26:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f8b2e0e/2147483647/strip/false/crop/7969x4483+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2F04%2Fbedbbc5142e5a042db1a2357bb22%2F2298112416.jpg"
       },
       {
-        "title": "Lamar Jackson, Zay Flowers upgraded to full participants on Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-zay-flowers-upgraded-to-full-participants-on-thursday",
-        "summary": "There is some positive news on the injury front for the Ravens.",
+        "title": "Joey Porter Jr.'s back is \"feeling better,\" and he hopes to play Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-s-back-is-feeling-better-and-he-hopes-to-play-sunday",
+        "summary": "The Steelers had ruled out the cornerback for Thursday Night Football.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 16:35:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f41723/2147483647/strip/false/crop/7382x4152+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2Fe7%2F1097bca241148fd48b46640180d8%2F2296408525.jpg"
+        "date": "Thu, 01 Oct 2026 18:11:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab2cb31/2147483647/strip/false/crop/3210x1806+0+676/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F94%2F5d%2Fa512cd8742f18a92aac47a242a92%2F2026-09-27t170322z-655033331-mt1usatoday29931312-rtrmadp-3-nfl-cincinnati-bengals-at-pittsburgh-steelers.jpg"
       }
     ]
   }
