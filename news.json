@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-02T06:30:02.456Z",
+  "updated": "2026-10-02T13:02:54.584Z",
   "feed": {
     "VR": [
       {
-        "title": "Anthropic says robots can do 74% of US physical work, but are cheaper than people for 0.3%",
-        "url": "https://mixed-news.com/en/anthropic-robots-74-percent-us-physical-work-cost-competitive-0-3-percent/",
-        "summary": "A new Anthropic paper says robots can already perform 74% of physical job tasks in the US, work that accounts for 34% of all human working hours.",
+        "title": "Google DeepMind watermarks AI-designed proteins, and the first binders still bind",
+        "url": "https://mixed-news.com/en/synthid-bio-watermarked-ai-designed-proteins-binders-still-bind/",
+        "summary": "Google DeepMind has taken its SynthID watermark into biology, and says the first watermarked protein binders still bind.",
         "source": "mixed-news.com",
-        "date": "Fri, 02 Oct 2026 05:41:40 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/soccer-green-poster.jpg"
+        "date": "Fri, 02 Oct 2026 12:44:58 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/BioSynthID_socialshare.max-1440x810-1.png"
+      },
+      {
+        "title": "‘Neon Genesis Evangelion’ VR Hands-on: Hand-Tracked Combat That Actually Works",
+        "url": "https://roadtovr.com/neon-genesis-evangelion-vr-hands-on-2026/",
+        "summary": "EVANGELION: Δ CROSS REFLECTIONS is the upcoming XR game based on the hit ’90s anime Neon Genesis Evangelion (1995).",
+        "source": "roadtovr.com",
+        "date": "Fri, 02 Oct 2026 10:18:26 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/evnagelion-cross-reflection.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "The World Of Red Bull's Big Wave Surfing Makes Apple Immersive's 180° Frame Feel Limitless",
@@ -19,20 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/_BT51138.JPG"
       },
       {
-        "title": "Samsung FCC Approval Signals Gentle Monster & Warby Parker Smart Glasses Nearing Release",
-        "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
-        "summary": "Samsung’s long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner.",
-        "source": "roadtovr.com",
-        "date": "Thu, 01 Oct 2026 09:00:17 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Valve's own guide says Steam Frame adapter streaming is Windows only for now",
-        "url": "https://mixed-news.com/en/valve-guide-steam-frame-adapter-streaming-windows-only/",
-        "summary": "Valve's Steam Frame support guide says that \"Full support for SteamVR and Steam Frame streaming via the wireless adapter are currently available on Windows only\".",
+        "title": "Micron's mobile and client memory margin went from 36% to 90% in a year",
+        "url": "https://mixed-news.com/en/micron-fq4-2026-memory-margin-revenue-customer-prepayments/",
+        "summary": "Micron's Mobile and Client unit, the memory and storage that goes into phones and laptops, turned a 90% gross margin in its fiscal fourth quarter against 36% in the same quarter a…",
         "source": "mixed-news.com",
-        "date": "Fri, 02 Oct 2026 04:54:24 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-16.jpg"
+        "date": "Fri, 02 Oct 2026 11:57:51 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2022/06/Nvidia-Datacenter-1.jpg"
       },
       {
         "title": "A New Walk-In Attraction Brings The House Of The Dead To VR",
@@ -43,15 +43,23 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/the-house-of-the-dead-reawakened-VR-game.jpg"
       },
       {
-        "title": "‘Walkabout Mini Golf’ Studio Announces Another Round of Layoffs Following DLC Price Hike",
-        "url": "https://roadtovr.com/walkabout-mini-golf-studio-announces-another-round-of-lay-offs-following-dlc-price-hike/",
-        "summary": "Mighty Coconut, indie studio behind hit VR game Walkabout Mini Golf (2020), announced another round of layoffs affecting ~35% of staff.",
+        "title": "Samsung FCC Approval Signals Gentle Monster & Warby Parker Smart Glasses Nearing Release",
+        "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
+        "summary": "Samsung’s long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner.",
         "source": "roadtovr.com",
-        "date": "Wed, 30 Sep 2026 07:56:40 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/walkabout-mini-golf-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Thu, 01 Oct 2026 09:00:17 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
+      {
+        "title": "AI music maker Suno now generates spoken words",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+        "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions.",
+        "source": "theverge.com",
+        "date": "2026-10-02T05:42:19-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
       {
         "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
         "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
@@ -85,14 +93,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-        "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success.",
-        "source": "theverge.com",
-        "date": "2026-10-01T10:36:50-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
         "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
         "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Mike McCarthy on exchange with Aaron Rodgers: \"I wish I wouldn't use those words\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-on-exchange-with-aaron-rodgers-i-wish-i-wouldnt-use-those-words",
-        "summary": "In the first quarter of Thursday night's game between the Steelers and the Browns, Pittsburgh quarterback Aaron Rodgers became upset.",
+        "title": "Mason Graham left Thursday's game on crutches and wearing a knee brace",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-graham-left-thursdays-game-on-crutches-and-wearing-a-knee-brace",
+        "summary": "One of the only negative developments for the Browns on Thursday night was the left knee injury that knocked defensive tackle Mason Graham out of the game.",
         "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 00:23:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6baf833/2147483647/strip/false/crop/5325x2995+0+347/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2F36%2Fe18112ac41c7b03d1d251750359f%2F2298148709.jpg"
+        "date": "Fri, 02 Oct 2026 07:59:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8f38c4c/2147483647/strip/false/crop/4201x2363+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fcb%2Fbf01b45d42aeb8fa76019e05656a%2F2295469857.jpg"
       },
       {
-        "title": "Thursday Night Football: Deshaun Watson leads Browns to 27-24 win over Steelers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-deshaun-watson-leads-browns-to-27-24-win-over-steelers",
-        "summary": "Watson drove the Browns 36 yards in seven plays to set up Andre Szmyt's 56-yard field goal with 10 seconds left.",
+        "title": "Darren Rizzi: Special teams coaches want NFL to change rule for holders on kickoffs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darren-rizzi-special-teams-coaches-want-nfl-to-change-rule-for-holders-on-kickoffs",
+        "summary": "Broncos special teams coach Darren Rizzi says his colleagues around the league almost all agree that holders should be allowed on kickoffs only if the wind is blowing the ball off…",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 23:54:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7047a1/2147483647/strip/false/crop/4097x2305+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdb%2F64%2F880f85c542bc86a071e163c91e30%2F2297603804.jpg"
+        "date": "Fri, 02 Oct 2026 07:31:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b12341/2147483647/strip/false/crop/5295x2978+0+277/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2F3a%2F340577b54e538982b3107aa34d16%2F2292899530.jpg"
       },
       {
-        "title": "Aaron Rodgers' second TD draws Steelers to within 21-16",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-second-td-draws-steelers-to-within-21-16",
-        "summary": "The Steelers had minus-6 yards passing in the third quarter as the Browns had two sacks of Aaron Rodgers.",
+        "title": "Deshaun Watson: Momentum shifts are part of the NFL, you have to ride the waves",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-momentum-shifts-are-part-of-the-nfl-you-have-to-ride-the-waves",
+        "summary": "When Thursday night's game got to halftime, it looked like the Browns might roll over the Steelers for an easy win.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 23:05:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d3c244b/2147483647/strip/false/crop/7427x4178+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2Ff4%2F8027a16347c0a136a3833d92ee05%2F2298152942.jpg"
+        "date": "Fri, 02 Oct 2026 06:57:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f26cd0/2147483647/strip/false/crop/4491x2526+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2Fc9%2F5dfb9baf4ae69efd6e162fc84b92%2F2297609656.jpg"
       },
       {
-        "title": "Nick Saban says he was offered Giants job in 1997",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-saban-says-he-was-offered-giants-job-in-1997",
-        "summary": "Nick Saban's two-year stint as an NFL head coach began in 2005.",
+        "title": "Todd Monken: Week 1 was tough, our guys trusted the process",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-week-1-was-tough-our-guys-trusted-the-process",
+        "summary": "The Browns moved to 3-1 when Steelers quarterback Aaron Rodgers's final, desperate heave was picked off by safety Grant Delpit on Thursday night and head coach Todd Monken…",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 22:55:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4ba476a/2147483647/strip/false/crop/4998x2811+0+260/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2F36%2Ff4a39a6a4a55ac4dc0a1724392ec%2F2297413001.jpg"
+        "date": "Fri, 02 Oct 2026 06:39:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/080705f/2147483647/strip/false/crop/5367x3019+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F93%2F91c78f7d4192b6f6b9f51c9ab407%2F2298155636.jpg"
       },
       {
-        "title": "Puka Nacua is \"taking it one day at a time\" in his return from hip injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-is-taking-it-one-day-at-a-time-in-his-return-from-hip-injury",
-        "summary": "Rams receiver Puka Nacua has missed the last two games with a hip injury.",
+        "title": "Denzel Ward: I hope Aaron Rodgers keeps throwing at me",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/denzel-ward-i-hope-aaron-rodgers-keeps-throwing-at-me",
+        "summary": "Ward intercepted Rodgers on Thursday night in the Browns' 27-24 win.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 22:16:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6a8fbe7/2147483647/strip/false/crop/4249x2390+0+221/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2F50%2F655d9f704fddb0f30e4ebef88b4e%2F2297483026.jpg"
+        "date": "Fri, 02 Oct 2026 05:10:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/97aea53/2147483647/strip/false/crop/5135x2888+0+267/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F6d%2F8e8e9c2841708ca4b3ec81028989%2F2298169180.jpg"
       },
       {
-        "title": "Mike Hall questionable with an ankle injury; Mason Graham ruled out",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-hall-questionable-with-an-ankle-injury-mason-graham-ruled-out",
-        "summary": "Browns defensive tackle Mike Hall, who replaced the injured Mason Graham in the first quarter, left late in the second quarter.",
+        "title": "Tom Brady thinks the Raiders are a Top 5 team in the NFL right now",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-thinks-the-raiders-are-a-top-5-team-in-the-nfl-right-now",
+        "summary": "Raiders minority owner Tom Brady believes the Raiders are one of the five best teams in the NFL.",
         "source": "nbcsports.com",
-        "date": "Thu, 01 Oct 2026 22:12:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eaf72a5/2147483647/strip/false/crop/4859x2733+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2F40%2F437215804df6abe899ca5c7a2ee1%2F2297426869.jpg"
+        "date": "Fri, 02 Oct 2026 04:39:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33d56d0/2147483647/strip/false/crop/3992x2246+0+445/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2F24%2F787b5f554168937863e1262bb73e%2F2290471534.jpg"
       }
     ]
   }
