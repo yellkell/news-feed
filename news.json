@@ -1,14 +1,38 @@
 {
-  "updated": "2026-10-02T13:02:54.584Z",
+  "updated": "2026-10-02T18:23:13.777Z",
   "feed": {
     "VR": [
       {
-        "title": "Google DeepMind watermarks AI-designed proteins, and the first binders still bind",
-        "url": "https://mixed-news.com/en/synthid-bio-watermarked-ai-designed-proteins-binders-still-bind/",
-        "summary": "Google DeepMind has taken its SynthID watermark into biology, and says the first watermarked protein binders still bind.",
+        "title": "Samsung's first AI glasses launch in November, with no display and no price yet",
+        "url": "https://mixed-news.com/en/samsung-intelligent-eyewear-november-launch-no-display-no-price/",
+        "summary": "Samsung will launch Intelligent Eyewear, its first AI glasses, in November, a Samsung Electronics official has confirmed to The Korea Herald, in an October 1 report by its tech…",
         "source": "mixed-news.com",
-        "date": "Fri, 02 Oct 2026 12:44:58 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/BioSynthID_socialshare.max-1440x810-1.png"
+        "date": "Fri, 02 Oct 2026 18:17:33 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Samsung-Mobile-Intelligent-Eyewear-Google-Gentle-Monster-Warby-Parker-Gemini_main3F.jpg"
+      },
+      {
+        "title": "Open Season On Draymond Green Shows How Well VR Docuseries Can Work",
+        "url": "https://www.uploadvr.com/open-season-on-draymond-green-shows-how-well-vr-docuseries-can-work/",
+        "summary": "Meta’s new VR docuseries follows the NBA champion Draymond Green through therapy. We found the immersive format delivers a deeper impact than 2D TV ever could.",
+        "source": "uploadvr.com",
+        "date": "Fri, 02 Oct 2026 11:06:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/open-season.png"
+      },
+      {
+        "title": "‘Titanfall 2’ VR Mod Brings the Legendary Movement Shooter to VR—for Those Who Can Handle it",
+        "url": "https://roadtovr.com/titanfall-2-vr-mod-circuitlord/",
+        "summary": "Legendary movement shooter Titanfall 2 is now available in VR thanks to mod maker CircuitLord who has created a full VR conversion mod that adds head tracking, weapon aiming, mech…",
+        "source": "roadtovr.com",
+        "date": "Fri, 02 Oct 2026 15:04:42 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/titanfall-2-vr-mod.jpg?resize=1920%2C1280&quality=89&ssl=1"
+      },
+      {
+        "title": "Walkabout Mini Golf’s studio peaked at 36 people, and is now down to 17",
+        "url": "https://mixed-news.com/en/walkabout-mini-golf-mighty-coconut-36-people-to-17/",
+        "summary": "Mighty Coconut’s team on Walkabout Mini Golf grew from one person to 36 at its peak and now stands at 17, and Lucas Martell, the game’s creator, says revenue has been falling while…",
+        "source": "mixed-news.com",
+        "date": "Fri, 02 Oct 2026 17:31:35 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/header-23.jpg"
       },
       {
         "title": "‘Neon Genesis Evangelion’ VR Hands-on: Hand-Tracked Combat That Actually Works",
@@ -25,40 +49,16 @@
         "source": "uploadvr.com",
         "date": "Thu, 01 Oct 2026 09:00:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/_BT51138.JPG"
-      },
-      {
-        "title": "Micron's mobile and client memory margin went from 36% to 90% in a year",
-        "url": "https://mixed-news.com/en/micron-fq4-2026-memory-margin-revenue-customer-prepayments/",
-        "summary": "Micron's Mobile and Client unit, the memory and storage that goes into phones and laptops, turned a 90% gross margin in its fiscal fourth quarter against 36% in the same quarter a…",
-        "source": "mixed-news.com",
-        "date": "Fri, 02 Oct 2026 11:57:51 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2022/06/Nvidia-Datacenter-1.jpg"
-      },
-      {
-        "title": "A New Walk-In Attraction Brings The House Of The Dead To VR",
-        "url": "https://www.uploadvr.com/a-new-walk-in-attraction-brings-the-house-of-the-dead-to-vr/",
-        "summary": "Sega has released a teaser video revealing a new, large-scale VR arcade attraction in its long-running The House of the Dead series.",
-        "source": "uploadvr.com",
-        "date": "Thu, 01 Oct 2026 05:10:22 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/the-house-of-the-dead-reawakened-VR-game.jpg"
-      },
-      {
-        "title": "Samsung FCC Approval Signals Gentle Monster & Warby Parker Smart Glasses Nearing Release",
-        "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
-        "summary": "Samsung’s long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner.",
-        "source": "roadtovr.com",
-        "date": "Thu, 01 Oct 2026 09:00:17 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=1620%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "AI music maker Suno now generates spoken words",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-        "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions.",
+        "title": "Breaking up (with Elon Musk) is hard to do",
+        "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+        "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X.",
         "source": "theverge.com",
-        "date": "2026-10-02T05:42:19-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-02T13:37:36-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
       },
       {
-        "title": "Google’s new Guided Vision feature can help you read the fine print",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-        "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at.",
+        "title": "AI hallucinations are making entitled customers even worse",
+        "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+        "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies.",
         "source": "theverge.com",
-        "date": "2026-10-01T15:47:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-02T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Memory executives expect RAM shortage to continue through 2028",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg"
       },
       {
-        "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-        "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-        "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web…",
+        "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+        "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+        "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings.",
         "source": "theverge.com",
-        "date": "2026-10-01T13:12:21-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-02T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268788_Datacenter_biomimicry_PARKIN_2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Mason Graham left Thursday's game on crutches and wearing a knee brace",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mason-graham-left-thursdays-game-on-crutches-and-wearing-a-knee-brace",
-        "summary": "One of the only negative developments for the Browns on Thursday night was the left knee injury that knocked defensive tackle Mason Graham out of the game.",
+        "title": "Jed York suspended six games, fined $500,000",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jed-york-suspended-six-games-fined-500-000",
+        "summary": "The NFL has announced its discipline for the 49ers' owner, who violated the personal conduct policy over the summer.",
         "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 07:59:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8f38c4c/2147483647/strip/false/crop/4201x2363+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fcb%2Fbf01b45d42aeb8fa76019e05656a%2F2295469857.jpg"
+        "date": "Fri, 02 Oct 2026 14:13:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1a06fe/2147483647/strip/false/crop/5221x2937+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6e%2F8b%2Fc2e2cb9c4794ae8e86ed0d854c44%2F2252910741.jpg"
       },
       {
-        "title": "Darren Rizzi: Special teams coaches want NFL to change rule for holders on kickoffs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darren-rizzi-special-teams-coaches-want-nfl-to-change-rule-for-holders-on-kickoffs",
-        "summary": "Broncos special teams coach Darren Rizzi says his colleagues around the league almost all agree that holders should be allowed on kickoffs only if the wind is blowing the ball off…",
+        "title": "Trey Hendrickson out for Week 4 after undergoing procedure for broken finger",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trey-hendrickson-out-for-week-4-after-undergoing-procedure-for-broken-finger",
+        "summary": "The Ravens will be without Trey Hendrickson for this week's game against the Titans, but he should be back soon.",
         "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 07:31:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b12341/2147483647/strip/false/crop/5295x2978+0+277/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2F3a%2F340577b54e538982b3107aa34d16%2F2292899530.jpg"
+        "date": "Fri, 02 Oct 2026 13:44:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d27a4b/2147483647/strip/false/crop/7775x4373+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F6f%2Feefbf2eb4a528145c16b239a0283%2F2296407226.jpg"
       },
       {
-        "title": "Deshaun Watson: Momentum shifts are part of the NFL, you have to ride the waves",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-momentum-shifts-are-part-of-the-nfl-you-have-to-ride-the-waves",
-        "summary": "When Thursday night's game got to halftime, it looked like the Browns might roll over the Steelers for an easy win.",
+        "title": "Jalen Coker is questionable for the Panthers, Xavier Legette ruled out",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-coker-is-questionable-for-the-panthers-xavier-legette-ruled-out",
+        "summary": "Panthers wide receiver Jalen Coker was able to play in Week 3 after being listed as questionable and they'll be hoping for the same outcome on Sunday night.",
         "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 06:57:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f26cd0/2147483647/strip/false/crop/4491x2526+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2Fc9%2F5dfb9baf4ae69efd6e162fc84b92%2F2297609656.jpg"
+        "date": "Fri, 02 Oct 2026 13:37:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fa91a76/2147483647/strip/false/crop/4539x2553+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F49%2F20%2F55dca9e24692846ae1b4772b3183%2F2297425725.jpg"
       },
       {
-        "title": "Todd Monken: Week 1 was tough, our guys trusted the process",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-week-1-was-tough-our-guys-trusted-the-process",
-        "summary": "The Browns moved to 3-1 when Steelers quarterback Aaron Rodgers's final, desperate heave was picked off by safety Grant Delpit on Thursday night and head coach Todd Monken…",
+        "title": "Ben Johnson doesn't announce starting QB for Week 4, but rules out Caleb Williams",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-doesnt-announce-starting-qb-for-week-4-but-rules-out-caleb-williams",
+        "summary": "While signs are pointing toward Tyson Bagent starting at quarterback for the Bears on Friday, head coach Ben Johnson did not confirm that would be the case during his Friday press…",
         "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 06:39:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/080705f/2147483647/strip/false/crop/5367x3019+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F93%2F91c78f7d4192b6f6b9f51c9ab407%2F2298155636.jpg"
+        "date": "Fri, 02 Oct 2026 13:32:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6731a41/2147483647/strip/false/crop/4571x2571+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F66%2F1c%2Fc48fcb4a4d45bf4c3aec5209f69d%2F2293423446.jpg"
       },
       {
-        "title": "Denzel Ward: I hope Aaron Rodgers keeps throwing at me",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/denzel-ward-i-hope-aaron-rodgers-keeps-throwing-at-me",
-        "summary": "Ward intercepted Rodgers on Thursday night in the Browns' 27-24 win.",
+        "title": "Christian Gonzalez, Christian Barmore ruled out for Patriots",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-christian-barmore-ruled-out-for-patriots",
+        "summary": "The Patriots will be missing a couple of defensive starters in Buffalo on Sunday.",
         "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 05:10:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/97aea53/2147483647/strip/false/crop/5135x2888+0+267/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F6d%2F8e8e9c2841708ca4b3ec81028989%2F2298169180.jpg"
+        "date": "Fri, 02 Oct 2026 13:25:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f5ec569/2147483647/strip/false/crop/4101x2307+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2Fbf%2F79c536ee47039df63eff43a97947%2F2297221563.jpg"
       },
       {
-        "title": "Tom Brady thinks the Raiders are a Top 5 team in the NFL right now",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-thinks-the-raiders-are-a-top-5-team-in-the-nfl-right-now",
-        "summary": "Raiders minority owner Tom Brady believes the Raiders are one of the five best teams in the NFL.",
+        "title": "Terry McLaurin added to injury report, listed as questionable for Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-added-to-injury-report-listed-as-questionable-for-sunday",
+        "summary": "The Commanders made a late addition to their injury report for Sunday's game against the Colts in London.",
         "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 04:39:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33d56d0/2147483647/strip/false/crop/3992x2246+0+445/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2F24%2F787b5f554168937863e1262bb73e%2F2290471534.jpg"
+        "date": "Fri, 02 Oct 2026 13:10:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8294c2/2147483647/strip/false/crop/5381x3027+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2Fa1%2F928ff9bd47a58d18b3528263d576%2F2296924624.jpg"
       }
     ]
   }
