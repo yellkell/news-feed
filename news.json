@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-03T01:15:59.312Z",
+  "updated": "2026-10-03T06:44:06.153Z",
   "feed": {
     "VR": [
       {
-        "title": "SteamVR 2.18.2 sends Steam Frame eye openness to apps over OSC, but not the SDK yet",
-        "url": "https://mixed-news.com/en/steamvr-2-18-2-steam-frame-eye-openness-osc-openvr-sdk/",
-        "summary": "SteamVR's newest beta hands Steam Frame eye-openness data to apps over OSC, which is what an avatar needs in order to blink when you blink.",
+        "title": "Steam's beta lets Remote Play run at up to 1 Gbit/s, and Valve warns it costs latency",
+        "url": "https://mixed-news.com/en/steam-client-beta-pyrowave-1-gbit-manual-bitrate-reset-latency/",
+        "summary": "Steam's client beta now lets you set a manual Pyrowave bitrate of up to 1 Gbit/s for Remote Play, and Valve's own note says what that costs: \"more bandwidth increases latency\".",
         "source": "mixed-news.com",
-        "date": "Sat, 03 Oct 2026 00:38:27 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/c1ec63e8c0939f5ded65cd87980ea9e213541422.png"
+        "date": "Sat, 03 Oct 2026 06:12:07 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/66ccca0b704d6f2e55abf7f7b7c600d77016c0c3.jpg"
       },
       {
         "title": "The 10 Best Upcoming VR Horror Games To Look Forward To",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/titanfall-2-vr-mod.jpg?resize=1920%2C1280&quality=89&ssl=1"
       },
       {
-        "title": "Legato's AI hearing glasses start at $999, from the founder who created Bose Frames",
-        "url": "https://mixed-news.com/en/legato-frames-ai-hearing-glasses-999-dollars-bose-frames-founder/",
-        "summary": "Legato Frames, a set of AI hearing glasses from the founder who created Bose Frames, are on sale in the US at $999 for the Symphony and Harmony styles and $1,099 for Aria.",
+        "title": "Valve's new Error 17 fix needs both your PC and your Steam Frame on beta builds",
+        "url": "https://mixed-news.com/en/steam-frame-error-17-fix-needs-steamos-0-4-3-and-steamvr-2-18-2/",
+        "summary": "Valve's latest fixes for the Steam Frame streaming fault it calls \"Error 17\" ask owners to update both ends, and both updates are opt-in betas.",
         "source": "mixed-news.com",
-        "date": "Fri, 02 Oct 2026 23:51:54 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Legato_Studio_Front_Symphony_8k_3.png"
+        "date": "Sat, 03 Oct 2026 05:23:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/ss_57ebeb54bbb5edee1d057ba5b128fb3a0aad4c0a.1920x1080.jpg"
       },
       {
         "title": "Birdseed VR Is Coming To Steam Next Week",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+        "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+        "source": "arstechnica.com",
+        "date": "Fri, 02 Oct 2026 23:03:16 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
+      },
+      {
         "title": "Meta open sources code to let you make Muse AI gadgets",
         "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
         "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced.",
         "source": "theverge.com",
         "date": "2026-10-02T17:08:37-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-        "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-        "summary": "It has been a bad month for federal government cybersecurity.",
-        "source": "arstechnica.com",
-        "date": "Thu, 01 Oct 2026 20:28:45 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
       },
       {
         "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Memory executives expect RAM shortage to continue through 2028",
-        "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-        "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+        "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+        "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+        "summary": "It has been a bad month for federal government cybersecurity.",
         "source": "arstechnica.com",
-        "date": "Thu, 01 Oct 2026 17:49:56 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg"
+        "date": "Thu, 01 Oct 2026 20:28:45 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
       },
       {
         "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
@@ -93,15 +93,55 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-        "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-        "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+        "title": "Memory executives expect RAM shortage to continue through 2028",
+        "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+        "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
         "source": "arstechnica.com",
-        "date": "Wed, 30 Sep 2026 20:44:48 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+        "date": "Thu, 01 Oct 2026 17:49:56 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg"
       }
     ],
     "NFL": [
+      {
+        "title": "Liam Coen on Travis Hunter's usage: \"He cares about winning\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/liam-coen-on-travis-hunters-usage-he-cares-about-winning",
+        "summary": "Questions have persisted regarding whether the Jaguars are getting the most out of cornerback/receiver Travis Hunter, the second overall pick in the 2025 draft.",
+        "source": "nbcsports.com",
+        "date": "Sat, 03 Oct 2026 00:35:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/939363a/2147483647/strip/false/crop/8640x4860+0+450/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2Fa8%2F6596cb934791865e0071aee17de7%2F2297470527.jpg"
+      },
+      {
+        "title": "YouTube believes NFL could \"deconstruct\" Sunday Ticket in next broadcast deals",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/youtube-believes-nfl-could-deconstruct-sunday-ticket-in-next-broadcast-deals",
+        "summary": "Come 2030, out-of-market games could be seen without plunking down an extra $400.",
+        "source": "nbcsports.com",
+        "date": "Fri, 02 Oct 2026 23:53:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cf17793/2147483647/strip/false/crop/5000x2813+0+260/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2Fd8%2F820714a146b79952becc6306ab6a%2F2288150820.jpg"
+      },
+      {
+        "title": "Quarterbacks who didn't start in Week 1 are 6-0",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quarterbacks-who-didnt-start-in-week-1-are-6-0",
+        "summary": "It's the year of the backup quarterback, so far.",
+        "source": "nbcsports.com",
+        "date": "Fri, 02 Oct 2026 23:22:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0ec9d50/2147483647/strip/false/crop/4468x2513+0+233/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2Fba%2F8882ff5f4a4fadba5c801274be6a%2F2297439919.jpg"
+      },
+      {
+        "title": "Sean McVay is 0-4 against Nick Sirianni",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-is-0-4-against-nick-sirianni",
+        "summary": "Rams coach Sean McVay has had tremendous success since becoming a head coach in 2017.",
+        "source": "nbcsports.com",
+        "date": "Fri, 02 Oct 2026 22:12:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/af55bf3/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2F14%2Fbbbecfb544c5a72349fcd4471fb1%2F1726358648.jpg"
+      },
+      {
+        "title": "Five teams face an 0-4 start — and only one 0-4 team has ever made the playoffs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/five-teams-face-an-0-4-start-and-only-one-0-4-team-has-ever-made-the-playoffs",
+        "summary": "Week 4 is here, and five teams are still looking for their first victory of 2026.",
+        "source": "nbcsports.com",
+        "date": "Fri, 02 Oct 2026 21:27:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/87ebdd4/2147483647/strip/false/crop/8640x4860+0+450/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fae%2F8c%2F3a987cb0487f935b9f195c8c2d41%2F2026-09-13t182947z-2121666986-mt1usatoday29812006-rtrmadp-3-nfl-miami-dolphins-at-las-vegas-raiders.jpg"
+      },
       {
         "title": "New Bears stadium in Illinois could be publicly owned",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-bears-stadium-in-illinois-could-be-publicly-owned",
@@ -109,46 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 02 Oct 2026 21:09:57 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7fc6b1/2147483647/strip/false/crop/3389x1906+0+176/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffa%2F34%2F87cf9a5045d3b82e703a45432708%2F2291081402.jpg"
-      },
-      {
-        "title": "Vinod Khosla on a potential Seahawks move: \"Never say never\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vinod-khosla-on-a-potential-seahawks-move-never-say-never",
-        "summary": "New owner keeps saying things that won't make the fan base happy.",
-        "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 20:44:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1307afb/2147483647/strip/false/crop/5717x3216+0+298/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2Fcf%2F9d7c69a24c27abb482c6435497da%2F2294421819.jpg"
-      },
-      {
-        "title": "NFL fines Quinn Meinerz $14,926 for a celebratory dice roll",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-fines-quinn-meinerz-14-926-for-a-celebratory-dice-roll",
-        "summary": "Broncos right guard Quinn Meinerz celebrated with Jaylen Waddle after the wide receiver's 2-point conversion on Sunday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 18:59:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/867fbf8/2147483647/strip/false/crop/5129x2885+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4c%2F98%2Faa70986a40d3905081be759d6366%2F2296963971.jpg"
-      },
-      {
-        "title": "Chiefs DB Chamarri Conner set to make his season debut",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-db-chamarri-conner-set-to-make-his-season-debut",
-        "summary": "Chiefs defensive back Chamarri Conner is set to make his 2026 debut on Sunday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 18:40:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2a7b512/2147483647/strip/false/crop/4983x2803+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2Fdd%2Fddbc54f0448b84a85bd4227a5a19%2F2251408248.jpg"
-      },
-      {
-        "title": "Keenan Allen misses Friday's practice, questionable to play Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keenan-allen-misses-fridays-practice-questionable-to-play-sunday",
-        "summary": "The Colts did not rule out any players for Sunday's game against the Commanders in London, but they do have a pair of wide receivers listed as questionable.",
-        "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 18:19:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fc6c3b1/2147483647/strip/false/crop/4050x2278+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2F11%2F45bffea3405d817c66159e405575%2F2296924491.jpg"
-      },
-      {
-        "title": "Mike Evans is going to try to play through his injured ribs",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-evans-is-going-to-try-to-play-through-his-injured-ribs",
-        "summary": "49ers wide receiver Mike Evans is questionable to play in Sunday's game against the Broncos after a limited practice Friday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 02 Oct 2026 18:14:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/df16c9b/2147483647/strip/false/crop/3875x2180+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F12%2F129ccbeb4540b189222256672253%2F2297818448.jpg"
       }
     ]
   }
