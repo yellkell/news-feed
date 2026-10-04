@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-03T22:08:13.658Z",
+  "updated": "2026-10-04T00:35:27.781Z",
   "feed": {
     "VR": [
       {
-        "title": "Even Realities' app 2.3.2 needs new firmware on both the G2 glasses and the R1 ring",
-        "url": "https://mixed-news.com/en/even-realities-app-2-3-2-firmware-g2-glasses-r1-ring/",
-        "summary": "Even Realities released version 2.3.2 of its companion app on October 2, and installing it is only part of the job.",
+        "title": "Nvidia's DGX Spark gets a 64GB model at $4,999, and two can pool to 128GB",
+        "url": "https://mixed-news.com/en/nvidia-dgx-spark-64gb-4999-october-23-cluster-128gb/",
+        "summary": "Nvidia will sell a 64GB configuration of its DGX Spark desktop machine from October 23 at a starting price of $4,999 in the US, and the company says a single unit runs models of up…",
         "source": "mixed-news.com",
-        "date": "Sat, 03 Oct 2026 19:37:43 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/even-g2-a-smart-glasses-front-view-closed-grey.png"
+        "date": "Sat, 03 Oct 2026 23:47:52 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/nv-blog-1280x680-1.jpg"
       },
       {
         "title": "The 10 Best Upcoming VR Horror Games To Look Forward To",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/titanfall-2-vr-mod.jpg?resize=1920%2C1280&quality=89&ssl=1"
       },
       {
-        "title": "ChatGPT adds a Try on button for clothes, and it keeps your photo for next time",
-        "url": "https://mixed-news.com/en/chatgpt-try-on-button-clothes-reference-photo-saved/",
-        "summary": "ChatGPT can now show you wearing something before you buy it, and it holds on to the selfie you used.",
+        "title": "Judge dismisses Chegg's and Penske's AI Overviews cases: an expectation is not an agreement",
+        "url": "https://mixed-news.com/en/judge-mehta-dismisses-chegg-penske-ai-overviews-google-antitrust/",
+        "summary": "A federal judge has dismissed the antitrust cases that Chegg and Penske Media brought against Google over AI Overviews, and one line carries the ruling.",
         "source": "mixed-news.com",
-        "date": "Sat, 03 Oct 2026 18:49:36 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/share-og.png"
+        "date": "Sat, 03 Oct 2026 23:01:18 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2022/02/Artificial-Intelligence-unsplash.jpg"
       },
       {
         "title": "Birdseed VR Is Coming To Steam Next Week",
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Tyson Bagent is expected to start for the Bears on Sunday vs. Jets",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyson-bagent-is-expected-to-start-for-the-bears-on-sunday-vs-jets",
+        "summary": "Case Keenum will take a seat on the bench, after beating the Eagles on Monday night.",
+        "source": "nbcsports.com",
+        "date": "Sat, 03 Oct 2026 20:12:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6042b3d/2147483647/strip/false/crop/5515x3102+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F71%2F945420a949c78949de887933ab4d%2F2293423364.jpg"
+      },
+      {
+        "title": "Patrick Mahomes looks to extend mastery of Raiders, AFC West",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-looks-to-extend-mastery-of-raiders-afc-west",
+        "summary": "When the Chiefs play in Las Vegas on Sunday, Kansas City quarterback Patrick Mahomes will be looking to extend his mastery of the Raiders — and of their division.",
+        "source": "nbcsports.com",
+        "date": "Sat, 03 Oct 2026 19:49:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/64558f1/2147483647/strip/false/crop/4113x2314+0+214/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2Fbe%2Fec2014b54bd1829663b5f67b46d6%2F2193661324.jpg"
+      },
+      {
         "title": "Eagles elevate Zach Ertz, Josiah Deguara",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-elevate-zach-ertz-josiah-deguara",
         "summary": "The Eagles added a pair of tight ends to the roster for Sunday's game against the Rams.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 03 Oct 2026 16:51:36 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/f5b2a98/2147483647/strip/false/crop/3298x1855+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F05%2Fcfea6ec34a099871d7780fec11b5%2F2291777396.jpg"
-      },
-      {
-        "title": "49ers elevate DE Matt Judon for Sunday's game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-elevate-de-matt-judon-for-sundays-game",
-        "summary": "Veteran defensive end Matt Judon is set for his 49ers debut.",
-        "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 16:40:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/466c3dc/2147483647/strip/false/crop/4229x2379+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fac%2F2aa878b045d8badd6e2298904185%2F2251068831.jpg"
-      },
-      {
-        "title": "Seahawks place RB Jadarian Price on IR",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-place-rb-jadarian-price-on-ir",
-        "summary": "Seahawks running back Jadarian Price not only will miss Sunday's game but at least the three games after that.",
-        "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 16:36:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/490c770/2147483647/strip/false/crop/5696x3204+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F26%2F6d%2F20318ba54e80a4a5c4c1d6889112%2F2298281574.jpg"
       }
     ]
   }
