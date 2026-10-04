@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-04T00:35:27.781Z",
+  "updated": "2026-10-04T06:20:31.270Z",
   "feed": {
     "VR": [
       {
-        "title": "Nvidia's DGX Spark gets a 64GB model at $4,999, and two can pool to 128GB",
-        "url": "https://mixed-news.com/en/nvidia-dgx-spark-64gb-4999-october-23-cluster-128gb/",
-        "summary": "Nvidia will sell a 64GB configuration of its DGX Spark desktop machine from October 23 at a starting price of $4,999 in the US, and the company says a single unit runs models of up…",
+        "title": "FramePort puts Quest games on a Steam Frame, and lists six that still don't run",
+        "url": "https://mixed-news.com/en/frameport-steam-frame-quest-games-tested-list/",
+        "summary": "FramePort, an unofficial tool published on GitHub on 2 October, installs games built for the Meta Quest, for Android or for PC VR onto a Valve Steam Frame.",
         "source": "mixed-news.com",
-        "date": "Sat, 03 Oct 2026 23:47:52 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/nv-blog-1280x680-1.jpg"
+        "date": "Sun, 04 Oct 2026 05:56:28 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/library.png"
       },
       {
         "title": "The 10 Best Upcoming VR Horror Games To Look Forward To",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/titanfall-2-vr-mod.jpg?resize=1920%2C1280&quality=89&ssl=1"
       },
       {
-        "title": "Judge dismisses Chegg's and Penske's AI Overviews cases: an expectation is not an agreement",
-        "url": "https://mixed-news.com/en/judge-mehta-dismisses-chegg-penske-ai-overviews-google-antitrust/",
-        "summary": "A federal judge has dismissed the antitrust cases that Chegg and Penske Media brought against Google over AI Overviews, and one line carries the ruling.",
+        "title": "Half-Life: Alyx leads Steam's VR chart at $14.99, and two of the top ten have no discount",
+        "url": "https://mixed-news.com/en/steam-vr-only-chart-half-life-alyx-autumn-sale/",
+        "summary": "Half-Life: Alyx is top of Steam's best-seller list filtered to VR Only titles at $14.99, down 75% from $59.99, read on the US store at 21:27 UTC on October 3.",
         "source": "mixed-news.com",
-        "date": "Sat, 03 Oct 2026 23:01:18 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2022/02/Artificial-Intelligence-unsplash.jpg"
+        "date": "Sun, 04 Oct 2026 05:10:38 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_d61365e93f20ceb5a94a1e5b2811cf504cbfa303.1920x1080.jpg"
       },
       {
         "title": "Birdseed VR Is Coming To Steam Next Week",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Deion Sanders, Colorado lose third in a row",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-colorado-lose-third-in-a-row",
+        "summary": "After a 2-0 start to the 2026 season, Deion Sanders and the Colorado Buffaloes have lost their third game in a row.",
+        "source": "nbcsports.com",
+        "date": "Sun, 04 Oct 2026 00:17:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/261c582/2147483647/strip/false/crop/8079x4544+0+422/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2Ff4%2F17e3c229404d8b68661661bfdd5a%2F2297912011.jpg"
+      },
+      {
+        "title": "Jeremiah Smith: \"I'm the best player in the country\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiah-smith-im-the-best-player-in-the-country",
+        "summary": "After his latest phenomenal performance of the 2026 season, Ohio State receiver Jeremiah Smith stated the obvious.",
+        "source": "nbcsports.com",
+        "date": "Sat, 03 Oct 2026 21:48:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a19fc3c/2147483647/strip/false/crop/3799x2137+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F7d%2F49f8566c4b28835b811fc288a495%2F2026-10-03t235719z-597834416-mt1usatoday29991281-rtrmadp-3-ohio-state-buckeyes-wide-receiver-jeremiah-smith-4-is-hit.jpg"
+      },
+      {
+        "title": "Bill Belichick and UNC fall to 2-2 with loss to Notre Dame",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-and-unc-fall-to-2-2-with-loss-to-notre-dame",
+        "summary": "Bill Belichick's second season at North Carolina started at 2-0.",
+        "source": "nbcsports.com",
+        "date": "Sat, 03 Oct 2026 21:27:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d054bdd/2147483647/strip/false/crop/3786x2130+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F58%2Fa2c4e8f64fada4dab47b165142d9%2F2297844063.jpg"
+      },
+      {
+        "title": "Yale QB Dante Reno has big performance after his father (and former coach) dies",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/yale-qb-dante-reno-has-big-performance-after-his-father-and-former-coach-dies",
+        "summary": "Yale quarterback Dante Reno had a performance on Saturday he'll never forget, for many reasons.",
+        "source": "nbcsports.com",
+        "date": "Sat, 03 Oct 2026 21:11:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dbfd09c/2147483647/strip/false/crop/8100x4556+0+408/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fea%2Fc5%2Fdd3ad14d4608be1c2bc110e33858%2F2247405624.jpg"
+      },
+      {
         "title": "Tyson Bagent is expected to start for the Bears on Sunday vs. Jets",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyson-bagent-is-expected-to-start-for-the-bears-on-sunday-vs-jets",
         "summary": "Case Keenum will take a seat on the bench, after beating the Eagles on Monday night.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 03 Oct 2026 19:49:27 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/64558f1/2147483647/strip/false/crop/4113x2314+0+214/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2Fbe%2Fec2014b54bd1829663b5f67b46d6%2F2193661324.jpg"
-      },
-      {
-        "title": "Eagles elevate Zach Ertz, Josiah Deguara",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-elevate-zach-ertz-josiah-deguara",
-        "summary": "The Eagles added a pair of tight ends to the roster for Sunday's game against the Rams.",
-        "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 17:58:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bdc85e5/2147483647/strip/false/crop/5605x3153+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2F82%2F6fc031874e999b0a8a708a09aa15%2F2297117441.jpg"
-      },
-      {
-        "title": "Mack Hollins fined twice on the same play, losing $34,441",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mack-hollins-fined-twice-on-the-same-play-losing-34-441",
-        "summary": "The NFL fined Patriots receiver Mack Hollins $34,441 for his actions on the same play against the Jaguars.",
-        "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 17:34:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cce4833/2147483647/strip/false/crop/3139x1766+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F73%2Fc1e0e0df4946a1558638f17ef5ea%2F2296891974.jpg"
-      },
-      {
-        "title": "Bucs elevate QB Easton Stick from practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-elevated-qb-easton-stick-from-practice-squad",
-        "summary": "The Buccaneers elevated linebacker Caden Fordham and quarterback Easton Stick from the practice squad for Sunday's game against the Packers, the team announced.",
-        "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 17:09:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96c7c50/2147483647/strip/false/crop/7200x4050+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F36%2Facbb39934f5d884ce79f6053b545%2F2292106693.jpg"
-      },
-      {
-        "title": "Bears OT Braxton Jones lands on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-ot-braxton-jones-lands-on-injured-reserve",
-        "summary": "The Bears are going to have a new left tackle for Sunday's game against the Jets and for several other games in the weeks to follow.",
-        "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 16:51:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f5b2a98/2147483647/strip/false/crop/3298x1855+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F05%2Fcfea6ec34a099871d7780fec11b5%2F2291777396.jpg"
       }
     ]
   }
