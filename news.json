@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-04T12:39:47.071Z",
+  "updated": "2026-10-04T17:01:34.863Z",
   "feed": {
     "VR": [
       {
-        "title": "Quest's Horizon+ Subscription Now Offers Free Add-ons For Games",
+        "title": "Only 13 of Steam's 118 coming-soon VR listings carry a day in the next month",
+        "url": "https://mixed-news.com/en/steam-coming-soon-vr-exact-release-dates-october-2026/",
+        "summary": "Steam's coming-soon filter returned 118 VR listings when it was read on the US store at 21:20 UTC on October 3, and 13 of them name an exact release day inside the next month.",
+        "source": "mixed-news.com",
+        "date": "Sun, 04 Oct 2026 16:43:47 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_aadd590c459817c687325b60b17e52a8884b1f3b.1920x1080.jpg"
+      },
+      {
+        "title": "Quest's Horizon+ Subscription Now Offers Free Add-Ons For Games",
         "url": "https://www.uploadvr.com/quests-horizon-subscription-now-offers-free-add-ons-for-games/",
         "summary": "Quest's Horizon+ subscription now offers free add-ons for games, plus Swarm 2 and Waltz of the Wizard are this month's monthly titles.",
         "source": "uploadvr.com",
         "date": "Sun, 04 Oct 2026 05:37:35 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/meta-horizon-plus-games-for-october-26.png"
-      },
-      {
-        "title": "Monkeys Platzhalterdatum auf Steam ließ Käufer glauben, das VR-Spiel sei bereits erschienen",
-        "url": "https://mixed-news.com/en/monkeys-platzhalterdatum-auf-steam-lies-kaufer-glauben-das-vr-spiel-sei-bereits-erschienen/",
-        "summary": "The Steam listing for Monkey, a VR-only multiplayer game from Two Armed Baboons, spent part of September 30 telling shoppers the game had come out when it had not.",
-        "source": "mixed-news.com",
-        "date": "Sun, 04 Oct 2026 12:12:59 +0000",
-        "image": ""
       },
       {
         "title": "‘Titanfall 2’ VR Mod Brings the Legendary Movement Shooter to VR—for Those Who Can Handle it",
@@ -27,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/titanfall-2-vr-mod.jpg?resize=1920%2C1280&quality=89&ssl=1"
       },
       {
+        "title": "Meta's glasses toolkit 1.0 reaches React Native, but apps using it cannot be published",
+        "url": "https://mixed-news.com/en/expo-meta-wearables-dat-1-0-wrapper-experimental-cannot-publish/",
+        "summary": "An independent Expo module published on October 3 at 18:35 UTC became the first third-party package to wrap version 1.0 of Meta's Wearables Device Access Toolkit for React Native.",
+        "source": "mixed-news.com",
+        "date": "Sun, 04 Oct 2026 15:57:02 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/03_Ray-Ban-Meta-Gen3_Carousel_03.jpg"
+      },
+      {
         "title": "Manage Miniature Motorways Later This Month In Traffix XR: Cities Of Tomorrow",
         "url": "https://www.uploadvr.com/manage-miniature-motorways-later-this-month-in-traffix-xr-cities-of-tomorrow/",
         "summary": "Traffix XR: Cities of Tomorrow is a mini motorway management game coming to Quest 3 this month.",
         "source": "uploadvr.com",
         "date": "Sun, 04 Oct 2026 05:21:38 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Cover_Trailer-1.png"
-      },
-      {
-        "title": "Monkey's placeholder Steam date told shoppers the VR game had already launched",
-        "url": "https://mixed-news.com/en/monkey-steam-placeholder-release-date/",
-        "summary": "The Steam listing for Monkey, a VR-only multiplayer game from Two Armed Baboons, spent part of September 30 telling shoppers the game had come out when it had not.",
-        "source": "mixed-news.com",
-        "date": "Sun, 04 Oct 2026 12:05:17 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_4d6ddca42364942a5985b33fdda2ea0d5203e934.1920x1080.jpg"
       },
       {
         "title": "‘Neon Genesis Evangelion’ VR Hands-on: Hand-Tracked Combat That Actually Works",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-        "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech.",
+        "title": "Well, if AI said it, it must be true",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+        "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics…",
         "source": "theverge.com",
-        "date": "2026-10-03T12:49:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-04T12:16:04-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
       },
       {
-        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-        "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops.",
+        "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+        "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots.",
         "source": "theverge.com",
-        "date": "2026-10-03T11:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-04T11:21:59-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
       },
       {
-        "title": "An OpenAI safety employee has quit and is sounding the alarm",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-        "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI.",
+        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech.",
         "source": "theverge.com",
-        "date": "2026-10-03T10:31:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-03T12:49:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Memory executives expect RAM shortage to continue through 2028",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Jalon Daniels: \"Dream come true\" to be starting QB for the Buccaneers today",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalon-daniels-dream-come-true-to-be-starting-qb-for-the-buccaneers-today",
-        "summary": "The undrafted rookie will start today against the Packers with Baker Mayfield out.",
+        "title": "Packers fans could take over Raymond James Stadium on Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-fans-could-take-over-raymond-james-stadium-on-sunday",
+        "summary": "Six years after the Buccaneers and Packers met in the NFC Championship, the rivalry is inching back toward \"Bay of Pigs\" territory.",
         "source": "nbcsports.com",
-        "date": "Sun, 04 Oct 2026 05:05:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e26c140/2147483647/strip/false/crop/4800x2700+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F55%2F5bebd2e34f48a6181095222eca53%2F2297114273.jpg"
+        "date": "Sun, 04 Oct 2026 12:44:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c2ceb5c/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F0f%2Fc629f37d4bb68add824f965735d8%2F2297602862.jpg"
       },
       {
-        "title": "Deion Sanders, Colorado lose third in a row",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-colorado-lose-third-in-a-row",
-        "summary": "After a 2-0 start to the 2026 season, Deion Sanders and the Colorado Buffaloes have lost their third game in a row.",
+        "title": "Jonathan Taylor and the Colts top Athan Kaliakmanis and the Commanders in London",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-taylor-and-the-colts-top-athan-kaliakmanis-and-the-commanders-in-london",
+        "summary": "With the Commanders down to their third-string quarterback, the Colts' running game took control.",
         "source": "nbcsports.com",
-        "date": "Sun, 04 Oct 2026 00:17:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/261c582/2147483647/strip/false/crop/8079x4544+0+422/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2Ff4%2F17e3c229404d8b68661661bfdd5a%2F2297912011.jpg"
+        "date": "Sun, 04 Oct 2026 12:40:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/faafd46/2147483647/strip/false/crop/5091x2864+0+306/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2F8b%2F29a8aa004e688964fc64831cf585%2F2298532868.jpg"
       },
       {
-        "title": "Jeremiah Smith: \"I'm the best player in the country\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiah-smith-im-the-best-player-in-the-country",
-        "summary": "After his latest phenomenal performance of the 2026 season, Ohio State receiver Jeremiah Smith stated the obvious.",
+        "title": "CeeDee Lamb thinks he can't be guarded (and it helps to have George Pickens)",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-thinks-he-cant-be-guarded-and-it-helps-to-have-george-pickens",
+        "summary": "Through three games in 2026, Cowboys receiver CeeDee Lamb has 20 catches for 309 yards and three touchdowns.",
         "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 21:48:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a19fc3c/2147483647/strip/false/crop/3799x2137+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F7d%2F49f8566c4b28835b811fc288a495%2F2026-10-03t235719z-597834416-mt1usatoday29991281-rtrmadp-3-ohio-state-buckeyes-wide-receiver-jeremiah-smith-4-is-hit.jpg"
+        "date": "Sun, 04 Oct 2026 12:26:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a8b2381/2147483647/strip/false/crop/4427x2490+0+230/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2Ff3%2Ff78135274acfb100d938f2101731%2F2247404609.jpg"
       },
       {
-        "title": "Bill Belichick and UNC fall to 2-2 with loss to Notre Dame",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-and-unc-fall-to-2-2-with-loss-to-notre-dame",
-        "summary": "Bill Belichick's second season at North Carolina started at 2-0.",
+        "title": "Bears poised to be first team since 1997 Jaguars to start three quarterbacks in first four games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-poised-to-be-first-team-since-1997-jaguars-to-start-three-quarterbacks-in-first-four-games",
+        "summary": "If, as expected, quarterback Tyson Bagent starts for the Bears today, he'll be the third quarterback to start for Chicago this year.",
         "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 21:27:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d054bdd/2147483647/strip/false/crop/3786x2130+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F58%2Fa2c4e8f64fada4dab47b165142d9%2F2297844063.jpg"
+        "date": "Sun, 04 Oct 2026 12:12:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/27bfa2a/2147483647/strip/false/crop/5676x3193+0+296/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2F28%2F07e0caa744e58fcf80f87b444339%2F2026-09-22t081558z-1255129990-mt1usatoday29884414-rtrmadp-3-nfl-minnesota-vikings-at-chicago-bears.jpg"
       },
       {
-        "title": "Yale QB Dante Reno has big performance after his father (and former coach) dies",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/yale-qb-dante-reno-has-big-performance-after-his-father-and-former-coach-dies",
-        "summary": "Yale quarterback Dante Reno had a performance on Saturday he'll never forget, for many reasons.",
+        "title": "Lane Johnson is inactive for the Eagles",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-johnson-is-inactive-for-the-eagles",
+        "summary": "The Eagles announced right tackle Lane Johnson was questionable to play against the Rams shortly before they released their inactive list for Sunday's game and they confirmed that…",
         "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 21:11:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dbfd09c/2147483647/strip/false/crop/8100x4556+0+408/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fea%2Fc5%2Fdd3ad14d4608be1c2bc110e33858%2F2247405624.jpg"
+        "date": "Sun, 04 Oct 2026 11:42:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3328a2e/2147483647/strip/false/crop/8256x4644+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2Fe5%2F8b3056ac4e4991ec87b2adec933f%2F2289346869.jpg"
       },
       {
-        "title": "Tyson Bagent is expected to start for the Bears on Sunday vs. Jets",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyson-bagent-is-expected-to-start-for-the-bears-on-sunday-vs-jets",
-        "summary": "Case Keenum will take a seat on the bench, after beating the Eagles on Monday night.",
+        "title": "Joey Porter Jr. will make his Cowboys debut on Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-will-make-his-cowboys-debut-on-sunday",
+        "summary": "Porter was acquired in a trade with the Steelers this week.",
         "source": "nbcsports.com",
-        "date": "Sat, 03 Oct 2026 20:12:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6042b3d/2147483647/strip/false/crop/5515x3102+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2F71%2F945420a949c78949de887933ab4d%2F2293423364.jpg"
+        "date": "Sun, 04 Oct 2026 11:37:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8e06c30/2147483647/strip/false/crop/5877x3306+0+397/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fab%2Fd2%2F3abae6ba40178996f1cc5e28cdcc%2F2290536423.jpg"
       }
     ]
   }
