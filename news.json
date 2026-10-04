@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-04T17:01:34.863Z",
+  "updated": "2026-10-04T20:09:21.950Z",
   "feed": {
     "VR": [
       {
-        "title": "Only 13 of Steam's 118 coming-soon VR listings carry a day in the next month",
-        "url": "https://mixed-news.com/en/steam-coming-soon-vr-exact-release-dates-october-2026/",
-        "summary": "Steam's coming-soon filter returned 118 VR listings when it was read on the US store at 21:20 UTC on October 3, and 13 of them name an exact release day inside the next month.",
+        "title": "Eleven AI models graded AR scenes, and the best tracked human raters at 0.87",
+        "url": "https://mixed-news.com/en/duke-vision-language-models-ar-scene-quality-spearman-0-8695/",
+        "summary": "Six Duke University researchers set eleven commercial vision-language models the job of grading how right augmented reality content looks, and the best of them ordered scenes…",
         "source": "mixed-news.com",
-        "date": "Sun, 04 Oct 2026 16:43:47 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_aadd590c459817c687325b60b17e52a8884b1f3b.1920x1080.jpg"
+        "date": "Sun, 04 Oct 2026 19:49:23 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2024/11/Meta-Quest-3-Room-Scan.jpg"
       },
       {
         "title": "Quest's Horizon+ Subscription Now Offers Free Add-Ons For Games",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/titanfall-2-vr-mod.jpg?resize=1920%2C1280&quality=89&ssl=1"
       },
       {
-        "title": "Meta's glasses toolkit 1.0 reaches React Native, but apps using it cannot be published",
-        "url": "https://mixed-news.com/en/expo-meta-wearables-dat-1-0-wrapper-experimental-cannot-publish/",
-        "summary": "An independent Expo module published on October 3 at 18:35 UTC became the first third-party package to wrap version 1.0 of Meta's Wearables Device Access Toolkit for React Native.",
+        "title": "OpenAI says senior leaders should each be able to veto a frontier training run",
+        "url": "https://mixed-news.com/en/openai-safety-cases-frontier-ai-training-guidelines-veto/",
+        "summary": "OpenAI has published a list of practices it says should govern a frontier training run, and it opens on a requirement rather than a principle: \"We believe we are entering a new era…",
         "source": "mixed-news.com",
-        "date": "Sun, 04 Oct 2026 15:57:02 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/03_Ray-Ban-Meta-Gen3_Carousel_03.jpg"
+        "date": "Sun, 04 Oct 2026 19:03:02 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/towards-safety-cases-for-frontier-ai-training-seo.png"
       },
       {
         "title": "Manage Miniature Motorways Later This Month In Traffix XR: Cities Of Tomorrow",
@@ -53,7 +53,7 @@
     ],
     "AI": [
       {
-        "title": "Well, if AI said it, it must be true",
+        "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
         "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics…",
         "source": "theverge.com",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Packers fans could take over Raymond James Stadium on Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-fans-could-take-over-raymond-james-stadium-on-sunday",
-        "summary": "Six years after the Buccaneers and Packers met in the NFC Championship, the rivalry is inching back toward \"Bay of Pigs\" territory.",
+        "title": "Packers hold on for 17-14 win over Bucs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-hold-on-for-17-14-win-over-bucs",
+        "summary": "It wasn't pretty, but a win is a win is a win, and the Packers will take it.",
         "source": "nbcsports.com",
-        "date": "Sun, 04 Oct 2026 12:44:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c2ceb5c/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F0f%2Fc629f37d4bb68add824f965735d8%2F2297602862.jpg"
+        "date": "Sun, 04 Oct 2026 16:04:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7c70377/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2Fe8%2Fffe063c549c889a22d7248ed157c%2F2297993756.jpg"
       },
       {
-        "title": "Jonathan Taylor and the Colts top Athan Kaliakmanis and the Commanders in London",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-taylor-and-the-colts-top-athan-kaliakmanis-and-the-commanders-in-london",
-        "summary": "With the Commanders down to their third-string quarterback, the Colts' running game took control.",
+        "title": "Kyle Monangai, Tyson Bagent lead Bears to 23-12 win over Jets",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-monangai-tyson-bagent-lead-bears-to-23-12-win-over-jets",
+        "summary": "The Bears won without Caleb Williams for the second straight week.",
         "source": "nbcsports.com",
-        "date": "Sun, 04 Oct 2026 12:40:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/faafd46/2147483647/strip/false/crop/5091x2864+0+306/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2F8b%2F29a8aa004e688964fc64831cf585%2F2298532868.jpg"
+        "date": "Sun, 04 Oct 2026 15:59:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c72ca1/2147483647/strip/false/crop/3244x1825+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2Fa9%2Ff0e31c264d0a98cb221253e66f0b%2F2298575884.jpg"
       },
       {
-        "title": "CeeDee Lamb thinks he can't be guarded (and it helps to have George Pickens)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-thinks-he-cant-be-guarded-and-it-helps-to-have-george-pickens",
-        "summary": "Through three games in 2026, Cowboys receiver CeeDee Lamb has 20 catches for 309 yards and three touchdowns.",
+        "title": "Kyle Shanahan passes Bill Walsh today for most games as 49ers coach",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-passes-bill-walsh-today-for-most-games-as-49ers-coach",
+        "summary": "In his tenth season as head coach of the 49ers, Kyle Shanahan is to become the coach with the most total games in franchise history.",
         "source": "nbcsports.com",
-        "date": "Sun, 04 Oct 2026 12:26:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a8b2381/2147483647/strip/false/crop/4427x2490+0+230/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2Ff3%2Ff78135274acfb100d938f2101731%2F2247404609.jpg"
+        "date": "Sun, 04 Oct 2026 15:45:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bca1043/2147483647/strip/false/crop/6000x3375+0+437/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2F7a%2F548e1afa4b45837758785a82fc22%2F2297651361.jpg"
       },
       {
-        "title": "Bears poised to be first team since 1997 Jaguars to start three quarterbacks in first four games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-poised-to-be-first-team-since-1997-jaguars-to-start-three-quarterbacks-in-first-four-games",
-        "summary": "If, as expected, quarterback Tyson Bagent starts for the Bears today, he'll be the third quarterback to start for Chicago this year.",
+        "title": "Javonte Williams scores third TD of second half, giving Cowboys their first lead",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/javonte-williams-scores-third-td-of-second-half-giving-cowboys-first-lead",
+        "summary": "The Cowboys scored six points in the first half, missing two other field goal tries.",
         "source": "nbcsports.com",
-        "date": "Sun, 04 Oct 2026 12:12:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/27bfa2a/2147483647/strip/false/crop/5676x3193+0+296/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2F28%2F07e0caa744e58fcf80f87b444339%2F2026-09-22t081558z-1255129990-mt1usatoday29884414-rtrmadp-3-nfl-minnesota-vikings-at-chicago-bears.jpg"
+        "date": "Sun, 04 Oct 2026 15:36:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c29b816/2147483647/strip/false/crop/4350x2447+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F49%2F873682744a38b08ebc48dc7f260a%2F2026-10-04t183752z-130209370-mt1usatoday29997123-rtrmadp-3-nfl-dallas-cowboys-at-houston-texans.jpg"
       },
       {
-        "title": "Lane Johnson is inactive for the Eagles",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-johnson-is-inactive-for-the-eagles",
-        "summary": "The Eagles announced right tackle Lane Johnson was questionable to play against the Rams shortly before they released their inactive list for Sunday's game and they confirmed that…",
+        "title": "Packers rule out LB Edgerrin Cooper with an Achilles injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-rule-out-lb-edgerrin-cooper-with-an-achilles-injury",
+        "summary": "Packers linebacker Edgerrin Cooper is out for today's game, and the concern is his availability for the rest of his season.",
         "source": "nbcsports.com",
-        "date": "Sun, 04 Oct 2026 11:42:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3328a2e/2147483647/strip/false/crop/8256x4644+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2Fe5%2F8b3056ac4e4991ec87b2adec933f%2F2289346869.jpg"
+        "date": "Sun, 04 Oct 2026 15:25:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aca212f/2147483647/strip/false/crop/4050x2278+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F5c%2F9928ddfc45278e26bce730a65e00%2F2026-10-04t190107z-1175280501-mt1usatoday29998043-rtrmadp-3-nfl-green-bay-packers-at-tampa-bay-buccaneers.jpg"
       },
       {
-        "title": "Joey Porter Jr. will make his Cowboys debut on Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-will-make-his-cowboys-debut-on-sunday",
-        "summary": "Porter was acquired in a trade with the Steelers this week.",
+        "title": "Jaxon Smith-Njigba looks to match a feat only Randy Moss has achieved",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxon-smith-njigba-looks-to-match-a-feat-only-randy-moss-has-achieved",
+        "summary": "Seahawks receiver Jaxon Smith-Njigba has increased his production to more than justify his market-leading contract.",
         "source": "nbcsports.com",
-        "date": "Sun, 04 Oct 2026 11:37:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8e06c30/2147483647/strip/false/crop/5877x3306+0+397/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fab%2Fd2%2F3abae6ba40178996f1cc5e28cdcc%2F2290536423.jpg"
+        "date": "Sun, 04 Oct 2026 15:16:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9a05787/2147483647/strip/false/crop/5774x3248+0+301/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F88%2Fb1%2Ff8a8703b4ea59cdc8969b6473479%2F2298570807.jpg"
       }
     ]
   }
