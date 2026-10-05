@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-05T17:15:48.616Z",
+  "updated": "2026-10-05T23:14:22.445Z",
   "feed": {
     "VR": [
       {
-        "title": "DEVOUR's Halloween event hides 70 pumpkins across seven maps and runs to November 3",
-        "url": "https://mixed-news.com/en/devour-halloween-event-2026-70-pumpkins-seven-maps/",
-        "summary": "DEVOUR's Halloween event is running, and the thing to find is a pumpkin.",
+        "title": "AMD's Cyberpunk 2077 note for RX 9050 4GB owners is absent from Adrenalin 26.9.2",
+        "url": "https://mixed-news.com/en/amd-rx-9050-4gb-cyberpunk-2077-advisory-absent-adrenalin-26-9-2/",
+        "summary": "For two driver releases AMD gave RX 9050 4GB owners a specific instruction about Cyberpunk 2077, and in the third it is not there.",
         "source": "mixed-news.com",
-        "date": "Mon, 05 Oct 2026 16:27:37 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_7545218574056a589e033425412d14b963b09e9a.1920x1080.jpg"
+        "date": "Mon, 05 Oct 2026 22:35:39 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.1920x1080.jpg"
+      },
+      {
+        "title": "Quest PTC Overhauls Window Management & Brings Back Classic Home Environments",
+        "url": "https://www.uploadvr.com/quests-latest-ptc-overhauls-window-management-brings-back-classic-home-environments/",
+        "summary": "Meta's Horizon OS 2.9 PTC update is rolling out for Quest, introducing an overhauled 2D window management system and bringing back classic Home environments.",
+        "source": "uploadvr.com",
+        "date": "Mon, 05 Oct 2026 14:01:39 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Quest-Horizon-OS-2.9-PTC.png"
       },
       {
         "title": "This App Lets You Actually Experience Meta VR Glasses’ Field of View Before You Upgrade",
@@ -19,20 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/quest-vr-glasses-fov.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Quest's Horizon+ Subscription Now Offers Free Add-Ons For Games",
-        "url": "https://www.uploadvr.com/quests-horizon-subscription-now-offers-free-add-ons-for-games/",
-        "summary": "Quest's Horizon+ subscription now offers free add-ons for games, plus Swarm 2 and Waltz of the Wizard are this month's monthly titles.",
-        "source": "uploadvr.com",
-        "date": "Sun, 04 Oct 2026 05:37:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/meta-horizon-plus-games-for-october-26.png"
-      },
-      {
-        "title": "Gears of War: E-Day gets Microsoft's shader fix first, with Nvidia and Intel later",
-        "url": "https://mixed-news.com/en/gears-of-war-e-day-advanced-shader-delivery-nvidia-intel-later/",
-        "summary": "Microsoft says Gears of War: E-Day will be the first game to support Advanced Shader Delivery across its expanded range of Windows hardware, the feature that hands a PC its…",
+        "title": "Nvidia's known-issues list carried one GeForce bug for seven drivers, then dropped it",
+        "url": "https://mixed-news.com/en/nvidia-geforce-bug-6007998-seven-drivers-617-14-known-issues/",
+        "summary": "Nvidia's Windows release notes listed the same GeForce bug as an open issue in seven consecutive drivers, from 610.47 on May 26 through to 616.92 on September 9.",
         "source": "mixed-news.com",
-        "date": "Mon, 05 Oct 2026 15:41:19 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/gow1.webp"
+        "date": "Mon, 05 Oct 2026 22:12:37 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/nvidia-kv-2026-ari.jpg"
       },
       {
         "title": "PSVR Exclusive ‘Astro Bot Rescue Mission’ Running on Quest 3 is the Latest in VR Mod Explosion",
@@ -43,22 +43,38 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Manage Miniature Motorways Later This Month In Traffix XR: Cities Of Tomorrow",
-        "url": "https://www.uploadvr.com/manage-miniature-motorways-later-this-month-in-traffix-xr-cities-of-tomorrow/",
-        "summary": "Traffix XR: Cities of Tomorrow is a mini motorway management game coming to Quest 3 this month.",
+        "title": "Quest's Horizon+ Subscription Now Offers Free Add-Ons For Games",
+        "url": "https://www.uploadvr.com/quests-horizon-subscription-now-offers-free-add-ons-for-games/",
+        "summary": "Quest's Horizon+ subscription now offers free add-ons for games, plus Swarm 2 and Waltz of the Wizard are this month's monthly titles.",
         "source": "uploadvr.com",
-        "date": "Sun, 04 Oct 2026 05:21:38 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Cover_Trailer-1.png"
+        "date": "Sun, 04 Oct 2026 05:37:35 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/meta-horizon-plus-games-for-october-26.png"
       }
     ],
     "AI": [
       {
-        "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-        "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide.",
+        "title": "Gemini Call for Me might tell your mom you’re running late",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family.",
         "source": "theverge.com",
-        "date": "2026-10-05T12:55:42-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-05T19:09:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+        "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+        "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+        "source": "arstechnica.com",
+        "date": "Mon, 05 Oct 2026 22:26:35 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
+      },
+      {
+        "title": "This startup is issuing AI-generated acne prescriptions",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+        "summary": "People in Utah can now use AI to get a prescription for acne treatment.",
+        "source": "theverge.com",
+        "date": "2026-10-05T16:14:57-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
       },
       {
-        "title": "Sam Altman says ‘some bad things’ will happen but AI is totally worth it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-        "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way.",
+        "title": "All the drama around AI’s takeover of mathematics",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+        "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers…",
         "source": "theverge.com",
-        "date": "2026-10-05T12:44:21-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-05T15:28:59-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Thu, 01 Oct 2026 20:28:45 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
-      },
-      {
-        "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-        "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-        "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust,…",
-        "source": "theverge.com",
-        "date": "2026-10-05T10:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Memory executives expect RAM shortage to continue through 2028",
-        "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-        "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-        "source": "arstechnica.com",
-        "date": "Thu, 01 Oct 2026 17:49:56 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Report: Rashawn Slater believed to have a high-ankle sprain",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rashawn-slater-believed-to-have-a-high-ankle-sprain",
-        "summary": "The Chargers saw left tackle Rashawn Slater get hurt in Sunday's loss to the Seahawks and the 0-4 team is reportedly set to be without him for a while.",
+        "title": "Monday Night Football: Saints TE Noah Fant is inactive; Falcons LB Samson Ebukam will play",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-saints-te-noah-fant-is-inactive-falcons-lb-samson-ebukam-will-play",
+        "summary": "The Saints will not have tight end Noah Fant for Monday Night Football.",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 12:55:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/54e67ed/2147483647/strip/false/crop/3180x1789+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3f%2F4d%2F1e2f273e43b4acfa40a9afd8f1dd%2F2297804285.jpg"
+        "date": "Mon, 05 Oct 2026 19:11:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1cf11e0/2147483647/strip/false/crop/3848x2165+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F98%2F2d1c123646d8a79a3dc08a4b87d6%2F2294665381.jpg"
       },
       {
-        "title": "Tyson Bagent is expected to start Week 5 vs. Packers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyson-bagent-is-expected-to-start-week-5-vs-packers",
-        "summary": "Ben Johnson isn't going to play the, \"Who's going to start?\"",
+        "title": "Free agent RB Joe Mixon to join Seahawks' practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/free-agent-rb-joe-mixon-to-join-seahawks-practice-squad",
+        "summary": "The Seahawks are signing running back Joe Mixon to their practice squad.",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 12:49:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/552533c/2147483647/strip/false/crop/3498x1968+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2F75%2Fc80ddfff452d8b787ee05608d278%2F2298687041.jpg"
+        "date": "Mon, 05 Oct 2026 18:50:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6a90fb0/2147483647/strip/false/crop/3043x1712+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F59%2F26%2Fa6b39fdd4a66bc8b0fbbb187628d%2F2193254063.jpg"
       },
       {
-        "title": "Broncos WR Pat Bryant is expected to miss time with sprained ankle",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-wr-pat-bryant-is-expected-to-miss-time-with-sprained-ankle",
-        "summary": "The Broncos had a pair of players leave Sunday's loss to the 49ers with ankle injuries, but early word on both is that they avoided serious injuries.",
+        "title": "Sean McVay: Rams coaches will learn from incident with Eagles fans",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-rams-coaches-will-learn-from-incident-with-eagles-fans",
+        "summary": "Some of the Rams assistant coaches did not win gracefully on Sunday.",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 12:48:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cef81e2/2147483647/strip/false/crop/4500x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F2e%2Feeeff45d41348709feb87c128ff6%2F2298603205.jpg"
+        "date": "Mon, 05 Oct 2026 18:37:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ac3bef9/2147483647/strip/false/crop/8256x4644+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2F42%2F59da04a74c3b96da47d4c2ab0ce9%2F2298143879.jpg"
       },
       {
-        "title": "Steelers sign CB Sean Murphy-Bunting off Bucs practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-sign-cb-sean-murphy-bunting-off-bucs-practice-squad",
-        "summary": "After the Steelers traded Joey Porter Jr. to the Cowboys, help is on the way for Pittsburgh’s secondary.",
+        "title": "Mike McCarthy, Aaron Rodgers talked \"numerous times\" after Thursday night's heated exchange",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-aaron-rodgers-talked-numerous-times-after-thursday-nights-heated-exchange",
+        "summary": "Week 4 began with Steelers quarterback Aaron Rodgers and coach Mike McCarthy exchanging unpleasantries for all the world to see, and hear.",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 12:33:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ce60bb8/2147483647/strip/false/crop/3607x2029+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2Ffe%2Fae18654544d3a0fcc1f042ed9c33%2F2188532255.jpg"
+        "date": "Mon, 05 Oct 2026 18:11:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/18d391c/2147483647/strip/false/crop/7002x3939+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2F28%2F753ea1bc46b59a8444de39dd3d06%2F2290536305.jpg"
       },
       {
-        "title": "Report: Kyle Juszczyk could miss a couple of weeks with knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-kyle-juszczyk-could-miss-a-couple-of-weeks-with-knee-injury",
-        "summary": "49ers fullback Kyle Juszczyk had to leave Sunday's win over the Broncos with a knee injury, but early indications are that he will avoid a long absence from the lineup.",
+        "title": "Bills CB Maxwell Hairston says he's got to be better in every way",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-cb-maxwell-hairston-says-hes-got-to-be-better-in-every-way",
+        "summary": "The Bills are not benching cornerback Maxwell Hairston, who has struggled this season.",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 12:31:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ab6c767/2147483647/strip/false/crop/4501x2532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8c%2F39%2F03b6adcb4d4fac383425a8fbfb2e%2F2298615560.jpg"
+        "date": "Mon, 05 Oct 2026 18:06:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6baaf95/2147483647/strip/false/crop/4728x2660+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2F60%2F0dc27bcd4fb48143c16e9728675d%2F2298574526.jpg"
       },
       {
-        "title": "Klint Kubiak on taking made FG off the board: I don't regret it, I regret not getting a first down",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-on-taking-made-fg-off-the-board-i-dont-regret-it-i-regret-not-getting-a-first-down",
-        "summary": "In the third quarter of Las Vegas’ matchup against Kansas City on Sunday, Raiders head coach Klint Kubiak made a choice.",
+        "title": "Cardinals left tackle Paris Johnson out for season with torn biceps",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-left-tackle-paris-johnson-out-for-season-with-torn-biceps",
+        "summary": "The Cowboys have lost their starting left tackle for the season.",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 11:57:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9e91716/2147483647/strip/false/crop/3808x2142+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F35%2F219addb14033a85f52f0a4a3e151%2F2298599253.jpg"
+        "date": "Mon, 05 Oct 2026 17:57:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/03893ac/2147483647/strip/false/crop/3725x2095+0+223/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2F36%2F5f65c4db4a9e88f82f251d557246%2F2298688197.jpg"
       }
     ]
   }
