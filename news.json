@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-06T09:59:03.420Z",
+  "updated": "2026-10-06T16:34:07.530Z",
   "feed": {
     "VR": [
       {
-        "title": "Valve's Proton maintainer answers an LLM-assisted crash fix with Wine's ban on LLM code",
-        "url": "https://mixed-news.com/en/valve-proton-maintainer-wine-llm-code-rule-space-marine-2-fix/",
-        "summary": "Valve's maintainer on the Proton issue tracker answered a request to merge a crash fix for Warhammer 40,000: Space Marine 2 by pointing at Wine's rule on code written with a large…",
+        "title": "Gaijin banned 3,984 War Thunder accounts, and the list of names stays up for two weeks",
+        "url": "https://mixed-news.com/en/war-thunder-fair-play-3984-bans-two-week-list/",
+        "summary": "Gaijin Entertainment has banned 3,984 War Thunder accounts for bot use and cheat software, and issued a further 661 temporary bans over a scoring exploit in the game's Space…",
         "source": "mixed-news.com",
-        "date": "Tue, 06 Oct 2026 09:24:15 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_20a753725a34225553c5873fbc079626451ebcf9.1920x1080.jpg"
+        "date": "Tue, 06 Oct 2026 16:28:46 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/dbfee5603f9da529f0681f3dee3558ea220f997d.jpg"
       },
       {
         "title": "Quest PTC Overhauls Window Management & Brings Back Classic Home Environments",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/quest-vr-glasses-fov.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Apple will tighten macOS Full Disk Access, and names AI agents as a reason",
-        "url": "https://mixed-news.com/en/apple-macos-full-disk-access-additional-controls-ai-agents/",
-        "summary": "Apple will add new controls to Full Disk Access on macOS, the permission that lets an app read everything on a Mac, and it names AI agents as a reason.",
+        "title": "AMD's Instinct security bulletin names two CVEs for one flaw, and explains only one",
+        "url": "https://mixed-news.com/en/amd-sb-6033-rccl-cve-2026-43598-54974-instinct-rocm-7-14/",
+        "summary": "AMD's security bulletin AMD-SB-6033, published on September 30, describes a single flaw in the ROCm Communication Collectives Library and gives it the identifier CVE-2026-43598.",
         "source": "mixed-news.com",
-        "date": "Tue, 06 Oct 2026 07:47:49 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2022/02/Artificial-Intelligence-unsplash.jpg"
+        "date": "Tue, 06 Oct 2026 15:42:33 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/AMD_header_chip4_colour.CUunlIvx.jpg"
       },
       {
         "title": "PSVR Exclusive ‘Astro Bot Rescue Mission’ Running on Quest 3 is the Latest in VR Mod Explosion",
@@ -53,12 +53,44 @@
     ],
     "AI": [
       {
-        "title": "Gemini Call for Me might tell your mom you’re running late",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-        "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family.",
+        "title": "We can’t just change the definition of ‘recording’",
+        "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+        "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording.",
         "source": "theverge.com",
-        "date": "2026-10-05T19:09:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-06T12:29:44-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+        "source": "arstechnica.com",
+        "date": "Tue, 06 Oct 2026 12:21:53 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
+      },
+      {
+        "title": "Google is about to remove free access to Gemini Flash and Pro",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+        "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model.",
+        "source": "theverge.com",
+        "date": "2026-10-06T09:19:01-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+        "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+        "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+        "source": "arstechnica.com",
+        "date": "Tue, 06 Oct 2026 12:00:31 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
+      },
+      {
+        "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+        "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+        "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often…",
+        "source": "theverge.com",
+        "date": "2026-10-06T06:53:11-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -67,88 +99,56 @@
         "source": "arstechnica.com",
         "date": "Mon, 05 Oct 2026 22:26:35 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
-      },
-      {
-        "title": "This startup is issuing AI-generated acne prescriptions",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-        "summary": "People in Utah can now use AI to get a prescription for acne treatment.",
-        "source": "theverge.com",
-        "date": "2026-10-05T16:14:57-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-        "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-        "source": "arstechnica.com",
-        "date": "Fri, 02 Oct 2026 23:03:16 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
-      },
-      {
-        "title": "All the drama around AI’s takeover of mathematics",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-        "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers…",
-        "source": "theverge.com",
-        "date": "2026-10-05T15:28:59-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-        "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-        "summary": "It has been a bad month for federal government cybersecurity.",
-        "source": "arstechnica.com",
-        "date": "Thu, 01 Oct 2026 20:28:45 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
       }
     ],
     "NFL": [
       {
-        "title": "Jim Harbaugh not happy with reporter for \"more insult than question\" about Justin Herbert",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-not-happy-with-reporter-for-more-insult-than-question-about-justin-herbert",
-        "summary": "Chargers head coach Jim Harbaugh was not happy with a reporter's line of questioning about quarterback Justin Herbert and the Chargers' inability to build a successful offense…",
+        "title": "Tyler Smith thinks \"it's possible\" he returns against Buccaneers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-smith-thinks-its-possible-he-returns-against-buccaneers",
+        "summary": "Cowboys guard Tyler Smith was designated for return from injured reserve on Monday and he addressed whether he thinks he'll be ready to play against the Buccaneers on Thursday.",
         "source": "nbcsports.com",
-        "date": "Tue, 06 Oct 2026 05:29:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a84bb6a/2147483647/strip/false/crop/4500x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F4b%2Fbadb3e0b43848dc62be3f029d790%2F2298608095.jpg"
+        "date": "Tue, 06 Oct 2026 12:10:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5115125/2147483647/strip/false/crop/7752x4361+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2Fa1%2Fcdfe04d4478bbd5fc32d340d7aee%2F2250397230.jpg"
       },
       {
-        "title": "Kellen Moore: Really disappointing how Saints played on an incredible night in New Orleans",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-really-disappointing-how-saints-played-on-an-incredible-night-in-new-orleans",
-        "summary": "On the 20th anniversary of the Saints' return to New Orleans following Hurricane Katrina, it was the Falcons who had a big game.",
+        "title": "Dan Campbell: We won't accept mediocrity on either side of the ball",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-we-wont-accept-mediocrity-on-either-side-of-the-ball",
+        "summary": "The Saints knocked the Lions out of the top spot for points allowed on Monday night, but being anywhere near the top of that list is not where teams want to be four weeks into the…",
         "source": "nbcsports.com",
-        "date": "Tue, 06 Oct 2026 04:41:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/17a20de/2147483647/strip/false/crop/3840x2160+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2F2f%2Fdb142f5f474393a3c6238147671e%2F2298786743.jpg"
+        "date": "Tue, 06 Oct 2026 11:41:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a2c409f/2147483647/strip/false/crop/8153x4586+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2F0c%2F72df3d1e4bf98a2cc80297556437%2F2298879986.jpg"
       },
       {
-        "title": "Monday Night Football: Falcons run over Saints 45-24 to ruin New Orleans' celebration",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-falcons-run-over-saints-45-24-to-ruin-new-orleans-celebration",
-        "summary": "Bijan Robinson and Brian Robinson combined for 207 rushing yards and five touchdowns.",
+        "title": "NFL was right to hold officials to a higher standard than coaches, players",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-was-right-to-hold-officials-to-a-higher-standard-than-coaches-players",
+        "summary": "On Monday, the NFL did what it needed to do, as to a pair of officials who failed to act the way officials should act.",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 23:32:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8dc2cb0/2147483647/strip/false/crop/3341x1879+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6f%2F58%2F9b2a0f6a4dafab84e382ac025c91%2F2298786309.jpg"
+        "date": "Tue, 06 Oct 2026 11:25:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e549b2f/2147483647/strip/false/crop/3825x2152+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fe2%2Fdd7f5f224951a22a7adacdf1e0b8%2F2237679874.jpg"
       },
       {
-        "title": "Seahawks had been planning to use Rashid Shaheed at tailback since training camp",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-had-been-planning-to-use-rashid-shaheed-at-tailback-since-training-camp",
-        "summary": "With the Seahawks thin at running back on Sunday, they deployed receiver Rashid Shaheed in the backfield.",
+        "title": "Steelers bring KJ Henry back to their practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-bring-kj-henry-back-to-their-practice-squad",
+        "summary": "For the third time in the last 12 months, pass rusher KJ Henry has signed with the Steelers.",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 22:46:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8abd3d3/2147483647/strip/false/crop/4500x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2F22%2Fa1b939df4dc9944490950fb35a78%2F2298595746.jpg"
+        "date": "Tue, 06 Oct 2026 11:14:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7cb5130/2147483647/strip/false/crop/5303x2983+0+276/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2Fce%2Fa26d58f34da890ac4d6d087e56fc%2F2167331272.jpg"
       },
       {
-        "title": "LT Jake Matthews ruled out as Falcons take 31-7 lead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lt-jake-matthews-ruled-out-as-falcons-take-31-7-lead",
-        "summary": "Falcons left tackle Jake Matthews will not return tonight.",
+        "title": "Sean McVay says Rams' coaches need to \"get the hell out of the way\" after sideline penalty",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-says-rams-coaches-need-to-get-the-hell-out-of-the-way-after-sideline-penalty",
+        "summary": "Rams quarterbacks coach Dave Ragone got a 15-yard penalty for unsportsmanlike conduct on Sunday after he stood too close to the field and collided with an official who was running…",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 22:38:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a225a6a/2147483647/strip/false/crop/7578x4263+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2F0e%2F23b5337548deaaa30ca0e1ee52b8%2F2297812688.jpg"
+        "date": "Tue, 06 Oct 2026 10:52:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7f3a5f1/2147483647/strip/false/crop/6455x3631+0+336/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2F4f%2Ff26a42334157bbe0d02690fd6df5%2F2298026298.jpg"
       },
       {
-        "title": "Marcus Davenport will retire from football",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marcus-davenport-will-retire-from-football",
-        "summary": "Veteran pass rusher Marcus Davenport didn't request his release from the Bears' practice squad so that he could sign with another team's practice squad.",
+        "title": "Bijan Robinson, Kenneth Walker III should be serious MVP candidates",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-kenneth-walker-iii-should-be-serious-mvp-candidates",
+        "summary": "The MVP award has become, essentially, a \"best quarterback\" award — with rare exceptions.",
         "source": "nbcsports.com",
-        "date": "Mon, 05 Oct 2026 22:23:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3e7e3a/2147483647/strip/false/crop/5376x3024+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2F06%2F371e7a2c4791863ba1579bed68c3%2F952137812.jpg"
+        "date": "Tue, 06 Oct 2026 10:48:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b1b8e1/2147483647/strip/false/crop/5444x3062+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fa9%2F2e60d5744799a277f02540c561a3%2F2298785297.jpg"
       }
     ]
   }
