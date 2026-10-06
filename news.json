@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-06T16:34:07.530Z",
+  "updated": "2026-10-06T21:13:21.363Z",
   "feed": {
     "VR": [
+      {
+        "title": "15 Years of XR, Through the Lens of Road to VR",
+        "url": "https://roadtovr.com/xr-industry-timeline-road-to-vr-15-year-anniversary/",
+        "summary": "This month Road to VR celebrates its 15th year of bringing you the most important news across the XR landscape.",
+        "source": "roadtovr.com",
+        "date": "Tue, 06 Oct 2026 19:40:53 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/ben-lang-meta-ar-headset.jpg?resize=1883%2C1255&quality=89&ssl=1"
+      },
+      {
+        "title": "Titanfall 2's VR Mod Is Stellar, And Its Installer Is The Best Thing About It",
+        "url": "https://www.uploadvr.com/titanfall-2s-vr-mod-is-stellar-and-its-installer-is-the-best-thing-about-it/",
+        "summary": "Titanfall 2's VR mod is stellar, and the best part is CircuitLord's excellent installer for it.",
+        "source": "uploadvr.com",
+        "date": "Tue, 06 Oct 2026 12:13:27 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/titanfall-2-ark-1-2560x1440-a4cd922cfdc6.png"
+      },
       {
         "title": "Gaijin banned 3,984 War Thunder accounts, and the list of names stays up for two weeks",
         "url": "https://mixed-news.com/en/war-thunder-fair-play-3984-bans-two-week-list/",
@@ -11,20 +27,20 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/dbfee5603f9da529f0681f3dee3558ea220f997d.jpg"
       },
       {
-        "title": "Quest PTC Overhauls Window Management & Brings Back Classic Home Environments",
-        "url": "https://www.uploadvr.com/quests-latest-ptc-overhauls-window-management-brings-back-classic-home-environments/",
-        "summary": "Meta's Horizon OS 2.9 PTC update is rolling out for Quest, introducing an overhauled 2D window management system and bringing back classic Home environments.",
+        "title": "Fresh Tracks VR Impression: A Wintry Mix Of Ski And Sorcery",
+        "url": "https://www.uploadvr.com/fresh-tracks-vr-impressions/",
+        "summary": "Fresh Tracks VR combines rhythm game mechanics with a roguelike gameplay loop and a catchy albeit sometimes repetitive soundtrack.",
         "source": "uploadvr.com",
-        "date": "Mon, 05 Oct 2026 14:01:39 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Quest-Horizon-OS-2.9-PTC.png"
+        "date": "Tue, 06 Oct 2026 11:50:02 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Fresh-Tracks-VR-Skiing.jpg"
       },
       {
-        "title": "This App Lets You Actually Experience Meta VR Glasses’ Field of View Before You Upgrade",
-        "url": "https://roadtovr.com/meta-vr-glasses-field-of-view-simulator/",
-        "summary": "Meta announced its VR Glasses at Connect last month, which is looking to appeal more to productivity and casual content by virtue of its high pixel density micro-OLED displays.",
+        "title": "Pimax Aims to Take on Steam Frame with New ‘Crystal Pro’ Headset, Priced at $1,400",
+        "url": "https://roadtovr.com/pimax-steam-frame-crystal-pro-price-release/",
+        "summary": "Pimax announced its next major VR headset, Crystal Pro, which not only boasts high-fidelity PC VR streaming, but also some native standalone gameplay too.",
         "source": "roadtovr.com",
-        "date": "Mon, 05 Oct 2026 09:31:58 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/quest-vr-glasses-fov.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Tue, 06 Oct 2026 16:41:25 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/crystal-pro.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "AMD's Instinct security bulletin names two CVEs for one flaw, and explains only one",
@@ -33,25 +49,17 @@
         "source": "mixed-news.com",
         "date": "Tue, 06 Oct 2026 15:42:33 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/AMD_header_chip4_colour.CUunlIvx.jpg"
-      },
-      {
-        "title": "PSVR Exclusive ‘Astro Bot Rescue Mission’ Running on Quest 3 is the Latest in VR Mod Explosion",
-        "url": "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/",
-        "summary": "AI vibecoding has caused a veritable explosion in the VR modding scene.",
-        "source": "roadtovr.com",
-        "date": "Mon, 05 Oct 2026 08:20:57 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Quest's Horizon+ Subscription Now Offers Free Add-Ons For Games",
-        "url": "https://www.uploadvr.com/quests-horizon-subscription-now-offers-free-add-ons-for-games/",
-        "summary": "Quest's Horizon+ subscription now offers free add-ons for games, plus Swarm 2 and Waltz of the Wizard are this month's monthly titles.",
-        "source": "uploadvr.com",
-        "date": "Sun, 04 Oct 2026 05:37:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/meta-horizon-plus-games-for-october-26.png"
       }
     ],
     "AI": [
+      {
+        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+        "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+        "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+        "source": "arstechnica.com",
+        "date": "Tue, 06 Oct 2026 19:21:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
+      },
       {
         "title": "We can’t just change the definition of ‘recording’",
         "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
@@ -61,20 +69,20 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-        "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
-        "source": "arstechnica.com",
-        "date": "Tue, 06 Oct 2026 12:21:53 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
-      },
-      {
         "title": "Google is about to remove free access to Gemini Flash and Pro",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
         "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model.",
         "source": "theverge.com",
         "date": "2026-10-06T09:19:01-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
+        "source": "arstechnica.com",
+        "date": "Tue, 06 Oct 2026 12:21:53 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
       },
       {
         "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
@@ -91,64 +99,56 @@
         "source": "theverge.com",
         "date": "2026-10-06T06:53:11-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-        "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-        "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-        "source": "arstechnica.com",
-        "date": "Mon, 05 Oct 2026 22:26:35 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Tyler Smith thinks \"it's possible\" he returns against Buccaneers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-smith-thinks-its-possible-he-returns-against-buccaneers",
-        "summary": "Cowboys guard Tyler Smith was designated for return from injured reserve on Monday and he addressed whether he thinks he'll be ready to play against the Buccaneers on Thursday.",
+        "title": "Chiefs-Raiders drew 28.4 million viewers, most-watched game of the season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-raiders-drew-28-4-million-viewers-most-watched-game-of-the-season",
+        "summary": "Sunday's late afternoon game on CBS was the NFL's most-watched broadcast of the season so far.",
         "source": "nbcsports.com",
-        "date": "Tue, 06 Oct 2026 12:10:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5115125/2147483647/strip/false/crop/7752x4361+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2Fa1%2Fcdfe04d4478bbd5fc32d340d7aee%2F2250397230.jpg"
+        "date": "Tue, 06 Oct 2026 17:02:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ffdf465/2147483647/strip/false/crop/3501x1969+0+373/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2F07%2F717bab0041659f59a513f7142567%2F2298853946.jpg"
       },
       {
-        "title": "Dan Campbell: We won't accept mediocrity on either side of the ball",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-we-wont-accept-mediocrity-on-either-side-of-the-ball",
-        "summary": "The Saints knocked the Lions out of the top spot for points allowed on Monday night, but being anywhere near the top of that list is not where teams want to be four weeks into the…",
+        "title": "Bucs add K Chase McLaughlin to their injury report",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-add-k-chase-mclaughlin-to-their-injury-report",
+        "summary": "The Buccaneers added kicker Chase McLaughlin to their injury report on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 06 Oct 2026 11:41:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a2c409f/2147483647/strip/false/crop/8153x4586+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2F0c%2F72df3d1e4bf98a2cc80297556437%2F2298879986.jpg"
+        "date": "Tue, 06 Oct 2026 16:43:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c21516e/2147483647/strip/false/crop/7392x4158+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Fe6%2F146da90d42d9b539a8d0e128bcfe%2F2296268633.jpg"
       },
       {
-        "title": "NFL was right to hold officials to a higher standard than coaches, players",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-was-right-to-hold-officials-to-a-higher-standard-than-coaches-players",
-        "summary": "On Monday, the NFL did what it needed to do, as to a pair of officials who failed to act the way officials should act.",
+        "title": "Cardinals signing Jedrick Wills, place Paris Johnson on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-signing-jedrick-wills-place-paris-johnson-on-ir",
+        "summary": "With Paris Johnson Jr. out for the season with a torn biceps, the Cardinals have added a former first-round pick to their offensive line.",
         "source": "nbcsports.com",
-        "date": "Tue, 06 Oct 2026 11:25:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e549b2f/2147483647/strip/false/crop/3825x2152+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fe2%2Fdd7f5f224951a22a7adacdf1e0b8%2F2237679874.jpg"
+        "date": "Tue, 06 Oct 2026 16:42:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7bf0518/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F614%2F787%2Fnbc_pft_refsuspensionsv2_261006.jpg"
       },
       {
-        "title": "Steelers bring KJ Henry back to their practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-bring-kj-henry-back-to-their-practice-squad",
-        "summary": "For the third time in the last 12 months, pass rusher KJ Henry has signed with the Steelers.",
+        "title": "Patriots release LB Jose Ramirez",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-release-lb-jose-ramirez",
+        "summary": "The Patriots have opened up a roster spot.",
         "source": "nbcsports.com",
-        "date": "Tue, 06 Oct 2026 11:14:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7cb5130/2147483647/strip/false/crop/5303x2983+0+276/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2Fce%2Fa26d58f34da890ac4d6d087e56fc%2F2167331272.jpg"
+        "date": "Tue, 06 Oct 2026 16:30:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/11446fd/2147483647/strip/false/crop/3900x2194+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F69%2F7c797cbd4170b703d269d72d39fa%2F2295944059.jpg"
       },
       {
-        "title": "Sean McVay says Rams' coaches need to \"get the hell out of the way\" after sideline penalty",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-says-rams-coaches-need-to-get-the-hell-out-of-the-way-after-sideline-penalty",
-        "summary": "Rams quarterbacks coach Dave Ragone got a 15-yard penalty for unsportsmanlike conduct on Sunday after he stood too close to the field and collided with an official who was running…",
+        "title": "CeeDee Lamb, Joey Porter Jr. remain full participants for Cowboys",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-joey-porter-jr-remain-full-participants-for-cowboys",
+        "summary": "The Cowboys practice report did not change on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 06 Oct 2026 10:52:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7f3a5f1/2147483647/strip/false/crop/6455x3631+0+336/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2F4f%2Ff26a42334157bbe0d02690fd6df5%2F2298026298.jpg"
+        "date": "Tue, 06 Oct 2026 16:20:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/61c36ae/2147483647/strip/false/crop/4942x2780+0+388/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2F71%2F49e10890451eaea38b6d78e25369%2F2298772639.jpg"
       },
       {
-        "title": "Bijan Robinson, Kenneth Walker III should be serious MVP candidates",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-kenneth-walker-iii-should-be-serious-mvp-candidates",
-        "summary": "The MVP award has become, essentially, a \"best quarterback\" award — with rare exceptions.",
+        "title": "Seahawks sign RB Robert Henry off Commanders practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-rb-robert-henry-off-commanders-practice-squad",
+        "summary": "Joe Mixon may not be joining the Seahawks, but the club is still adding a running back.",
         "source": "nbcsports.com",
-        "date": "Tue, 06 Oct 2026 10:48:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b1b8e1/2147483647/strip/false/crop/5444x3062+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fa9%2F2e60d5744799a277f02540c561a3%2F2298785297.jpg"
+        "date": "Tue, 06 Oct 2026 16:13:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9df213b/2147483647/strip/false/crop/2683x1509+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2Fd5%2Fbfeccd234c06852535ef053a330c%2F2290016593.jpg"
       }
     ]
   }
