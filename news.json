@@ -1,14 +1,46 @@
 {
-  "updated": "2026-10-07T13:45:49.779Z",
+  "updated": "2026-10-07T19:39:29.011Z",
   "feed": {
     "VR": [
       {
-        "title": "Unofficial project drives Rokid glasses with Meta's Neural Band and its handwriting model",
-        "url": "https://mixed-news.com/en/rokid-lumen-meta-neural-band-handwriting-model-reverse-engineered/",
-        "summary": "A developer has pointed the wristband that ships with Meta Ray-Ban Display at a pair of Rokid glasses, and says the band carries a handwriting model of its own.",
+        "title": "ChatGPT now takes audio uploads up to 512 MB, but not on the free plan",
+        "url": "https://mixed-news.com/en/chatgpt-audio-uploads-512mb-paid-plans-hidden-upload-quota/",
+        "summary": "ChatGPT now accepts audio files, so a recording can be turned into a transcript or a set of notes inside a normal conversation, and the free plan is not included.",
         "source": "mixed-news.com",
-        "date": "Wed, 07 Oct 2026 13:26:08 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Meta-Ray-Ban-Display_Social-Share.jpg"
+        "date": "Wed, 07 Oct 2026 18:46:09 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04.png"
+      },
+      {
+        "title": "New York Giants Bring Fans Onto The Field With 360° Video",
+        "url": "https://www.uploadvr.com/new-york-giants-bring-fans-onto-the-field-with-360deg-video/",
+        "summary": "New York Giants fans can now experience games in 360° video via the team's app and YouTube channel for viewing in VR.",
+        "source": "uploadvr.com",
+        "date": "Wed, 07 Oct 2026 10:48:05 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/360-nabers.jpg"
+      },
+      {
+        "title": "Norway Proposes Temporary Ban on Smart Glasses in Public Places",
+        "url": "https://roadtovr.com/norway-proposes-temporary-ban-on-smart-glasses-in-public-places/",
+        "summary": "The Norwegian government announced it’s aiming to introduce a temporary ban on smart glasses in a number of public locations, citing privacy as the main concern.",
+        "source": "roadtovr.com",
+        "date": "Wed, 07 Oct 2026 14:30:35 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/12/Ray-Ban-Meta-glasses.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "EA names two FC 27 PC performance bugs, and neither is on its late October list",
+        "url": "https://mixed-news.com/en/ea-sports-fc-27-pc-cloth-quality-frame-rate-limit-late-october/",
+        "summary": "EA has named two specific PC performance faults in EA SPORTS FC 27, and neither one is on the list it has given a date.",
+        "source": "mixed-news.com",
+        "date": "Wed, 07 Oct 2026 18:06:05 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.1920x1080.jpg"
+      },
+      {
+        "title": "Omega Pilot Evolution Review: Dynamic Racing With Two Major Caveats",
+        "url": "https://www.uploadvr.com/omega-pilot-evolution-review/",
+        "summary": "Futuristic VR racer Omega Pilot Evolution nails the sensation of speed, but the clunky weapon & grindy progression systems hold it back from true greatness.",
+        "source": "uploadvr.com",
+        "date": "Wed, 07 Oct 2026 08:57:37 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/b2fe8816003143f98927445ae6590421.jpeg"
       },
       {
         "title": "Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware",
@@ -17,48 +49,16 @@
         "source": "roadtovr.com",
         "date": "Wed, 07 Oct 2026 08:53:19 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/07/psvr2-prototype-7.jpg?resize=1600%2C1067&quality=89&ssl=1"
-      },
-      {
-        "title": "Titanfall 2's VR Mod Is Stellar, And Its Installer Is The Best Thing About It",
-        "url": "https://www.uploadvr.com/titanfall-2s-vr-mod-is-stellar-and-its-installer-is-the-best-thing-about-it/",
-        "summary": "Titanfall 2's VR mod is stellar, and the best part is CircuitLord's excellent installer for it.",
-        "source": "uploadvr.com",
-        "date": "Tue, 06 Oct 2026 12:13:27 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/titanfall-2-ark-1-2560x1440-a4cd922cfdc6.png"
-      },
-      {
-        "title": "Claude Code 2.1.292 switches stdio MCP servers to a new protocol, docs still say opt-in",
-        "url": "https://mixed-news.com/en/claude-code-2-1-292-stdio-mcp-protocol-2026-07-28-docs-contradict/",
-        "summary": "Claude Code 2.1.292 changes how it connects to local MCP servers, and the documentation that explains the setting still describes the older behaviour.",
-        "source": "mixed-news.com",
-        "date": "Wed, 07 Oct 2026 12:46:24 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/454390de9d9ccefb6082b7c2440c7547c1ec3964.webp"
-      },
-      {
-        "title": "15 Years of XR, Through the Lens of Road to VR",
-        "url": "https://roadtovr.com/xr-industry-timeline-road-to-vr-15-year-anniversary/",
-        "summary": "This month Road to VR celebrates its 15th year of bringing you the most important news across the XR landscape.",
-        "source": "roadtovr.com",
-        "date": "Tue, 06 Oct 2026 19:40:53 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/ben-lang-meta-ar-headset.jpg?resize=1883%2C1255&quality=89&ssl=1"
-      },
-      {
-        "title": "Fresh Tracks VR Impression: A Wintry Mix Of Ski And Sorcery",
-        "url": "https://www.uploadvr.com/fresh-tracks-vr-impressions/",
-        "summary": "Fresh Tracks VR combines rhythm game mechanics with a roguelike gameplay loop and a catchy albeit sometimes repetitive soundtrack.",
-        "source": "uploadvr.com",
-        "date": "Tue, 06 Oct 2026 11:50:02 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Fresh-Tracks-VR-Skiing.jpg"
       }
     ],
     "AI": [
       {
-        "title": "AI could upend food delivery",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-        "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue.",
+        "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+        "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals.",
         "source": "theverge.com",
-        "date": "2026-10-07T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268795_Can_AI_reform_overpriced_food_delivery__CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-07T15:10:42-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
-        "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-        "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an…",
+        "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+        "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+        "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.",
         "source": "theverge.com",
-        "date": "2026-10-07T05:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-07T14:42:22-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
       },
       {
-        "title": "OpenAI drops another batch of mathematical breakthroughs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-        "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families…",
+        "title": "Microsoft is giving Copilot more control over Windows and your files",
+        "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+        "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions…",
         "source": "theverge.com",
-        "date": "2026-10-06T19:26:38-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-07T14:01:20-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "North Carolina hires search firm to help find new G.M. to work with Bill Belichick",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/north-carolina-hires-search-firm-to-help-find-new-g-m-to-work-with-bill-belichick",
-        "summary": "North Carolina's ongoing support, fulsome or not, of coach Bill Belichick comes with expectations.",
+        "title": "Jesse Minter on Lamar Jackson: A lot of time between now and Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jesse-minter-on-lamar-jackson-a-lot-of-time-between-now-and-sunday",
+        "summary": "Ravens quarterback Lamar Jackson didn't practice on Wednesday because of the hamstring injury that has left doubt about whether he'll play against the Falcons this Sunday, but head…",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 09:41:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e0b3f3b/2147483647/strip/false/crop/3166x1781+0+165/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2F63%2F4a5411d24529a04de0b21df82c0e%2F2298251583.jpg"
+        "date": "Wed, 07 Oct 2026 15:15:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5f3bef3/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9a%2F46%2Fb00334b84c37956ff393064a908a%2F2298234824.jpg"
       },
       {
-        "title": "Colts sign DE Carl Lawson to their practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-sign-de-carl-lawson-to-their-practice-squad",
-        "summary": "The Colts have added a veteran defensive end ahead of Week 5.",
+        "title": "Cowboys rule out three, list LG Tyler Smith as questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-rule-out-three-list-lg-tyler-smith-as-questionable",
+        "summary": "The Cowboys ruled out three players, but they could have their starting left guard back for Thursday Night Football.",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 09:10:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/109e561/2147483647/strip/false/crop/7778x4375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F25%2F71e40977487c9574aac669c98163%2F2192158061.jpg"
+        "date": "Wed, 07 Oct 2026 15:13:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6cf7479/2147483647/strip/false/crop/4821x2712+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2F13%2F848338e74c0f9b5b3af44cf6317a%2F2288749515.jpg"
       },
       {
-        "title": "Bills DC Jim Leonhard: We have to make home crowd an advantage for us",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-dc-jim-leonhard-we-have-to-make-home-crowd-an-advantage-for-us",
-        "summary": "Home field advantage is something that is talked about often in the NFL, but Bills cornerback Dee Alford didn't feel much of one during last Sunday's loss to the Patriots.",
+        "title": "Howie Roseman: Cam Jurgens trade can help us compete for a long period of time",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-cam-jurgens-trade-can-help-us-compete-for-a-long-period-of-time",
+        "summary": "The Eagles traded Jurgens to the Ravens on Wednesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 08:51:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7881c8c/2147483647/strip/false/crop/3796x2135+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2F84%2Fa399c45d4d22b60cf44235357e84%2F2296917576.jpg"
+        "date": "Wed, 07 Oct 2026 14:50:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/28374ad/2147483647/strip/false/crop/4664x2624+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc5%2F1e%2F177dc58f4a3580fbb1cb240e0a80%2F2298131148.jpg"
       },
       {
-        "title": "Kellen Moore: We will definitely have a discussion about how to start faster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-we-will-definitely-have-a-discussion-about-how-to-start-faster",
-        "summary": "The Saints followed one part of a familiar script in Monday night's loss to the Falcons when they fell behind their visitors from Atlanta early in the game.",
+        "title": "Todd Monken: I look forward to seeing Dillon Gabriel back out there",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-i-look-forward-to-seeing-dillon-gabriel-back-out-there",
+        "summary": "Dillon Gabriel has returned to practice for the Browns after being placed on injured reserve with a back issue in late August.",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 07:01:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1493d95/2147483647/strip/false/crop/4507x2535+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff4%2Fa6%2F34824ee54df5873eb13f950233e4%2F2298808886.jpg"
+        "date": "Wed, 07 Oct 2026 14:49:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/06956ce/2147483647/strip/false/crop/7891x4439+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc4%2Fd3%2F56883d824093845312e870f84791%2F2292367072.jpg"
       },
       {
-        "title": "DeMeco Ryans: Texans blocked Cowboys' field goal by doing the same thing the Ravens did",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/demeco-ryans-texans-blocked-cowboys-field-goal-by-doing-the-same-thing-the-ravens-did",
-        "summary": "The Texans blocked a Cowboys field goal attempt on Sunday, a week after the Ravens blocked a Cowboys field goal attempt.",
+        "title": "Dan Campbell downplays concerns about Sam LaPorta breaking off contract talks with Lions",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-downplays-concerns-about-sam-laporta-breaking-off-contract-talks-with-lions",
+        "summary": "Lions head coach Dan Campbell says the report that tight end Sam LaPorta and the team have broken off contract talks is not an issue.",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 06:54:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7ac783f/2147483647/strip/false/crop/5443x3062+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fae%2Fd0%2F391ca500437bae6541c23eb07175%2F2298558215.jpg"
+        "date": "Wed, 07 Oct 2026 14:34:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/21923f9/2147483647/strip/false/crop/6418x3610+0+334/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2Fcd%2F265990d443979969e9e2bb6e5d07%2F2298878479.jpg"
       },
       {
-        "title": "Kyren Williams, Kenneth Walker: First players since 2016 with 2 TD runs in last 4 minutes",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyren-williams-kenneth-walker-first-players-since-2016-with-2-td-runs-in-last-4-minutes",
-        "summary": "No NFL player had scored two rushing touchdowns in the final four minutes of the fourth quarter in 10 years. Then Williams and Walker did it on the same day.",
+        "title": "Raiders open practice window for WR Dont’e Thornton",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-open-practice-window-for-wr-donte-thornton",
+        "summary": "The Raiders are getting one of their young offensive players back on the field.",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 06:02:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f94b33/2147483647/strip/false/crop/3493x1965+0+182/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F32%2F78dd8aed420cb105155c9bbd9927%2F2298603940.jpg"
+        "date": "Wed, 07 Oct 2026 14:29:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6522740/2147483647/strip/false/crop/4500x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe1%2Fc3%2F24573d7944339aa0a7d181a672f9%2F2249598752.jpg"
       }
     ]
   }
