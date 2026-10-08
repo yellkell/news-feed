@@ -1,22 +1,46 @@
 {
-  "updated": "2026-10-08T11:03:36.007Z",
+  "updated": "2026-10-08T17:51:28.992Z",
   "feed": {
     "VR": [
       {
-        "title": "Claude Code 2.1.293 reverts a cloud-session fix that shipped two days earlier",
-        "url": "https://mixed-news.com/en/claude-code-2-1-293-reverts-2-1-290-cloud-session-fix/",
-        "summary": "Claude Code 2.1.293 takes back a fix that version 2.1.290 shipped two days earlier, and it says so without euphemism.",
+        "title": "Whirligig now ships a Lepton build for Steam Frame, but GPU video decoding is missing",
+        "url": "https://mixed-news.com/en/whirligig-steam-frame-lepton-build-gpu-video-decoding/",
+        "summary": "Whirligig, a VR video player sold on Steam, now ships a native Android build for the Steam Frame that runs on Valve's Lepton compatibility layer, and the developer's release note…",
         "source": "mixed-news.com",
-        "date": "Thu, 08 Oct 2026 10:28:29 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/454390de9d9ccefb6082b7c2440c7547c1ec3964.webp"
+        "date": "Thu, 08 Oct 2026 17:37:27 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_bad13516b1c6f0818190631dc86d50ccfb66b4ec.1920x1080.jpg"
       },
       {
-        "title": "New York Giants Bring Fans Onto The Field With 360° Video",
-        "url": "https://www.uploadvr.com/new-york-giants-bring-fans-onto-the-field-with-360deg-video/",
-        "summary": "New York Giants fans can now experience games in 360° video via the team's app and YouTube channel for viewing in VR.",
+        "title": "Walkabout Mini Golf Adds Mulligans, Hand Tracking & A New DLC Course Today",
+        "url": "https://www.uploadvr.com/walkabout-mini-golf-adds-mulligans-hand-tracking-a-new-dlc-course-today/",
+        "summary": "Walkabout Mini Golf gets its 42nd course, Escape From Planet Xylodon, a new mulligan feature, & a Quest-only hand tracking system in today's update.",
         "source": "uploadvr.com",
-        "date": "Wed, 07 Oct 2026 10:48:05 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/360-nabers.jpg"
+        "date": "Thu, 08 Oct 2026 09:00:54 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Planet-Xylodon-16x9.png"
+      },
+      {
+        "title": "What Meta VR Glasses Mean for the Future of Quest",
+        "url": "https://roadtovr.com/meta-vr-glasses-future-of-quest/",
+        "summary": "Meta says VR Glasses are a different product for a different market.",
+        "source": "roadtovr.com",
+        "date": "Thu, 08 Oct 2026 11:05:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/vr-glasses-quest.jpg?resize=1800%2C1200&quality=89&ssl=1"
+      },
+      {
+        "title": "Hellraiser: Revival ships without 6X frame generation, and Nvidia says to add it yourself",
+        "url": "https://mixed-news.com/en/hellraiser-revival-dlss-nvidia-app-override-6x-frame-generation/",
+        "summary": "Clive Barker's Hellraiser: Revival has an October 8 release date on Steam, and it arrives with DLSS Super Resolution and Frame Generation and nothing newer.",
+        "source": "mixed-news.com",
+        "date": "Thu, 08 Oct 2026 16:51:02 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_ee693688114623ede11637a3aceeb24636b85fae.1920x1080.jpg"
+      },
+      {
+        "title": "FunFitLand Adds Knee Strikes & Brings Space To Apple Vision Pro",
+        "url": "https://www.uploadvr.com/funfitland-adds-knee-strikes-brings-space-to-apple-vision-pro/",
+        "summary": "VR fitness app FunFitLand has added knee strikes to CombatFit workouts and brought its meditative Space sessions to Apple Vision Pro.",
+        "source": "uploadvr.com",
+        "date": "Thu, 08 Oct 2026 07:16:53 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/FunFitLand_Knee_Strikes_Cover_v2.png"
       },
       {
         "title": "Norway Proposes Temporary Ban on Smart Glasses in Public Places",
@@ -25,40 +49,16 @@
         "source": "roadtovr.com",
         "date": "Wed, 07 Oct 2026 14:30:35 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/12/Ray-Ban-Meta-glasses.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Valve says grey Linux VR streaming may be an AMD encoder bug, and warns off the patches",
-        "url": "https://mixed-news.com/en/valve-steamvr-linux-grey-colours-amd-9000-vcn-encoder-bug/",
-        "summary": "Linux owners who stream SteamVR to a headset and get a grey, flat picture now have an answer from Valve, and it points at the graphics card rather than at SteamVR.",
-        "source": "mixed-news.com",
-        "date": "Thu, 08 Oct 2026 09:39:35 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/movie_600x337.jpg"
-      },
-      {
-        "title": "Omega Pilot Evolution Review: Dynamic Racing With Two Major Caveats",
-        "url": "https://www.uploadvr.com/omega-pilot-evolution-review/",
-        "summary": "Futuristic VR racer Omega Pilot Evolution nails the sensation of speed, but the clunky weapon & grindy progression systems hold it back from true greatness.",
-        "source": "uploadvr.com",
-        "date": "Wed, 07 Oct 2026 08:57:37 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/b2fe8816003143f98927445ae6590421.jpeg"
-      },
-      {
-        "title": "Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware",
-        "url": "https://roadtovr.com/sony-sells-xr-headset-patents-meta/",
-        "summary": "Meta has acquired a number of Sony patents, including some related to XR headsets, suggesting Sony is significantly pulling back from its XR ambitions.",
-        "source": "roadtovr.com",
-        "date": "Wed, 07 Oct 2026 08:53:19 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/07/psvr2-prototype-7.jpg?resize=1600%2C1067&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-        "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals.",
+        "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+        "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons…",
         "source": "theverge.com",
-        "date": "2026-10-07T15:10:42-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-08T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
-        "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-        "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-        "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.",
+        "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+        "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+        "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch.",
         "source": "theverge.com",
-        "date": "2026-10-07T14:42:22-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-08T11:27:30-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
       },
       {
-        "title": "Microsoft is giving Copilot more control over Windows and your files",
-        "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-        "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions…",
+        "title": "Google is launching a one-stop Gemini agent for your work tasks",
+        "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+        "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background.",
         "source": "theverge.com",
-        "date": "2026-10-07T14:01:20-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-08T10:28:03-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Gemini.max-2000x2000-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Sean Payton: Offensive focus needs to be on details, not who calls plays",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-offensive-focus-needs-to-be-on-details-not-who-calls-plays",
-        "summary": "When the Broncos changed offensive playcallers this offseason, it guaranteed a lot of attention would be paid to how the unit fared with offensive coordinator Davis Webb calling…",
+        "title": "Kenneth Walker has most rushing yards in first four games over last 15 years",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-has-most-rushing-yards-in-first-four-games-over-last-15-years",
+        "summary": "Kenneth Walker has gotten off to a hot start in his first season with the Chiefs, running the club to a 4-0 record at the Week 5 bye.",
         "source": "nbcsports.com",
-        "date": "Thu, 08 Oct 2026 06:44:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/faa6f6c/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F61%2F5a6476e343079e17d0c4db11da0c%2F2298777691.jpg"
+        "date": "Thu, 08 Oct 2026 13:41:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9e586cb/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2F8f%2F19b7417d4728bbd40bebae9c0ec9%2F2298598819.jpg"
       },
       {
-        "title": "Cowboys will \"move pieces around\" in field goal protection after blocks two weeks in a row",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-will-move-pieces-around-in-field-goal-protection-after-blocks-two-weeks-in-a-row",
-        "summary": "Cowboys head coach Brian Schottenheimer says changes are being made after the Cowboys have had field goals blocked in their last two games.",
+        "title": "Steelers open S DeShon Elliott's practice window",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-open-s-deshon-elliotts-practice-window",
+        "summary": "Safety DeShon Elliott is back on the practice field for the Steelers.",
         "source": "nbcsports.com",
-        "date": "Thu, 08 Oct 2026 04:31:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/81b22b4/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F50%2Ff6185b5146a2ac0b9ead65a54c81%2F2298981298.jpg"
+        "date": "Thu, 08 Oct 2026 13:30:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec74554/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F38%2F1839ff8d4544bd34d204d0954188%2F2295123168.jpg"
       },
       {
-        "title": "Mike Macdonald on Joe Mixon: \"Didn't work out\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-on-joe-mixon-didnt-work-out",
-        "summary": "The Seahawks, who are thin at running back, brought Joe Mixon to town for a workout on Monday.",
+        "title": "NFL argues to Supreme Court that prediction markets are gambling",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-argues-to-supreme-court-that-prediction-markets-are-gambling",
+        "summary": "The fight over whether prediction markets involving sports are gambling has landed, as it inevitably would, in the U.S.",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 22:33:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e565973/2147483647/strip/false/crop/3000x1688+0+175/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F87%2F4ff105e242aa86bf29105fc68c08%2F2194614057.jpg"
+        "date": "Thu, 08 Oct 2026 13:22:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8948fb/2147483647/strip/false/crop/4443x2499+1+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2Ffd%2Fda18e736b8f904b3f3966ea28303%2Fap-18113475144175-e1526309891958.jpg"
       },
       {
-        "title": "Odell Beckham Jr.'s arrival could be a message to Jauan Jennings",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckhams-arrival-could-be-a-message-to-jauan-jennings",
-        "summary": "The Vikings didn't sign receiver Odell Beckham Jr. for P.R. purposes.",
+        "title": "Lamar Jackson remains out of Ravens practice Thursday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-remains-out-of-ravens-practice-thursday",
+        "summary": "Ravens head coach Jesse Minter said on Wednesday that \"there's a lot of time between now and Sunday\" when asked about quarterback Lamar Jackson's chances of playing against the…",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 22:02:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c7ee54/2147483647/strip/false/crop/5837x3283+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2F70%2F8f86eadb4aefb0c0a5251af693d7%2F2298294550.jpg"
+        "date": "Thu, 08 Oct 2026 13:22:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f6b654/2147483647/strip/false/crop/4647x2614+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F07%2F4b001008476fa8f8b94ba5dd6609%2F2298586769.jpg"
       },
       {
-        "title": "Lane Johnson's retirement could create a cap mess for the Eagles in 2027",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-johnsons-retirement-could-create-a-cap-mess-for-the-eagles-in-2027",
-        "summary": "Eagles right tackle Lane Johnson said in August that 2026 will probably be his last year.",
+        "title": "Texans sign WR Bryce Oliver to their active roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-sign-wr-bryce-oliver-to-their-active-roster",
+        "summary": "Wide receiver Bryce Oliver spent a couple of weeks on the Texans' practice squad in September, but his second stint with the team will come on their active roster.",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 21:42:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/773052d/2147483647/strip/false/crop/8074x4542+0+421/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc4%2F0c%2F0dbcaeb84099a70232ab8ffb8c80%2F2291063917.jpg"
+        "date": "Thu, 08 Oct 2026 13:10:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/435729b/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2Fc7%2F49b9f0a54c20bc7783dfcdec1d4e%2F2292740350.jpg"
       },
       {
-        "title": "49ers WR Mike Evans limited in Wednesday's practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wr-mike-evans-limited-in-wednesdays-practice",
-        "summary": "49ers wide receiver Mike Evans played through an injury to his ribs, catching five passes for 76 yards.",
+        "title": "Tyson Bagent doesn't care if he gets the credit as the starting QB for last week's win",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyson-bagent-doesnt-care-if-he-gets-the-credit-as-the-starting-qb-for-last-weeks-win",
+        "summary": "Bears quarterback Tyson Bagent played every snap in Sunday's win over the Jets.",
         "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 20:33:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/04be21d/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2F13%2F6af206f2405ba4b723f0b2e7a874%2F2298776821.jpg"
+        "date": "Thu, 08 Oct 2026 13:00:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6713245/2147483647/strip/false/crop/5466x3075+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2F0c%2F2e72479a44a696bf47f527a42778%2F2298786343.jpg"
       }
     ]
   }
