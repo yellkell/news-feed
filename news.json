@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-08T03:49:43.975Z",
+  "updated": "2026-10-08T11:03:36.007Z",
   "feed": {
     "VR": [
       {
-        "title": "Pimax's Crystal Pro hits 120Hz only on a cable it calls optional and leaves out of the box",
-        "url": "https://mixed-news.com/en/pimax-crystal-pro-120hz-wired-only-displayport-cable-optional/",
-        "summary": "The Pimax Crystal Pro is sold as a wireless PC VR headset, and the top number on its specification sheet is the one that needs a wire.",
+        "title": "Claude Code 2.1.293 reverts a cloud-session fix that shipped two days earlier",
+        "url": "https://mixed-news.com/en/claude-code-2-1-293-reverts-2-1-290-cloud-session-fix/",
+        "summary": "Claude Code 2.1.293 takes back a fix that version 2.1.290 shipped two days earlier, and it says so without euphemism.",
         "source": "mixed-news.com",
-        "date": "Thu, 08 Oct 2026 03:14:15 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/headset1.jpg"
+        "date": "Thu, 08 Oct 2026 10:28:29 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/454390de9d9ccefb6082b7c2440c7547c1ec3964.webp"
       },
       {
         "title": "New York Giants Bring Fans Onto The Field With 360° Video",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/12/Ray-Ban-Meta-glasses.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Claude Max and Team plans now include API credits you cannot spend on Claude Code",
-        "url": "https://mixed-news.com/en/claude-max-team-monthly-api-credits-not-claude-code/",
-        "summary": "Anthropic is adding a monthly pot of Claude API credit to Claude Max and Team plans: $100 a month on Max 5x, $200 on Max 20x and up to $500 pooled on Team.",
+        "title": "Valve says grey Linux VR streaming may be an AMD encoder bug, and warns off the patches",
+        "url": "https://mixed-news.com/en/valve-steamvr-linux-grey-colours-amd-9000-vcn-encoder-bug/",
+        "summary": "Linux owners who stream SteamVR to a headset and get a grey, flat picture now have an answer from Valve, and it points at the graphics card rather than at SteamVR.",
         "source": "mixed-news.com",
-        "date": "Thu, 08 Oct 2026 02:27:36 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6a17252301e24bf3474f6e9f_og-enterprise-solutions.jpg"
+        "date": "Thu, 08 Oct 2026 09:39:35 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/movie_600x337.jpg"
       },
       {
         "title": "Omega Pilot Evolution Review: Dynamic Racing With Two Major Caveats",
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Sean Payton: Offensive focus needs to be on details, not who calls plays",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-offensive-focus-needs-to-be-on-details-not-who-calls-plays",
+        "summary": "When the Broncos changed offensive playcallers this offseason, it guaranteed a lot of attention would be paid to how the unit fared with offensive coordinator Davis Webb calling…",
+        "source": "nbcsports.com",
+        "date": "Thu, 08 Oct 2026 06:44:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/faa6f6c/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F61%2F5a6476e343079e17d0c4db11da0c%2F2298777691.jpg"
+      },
+      {
+        "title": "Cowboys will \"move pieces around\" in field goal protection after blocks two weeks in a row",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-will-move-pieces-around-in-field-goal-protection-after-blocks-two-weeks-in-a-row",
+        "summary": "Cowboys head coach Brian Schottenheimer says changes are being made after the Cowboys have had field goals blocked in their last two games.",
+        "source": "nbcsports.com",
+        "date": "Thu, 08 Oct 2026 04:31:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/81b22b4/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F50%2Ff6185b5146a2ac0b9ead65a54c81%2F2298981298.jpg"
+      },
+      {
         "title": "Mike Macdonald on Joe Mixon: \"Didn't work out\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-on-joe-mixon-didnt-work-out",
         "summary": "The Seahawks, who are thin at running back, brought Joe Mixon to town for a workout on Monday.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 07 Oct 2026 20:33:48 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/04be21d/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2F13%2F6af206f2405ba4b723f0b2e7a874%2F2298776821.jpg"
-      },
-      {
-        "title": "Brock Bowers limited in Wednesday's practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-bowers-limited-in-wednesdays-practice",
-        "summary": "Tight end Brock Bowers (knee) was limited in Wednesday's practice.",
-        "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 20:22:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3f711b4/2147483647/strip/false/crop/4517x2541+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F88%2Fc8%2F40d3b21e4846a8a3fe1dfb2b1a40%2F2298851891.jpg"
-      },
-      {
-        "title": "Drake Maye is skeptical of the moon landing",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-is-skeptical-of-the-moon-landing",
-        "summary": "Sunday's win at Buffalo was one small step for Maye, one giant leap for the Patriots.",
-        "source": "nbcsports.com",
-        "date": "Wed, 07 Oct 2026 20:19:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/28bca79/2147483647/strip/false/crop/3000x1688+0+338/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2Fa7%2F4cc375304fc8bb13001572121e06%2F143069186.jpg"
       }
     ]
   }
