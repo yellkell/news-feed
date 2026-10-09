@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-09T16:34:03.873Z",
+  "updated": "2026-10-09T21:15:53.863Z",
   "feed": {
     "VR": [
       {
-        "title": "Sony has signed 419 XR patents over to Meta, and 43 have been recorded so far",
-        "url": "https://mixed-news.com/en/sony-meta-419-xr-patents-confirmatory-assignment-43-recorded/",
-        "summary": "Sony agreed in December 2025 to sign 419 XR patents over to Meta, and so far 43 of them have been recorded as changing hands.",
+        "title": "Claude's Managed Agents now fetch only a URL that already appeared in the session",
+        "url": "https://mixed-news.com/en/claude-managed-agents-web-fetch-url-not-in-prior-context/",
+        "summary": "A Claude agent that reads a poisoned document can no longer call out to a web address it found inside it.",
         "source": "mixed-news.com",
-        "date": "Fri, 09 Oct 2026 16:08:37 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/meta-quest-3s.png"
+        "date": "Fri, 09 Oct 2026 20:55:36 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260-1.jpg"
+      },
+      {
+        "title": "VR Narrative Adventure Terry's Terraforming Gets Release Date",
+        "url": "https://www.uploadvr.com/vr-narrative-adventure-terrys-terraforming-gets-release-date/",
+        "summary": "Terry's Terraforming, a VR narrative adventure game where you fix up planets across the galaxy, is coming to Quest 3 soon, with a Steam release coming later.",
+        "source": "uploadvr.com",
+        "date": "Fri, 09 Oct 2026 11:13:32 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/maxresdefault-3.jpg"
       },
       {
         "title": "Welcoming Scott Hayden as Road to VR’s New Executive Editor",
@@ -19,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2020/01/creal-ces-2020-1-e1791518420571.jpg?resize=1622%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Shil Review: A Masterclass In Effective Minimalistic VR Game Design",
-        "url": "https://www.uploadvr.com/shil-review/",
-        "summary": "Shil is a well-designed psychological horror-puzzle game that is far more complex than it looks, and makes you constantly second-guess yourself.",
-        "source": "uploadvr.com",
-        "date": "Thu, 08 Oct 2026 18:27:31 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/vlcsnap-2026-10-08-16h34m19s917.png"
+        "title": "An outside developer fixed a ghosting bug in Nvidia's upscaler library, and Nvidia merged it",
+        "url": "https://mixed-news.com/en/nvidia-nri-upscaler-pre-exposure-fix-dlss-fsr-xess/",
+        "summary": "Nvidia's open render library has been feeding every upscaler it supports a fixed value where a real one belonged, and the person who noticed is not from Nvidia.",
+        "source": "mixed-news.com",
+        "date": "Fri, 09 Oct 2026 20:09:14 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/geforce-rtx-5070-ti-og-image.jpg"
       },
       {
-        "title": "Anthropic will require Claude-driven machinery to hold a safe state if the link drops",
-        "url": "https://mixed-news.com/en/anthropic-usage-policy-claude-hardware-safe-state-independent-controller/",
-        "summary": "From November 12, anyone wiring Claude to machinery that can hurt somebody has to make that machinery \"stop or hold a safe state\" when a qualified person steps in \"or when…",
-        "source": "mixed-news.com",
-        "date": "Fri, 09 Oct 2026 15:22:26 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6aaaa16ed688635ea2b10fa1_tn-artifacts.jpg"
+        "title": "Our Favorite VR Games For Spooky Season 2026",
+        "url": "https://www.uploadvr.com/our-favorite-vr-games-for-spooky-season-2026/",
+        "summary": "Halloween is just around the corner. We've picked ten of our favorite scary VR games for spooky season 2026.",
+        "source": "uploadvr.com",
+        "date": "Fri, 09 Oct 2026 11:12:34 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Fav-Spooks-in-VR-1.jpg"
       },
       {
         "title": "Meta Brings Immersive College Football to Quest, Promises 100+ Live Sporting Events Next Year",
@@ -41,17 +49,17 @@
         "source": "roadtovr.com",
         "date": "Fri, 09 Oct 2026 10:08:18 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/football-meta.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Futuristic Arena Sports Game Ultimechs Will Be Delisted Later This Month",
-        "url": "https://www.uploadvr.com/futuristic-arena-sports-game-ultimechs-will-be-delisted/",
-        "summary": "Resolution Games is delisting its futuristic, Rocket League-like competitive arena sports title Ultimechs later this month.",
-        "source": "uploadvr.com",
-        "date": "Thu, 08 Oct 2026 14:12:35 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Ultimechs---Landscape---2560x1440.png"
       }
     ],
     "AI": [
+      {
+        "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+        "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+        "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+        "source": "arstechnica.com",
+        "date": "Fri, 09 Oct 2026 18:54:52 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
+      },
       {
         "title": "Trump’s attempt to rename AI is looking awfully artificial",
         "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
@@ -59,14 +67,6 @@
         "source": "theverge.com",
         "date": "2026-10-09T10:25:43-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-        "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-        "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-        "source": "arstechnica.com",
-        "date": "Tue, 06 Oct 2026 19:21:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
         "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-        "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
+        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+        "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+        "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
         "source": "arstechnica.com",
-        "date": "Tue, 06 Oct 2026 12:21:53 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
+        "date": "Tue, 06 Oct 2026 19:21:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
         "title": "OpenAI doubles down on decision to fire three AI safety researchers",
@@ -93,62 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-        "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-        "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
         "source": "arstechnica.com",
-        "date": "Tue, 06 Oct 2026 12:00:31 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
+        "date": "Tue, 06 Oct 2026 12:21:53 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Lamar Jackson is not practicing on Friday with ankle sprain",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-is-not-practicing-on-friday-with-ankle-sprain",
-        "summary": "It looks like the Ravens are unlikely to have quarterback Lamar Jackson when they play the Falcons on Sunday night.",
+        "title": "Joe Alt, Derwin James among Chargers ruled out for Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-alt-derwin-james-among-chargers-ruled-out-for-sunday",
+        "summary": "The Chargers won't have either of their starting offensive tackles for Sunday's game against the Broncos.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 12:31:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c35603/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2F73%2F3da7132745558c3c84f197ddc345%2F2298237659.jpg"
+        "date": "Fri, 09 Oct 2026 16:40:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a9413a7/2147483647/strip/false/crop/4738x2665+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F28%2F7a%2F6eb33c7347c88a49fbbf6a68ab8d%2F2297803493.jpg"
       },
       {
-        "title": "Bengals to list Ja'Marr Chase, Tee Higgins as questionable",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-to-list-jamarr-chase-tee-higgins-as-questionable",
-        "summary": "Bengals wide receivers Ja'Marr Chase and Tee Higgins both took part in practice on Friday, but the team isn't saying if either of them will play against the Dolphins this weekend.",
+        "title": "Dolphins claim RB Kaytron Allen off waivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-claim-rb-kaytron-allen-off-waivers",
+        "summary": "The Dolphins have added a running back.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 12:23:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b94360/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2Fb3%2Fdf08380248a6999412895791a3ba%2F2298730914.jpg"
+        "date": "Fri, 09 Oct 2026 16:40:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/988a769/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F38%2F64%2F691aa02c4d1aa19b32d47d4e03ff%2F2290427644.jpg"
       },
       {
-        "title": "Jets rule out Breece Hall, Adonai Mitchell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-rule-out-breece-hall-adonai-mitchell",
-        "summary": "The Jets will remain shorthanded on offense for Sunday's game against the Browns.",
+        "title": "Titans WR Carnell Tate is questionable with back injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-wr-carnell-tate-is-questionable-with-back-injury",
+        "summary": "The Titans list wide receiver Carnell Tate as questionable for Sunday's game against the Texans.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 12:17:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/573189d/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F87%2F69fba376433d8e1871044dc594b0%2F2298099021.jpg"
+        "date": "Fri, 09 Oct 2026 16:31:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9939394/2147483647/strip/false/crop/4445x2500+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fbc%2Fcd6846ce4c6d8b23636504e7f0ff%2F2296322341.jpg"
       },
       {
-        "title": "Legendary player, coach Mike Ditka dies at 86",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/legendary-player-coach-mike-ditka-dies-at-86",
-        "summary": "Ditka was a larger-than-life figure, in Chicago and beyond.",
+        "title": "Eagles sign RB Carson Steele, C Jake Majors to active roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-rb-carson-steele-c-jake-majors-to-active-roster",
+        "summary": "The Eagles' long injury report led them to make a handful of roster moves on Friday afternoon.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 11:58:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0bd9b3f/2147483647/strip/false/crop/3600x2025+0+203/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2Fc9%2F153eda3a41c29c616caba60d405b%2F460833464.jpg"
+        "date": "Fri, 09 Oct 2026 16:29:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/593e4a0/2147483647/strip/false/crop/6771x3809+0+353/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2Fcd%2F7452a186478ab73dabea8bdbc786%2F2293418525.jpg"
       },
       {
-        "title": "Matt Burke on losing play-calling: Sometimes you have to try to spark a change",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-burke-on-losing-play-calling-sometimes-you-have-to-try-to-spark-a-change",
-        "summary": "The Texans were one of two teams to change a play-caller this week, with head coach DeMeco Ryans taking the defensive play-calling duties back from coordinator Matt Burke.",
+        "title": "Saquon Barkley out, Jalen Hurts (calf) added to report but will play",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-out-jalen-hurts-calf-added-to-report-but-will-play",
+        "summary": "The Eagles will be shorthanded once again in Week 5, and their quarterback now has an injury issue — though it won’t keep him from playing.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 11:53:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2c06501/2147483647/strip/false/crop/5233x2944+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2F59%2F7057d75145c99805f0055558527a%2F2299113782.jpg"
+        "date": "Fri, 09 Oct 2026 16:22:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/46aa0bb/2147483647/strip/false/crop/5716x3215+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2F59%2Fc8b168c44e159aa5838a76a58dae%2F2296273299.jpg"
       },
       {
-        "title": "NFLPA names Justin Jefferson their Community MVP for Week 5",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-names-justin-jefferson-their-community-mvp-for-week-5",
-        "summary": "The NFL Players Association announced on Friday that Vikings wide receiver Justin Jefferson has been named their Community MVP for Week 5.",
+        "title": "Malik Nabers has no injury designation for Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-nabers-has-no-injury-designation-for-sunday",
+        "summary": "Giants wide receiver Malik Nabers would like the team to take more shots in his direction in the passing game and he'll be available for them to follow up on that against the…",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 11:21:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e872b0d/2147483647/strip/false/crop/3150x1772+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2Fce%2F54768d6b474eb64775b53a548379%2F2296084434.jpg"
+        "date": "Fri, 09 Oct 2026 16:20:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/42f9c0f/2147483647/strip/false/crop/5566x3131+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F8a%2F2dfa34ba479b8b0f7b26b88b4e19%2F2298572212.jpg"
       }
     ]
   }
