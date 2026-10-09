@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-09T09:36:55.810Z",
+  "updated": "2026-10-09T16:34:03.873Z",
   "feed": {
     "VR": [
       {
-        "title": "Anthropic's spend-limit check wrongly paused paying organisations on October 7",
-        "url": "https://mixed-news.com/en/anthropic-spend-limit-incorrectly-paused-organisations-october-7/",
-        "summary": "Anthropic's own spend-limit check refused requests from paying customers on October 7, after deciding they had hit a cap they had not hit.",
+        "title": "Sony has signed 419 XR patents over to Meta, and 43 have been recorded so far",
+        "url": "https://mixed-news.com/en/sony-meta-419-xr-patents-confirmatory-assignment-43-recorded/",
+        "summary": "Sony agreed in December 2025 to sign 419 XR patents over to Meta, and so far 43 of them have been recorded as changing hands.",
         "source": "mixed-news.com",
-        "date": "Fri, 09 Oct 2026 08:55:24 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/31704b297a9350f392f143ea078561f36cd14908-1920x1230-1.png"
+        "date": "Fri, 09 Oct 2026 16:08:37 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/meta-quest-3s.png"
+      },
+      {
+        "title": "Welcoming Scott Hayden as Road to VR’s New Executive Editor",
+        "url": "https://roadtovr.com/scott-hayden-executive-editor-road-to-vr/",
+        "summary": "I’m pleased to announced that longtime Editor Scott Hayden is stepping up to become Road to VR’s new Executive Editor.",
+        "source": "roadtovr.com",
+        "date": "Fri, 09 Oct 2026 12:30:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2020/01/creal-ces-2020-1-e1791518420571.jpg?resize=1622%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Shil Review: A Masterclass In Effective Minimalistic VR Game Design",
@@ -19,20 +27,20 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/vlcsnap-2026-10-08-16h34m19s917.png"
       },
       {
-        "title": "What Meta VR Glasses Mean for the Future of Quest",
-        "url": "https://roadtovr.com/meta-vr-glasses-future-of-quest/",
-        "summary": "Meta says VR Glasses are a different product for a different market.",
-        "source": "roadtovr.com",
-        "date": "Thu, 08 Oct 2026 11:05:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/vr-glasses-quest.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "title": "Anthropic will require Claude-driven machinery to hold a safe state if the link drops",
+        "url": "https://mixed-news.com/en/anthropic-usage-policy-claude-hardware-safe-state-independent-controller/",
+        "summary": "From November 12, anyone wiring Claude to machinery that can hurt somebody has to make that machinery \"stop or hold a safe state\" when a qualified person steps in \"or when…",
+        "source": "mixed-news.com",
+        "date": "Fri, 09 Oct 2026 15:22:26 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6aaaa16ed688635ea2b10fa1_tn-artifacts.jpg"
       },
       {
-        "title": "Apple says a panorama over 300MB can quit Photos on Vision Pro, and gives a workaround",
-        "url": "https://mixed-news.com/en/visionos-27-photos-quits-large-panorama-spatial-toggle/",
-        "summary": "Apple's release notes for visionOS 27 warn that a big enough panorama can throw you out of Photos.",
-        "source": "mixed-news.com",
-        "date": "Fri, 09 Oct 2026 08:04:48 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Apple-visionOS-27-panoramas-to-spatial-scenes_big.jpg.large_.jpg"
+        "title": "Meta Brings Immersive College Football to Quest, Promises 100+ Live Sporting Events Next Year",
+        "url": "https://roadtovr.com/meta-vr-glasses-live-football-2026-schedule/",
+        "summary": "Meta is partnering with ESPN to offer select live, 180-degree immersive college football games all season long via Quest’s TV app.",
+        "source": "roadtovr.com",
+        "date": "Fri, 09 Oct 2026 10:08:18 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/football-meta.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Futuristic Arena Sports Game Ultimechs Will Be Delisted Later This Month",
@@ -41,24 +49,16 @@
         "source": "uploadvr.com",
         "date": "Thu, 08 Oct 2026 14:12:35 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Ultimechs---Landscape---2560x1440.png"
-      },
-      {
-        "title": "Norway Proposes Temporary Ban on Smart Glasses in Public Places",
-        "url": "https://roadtovr.com/norway-proposes-temporary-ban-on-smart-glasses-in-public-places/",
-        "summary": "The Norwegian government announced it’s aiming to introduce a temporary ban on smart glasses in a number of public locations, citing privacy as the main concern.",
-        "source": "roadtovr.com",
-        "date": "Wed, 07 Oct 2026 14:30:35 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/12/Ray-Ban-Meta-glasses.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Anthropic launches free AI security scans for open-source projects",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-        "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner.",
+        "title": "Trump’s attempt to rename AI is looking awfully artificial",
+        "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+        "summary": "President Donald Trump has a knack for turning words against his enemies.",
         "source": "theverge.com",
-        "date": "2026-10-08T17:53:51-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-09T10:25:43-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
-        "title": "California is trying to shut down robot vs. human cage matches",
-        "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-        "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times.",
+        "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+        "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+        "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as…",
         "source": "theverge.com",
-        "date": "2026-10-08T16:06:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-09T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
       },
       {
-        "title": "USA Today becomes the latest publisher to sue OpenAI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-        "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as…",
+        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+        "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the…",
         "source": "theverge.com",
-        "date": "2026-10-08T13:58:33-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-09T05:48:26-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "After Jalon Daniels leads Bucs over Cowboys, NFL teams are 8-4 when starting a backup QB",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-jalon-daniels-leads-bucs-over-cowboys-nfl-teams-are-8-4-when-starting-a-backup-qb",
-        "summary": "Injuries to starting quarterbacks have not derailed teams this season.",
+        "title": "Lamar Jackson is not practicing on Friday with ankle sprain",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-is-not-practicing-on-friday-with-ankle-sprain",
+        "summary": "It looks like the Ravens are unlikely to have quarterback Lamar Jackson when they play the Falcons on Sunday night.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 05:27:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/11b8ab3/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2F81%2Faaeb175c4e85abf82b623b4e14c7%2F2299318752.jpg"
+        "date": "Fri, 09 Oct 2026 12:31:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c35603/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2F73%2F3da7132745558c3c84f197ddc345%2F2298237659.jpg"
       },
       {
-        "title": "Bengals' Jordan Battle: Malik Willis taps the ball before he throws, we can key on that",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-jordan-battle-malik-willis-taps-the-ball-before-he-throws-we-can-key-on-that",
-        "summary": "NFL players and coaches spend many hours studying film of their upcoming opponents to find tendencies that can give them an advantage on Sunday.",
+        "title": "Bengals to list Ja'Marr Chase, Tee Higgins as questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-to-list-jamarr-chase-tee-higgins-as-questionable",
+        "summary": "Bengals wide receivers Ja'Marr Chase and Tee Higgins both took part in practice on Friday, but the team isn't saying if either of them will play against the Dolphins this weekend.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 04:28:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/07cb84c/2147483647/strip/false/crop/4311x2425+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc7%2F35%2F605b2b764869ba982a50459bbfac%2F2298997231.jpg"
+        "date": "Fri, 09 Oct 2026 12:23:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b94360/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2Fb3%2Fdf08380248a6999412895791a3ba%2F2298730914.jpg"
       },
       {
-        "title": "Jerry Jones expresses confidence in Christian Parker",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-expresses-confidence-in-christian-parker",
-        "summary": "Dan Quinn left as the Cowboys' defense coordinator after the 2023 season to become the Commanders' head coach.",
+        "title": "Jets rule out Breece Hall, Adonai Mitchell",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-rule-out-breece-hall-adonai-mitchell",
+        "summary": "The Jets will remain shorthanded on offense for Sunday's game against the Browns.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 00:57:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/972b6dd/2147483647/strip/false/crop/6208x3492+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2F85%2Fcbded69244119cb9fad19e8cd654%2F2295483850.jpg"
+        "date": "Fri, 09 Oct 2026 12:17:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/573189d/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F87%2F69fba376433d8e1871044dc594b0%2F2298099021.jpg"
       },
       {
-        "title": "Tony Romo was disqualified from a golf tournament, on the same day CBS announced his exit",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tony-romo-was-disqualified-from-a-golf-tournament-on-the-same-day-cbs-announced-his-exit",
-        "summary": "Last Friday was a very strange day for Tony Romo.",
+        "title": "Legendary player, coach Mike Ditka dies at 86",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/legendary-player-coach-mike-ditka-dies-at-86",
+        "summary": "Ditka was a larger-than-life figure, in Chicago and beyond.",
         "source": "nbcsports.com",
-        "date": "Thu, 08 Oct 2026 23:31:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bcb7867/2147483647/strip/false/crop/4355x2450+0+226/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F88%2F9f%2F065ad184492ea2833525c79759c2%2F2285788743.jpg"
+        "date": "Fri, 09 Oct 2026 11:58:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0bd9b3f/2147483647/strip/false/crop/3600x2025+0+203/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2Fc9%2F153eda3a41c29c616caba60d405b%2F460833464.jpg"
       },
       {
-        "title": "Thursday Night Football: Bucs upset Cowboys 24-16",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-bucs-upset-cowboys-24-16",
-        "summary": "The Bucs ran for 241 yards, including 165 by Bucky Irving.",
+        "title": "Matt Burke on losing play-calling: Sometimes you have to try to spark a change",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-burke-on-losing-play-calling-sometimes-you-have-to-try-to-spark-a-change",
+        "summary": "The Texans were one of two teams to change a play-caller this week, with head coach DeMeco Ryans taking the defensive play-calling duties back from coordinator Matt Burke.",
         "source": "nbcsports.com",
-        "date": "Thu, 08 Oct 2026 23:26:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ef76dad/2147483647/strip/false/crop/3950x2222+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F88%2F66%2Fa0c079aa4bbdbc706e2285bf28e8%2F2299299462.jpg"
+        "date": "Fri, 09 Oct 2026 11:53:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2c06501/2147483647/strip/false/crop/5233x2944+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2F59%2F7057d75145c99805f0055558527a%2F2299113782.jpg"
       },
       {
-        "title": "As trade rumors intensify, Marvin Harrison Jr. hires agents",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-trade-rumors-intensify-marvin-harrison-jr-hires-agents",
-        "summary": "Cardinals receiver Marvin Harrison Jr. says he's paying \"no mind\" to intensifying trade rumors.",
+        "title": "NFLPA names Justin Jefferson their Community MVP for Week 5",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-names-justin-jefferson-their-community-mvp-for-week-5",
+        "summary": "The NFL Players Association announced on Friday that Vikings wide receiver Justin Jefferson has been named their Community MVP for Week 5.",
         "source": "nbcsports.com",
-        "date": "Thu, 08 Oct 2026 23:16:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3f74f5a/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F44%2Fb49fa09a4ca09aa265b4649bc733%2F2297650155.jpg"
+        "date": "Fri, 09 Oct 2026 11:21:03 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e872b0d/2147483647/strip/false/crop/3150x1772+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2Fce%2F54768d6b474eb64775b53a548379%2F2296084434.jpg"
       }
     ]
   }
