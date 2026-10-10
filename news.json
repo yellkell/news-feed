@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T01:03:17.385Z",
+  "updated": "2026-10-10T07:02:24.725Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Multiple playoff teams have never started 0-5",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/multiple-playoff-teams-have-never-started-0-5",
+        "summary": "One of the five 0-4 teams entering Week 5 (the Buccaneers) has finally gotten its first win of 2026.",
+        "source": "nbcsports.com",
+        "date": "Fri, 09 Oct 2026 22:57:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/80766dd/2147483647/strip/false/crop/5373x3022+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc1%2Feb%2F3d3fd41d40278f98243690444557%2F2290658554.jpg"
+      },
+      {
         "title": "Joey Porter Jr.'s illness invites speculation that it was contract related (even if it wasn't)",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-s-illness-invites-speculation-that-it-was-contract-related-even-if-it-wasnt",
         "summary": "Last night's Buccaneers-Cowboys game was preceded by the unexpected news that cornerback Joey Porter Jr. would miss the contest due to a sudden illness.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 09 Oct 2026 17:47:06 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b2a06c0/2147483647/strip/false/crop/2724x1532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2Fb6%2F65a48ecd45cead8dda004faa73ea%2F2298946591.jpg"
-      },
-      {
-        "title": "Broncos rule out Pat Surtain II, Riley Moss",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-rule-out-pat-surtain-ii-riley-moss",
-        "summary": "The Broncos ruled out both of their starting cornerbacks for Sunday's game against the Chargers.",
-        "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 17:30:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6fe3ce/2147483647/strip/false/crop/7088x3987+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2F9d%2F1513cff649cc84833438efff5994%2F2296964165.jpg"
       }
     ]
   }
