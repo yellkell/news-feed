@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T07:02:24.725Z",
+  "updated": "2026-10-10T13:37:02.466Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-        "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.",
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.",
         "source": "theverge.com",
-        "date": "2026-10-09T17:15:38-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-10T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
       },
       {
-        "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-        "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with…",
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.",
         "source": "theverge.com",
-        "date": "2026-10-09T15:09:44-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-09T17:15:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
-        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-        "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the…",
+        "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with…",
         "source": "theverge.com",
-        "date": "2026-10-09T14:06:57-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-09T15:09:44-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -102,6 +102,38 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Ravens are much different with and without Lamar Jackson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-are-much-different-with-and-without-lamar-jackson",
+        "summary": "As expected, given that he's week-to-week with an ankle injury, Ravens quarterback Lamar Jackson will miss Sunday night's game against the Falcons.",
+        "source": "nbcsports.com",
+        "date": "Sat, 10 Oct 2026 09:20:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a1e11e2/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F9c%2F1e59fbc5402097f009c1d112653c%2F2298237556.jpg"
+      },
+      {
+        "title": "Aaron Donald: No setbacks, I plan on playing Monday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-no-setbacks-i-plan-on-playing-monday",
+        "summary": "Rams head coach Sean McVay said early in the week that defensive tackle Aaron Donald was trending toward a return to the lineup against the Bills on Monday night and things remain…",
+        "source": "nbcsports.com",
+        "date": "Sat, 10 Oct 2026 08:53:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b66a7a/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F70%2F73947eee4a409a3c458b148739eb%2F2295980267.jpg"
+      },
+      {
+        "title": "Alvin Kamara will soon become the sixth NFL player with 5,000 yards rushing and receiving",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alvin-kamara-will-soon-become-the-sixth-nfl-player-with-5-000-yards-rushing-and-receiving",
+        "summary": "Kamara has 7,324 rushing yards and 4,995 receiving yards in his NFL career.",
+        "source": "nbcsports.com",
+        "date": "Sat, 10 Oct 2026 06:52:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8495c9b/2147483647/strip/false/crop/6474x3642+0+337/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fa3%2F3833288c4803823539797452f4da%2F2299226397.jpg"
+      },
+      {
+        "title": "Aaron Rodgers set to move ahead of Peyton Manning on the all-time touchdown pass list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-set-to-move-ahead-of-peyton-manning-on-the-all-time-touchdown-pass-list",
+        "summary": "With his next touchdown pass, Aaron Rodgers will have more than Peyton Manning, counting the playoffs.",
+        "source": "nbcsports.com",
+        "date": "Sat, 10 Oct 2026 04:38:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/947285a/2147483647/strip/false/crop/8364x4705+0+436/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Ffb%2F2e75b6014fc9ae860596b07fe534%2F2298386642.jpg"
+      },
       {
         "title": "Multiple playoff teams have never started 0-5",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/multiple-playoff-teams-have-never-started-0-5",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 09 Oct 2026 19:59:40 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/88bc23e/2147483647/strip/false/crop/5520x3105+0+288/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F16%2Fe2efd642442cb7f251fbd9a43ae9%2F2026-09-18t214624z-1588912265-mt1usatoday29850476-rtrmadp-3-nfl-atlanta-falcons-at-pittsburgh-steelers.jpg"
-      },
-      {
-        "title": "Chiefs, Vikings are first pair of non-playoff teams since 2013 to start 4-0",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-vikings-are-first-pair-of-non-playoff-teams-since-2013-to-start-4-0",
-        "summary": "The NFL has only three 4-0 teams after four weeks.",
-        "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 19:30:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e33efda/2147483647/strip/false/crop/8256x4644+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F1a%2Fefb740514660ad3c1820d2a28da5%2F2298298287.jpg"
-      },
-      {
-        "title": "Injuries to LT Tyler Guyton, WR CeeDee Lamb are not serious",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injuries-to-lt-tyler-guyton-wr-ceedee-lamb-are-not-serious",
-        "summary": "The X-rays on Cowboys left tackle Tyler Guyton's back were negative, coach Brian Schottenheimer said Friday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 19:20:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c33643/2147483647/strip/false/crop/7172x4034+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2Fa3%2Fb416c0364b77aa4ced0963d303d1%2F2296529932.jpg"
-      },
-      {
-        "title": "Broncos OC Davis Webb: \"Not ideal\" to lose playcalling role, excited to see how we respond",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-oc-davis-webb-not-ideal-to-lose-playcalling-role-excited-to-see-how-we-respond",
-        "summary": "Broncos offensive coordinator Davis Webb's job description underwent a dramatic change this week.",
-        "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 18:01:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/173279e/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2F39%2Fe1a34afc4720999ceb32df6e50ec%2F2298777579.jpg"
-      },
-      {
-        "title": "Seahawks DT Leonard Williams has no injury designation",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-dt-leonard-williams-has-no-injury-designation",
-        "summary": "Seahawks defensive tackle Leonard Williams (ankle) has no injury designation.",
-        "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 17:47:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b2a06c0/2147483647/strip/false/crop/2724x1532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2Fb6%2F65a48ecd45cead8dda004faa73ea%2F2298946591.jpg"
       }
     ]
   }
