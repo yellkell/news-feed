@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-09T21:15:53.863Z",
+  "updated": "2026-10-10T01:03:17.385Z",
   "feed": {
     "VR": [
       {
-        "title": "Claude's Managed Agents now fetch only a URL that already appeared in the session",
-        "url": "https://mixed-news.com/en/claude-managed-agents-web-fetch-url-not-in-prior-context/",
-        "summary": "A Claude agent that reads a poisoned document can no longer call out to a web address it found inside it.",
+        "title": "A Meta Reality Labs researcher puts a 2.13 arcmin floor on laser-lit 500µm waveguides",
+        "url": "https://mixed-news.com/en/meta-reality-labs-waveguide-angular-resolution-limit-arcmin/",
+        "summary": "An optics researcher at Meta's Reality Labs has published a hard limit on how sharp a thin AR waveguide can be, and at the thickness glasses makers want it falls short of the…",
         "source": "mixed-news.com",
-        "date": "Fri, 09 Oct 2026 20:55:36 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260-1.jpg"
+        "date": "Fri, 09 Oct 2026 22:31:42 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Cypris.webp"
       },
       {
         "title": "VR Narrative Adventure Terry's Terraforming Gets Release Date",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2020/01/creal-ces-2020-1-e1791518420571.jpg?resize=1622%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "An outside developer fixed a ghosting bug in Nvidia's upscaler library, and Nvidia merged it",
-        "url": "https://mixed-news.com/en/nvidia-nri-upscaler-pre-exposure-fix-dlss-fsr-xess/",
-        "summary": "Nvidia's open render library has been feeding every upscaler it supports a fixed value where a real one belonged, and the person who noticed is not from Nvidia.",
+        "title": "Modern Warfare 4 splits its DLSS 4.5 features three ways by GeForce generation",
+        "url": "https://mixed-news.com/en/modern-warfare-4-dlss-4-5-tiers-rtx-40-rtx-50/",
+        "summary": "Nvidia has split Call of Duty: Modern Warfare 4's DLSS support three ways, and which part a GeForce owner gets depends on which generation of card is in the machine.",
         "source": "mixed-news.com",
-        "date": "Fri, 09 Oct 2026 20:09:14 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/geforce-rtx-5070-ti-og-image.jpg"
+        "date": "Fri, 09 Oct 2026 21:45:22 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg"
       },
       {
         "title": "Our Favorite VR Games For Spooky Season 2026",
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc.",
+        "source": "theverge.com",
+        "date": "2026-10-09T17:15:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
         "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
         "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
@@ -61,20 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
       },
       {
-        "title": "Trump’s attempt to rename AI is looking awfully artificial",
-        "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-        "summary": "President Donald Trump has a knack for turning words against his enemies.",
+        "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with…",
         "source": "theverge.com",
-        "date": "2026-10-09T10:25:43-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-        "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-        "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as…",
-        "source": "theverge.com",
-        "date": "2026-10-09T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-09T15:09:44-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
-        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-        "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the…",
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+        "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the…",
         "source": "theverge.com",
-        "date": "2026-10-09T05:48:26-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-09T14:06:57-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Joe Alt, Derwin James among Chargers ruled out for Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-alt-derwin-james-among-chargers-ruled-out-for-sunday",
-        "summary": "The Chargers won't have either of their starting offensive tackles for Sunday's game against the Broncos.",
+        "title": "Joey Porter Jr.'s illness invites speculation that it was contract related (even if it wasn't)",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-s-illness-invites-speculation-that-it-was-contract-related-even-if-it-wasnt",
+        "summary": "Last night's Buccaneers-Cowboys game was preceded by the unexpected news that cornerback Joey Porter Jr. would miss the contest due to a sudden illness.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 16:40:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a9413a7/2147483647/strip/false/crop/4738x2665+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F28%2F7a%2F6eb33c7347c88a49fbbf6a68ab8d%2F2297803493.jpg"
+        "date": "Fri, 09 Oct 2026 19:59:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/88bc23e/2147483647/strip/false/crop/5520x3105+0+288/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F16%2Fe2efd642442cb7f251fbd9a43ae9%2F2026-09-18t214624z-1588912265-mt1usatoday29850476-rtrmadp-3-nfl-atlanta-falcons-at-pittsburgh-steelers.jpg"
       },
       {
-        "title": "Dolphins claim RB Kaytron Allen off waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-claim-rb-kaytron-allen-off-waivers",
-        "summary": "The Dolphins have added a running back.",
+        "title": "Chiefs, Vikings are first pair of non-playoff teams since 2013 to start 4-0",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-vikings-are-first-pair-of-non-playoff-teams-since-2013-to-start-4-0",
+        "summary": "The NFL has only three 4-0 teams after four weeks.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 16:40:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/988a769/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F38%2F64%2F691aa02c4d1aa19b32d47d4e03ff%2F2290427644.jpg"
+        "date": "Fri, 09 Oct 2026 19:30:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e33efda/2147483647/strip/false/crop/8256x4644+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F1a%2Fefb740514660ad3c1820d2a28da5%2F2298298287.jpg"
       },
       {
-        "title": "Titans WR Carnell Tate is questionable with back injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-wr-carnell-tate-is-questionable-with-back-injury",
-        "summary": "The Titans list wide receiver Carnell Tate as questionable for Sunday's game against the Texans.",
+        "title": "Injuries to LT Tyler Guyton, WR CeeDee Lamb are not serious",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injuries-to-lt-tyler-guyton-wr-ceedee-lamb-are-not-serious",
+        "summary": "The X-rays on Cowboys left tackle Tyler Guyton's back were negative, coach Brian Schottenheimer said Friday.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 16:31:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9939394/2147483647/strip/false/crop/4445x2500+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fbc%2Fcd6846ce4c6d8b23636504e7f0ff%2F2296322341.jpg"
+        "date": "Fri, 09 Oct 2026 19:20:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c33643/2147483647/strip/false/crop/7172x4034+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2Fa3%2Fb416c0364b77aa4ced0963d303d1%2F2296529932.jpg"
       },
       {
-        "title": "Eagles sign RB Carson Steele, C Jake Majors to active roster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-rb-carson-steele-c-jake-majors-to-active-roster",
-        "summary": "The Eagles' long injury report led them to make a handful of roster moves on Friday afternoon.",
+        "title": "Broncos OC Davis Webb: \"Not ideal\" to lose playcalling role, excited to see how we respond",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-oc-davis-webb-not-ideal-to-lose-playcalling-role-excited-to-see-how-we-respond",
+        "summary": "Broncos offensive coordinator Davis Webb's job description underwent a dramatic change this week.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 16:29:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/593e4a0/2147483647/strip/false/crop/6771x3809+0+353/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2Fcd%2F7452a186478ab73dabea8bdbc786%2F2293418525.jpg"
+        "date": "Fri, 09 Oct 2026 18:01:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/173279e/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2F39%2Fe1a34afc4720999ceb32df6e50ec%2F2298777579.jpg"
       },
       {
-        "title": "Saquon Barkley out, Jalen Hurts (calf) added to report but will play",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-out-jalen-hurts-calf-added-to-report-but-will-play",
-        "summary": "The Eagles will be shorthanded once again in Week 5, and their quarterback now has an injury issue — though it won’t keep him from playing.",
+        "title": "Seahawks DT Leonard Williams has no injury designation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-dt-leonard-williams-has-no-injury-designation",
+        "summary": "Seahawks defensive tackle Leonard Williams (ankle) has no injury designation.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 16:22:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/46aa0bb/2147483647/strip/false/crop/5716x3215+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2F59%2Fc8b168c44e159aa5838a76a58dae%2F2296273299.jpg"
+        "date": "Fri, 09 Oct 2026 17:47:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b2a06c0/2147483647/strip/false/crop/2724x1532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2Fb6%2F65a48ecd45cead8dda004faa73ea%2F2298946591.jpg"
       },
       {
-        "title": "Malik Nabers has no injury designation for Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-nabers-has-no-injury-designation-for-sunday",
-        "summary": "Giants wide receiver Malik Nabers would like the team to take more shots in his direction in the passing game and he'll be available for them to follow up on that against the…",
+        "title": "Broncos rule out Pat Surtain II, Riley Moss",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-rule-out-pat-surtain-ii-riley-moss",
+        "summary": "The Broncos ruled out both of their starting cornerbacks for Sunday's game against the Chargers.",
         "source": "nbcsports.com",
-        "date": "Fri, 09 Oct 2026 16:20:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/42f9c0f/2147483647/strip/false/crop/5566x3131+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F8a%2F2dfa34ba479b8b0f7b26b88b4e19%2F2298572212.jpg"
+        "date": "Fri, 09 Oct 2026 17:30:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6fe3ce/2147483647/strip/false/crop/7088x3987+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2F9d%2F1513cff649cc84833438efff5994%2F2296964165.jpg"
       }
     ]
   }
