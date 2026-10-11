@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-11T06:11:53.800Z",
+  "updated": "2026-10-11T12:47:45.195Z",
   "feed": {
     "VR": [
       {
-        "title": "AMD is trading DMA containment for lower latency on its APUs, and it is on by default",
-        "url": "https://mixed-news.com/en/amd-perfopt-iommu-dma-containment-default-linux-apus/",
-        "summary": "AMD's integrated graphics will give up the IOMMU's containment of direct memory access by default in the next Linux kernel, and AMD wrote the trade down in its own commit message.",
+        "title": "Codex now writes your next message for you. Personal Pro users have it on by default.",
+        "url": "https://mixed-news.com/en/codex-composer-predictions-beta-on-by-default-tab-to-accept/",
+        "summary": "Codex has started guessing what you were about to type and writing it into the message box for you.",
         "source": "mixed-news.com",
-        "date": "Sun, 11 Oct 2026 05:54:11 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/vermeer_small.Bgk4d4ri.png"
+        "date": "Sun, 11 Oct 2026 12:04:47 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/changelog.png"
       },
       {
         "title": "VR Narrative Adventure Terry's Terraforming Gets Release Date",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2020/01/creal-ces-2020-1-e1791518420571.jpg?resize=1622%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "An unannounced Xreal AR glasses computing kit cleared the FCC with Wi-Fi 6E at 160MHz",
-        "url": "https://mixed-news.com/en/xreal-ar-glasses-computing-kit-fcc-2bbny-b6111-wifi-6e/",
-        "summary": "Four FCC equipment-authorisation grants issued on October 8 cover an Xreal device the paperwork calls an \"AR Glasses Computing Kit\", a phrase that matches nothing Xreal has…",
+        "title": "Bigscreen says Valve's Steam Frame launch grew its sales. The Halo Mount slips again.",
+        "url": "https://mixed-news.com/en/bigscreen-beyond-2-steam-frame-demand-halo-mount-delay/",
+        "summary": "Bigscreen says Valve's Steam Frame launch has been good for Bigscreen.",
         "source": "mixed-news.com",
-        "date": "Sun, 11 Oct 2026 05:02:05 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Main_puck.png"
+        "date": "Sun, 11 Oct 2026 11:10:11 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/headset_cropped.png"
       },
       {
         "title": "Our Favorite VR Games For Spooky Season 2026",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks.",
+        "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+        "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular.",
         "source": "theverge.com",
-        "date": "2026-10-10T18:10:17-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-11T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
       },
       {
-        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-        "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-        "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice.",
+        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks.",
         "source": "theverge.com",
-        "date": "2026-10-10T14:52:07-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-10T18:10:17-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
-        "title": "Anthropic is cutting off its internal evaluations from the internet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-        "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
+        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+        "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+        "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice.",
         "source": "theverge.com",
-        "date": "2026-10-10T10:41:16-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-10T14:52:07-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -102,6 +102,14 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Jeremiah Smith is the betting favorite to be the first overall pick in the 2027 NFL draft",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiah-smith-is-the-betting-favorite-to-be-the-first-overall-pick-in-the-2027-nfl-draft",
+        "summary": "The Ohio State wide receiver has moved ahead of Arch Manning and is now favored to go first overall.",
+        "source": "nbcsports.com",
+        "date": "Sun, 11 Oct 2026 04:47:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a65f777/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2F5d%2F07bff73b4ed5951b891bc9a8d520%2F2299058502.jpg"
+      },
       {
         "title": "Kirk Cousins is having a rare debut run with the Raiders",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-is-having-a-rare-debut-run-with-the-raiders",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 10 Oct 2026 23:05:41 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/1c017fb/2147483647/strip/false/crop/5454x3068+0+284/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F76%2Ff3393f534587af9dd781a2ae0f15%2F2294592589.jpg"
-      },
-      {
-        "title": "Packers will honor Mike Ditka with a moment of silence before Sunday's game vs. Bears",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-will-honor-mike-ditka-with-a-moment-of-silence-before-sundays-game-vs-bears",
-        "summary": "The Packers will host the Bears on Sunday, two days after the passing of legendary coach Mike Ditka.",
-        "source": "nbcsports.com",
-        "date": "Sat, 10 Oct 2026 22:47:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8140ce6/2147483647/strip/false/crop/5286x2973+0+362/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F38%2F1a%2Fa165fbf04789a8fa49152cd62d8b%2F2219288589.jpg"
       }
     ]
   }
