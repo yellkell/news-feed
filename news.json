@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-11T12:47:45.195Z",
+  "updated": "2026-10-11T17:51:28.063Z",
   "feed": {
     "VR": [
       {
-        "title": "Codex now writes your next message for you. Personal Pro users have it on by default.",
-        "url": "https://mixed-news.com/en/codex-composer-predictions-beta-on-by-default-tab-to-accept/",
-        "summary": "Codex has started guessing what you were about to type and writing it into the message box for you.",
+        "title": "Valve's promised Linux VR fixes are in a beta, and its changelog misspells one of them",
+        "url": "https://mixed-news.com/en/steamvr-beta-2-18-3-linux-fixes-amd-grey-colours-vulkan/",
+        "summary": "Both of the Linux fixes Valve said were coming to SteamVR have arrived, in a beta.",
         "source": "mixed-news.com",
-        "date": "Sun, 11 Oct 2026 12:04:47 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/changelog.png"
+        "date": "Sun, 11 Oct 2026 17:19:07 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/movie_600x337-1.jpg"
       },
       {
         "title": "VR Narrative Adventure Terry's Terraforming Gets Release Date",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2020/01/creal-ces-2020-1-e1791518420571.jpg?resize=1622%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Bigscreen says Valve's Steam Frame launch grew its sales. The Halo Mount slips again.",
-        "url": "https://mixed-news.com/en/bigscreen-beyond-2-steam-frame-demand-halo-mount-delay/",
-        "summary": "Bigscreen says Valve's Steam Frame launch has been good for Bigscreen.",
+        "title": "Claude Code was replacing every non-ASCII character in non-UTF-8 files. Now it refuses.",
+        "url": "https://mixed-news.com/en/claude-code-2-1-296-non-ascii-replacement-windows-1252-shift-jis-gbk/",
+        "summary": "Claude Code was replacing every non-ASCII character in a file it could not read as UTF-8, and the repair Anthropic shipped is not a better conversion.",
         "source": "mixed-news.com",
-        "date": "Sun, 11 Oct 2026 11:10:11 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/headset_cropped.png"
+        "date": "Sun, 11 Oct 2026 16:23:57 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/07de700e38ef4d328ccdb5c15ab9e3df5286fc08-3840x2160-1.png"
       },
       {
         "title": "Our Favorite VR Games For Spooky Season 2026",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Jeremiah Smith is the betting favorite to be the first overall pick in the 2027 NFL draft",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiah-smith-is-the-betting-favorite-to-be-the-first-overall-pick-in-the-2027-nfl-draft",
-        "summary": "The Ohio State wide receiver has moved ahead of Arch Manning and is now favored to go first overall.",
+        "title": "Marvin Harrison Jr. trade is past the point of no return",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-jr-trade-is-past-the-point-of-no-return",
+        "summary": "The story of the weekend continues to be unwritten.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 04:47:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a65f777/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2F5d%2F07bff73b4ed5951b891bc9a8d520%2F2299058502.jpg"
+        "date": "Sun, 11 Oct 2026 13:48:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0881e17/2147483647/strip/false/crop/5640x3173+0+294/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F2b%2F94719e1549cf90f28a62e05265c5%2F2296494447.jpg"
       },
       {
-        "title": "Kirk Cousins is having a rare debut run with the Raiders",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-is-having-a-rare-debut-run-with-the-raiders",
-        "summary": "Now with his fourth NFL team, quarterback Kirk Cousins has made a significant initial impact in Las Vegas.",
+        "title": "Aaron Jones questionable to return with knee injury, T.J. Hockenson ruled out",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-jones-questionable-to-return-with-knee-injury-t-j-hockenson-ruled-out",
+        "summary": "The Vikings are already down one key offensive contributor and now have another with an injury concern.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 01:02:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7c96d7b/2147483647/strip/false/crop/5530x3111+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fae%2F2c%2F215b50db42fe90a540f128896b93%2F2026-10-08t092841z-1453259270-mt1usatoday30027971-rtrmadp-3-nfl-kansas-city-chiefs-at-las-vegas-raiders.jpg"
+        "date": "Sun, 11 Oct 2026 13:44:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7646ed7/2147483647/strip/false/crop/6177x3475+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F11%2F3460a61b4a30b94d234cc01745a3%2F2298997156.jpg"
       },
       {
-        "title": "Matt LaFleur takes 12-3 record vs. Bears into Sunday's showdown",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-takes-12-3-record-vs-bears-into-sundays-showdown",
-        "summary": "Bears coach Ben Johnson has made it clear that he doesn't like the Packers.",
+        "title": "Tyson Bagent interception leads to Marshawn Lloyd TD, Packers up 14-0",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyson-bagent-interception-leads-to-marshawn-lloyd-td-packers-up-14-0",
+        "summary": "A mistake from Tyson Bagent has helped Green Bay take a bigger lead.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 00:47:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72a9998/2147483647/strip/false/crop/5665x3187+0+296/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F20%2F91%2Fb7ce7ac04ee6b46afd36d066c8b9%2F2295960681.jpg"
+        "date": "Sun, 11 Oct 2026 13:40:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/60d2ca9/2147483647/strip/false/crop/7199x4049+0+198/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2F39%2Faecbf3c640d493dab4d0d55275da%2F2299701575.jpg"
       },
       {
-        "title": "Trevor Lawrence continues to perform among the NFL's elite quarterbacks",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trevor-lawrence-continues-to-perform-among-the-nfls-elite-quarterbacks",
-        "summary": "The hiring of Liam Coen as head coach of the Jaguars has been very good for quarterback Trevor Lawrence.",
+        "title": "KC Concepcion ruled out with head injury, Browns cut Jets lead to 7-3",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kc-concepcion-ruled-out-with-head-injury-browns-cut-jets-lead-to-7-3",
+        "summary": "The Browns have lost wide receiver KC Concepcion for the rest of Sunday's game against the Jets.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 00:34:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/39c6dde/2147483647/strip/false/crop/3061x1722+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F45%2F2e38726a49d2b48b0d38f4cd9b47%2F2298734559.jpg"
+        "date": "Sun, 11 Oct 2026 13:32:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c452107/2147483647/strip/false/crop/7918x4454+0+413/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2F45%2F0321a28043cd9682b3287ce2341e%2F2298387253.jpg"
       },
       {
-        "title": "Marvin Harrison Jr. wasn't present for Cardinals team meetings on Saturday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-jr-wasnt-present-for-cardinals-team-meetings-on-saturday-night",
-        "summary": "It's not clear where receiver Marvin Harrison Jr. will be playing as of next week.",
+        "title": "Aaron Rodgers throws 580th TD pass, counting playoffs, for third all-time",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-throws-580th-td-pass-counting-playoffs-for-third-all-time",
+        "summary": "Aaron Rodgers threw his 580th career touchdown pass, including the postseason.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 00:05:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58ef089/2147483647/strip/false/crop/7958x4476+0+415/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2F18%2F5b79455f49cf9944d319ffebe6d9%2F2294641144.jpg"
+        "date": "Sun, 11 Oct 2026 13:31:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bc7bde6/2147483647/strip/false/crop/3762x2116+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F69%2F7455ef464d8e82bf6a8de3da3792%2F2299172665.jpg"
       },
       {
-        "title": "Rams aren't likely to return Myles Garrett to practice this week",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-arent-likely-to-return-de-myles-garrett-to-practice-this-week",
-        "summary": "The update that Rams coach Sean McVay promised on Monday to deliver on Thursday regarding defensive end Myles Garrett arrived on Saturday.",
+        "title": "Giants put J.J. McCarthy in for one play",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-put-j-j-mccarthy-in-for-one-play",
+        "summary": "J.J.",
         "source": "nbcsports.com",
-        "date": "Sat, 10 Oct 2026 23:05:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1c017fb/2147483647/strip/false/crop/5454x3068+0+284/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F76%2Ff3393f534587af9dd781a2ae0f15%2F2294592589.jpg"
+        "date": "Sun, 11 Oct 2026 13:21:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1b34e02/2147483647/strip/false/crop/2353x1324+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2Fa6%2F488ba74742c9a20988be13afd65c%2F2298688306.jpg"
       }
     ]
   }
