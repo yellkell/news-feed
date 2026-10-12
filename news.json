@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-11T21:18:34.625Z",
+  "updated": "2026-10-12T00:39:44.986Z",
   "feed": {
     "VR": [
       {
-        "title": "Google put WebGPU into XR Blocks, and its own spatial UI cannot use it yet",
-        "url": "https://mixed-news.com/en/google-xr-blocks-0-22-0-webgpu-simulator-gemma-4-on-device/",
-        "summary": "Google's XR Blocks reached 0.22.0 on October 10, and the headline item is that three.js WebGPURenderer now runs in the library's desktop simulator.",
+        "title": "Rematch is adding 50ms of input delay so your ping stops deciding other players' duels",
+        "url": "https://mixed-news.com/en/rematch-netcode-2-0-server-initiated-hits-50ms-input-delay/",
+        "summary": "Sloclap is rebuilding how Rematch decides who touched the ball, and the bill comes to 50 milliseconds.",
         "source": "mixed-news.com",
-        "date": "Sun, 11 Oct 2026 20:46:13 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/gemini-icebreakers-demo.webp"
+        "date": "Mon, 12 Oct 2026 00:11:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_bbe8507b799511b9008af67ac5c32115a9765abf.1920x1080.jpg"
       },
       {
-        "title": "VR Narrative Adventure Terry's Terraforming Gets Release Date",
-        "url": "https://www.uploadvr.com/vr-narrative-adventure-terrys-terraforming-gets-release-date/",
-        "summary": "Terry's Terraforming, a VR narrative adventure game where you fix up planets across the galaxy, is coming to Quest 3 soon, with a Steam release coming later.",
+        "title": "Pico Space Pro Headset Spotted In Japanese Regulatory Filings",
+        "url": "https://www.uploadvr.com/pico-space-pro-headset-spotted-in-japanese-regulatory-filings/",
+        "summary": "Japanese regulatory filings reveal photos and teardown images of ByteDance's upcoming Pico Space Pro headset, showing a design that matches earlier SDK leaks.",
         "source": "uploadvr.com",
-        "date": "Fri, 09 Oct 2026 11:13:32 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/maxresdefault-3.jpg"
+        "date": "Sun, 11 Oct 2026 15:45:42 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb.png"
       },
       {
         "title": "Welcoming Scott Hayden as Road to VR’s New Executive Editor",
@@ -27,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2020/01/creal-ces-2020-1-e1791518420571.jpg?resize=1622%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Microsoft changed its D3D12 matrix spec twice in 12 days, then took two fixes from one outsider",
-        "url": "https://mixed-news.com/en/d3d12-linear-algebra-spec-0-10-directx-headers-outside-fixes/",
-        "summary": "The draft specification for matrix maths in Direct3D 12 changed shape on October 6, 12 days after the previous rewrite of the same document, and it is still a draft.",
+        "title": "OpenAI's own advice during its October 9 Android outage: use ChatGPT on the web",
+        "url": "https://mixed-news.com/en/openai-october-9-chatgpt-android-outage-workspace-plugin-admins/",
+        "summary": "If you opened ChatGPT on an Android phone on the evening of October 9 and got \"This content is unavailable in this version of the app\" where an answer should have been, the fault…",
         "source": "mixed-news.com",
-        "date": "Sun, 11 Oct 2026 19:53:26 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/XII_BLACK_1kx1k.jpg"
+        "date": "Sun, 11 Oct 2026 23:21:56 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/docs.png"
       },
       {
-        "title": "Our Favorite VR Games For Spooky Season 2026",
-        "url": "https://www.uploadvr.com/our-favorite-vr-games-for-spooky-season-2026/",
-        "summary": "Halloween is just around the corner. We've picked ten of our favorite scary VR games for spooky season 2026.",
+        "title": "VR Narrative Adventure Terry's Terraforming Gets Release Date",
+        "url": "https://www.uploadvr.com/vr-narrative-adventure-terrys-terraforming-gets-release-date/",
+        "summary": "Terry's Terraforming, a VR narrative adventure game where you fix up planets across the galaxy, is coming to Quest 3 soon, with a Steam release coming later.",
         "source": "uploadvr.com",
-        "date": "Fri, 09 Oct 2026 11:12:34 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Fav-Spooks-in-VR-1.jpg"
+        "date": "Fri, 09 Oct 2026 11:13:32 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/maxresdefault-3.jpg"
       },
       {
         "title": "Meta Brings Immersive College Football to Quest, Promises 100+ Live Sporting Events Next Year",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Commanders let clock run out, tie Giants 27-27",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-let-clock-run-out-tie-giants-27-27",
-        "summary": "The Commanders blew a chance to win the game after a late Cam Skattebo fumble.",
+        "title": "John Harbaugh: We wanted as many yards as we could get before field goal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-we-wanted-as-many-yards-as-we-could-get-before-field-goal",
+        "summary": "The Commanders' mismanagement of the clock at the end of overtime in Sunday's 27-27 tie with the Giants obscured another coaching decision that backfired earlier in the period.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 17:00:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cbbc8c7/2147483647/strip/false/crop/3180x1789+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fae%2Fc6%2F35542bb646f09512112dc3455d6b%2F2026-10-11t194502z-1863893200-mt1usatoday30059359-rtrmadp-3-nfl-new-york-giants-at-washington-commanders.jpg"
+        "date": "Sun, 11 Oct 2026 20:22:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38da8d5/2147483647/strip/false/crop/3751x2110+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2Faf%2Fa8879fe242878f0a2509a727fb80%2F2299713890.jpg"
       },
       {
-        "title": "Seahawks convert 49ers' turnover into game-tying TD",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-convert-49ers-turnover-into-game-tying-td",
-        "summary": "The 49ers scored a touchdown after a gift from Sam Darnold.",
+        "title": "Ben Johnson: Tyson Bagent could never get in a rhythm today",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-tyson-bagent-could-never-get-in-a-rhythm-today",
+        "summary": "Bears head coach Ben Johnson benched quarterback Tyson Bagent during today's loss to the Packers, and he said afterward that Bagent was off throughout the game.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 16:53:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d264db/2147483647/strip/false/crop/4312x2426+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Fe8%2Fceb6e75e4d5a927bf4c844d2dcf4%2F2299156807.jpg"
+        "date": "Sun, 11 Oct 2026 20:17:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0a071cf/2147483647/strip/false/crop/4408x2480+0+230/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F35%2F03a1f12e4413b1e2f07d62f91ef2%2F2299231293.jpg"
       },
       {
-        "title": "Cardinals run successful Philly special, take 7-0 lead over Lions",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-run-successful-philly-special-take-7-0-lead-over-lions",
-        "summary": "The Cardinals got a little creative to convert a fourth-and-1 deep in Detroit territory and then put the ball in the box.",
+        "title": "49ers' four takeaways spur 32-29 win over Seahawks",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-four-takeaways-spurs-32-29-win-over-seahawks",
+        "summary": "Eddy Pineiro kicked a 44-yard field goal with 1:56 remaining for the winning points.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 16:46:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/16f40e4/2147483647/strip/false/crop/5077x2856+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2Fe6%2F6c9a9bab4a408b1153fd35387e28%2F2299714438.jpg"
+        "date": "Sun, 11 Oct 2026 19:57:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c5ada9c/2147483647/strip/false/crop/3092x1739+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4b%2Fa5%2Fc3f42c894fad88201e21256ad630%2F2299730134.jpg"
       },
       {
-        "title": "Mike Evans catches 2-yard TD after Sam Darnold's INT",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-evans-catches-2-yard-td-after-sam-darnolds-int",
-        "summary": "It was a rough start for Seahawks quarterback Sam Darnold.",
+        "title": "Jeremiah Trotter Jr., Bryan Thomas Jr. were ejected for \"continuous, non-football actions\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiah-trotter-jr-bryan-thomas-jr-were-ejected-for-continuous-non-football-actions",
+        "summary": "After the opening kickoff on Sunday morning's Eagles-Jaguars game in London (a play that was wiped out by offsetting penalties), Eagles linebacker Jeremiah Trotter Jr.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 16:41:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7c5a9ff/2147483647/strip/false/crop/2083x1172+0+486/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2Ff4%2Fcd66d20b4feb990408fce6802667%2F2298993303.jpg"
+        "date": "Sun, 11 Oct 2026 19:43:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/671a49a/2147483647/strip/false/crop/6661x3747+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2Fed%2F27cf6a4148a8a1a3dcb73a1efb6d%2F2026-10-11t190958z-954501465-mt1usatoday30056725-rtrmadp-3-nfl-philadelphia-eagles-at-jacksonville-jaguars.jpg"
       },
       {
-        "title": "Cardinals agree to trade Marvin Harrison Jr. to Texans",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-agree-to-trade-marvin-harrison-jr-to-texans",
-        "summary": "The Texans got a win on Sunday, and then they got a new receiver.",
+        "title": "Lions roll to 45-21 victory over Cardinals",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-roll-to-45-21-victory-over-cardinals",
+        "summary": "The Lions weren’t able to beat the Panthers last weekend, but the club looked like an offensive juggernaut in Sunday’s victory over the Cardinals.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 16:32:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1d8fbe/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F91%2F763%2Fnbc_pftpm_mhj_261010.jpg"
+        "date": "Sun, 11 Oct 2026 19:30:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f691136/2147483647/strip/false/crop/4084x2297+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F87%2F89%2F8a123e3443cea076b4c861a46b66%2F2299729405.jpg"
       },
       {
-        "title": "Jets snap losing streak with 17-12 win over Browns",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-snap-losing-streak-with-17-12-win-over-browns",
-        "summary": "Both the Jets and Browns have long histories of crushing the hopes and dreams of their fanbases, but only one of them could do so this Sunday because they faced each other at…",
+        "title": "Broncos rally late for 23-17 win, send Chargers to 0-5",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-rally-late-to-send-chargers-to-0-5",
+        "summary": "The Denver offense didn't show much improvement, but the Broncos got a win.",
         "source": "nbcsports.com",
-        "date": "Sun, 11 Oct 2026 16:27:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7383a96/2147483647/strip/false/crop/4552x2561+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa1%2F39%2F237406e547679c7bd7118c9f9e20%2F2299715227.jpg"
+        "date": "Sun, 11 Oct 2026 19:22:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e0ee6c8/2147483647/strip/false/crop/4471x2515+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F14%2F1ba730b34d898588452d81994066%2F2299719629.jpg"
       }
     ]
   }
