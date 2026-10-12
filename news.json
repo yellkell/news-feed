@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-12T16:05:59.306Z",
+  "updated": "2026-10-12T22:55:49.708Z",
   "feed": {
     "VR": [
+      {
+        "title": "Proton's stable branch sat still for 49 days, then returned with two EA App fixes",
+        "url": "https://mixed-news.com/en/proton-11-0-2e-first-stable-release-since-august-ea-app/",
+        "summary": "Proton's stable branch has moved for the first time since August 21.",
+        "source": "mixed-news.com",
+        "date": "Mon, 12 Oct 2026 22:22:36 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_6d25000e7a7badd44ec9f38e6264c7f400db649c.1920x1080.jpg"
+      },
       {
         "title": "Pico Space Pro Leaks Ahead of Planned 2026 Launch, Including External & Internal Images",
         "url": "https://roadtovr.com/pico-space-pro-leak-photos-external-internal/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Mon, 12 Oct 2026 11:48:55 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/pico-space-pro.jpg?resize=1800%2C1200&quality=89&ssl=1"
-      },
-      {
-        "title": "Rematch is adding 50ms of input delay so your ping stops deciding other players' duels",
-        "url": "https://mixed-news.com/en/rematch-netcode-2-0-server-initiated-hits-50ms-input-delay/",
-        "summary": "Sloclap is rebuilding how Rematch decides who touched the ball, and the bill comes to 50 milliseconds.",
-        "source": "mixed-news.com",
-        "date": "Mon, 12 Oct 2026 00:11:55 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_bbe8507b799511b9008af67ac5c32115a9765abf.1920x1080.jpg"
       },
       {
         "title": "Pico Space Pro Headset Spotted In Japanese Regulatory Filings",
@@ -35,12 +35,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/steam-frame.png?resize=1536%2C1024&quality=80&ssl=1"
       },
       {
-        "title": "OpenAI's own advice during its October 9 Android outage: use ChatGPT on the web",
-        "url": "https://mixed-news.com/en/openai-october-9-chatgpt-android-outage-workspace-plugin-admins/",
-        "summary": "If you opened ChatGPT on an Android phone on the evening of October 9 and got \"This content is unavailable in this version of the app\" where an answer should have been, the fault…",
+        "title": "Rematch is adding 50ms of input delay so your ping stops deciding other players' duels",
+        "url": "https://mixed-news.com/en/rematch-netcode-2-0-server-initiated-hits-50ms-input-delay/",
+        "summary": "Sloclap is rebuilding how Rematch decides who touched the ball, and the bill comes to 50 milliseconds.",
         "source": "mixed-news.com",
-        "date": "Sun, 11 Oct 2026 23:21:56 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/docs.png"
+        "date": "Mon, 12 Oct 2026 00:11:55 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_bbe8507b799511b9008af67ac5c32115a9765abf.1920x1080.jpg"
       },
       {
         "title": "VR Narrative Adventure Terry's Terraforming Gets Release Date",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-        "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-        "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.",
+        "title": "Meta has some Wonder Full new AI models",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now…",
         "source": "theverge.com",
-        "date": "2026-10-12T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-12T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
       },
       {
-        "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-        "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
+        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+        "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+        "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.",
         "source": "theverge.com",
-        "date": "2026-10-11T14:33:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-12T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
-        "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-        "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular.",
+        "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+        "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
         "source": "theverge.com",
-        "date": "2026-10-11T07:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-11T14:33:56-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Report: Carson Schwesinger has Grade 1 ankle sprain, not ruled out for Week 6",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-carson-schwesinger-has-grade-1-ankle-sprain-not-ruled-out-for-week-6",
-        "summary": "Browns linebacker Carson Schwesinger left the stadium in a walking boot after Sunday's loss to the Jets, but he reportedly avoided a major injury.",
+        "title": "Marvin Harrison Jr. passes physical, so trade is official",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-jr-passes-physical-so-trade-is-official",
+        "summary": "Wide receiver Marvin Harrison Jr. passed his physical on Monday, according to multiple reports.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 11:59:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8b95048/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2F23%2Ffabf13494b95bec5be9ac3d4a843%2F2299228118.jpg"
+        "date": "Mon, 12 Oct 2026 18:36:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c26a8e/2147483647/strip/false/crop/4000x2250+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2Fb9%2Fa27d0ecc434393696b822904f888%2F2298039262.jpg"
       },
       {
-        "title": "Cam Ward: I'm not a loser, you've got to go through stuff to get wins",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-ward-im-not-a-loser-youve-got-to-go-through-stuff-to-get-wins",
-        "summary": "Cam Ward has been in the league for one full season and five games.",
+        "title": "Monti Ossenfort on Marvin Harrison Jr. trade: These decisions are never easy",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monti-ossenfort-on-trading-marvin-harrison-jr-these-decisions-are-never-easy",
+        "summary": "At the end of his news conference Sunday, Texans coach DeMeco Ryans confirmed his team acquired wide receiver Marvin Harrison Jr. in a trade with the Cardinals.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 11:50:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f423816/2147483647/strip/false/crop/3066x1725+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2Faa%2F9bc1382345638aaf98bfcd2a16a3%2F2026-10-04t202903z-389613263-mt1usatoday29998961-rtrmadp-3-nfl-tennessee-titans-at-baltimore-ravens.jpg"
+        "date": "Mon, 12 Oct 2026 18:20:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/16b117d/2147483647/strip/false/crop/4057x2282+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2Fc0%2F783ebab144728740e91587946e59%2F2287766718.jpg"
       },
       {
-        "title": "Eagles RB Will Shipley out multiple weeks with foot injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-rb-will-shipley-out-multiple-weeks-with-foot-injury",
-        "summary": "The injuries to Eagles running backs continue.",
+        "title": "Deebo Samuel to miss time with hamstring injury, Nick Bosa could return this week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deebo-samuel-to-miss-time-with-hamstring-injury-nick-bosa-could-return-this-week",
+        "summary": "The 49ers are going to be down another wide receiver in the coming weeks.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 11:20:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ffd8de8/2147483647/strip/false/crop/3925x2208+0+205/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2F36%2F9794a7854b94b7b228d9e9807d25%2F2299684405.jpg"
+        "date": "Mon, 12 Oct 2026 18:14:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58ceaef/2147483647/strip/false/crop/3685x2073+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F10%2Fb4%2Fd3d6349b493182a298859aba0e08%2F2299735294.jpg"
       },
       {
-        "title": "Nico Collins on C.J. Stroud: That dude is hooping",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nico-collins-on-c-j-stroud-that-dude-is-hooping",
-        "summary": "The Texans got their first victory of the season on Sunday, beating the moribund Titans, 26-3.",
+        "title": "NFL rules DT Zxavian Harris is eligible to sign with teams as a free agent",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-rules-dt-zxavian-harris-is-eligible-to-sign-with-teams-as-a-free-agent",
+        "summary": "The NFL has reversed course concerning defensive tackle Zxavian Harris's eligibility to play in the NFL.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 10:59:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6342a20/2147483647/strip/false/crop/3956x2225+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2Fab%2F9e91e96d40ffabb12235fc7b7162%2F2299710154.jpg"
+        "date": "Mon, 12 Oct 2026 18:04:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/65e660e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F91%2F263%2Fnbc_pftpm_gambling_261010.jpg"
       },
       {
-        "title": "Seahawks' second-quarter blunder handed 49ers an easy touchdown",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-second-quarter-blunder-handed-49ers-an-easy-touchdown",
-        "summary": "Thanks to Dan Quinn's colossal clock-mismanagement error, plenty of other mistakes made by NFL coaches from Week 5 weren't as conspicuous as they should have been.",
+        "title": "Vikings worked out JuJu Smith-Schuster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-worked-out-juju-smith-schuster",
+        "summary": "The Vikings are continuing to look at veteran wide receivers.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 10:51:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8afe9e/2147483647/strip/false/crop/4638x2609+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F58%2F7be07c0941f6959a621c02a7d752%2F2026-10-11t221452z-1916062429-mt1usatoday30060868-rtrmadp-3-nfl-san-francisco-49ers-at-seattle-seahawks.jpg"
+        "date": "Mon, 12 Oct 2026 17:47:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6e61ee/2147483647/strip/false/crop/8192x4608+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2Fd2%2Fe0d16c0c423490647db67d730b54%2F2294557071.jpg"
       },
       {
-        "title": "Lions' Tom Kennedy, Devin White will both miss time with injuries suffered Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-tom-kennedy-devin-white-will-both-miss-time-with-injuries-suffered-sunday",
-        "summary": "The Lions lost linebacker Devin White and receiver/returner Tom Kennedy to injuries on Sunday in Arizona, and both appear likely to miss some time, but not the entire season.",
+        "title": "Nick Sirianni, Jalen Hurts seems to disagree on the management of Philly's final drive",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-jalen-hurts-seems-to-disagree-on-the-management-of-phillys-final-drive",
+        "summary": "On Sunday, Eagles coach Nick Sirianni willingly took blame for the decision to put the kickoff in play with eight seconds left and a one-point lead over Jacksonville.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 10:40:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c26c1f7/2147483647/strip/false/crop/4521x2543+0+235/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2Fc6%2Fde7f366f49a285fa8b7257de341a%2F2250259894.jpg"
+        "date": "Mon, 12 Oct 2026 17:39:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4a592a8/2147483647/strip/false/crop/3932x2212+0+205/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2Feb%2F3b63c9914e40be11599767230069%2F2247170013.jpg"
       }
     ]
   }
