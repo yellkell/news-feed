@@ -1,14 +1,38 @@
 {
-  "updated": "2026-10-13T03:18:47.065Z",
+  "updated": "2026-10-13T10:51:29.438Z",
   "feed": {
     "VR": [
       {
-        "title": "L+R marks eight of its own Ray-Ban Display demos as concepts, not working apps",
-        "url": "https://mixed-news.com/en/lr-ray-ban-display-demo-catalogue-status-markers-input-limits/",
-        "summary": "Design studio L+R rewrote its catalogue of Meta Ray-Ban Display demo apps on October 10 and put a status marker on all but one of its entries, including the ones that do not work…",
+        "title": "Mothergunship: Forge Gets First Major Update In Over Three Years",
+        "url": "https://www.uploadvr.com/mothergunship-forge-gets-first-major-update-in-over-three-years/",
+        "summary": "Terrible Posture Games announced a major update for their roguelite shooter Mothergunship: Forge, the first update in three years.",
+        "source": "uploadvr.com",
+        "date": "Tue, 13 Oct 2026 03:45:30 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Mothergunship-Forge-Key-Art.jpg"
+      },
+      {
+        "title": "Meta Lab opens its first Arizona and Georgia stores, and a second in New York",
+        "url": "https://mixed-news.com/en/meta-lab-scottsdale-atlanta-moynihan-train-hall-glasses-demos/",
+        "summary": "Meta has three more Meta Lab shops open, including its first in Arizona and its first in Georgia, and its second in New York City.",
         "source": "mixed-news.com",
-        "date": "Tue, 13 Oct 2026 02:25:12 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/preview.png"
+        "date": "Tue, 13 Oct 2026 10:33:23 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Which-AI-Glasses-Are-Right-For-You_Social-Share.png"
+      },
+      {
+        "title": "The Best Way to Sideload Games on Quest Just Got Better",
+        "url": "https://roadtovr.com/the-best-way-to-sideload-games-on-quest-just-got-better/",
+        "summary": "SideQuest has been the number one unofficial store for Quest games ever since its founding in 2019.",
+        "source": "roadtovr.com",
+        "date": "Tue, 13 Oct 2026 09:26:45 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/sidequest.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "The Witcher 3's Linux stutter looks like a network check running 10 times a second",
+        "url": "https://mixed-news.com/en/witcher-3-linux-stutter-network-check-wineland-proton-607/",
+        "summary": "The stutter Linux players report in The Witcher 3: Wild Hunt looks like a network check rather than anything to do with the graphics card.",
+        "source": "mixed-news.com",
+        "date": "Tue, 13 Oct 2026 09:43:38 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/cd78aecb9b08a705ea2008a833c2b03f1305c848.jpg"
       },
       {
         "title": "Pico Space Pro Leaks Ahead of Planned 2026 Launch, Including External & Internal Images",
@@ -25,40 +49,16 @@
         "source": "uploadvr.com",
         "date": "Sun, 11 Oct 2026 15:45:42 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb.png"
-      },
-      {
-        "title": "An unofficial Even G2 flasher now offers only Even's own firmware, and bars custom builds",
-        "url": "https://mixed-news.com/en/even-realities-webflasher-official-g2-r1-firmware-no-custom-builds/",
-        "summary": "An independent browser tool for the Even Realities G2 glasses and R1 ring started publishing Even's own official firmware images on October 9, and it keeps custom builds out on…",
-        "source": "mixed-news.com",
-        "date": "Tue, 13 Oct 2026 01:38:06 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/even-g2-smart-glasses-models-lifestyle.jpg"
-      },
-      {
-        "title": "Steam Frame Backorder Queue Stretches into 2027",
-        "url": "https://roadtovr.com/steam-frame-backorder-queue-2027/",
-        "summary": "Getting a Steam Frame for the holidays could be a bit dicey, as Valve says the order queue has now stretched into 2027.",
-        "source": "roadtovr.com",
-        "date": "Mon, 12 Oct 2026 10:53:25 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/steam-frame.png?resize=1536%2C1024&quality=80&ssl=1"
-      },
-      {
-        "title": "VR Narrative Adventure Terry's Terraforming Gets Release Date",
-        "url": "https://www.uploadvr.com/vr-narrative-adventure-terrys-terraforming-gets-release-date/",
-        "summary": "Terry's Terraforming, a VR narrative adventure game where you fix up planets across the galaxy, is coming to Quest 3 soon, with a Steam release coming later.",
-        "source": "uploadvr.com",
-        "date": "Fri, 09 Oct 2026 11:13:32 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/maxresdefault-3.jpg"
       }
     ],
     "AI": [
       {
-        "title": "Meta has some Wonder Full new AI models",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-        "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now…",
+        "title": "Character.AI files for bankruptcy",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+        "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney.",
         "source": "theverge.com",
-        "date": "2026-10-12T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-13T06:32:23-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
       },
       {
-        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-        "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-        "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.",
+        "title": "Meta has some Wonder Full new AI models",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now…",
         "source": "theverge.com",
-        "date": "2026-10-12T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-12T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
-        "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-        "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on.",
+        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+        "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+        "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.",
         "source": "theverge.com",
-        "date": "2026-10-11T14:33:56-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-12T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "With 210 yards passing and 121 rushing, Josh Allen had his fourth career double-triple",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-210-yards-passing-and-121-rushing-josh-allen-had-his-fourth-career-double-triple",
+        "summary": "Allen reached triple-digit yardage in two statistical categories for the fourth time.",
+        "source": "nbcsports.com",
+        "date": "Tue, 13 Oct 2026 06:27:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d09c313/2147483647/strip/false/crop/4499x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F76%2Ffa66cec743e0978c124b8e3b99c4%2F2299923182.jpg"
+      },
+      {
+        "title": "Rams' Alaric Jackson punched Bills' Bradley Chubb after game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-alaric-jackson-punched-bills-bradley-chubb-after-game",
+        "summary": "Jackson will be facing NFL discipline for approaching Chubb after the game and throwing a punch.",
+        "source": "nbcsports.com",
+        "date": "Tue, 13 Oct 2026 04:56:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0030c16/2147483647/strip/false/crop/7006x3941+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F8f%2Fd3cf6b0044628ad896ca23bbbb10%2F2299923281.jpg"
+      },
+      {
+        "title": "Sean McVay: Field goal unit \"cost us the game tonight\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-field-goal-unit-cost-us-the-game-tonight",
+        "summary": "The Rams fell to 2-3 on Monday night, due in part to a couple of missed field goals from kicker Harrison Mevis — including a blocked field goal in overtime that, if good, would…",
+        "source": "nbcsports.com",
+        "date": "Tue, 13 Oct 2026 00:25:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/14054f3/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2F4c%2Fb638f4c14769ada2882958fda374%2F2299903795.jpg"
+      },
+      {
+        "title": "Josh Allen's 100th win is also his first ever in overtime",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allens-100th-win-is-also-his-first-ever-in-overtime",
+        "summary": "On Monday night in L.A., Bills quarterback Josh Allen got his 100th career win.",
+        "source": "nbcsports.com",
+        "date": "Tue, 13 Oct 2026 00:02:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3e362f2/2147483647/strip/false/crop/4123x2319+0+215/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8c%2F97%2F430c6cf64562a8ff6ce2a9392402%2F2299911090.jpg"
+      },
+      {
+        "title": "Monday Night Football: Bills beat Rams 37-34 in overtime in instant classic",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-bills-beat-rams-37-34-in-overtime-in-instant-classic",
+        "summary": "Bills kicker Tyler Bass made a 45-yard field goal with 1:55 remaining in OT for the win.",
+        "source": "nbcsports.com",
+        "date": "Mon, 12 Oct 2026 23:58:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9f5887d/2147483647/strip/false/crop/5568x3132+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2Fec%2Fdc322b364b93a754c18dede7bce7%2F2026-10-13t025124z-2079032191-mt1usatoday30069883-rtrmadp-3-nfl-buffalo-bills-at-los-angeles-rams.jpg"
+      },
+      {
         "title": "Dolphins coach Jeff Hafley isn't considering benching QB Malik Willis",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-coach-jeff-hafley-isnt-considering-benching-qb-malik-willis",
         "summary": "The 0-5 Dolphins enter their bye week searching for answers.",
         "source": "nbcsports.com",
         "date": "Mon, 12 Oct 2026 23:11:54 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfa79a3/2147483647/strip/false/crop/4140x2329+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2F05%2Ffdc8242d4e9abb1e18571047cc80%2F2299242690.jpg"
-      },
-      {
-        "title": "Davante Adams' second TD ties it up 27-27",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-second-td-ties-it-up-27-27",
-        "summary": "Rams wide receiver Davante Adams loves Monday night.",
-        "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 23:03:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/befbc41/2147483647/strip/false/crop/5803x3264+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2Fbc%2F368485d646eab3314daf037b77e0%2F2026-10-13t010806z-1376742781-mt1usatoday30068976-rtrmadp-3-nfl-buffalo-bills-at-los-angeles-rams.jpg"
-      },
-      {
-        "title": "Josh Allen scores eighth rushing TD of the season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-scores-eighth-rushing-td-of-the-season",
-        "summary": "Josh Allen has his eighth rushing touchdown in five games, and the Bills have the lead again.",
-        "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 22:53:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e27eb57/2147483647/strip/false/crop/7067x3975+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F18%2Fd25e12d14acd9af73a4796997a87%2F2026-10-13t005022z-1768921520-mt1usatoday30068703-rtrmadp-3-nfl-buffalo-bills-at-los-angeles-rams.jpg"
-      },
-      {
-        "title": "Puka Nacua's touchdown gives Rams a 20-19 lead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacuas-touchdown-gives-rams-a-20-19-lead",
-        "summary": "After a defensive battle in the first half, Josh Allen and Matthew Stafford have heated up.",
-        "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 22:47:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3eb2094/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F16%2Febd5351b4538a30cd67263c25d78%2F2299907590.jpg"
-      },
-      {
-        "title": "Teams should record and save all headset communications",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teams-should-record-and-save-all-headset-communications",
-        "summary": "When a plane crashes, the \"black box\" preserves all evidence regarding the cockpit conversations.",
-        "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 22:43:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50dd23c/2147483647/strip/false/crop/6643x3737+0+346/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F2c%2F9c6da15c4267b0108a378763d6e6%2F2295512381.jpg"
-      },
-      {
-        "title": "Cardinals will discuss making Carson Beck active on game day",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-will-discuss-making-carson-beck-active-on-game-day",
-        "summary": "The Cardinals are 2-15 with Jacoby Brissett as their quarterback in the past two seasons, with a point differential of minus-194.",
-        "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 22:39:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/822c15f/2147483647/strip/false/crop/5871x3302+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2Fda%2F448060f64ce282887b3915410841%2F2295511956.jpg"
       }
     ]
   }
