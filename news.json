@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-12T22:55:49.708Z",
+  "updated": "2026-10-13T03:18:47.065Z",
   "feed": {
     "VR": [
       {
-        "title": "Proton's stable branch sat still for 49 days, then returned with two EA App fixes",
-        "url": "https://mixed-news.com/en/proton-11-0-2e-first-stable-release-since-august-ea-app/",
-        "summary": "Proton's stable branch has moved for the first time since August 21.",
+        "title": "L+R marks eight of its own Ray-Ban Display demos as concepts, not working apps",
+        "url": "https://mixed-news.com/en/lr-ray-ban-display-demo-catalogue-status-markers-input-limits/",
+        "summary": "Design studio L+R rewrote its catalogue of Meta Ray-Ban Display demo apps on October 10 and put a status marker on all but one of its entries, including the ones that do not work…",
         "source": "mixed-news.com",
-        "date": "Mon, 12 Oct 2026 22:22:36 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_6d25000e7a7badd44ec9f38e6264c7f400db649c.1920x1080.jpg"
+        "date": "Tue, 13 Oct 2026 02:25:12 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/preview.png"
       },
       {
         "title": "Pico Space Pro Leaks Ahead of Planned 2026 Launch, Including External & Internal Images",
@@ -27,20 +27,20 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb.png"
       },
       {
+        "title": "An unofficial Even G2 flasher now offers only Even's own firmware, and bars custom builds",
+        "url": "https://mixed-news.com/en/even-realities-webflasher-official-g2-r1-firmware-no-custom-builds/",
+        "summary": "An independent browser tool for the Even Realities G2 glasses and R1 ring started publishing Even's own official firmware images on October 9, and it keeps custom builds out on…",
+        "source": "mixed-news.com",
+        "date": "Tue, 13 Oct 2026 01:38:06 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/even-g2-smart-glasses-models-lifestyle.jpg"
+      },
+      {
         "title": "Steam Frame Backorder Queue Stretches into 2027",
         "url": "https://roadtovr.com/steam-frame-backorder-queue-2027/",
         "summary": "Getting a Steam Frame for the holidays could be a bit dicey, as Valve says the order queue has now stretched into 2027.",
         "source": "roadtovr.com",
         "date": "Mon, 12 Oct 2026 10:53:25 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/steam-frame.png?resize=1536%2C1024&quality=80&ssl=1"
-      },
-      {
-        "title": "Rematch is adding 50ms of input delay so your ping stops deciding other players' duels",
-        "url": "https://mixed-news.com/en/rematch-netcode-2-0-server-initiated-hits-50ms-input-delay/",
-        "summary": "Sloclap is rebuilding how Rematch decides who touched the ball, and the bill comes to 50 milliseconds.",
-        "source": "mixed-news.com",
-        "date": "Mon, 12 Oct 2026 00:11:55 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_bbe8507b799511b9008af67ac5c32115a9765abf.1920x1080.jpg"
       },
       {
         "title": "VR Narrative Adventure Terry's Terraforming Gets Release Date",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Marvin Harrison Jr. passes physical, so trade is official",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-jr-passes-physical-so-trade-is-official",
-        "summary": "Wide receiver Marvin Harrison Jr. passed his physical on Monday, according to multiple reports.",
+        "title": "Dolphins coach Jeff Hafley isn't considering benching QB Malik Willis",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-coach-jeff-hafley-isnt-considering-benching-qb-malik-willis",
+        "summary": "The 0-5 Dolphins enter their bye week searching for answers.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 18:36:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c26a8e/2147483647/strip/false/crop/4000x2250+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2Fb9%2Fa27d0ecc434393696b822904f888%2F2298039262.jpg"
+        "date": "Mon, 12 Oct 2026 23:11:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfa79a3/2147483647/strip/false/crop/4140x2329+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2F05%2Ffdc8242d4e9abb1e18571047cc80%2F2299242690.jpg"
       },
       {
-        "title": "Monti Ossenfort on Marvin Harrison Jr. trade: These decisions are never easy",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monti-ossenfort-on-trading-marvin-harrison-jr-these-decisions-are-never-easy",
-        "summary": "At the end of his news conference Sunday, Texans coach DeMeco Ryans confirmed his team acquired wide receiver Marvin Harrison Jr. in a trade with the Cardinals.",
+        "title": "Davante Adams' second TD ties it up 27-27",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/davante-adams-second-td-ties-it-up-27-27",
+        "summary": "Rams wide receiver Davante Adams loves Monday night.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 18:20:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/16b117d/2147483647/strip/false/crop/4057x2282+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2Fc0%2F783ebab144728740e91587946e59%2F2287766718.jpg"
+        "date": "Mon, 12 Oct 2026 23:03:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/befbc41/2147483647/strip/false/crop/5803x3264+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2Fbc%2F368485d646eab3314daf037b77e0%2F2026-10-13t010806z-1376742781-mt1usatoday30068976-rtrmadp-3-nfl-buffalo-bills-at-los-angeles-rams.jpg"
       },
       {
-        "title": "Deebo Samuel to miss time with hamstring injury, Nick Bosa could return this week",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deebo-samuel-to-miss-time-with-hamstring-injury-nick-bosa-could-return-this-week",
-        "summary": "The 49ers are going to be down another wide receiver in the coming weeks.",
+        "title": "Josh Allen scores eighth rushing TD of the season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-scores-eighth-rushing-td-of-the-season",
+        "summary": "Josh Allen has his eighth rushing touchdown in five games, and the Bills have the lead again.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 18:14:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58ceaef/2147483647/strip/false/crop/3685x2073+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F10%2Fb4%2Fd3d6349b493182a298859aba0e08%2F2299735294.jpg"
+        "date": "Mon, 12 Oct 2026 22:53:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e27eb57/2147483647/strip/false/crop/7067x3975+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F18%2Fd25e12d14acd9af73a4796997a87%2F2026-10-13t005022z-1768921520-mt1usatoday30068703-rtrmadp-3-nfl-buffalo-bills-at-los-angeles-rams.jpg"
       },
       {
-        "title": "NFL rules DT Zxavian Harris is eligible to sign with teams as a free agent",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-rules-dt-zxavian-harris-is-eligible-to-sign-with-teams-as-a-free-agent",
-        "summary": "The NFL has reversed course concerning defensive tackle Zxavian Harris's eligibility to play in the NFL.",
+        "title": "Puka Nacua's touchdown gives Rams a 20-19 lead",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacuas-touchdown-gives-rams-a-20-19-lead",
+        "summary": "After a defensive battle in the first half, Josh Allen and Matthew Stafford have heated up.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 18:04:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/65e660e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F91%2F263%2Fnbc_pftpm_gambling_261010.jpg"
+        "date": "Mon, 12 Oct 2026 22:47:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3eb2094/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F16%2Febd5351b4538a30cd67263c25d78%2F2299907590.jpg"
       },
       {
-        "title": "Vikings worked out JuJu Smith-Schuster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-worked-out-juju-smith-schuster",
-        "summary": "The Vikings are continuing to look at veteran wide receivers.",
+        "title": "Teams should record and save all headset communications",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teams-should-record-and-save-all-headset-communications",
+        "summary": "When a plane crashes, the \"black box\" preserves all evidence regarding the cockpit conversations.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 17:47:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6e61ee/2147483647/strip/false/crop/8192x4608+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2Fd2%2Fe0d16c0c423490647db67d730b54%2F2294557071.jpg"
+        "date": "Mon, 12 Oct 2026 22:43:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/50dd23c/2147483647/strip/false/crop/6643x3737+0+346/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F2c%2F9c6da15c4267b0108a378763d6e6%2F2295512381.jpg"
       },
       {
-        "title": "Nick Sirianni, Jalen Hurts seems to disagree on the management of Philly's final drive",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-jalen-hurts-seems-to-disagree-on-the-management-of-phillys-final-drive",
-        "summary": "On Sunday, Eagles coach Nick Sirianni willingly took blame for the decision to put the kickoff in play with eight seconds left and a one-point lead over Jacksonville.",
+        "title": "Cardinals will discuss making Carson Beck active on game day",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-will-discuss-making-carson-beck-active-on-game-day",
+        "summary": "The Cardinals are 2-15 with Jacoby Brissett as their quarterback in the past two seasons, with a point differential of minus-194.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 17:39:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4a592a8/2147483647/strip/false/crop/3932x2212+0+205/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2Feb%2F3b63c9914e40be11599767230069%2F2247170013.jpg"
+        "date": "Mon, 12 Oct 2026 22:39:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/822c15f/2147483647/strip/false/crop/5871x3302+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2Fda%2F448060f64ce282887b3915410841%2F2295511956.jpg"
       }
     ]
   }
