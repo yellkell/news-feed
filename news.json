@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-13T10:51:29.438Z",
+  "updated": "2026-10-13T17:52:25.081Z",
   "feed": {
     "VR": [
+      {
+        "title": "One linker flag in DXVK stops an EA anti-cheat crash, and Proton had it six hours later",
+        "url": "https://mixed-news.com/en/dxvk-disable-long-section-names-ea-anti-cheat-proton-bleeding-edge/",
+        "summary": "DXVK now builds its release DLLs with eight-character PE section names to stop a crash inside an EA anti-cheat check, and the entire change is one linker flag.",
+        "source": "mixed-news.com",
+        "date": "Tue, 13 Oct 2026 17:20:58 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/library_hero.jpg"
+      },
       {
         "title": "Mothergunship: Forge Gets First Major Update In Over Three Years",
         "url": "https://www.uploadvr.com/mothergunship-forge-gets-first-major-update-in-over-three-years/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Tue, 13 Oct 2026 03:45:30 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Mothergunship-Forge-Key-Art.jpg"
-      },
-      {
-        "title": "Meta Lab opens its first Arizona and Georgia stores, and a second in New York",
-        "url": "https://mixed-news.com/en/meta-lab-scottsdale-atlanta-moynihan-train-hall-glasses-demos/",
-        "summary": "Meta has three more Meta Lab shops open, including its first in Arizona and its first in Georgia, and its second in New York City.",
-        "source": "mixed-news.com",
-        "date": "Tue, 13 Oct 2026 10:33:23 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Which-AI-Glasses-Are-Right-For-You_Social-Share.png"
       },
       {
         "title": "The Best Way to Sideload Games on Quest Just Got Better",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/sidequest.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "The Witcher 3's Linux stutter looks like a network check running 10 times a second",
-        "url": "https://mixed-news.com/en/witcher-3-linux-stutter-network-check-wineland-proton-607/",
-        "summary": "The stutter Linux players report in The Witcher 3: Wild Hunt looks like a network check rather than anything to do with the graphics card.",
+        "title": "VR Realms now reads HTC's face tracker, which the studio says it has not tested itself",
+        "url": "https://mixed-news.com/en/vr-realms-0-3-2-htc-face-tracking-metahuman-avatars/",
+        "summary": "Sketchy Realms has shipped the face tracking it promised for VR Realms, and widened it to HTC's face tracker and to a Quest Pro over more PC links.",
         "source": "mixed-news.com",
-        "date": "Tue, 13 Oct 2026 09:43:38 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/cd78aecb9b08a705ea2008a833c2b03f1305c848.jpg"
+        "date": "Tue, 13 Oct 2026 16:28:34 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_d927288a339303c2bd4242b08b3d3edb2992edd4.1920x1080.jpg"
       },
       {
         "title": "Pico Space Pro Leaks Ahead of Planned 2026 Launch, Including External & Internal Images",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Character.AI files for bankruptcy",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-        "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney.",
+        "title": "Facebook will let you customize your feed algorithm using AI",
+        "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+        "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels.",
         "source": "theverge.com",
-        "date": "2026-10-13T06:32:23-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-13T13:01:31-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/meta-your-algorithm-facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
       },
       {
-        "title": "Meta has some Wonder Full new AI models",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-        "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now…",
+        "title": "Google makes it easier to launch your vibe-coded apps",
+        "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+        "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it.",
         "source": "theverge.com",
-        "date": "2026-10-12T13:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-13T13:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       },
       {
-        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-        "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-        "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services.",
+        "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+        "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf.",
         "source": "theverge.com",
-        "date": "2026-10-12T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-13T12:42:51-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "With 210 yards passing and 121 rushing, Josh Allen had his fourth career double-triple",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-210-yards-passing-and-121-rushing-josh-allen-had-his-fourth-career-double-triple",
-        "summary": "Allen reached triple-digit yardage in two statistical categories for the fourth time.",
+        "title": "Jameson Williams wins appeal of smoking celebration fines",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameson-williams-wins-appeal-of-smoking-celebration-fines",
+        "summary": "Lions wide receiver Jameson Williams joined Bengals wideout Ja'Marr Chase in making successful appeals to the league after being fined in Week 2.",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 06:27:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d09c313/2147483647/strip/false/crop/4499x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F76%2Ffa66cec743e0978c124b8e3b99c4%2F2299923182.jpg"
+        "date": "Tue, 13 Oct 2026 13:42:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1541f01/2147483647/strip/false/crop/5210x2931+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6f%2F21%2F4741c77b405cbe7552dc8702a1a8%2F2295836804.jpg"
       },
       {
-        "title": "Rams' Alaric Jackson punched Bills' Bradley Chubb after game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-alaric-jackson-punched-bills-bradley-chubb-after-game",
-        "summary": "Jackson will be facing NFL discipline for approaching Chubb after the game and throwing a punch.",
+        "title": "Rams move on from K Harrison Mevis, sign K Blake Grupe",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-move-on-from-k-harrison-mevis-sign-k-blake-grupe",
+        "summary": "The Rams have completed at least one part of their evaluation of special teams.",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 04:56:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0030c16/2147483647/strip/false/crop/7006x3941+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F8f%2Fd3cf6b0044628ad896ca23bbbb10%2F2299923281.jpg"
+        "date": "Tue, 13 Oct 2026 13:33:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5442cf4/2147483647/strip/false/crop/3819x2148+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Fb0%2Fcea5146946169495c1880dd6d747%2F2299892080.jpg"
       },
       {
-        "title": "Sean McVay: Field goal unit \"cost us the game tonight\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-field-goal-unit-cost-us-the-game-tonight",
-        "summary": "The Rams fell to 2-3 on Monday night, due in part to a couple of missed field goals from kicker Harrison Mevis — including a blocked field goal in overtime that, if good, would…",
+        "title": "Ja'Marr Chase wins appeal of fines for making an obscene gesture",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-wins-appeal-of-fines-for-making-an-obscene-gesture",
+        "summary": "Bengals wide receiver Ja'Marr Chase was fined twice for making an obscene gesture during the team's Week 2 win over the Texans, but he won't be forking over any money to the…",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 00:25:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/14054f3/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2F4c%2Fb638f4c14769ada2882958fda374%2F2299903795.jpg"
+        "date": "Tue, 13 Oct 2026 13:24:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19d2614/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F48%2F9f%2F4a7e09d74d80b41070910031adbe%2F2296636655.jpg"
       },
       {
-        "title": "Josh Allen's 100th win is also his first ever in overtime",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allens-100th-win-is-also-his-first-ever-in-overtime",
-        "summary": "On Monday night in L.A., Bills quarterback Josh Allen got his 100th career win.",
+        "title": "Will Campbell is week-to-week after tests show he avoided a major knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-campbell-is-week-to-week-after-tests-show-he-avoided-a-major-knee-injury",
+        "summary": "Patriots left tackle Will Campbell has another knee injury, but this one is not overly serious.",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 00:02:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3e362f2/2147483647/strip/false/crop/4123x2319+0+215/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8c%2F97%2F430c6cf64562a8ff6ce2a9392402%2F2299911090.jpg"
+        "date": "Tue, 13 Oct 2026 12:46:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/513020b/2147483647/strip/false/crop/4632x2606+0+241/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F76%2F70%2F84f0ffef4fe8b162bd9b1c65d901%2F2299752004.jpg"
       },
       {
-        "title": "Monday Night Football: Bills beat Rams 37-34 in overtime in instant classic",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-bills-beat-rams-37-34-in-overtime-in-instant-classic",
-        "summary": "Bills kicker Tyler Bass made a 45-yard field goal with 1:55 remaining in OT for the win.",
+        "title": "Dan Campbell: Lions fans took over the stadium in Arizona",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-lions-fans-took-over-the-stadium-in-arizona",
+        "summary": "Lions head coach Dan Campbell credited the crowd for helping his team in Sunday's win over the Cardinals, even though the Lions were on the road.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 23:58:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9f5887d/2147483647/strip/false/crop/5568x3132+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2Fec%2Fdc322b364b93a754c18dede7bce7%2F2026-10-13t025124z-2079032191-mt1usatoday30069883-rtrmadp-3-nfl-buffalo-bills-at-los-angeles-rams.jpg"
+        "date": "Tue, 13 Oct 2026 12:18:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7383c4/2147483647/strip/false/crop/4499x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2Fd8%2F23ebbdc3458181b549a56a0ee701%2F2299742650.jpg"
       },
       {
-        "title": "Dolphins coach Jeff Hafley isn't considering benching QB Malik Willis",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-coach-jeff-hafley-isnt-considering-benching-qb-malik-willis",
-        "summary": "The 0-5 Dolphins enter their bye week searching for answers.",
+        "title": "Key Korn Ferry document in Brian Flores case becomes public",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/key-korn-ferry-document-in-brian-flores-case-becomes-public",
+        "summary": "Flores adds to his claims against the Dolphins based on statements the team allegedly made about him.",
         "source": "nbcsports.com",
-        "date": "Mon, 12 Oct 2026 23:11:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfa79a3/2147483647/strip/false/crop/4140x2329+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2F05%2Ffdc8242d4e9abb1e18571047cc80%2F2299242690.jpg"
+        "date": "Tue, 13 Oct 2026 12:13:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d13ed40/2147483647/strip/false/crop/3100x1744+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F4d%2F23f5785e41b8ae3c4642ee142936%2F2298298209.jpg"
       }
     ]
   }
