@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-14T11:46:24.564Z",
+  "updated": "2026-10-14T16:15:42.267Z",
   "feed": {
     "VR": [
       {
-        "title": "Index Headset Goes on Sale for the First Time Ever as Valve Announces Discontinuation",
-        "url": "https://roadtovr.com/valve-index-headset-discontinued-discount/",
-        "summary": "Index, Valve’s PC VR headset released in 2019, is officially on its way out.",
+        "title": "Sandisk is Releasing Official ‘Made for Meta’ Expandable Storage for VR Glasses",
+        "url": "https://roadtovr.com/sandisk-meta-vr-glasses-microsd-storage/",
+        "summary": "The launch of Meta VR Glasses next year will mark the first time any of the company’s standalone headsets has featured expandable storage.",
         "source": "roadtovr.com",
-        "date": "Wed, 14 Oct 2026 05:55:15 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2019/04/valve-index-person-people-5.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Wed, 14 Oct 2026 14:20:15 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/sandisk-meta.png?resize=1536%2C1024&quality=80&ssl=1"
       },
       {
         "title": "Pimax says Pimax Play is coming to Linux, which would put its headsets on SteamOS",
@@ -27,20 +27,20 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Mothergunship-Forge-Key-Art.jpg"
       },
       {
+        "title": "Index Headset Goes on Sale for the First Time Ever as Valve Announces Discontinuation",
+        "url": "https://roadtovr.com/valve-index-headset-discontinued-discount/",
+        "summary": "Index, Valve’s PC VR headset released in 2019, is officially on its way out.",
+        "source": "roadtovr.com",
+        "date": "Wed, 14 Oct 2026 05:55:15 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2019/04/valve-index-person-people-5.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
         "title": "MIT's stretchable sheet reconstructs its own 3D shape to within 0.4 centimetres",
         "url": "https://mixed-news.com/en/mit-shape-sensing-sheet-optical-fibres-04-centimetres/",
         "summary": "MIT engineers have built a soft, stretchable sheet that works out its own 3D shape as it bends and twists, with an error the team puts at under 0.4 centimetres.",
         "source": "mixed-news.com",
         "date": "Tue, 13 Oct 2026 22:23:27 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/MIT-Sensing-Sheets-01-press.jpg"
-      },
-      {
-        "title": "The Best Way to Sideload Games on Quest Just Got Better",
-        "url": "https://roadtovr.com/the-best-way-to-sideload-games-on-quest-just-got-better/",
-        "summary": "SideQuest has been the number one unofficial store for Quest games ever since its founding in 2019.",
-        "source": "roadtovr.com",
-        "date": "Tue, 13 Oct 2026 09:26:45 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/sidequest.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
         "title": "Pico Space Pro Headset Spotted In Japanese Regulatory Filings",
@@ -52,6 +52,30 @@
       }
     ],
     "AI": [
+      {
+        "title": "Anthropic’s self-replicating AI warning is an alarming deja vu",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+        "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet?",
+        "source": "theverge.com",
+        "date": "2026-10-14T11:19:02-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+        "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+        "source": "arstechnica.com",
+        "date": "Wed, 14 Oct 2026 12:55:06 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg"
+      },
+      {
+        "title": "Epic’s new games launcher is ‘vibe coded’",
+        "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+        "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux.",
+        "source": "theverge.com",
+        "date": "2026-10-14T09:55:02-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
       {
         "title": "Topgolf saved over $11.3 million after leaving VMware",
         "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
@@ -69,86 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Shopify opens its catalog up to more AI agents",
-        "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-        "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions.",
-        "source": "theverge.com",
-        "date": "2026-10-13T15:42:42-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
         "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
         "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
         "source": "arstechnica.com",
         "date": "Fri, 09 Oct 2026 18:54:52 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
-      },
-      {
-        "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-        "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-        "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from…",
-        "source": "theverge.com",
-        "date": "2026-10-13T15:00:48-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-        "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-        "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-        "source": "arstechnica.com",
-        "date": "Tue, 06 Oct 2026 19:21:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Joe Brady: James Cook's ball security has to improve or carries will decrease",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-brady-james-cooks-ball-security-has-to-improve-or-carries-will-decrease",
-        "summary": "James Cook ran for 111 yards and two touchdowns against the Rams on Monday night, but a negative play almost became his lasting memory of the game.",
+        "title": "Jahmyr Gibbs named NFC offensive player of the week for the fourth time",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-named-nfc-offensive-player-of-the-week-for-the-fourth-time",
+        "summary": "Lions running back Jahmyr Gibbs has picked up touchdowns at a furious rate over the course of his NFL career and he kept adding to that total in last Sunday's game against the…",
         "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 06:53:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e088a7e/2147483647/strip/false/crop/4382x2465+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F14%2F66%2Feb1c2d964390b6327584dbafce05%2F2300024581.jpg"
+        "date": "Wed, 14 Oct 2026 12:12:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5ddffde/2147483647/strip/false/crop/4322x2431+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F6e%2F895bf41943938e31237c8e573a9e%2F2299888824.jpg"
       },
       {
-        "title": "Brock Purdy will soon be the NFL's all-time leader in career passer rating",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-will-soon-be-the-nfls-all-time-leader-in-career-passer-rating",
-        "summary": "Brock Purdy will have the highest career passer rating in NFL history, just as soon as he has enough pass attempts to qualify for the record.",
+        "title": "David Bailey wins AFC defensive player of the week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-bailey-wins-afc-defensive-player-of-the-week",
+        "summary": "Jets rookie David Bailey was a game wrecker in the team's victory over the Browns on Sunday.",
         "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 06:43:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4c14f8d/2147483647/strip/false/crop/4392x2471+0+229/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F03%2F95a6fd4140e289e06f9d826142d2%2F2026-10-11t232737z-920536677-mt1usatoday30061370-rtrmadp-3-nfl-san-francisco-49ers-at-seattle-seahawks.jpg"
+        "date": "Wed, 14 Oct 2026 12:11:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/63a3880/2147483647/strip/false/crop/2417x1360+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2Fb7%2Fd490a0104f649b55d2779c080535%2F2290645863.jpg"
       },
       {
-        "title": "With Odell Beckham Jr. in Minnesota, Jauan Jennings could be traded",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-odell-beckham-jr-in-minnesota-jauan-jennings-could-be-traded",
-        "summary": "The 49ers continue to have injury issues at the receiver position.",
+        "title": "Falcons expect Michael Penix to practice Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-expect-michael-penix-to-practice-wednesday",
+        "summary": "Falcons quarterback Michael Penix was confident he avoided a serious rib injury when he was hurt on Sunday night and nothing's changed about that outlook in the last couple of…",
         "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 06:29:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/48df86d/2147483647/strip/false/crop/6530x3673+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2Fae%2F019249504f5081f17c0ca513f8d9%2F2291684844.jpg"
+        "date": "Wed, 14 Oct 2026 12:06:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/91ad73d/2147483647/strip/false/crop/3364x1892+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2Ffa%2F72ea77c44f658546380b83eee38a%2F2299745413.jpg"
       },
       {
-        "title": "Jets worked out Matthew Judon",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-worked-out-matthew-judon",
-        "summary": "Matthew Judon is trying to catch on elsewhere after the 49ers cut him from their practice squad this week.",
+        "title": "Jaylen Warren wins first AFC offensive player of the week award",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaylen-warren-wins-first-afc-offensive-player-of-the-week-award",
+        "summary": "The Steelers got a big win over the Colts with Jaylen Warren leading the way.",
         "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 06:13:11 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/466c3dc/2147483647/strip/false/crop/4229x2379+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fac%2F2aa878b045d8badd6e2298904185%2F2251068831.jpg"
+        "date": "Wed, 14 Oct 2026 12:05:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c12622f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F182%2F579%2Fnbc_pft_steelerscolts_261012.jpg"
       },
       {
-        "title": "Drew Rosenhaus still claims a Tyreek Hill deal \"could happen at any time\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-rosenhaus-still-claims-a-tyreek-hill-deal-could-happen-at-any-time",
-        "summary": "Rosenhaus comments on Hill's prospects, without addressing the potential impact of the pending NFL investigation.",
+        "title": "Micah Parsons: I want to make sure all the small things are fixed before returning",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-i-want-to-make-sure-all-the-small-things-are-fixed-before-returning",
+        "summary": "Parsons said he'd play if the Super Bowl was this week, but wants to be sure \"everything is right.\"",
         "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 05:58:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58b0ca9/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F91%2F763%2Fnbc_pftpm_hill_261010.jpg"
+        "date": "Wed, 14 Oct 2026 11:55:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c2a7b0/2147483647/strip/false/crop/3464x1949+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2Fa7%2F8fb2fb394421af16cc285c1fea2d%2F2300084936.jpg"
       },
       {
-        "title": "Sean McVay on Alaric Jackson: \"He has to consistently do a better job\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-on-alaric-jackson-he-has-to-consistently-do-a-better-job",
-        "summary": "On Monday, Rams left tackle Alaric Jackson sucker punched Bills linebacker Bradley Chubb.",
+        "title": "Andy Reid can join George Halas and Paul Brown as the only coaches with six 5-0 starts",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-can-join-george-halas-and-paul-brown-as-the-only-coaches-with-six-5-0-starts",
+        "summary": "The Chiefs are 4-0, which means they're one win away from putting Andy Reid in some very elite historic company.",
         "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 05:33:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0388811/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F296%2F343%2Fnbc_pft_alaricjackson_261013.jpg"
+        "date": "Wed, 14 Oct 2026 11:33:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d6dac1/2147483647/strip/false/crop/3410x1918+0+246/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F40%2F3ee6be54471bae4175ca614ec9e9%2F2298945742.jpg"
       }
     ]
   }
