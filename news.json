@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-13T22:07:24.760Z",
+  "updated": "2026-10-14T01:11:40.839Z",
   "feed": {
     "VR": [
       {
-        "title": "I Am Your Beast VR just gave every rank in every level two more seconds",
-        "url": "https://mixed-news.com/en/i-am-your-beast-vr-two-seconds-rank-times-leaderboard-bhaptics/",
-        "summary": "I Am Your Beast VR has added two seconds to every rank time in every level, in an update Impact Inked posted on October 12.",
+        "title": "Pimax says Pimax Play is coming to Linux, which would put its headsets on SteamOS",
+        "url": "https://mixed-news.com/en/pimax-play-linux-client-in-development-60g-airlink/",
+        "summary": "Pimax is building a Linux version of Pimax Play, the desktop software every one of its headsets needs before SteamVR will see it.",
         "source": "mixed-news.com",
-        "date": "Tue, 13 Oct 2026 21:31:52 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_585d44a3990bcb3e2f858043e627fbd0e1b005f5.1920x1080.jpg"
+        "date": "Tue, 13 Oct 2026 23:12:04 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/headset1.jpg"
       },
       {
         "title": "Mothergunship: Forge Gets First Major Update In Over Three Years",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/sidequest.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Arcturus Vision's Steam Frame app now flips to night vision when your room goes dark",
-        "url": "https://mixed-news.com/en/arcturus-vision-auto-night-vision-controller-bindings-steam-frame/",
-        "summary": "The Arcturus Vision Camera app for Steam Frame can now hand the view back to the headset's own passthrough by itself when a room goes dark, and it will put that switch on whichever…",
+        "title": "MIT's stretchable sheet reconstructs its own 3D shape to within 0.4 centimetres",
+        "url": "https://mixed-news.com/en/mit-shape-sensing-sheet-optical-fibres-04-centimetres/",
+        "summary": "MIT engineers have built a soft, stretchable sheet that works out its own 3D shape as it bends and twists, with an error the team puts at under 0.4 centimetres.",
         "source": "mixed-news.com",
-        "date": "Tue, 13 Oct 2026 20:44:13 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_10e80b1e318272afbef1f98c127d40c8b83a900b.1920x1080.jpg"
+        "date": "Tue, 13 Oct 2026 22:23:27 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/MIT-Sensing-Sheets-01-press.jpg"
       },
       {
         "title": "Pico Space Pro Leaks Ahead of Planned 2026 Launch, Including External & Internal Images",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Topgolf saved over $11.3 million after leaving VMware",
+        "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+        "summary": "Topgolf and VMware \"ran deep\" before the migration.",
+        "source": "arstechnica.com",
+        "date": "Tue, 13 Oct 2026 21:33:43 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg"
+      },
+      {
         "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
         "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices.",
         "source": "theverge.com",
         "date": "2026-10-13T16:45:25-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-        "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
-        "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
-        "source": "arstechnica.com",
-        "date": "Fri, 09 Oct 2026 18:54:52 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
       },
       {
         "title": "Shopify opens its catalog up to more AI agents",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-        "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-        "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+        "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+        "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+        "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
         "source": "arstechnica.com",
-        "date": "Tue, 06 Oct 2026 19:21:14 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
+        "date": "Fri, 09 Oct 2026 18:54:52 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg"
       },
       {
         "title": "Xbox is officially embracing the chaos of AI-powered game ports",
@@ -93,62 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-        "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
+        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+        "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+        "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
         "source": "arstechnica.com",
-        "date": "Tue, 06 Oct 2026 12:21:53 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
+        "date": "Tue, 06 Oct 2026 19:21:14 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Giants sign LB Malik Harrison to active roster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-lb-malik-harrison-to-active-roster",
-        "summary": "The Giants elevated linebacker Malik Harrison from the practice squad three times in the first five weeks of the season and they made a more permanent move with him on Tuesday.",
+        "title": "NFL has been \"monitoring developments\" in Tyreek Hill case",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-has-been-monitoring-developments-in-tyreek-hill-case",
+        "summary": "On Tuesday, a jury entered a mixed verdict in the civil lawsuit filed against free-agent receiver Tyreek Hill by his former wife, Keeta Vaccaro.",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 17:53:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c7d9827/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F6b%2F300c8a3243ff88ccee38c1c7255c%2F2297413453.jpg"
+        "date": "Tue, 13 Oct 2026 21:04:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6131abe/2147483647/strip/false/crop/5396x3035+0+281/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F6c%2F5fda4baf49bbab81f11d4edf952b%2F2236324732.jpg"
       },
       {
-        "title": "Bears activate DE Shemar Turner from PUP",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-activate-de-shemar-turner-from-pup",
-        "summary": "The Bears activated defensive lineman Shemar Turner off the reserve/physicallyk unable to perform list, the team announced Tuesday.",
+        "title": "Jury returns mixed verdict in Tyreek Hill civil battery case, awards $500,000 to ex-wife",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jury-returns-mixed-verdict-in-tyreek-hill-civil-battery-case-awards-500-000-to-ex-wife",
+        "summary": "Hill lost on two counts, won as to the rest.",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 17:19:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ac2583f/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdf%2Fe2%2F7b9a3abe4463b233ee01bbe5942a%2F2237233036.jpg"
+        "date": "Tue, 13 Oct 2026 20:51:46 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d1c766/2147483647/strip/false/crop/3840x2160+0+541/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fee%2F7e%2F8d802fde47b7b8ff77608155a192%2F2238551507.jpg"
       },
       {
-        "title": "Saints owner Gayle Benson: I won't accept this level of play as our standard",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-owner-gayle-benson-i-wont-accept-this-level-of-play-as-our-standard",
-        "summary": "Seats are starting to heat up in New Orleans.",
+        "title": "It's official: Rams LT Alaric Jackson suspended two games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/its-official-rams-lt-alaric-jackson-suspended-two-games",
+        "summary": "The NFL has made the two-game suspension of Rams left tackle Alaric Jackson official.",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 17:06:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/93a8118/2147483647/strip/false/crop/4976x2799+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2F26%2F6fe7df3846c48a2e57e19b7d7a3b%2F2296251423.jpg"
+        "date": "Tue, 13 Oct 2026 19:30:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e477ad1/2147483647/strip/false/crop/3815x2146+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2Fb2%2Ff3e6bede4f469ed5e6048ab5f36e%2F2296835923.jpg"
       },
       {
-        "title": "NFL is expected to suspend Rams LT Alaric Jackson two games for postgame punch",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-is-expected-to-suspend-rams-lt-alaric-jackson-two-games-for-postgame-punch",
-        "summary": "Jackson punched Bills linebacker Bradley Chubb in the face on the field after the Rams' 37-34 overtime loss Monday night.",
+        "title": "Chargers agree to terms with QB Jake Browning",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-agree-to-terms-with-qb-jake-browning",
+        "summary": "With Trey Lance on injured reserve with a groin injury, the Chargers needed quarterback help.",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 17:05:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1e567fd/2147483647/strip/false/crop/2242x1261+0+108/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F29%2F32%2F4b5013de4130b9244b531b12b5a3%2F2300012318.jpg"
+        "date": "Tue, 13 Oct 2026 19:19:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fed0efd/2147483647/strip/false/crop/3999x2249+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2Fa5%2Fe444188e4b52aad00547bdfbe956%2F2292317577.jpg"
       },
       {
-        "title": "Browns place Raheim Sanders on IR, sign Audric Estime off Vikings practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-place-raheim-sanders-on-ir-sign-audric-estime-off-vikings-practice-squad",
-        "summary": "The Browns have made a couple of moves at running back and on the practice squad.",
+        "title": "DE Sai'vion Jones estimated as full participant, the only change to the Broncos' report",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/de-saivion-jones-estimated-as-full-participant-the-only-change-to-the-broncos-report",
+        "summary": "The Broncos had another walkthrough Tuesday as they get ready for their Thursday night gamea against the Seahawks.",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 16:52:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec4e646/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc4%2F96%2F3fa22fc240b19b041b2aea9b7fc8%2F2296568887.jpg"
+        "date": "Tue, 13 Oct 2026 19:00:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea3f4b3/2147483647/strip/false/crop/4891x2751+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F9b%2F2197288841028f5e412522b94090%2F2230567312.jpg"
       },
       {
-        "title": "Dolphins claim WR Jared Wayne off of waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-claim-wr-jared-wayne-off-of-waivers",
-        "summary": "The Dolphins are making a change at wide receiver during their bye week.",
+        "title": "Saints waive CB Jayden Price, sign CB Decamerion Richardson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-waive-cb-jayden-price-sign-cb-decamerion-richardson",
+        "summary": "The Saints waived cornerback Jayden Price two days after he fumbled the opening kickoff in the second half against the Vikings.",
         "source": "nbcsports.com",
-        "date": "Tue, 13 Oct 2026 16:43:05 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7209254/2147483647/strip/false/crop/4841x2723+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2Fb7%2Fddbe6eb74515b6b1686198dece0b%2F2297064543.jpg"
+        "date": "Tue, 13 Oct 2026 18:45:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/521bbe7/2147483647/strip/false/crop/2129x1198+0+269/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2F8b%2Fa759ff2b4e97914d398d20f2331e%2F2299431668.jpg"
       }
     ]
   }
