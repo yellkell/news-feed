@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:51:37.958Z",
+  "updated": "2026-10-15T22:48:14.966Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,28 @@
     ],
     "AI": [
       {
-        "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-        "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-        "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a…",
+        "title": "The tech backlash is now in theaters",
+        "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+        "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping…",
         "source": "theverge.com",
-        "date": "2026-10-15T10:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-15T17:39:52-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+        "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+        "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+        "source": "arstechnica.com",
+        "date": "Thu, 15 Oct 2026 20:32:41 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
+      },
+      {
+        "title": "Trump posts AI-edited photo to brag about White House restoration work",
+        "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+        "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI.",
+        "source": "theverge.com",
+        "date": "2026-10-15T17:09:33-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg"
       },
       {
-        "title": "Nobody is safe from celebrity AI deepfakes",
-        "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-        "summary": "In hindsight, the post on Instagram should have raised more red flags.",
+        "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+        "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+        "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and…",
         "source": "theverge.com",
-        "date": "2026-10-15T10:03:42-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-15T15:57:16-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Wed, 14 Oct 2026 12:55:06 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg"
-      },
-      {
-        "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-        "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-        "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist.",
-        "source": "theverge.com",
-        "date": "2026-10-15T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Topgolf saved over $11.3 million after leaving VMware",
-        "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-        "summary": "Topgolf and VMware \"ran deep\" before the migration.",
-        "source": "arstechnica.com",
-        "date": "Tue, 13 Oct 2026 21:33:43 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "49ers open practice window for WR Christian Kirk",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-open-practice-window-for-wr-christian-kirk",
-        "summary": "The 49ers are getting a receiver back on the field.",
+        "title": "Joe Alt, Derwin James remain out of practice for Chargers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-alt-derwin-james-remain-out-of-practice-for-chargers",
+        "summary": "The Chargers remained without a few starters at Thursday's practice.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 15:41:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5fe50be/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F421%2F843%2Fnbc_pft_greenlaw_261014.jpg"
+        "date": "Thu, 15 Oct 2026 18:25:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a9413a7/2147483647/strip/false/crop/4738x2665+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F28%2F7a%2F6eb33c7347c88a49fbbf6a68ab8d%2F2297803493.jpg"
       },
       {
-        "title": "Caleb Williams had another full practice Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-had-another-full-practice-thursday",
-        "summary": "Signs continue to point to quarterback Caleb Williams returning to the Bears lineup this weekend.",
+        "title": "Chris Olave misses second straight practice with an illness",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-olave-misses-second-straight-practice-with-an-illness",
+        "summary": "The Saints practiced without wide receiver Chris Olave for the second straight day on Thursday.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 15:40:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8d88e00/2147483647/strip/false/crop/5715x3215+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F49%2Feb%2F6a57f1074c168a4071649901c613%2F2026-09-22t081616z-1959591110-mt1usatoday29884417-rtrmadp-3-nfl-minnesota-vikings-at-chicago-bears.jpg"
+        "date": "Thu, 15 Oct 2026 18:10:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ad4640/2147483647/strip/false/crop/5001x2813+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2Fdf%2Ffc5e4fc4446599824c24ed339ac1%2F2300176435.jpg"
       },
       {
-        "title": "Ravens OC Declan Doyle: We trust Mark Andrews",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-oc-declan-doyle-we-trust-mark-andrews",
-        "summary": "The Ravens got a win in Atlanta last Sunday night, but it came despite a tough day for tight end Mark Andrews.",
+        "title": "Broncos elevate S Taylor Rapp, DB Sean Fresch for Thursday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-elevate-s-taylor-rapp-db-sean-fresch-for-thursday-night",
+        "summary": "The Broncos are dealing with several injuries in their defensive backfield, so they elevated a couple of players to help round out the secondary ahead of Thursday night's game…",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 15:34:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cde3ab5/2147483647/strip/false/crop/5156x2900+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2Fd7%2Fae2a66444296ab33597ab34baa1f%2F2299250461.jpg"
+        "date": "Thu, 15 Oct 2026 18:00:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dcb3283/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2F84%2F452115fe49428d9cedfd8c3d1db9%2F2295927358.jpg"
       },
       {
-        "title": "A.J. Brown status \"still up in the air\" for Week 6",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-status-still-up-in-the-air-for-week-6",
-        "summary": "Patriots wide receiver A.J.",
+        "title": "DeVonta Smith listed as limited in Eagles practice, Saquon Barkley still out",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devonta-smith-listed-as-limited-in-eagles-practice-saquon-barkley-still-out",
+        "summary": "The Eagles announced on Thursday that quarterback Jalen Hurts will not play against the Panthers due to a blood clot in his calf, which leaves Tanner McKee in line to make the…",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 15:23:59 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b7a5b6c/2147483647/strip/false/crop/4367x2456+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff4%2Fba%2Fe07937aa4a01b1b278494cd13c67%2F2294934506.jpg"
+        "date": "Thu, 15 Oct 2026 17:54:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/11a7e6f/2147483647/strip/false/crop/5270x2964+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc4%2F80%2F822584de45978dd1b98339cbfeb6%2F2298786113.jpg"
       },
       {
-        "title": "Fox window led by 49ers-Seahawks averages 26.697 million viewers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fox-window-led-by-49ers-seahawks-averages-26-697-million-viewers",
-        "summary": "The late-afternoon slot on Sundays continues to generate the largest NFL audiences.",
+        "title": "Texans' Tank Dell, David Montgomery, Jalen Pitre will not travel to London to play Jaguars",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-tank-dell-david-montgomery-jalen-pitre-will-not-travel-to-london-to-play-jaguars",
+        "summary": "Three injured Texans will stay home rather than make the trip to London to face the Jaguars on Sunday.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 14:57:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d1e25b4/2147483647/strip/false/crop/5472x3078+0+285/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fca%2Febb9cf2445edb2556afdd79ba934%2F2300276721.jpg"
+        "date": "Thu, 15 Oct 2026 17:48:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/603ffb5/2147483647/strip/false/crop/4742x2667+0+247/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fae%2F9b%2F0a977c294c6f93677f303d8f4f0a%2F2298338460.jpg"
       },
       {
-        "title": "Josh Allen will soon become the fifth QB in NFL history with 5,000 rushing yards",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-will-soon-become-the-fifth-qb-in-nfl-history-with-5-000-rushing-yards",
-        "summary": "Bills quarterback Josh Allen is approaching a milestone that only four quarterbacks before him have reached.",
+        "title": "Cowboys DC Christian Parker: Mike Pettine a \"right-hand man\" not a \"save the day\" hire",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-dc-christian-parker-mike-pettine-a-right-hand-man-not-a-save-the-day-hire",
+        "summary": "The Cowboys hired longtime NFL defensive coordinator and former Browns head coach Mike Pettine as a senior defensive assistant this week and defensive coordinator Christian Parker…",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 14:51:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fc010a4/2147483647/strip/false/crop/7049x3965+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2F31%2F2718f1d44c248887c6018181210f%2F2300268275.jpg"
+        "date": "Thu, 15 Oct 2026 17:46:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c63591/2147483647/strip/false/crop/6312x3551+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8e%2F5a%2Fd105793a48d99e921e3fb0993a92%2F2168069303.jpg"
       }
     ]
   }
