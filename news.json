@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-15T06:26:17.829Z",
+  "updated": "2026-10-15T11:52:00.423Z",
   "feed": {
     "VR": [
       {
-        "title": "Plasma 6.8 retires the X11 session after 42 years, and ships a window rule for Steam",
-        "url": "https://mixed-news.com/en/plasma-6-8-x11-session-retired-42-years-steam-window-rule/",
-        "summary": "KDE has retired support for starting an X11 session in Plasma 6.8, after what its release announcement calls \"42 years of faithful service\", leaving Wayland as the only way into…",
+        "title": "Valve is Building a Deluxe Audio Strap with Hot-swappable Battery for Steam Frame",
+        "url": "https://roadtovr.com/valve-steam-frame-audio-battery-strap/",
+        "summary": "If you were hoping for better audio and battery life from Valve’s recently released Steam Frame, the company has confirmed it’s creating a headstrap to solve just that.",
+        "source": "roadtovr.com",
+        "date": "Thu, 15 Oct 2026 11:31:05 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-7-640x360-1.jpg?resize=640%2C360&quality=89&ssl=1"
+      },
+      {
+        "title": "Claude Code's scheduled tasks kept firing in the hour the clocks go back, until 2.1.299",
+        "url": "https://mixed-news.com/en/claude-code-2-1-299-scheduled-tasks-daylight-saving-repeated-hour/",
+        "summary": "Claude Code's scheduled tasks and loops have been firing again after every turn, or firing early, during the repeated hour at the end of daylight saving time, and version 2.1.299…",
         "source": "mixed-news.com",
-        "date": "Thu, 15 Oct 2026 06:10:07 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/fullscreen_with_apps.png"
+        "date": "Thu, 15 Oct 2026 11:08:03 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/07de700e38ef4d328ccdb5c15ab9e3df5286fc08-3840x2160-1.png"
       },
       {
         "title": "Titanfall 2 VR Mod Review: A Flatscreen Classic Trades Power For Presence",
@@ -19,20 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/titanfall-2-vr-mod-header-1.jpg"
       },
       {
-        "title": "Sandisk is Releasing Official ‘Made for Meta’ Expandable Storage for VR Glasses",
-        "url": "https://roadtovr.com/sandisk-meta-vr-glasses-microsd-storage/",
-        "summary": "The launch of Meta VR Glasses next year will mark the first time any of the company’s standalone headsets has featured expandable storage.",
-        "source": "roadtovr.com",
-        "date": "Wed, 14 Oct 2026 14:20:15 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/sandisk-meta.png?resize=1536%2C1024&quality=80&ssl=1"
-      },
-      {
-        "title": "Xreal's Aura fits 1920x1200 per eye and 1050 nits into 95g of glasses",
-        "url": "https://mixed-news.com/en/xreal-aura-spec-sheet-1920x1200-1050-nits-95g-48-tops-puck/",
-        "summary": "Xreal has published a full spec sheet for Aura, and the numbers that were missing are the display ones: 1920 x 1200 pixels per eye on Sony micro-OLED, up to 120Hz, and a maximum…",
+        "title": "Steam's Big Picture mode adds Big Art Mode and a folder for your own screensavers",
+        "url": "https://mixed-news.com/en/steam-client-october-13-big-art-mode-screensavers-custom-folder/",
+        "summary": "Steam’s Big Picture mode has a new home screen layout called Big Art Mode and a screensaver you can swap for your own.",
         "source": "mixed-news.com",
-        "date": "Thu, 15 Oct 2026 05:16:59 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/entertainment-01.webp"
+        "date": "Thu, 15 Oct 2026 10:17:53 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/76b9199d544585a2559e662b3d1f84b4a6a0d2e0.png"
       },
       {
         "title": "You Can Get Inside Hollywood's Exclusive Magic Castle On Apple Vision Pro",
@@ -43,22 +43,22 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Still02-1.png"
       },
       {
-        "title": "Index Headset Goes on Sale for the First Time Ever as Valve Announces Discontinuation",
-        "url": "https://roadtovr.com/valve-index-headset-discontinued-discount/",
-        "summary": "Index, Valve’s PC VR headset released in 2019, is officially on its way out.",
+        "title": "Sandisk is Releasing Official ‘Made for Meta’ Expandable Storage for VR Glasses",
+        "url": "https://roadtovr.com/sandisk-meta-vr-glasses-microsd-storage/",
+        "summary": "The launch of Meta VR Glasses next year will mark the first time any of the company’s standalone headsets has featured expandable storage.",
         "source": "roadtovr.com",
-        "date": "Wed, 14 Oct 2026 05:55:15 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2019/04/valve-index-person-people-5.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Wed, 14 Oct 2026 14:20:15 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/sandisk-meta.png?resize=1536%2C1024&quality=80&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "McKinsey is making job applicants spar with a fake AI client",
-        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-        "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process,…",
+        "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+        "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood.",
         "source": "theverge.com",
-        "date": "2026-10-14T18:53:31-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-15T07:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg"
       },
       {
-        "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-        "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier…",
+        "title": "McKinsey is making job applicants spar with a fake AI client",
+        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process,…",
         "source": "theverge.com",
-        "date": "2026-10-14T17:11:28-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-14T18:53:31-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg"
       },
       {
-        "title": "The AI race is back on",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-        "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust.",
+        "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier…",
         "source": "theverge.com",
-        "date": "2026-10-14T15:06:03-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-14T17:11:28-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Topgolf saved over $11.3 million after leaving VMware",
@@ -102,6 +102,38 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Tyler Shough: We can't let Gayle Benson's comments affect our daily process",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-shough-we-cant-let-gayle-bensons-comments-affect-our-daily-process",
+        "summary": "Saints owner Gayle Benson's decision to publicly air her frustrations about the team's 1-4 start earlier this week drew a lot of attention because of how blunt she was about her…",
+        "source": "nbcsports.com",
+        "date": "Thu, 15 Oct 2026 06:20:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f7d848c/2147483647/strip/false/crop/8362x4704+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F7a%2F94139e2841ff80ae0f9a4418cec9%2F2300175599.jpg"
+      },
+      {
+        "title": "Malik Willis doesn't think he has a tell despite Jordan Battle intercepting him twice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-willis-doesnt-think-he-has-a-tell-despite-jordan-battle-intercepting-him-twice",
+        "summary": "Bengals safety Jordan Battle said before Sunday's game that he was going to time Willis's passes because of how willis pats the ball before throwing.",
+        "source": "nbcsports.com",
+        "date": "Thu, 15 Oct 2026 05:32:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a50a87/2147483647/strip/false/crop/4527x2546+0+236/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F12%2F47b8d02c4348ae22c350196d3750%2F2299708056.jpg"
+      },
+      {
+        "title": "Texans are 1-4, but Will Anderson is playing like a Defensive Player of the Year",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-are-1-4-but-will-anderson-is-playing-like-a-defensive-player-of-the-year",
+        "summary": "Anderson leads the NFL in sacks and tackles for loss and leads the betting odds for the Defensive Player of the Year Award.",
+        "source": "nbcsports.com",
+        "date": "Thu, 15 Oct 2026 05:02:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0edaeb1/2147483647/strip/false/crop/4971x2796+0+259/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7f%2F81%2Fde12326b48dea165713e21da6246%2F2299716731.jpg"
+      },
+      {
+        "title": "Jaguars are first team since the merger not to allow a 40-yard rusher in first five games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-are-first-team-since-the-merger-not-to-allow-a-40-yard-rusher-in-first-five-games",
+        "summary": "Opposing running backs have 83 carries for 210 yards against the Jaguars this season, an average of just 2.5 yards per carry.",
+        "source": "nbcsports.com",
+        "date": "Thu, 15 Oct 2026 04:10:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/178db23/2147483647/strip/false/crop/2442x1374+0+147/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Fe4%2F19f959f14c2f9696ba1d4b2d1cee%2F2299141097.jpg"
+      },
       {
         "title": "Al Michaels won't complain if Prime Video wants to move on",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/al-michaels-wont-complain-if-prime-video-wants-to-move-on",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 14 Oct 2026 22:04:55 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ab9ea8/2147483647/strip/false/crop/4929x2773+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2Fe2%2F18cf82fb4641a84a900e9c43af4c%2F2299178404.jpg"
-      },
-      {
-        "title": "Bradley Chubb explains his side of altercation with Alaric Jackson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bradley-chubb-explains-his-side-of-altercation-with-alaric-jackson",
-        "summary": "Rams offensive tackle Alaric Jackson had his suspension reduced to one game on appeal Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 21:27:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b715852/2147483647/strip/false/crop/5616x3159+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F3c%2F5e4c1ef440aa9a08e7067ecbae2a%2F2299477143.jpg"
-      },
-      {
-        "title": "Four men arrested in shooting of 49ers DL Keion White in February",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/four-men-arrested-in-shooting-of-49ers-dl-keion-white-in-february",
-        "summary": "Police have arrested four men in connection with the shooting of 49ers defensive lineman Keion White earlier this year, the Associated Press reports.",
-        "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 21:09:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d97d4c8/2147483647/strip/false/crop/3396x1910+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2Fd4%2F9a91d43444698f2d682db139aece%2F2296305024.jpg"
-      },
-      {
-        "title": "Jeremiyah Love's lingering ankle issue could keep him out Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiyah-loves-lingering-ankle-issue-could-keep-him-out-sunday",
-        "summary": "Cardinals running back Jeremiyah Love did not practice on Wednesday due to a lingering ankle issue.",
-        "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 20:55:37 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0c7b3ca/2147483647/strip/false/crop/5190x2919+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F6b%2Fa14e115140e2a00e77db3d4669ab%2F2298554000.jpg"
-      },
-      {
-        "title": "Rams LB Nate Landman was limited in Wednesday's practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-lb-nate-landman-was-limited-in-wednesdays-practice",
-        "summary": "The Rams did not practice Wednesday, two days after losing to the Bills in overtime.",
-        "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 20:44:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b614212/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2Fdf%2F32e938964999aec8f8aeb4cc3a11%2F2300068034.jpg"
       }
     ]
   }
