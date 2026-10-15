@@ -1,64 +1,64 @@
 {
-  "updated": "2026-10-15T11:52:00.423Z",
+  "updated": "2026-10-15T16:03:06.596Z",
   "feed": {
     "VR": [
       {
-        "title": "Valve is Building a Deluxe Audio Strap with Hot-swappable Battery for Steam Frame",
-        "url": "https://roadtovr.com/valve-steam-frame-audio-battery-strap/",
-        "summary": "If you were hoping for better audio and battery life from Valve’s recently released Steam Frame, the company has confirmed it’s creating a headstrap to solve just that.",
-        "source": "roadtovr.com",
-        "date": "Thu, 15 Oct 2026 11:31:05 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-7-640x360-1.jpg?resize=640%2C360&quality=89&ssl=1"
-      },
-      {
-        "title": "Claude Code's scheduled tasks kept firing in the hour the clocks go back, until 2.1.299",
-        "url": "https://mixed-news.com/en/claude-code-2-1-299-scheduled-tasks-daylight-saving-repeated-hour/",
-        "summary": "Claude Code's scheduled tasks and loops have been firing again after every turn, or firing early, during the repeated hour at the end of daylight saving time, and version 2.1.299…",
-        "source": "mixed-news.com",
-        "date": "Thu, 15 Oct 2026 11:08:03 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/07de700e38ef4d328ccdb5c15ab9e3df5286fc08-3840x2160-1.png"
-      },
-      {
-        "title": "Titanfall 2 VR Mod Review: A Flatscreen Classic Trades Power For Presence",
-        "url": "https://www.uploadvr.com/titanfall-2-vr-mod-review-a-flatscreen-classic-trades-power-for-presence/",
-        "summary": "Though frequent moments remind us the original game was not made with VR in mind, the Titanfall 2 VR Mod is still one of the best VR mods we've ever played.",
+        "title": "Remnants Is A Haunted Experience Beyond Your Control In Apple Immersive",
+        "url": "https://www.uploadvr.com/remnants-is-a-haunted-experience-beyond-your-control-in-apple-immersive/",
+        "summary": "Remnants is Apple Immersive’s first horror film, out later today, and it uses unsettling perspectives to make you feel haunted in a 24-minute ghost story.",
         "source": "uploadvr.com",
-        "date": "Wed, 14 Oct 2026 18:45:21 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/titanfall-2-vr-mod-header-1.jpg"
+        "date": "Thu, 15 Oct 2026 09:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Remnants-16x9.jpg"
       },
       {
-        "title": "Steam's Big Picture mode adds Big Art Mode and a folder for your own screensavers",
-        "url": "https://mixed-news.com/en/steam-client-october-13-big-art-mode-screensavers-custom-folder/",
-        "summary": "Steam’s Big Picture mode has a new home screen layout called Big Art Mode and a screensaver you can swap for your own.",
-        "source": "mixed-news.com",
-        "date": "Thu, 15 Oct 2026 10:17:53 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/76b9199d544585a2559e662b3d1f84b4a6a0d2e0.png"
-      },
-      {
-        "title": "You Can Get Inside Hollywood's Exclusive Magic Castle On Apple Vision Pro",
-        "url": "https://www.uploadvr.com/you-can-get-inside-hollywoods-exclusive-magic-castle-on-apple-vision-pro/",
-        "summary": "Hollywood's Magic Castle is an exclusive club, but the 'You Are Here' immersive video for Apple Vision Pro lets you step inside to witness the magic up close.",
-        "source": "uploadvr.com",
-        "date": "Wed, 14 Oct 2026 17:26:39 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Still02-1.png"
-      },
-      {
-        "title": "Sandisk is Releasing Official ‘Made for Meta’ Expandable Storage for VR Glasses",
-        "url": "https://roadtovr.com/sandisk-meta-vr-glasses-microsd-storage/",
-        "summary": "The launch of Meta VR Glasses next year will mark the first time any of the company’s standalone headsets has featured expandable storage.",
+        "title": "Steam Frame OLED Version Surfaces in Source Code, Suggesting a Possible Hardware Refresh",
+        "url": "https://roadtovr.com/valve-steam-frame-oled-version-report/",
+        "summary": "Valve’s Steam Frame is barely out the door, but now data mining has reportedly surfaced that an OLED version may already in the works.",
         "source": "roadtovr.com",
-        "date": "Wed, 14 Oct 2026 14:20:15 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/sandisk-meta.png?resize=1536%2C1024&quality=80&ssl=1"
+        "date": "Thu, 15 Oct 2026 13:15:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Synth Riders 3.6.7a2 fixes Steam Frame scores that were not showing on leaderboards",
+        "url": "https://mixed-news.com/en/synth-riders-3-6-7a2-steam-frame-leaderboard-scores-fix/",
+        "summary": "Scores set on a Steam Frame in Synth Riders have not been showing up properly on the game's leaderboards, and Kluge Interactive says version 3.6.7a2 fixes that.",
+        "source": "mixed-news.com",
+        "date": "Thu, 15 Oct 2026 12:52:48 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_619fe47a0cbe2618cf9a502643b4cd0ea6afc622.1920x1080.jpg"
+      },
+      {
+        "title": "Ghostbusters Theme Song Slimes Beat Saber Players In Latest Shock Drop",
+        "url": "https://www.uploadvr.com/ghostbusters-theme-song-slimes-beat-saber-players-in-latest-shock-drop/",
+        "summary": "Beat Saber gets into the spooky spirit with its latest shock drop, the theme from Ghostbusters by Ray Parker Jr.",
+        "source": "uploadvr.com",
+        "date": "Thu, 15 Oct 2026 08:48:56 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/beat-saber-ghostbusters.jpg"
+      },
+      {
+        "title": "XREAL Announces ‘1 Pro+’ Flagship AR Glasses, Now Available & Priced at $599",
+        "url": "https://roadtovr.com/xreal-1-pro-plus-release-date-price/",
+        "summary": "XREAL today announced XREAL 1 Pro+, a hardware refresh of its One Pro flagship AR glasses.",
+        "source": "roadtovr.com",
+        "date": "Thu, 15 Oct 2026 12:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/1_Pro__Image.jpg?resize=1920%2C1280&quality=89&ssl=1"
+      },
+      {
+        "title": "Valve traced a SteamVR Error -203 black screen to a Vulkan ring buffer overflow",
+        "url": "https://mixed-news.com/en/steamvr-error-203-vulkan-transfer-ring-buffer-overflow-2-18-3/",
+        "summary": "Valve has pointed an Error -203 black screen on the SteamVR 2.18.3 beta at an assert inside SteamVR's own Vulkan renderer.",
+        "source": "mixed-news.com",
+        "date": "Thu, 15 Oct 2026 12:02:17 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/ss_57ebeb54bbb5edee1d057ba5b128fb3a0aad4c0a.1920x1080.jpg"
       }
     ],
     "AI": [
       {
-        "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-        "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood.",
+        "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+        "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+        "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist.",
         "source": "theverge.com",
-        "date": "2026-10-15T07:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-15T10:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg"
       },
       {
-        "title": "McKinsey is making job applicants spar with a fake AI client",
-        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-        "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process,…",
+        "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+        "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+        "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending.",
         "source": "theverge.com",
-        "date": "2026-10-14T18:53:31-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-15T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg"
       },
       {
-        "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-        "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier…",
+        "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+        "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+        "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had.",
         "source": "theverge.com",
-        "date": "2026-10-14T17:11:28-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-15T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Topgolf saved over $11.3 million after leaving VMware",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Tyler Shough: We can't let Gayle Benson's comments affect our daily process",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-shough-we-cant-let-gayle-bensons-comments-affect-our-daily-process",
-        "summary": "Saints owner Gayle Benson's decision to publicly air her frustrations about the team's 1-4 start earlier this week drew a lot of attention because of how blunt she was about her…",
+        "title": "Baker Mayfield out of Thursday practice, Jalon Daniels again in line to start",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-out-of-thursday-practice-jalon-daniels-again-in-line-to-start",
+        "summary": "Though Baker Mayfield's original timeline to return after suffering a dislocated thumb was a minimum of three weeks, the possibility of an early return was floated this week.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 06:20:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f7d848c/2147483647/strip/false/crop/8362x4704+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F7a%2F94139e2841ff80ae0f9a4418cec9%2F2300175599.jpg"
+        "date": "Thu, 15 Oct 2026 11:55:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/493dae5/2147483647/strip/false/crop/5786x3255+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F94%2Fa94c5b2b483bade12d3b6fe9535a%2F2298640511.jpg"
       },
       {
-        "title": "Malik Willis doesn't think he has a tell despite Jordan Battle intercepting him twice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-willis-doesnt-think-he-has-a-tell-despite-jordan-battle-intercepting-him-twice",
-        "summary": "Bengals safety Jordan Battle said before Sunday's game that he was going to time Willis's passes because of how willis pats the ball before throwing.",
+        "title": "PFT's Week 6 2026 NFL picks",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-6-2026-nfl-picks",
+        "summary": "A quick take on each game, with a wild-guess prediction as to the final score.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 05:32:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a50a87/2147483647/strip/false/crop/4527x2546+0+236/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F12%2F47b8d02c4348ae22c350196d3750%2F2299708056.jpg"
+        "date": "Thu, 15 Oct 2026 11:17:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4494e28/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F60%2F73c5fca348d9a527ad3714627524%2F2238991405.jpg"
       },
       {
-        "title": "Texans are 1-4, but Will Anderson is playing like a Defensive Player of the Year",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-are-1-4-but-will-anderson-is-playing-like-a-defensive-player-of-the-year",
-        "summary": "Anderson leads the NFL in sacks and tackles for loss and leads the betting odds for the Defensive Player of the Year Award.",
+        "title": "Police continue to withhold the Josh Jacobs video",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/police-continue-to-withhold-the-josh-jacobs-video",
+        "summary": "As Packers running back Josh Jacobs continues to spend the early weeks of the 2026 season on paid leave, the NFL reportedly still hasn't gotten access to the key piece of video…",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 05:02:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0edaeb1/2147483647/strip/false/crop/4971x2796+0+259/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7f%2F81%2Fde12326b48dea165713e21da6246%2F2299716731.jpg"
+        "date": "Thu, 15 Oct 2026 10:40:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f04b44f/2147483647/strip/false/crop/8085x4548+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F79%2Fb8f34a5641039325389d2571e5ae%2F2292837854.jpg"
       },
       {
-        "title": "Jaguars are first team since the merger not to allow a 40-yard rusher in first five games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-are-first-team-since-the-merger-not-to-allow-a-40-yard-rusher-in-first-five-games",
-        "summary": "Opposing running backs have 83 carries for 210 yards against the Jaguars this season, an average of just 2.5 yards per carry.",
+        "title": "Troy Aikman seems to confirm he'll be leaving ESPN",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/troy-aikman-seems-to-confirm-hell-be-leaving-espn",
+        "summary": "Aikman says he looks forward to \"where my next landing spot will be.\"",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 04:10:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/178db23/2147483647/strip/false/crop/2442x1374+0+147/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Fe4%2F19f959f14c2f9696ba1d4b2d1cee%2F2299141097.jpg"
+        "date": "Thu, 15 Oct 2026 09:55:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d02f298/2147483647/strip/false/crop/6969x3920+0+363/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2Fb8%2F8f953e404941a53cf6e10a44c6f8%2F2297102568.jpg"
       },
       {
-        "title": "Al Michaels won't complain if Prime Video wants to move on",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/al-michaels-wont-complain-if-prime-video-wants-to-move-on",
-        "summary": "The legendary Al Michaels continues to call the biggest of NFL games, four decades after making his debut on Monday Night Football.",
+        "title": "John Harbaugh: We'd be negligent if we didn't see if J.J. McCarthy can help us",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-wed-be-negligent-if-we-didnt-see-if-j-j-mccarthy-can-help-us",
+        "summary": "Quarterback J.J.",
         "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 23:38:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/488ce62/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F440%2F387%2Fditka.jpg"
+        "date": "Thu, 15 Oct 2026 09:50:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fc447fa/2147483647/strip/false/crop/3613x2032+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Fae%2F4f2d92c54e96bd4d41f28dc6e7f7%2F2299247804.jpg"
       },
       {
-        "title": "Jalen Hurts won't say much about \"very unique\" calf injury that was disclosed last Friday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-hurts-wont-say-much-about-very-unique-calf-injury-that-was-disclosed-last-friday",
-        "summary": "Last week's injury report for the Eagles included a curious designation on Friday.",
+        "title": "C.J. Stroud on Marvin Harrison Jr.: I don't agree with some things that are being said about him",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-stroud-on-marvin-harrison-jr-i-dont-agree-with-some-things-that-are-being-said-about-him",
+        "summary": "When the Texans acquired Marvin Harrison Jr. from the Cardinals, they reunited the young receiver with his college quarterback, C.J.",
         "source": "nbcsports.com",
-        "date": "Wed, 14 Oct 2026 22:04:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ab9ea8/2147483647/strip/false/crop/4929x2773+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2Fe2%2F18cf82fb4641a84a900e9c43af4c%2F2299178404.jpg"
+        "date": "Thu, 15 Oct 2026 09:32:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/09785be/2147483647/strip/false/crop/6346x3570+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2Fe3%2F8946e95d4026923d8214b752a010%2F1444834802.jpg"
       }
     ]
   }
