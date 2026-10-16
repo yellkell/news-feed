@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-16T09:59:52.113Z",
+  "updated": "2026-10-16T14:40:53.919Z",
   "feed": {
     "VR": [
       {
-        "title": "Steam Frame switched Wi-Fi power saving back on at startup, and Valve has now fixed it",
-        "url": "https://mixed-news.com/en/steam-frame-wi-fi-power-saving-startup-adapter-fixes-all-users/",
-        "summary": "Steam Frame was switching Wi-Fi power saving back on at startup even when the setting had been turned off, Valve says, and the fix is in a Steam client build that reached every…",
+        "title": "Steam splits achievements into sets, and developers can archive the ones you cannot earn",
+        "url": "https://mixed-news.com/en/steam-achievement-sets-beta-dlc-sets-archiving/",
+        "summary": "Steam is grouping a game’s achievements into developer-made sets, each with its own progress bar and its own trophy, and letting developers archive achievements nobody can unlock…",
         "source": "mixed-news.com",
-        "date": "Fri, 16 Oct 2026 09:26:15 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_f0412a88ba4c6ff746136386c6eca881d94cccd3.1920x1080.jpg"
+        "date": "Fri, 16 Oct 2026 14:23:33 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg"
       },
       {
-        "title": "The Best PC VR Demos Out Now Ahead Of Steam Next Fest",
-        "url": "https://www.uploadvr.com/rustmourne-the-rifted-skies-pc-vr-demos-available-now-next-fest/",
-        "summary": "Multiple notable PC VR demos have recently dropped on Steam ahead of next week's Next Fest, including Rustmourne, The Rifted Skies, and RAID VR.",
+        "title": "Synth Riders' Free Spooky Update Headlined By Apashe's Lord & Master",
+        "url": "https://www.uploadvr.com/synth-riders-free-spooky-update-headlined-by-apashes-lord-master/",
+        "summary": "This year's free annual spooky update for Synth Riders brings Apashe's Lord & Master, a dark, cinematic track built for the Halloween season.",
         "source": "uploadvr.com",
-        "date": "Thu, 15 Oct 2026 11:16:57 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/newPCVRdemos--1--1.png"
+        "date": "Fri, 16 Oct 2026 04:05:10 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/276289ac-3864-4bb7-8523-f3263a5ce931.jpg"
       },
       {
         "title": "Steam Frame OLED Version Surfaces in Source Code, Suggesting a Possible Hardware Refresh",
@@ -27,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Beat Saber's level editor can now hold 10,000 light events, up from 120",
-        "url": "https://mixed-news.com/en/beat-saber-1-45-3-level-editor-10000-light-events/",
-        "summary": "Beat Saber's Level Editor can now hold 10,000 basic light events in a map instead of 120.",
+        "title": "Claude Code could spend your credits on a summary by the model you were leaving, until 2.1.301",
+        "url": "https://mixed-news.com/en/claude-code-2-1-301-model-switch-summary-usage-credits/",
+        "summary": "Switching Claude Code to a model with a smaller context window could spend your usage credits on a summary written by the model you were leaving, without asking first.",
         "source": "mixed-news.com",
-        "date": "Fri, 16 Oct 2026 08:32:52 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_cad0da5aa0de0e7a8a25ce1cbd0e40e472794b2a.1920x1080.jpg"
+        "date": "Fri, 16 Oct 2026 13:31:51 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg"
       },
       {
-        "title": "Remnants Is A Haunted Experience Beyond Your Control In Apple Immersive",
-        "url": "https://www.uploadvr.com/remnants-is-a-haunted-experience-beyond-your-control-in-apple-immersive/",
-        "summary": "Remnants is Apple Immersive’s first horror film, out later today, and it uses unsettling perspectives to make you feel haunted in a 24-minute ghost story.",
+        "title": "Supernatural Reveals New Features, Plans To Launch \"Soon\" In Early Access",
+        "url": "https://www.uploadvr.com/supernatural-reveals-new-features-plans-to-launch-soon-in-early-access/",
+        "summary": "The newly independent Supernatural is coming soon to Quest in Early Access, with thousands of workouts at launch and existing progress carrying over.",
         "source": "uploadvr.com",
-        "date": "Thu, 15 Oct 2026 09:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Remnants-16x9.jpg"
+        "date": "Fri, 16 Oct 2026 04:03:27 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/SN_Leanne_Glasses_5.png"
       },
       {
         "title": "XREAL Announces ‘1 Pro+’ Flagship AR Glasses, Now Available & Priced at $599",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "ChatGPT can peek at your Chrome tabs now",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-        "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
+        "title": "Meta’s new terms may allow it to train AI on news sites for free",
+        "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+        "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a…",
         "source": "theverge.com",
-        "date": "2026-10-15T18:43:23-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-16T10:02:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
       },
       {
-        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-        "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to…",
+        "title": "ChatGPT can peek at your Chrome tabs now",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
         "source": "theverge.com",
-        "date": "2026-10-15T18:35:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-15T18:43:23-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg"
       },
       {
-        "title": "The tech backlash is now in theaters",
-        "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-        "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping…",
+        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+        "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to…",
         "source": "theverge.com",
-        "date": "2026-10-15T17:39:52-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-15T18:35:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Broncos won despite totaling just 32 yards on their last 10 possessions",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-won-despite-totaling-just-32-yards-on-their-last-10-possessions",
-        "summary": "The Broncos' offense was stunningly bad for most of Thursday night's game.",
+        "title": "Brian Schottenheimer: Mike Pettine will report to me, work from booth during games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-mike-pettine-will-report-to-me-work-from-booth-during-games",
+        "summary": "Cowboys defensive coordinator Christian Parker described Mike Pettine as his \"right-hand man,\" but the coaching staff's hierarchy won't have the new senior defensive assistant…",
         "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 05:10:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0ce37e1/2147483647/strip/false/crop/5115x2877+0+266/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2Fd3%2F2c22c35d4adeb556e9eb04164ea9%2F2300447316.jpg"
+        "date": "Fri, 16 Oct 2026 10:10:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b05352a/2147483647/strip/false/crop/3239x1822+0+373/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F79%2Fc0cf3d4c4343ae4cb7144acc0c39%2F2168613170.jpg"
       },
       {
-        "title": "Sam Darnold: Unfair to our team that I keep turning the ball over, I have to be better",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-unfair-to-our-team-that-i-keep-turning-the-ball-over-i-have-to-be-better",
-        "summary": "\"No way to sugarcoat it: That one sucked. Can't turn the ball over,\" Darnold said.",
+        "title": "Jaxon Smith-Njigba on pace for NFL's first 2,000-yard receiving season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxon-smith-njigba-on-pace-for-nfls-first-2-000-yard-receiving-season",
+        "summary": "On an otherwise awful offense, Seattle's Jaxon Smith-Njigba remains the best receiver in football.",
         "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 04:29:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8e91097/2147483647/strip/false/crop/4499x2531+0+235/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4c%2F33%2F3abb178d439faa0858ff98a89369%2F2300447359.jpg"
+        "date": "Fri, 16 Oct 2026 10:00:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f7d3cf/2147483647/strip/false/crop/4487x2524+0+234/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2Ff9%2F002bf6f54fd2b86a47654c396d3a%2F2300493981.jpg"
       },
       {
-        "title": "Ryan Fitzpatrick on Bo Nix's night: \"That right there is garbage\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ryan-fitzpatrick-on-bo-nixs-night-that-right-there-is-garbage",
-        "summary": "Quarterback-turned-analyst repeatedly tees off on Denver QB.",
+        "title": "Verdict in Shilo Sanders bankruptcy trial isn't expected until January",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/verdict-in-shilo-sanders-bankruptcy-trial-isnt-expected-until-january",
+        "summary": "The question of whether former NFL defensive back Shilo Sanders will be able to avoid an $11.89 million civil judgment under the bankruptcy laws likely won't be resolved until…",
         "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 00:29:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fca58fa/2147483647/strip/false/crop/5494x3090+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F4b%2F435c71a244c89da97cdec1db5686%2F2300441894.jpg"
+        "date": "Fri, 16 Oct 2026 09:57:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ccc802/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb0%2F87%2F4665663547a08a9d330804e75760%2F2267772570.jpg"
       },
       {
-        "title": "Seahawks need to consider whether Drew Lock gives them a better chance to win",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-need-to-consider-whether-drew-lock-gives-them-a-better-chance-to-win",
-        "summary": "The conversation, however it's resolved, needs to be had.",
+        "title": "Colts release WR Darius Slayton",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-release-wr-darius-slayton",
+        "summary": "The Darius Slayton experiment in Indianapolis has come to an end.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 23:49:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b2ae087/2147483647/strip/false/crop/5039x2834+0+262/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2Ff3%2Fe90bb3834616a35953853ac20dc7%2F2299156555.jpg"
+        "date": "Fri, 16 Oct 2026 09:39:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72981ca/2147483647/strip/false/crop/7200x4050+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2Fc6%2F3eafdf1d44508131d1ada102b3e9%2F2294900456.jpg"
       },
       {
-        "title": "Thursday Night Football: Broncos beat Seahawks 17-14 in overtime",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-broncos-beat-seahawks-17-14-in-overtime",
-        "summary": "Wil Lutz kicked a 53-yard field goal with 4:53 remaining in overtime after Ja'Quan McMillian's pick of Sam Darnold.",
+        "title": "Tanner McKee: I'm ready to make the most of \"huge opportunity\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tanner-mckee-im-ready-to-make-the-most-of-huge-opportunity",
+        "summary": "Tanner McKee fell to No. 3 on the depth chart ahead of Week 1 this season, but he worked his way back to the No. 2 job in time to be the next man up when the Eagles made a…",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 23:45:54 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6a98063/2147483647/strip/false/crop/6228x3503+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2F5b%2F92e47e9e403986766882d866237b%2F2300432198.jpg"
+        "date": "Fri, 16 Oct 2026 07:14:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0ec356/2147483647/strip/false/crop/5043x2837+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Ff7%2F673f953b48dbb632e694090a6b62%2F2293417503.jpg"
       },
       {
-        "title": "New report links Greg Olsen to Monday Night Football in 2027",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-report-links-greg-olsen-to-monday-night-football-in-2027",
-        "summary": "The offseason game of broadcaster roulette will be intriguing, and expensive.",
+        "title": "Bo Nix: I don't know where the disconnect is offensively",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-i-dont-know-where-the-disconnect-is-offensively",
+        "summary": "The point of playing football games is to win football games and the Broncos were able to do that against the Seahawks on Thursday night, but the result didn't shield their…",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 23:10:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a478c49/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F594%2F690%2Fnbc_pftpm_aikman_261015.jpg"
+        "date": "Fri, 16 Oct 2026 06:55:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/08572ff/2147483647/strip/false/crop/5413x3045+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2Fb0%2F81772fb244f6a3a5804351d07f0e%2F2300447367.jpg"
       }
     ]
   }
