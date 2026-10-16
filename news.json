@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-16T14:40:53.919Z",
+  "updated": "2026-10-16T18:20:53.817Z",
   "feed": {
     "VR": [
       {
-        "title": "Steam splits achievements into sets, and developers can archive the ones you cannot earn",
-        "url": "https://mixed-news.com/en/steam-achievement-sets-beta-dlc-sets-archiving/",
-        "summary": "Steam is grouping a game’s achievements into developer-made sets, each with its own progress bar and its own trophy, and letting developers archive achievements nobody can unlock…",
+        "title": "Samsung's first smart glasses reportedly weigh 41 grams, in 26 frame and colour versions",
+        "url": "https://mixed-news.com/en/samsung-smart-glasses-41-grams-26-frame-versions-report/",
+        "summary": "Samsung's first smart glasses weigh about 41 grams with standard lenses, according to SammyGuru, which also counts 26 frame and colour versions across the two eyewear brands…",
         "source": "mixed-news.com",
-        "date": "Fri, 16 Oct 2026 14:23:33 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg"
+        "date": "Fri, 16 Oct 2026 17:48:43 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Samsung-Mobile-Galaxy-Unpacked-July-2026-Intelligent-Eyewear-Launch_dl1.jpg"
       },
       {
-        "title": "Synth Riders' Free Spooky Update Headlined By Apashe's Lord & Master",
-        "url": "https://www.uploadvr.com/synth-riders-free-spooky-update-headlined-by-apashes-lord-master/",
-        "summary": "This year's free annual spooky update for Synth Riders brings Apashe's Lord & Master, a dark, cinematic track built for the Halloween season.",
+        "title": "Convrgence Impressions - Extracting Some Fun",
+        "url": "https://www.uploadvr.com/convrgence-full-release-impressions/",
+        "summary": "S.T.A.L.K.E.R-like extraction roguelike Convrgence leaves Early Access getting the basics right, with room to grow on enemy AI and loot balancing.",
         "source": "uploadvr.com",
-        "date": "Fri, 16 Oct 2026 04:05:10 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/276289ac-3864-4bb7-8523-f3263a5ce931.jpg"
+        "date": "Fri, 16 Oct 2026 08:55:32 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Screenshot-2026-10-14-165322.png"
       },
       {
         "title": "Steam Frame OLED Version Surfaces in Source Code, Suggesting a Possible Hardware Refresh",
@@ -27,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Claude Code could spend your credits on a summary by the model you were leaving, until 2.1.301",
-        "url": "https://mixed-news.com/en/claude-code-2-1-301-model-switch-summary-usage-credits/",
-        "summary": "Switching Claude Code to a model with a smaller context window could spend your usage credits on a summary written by the model you were leaving, without asking first.",
+        "title": "Six METR staff now work inside Anthropic, and it cannot veto what they publish",
+        "url": "https://mixed-news.com/en/anthropic-six-metr-staff-employee-like-access-cannot-veto/",
+        "summary": "Six staff from METR, a non-profit that evaluates frontier AI models, now have Anthropic company hardware, office space and access to its internal tools and systems, and Anthropic…",
         "source": "mixed-news.com",
-        "date": "Fri, 16 Oct 2026 13:31:51 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg"
+        "date": "Fri, 16 Oct 2026 16:54:38 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/c2af6aeedb4995d202c7543f3d59c6bbbd5352f1-2000x1125-1.jpg"
       },
       {
-        "title": "Supernatural Reveals New Features, Plans To Launch \"Soon\" In Early Access",
-        "url": "https://www.uploadvr.com/supernatural-reveals-new-features-plans-to-launch-soon-in-early-access/",
-        "summary": "The newly independent Supernatural is coming soon to Quest in Early Access, with thousands of workouts at launch and existing progress carrying over.",
+        "title": "Synth Riders' Free Spooky Update Headlined By Apashe's Lord & Master",
+        "url": "https://www.uploadvr.com/synth-riders-free-spooky-update-headlined-by-apashes-lord-master/",
+        "summary": "This year's free annual spooky update for Synth Riders brings Apashe's Lord & Master, a dark, cinematic track built for the Halloween season.",
         "source": "uploadvr.com",
-        "date": "Fri, 16 Oct 2026 04:03:27 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/SN_Leanne_Glasses_5.png"
+        "date": "Fri, 16 Oct 2026 04:05:10 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/276289ac-3864-4bb7-8523-f3263a5ce931.jpg"
       },
       {
         "title": "XREAL Announces ‘1 Pro+’ Flagship AR Glasses, Now Available & Priced at $599",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Meta’s new terms may allow it to train AI on news sites for free",
-        "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-        "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a…",
+        "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+        "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+        "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is…",
         "source": "theverge.com",
-        "date": "2026-10-16T10:02:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-16T11:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
       },
       {
-        "title": "ChatGPT can peek at your Chrome tabs now",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-        "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
+        "title": "Meta’s new terms may allow it to train AI on news sites for free",
+        "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+        "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a…",
         "source": "theverge.com",
-        "date": "2026-10-15T18:43:23-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-16T10:02:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg"
       },
       {
-        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-        "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-        "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to…",
+        "title": "ChatGPT can peek at your Chrome tabs now",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
         "source": "theverge.com",
-        "date": "2026-10-15T18:35:55-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-15T18:43:23-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Brian Schottenheimer: Mike Pettine will report to me, work from booth during games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-mike-pettine-will-report-to-me-work-from-booth-during-games",
-        "summary": "Cowboys defensive coordinator Christian Parker described Mike Pettine as his \"right-hand man,\" but the coaching staff's hierarchy won't have the new senior defensive assistant…",
+        "title": "Rashee Rice, Josh Simmons ruled out for the Chiefs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashee-rice-josh-simmons-ruled-out-for-the-chiefs",
+        "summary": "The Chiefs will be without wide receiver Rashee Rice against the Chargers on Sunday.",
         "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 10:10:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b05352a/2147483647/strip/false/crop/3239x1822+0+373/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F79%2Fc0cf3d4c4343ae4cb7144acc0c39%2F2168613170.jpg"
+        "date": "Fri, 16 Oct 2026 14:09:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/15a848c/2147483647/strip/false/crop/4114x2314+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2F25%2F4802732545c69cf1b437a6ed09a7%2F2298530841.jpg"
       },
       {
-        "title": "Jaxon Smith-Njigba on pace for NFL's first 2,000-yard receiving season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxon-smith-njigba-on-pace-for-nfls-first-2-000-yard-receiving-season",
-        "summary": "On an otherwise awful offense, Seattle's Jaxon Smith-Njigba remains the best receiver in football.",
+        "title": "Cardinals rule Jeremiyah Love out for Week 6",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-rule-jeremiyah-love-out-for-week-6",
+        "summary": "The Rams will not have to contend with running back Jeremiyah Love this weekend.",
         "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 10:00:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2f7d3cf/2147483647/strip/false/crop/4487x2524+0+234/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2Ff9%2F002bf6f54fd2b86a47654c396d3a%2F2300493981.jpg"
+        "date": "Fri, 16 Oct 2026 13:41:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/de477f8/2147483647/strip/false/crop/3594x2022+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F73%2Fc987fdd04befaa00daf4a1855a1b%2F2300428662.jpg"
       },
       {
-        "title": "Verdict in Shilo Sanders bankruptcy trial isn't expected until January",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/verdict-in-shilo-sanders-bankruptcy-trial-isnt-expected-until-january",
-        "summary": "The question of whether former NFL defensive back Shilo Sanders will be able to avoid an $11.89 million civil judgment under the bankruptcy laws likely won't be resolved until…",
+        "title": "Lamar Jackson will not play against the Browns",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-will-not-play-against-the-browns",
+        "summary": "Tyler Huntley is set to start his second straight game.",
         "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 09:57:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ccc802/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb0%2F87%2F4665663547a08a9d330804e75760%2F2267772570.jpg"
+        "date": "Fri, 16 Oct 2026 13:33:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ccce40a/2147483647/strip/false/crop/4322x2431+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2Fb2%2F1f452b1a4a99bcf32cffc60c6a8b%2F2298586754.jpg"
       },
       {
-        "title": "Colts release WR Darius Slayton",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-release-wr-darius-slayton",
-        "summary": "The Darius Slayton experiment in Indianapolis has come to an end.",
+        "title": "Browns list Mason Graham, Quinshon Judkins, Carson Schwesinger as questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-list-mason-graham-quinshon-judkins-carson-schwesinger-as-questionable",
+        "summary": "The Browns got several key players back on the practice field Friday and they're all in play to be in the lineup against the Ravens on Sunday.",
         "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 09:39:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/72981ca/2147483647/strip/false/crop/7200x4050+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2Fc6%2F3eafdf1d44508131d1ada102b3e9%2F2294900456.jpg"
+        "date": "Fri, 16 Oct 2026 13:27:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8f38c4c/2147483647/strip/false/crop/4201x2363+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fcb%2Fbf01b45d42aeb8fa76019e05656a%2F2295469857.jpg"
       },
       {
-        "title": "Tanner McKee: I'm ready to make the most of \"huge opportunity\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tanner-mckee-im-ready-to-make-the-most-of-huge-opportunity",
-        "summary": "Tanner McKee fell to No. 3 on the depth chart ahead of Week 1 this season, but he worked his way back to the No. 2 job in time to be the next man up when the Eagles made a…",
+        "title": "Michael Penix has no injury designation, set to start Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-has-no-injury-designation-set-to-start-sunday",
+        "summary": "Falcons quarterback Michael Penix is good to go for Sunday's game against the Bears.",
         "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 07:14:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b0ec356/2147483647/strip/false/crop/5043x2837+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Ff7%2F673f953b48dbb632e694090a6b62%2F2293417503.jpg"
+        "date": "Fri, 16 Oct 2026 13:21:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc577d6/2147483647/strip/false/crop/5167x2906+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F24%2F71d66df74356a269e7eba069826d%2F2300040036.jpg"
       },
       {
-        "title": "Bo Nix: I don't know where the disconnect is offensively",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-i-dont-know-where-the-disconnect-is-offensively",
-        "summary": "The point of playing football games is to win football games and the Broncos were able to do that against the Seahawks on Thursday night, but the result didn't shield their…",
+        "title": "Stephen Ross sells sliver of Dolphins at record valuation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-ross-sells-sliver-of-dolphins-at-record-price",
+        "summary": "There's a general belief that equity in an NFL franchise is more valuable when it comes with control.",
         "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 06:55:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/08572ff/2147483647/strip/false/crop/5413x3045+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2Fb0%2F81772fb244f6a3a5804351d07f0e%2F2300447367.jpg"
+        "date": "Fri, 16 Oct 2026 12:48:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/132119f/2147483647/strip/false/crop/5747x3233+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcc%2F81%2F7b0f400b47d381b7db98a28b6b73%2F2297412095.jpg"
       }
     ]
   }
