@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-16T00:54:32.609Z",
+  "updated": "2026-10-16T05:18:40.767Z",
   "feed": {
     "VR": [
+      {
+        "title": "Anthropic says Claude refuses a harmful request, but can miss a campaign of harmless ones",
+        "url": "https://mixed-news.com/en/anthropic-election-red-team-isd-mccain-multi-step-misuse/",
+        "summary": "Anthropic says Claude reliably refused a single harmful election request when two independent research organisations tried to get past its safeguards, but could miss a whole…",
+        "source": "mixed-news.com",
+        "date": "Fri, 16 Oct 2026 04:31:03 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/d0efef057e61d2c590d06d8902da2167fe93200a-1920x1080-1.png"
+      },
       {
         "title": "The Best PC VR Demos Out Now Ahead Of Steam Next Fest",
         "url": "https://www.uploadvr.com/rustmourne-the-rifted-skies-pc-vr-demos-available-now-next-fest/",
@@ -19,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Synth Riders 3.6.7a2 fixes Steam Frame scores that were not showing on leaderboards",
-        "url": "https://mixed-news.com/en/synth-riders-3-6-7a2-steam-frame-leaderboard-scores-fix/",
-        "summary": "Scores set on a Steam Frame in Synth Riders have not been showing up properly on the game's leaderboards, and Kluge Interactive says version 3.6.7a2 fixes that.",
+        "title": "RayNeo's glasses app downloads offline translation models, and can use the phone's mic",
+        "url": "https://mixed-news.com/en/rayneo-ai-1-0-6-offline-translation-models-phone-mic/",
+        "summary": "RayNeo's companion app for its AI glasses can now download translation and transcription models to the phone, and take the audio from the phone's own microphone instead of the…",
         "source": "mixed-news.com",
-        "date": "Thu, 15 Oct 2026 12:52:48 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_619fe47a0cbe2618cf9a502643b4cd0ea6afc622.1920x1080.jpg"
+        "date": "Fri, 16 Oct 2026 03:38:34 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2025/01/RayNeo-x3-Pro.png"
       },
       {
         "title": "Remnants Is A Haunted Experience Beyond Your Control In Apple Immersive",
@@ -41,14 +49,6 @@
         "source": "roadtovr.com",
         "date": "Thu, 15 Oct 2026 12:59:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/1_Pro__Image.jpg?resize=1920%2C1280&quality=89&ssl=1"
-      },
-      {
-        "title": "Valve traced a SteamVR Error -203 black screen to a Vulkan ring buffer overflow",
-        "url": "https://mixed-news.com/en/steamvr-error-203-vulkan-transfer-ring-buffer-overflow-2-18-3/",
-        "summary": "Valve has pointed an Error -203 black screen on the SteamVR 2.18.3 beta at an assert inside SteamVR's own Vulkan renderer.",
-        "source": "mixed-news.com",
-        "date": "Thu, 15 Oct 2026 12:02:17 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/ss_57ebeb54bbb5edee1d057ba5b128fb3a0aad4c0a.1920x1080.jpg"
       }
     ],
     "AI": [
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Jon Morris, a member of the Patriots Hall of Fame, died at 84",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jon-morris-a-member-of-the-patriots-hall-of-fame-died-at-84",
-        "summary": "Jon Morris, a member of the Patriots Hall of Fame, has died, the team announced Thursday.",
+        "title": "Ryan Fitzpatrick on Bo Nix's night: \"That right there is garbage\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ryan-fitzpatrick-on-bo-nixs-night-that-right-there-is-garbage",
+        "summary": "Quarterback-turned-analyst repeatedly tees off on Denver QB.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 20:25:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7dba50e/2147483647/strip/false/crop/1671x940+0+713/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Fa8%2F622999884d61922caed4b653b0fa%2F81410138.jpg"
+        "date": "Fri, 16 Oct 2026 00:29:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fca58fa/2147483647/strip/false/crop/5494x3090+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F4b%2F435c71a244c89da97cdec1db5686%2F2300441894.jpg"
       },
       {
-        "title": "Rams add S Kam Curl to practice report with an ankle injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-add-s-kam-curl-to-practice-report-with-an-ankle-injury",
-        "summary": "The Rams added safety Kam Curl to the practice report Thursday.",
+        "title": "Seahawks need to consider whether Drew Lock gives them a better chance to win",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-need-to-consider-whether-drew-lock-gives-them-a-better-chance-to-win",
+        "summary": "The conversation, however it's resolved, needs to be had.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 19:43:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/43f81b3/2147483647/strip/false/crop/4501x2532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Fe6%2Fef10abda4af08ebcf19162913ad7%2F2300208396.jpg"
+        "date": "Thu, 15 Oct 2026 23:49:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b2ae087/2147483647/strip/false/crop/5039x2834+0+262/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2Ff3%2Fe90bb3834616a35953853ac20dc7%2F2299156555.jpg"
       },
       {
-        "title": "Jeremiyah Love missed practice again on Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiyah-love-missed-practice-again-on-thursday",
-        "summary": "Cardinals running back Jeremiyah Love's ankle injury continues to create uncertainty about the first-round pick's availability for Sunday's game against the Rams.",
+        "title": "Thursday Night Football: Broncos beat Seahawks 17-14 in overtime",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-broncos-beat-seahawks-17-14-in-overtime",
+        "summary": "Wil Lutz kicked a 53-yard field goal with 4:53 remaining in overtime after Ja'Quan McMillian's pick of Sam Darnold.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 19:41:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cbd8dd5/2147483647/strip/false/crop/3989x2244+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F11%2F19275de44ba49a4fde1bb6acd144%2F2298039587.jpg"
+        "date": "Thu, 15 Oct 2026 23:45:54 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6a98063/2147483647/strip/false/crop/6228x3503+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2F5b%2F92e47e9e403986766882d866237b%2F2300432198.jpg"
       },
       {
-        "title": "Caleb Williams confirms he tore his hamstring, doesn't know his status for Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-confirms-he-tore-his-hamstring-doesnt-know-his-status-for-sunday",
-        "summary": "Williams has had two full practices this week as he works his way back from the Week 2 injury.",
+        "title": "New report links Greg Olsen to Monday Night Football in 2027",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-report-links-greg-olsen-to-monday-night-football-in-2027",
+        "summary": "The offseason game of broadcaster roulette will be intriguing, and expensive.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 19:31:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c176d06/2147483647/strip/false/crop/4298x2418+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F29%2F8022ff374061bd74e36703a09098%2F2297627481.jpg"
+        "date": "Thu, 15 Oct 2026 23:10:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a478c49/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F594%2F690%2Fnbc_pftpm_aikman_261015.jpg"
       },
       {
-        "title": "Cowboys CB Joey Porter Jr. has full practice, expects to have no limitations Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-cb-joey-porter-jr-has-full-practice-expects-to-have-no-limitations-sunday",
-        "summary": "Cowboys cornerback Joey Porter Jr. participated fully in Thursday's practice, and he expects to have no limitations for Sunday's game against the Packers.",
+        "title": "Seahawks draw to within 14-11 of Broncos",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-draw-to-within-14-11-of-broncos",
+        "summary": "The Seahawks have their first touchdown of the night, and Thursday Night Football has a game.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 19:12:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/88bc23e/2147483647/strip/false/crop/5520x3105+0+288/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F16%2Fe2efd642442cb7f251fbd9a43ae9%2F2026-09-18t214624z-1588912265-mt1usatoday29850476-rtrmadp-3-nfl-atlanta-falcons-at-pittsburgh-steelers.jpg"
+        "date": "Thu, 15 Oct 2026 23:03:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd0eb96/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2Fa4%2Fcd175f4a4baaadc67aefe9157f64%2F2300432432.jpg"
       },
       {
-        "title": "Thursday Night Football: Broncos CB Riley Moss is active",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-broncos-cb-riley-moss-is-active",
-        "summary": "The Broncos will have cornerback Riley Moss in the lineup against the Seahawks tonight.",
+        "title": "NFL says it will be \"selective\" about playing on Wednesdays",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-says-it-will-be-selective-about-playing-on-wednesdays",
+        "summary": "The NFL has begun scheduling some games on Wednesdays.",
         "source": "nbcsports.com",
-        "date": "Thu, 15 Oct 2026 18:53:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e3ad414/2147483647/strip/false/crop/5464x3074+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fa0%2F063f1cda490ca1459d4c25883f55%2F2297791559.jpg"
+        "date": "Thu, 15 Oct 2026 22:52:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a8e861f/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2Fc1%2Fb2ae22f144379f467cc23d129829%2F2212287990.jpg"
       }
     ]
   }
