@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-16T21:27:21.750Z",
+  "updated": "2026-10-16T23:45:08.717Z",
   "feed": {
     "VR": [
       {
-        "title": "Valve says the current ALVR release is not supportable on SteamVR's side",
-        "url": "https://mixed-news.com/en/valve-alvr-current-point-release-not-supportable-steamvr/",
-        "summary": "Valve has closed a Linux bug report with the line that \"the current point release of ALVR is not supportable on SteamVR's side\", and the release it means, ALVR v20.14.1, is 15…",
+        "title": "Claude Opus 5.5 fast mode needs no access request, but falling back costs the cache",
+        "url": "https://mixed-news.com/en/claude-opus-5-5-fast-mode-out-of-research-preview-rate-limit/",
+        "summary": "Anthropic has taken fast mode out of research preview on Claude Opus 5.5, so asking for it no longer needs an access request or a beta header.",
         "source": "mixed-news.com",
-        "date": "Fri, 16 Oct 2026 21:07:36 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2023/12/Steam-Link-PC-VR-Interface.jpg"
+        "date": "Fri, 16 Oct 2026 23:37:14 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/1923f2edea23fb276f0a2eeee44b7d32446a0684-2400x1260-1.jpg"
       },
       {
         "title": "Convrgence Impressions - Extracting Some Fun",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "ChatGPT logins broke on every mobile app, and OpenAI's incident ran two hours and 26 minutes",
-        "url": "https://mixed-news.com/en/chatgpt-mobile-logins-october-15-incident-two-hours-26-minutes/",
-        "summary": "Logins and signups stopped working across every ChatGPT mobile app on October 15, and OpenAI rated the failure major.",
+        "title": "Meta's AI glasses now describe eight Brera masterpieces to blind visitors in Milan",
+        "url": "https://mixed-news.com/en/meta-ai-glasses-pinacoteca-brera-sensing-art-eight-artworks/",
+        "summary": "Meta's AI glasses can now recognise eight artworks inside Milan's Pinacoteca di Brera and play the museum's own spoken description of each one through the frames, and it is a tour…",
         "source": "mixed-news.com",
-        "date": "Fri, 16 Oct 2026 20:16:43 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Mobile.png"
+        "date": "Fri, 16 Oct 2026 22:43:47 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2025/01/Ray-Ban-Meta-Smart-Glasses-Woman-Chair.jpg"
       },
       {
         "title": "Synth Riders' Free Spooky Update Headlined By Apashe's Lord & Master",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+        "source": "arstechnica.com",
+        "date": "Fri, 16 Oct 2026 20:59:01 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
+      },
+      {
         "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
         "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
         "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is…",
         "source": "theverge.com",
         "date": "2026-10-16T11:00:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-        "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-        "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-        "source": "arstechnica.com",
-        "date": "Thu, 15 Oct 2026 20:32:41 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
       },
       {
         "title": "Meta’s new terms may allow it to train AI on news sites for free",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-        "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-        "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+        "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+        "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+        "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
         "source": "arstechnica.com",
-        "date": "Wed, 14 Oct 2026 21:35:09 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg"
+        "date": "Thu, 15 Oct 2026 20:32:41 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
       },
       {
         "title": "ChatGPT can peek at your Chrome tabs now",
@@ -93,15 +93,47 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-        "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-        "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+        "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+        "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+        "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
         "source": "arstechnica.com",
-        "date": "Wed, 14 Oct 2026 12:55:06 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg"
+        "date": "Wed, 14 Oct 2026 21:35:09 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg"
       }
     ],
     "NFL": [
+      {
+        "title": "KC Concepcion on Minkah Fitzpatrick's hit: It was a football play; it wasn't dirty",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kc-concepcion-on-minkah-fitzpatricks-hit-it-was-a-football-play-it-wasnt-dirty",
+        "summary": "Jets safety Minkah Fitzpatrick's hit on KC Concepcion on Sunday knocked out the Browns wide receiver.",
+        "source": "nbcsports.com",
+        "date": "Fri, 16 Oct 2026 18:05:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d74d3d8/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2Ff0%2F0f24bd8a45e897b0b5c98c878801%2F2299228286.jpg"
+      },
+      {
+        "title": "Chris Olave returns to practice, listed as questionable for Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-olave-returns-to-practice-listed-as-questionable-for-sunday",
+        "summary": "Saints wide receiver Chris Olave was back on the practice field Friday, but his status for Sunday's road game against the Giants remains up in the air.",
+        "source": "nbcsports.com",
+        "date": "Fri, 16 Oct 2026 17:54:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/634b7a6/2147483647/strip/false/crop/5545x3119+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2Fa7%2Fb67759844df3b7c5287275424528%2F2299727358.jpg"
+      },
+      {
+        "title": "Bills WR DJ Moore, DL Ed Oliver are questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-wr-dj-moore-dl-ed-oliver-are-questionable",
+        "summary": "The Bills did not rule anyone out for Sunday's game against the Raiders.",
+        "source": "nbcsports.com",
+        "date": "Fri, 16 Oct 2026 17:49:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2cc12b6/2147483647/strip/false/crop/5420x3049+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F36%2Fa6a8628e4788a093d153b3c0d641%2F2297794684.jpg"
+      },
+      {
+        "title": "Stephen Jones says Joey Porter Jr. is \"all-in\" with the Cowboys",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-jones-says-joey-porter-jr-is-all-in-with-the-cowboys",
+        "summary": "Cowboys cornerback Joey Porter Jr. did not play in four games with the Steelers.",
+        "source": "nbcsports.com",
+        "date": "Fri, 16 Oct 2026 17:25:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/374ce81/2147483647/strip/false/crop/2642x1486+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F49%2F0d%2Fb2bb02524f20b1653bc317d247e9%2F2298104509.jpg"
+      },
       {
         "title": "Trent McDuffie, Kam Curl questionable for Rams-Cardinals",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trent-mcduffie-kam-curl-questionable-for-rams-cardinals",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 16 Oct 2026 16:59:31 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b497c0a/2147483647/strip/false/crop/6946x3907+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F21%2F1f708fb94fd4ae08eb46f8a976a3%2F2299588733.jpg"
-      },
-      {
-        "title": "Colts add Tyler Warren to injury report, list him as questionable",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-add-tyler-warren-to-injury-report-list-him-as-questionable",
-        "summary": "The Colts added quarterback Daniel Jones's most frequent target to their injury report on Friday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 16:44:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc97660/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2Fe6%2F3961da8f4e8eb4646e8305e9ff42%2F2299198790.jpg"
-      },
-      {
-        "title": "Lions put OL Ben Bartch, WR Tom Kennedy, LB Devin White on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-put-ol-ben-bartch-wr-tom-kennedy-lb-devin-white-on-injured-reserve",
-        "summary": "The Lions took care of some roster business during their bye week.",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 16:31:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c09816a/2147483647/strip/false/crop/3541x1992+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2F78%2Ff33507454e1e917a39537bd00ff2%2F2296157071.jpg"
-      },
-      {
-        "title": "Saquon Barkley out, DeVonta Smith off injury report and will play vs. Panthers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-out-devonta-smith-off-injury-report-and-will-play-vs-panthers",
-        "summary": "The Eagles will have their top receiver back for Sunday, but they won't have another one of their top offensive players.",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 16:29:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2cc8a16/2147483647/strip/false/crop/5835x3282+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2F40%2Fedbd7eeb4f7094f813b1d93c31cc%2F2298624951.jpg"
-      },
-      {
-        "title": "NFL removes Broncos OLB Jonathon Cooper from Commissioner's Exempt List",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-removes-broncos-olb-jonathon-cooper-from-commissioners-exempt-list",
-        "summary": "The NFL has announced it has removed Broncos outside linebacker Jonathon Cooper from the Commissioner's Exempt List.",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 16:22:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c2a093f/2147483647/strip/false/crop/6823x3838+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F36%2F2175df6749519ef7f9e82ed204aa%2F2287899404.jpg"
       }
     ]
   }
