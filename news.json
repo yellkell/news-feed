@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-16T23:45:08.717Z",
+  "updated": "2026-10-17T02:23:48.711Z",
   "feed": {
     "VR": [
       {
-        "title": "Claude Opus 5.5 fast mode needs no access request, but falling back costs the cache",
-        "url": "https://mixed-news.com/en/claude-opus-5-5-fast-mode-out-of-research-preview-rate-limit/",
-        "summary": "Anthropic has taken fast mode out of research preview on Claude Opus 5.5, so asking for it no longer needs an access request or a beta header.",
+        "title": "Steam's overlay freezes Linux games on alt-tab, and Valve has merged four reports",
+        "url": "https://mixed-news.com/en/steam-overlay-alt-tab-freeze-linux-13709-13682/",
+        "summary": "Linux owners are reporting that games freeze for good within seconds of an alt-tab, and that switching Steam’s in-game overlay off is what stops it.",
         "source": "mixed-news.com",
-        "date": "Fri, 16 Oct 2026 23:37:14 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/1923f2edea23fb276f0a2eeee44b7d32446a0684-2400x1260-1.jpg"
+        "date": "Sat, 17 Oct 2026 02:04:08 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/31-steam-shadow-frame-after.webp"
       },
       {
         "title": "Convrgence Impressions - Extracting Some Fun",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Meta's AI glasses now describe eight Brera masterpieces to blind visitors in Milan",
-        "url": "https://mixed-news.com/en/meta-ai-glasses-pinacoteca-brera-sensing-art-eight-artworks/",
-        "summary": "Meta's AI glasses can now recognise eight artworks inside Milan's Pinacoteca di Brera and play the museum's own spoken description of each one through the frames, and it is a tour…",
+        "title": "Squingle Arcade now sells you infinite Energy, and says it stays free to play",
+        "url": "https://mixed-news.com/en/squingle-arcade-limitless-infinite-energy-liquid-realm/",
+        "summary": "Squingle Arcade has added a one-time purchase that takes the wait for Energy out of a free-to-play VR puzzle game.",
         "source": "mixed-news.com",
-        "date": "Fri, 16 Oct 2026 22:43:47 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2025/01/Ray-Ban-Meta-Smart-Glasses-Woman-Chair.jpg"
+        "date": "Sat, 17 Oct 2026 01:16:39 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_a9ea3d98d5b859a5b75f9f73d4cc89d9f58c30d9.1920x1080.jpg"
       },
       {
         "title": "Synth Riders' Free Spooky Update Headlined By Apashe's Lord & Master",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Terrion Arnold remains on paid leave",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-remains-on-paid-leave",
+        "summary": "The NFL's decision to reinstate Packers running back Josh Jacobs and Broncos linebacker Jonathon Cooper from the Commissioner Exempt list carried with it a conspicuous omission.",
+        "source": "nbcsports.com",
+        "date": "Fri, 16 Oct 2026 21:52:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9ab262a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F668%2F415%2Fnbc_pft_broncosea_261016.jpg"
+      },
+      {
         "title": "KC Concepcion on Minkah Fitzpatrick's hit: It was a football play; it wasn't dirty",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kc-concepcion-on-minkah-fitzpatricks-hit-it-was-a-football-play-it-wasnt-dirty",
         "summary": "Jets safety Minkah Fitzpatrick's hit on KC Concepcion on Sunday knocked out the Browns wide receiver.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 16 Oct 2026 17:04:43 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/13c4630/2147483647/strip/false/crop/5000x2813+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2F09%2Fa7a082374629b9b0f30b7fcd9397%2F2298747300.jpg"
-      },
-      {
-        "title": "John Lynch: George Kittle asked me if we're trying to trade for Khalil Mack",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-lynch-george-kittle-asked-me-if-were-trying-to-trade-for-khalil-mack",
-        "summary": "The trade deadline was a topic of conversation for General Manager John Lynch on Friday.",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 16:59:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b497c0a/2147483647/strip/false/crop/6946x3907+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F21%2F1f708fb94fd4ae08eb46f8a976a3%2F2299588733.jpg"
       }
     ]
   }
