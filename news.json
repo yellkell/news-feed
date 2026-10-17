@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T14:24:32.018Z",
+  "updated": "2026-10-17T17:23:20.247Z",
   "feed": {
     "VR": [
       {
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Websites are closing their doors to AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…",
+        "title": "Meta removes language that may have allowed it to scrape news sites",
+        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+        "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.",
         "source": "theverge.com",
-        "date": "2026-10-17T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-17T11:04:36-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
       },
       {
-        "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-        "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-        "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is…",
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…",
         "source": "theverge.com",
-        "date": "2026-10-16T11:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-17T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
       },
       {
-        "title": "Meta’s new terms may allow it to train AI on news sites for free",
-        "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-        "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a…",
+        "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+        "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+        "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is…",
         "source": "theverge.com",
-        "date": "2026-10-16T10:02:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-16T11:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Steelers say DK Metcalf will play, Pat Freiermuth is questionable with calf injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-say-dk-metcalf-will-play-pat-freiermuth-is-questionable-with-calf-injury",
+        "summary": "Steelers wide receiver DK Metcalf is no longer on the injury report for Sunday's game against the Buccaneers, but tight end Pat Freiermuth now is.",
+        "source": "nbcsports.com",
+        "date": "Sat, 17 Oct 2026 12:32:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/762d730/2147483647/strip/false/crop/4656x2619+0+243/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F88%2F17%2F2064608347b5acffc7e50a0b4e9b%2F2299720731.jpg"
+      },
+      {
+        "title": "College football player Tyler Ulrich dies five days after suffering traumatic injury during a game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/college-football-player-tyler-ulrich-dies-five-days-after-suffering-traumatic-injury-during-a-game",
+        "summary": "Tyler Ulrich, a 21-year-old football player at Southern Nazarene University, died Thursday.",
+        "source": "nbcsports.com",
+        "date": "Sat, 17 Oct 2026 10:29:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/62b0ba2/2147483647/strip/false/crop/388x218+0+71/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F09%2F70da1ded47a28921bfe6dd16ad86%2Fimages-2.jpg"
+      },
       {
         "title": "Eagles don't plan to put QB Jalen Hurts on injured reserve",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-dont-plan-to-put-qb-jalen-hurts-on-injured-reserve",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 17 Oct 2026 04:41:00 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/94585d0/2147483647/strip/false/crop/4869x2739+0+254/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2Fbd%2F3155e1a9492d8baf62a229991a25%2F2297990212.jpg"
-      },
-      {
-        "title": "Titans CEO Burke Nihill: Our organization believes in coach Robert Saleh, GM Mike Borgonzi",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-ceo-burke-nihill-our-organization-believes-in-coach-robert-saleh-gm-mike-borgonzi",
-        "summary": "The Titans have fired a head coach or GM each of the last four years, but they say they're going to be patient with their current coach and GM.",
-        "source": "nbcsports.com",
-        "date": "Sat, 17 Oct 2026 03:30:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/34f95b5/2147483647/strip/false/crop/4350x2447+0+226/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2F93%2F0f234f6d4f13b1aee54969790476%2F2297413460.jpg"
-      },
-      {
-        "title": "19.8 million watched Bills-Rams on Monday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/19-8-million-watched-bills-rams-on-monday-night",
-        "summary": "The Monday night instant classic between the Bills and the Rams nevertheless failed to crack the 20 million viewer threshold on the various Disney networks.",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 23:01:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b748889/2147483647/strip/false/crop/6427x3615+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F61%2F6d7806174c6e8f3e30890b293864%2F2300268901.jpg"
       }
     ]
   }
