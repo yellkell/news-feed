@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T11:34:30.679Z",
+  "updated": "2026-10-17T14:24:32.018Z",
   "feed": {
     "VR": [
       {
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…",
+        "source": "theverge.com",
+        "date": "2026-10-17T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "OpenAI models hacked a crypto wallet and breached more websites",
         "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
         "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
@@ -69,14 +77,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Meta’s new terms may allow it to train AI on news sites for free",
-        "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-        "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a…",
-        "source": "theverge.com",
-        "date": "2026-10-16T10:02:40-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
         "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
         "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
         "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
       },
       {
-        "title": "ChatGPT can peek at your Chrome tabs now",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-        "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
+        "title": "Meta’s new terms may allow it to train AI on news sites for free",
+        "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+        "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a…",
         "source": "theverge.com",
-        "date": "2026-10-15T18:43:23-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-16T10:02:40-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -102,6 +102,22 @@
       }
     ],
     "NFL": [
+      {
+        "title": "Eagles don't plan to put QB Jalen Hurts on injured reserve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-dont-plan-to-put-qb-jalen-hurts-on-injured-reserve",
+        "summary": "Eagles quarterback Jalen Hurts is out indefinitely with a blood clot in his leg.",
+        "source": "nbcsports.com",
+        "date": "Sat, 17 Oct 2026 09:54:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19049f9/2147483647/strip/false/crop/5181x2914+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2Fbf%2Fb376d603453683d3f69346a7f882%2F2299158181.jpg"
+      },
+      {
+        "title": "All AFC, NFC North teams could emerge from Week 6 above .500",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/all-afc-nfc-north-teams-could-emerge-from-week-6-above-500",
+        "summary": "One of the basic realities of life in the NFL is that each team is assigned to a division with three other teams, permanently.",
+        "source": "nbcsports.com",
+        "date": "Sat, 17 Oct 2026 09:18:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e47a252/2147483647/strip/false/crop/4290x2413+0+223/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa8%2F6e%2Fa8e4c54649829e027c3d2231a2f3%2F2300086145.jpg"
+      },
       {
         "title": "Panthers' JJ Jansen to play his 282nd game, most ever for a long snapper",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-jj-jansen-to-play-his-282nd-game-most-ever-for-a-long-snapper",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 16 Oct 2026 23:01:07 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/b748889/2147483647/strip/false/crop/6427x3615+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F61%2F6d7806174c6e8f3e30890b293864%2F2300268901.jpg"
-      },
-      {
-        "title": "Troy Aikman's role with the Dolphins hovers over his broadcasting future",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/troy-aikmans-role-with-the-dolphins-hovers-over-his-broadcasting-future",
-        "summary": "Why would any network with options opt for someone who works for one of the NFL's teams?",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 22:24:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b083ab/2147483647/strip/false/crop/7198x4049+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2F9b%2Fc332168d4ced921e538eea3b9ead%2F2295967665.jpg"
-      },
-      {
-        "title": "Terrion Arnold remains on paid leave",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-remains-on-paid-leave",
-        "summary": "The NFL's decision to reinstate Packers running back Josh Jacobs and Broncos linebacker Jonathon Cooper from the Commissioner Exempt list carried with it a conspicuous omission.",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 21:52:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9ab262a/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F668%2F415%2Fnbc_pft_broncosea_261016.jpg"
       }
     ]
   }
