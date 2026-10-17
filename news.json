@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-17T02:23:48.711Z",
+  "updated": "2026-10-17T07:05:04.964Z",
   "feed": {
     "VR": [
       {
-        "title": "Steam's overlay freezes Linux games on alt-tab, and Valve has merged four reports",
-        "url": "https://mixed-news.com/en/steam-overlay-alt-tab-freeze-linux-13709-13682/",
-        "summary": "Linux owners are reporting that games freeze for good within seconds of an alt-tab, and that switching Steam’s in-game overlay off is what stops it.",
+        "title": "Gemini 4 Argon cut its own pick-and-place time from 58.9 to 17.4 seconds, says Google",
+        "url": "https://mixed-news.com/en/gemini-4-argon-robotics-self-improvement-58-9-to-17-4-seconds/",
+        "summary": "Google says Gemini 4 Argon cut its own time on a pick-and-place task from 58.9 seconds to 17.4 across three attempts on a 6-DoF robot arm, working out what went wrong from its own…",
         "source": "mixed-news.com",
-        "date": "Sat, 17 Oct 2026 02:04:08 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/31-steam-shadow-frame-after.webp"
+        "date": "Sat, 17 Oct 2026 02:56:35 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/wagtailvideo-q4txpqd4_thumb.jpg"
       },
       {
         "title": "Convrgence Impressions - Extracting Some Fun",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Squingle Arcade now sells you infinite Energy, and says it stays free to play",
-        "url": "https://mixed-news.com/en/squingle-arcade-limitless-infinite-energy-liquid-realm/",
-        "summary": "Squingle Arcade has added a one-time purchase that takes the wait for Energy out of a free-to-play VR puzzle game.",
+        "title": "Steam's overlay freezes Linux games on alt-tab, and Valve has merged four reports",
+        "url": "https://mixed-news.com/en/steam-overlay-alt-tab-freeze-linux-13709-13682/",
+        "summary": "Linux owners are reporting that games freeze for good within seconds of an alt-tab, and that switching Steam’s in-game overlay off is what stops it.",
         "source": "mixed-news.com",
-        "date": "Sat, 17 Oct 2026 01:16:39 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_a9ea3d98d5b859a5b75f9f73d4cc89d9f58c30d9.1920x1080.jpg"
+        "date": "Sat, 17 Oct 2026 02:04:08 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/31-steam-shadow-frame-after.webp"
       },
       {
         "title": "Synth Riders' Free Spooky Update Headlined By Apashe's Lord & Master",
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "19.8 million watched Bills-Rams on Monday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/19-8-million-watched-bills-rams-on-monday-night",
+        "summary": "The Monday night instant classic between the Bills and the Rams nevertheless failed to crack the 20 million viewer threshold on the various Disney networks.",
+        "source": "nbcsports.com",
+        "date": "Fri, 16 Oct 2026 23:01:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b748889/2147483647/strip/false/crop/6427x3615+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F61%2F6d7806174c6e8f3e30890b293864%2F2300268901.jpg"
+      },
+      {
+        "title": "Troy Aikman's role with the Dolphins hovers over his broadcasting future",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/troy-aikmans-role-with-the-dolphins-hovers-over-his-broadcasting-future",
+        "summary": "Why would any network with options opt for someone who works for one of the NFL's teams?",
+        "source": "nbcsports.com",
+        "date": "Fri, 16 Oct 2026 22:24:22 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b083ab/2147483647/strip/false/crop/7198x4049+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2F9b%2Fc332168d4ced921e538eea3b9ead%2F2295967665.jpg"
+      },
+      {
         "title": "Terrion Arnold remains on paid leave",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terrion-arnold-remains-on-paid-leave",
         "summary": "The NFL's decision to reinstate Packers running back Josh Jacobs and Broncos linebacker Jonathon Cooper from the Commissioner Exempt list carried with it a conspicuous omission.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 16 Oct 2026 17:49:45 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/2cc12b6/2147483647/strip/false/crop/5420x3049+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F36%2Fa6a8628e4788a093d153b3c0d641%2F2297794684.jpg"
-      },
-      {
-        "title": "Stephen Jones says Joey Porter Jr. is \"all-in\" with the Cowboys",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-jones-says-joey-porter-jr-is-all-in-with-the-cowboys",
-        "summary": "Cowboys cornerback Joey Porter Jr. did not play in four games with the Steelers.",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 17:25:53 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/374ce81/2147483647/strip/false/crop/2642x1486+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F49%2F0d%2Fb2bb02524f20b1653bc317d247e9%2F2298104509.jpg"
-      },
-      {
-        "title": "Trent McDuffie, Kam Curl questionable for Rams-Cardinals",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/trent-mcduffie-kam-curl-questionable-for-rams-cardinals",
-        "summary": "Two of the Rams defensive backs are uncertain to play Sunday's game against the Cardinals.",
-        "source": "nbcsports.com",
-        "date": "Fri, 16 Oct 2026 17:04:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/13c4630/2147483647/strip/false/crop/5000x2813+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2F09%2Fa7a082374629b9b0f30b7fcd9397%2F2298747300.jpg"
       }
     ]
   }
