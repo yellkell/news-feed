@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-18T17:32:30.914Z",
+  "updated": "2026-10-18T19:39:50.877Z",
   "feed": {
     "VR": [
       {
-        "title": "Amazon's always-listening Bee Frontier costs $74.99, and Bee Pro is $11.99 a month",
-        "url": "https://mixed-news.com/en/amazon-bee-frontier-74-99-bee-pro-11-99-a-month/",
-        "summary": "Amazon is selling an always-listening AI wearable for $74.99 at Amazon.com, against the $349 Meta charges for the camera-free Ray-Ban Meta Audio, and the subscription that sits…",
+        "title": "Sandisk says it has Meta's exclusive VR Glasses storage deal, but names no capacity or price",
+        "url": "https://mixed-news.com/en/sandisk-exclusive-storage-partner-meta-vr-glasses-spring-2027/",
+        "summary": "Sandisk says it will be the exclusive provider of flash storage for Meta VR Glasses when they go on sale in spring 2027, and that sentence is close to the entire announcement.",
         "source": "mixed-news.com",
-        "date": "Sun, 18 Oct 2026 16:45:08 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/bee-frontier-eclipse-hero-amazonnews-ck101426.jpg"
+        "date": "Sun, 18 Oct 2026 19:24:57 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/04_VRGlasses_Inline_NBA.jpg"
       },
       {
         "title": "Convrgence Impressions - Extracting Some Fun",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Gemini 4 Argon cut its own pick-and-place time from 58.9 to 17.4 seconds, says Google",
-        "url": "https://mixed-news.com/en/gemini-4-argon-robotics-self-improvement-58-9-to-17-4-seconds/",
-        "summary": "Google says Gemini 4 Argon cut its own time on a pick-and-place task from 58.9 seconds to 17.4 across three attempts on a 6-DoF robot arm, working out what went wrong from its own…",
+        "title": "Rustmourne's free VR horror demo is live four days before Steam Next Fest opens",
+        "url": "https://mixed-news.com/en/rustmourne-vr-horror-demo-live-steam-next-fest-october-19/",
+        "summary": "The demo for Rustmourne is up on Steam, it is free, and it arrived four days before Steam Next Fest opens.",
         "source": "mixed-news.com",
-        "date": "Sat, 17 Oct 2026 02:56:35 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/wagtailvideo-q4txpqd4_thumb.jpg"
+        "date": "Sun, 18 Oct 2026 18:33:54 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_6d1efc927169cf2a3b7ddfae65c4d383e999f9f8.1920x1080-1.jpg"
       },
       {
         "title": "Synth Riders' Free Spooky Update Headlined By Apashe's Lord & Master",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Meta removes language that may have allowed it to scrape news sites",
-        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-        "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.",
+        "title": "A woman was arrested in Philly for blocking a delivery robot",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+        "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way.",
         "source": "theverge.com",
-        "date": "2026-10-17T11:04:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-18T14:28:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
       },
       {
-        "title": "Websites are closing their doors to AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…",
+        "title": "Meta removes language that may have allowed it to scrape news sites",
+        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+        "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.",
         "source": "theverge.com",
-        "date": "2026-10-17T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-17T11:04:36-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
       },
       {
-        "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-        "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-        "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is…",
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…",
         "source": "theverge.com",
-        "date": "2026-10-16T11:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-17T09:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Giants take early 7-0 lead over Saints",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-take-early-7-0-lead-over-saints",
-        "summary": "The Giants are out to an early lead over the Saints.",
+        "title": "Aaron Rodgers' TD throw has Steelers within 16-10 of Bucs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-td-throw-has-steelers-within-16-10-of-bucs",
+        "summary": "Aaron Rodgers threw his 538th career touchdown pass early in the fourth quarter.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 13:25:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/39453c9/2147483647/strip/false/crop/3090x1738+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3a%2F43%2Fe6ee47cb4d3791b70dcd7eef3c1a%2F2300829001.jpg"
+        "date": "Sun, 18 Oct 2026 15:36:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6ced8a0/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2F9d%2F8b2de25645b28c7973d6a6bfb1ed%2F2300357453.jpg"
       },
       {
-        "title": "Sunday morning games could kill the traditional pregame shows",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-morning-games-could-kill-the-traditional-pregame-shows",
-        "summary": "More than 40 years after video killed the radio star, Sunday morning football could be killing the traditional pregame shows.",
+        "title": "Carnell Tate's first touchdown catch ties Titans-Colts at 13-13",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carnell-tates-first-touchdown-catch-ties-titans-colts-at-13-13",
+        "summary": "Is today the day for Tennessee's first win of the season?",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 13:21:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7cc50ed/2147483647/strip/false/crop/3269x1839+0+170/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2Ff6%2Fe9f311c7452381f9d1322591347b%2F2300830809.jpg"
+        "date": "Sun, 18 Oct 2026 15:28:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f2303bf/2147483647/strip/false/crop/3000x1688+0+21/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F61%2F29%2F1eec3696490f9276f060dc49eaef%2F2300845658.jpg"
       },
       {
-        "title": "Tyler Huntley 2-yard touchdown pass gives Ravens early 7-0 lead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-huntley-2-yard-touchdown-pass-gives-ravens-early-7-0-lead",
-        "summary": "The Ravens have taken an early lead over the Browns.",
+        "title": "Sauce Gardner questionable to return with calf injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sauce-gardner-questionable-to-return-with-calf-injury",
+        "summary": "The Colts are dealing with an injury to one of their key defensive players.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 13:19:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/189a60d/2147483647/strip/false/crop/4825x2714+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fee%2F0c%2F779df4fb4928a5dbd747ad01a634%2F2300828900.jpg"
+        "date": "Sun, 18 Oct 2026 15:18:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1822a03/2147483647/strip/false/crop/3237x1821+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F64%2F07%2F9db38e824607975e4176121b67a5%2F2296029701.jpg"
       },
       {
-        "title": "Caleb Williams throws touchdown pass on first possession since return from injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-throws-touchdown-pass-on-first-possession-since-return-from-injury",
-        "summary": "Williams showed no sign of the hamstring injury that has kept him out since Week 2.",
+        "title": "If Chargers lose again today, will offensive coordinator Mike McDaniel be out?",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/if-chargers-lose-again-today-will-offensive-coordinator-mike-mcdaniel-be-out",
+        "summary": "The Chargers, after getting to the playoffs in each of the past two years under coach Jim Harbaugh, entered the 2026 season with high expectations.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 13:16:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f57ec8/2147483647/strip/false/crop/4418x2485+0+230/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2F20%2F6538e92f471f9c0622bdd37d20be%2F2300829199.jpg"
+        "date": "Sun, 18 Oct 2026 15:16:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0d39b54/2147483647/strip/false/crop/4498x2530+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F52%2F1ae361c4472f9b197e22673d0c5f%2F2294929727.jpg"
       },
       {
-        "title": "Texans kick last-second field goal to beat Jaguars in London",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-kick-last-second-field-goal-to-beat-jaguars-in-london",
-        "summary": "An exciting game in London ended with the Texans on top.",
+        "title": "DJ Moore, Ed Oliver inactive for Bills vs. Raiders",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dj-moore-ed-oliver-inactive-for-bills-vs-raiders",
+        "summary": "The Bills will not have two of their stars today.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 12:50:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/81886c1/2147483647/strip/false/crop/4609x2593+0+240/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F45%2F75d2338a4972a073a77dfaed3249%2F2300824756.jpg"
+        "date": "Sun, 18 Oct 2026 15:11:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/033dfbb/2147483647/strip/false/crop/5423x3050+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2Fe4%2F4eefe17a4167a1142d8e8749a8d2%2F2299882755.jpg"
       },
       {
-        "title": "A Saquon Barkley trade would create a $26 million cap charge in 2027",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-saquon-barkley-trade-would-create-a-26-million-cap-charge-in-2027",
-        "summary": "With the Eagles' season quickly imploding and a potential reset coming in 2026, opportunities could arise over the next 23 days to trade running back Saquon Barkley.",
+        "title": "Falcons LB Kendal Daniels taken off field on stretcher",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-lb-kendal-daniels-taken-off-field-on-stretcher",
+        "summary": "Falcons rookie linebacker Kendal Daniels suffered what appeared to be a serious injury today against the Bears.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 12:49:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6ba2e2f/2147483647/strip/false/crop/8256x4644+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F75%2Fa3cfad514bc69b76b40ba74aa3e6%2F2299158158.jpg"
+        "date": "Sun, 18 Oct 2026 15:10:44 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ba4cfa/2147483647/strip/false/crop/3600x2025+0+188/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fea%2F04%2Fab1c8713450c90ddeede4f99fbc8%2F2300357415.jpg"
       }
     ]
   }
