@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T06:12:46.305Z",
+  "updated": "2026-10-18T11:04:24.976Z",
   "feed": {
     "VR": [
       {
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Jaguars want to play all their home games in Jacksonville when stadium re-opens in 2028",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-want-to-play-all-their-home-games-in-jacksonville-when-stadium-re-opens-in-2028",
+        "summary": "The Jaguars want to stop giving up a home game to play in London when their stadium renovations are complete for the 2028 season.",
+        "source": "nbcsports.com",
+        "date": "Sun, 18 Oct 2026 05:11:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a693bfe/2147483647/strip/false/crop/4212x2369+0+281/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4e%2Fe4%2Ffcf82eb94dc8bfbc564a34f02665%2F2299459055.jpg"
+      },
+      {
         "title": "Notre Dame gets screwed, twice, on \"final\" play at BYU",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/notre-dame-gets-screwed-twice-on-final-play-at-byu",
         "summary": "Home cooking is the best cooking.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 17 Oct 2026 20:26:27 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/ccd68b6/2147483647/strip/false/crop/2741x1542+0+141/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2Fdf%2F44d92f4145089035f339fd8558b4%2F2300223182.jpg"
-      },
-      {
-        "title": "Steve Sarkisian doesn't rule out benching Arch Manning",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steve-sarkisian-doesnt-rule-out-benching-arch-manning",
-        "summary": "The 2026 season for the University of Texas is quickly imploding.",
-        "source": "nbcsports.com",
-        "date": "Sat, 17 Oct 2026 20:00:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/55f8b50/2147483647/strip/false/crop/4606x2591+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F38%2Fa4%2F9cefe02a480da1358e2976227d2e%2F2300095303.jpg"
       }
     ]
   }
