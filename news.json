@@ -1,22 +1,46 @@
 {
-  "updated": "2026-10-19T15:33:37.150Z",
+  "updated": "2026-10-19T20:42:10.695Z",
   "feed": {
     "VR": [
       {
-        "title": "OpenAI gives US university labs 30 free seats, and gates GPT-Rosalind on top",
-        "url": "https://mixed-news.com/en/openai-rosalind-academic-plan-30-free-seats-us-universities/",
-        "summary": "OpenAI will give approved university labs up to 30 Business Standard seats on ChatGPT at no cost for up to 12 months, and the model the plan is named after is not part of that…",
+        "title": "Valve has closed three AI-written Proton bug reports in four days",
+        "url": "https://mixed-news.com/en/valve-proton-ai-written-bug-reports-closed-10282-10280-10263/",
+        "summary": "Valve's Proton maintainer has closed three bug reports in four days with the reporter's use of AI tools raised in each closing comment, and the bluntest of the three leaves nothing…",
         "source": "mixed-news.com",
-        "date": "Mon, 19 Oct 2026 14:40:49 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/rosalind-academic-plan-seo.png"
+        "date": "Mon, 19 Oct 2026 20:10:10 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_5d3de290f5b9fc2b850260c73483e15f501087f7.1920x1080.jpg"
       },
       {
-        "title": "Loony Laps Is Coming To Quest This December With Preorders Open Now",
-        "url": "https://www.uploadvr.com/loony-laps-is-coming-to-quest-this-december-with-preorders-open-now/",
-        "summary": "Solo-developed arcade toy car racer Loony Laps is coming to Quest on December 15, with pre-orders open now.",
+        "title": "Payday: Aces High Releases In November - Demo Out Now For Quest & PC VR",
+        "url": "https://www.uploadvr.com/payday-aces-high-releases-in-november-demo-out-now-for-quest-pc-vr/",
+        "summary": "Payday: Aces High launches November 5 for PC VR & Quest, with a free demo available now through October 26 on both platforms.",
         "source": "uploadvr.com",
-        "date": "Sun, 18 Oct 2026 15:01:33 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/trailer-cover-1.webp"
+        "date": "Mon, 19 Oct 2026 10:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/payday-aces-high-key-art.jpg"
+      },
+      {
+        "title": "‘PAYDAY: Aces High’ Releases November 5th on Quest, Steam Frame & PC VR, Playtest Now Open",
+        "url": "https://roadtovr.com/payday-vr-release-date-quest-steamvr-frame/",
+        "summary": "PAYDAY: Aces High, the VR game set in the Payday universe, is officially set to launch across Quest, PC VR headsets, and Steam Frame next month.",
+        "source": "roadtovr.com",
+        "date": "Mon, 19 Oct 2026 16:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/payday-vr.jpeg?resize=1534%2C863&quality=89&ssl=1"
+      },
+      {
+        "title": "Bigscreen is building a 3DoF mode for Beyond 2, and HTC calls dropping base stations unlikely",
+        "url": "https://mixed-news.com/en/bigscreen-beyond-2-3dof-mode-htc-steamvr-base-stations/",
+        "summary": "Bigscreen is building a mode for the Beyond 2 that works with no base stations at all, and it has published a line from HTC on whether those base stations have a future.",
+        "source": "mixed-news.com",
+        "date": "Mon, 19 Oct 2026 19:20:54 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/audio-strap-02-profile_1920x1080_crop_center-1.jpg"
+      },
+      {
+        "title": "Steam Next Fest October 2026 Features Over 40 PC VR Demos",
+        "url": "https://www.uploadvr.com/steam-next-fest-october-2026-features-over-40-pc-vr-demos/",
+        "summary": "The final Steam Next Fest of 2026 is live, with over 40 PC VR demos available, and we have the full rundown.",
+        "source": "uploadvr.com",
+        "date": "Mon, 19 Oct 2026 10:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/english--1-.jpg"
       },
       {
         "title": "Steam Frame OLED Version Surfaces in Source Code, Suggesting a Possible Hardware Refresh",
@@ -25,48 +49,32 @@
         "source": "roadtovr.com",
         "date": "Thu, 15 Oct 2026 13:15:00 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Train Trek's VR mode had no body in it, and Aixceptional has rebuilt it around hands",
-        "url": "https://mixed-news.com/en/train-trek-vr-mode-rebuilt-body-hands-portals-both-eyes/",
-        "summary": "Aixceptional has rebuilt the headset half of Train Trek, and the starting point was that players had no body in it.",
-        "source": "mixed-news.com",
-        "date": "Mon, 19 Oct 2026 13:47:33 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_373d4f7cdc9286af261e1b2d3e7c4dccca257c71.1920x1080.jpg"
-      },
-      {
-        "title": "Good Morning [Employee Name] VR Trailer Hints At An Unsettling Office Mystery",
-        "url": "https://www.uploadvr.com/good-morning-employee-name-vr-trailer-hints-at-an-unsettling-office-mystery/",
-        "summary": "Good Morning [Employee Name] VR is an upcoming psychological job sim set in an unsettling office space.",
-        "source": "uploadvr.com",
-        "date": "Sun, 18 Oct 2026 15:00:11 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/good-morning-employee-name-vr.jpg"
-      },
-      {
-        "title": "XREAL Announces ‘1 Pro+’ Flagship AR Glasses, Now Available & Priced at $599",
-        "url": "https://roadtovr.com/xreal-1-pro-plus-release-date-price/",
-        "summary": "XREAL today announced XREAL 1 Pro+, a hardware refresh of its One Pro flagship AR glasses.",
-        "source": "roadtovr.com",
-        "date": "Thu, 15 Oct 2026 12:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/1_Pro__Image.jpg?resize=1920%2C1280&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
+        "title": "Recently fixed Plex Media vulnerabilities are being exploited to install malware",
+        "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+        "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+        "source": "arstechnica.com",
+        "date": "Mon, 19 Oct 2026 19:39:19 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp"
+      },
+      {
         "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
         "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-        "summary": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.",
+        "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running…",
         "source": "theverge.com",
         "date": "2026-10-19T10:30:00-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+        "title": "ReactOS reaches major milestone with NTFS install support",
+        "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+        "summary": "ReactOS gains NTFS install support with new driver.",
         "source": "arstechnica.com",
-        "date": "Fri, 16 Oct 2026 20:59:01 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
+        "date": "Mon, 19 Oct 2026 18:30:56 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties.jpg"
       },
       {
         "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
@@ -77,14 +85,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-        "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-        "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-        "source": "arstechnica.com",
-        "date": "Thu, 15 Oct 2026 20:32:41 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
-      },
-      {
         "title": "Democrats think cracking down on AI could give them an edge",
         "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
         "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI.",
@@ -93,62 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-        "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-        "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
         "source": "arstechnica.com",
-        "date": "Wed, 14 Oct 2026 21:35:09 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg"
+        "date": "Fri, 16 Oct 2026 20:59:01 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Aaron Glenn: I wasn't confused about who got the ball to start the second half",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-i-wasnt-confused-about-who-got-the-ball-to-start-the-second-half",
-        "summary": "Jets head coach Aaron Glenn's on-field interview before the start of the second half on Sunday went viral, but Glenn said on Monday that his comments were misinterpreted.",
+        "title": "49ers rule out WR Christian Kirk, elevate two players",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-rule-out-wr-christian-kirk-elevate-two-players",
+        "summary": "The 49ers downgraded wide receiver Christian Kirk from questionable to out, confirming he will not play in Monday Night Football.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 11:27:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abbabd5/2147483647/strip/false/crop/3900x2194+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2Faa%2F23398cc4411ca1cea769815cdf37%2F2300380767.jpg"
+        "date": "Mon, 19 Oct 2026 16:40:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a6e72d7/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F915%2F987%2Fnbc_pft_hurtsclotsv2_261019.jpg"
       },
       {
-        "title": "Josh Allen on flicked TD pass to Keon Coleman: \"I was just trying to make a play\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-on-flicked-td-pass-to-keon-coleman-i-was-just-trying-to-make-a-play",
-        "summary": "Midway through the third quarter of Sunday's victory over the Raiders, Bills quarterback Josh Allen made another signature play for a touchdown pass.",
+        "title": "Patriots place Romeo Doubs on injured reserve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-place-romeo-doubs-on-injured-reserve",
+        "summary": "The Patriots will not have one of their key receivers for at least the next four weeks.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 11:17:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f49a454/2147483647/strip/false/crop/4059x2283+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2F02%2Fa8abe11b408b87b1b41482969be7%2F2300869530.jpg"
+        "date": "Mon, 19 Oct 2026 16:28:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c3a4914/2147483647/strip/false/crop/8361x4703+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2F98%2F3b5836f344a0b0552712f9f5eaf7%2F2299752161.jpg"
       },
       {
-        "title": "Jalen Hurts has deep vein thrombosis, multiple pulmonary embolisms",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-hurts-has-deep-vein-thrombosis-multiple-pulmonary-embolisms",
-        "summary": "Eagles QB most likely will not play again this season.",
+        "title": "Commanders put Jacory Croskey-Merritt on IR, activate three players",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-put-jacory-croskey-merritt-on-ir-activate-three-players",
+        "summary": "Commanders running back Jacory Croskey-Merritt will miss at least the next four games with a groin injury.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 11:11:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c4781ed/2147483647/strip/false/crop/4060x2284+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2Ffb%2Fea0577364cefabd865fea1c72049%2F2026-10-11t193641z-398305491-mt1usatoday30058245-rtrmadp-3-nfl-philadelphia-eagles-at-jacksonville-jaguars.jpg"
+        "date": "Mon, 19 Oct 2026 16:28:10 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/240e5af/2147483647/strip/false/crop/5839x3284+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe4%2F9d%2F56ef240648d4b07b76618358f118%2F2298281795.jpg"
       },
       {
-        "title": "Bengals put Tanner Hudson on IR",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-put-tanner-hudson-on-ir",
-        "summary": "The Bengals have opened up a spot on their 53-man roster as they return from their bye week.",
+        "title": "Texans plan for Tank Dell to play in Week 7",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-plan-for-tank-dell-to-play-in-week-7",
+        "summary": "Wide receiver Tank Dell's long comeback is set to reach its finish line against the Giants in Week 7.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 10:47:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c66d97a/2147483647/strip/false/crop/4592x2583+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2F6f%2Fbbdb79c3448eb11964b93332c6ef%2F2299401006.jpg"
+        "date": "Mon, 19 Oct 2026 16:20:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/65d0682/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F913%2F535%2Fnbc_pft_texans_jags_261019.jpg"
       },
       {
-        "title": "C.J. Gardner-Johnson faces a potential suspension for spitting",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-gardner-johnson-faces-a-potential-suspension-for-spitting",
-        "summary": "The ejection of Bills safety C.J.",
+        "title": "Nick Sirianni: Sean Mannion will remain the play caller",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-sean-mannion-will-remain-the-play-caller",
+        "summary": "The Eagles rank 30th in total offense, including 29th in rushing.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 10:22:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f7896a0/2147483647/strip/false/crop/5440x3060+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F52%2Fcc6133464ca38da7441bfd75a169%2F2296910399.jpg"
+        "date": "Mon, 19 Oct 2026 16:10:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d84fce8/2147483647/strip/false/crop/5018x2823+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2Fac%2Fd2ca187a423b9184ef278e8247da%2F2295096658.jpg"
       },
       {
-        "title": "Falcons signing Andy Dalton, cutting Cooper Rush",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-signing-andy-dalton-cutting-cooper-rush",
-        "summary": "The Falcons are making a change in their quarterback room.",
+        "title": "Rams place K Blake Grupe on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-place-k-blake-grupe-on-ir",
+        "summary": "The Rams officially need another kicker.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 09:53:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7617064/2147483647/strip/false/crop/6751x3797+0+351/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F0e%2Fd85099374aa9979f34512875087c%2F2296320547.jpg"
+        "date": "Mon, 19 Oct 2026 16:06:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2b2f572/2147483647/strip/false/crop/5318x2991+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2F7d%2Fbb066e86439d9c4faab3783a7e76%2F2300846557.jpg"
       }
     ]
   }
