@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-19T02:38:40.893Z",
+  "updated": "2026-10-19T08:04:42.820Z",
   "feed": {
     "VR": [
       {
-        "title": "Pinball FX VR's day-one roster names 41 tables, one short of the 42 Zen planned",
-        "url": "https://mixed-news.com/en/pinball-fx-vr-day-one-roster-41-tables-judge-dredd-october-22/",
-        "summary": "Zen Studios published the day-one table roster for Pinball FX VR on Steam Frame on October 16, and the tables it names come to 41: three in the base game and 38 across 20 paid…",
+        "title": "One kernel option broke Waydroid on SteamOS, and Valve's 3.9.3 beta puts it back",
+        "url": "https://mixed-news.com/en/steamos-3-9-3-beta-android-binder-ipc-waydroid-2848/",
+        "summary": "Valve has put Android binder IPC back into the SteamOS kernel, the option owners say Waydroid needs to run on a Steam Deck without unlocking the filesystem, and whose removal they…",
         "source": "mixed-news.com",
-        "date": "Mon, 19 Oct 2026 01:45:35 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_581aef54dd22cc45b474771254aff3ee955e635e.1920x1080.jpg"
+        "date": "Mon, 19 Oct 2026 07:38:22 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_678c46e3c0b0f82e3af8b0e901b8434057a36966.1920x1080-1.jpg"
       },
       {
         "title": "Loony Laps Is Coming To Quest This December With Preorders Open Now",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "An unofficial app says it will flash RayNeo's iO glasses over Bluetooth, and can brick them",
-        "url": "https://mixed-news.com/en/spare-io-rayneo-io-glasses-firmware-update-over-bluetooth/",
-        "summary": "An unofficial project called Spare io says its iPhone app will write new firmware to RayNeo’s iO glasses over the Bluetooth link the glasses already use, with no vendor app and no…",
+        "title": "Anthropic went from 2,500 code merges a day to over 30,000, so it took its monorepo off git",
+        "url": "https://mixed-news.com/en/anthropic-scion-replaces-git-30000-merges-a-day-five-months/",
+        "summary": "Anthropic averaged around 2,500 code changes merged per day in May 2026 and merged over 30,000 a day by September, and the source control underneath it gave way.",
         "source": "mixed-news.com",
-        "date": "Mon, 19 Oct 2026 00:53:30 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2024/05/RayNeo-Air-2-smart-glasses-and-Pocket-TV-Streaming-Box.jpg"
+        "date": "Mon, 19 Oct 2026 06:35:09 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/1e2a750dba61db4a76b72eec5b0cf50b8a7f878c-3840x2160-1.png"
       },
       {
         "title": "Good Morning [Employee Name] VR Trailer Hints At An Unsettling Office Mystery",
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Sunday Night Football: Packers move to 4-2 with 23-13 victory over Cowboys",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-packers-move-to-4-2-with-23-13-victory-over-cowboys",
+        "summary": "Green Bay has won three games in a row after a strong defensive performance against Dallas on Sunday night.",
+        "source": "nbcsports.com",
+        "date": "Sun, 18 Oct 2026 23:53:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7fe605c/2147483647/strip/false/crop/4838x2721+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F8c%2F120c79134302b99d5b6160370590%2F2300881863.jpg"
+      },
+      {
+        "title": "Tristan Wirfs can't blame Bucs fans for not showing up vs. Steelers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tristan-wirfs-cant-blame-bucs-fans-for-not-showing-up-vs-steelers",
+        "summary": "Steelers fans overwhelmed Raymond James Stadium on Sunday, boosting the road team's effort to overcome a 13-0 halftime deficit and a 16-3 fourth-quarter deficit.",
+        "source": "nbcsports.com",
+        "date": "Sun, 18 Oct 2026 23:12:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/70692a1/2147483647/strip/false/crop/3999x2249+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F92%2F7292562a415a89c6ac702840bcff%2F2300383601.jpg"
+      },
+      {
         "title": "Todd Monken wants to enjoy the win over the Ravens while he can",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-wants-to-enjoy-the-win-over-the-ravens-while-he-can",
         "summary": "In Week 1, the Browns were embarrassed by the Jaguars.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sun, 18 Oct 2026 21:57:22 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c0ead50/2147483647/strip/false/crop/6239x3509+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2Fea%2F519bbb4c43cba999aec5c6232a91%2F2300882963.jpg"
-      },
-      {
-        "title": "C.J. Gardner-Johnson: \"I've got to control my emotions\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-gardner-johnson-ive-got-to-control-my-emotions",
-        "summary": "During Sunday's game against the Raiders in Las Vegas, Bills safety C.J.",
-        "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 21:32:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/de5fdc4/2147483647/strip/false/crop/5746x3232+0+299/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F11%2F115e073047a4aad8a8899af94a03%2F2300068433.jpg"
-      },
-      {
-        "title": "Shane Steichen on Daniel Jones' job: He's our starting quarterback",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-on-daniel-jones-job-hes-our-starting-quarterback",
-        "summary": "The Colts signed Daniel Jones to a two-year, $88 million extension in the offseason, even though he was returning from a torn right Achilles.",
-        "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 21:10:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f567af/2147483647/strip/false/crop/3551x1997+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F82%2F896c55f4461c9ffc4102aecb159b%2F2300860143.jpg"
       }
     ]
   }
