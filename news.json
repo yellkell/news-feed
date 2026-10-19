@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-19T08:04:42.820Z",
+  "updated": "2026-10-19T15:33:37.150Z",
   "feed": {
     "VR": [
       {
-        "title": "One kernel option broke Waydroid on SteamOS, and Valve's 3.9.3 beta puts it back",
-        "url": "https://mixed-news.com/en/steamos-3-9-3-beta-android-binder-ipc-waydroid-2848/",
-        "summary": "Valve has put Android binder IPC back into the SteamOS kernel, the option owners say Waydroid needs to run on a Steam Deck without unlocking the filesystem, and whose removal they…",
+        "title": "OpenAI gives US university labs 30 free seats, and gates GPT-Rosalind on top",
+        "url": "https://mixed-news.com/en/openai-rosalind-academic-plan-30-free-seats-us-universities/",
+        "summary": "OpenAI will give approved university labs up to 30 Business Standard seats on ChatGPT at no cost for up to 12 months, and the model the plan is named after is not part of that…",
         "source": "mixed-news.com",
-        "date": "Mon, 19 Oct 2026 07:38:22 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_678c46e3c0b0f82e3af8b0e901b8434057a36966.1920x1080-1.jpg"
+        "date": "Mon, 19 Oct 2026 14:40:49 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/rosalind-academic-plan-seo.png"
       },
       {
         "title": "Loony Laps Is Coming To Quest This December With Preorders Open Now",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Anthropic went from 2,500 code merges a day to over 30,000, so it took its monorepo off git",
-        "url": "https://mixed-news.com/en/anthropic-scion-replaces-git-30000-merges-a-day-five-months/",
-        "summary": "Anthropic averaged around 2,500 code changes merged per day in May 2026 and merged over 30,000 a day by September, and the source control underneath it gave way.",
+        "title": "Train Trek's VR mode had no body in it, and Aixceptional has rebuilt it around hands",
+        "url": "https://mixed-news.com/en/train-trek-vr-mode-rebuilt-body-hands-portals-both-eyes/",
+        "summary": "Aixceptional has rebuilt the headset half of Train Trek, and the starting point was that players had no body in it.",
         "source": "mixed-news.com",
-        "date": "Mon, 19 Oct 2026 06:35:09 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/1e2a750dba61db4a76b72eec5b0cf50b8a7f878c-3840x2160-1.png"
+        "date": "Mon, 19 Oct 2026 13:47:33 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_373d4f7cdc9286af261e1b2d3e7c4dccca257c71.1920x1080.jpg"
       },
       {
         "title": "Good Morning [Employee Name] VR Trailer Hints At An Unsettling Office Mystery",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "A woman was arrested in Philly for blocking a delivery robot",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-        "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way.",
+        "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+        "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+        "summary": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy.",
         "source": "theverge.com",
-        "date": "2026-10-18T14:28:10-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-19T10:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
       },
       {
-        "title": "Meta removes language that may have allowed it to scrape news sites",
-        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-        "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.",
+        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge.",
         "source": "theverge.com",
-        "date": "2026-10-17T11:04:36-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-19T09:58:41-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
       },
       {
-        "title": "Websites are closing their doors to AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…",
+        "title": "Democrats think cracking down on AI could give them an edge",
+        "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+        "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI.",
         "source": "theverge.com",
-        "date": "2026-10-17T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-19T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Sunday Night Football: Packers move to 4-2 with 23-13 victory over Cowboys",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-packers-move-to-4-2-with-23-13-victory-over-cowboys",
-        "summary": "Green Bay has won three games in a row after a strong defensive performance against Dallas on Sunday night.",
+        "title": "Aaron Glenn: I wasn't confused about who got the ball to start the second half",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-i-wasnt-confused-about-who-got-the-ball-to-start-the-second-half",
+        "summary": "Jets head coach Aaron Glenn's on-field interview before the start of the second half on Sunday went viral, but Glenn said on Monday that his comments were misinterpreted.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 23:53:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7fe605c/2147483647/strip/false/crop/4838x2721+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F8c%2F120c79134302b99d5b6160370590%2F2300881863.jpg"
+        "date": "Mon, 19 Oct 2026 11:27:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/abbabd5/2147483647/strip/false/crop/3900x2194+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2Faa%2F23398cc4411ca1cea769815cdf37%2F2300380767.jpg"
       },
       {
-        "title": "Tristan Wirfs can't blame Bucs fans for not showing up vs. Steelers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tristan-wirfs-cant-blame-bucs-fans-for-not-showing-up-vs-steelers",
-        "summary": "Steelers fans overwhelmed Raymond James Stadium on Sunday, boosting the road team's effort to overcome a 13-0 halftime deficit and a 16-3 fourth-quarter deficit.",
+        "title": "Josh Allen on flicked TD pass to Keon Coleman: \"I was just trying to make a play\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-on-flicked-td-pass-to-keon-coleman-i-was-just-trying-to-make-a-play",
+        "summary": "Midway through the third quarter of Sunday's victory over the Raiders, Bills quarterback Josh Allen made another signature play for a touchdown pass.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 23:12:58 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/70692a1/2147483647/strip/false/crop/3999x2249+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F92%2F7292562a415a89c6ac702840bcff%2F2300383601.jpg"
+        "date": "Mon, 19 Oct 2026 11:17:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f49a454/2147483647/strip/false/crop/4059x2283+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2F02%2Fa8abe11b408b87b1b41482969be7%2F2300869530.jpg"
       },
       {
-        "title": "Todd Monken wants to enjoy the win over the Ravens while he can",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-wants-to-enjoy-the-win-over-the-ravens-while-he-can",
-        "summary": "In Week 1, the Browns were embarrassed by the Jaguars.",
+        "title": "Jalen Hurts has deep vein thrombosis, multiple pulmonary embolisms",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-hurts-has-deep-vein-thrombosis-multiple-pulmonary-embolisms",
+        "summary": "Eagles QB most likely will not play again this season.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 22:33:42 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dfccbc9/2147483647/strip/false/crop/3055x1718+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2F19%2Fce2e4c0840ab9aca795040d8dde5%2F2026-10-18t175749z-659723510-mt1usatoday30123693-rtrmadp-3-nfl-baltimore-ravens-at-cleveland-browns.jpg"
+        "date": "Mon, 19 Oct 2026 11:11:24 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c4781ed/2147483647/strip/false/crop/4060x2284+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2Ffb%2Fea0577364cefabd865fea1c72049%2F2026-10-11t193641z-398305491-mt1usatoday30058245-rtrmadp-3-nfl-philadelphia-eagles-at-jacksonville-jaguars.jpg"
       },
       {
-        "title": "Javonte Williams scores 1-yard TD, Packers still lead Cowboys 17-7",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/javonte-williams-scores-1-yard-td-packers-still-lead-cowboys-17-7",
-        "summary": "The Cowboys are on the board.",
+        "title": "Bengals put Tanner Hudson on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-put-tanner-hudson-on-ir",
+        "summary": "The Bengals have opened up a spot on their 53-man roster as they return from their bye week.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 22:19:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e30d262/2147483647/strip/false/crop/3903x2195+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F18%2F7884f6034b4cbf2311267767b845%2F2300884983.jpg"
+        "date": "Mon, 19 Oct 2026 10:47:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c66d97a/2147483647/strip/false/crop/4592x2583+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2F6f%2Fbbdb79c3448eb11964b93332c6ef%2F2299401006.jpg"
       },
       {
-        "title": "Rams K Blake Grupe left SoFi Stadium with crutches and a brace on his leg",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-k-blake-grupe-left-sofi-stadium-with-crutches-and-a-brace-on-his-leg",
-        "summary": "The Rams signed kicker Blake Grupe after Week 5.",
+        "title": "C.J. Gardner-Johnson faces a potential suspension for spitting",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-gardner-johnson-faces-a-potential-suspension-for-spitting",
+        "summary": "The ejection of Bills safety C.J.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 21:59:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d534dd6/2147483647/strip/false/crop/7240x4073+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Fa1%2Fdb5e5fa246388f9050d5ab865f23%2F2026-10-18t194618z-2015387194-mt1usatoday30124421-rtrmadp-3-nfl-arizona-cardinals-at-los-angeles-rams.jpg"
+        "date": "Mon, 19 Oct 2026 10:22:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f7896a0/2147483647/strip/false/crop/5440x3060+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F52%2Fcc6133464ca38da7441bfd75a169%2F2296910399.jpg"
       },
       {
-        "title": "Sunday Night Football: Jordan Love TD gives Packers 17-0 halftime lead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jordan-love-td-gives-packers-17-0-halftime-lead",
-        "summary": "Jordan Love threw for a touchdown and rushed for one in the first half of Sunday's game against the Cowboys.",
+        "title": "Falcons signing Andy Dalton, cutting Cooper Rush",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-signing-andy-dalton-cutting-cooper-rush",
+        "summary": "The Falcons are making a change in their quarterback room.",
         "source": "nbcsports.com",
-        "date": "Sun, 18 Oct 2026 21:57:22 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c0ead50/2147483647/strip/false/crop/6239x3509+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2Fea%2F519bbb4c43cba999aec5c6232a91%2F2300882963.jpg"
+        "date": "Mon, 19 Oct 2026 09:53:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7617064/2147483647/strip/false/crop/6751x3797+0+351/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F0e%2Fd85099374aa9979f34512875087c%2F2296320547.jpg"
       }
     ]
   }
