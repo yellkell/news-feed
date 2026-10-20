@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-20T03:00:49.828Z",
+  "updated": "2026-10-20T08:26:58.767Z",
   "feed": {
     "VR": [
       {
-        "title": "An unofficial plugin streams Ray-Ban Meta Gen 2 into OBS, and your PC becomes their owner",
-        "url": "https://mixed-news.com/en/meta-g-link-direct-ray-ban-meta-gen-2-obs-camera-pc-owner/",
-        "summary": "An unofficial plugin puts the camera of a pair of Ray-Ban Meta Gen 2 glasses into a live OBS Studio scene on Windows, and the cost is that your phone stops owning the glasses.",
+        "title": "OpenXR Takes a Page From Apple With New Cross-Platform Spatial Multitasking API",
+        "url": "https://roadtovr.com/openxr-apple-vision-pro-multitasking-feature-2026/",
+        "summary": "OpenXR is an open, royalty-free standard which provides a single, unified interface for developing VR and AR applications.",
+        "source": "roadtovr.com",
+        "date": "Tue, 20 Oct 2026 08:19:36 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/openxr-spatial-container.jpg?resize=1812%2C1020&quality=89&ssl=1"
+      },
+      {
+        "title": "Two years in, DRIFTERS: Blackout Crew has a free VR demo and no release date",
+        "url": "https://mixed-news.com/en/drifters-blackout-crew-free-vr-demo-two-years-no-release-date/",
+        "summary": "Salmi Games has put a free demo for DRIFTERS: Blackout Crew on Steam, and the game it comes from still has no release date.",
         "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 02:31:37 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2025/03/Wayfarer-Shiny-Transparent-Limited-Edition-with-Sapphire-Transitions6.png"
+        "date": "Tue, 20 Oct 2026 07:57:09 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_192cbd82a51eecb96774716b311040961f1cebdc.1920x1080.jpg"
       },
       {
         "title": "Halloween 2026: Spooky-Themed VR Game Updates & Events",
@@ -19,20 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/2026vrHalloweenUpdates.png"
       },
       {
-        "title": "‘PAYDAY: Aces High’ Releases November 5th on Quest, Steam Frame & PC VR, Playtest Now Open",
-        "url": "https://roadtovr.com/payday-vr-release-date-quest-steamvr-frame/",
-        "summary": "PAYDAY: Aces High, the VR game set in the Payday universe, is officially set to launch across Quest, PC VR headsets, and Steam Frame next month.",
-        "source": "roadtovr.com",
-        "date": "Mon, 19 Oct 2026 16:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/payday-vr.jpeg?resize=1534%2C863&quality=89&ssl=1"
-      },
-      {
-        "title": "Steam Machine's opt-in 4K 144Hz HDMI mode still costs you VRR on SteamOS 3.9.3",
-        "url": "https://mixed-news.com/en/steam-machine-opt-in-4k-144hz-hdmi-mode-loses-vrr-steamos-3-9-3/",
-        "summary": "Switch a Steam Machine to the native HDMI 2.1 link its own kernel added and a 4K television will take 144Hz, but variable refresh rate stops working on that link altogether.",
+        "title": "Steam's voice chat gain sliders sat broken for 719 days, and the October 16 beta fixed them",
+        "url": "https://mixed-news.com/en/steam-voice-chat-gain-sliders-719-days-11409-11410-closed/",
+        "summary": "Steam's in-game voice chat gain sliders were reported broken on October 30, 2024 and were closed as fixed on October 19, 719 days later.",
         "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 01:15:52 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_52159118573367c304c43fc9ed85588c0c518a19.1920x1080.jpg"
+        "date": "Tue, 20 Oct 2026 07:07:53 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_24952fc1c8779c9a7a555c01489c76f9814f70a7.1920x1080.jpg"
       },
       {
         "title": "Payday: Aces High Releases In November - Demo Out Now For Quest & PC VR",
@@ -43,12 +43,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/payday-aces-high-key-art.jpg"
       },
       {
-        "title": "Steam Frame OLED Version Surfaces in Source Code, Suggesting a Possible Hardware Refresh",
-        "url": "https://roadtovr.com/valve-steam-frame-oled-version-report/",
-        "summary": "Valve’s Steam Frame is barely out the door, but now data mining has reportedly surfaced that an OLED version may already in the works.",
+        "title": "‘PAYDAY: Aces High’ Releases November 5th on Quest, Steam Frame & PC VR, Playtest Now Open",
+        "url": "https://roadtovr.com/payday-vr-release-date-quest-steamvr-frame/",
+        "summary": "PAYDAY: Aces High, the VR game set in the Payday universe, is officially set to launch across Quest, PC VR headsets, and Steam Frame next month.",
         "source": "roadtovr.com",
-        "date": "Thu, 15 Oct 2026 13:15:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steam-frame-hands-on-18.jpg?resize=1920%2C1080&quality=89&ssl=1"
+        "date": "Mon, 19 Oct 2026 16:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/payday-vr.jpeg?resize=1534%2C863&quality=89&ssl=1"
       }
     ],
     "AI": [
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Dan Quinn on viral clip: \"I definitely knew it was fourth down\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-on-viral-clip-i-definitely-knew-it-was-fourth-down",
+        "summary": "The first half of Monday night's game included a failed fourth-and-two play by the Commanders from the San Francisco 13.",
+        "source": "nbcsports.com",
+        "date": "Tue, 20 Oct 2026 00:28:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19bde1c/2147483647/strip/false/crop/4363x2454+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7f%2F3b%2F3779eb424e7190c702d801a154c1%2F2300564186.jpg"
+      },
+      {
+        "title": "NFL has until Tuesday to decide whether to flex Eagles-Commanders out of prime time",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-has-until-tuesday-to-decide-whether-to-flex-eagles-commanders-out-of-prime-time",
+        "summary": "With the Eagles slipping to 2-4 and the Commanders sliding to 1-4-1, the two teams have a Week 8 prime-time date looming.",
+        "source": "nbcsports.com",
+        "date": "Mon, 19 Oct 2026 23:49:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/84c010a/2147483647/strip/false/crop/7412x4169+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F53%2F00a0eef9451caadb64bd19cafba6%2F2295347477.jpg"
+      },
+      {
+        "title": "What's next for Dan Quinn?",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/whats-next-for-dan-quinn",
+        "summary": "At the end of the first half of Monday night's game, with the Commanders down 20-3 and coach Dan Quinn going viral based on a lip-reading clip that was being widely interpreted as…",
+        "source": "nbcsports.com",
+        "date": "Mon, 19 Oct 2026 23:34:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/53350b3/2147483647/strip/false/crop/5924x3332+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2Ffa%2Fd8274c4e40bc97fa9cf02b679ba7%2F2300555315.jpg"
+      },
+      {
+        "title": "Monday Night Football: 49ers hang on for 23-17 win over Commanders",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-49ers-hang-on-for-23-17-win-over-commanders",
+        "summary": "The Commanders had two drives deep into San Francisco territory to win it in the final two minutes.",
+        "source": "nbcsports.com",
+        "date": "Mon, 19 Oct 2026 23:30:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9102dd7/2147483647/strip/false/crop/8069x4539+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Fa3%2F93a2dc344cbcb30859c4b44176ee%2F2300555427.jpg"
+      },
+      {
+        "title": "Stephen Jones: Brian Schottenheimer \"absolutely\" has full support of ownership",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-jones-brian-schottenheimer-absolutely-has-full-support-of-ownership",
+        "summary": "The Cowboys have slumped to 2-4.",
+        "source": "nbcsports.com",
+        "date": "Mon, 19 Oct 2026 23:20:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d562104/2147483647/strip/false/crop/4168x2345+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Ff2%2F6db832a343379e2e8f8a825d9544%2F2300411168.jpg"
+      },
+      {
         "title": "Jayden Daniels' second TD throw pulls Washington within 23-17",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-second-td-throw-pulls-wasington-within-23-17",
         "summary": "The Commanders aren't dead yet.",
         "source": "nbcsports.com",
         "date": "Mon, 19 Oct 2026 22:52:35 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/fdcb3a1/2147483647/strip/false/crop/6328x3560+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F54%2Fa1821625469bb588a04ecb186784%2F2300555407.jpg"
-      },
-      {
-        "title": "49ers WR Mike Evans is questionable to return after aggravating Achilles",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wr-mike-evans-is-quetsionable-to-return-after-aggravating-achilles",
-        "summary": "49ers wide receiver Mike Evans has three catches for 94 yards, but his night might be over.",
-        "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 21:58:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7227fa/2147483647/strip/false/crop/5349x3009+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2Fd4%2F6e77cc58494ea53fce39da2543e7%2F2300552930.jpg"
-      },
-      {
-        "title": "Monday Night Football: 49ers lead 20-3 at halftime, but Mike Evans leaves early",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-49ers-lead-20-3-at-halftime-but-mike-evans-leaves-early",
-        "summary": "The 49ers star wide receiver appeared to aggravate his sore Achilles late in the first half.",
-        "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 21:46:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2978f5d/2147483647/strip/false/crop/5114x2877+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2F8d%2Fb29e4dc649f399ef256fd4139467%2F2026-10-20t014122z-1784441737-mt1usatoday30133378-rtrmadp-3-nfl-washington-commanders-at-san-francisco-49ers.jpg"
-      },
-      {
-        "title": "Steelers to sign WR Marquez Valdes-Scantling to practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-to-sign-wr-marquez-valdes-scantling-to-practice-squad",
-        "summary": "The Steelers are re-signing veteran wide receiver Marquez Valdes-Scantling, Mike DeFabo of TheAthletic.com reports.",
-        "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 21:20:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4df9ab8/2147483647/strip/false/crop/7764x4367+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F87%2F6a%2F1d0ac23a48218d393815f8b207bc%2F2256147444.jpg"
-      },
-      {
-        "title": "Commanders WR Terry McLaurin carted with knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-wr-terry-mclaurin-carted-with-knee-injury",
-        "summary": "The team has ruled out McLaurin, who was injured in the first quarter.",
-        "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 21:04:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed7ca6c/2147483647/strip/false/crop/4425x2489+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F3b%2F623e36004aa8b0cbfbd9f3d15244%2F2026-10-20t003714z-773916359-mt1usatoday30132935-rtrmadp-3-nfl-washington-commanders-at-san-francisco-49ers.jpg"
-      },
-      {
-        "title": "Jim Harbaugh on Mike McDaniel: \"We're looking into everything\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-on-mike-mcdaniel-were-looking-into-everything",
-        "summary": "Chargers offensive coordinator Mike McDaniel remains employed, for now.",
-        "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 20:57:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e1fd084/2147483647/strip/false/crop/2543x1430+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2Fc4%2F5eaa179541bc8988e81d37ef997a%2F2300397415.jpg"
       }
     ]
   }
