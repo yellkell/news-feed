@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-19T23:55:45.637Z",
+  "updated": "2026-10-20T03:00:49.828Z",
   "feed": {
     "VR": [
       {
-        "title": "Steam still will not run CachyOS's native Proton build, and the merged fix only logs an error",
-        "url": "https://mixed-news.com/en/steam-container-client-cachyos-proton-usr-reaper-pull-request-6/",
-        "summary": "Steam's experimental container client will not launch a Proton build installed in /usr, and it refuses without writing a word to any log.",
+        "title": "An unofficial plugin streams Ray-Ban Meta Gen 2 into OBS, and your PC becomes their owner",
+        "url": "https://mixed-news.com/en/meta-g-link-direct-ray-ban-meta-gen-2-obs-camera-pc-owner/",
+        "summary": "An unofficial plugin puts the camera of a pair of Ray-Ban Meta Gen 2 glasses into a live OBS Studio scene on Windows, and the cost is that your phone stops owning the glasses.",
         "source": "mixed-news.com",
-        "date": "Mon, 19 Oct 2026 23:05:24 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_320437621741c7be66de4b42d7633b9b0a60fd49.1920x1080.jpg"
+        "date": "Tue, 20 Oct 2026 02:31:37 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2025/03/Wayfarer-Shiny-Transparent-Limited-Edition-with-Sapphire-Transitions6.png"
       },
       {
         "title": "Halloween 2026: Spooky-Themed VR Game Updates & Events",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/payday-vr.jpeg?resize=1534%2C863&quality=89&ssl=1"
       },
       {
-        "title": "PAYDAY: Aces High lands November 5 at $24.99, and its free demo closes on October 26",
-        "url": "https://mixed-news.com/en/payday-aces-high-november-5-24-99-demo-closes-october-26/",
-        "summary": "PAYDAY: Aces High has a release date and a price, and the free demo that arrived with them closes on October 26.",
+        "title": "Steam Machine's opt-in 4K 144Hz HDMI mode still costs you VRR on SteamOS 3.9.3",
+        "url": "https://mixed-news.com/en/steam-machine-opt-in-4k-144hz-hdmi-mode-loses-vrr-steamos-3-9-3/",
+        "summary": "Switch a Steam Machine to the native HDMI 2.1 link its own kernel added and a 4K television will take 144Hz, but variable refresh rate stops working on that link altogether.",
         "source": "mixed-news.com",
-        "date": "Mon, 19 Oct 2026 22:13:03 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_aa92a6f3d850fb0680f1f119207a6b9adcd73579.1920x1080.jpg"
+        "date": "Tue, 20 Oct 2026 01:15:52 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_52159118573367c304c43fc9ed85588c0c518a19.1920x1080.jpg"
       },
       {
         "title": "Payday: Aces High Releases In November - Demo Out Now For Quest & PC VR",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Mike Macdonald calls Zach Charbonnet's return this week \"a possibility\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-calls-zach-charbonnets-return-this-week-a-possibility",
-        "summary": "Seahawks running back Zach Charbonnet could make his 2026 debut on Sunday.",
+        "title": "Jayden Daniels' second TD throw pulls Washington within 23-17",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-second-td-throw-pulls-wasington-within-23-17",
+        "summary": "The Commanders aren't dead yet.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 19:35:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/321f862/2147483647/strip/false/crop/8192x4608+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F2f%2F18fb40aa4bd2a55cd73aee2c0dba%2F2254147021.jpg"
+        "date": "Mon, 19 Oct 2026 22:52:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fdcb3a1/2147483647/strip/false/crop/6328x3560+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F54%2Fa1821625469bb588a04ecb186784%2F2300555407.jpg"
       },
       {
-        "title": "Report: Ravens re-sign K Jake Moody to practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-ravens-re-sign-k-jake-moody-to-practice-squad",
-        "summary": "Jesse Minter did not hide his frustration with Tyler Loop after the kicker missed a 49-yard field goal in the fourth quarter.",
+        "title": "49ers WR Mike Evans is questionable to return after aggravating Achilles",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-wr-mike-evans-is-quetsionable-to-return-after-aggravating-achilles",
+        "summary": "49ers wide receiver Mike Evans has three catches for 94 yards, but his night might be over.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 19:19:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c980610/2147483647/strip/false/crop/5200x2925+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F0b%2Fb56afd6d4a55932387a5e516e267%2F2292206062.jpg"
+        "date": "Mon, 19 Oct 2026 21:58:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a7227fa/2147483647/strip/false/crop/5349x3009+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9f%2Fd4%2F6e77cc58494ea53fce39da2543e7%2F2300552930.jpg"
       },
       {
-        "title": "Packers to sign DT Mazi Smith to their practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-to-sign-dt-mazi-smith-to-their-practice-squad",
-        "summary": "The Packers tried out defensive tackle Mazi Smith on Monday.",
+        "title": "Monday Night Football: 49ers lead 20-3 at halftime, but Mike Evans leaves early",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-49ers-lead-20-3-at-halftime-but-mike-evans-leaves-early",
+        "summary": "The 49ers star wide receiver appeared to aggravate his sore Achilles late in the first half.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 19:06:24 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ada32fd/2147483647/strip/false/crop/8192x4608+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8d%2F81%2F04dc87a842f880b980649d45ab18%2F2243898940.jpg"
+        "date": "Mon, 19 Oct 2026 21:46:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2978f5d/2147483647/strip/false/crop/5114x2877+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2F8d%2Fb29e4dc649f399ef256fd4139467%2F2026-10-20t014122z-1784441737-mt1usatoday30133378-rtrmadp-3-nfl-washington-commanders-at-san-francisco-49ers.jpg"
       },
       {
-        "title": "Monday Night Football: 49ers WR Mike Evans, Commanders WR Stefon Diggs are active",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-49ers-wr-mike-evans-commanders-wr-stefon-diggs-are-active",
-        "summary": "The 49ers will have star wide receiver Mike Evans for Monday Night Football.",
+        "title": "Steelers to sign WR Marquez Valdes-Scantling to practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-to-sign-wr-marquez-valdes-scantling-to-practice-squad",
+        "summary": "The Steelers are re-signing veteran wide receiver Marquez Valdes-Scantling, Mike DeFabo of TheAthletic.com reports.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 19:01:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d703fac/2147483647/strip/false/crop/6710x3774+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F41%2F81be430c42a5ae2a1c8ac9ee7ed4%2F2300753745.jpg"
+        "date": "Mon, 19 Oct 2026 21:20:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4df9ab8/2147483647/strip/false/crop/7764x4367+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F87%2F6a%2F1d0ac23a48218d393815f8b207bc%2F2256147444.jpg"
       },
       {
-        "title": "Brandon McManus, Matt Prater to work out for Rams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-mcmanus-matt-prater-to-work-out-for-rams",
-        "summary": "The Rams are bringing in a pair of veteran kickers for a workout on Tuesday.",
+        "title": "Commanders WR Terry McLaurin carted with knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-wr-terry-mclaurin-carted-with-knee-injury",
+        "summary": "The team has ruled out McLaurin, who was injured in the first quarter.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 18:42:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b9581fe/2147483647/strip/false/crop/7956x4475+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F68%2Fcd%2F5d5a4da94d699fea72ca6a35a426%2F2256075314.jpg"
+        "date": "Mon, 19 Oct 2026 21:04:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ed7ca6c/2147483647/strip/false/crop/4425x2489+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F3b%2F623e36004aa8b0cbfbd9f3d15244%2F2026-10-20t003714z-773916359-mt1usatoday30132935-rtrmadp-3-nfl-washington-commanders-at-san-francisco-49ers.jpg"
       },
       {
-        "title": "The goal of team doctors shouldn't be to help players \"be available\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-goal-of-team-doctors-shouldnt-be-to-help-players-be-available",
-        "summary": "Doctors need to treat players as patients, regardless of whether that means they won't be able to play.",
+        "title": "Jim Harbaugh on Mike McDaniel: \"We're looking into everything\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-on-mike-mcdaniel-were-looking-into-everything",
+        "summary": "Chargers offensive coordinator Mike McDaniel remains employed, for now.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 18:20:12 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5fd1e9e/2147483647/strip/false/crop/5777x3250+0+301/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2Fe4%2Ff85ddc6649aaae2fa37f833f1874%2F2298786446.jpg"
+        "date": "Mon, 19 Oct 2026 20:57:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e1fd084/2147483647/strip/false/crop/2543x1430+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2Fc4%2F5eaa179541bc8988e81d37ef997a%2F2300397415.jpg"
       }
     ]
   }
