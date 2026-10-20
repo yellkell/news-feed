@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-20T08:26:58.767Z",
+  "updated": "2026-10-20T13:44:47.398Z",
   "feed": {
     "VR": [
       {
-        "title": "OpenXR Takes a Page From Apple With New Cross-Platform Spatial Multitasking API",
-        "url": "https://roadtovr.com/openxr-apple-vision-pro-multitasking-feature-2026/",
-        "summary": "OpenXR is an open, royalty-free standard which provides a single, unified interface for developing VR and AR applications.",
+        "title": "Steam Next Fest Hosts 40+ PC VR Game Demos Until October 26th",
+        "url": "https://roadtovr.com/steam-next-fest-vr-demos-oct-2026/",
+        "summary": "Steam Next Fest is live, going from now until October 26th and serving up gads of PC VR demos to play.",
         "source": "roadtovr.com",
-        "date": "Tue, 20 Oct 2026 08:19:36 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/openxr-spatial-container.jpg?resize=1812%2C1020&quality=89&ssl=1"
+        "date": "Tue, 20 Oct 2026 13:30:31 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/steam-next-fest.jpg?resize=1024%2C576&quality=89&ssl=1"
       },
       {
-        "title": "Two years in, DRIFTERS: Blackout Crew has a free VR demo and no release date",
-        "url": "https://mixed-news.com/en/drifters-blackout-crew-free-vr-demo-two-years-no-release-date/",
-        "summary": "Salmi Games has put a free demo for DRIFTERS: Blackout Crew on Steam, and the game it comes from still has no release date.",
+        "title": "Reading all of Claude's output would take half an Anthropic worker's week",
+        "url": "https://mixed-news.com/en/anthropic-claude-output-half-work-week-meta-work/",
+        "summary": "Reading everything their Claude agents write would take Anthropic's non-technical employees more than half their working week, and the company has published the arithmetic behind…",
         "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 07:57:09 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_192cbd82a51eecb96774716b311040961f1cebdc.1920x1080.jpg"
+        "date": "Tue, 20 Oct 2026 11:53:01 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/042b829f8c8850b596dfb6feaa323d1e911b21bb-1920x1080-1.png"
       },
       {
         "title": "Halloween 2026: Spooky-Themed VR Game Updates & Events",
@@ -27,12 +27,20 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/2026vrHalloweenUpdates.png"
       },
       {
-        "title": "Steam's voice chat gain sliders sat broken for 719 days, and the October 16 beta fixed them",
-        "url": "https://mixed-news.com/en/steam-voice-chat-gain-sliders-719-days-11409-11410-closed/",
-        "summary": "Steam's in-game voice chat gain sliders were reported broken on October 30, 2024 and were closed as fixed on October 19, 719 days later.",
+        "title": "Valve switched SteamOS's Wi-Fi backend for new installs, and your upgrade keeps the old one",
+        "url": "https://mixed-news.com/en/steamos-3-9-wifi-backend-wpa-supplicant-new-installs-iwd-13643/",
+        "summary": "SteamOS 3.9 hands a freshly installed machine a different Wi-Fi backend, and it does not touch a machine that got there by updating.",
         "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 07:07:53 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_24952fc1c8779c9a7a555c01489c76f9814f70a7.1920x1080.jpg"
+        "date": "Tue, 20 Oct 2026 10:52:56 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_9c500124c060f162f111afa679bf5d3a32b3fb40.1920x1080.jpg"
+      },
+      {
+        "title": "OpenXR Takes a Page From Apple With New Cross-Platform Spatial Multitasking API",
+        "url": "https://roadtovr.com/openxr-apple-vision-pro-multitasking-feature-2026/",
+        "summary": "OpenXR is an open, royalty-free standard which provides a single, unified interface for developing VR and AR applications.",
+        "source": "roadtovr.com",
+        "date": "Tue, 20 Oct 2026 08:19:36 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/openxr-spatial-container.jpg?resize=1812%2C1020&quality=89&ssl=1"
       },
       {
         "title": "Payday: Aces High Releases In November - Demo Out Now For Quest & PC VR",
@@ -41,17 +49,25 @@
         "source": "uploadvr.com",
         "date": "Mon, 19 Oct 2026 10:00:00 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/payday-aces-high-key-art.jpg"
-      },
-      {
-        "title": "‘PAYDAY: Aces High’ Releases November 5th on Quest, Steam Frame & PC VR, Playtest Now Open",
-        "url": "https://roadtovr.com/payday-vr-release-date-quest-steamvr-frame/",
-        "summary": "PAYDAY: Aces High, the VR game set in the Payday universe, is officially set to launch across Quest, PC VR headsets, and Steam Frame next month.",
-        "source": "roadtovr.com",
-        "date": "Mon, 19 Oct 2026 16:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/payday-vr.jpeg?resize=1534%2C863&quality=89&ssl=1"
       }
     ],
     "AI": [
+      {
+        "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+        "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+        "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single…",
+        "source": "theverge.com",
+        "date": "2026-10-20T09:06:44-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+        "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+        "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+        "source": "arstechnica.com",
+        "date": "Tue, 20 Oct 2026 12:33:13 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg"
+      },
       {
         "title": "The fossil fuel comeback is here",
         "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Mon, 19 Oct 2026 18:30:56 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties.jpg"
-      },
-      {
-        "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-        "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-        "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running…",
-        "source": "theverge.com",
-        "date": "2026-10-19T10:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-        "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-        "source": "arstechnica.com",
-        "date": "Fri, 16 Oct 2026 20:59:01 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Dan Quinn on viral clip: \"I definitely knew it was fourth down\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-on-viral-clip-i-definitely-knew-it-was-fourth-down",
-        "summary": "The first half of Monday night's game included a failed fourth-and-two play by the Commanders from the San Francisco 13.",
+        "title": "U2 to perform at halftime on Thanksgiving Eve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u2-to-perform-at-halftime-on-thanksgiving-eve",
+        "summary": "U2 performed a memorable halftime show in New Orleans at Super Bowl XXXVI in 2002 and they will be back on a football field for a brief concert later this year.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 00:28:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/19bde1c/2147483647/strip/false/crop/4363x2454+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7f%2F3b%2F3779eb424e7190c702d801a154c1%2F2300564186.jpg"
+        "date": "Tue, 20 Oct 2026 09:15:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d4987e/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F8a%2Fb7ed022646b6ae4bf95f5a594f19%2F2286279772.jpg"
       },
       {
-        "title": "NFL has until Tuesday to decide whether to flex Eagles-Commanders out of prime time",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-has-until-tuesday-to-decide-whether-to-flex-eagles-commanders-out-of-prime-time",
-        "summary": "With the Eagles slipping to 2-4 and the Commanders sliding to 1-4-1, the two teams have a Week 8 prime-time date looming.",
+        "title": "PFT's Week 7 2026 NFL power rankings",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-7-2026-nfl-power-rankings",
+        "summary": "The Niners stay on top.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 23:49:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/84c010a/2147483647/strip/false/crop/7412x4169+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F53%2F00a0eef9451caadb64bd19cafba6%2F2295347477.jpg"
+        "date": "Tue, 20 Oct 2026 09:11:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a909fc2/2147483647/strip/false/crop/3457x1945+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F19%2Fe906a78f4b5a8d89aba36564af07%2F2301050053.jpg"
       },
       {
-        "title": "What's next for Dan Quinn?",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/whats-next-for-dan-quinn",
-        "summary": "At the end of the first half of Monday night's game, with the Commanders down 20-3 and coach Dan Quinn going viral based on a lip-reading clip that was being widely interpreted as…",
+        "title": "John Harbaugh on RB timeshare: Someone has to \"do something\" to earn job",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-on-rb-timeshare-someone-has-to-do-something-to-earn-job",
+        "summary": "Giants running backs ran 14 times for 34 yards in last Sunday's loss to the Saints and one of their backs said after the game that he thinks the rotation of backs is working…",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 23:34:01 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/53350b3/2147483647/strip/false/crop/5924x3332+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2Ffa%2Fd8274c4e40bc97fa9cf02b679ba7%2F2300555315.jpg"
+        "date": "Tue, 20 Oct 2026 08:38:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/678a613/2147483647/strip/false/crop/5453x3067+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Fcf%2F27bb63fc409f80a7e5552c59c1f0%2F2301027396.jpg"
       },
       {
-        "title": "Monday Night Football: 49ers hang on for 23-17 win over Commanders",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-49ers-hang-on-for-23-17-win-over-commanders",
-        "summary": "The Commanders had two drives deep into San Francisco territory to win it in the final two minutes.",
+        "title": "Cardinals' two wins are the two biggest upsets in the NFL this season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-two-wins-are-the-two-biggest-upsets-in-the-nfl-this-season",
+        "summary": "The Cardinals are only 2-4, but their two wins have been big ones.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 23:30:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9102dd7/2147483647/strip/false/crop/8069x4539+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Fa3%2F93a2dc344cbcb30859c4b44176ee%2F2300555427.jpg"
+        "date": "Tue, 20 Oct 2026 08:16:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c3270aa/2147483647/strip/false/crop/4000x2250+0+62/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Ff7%2F18a44f7243fb80dc0acf3ef67ccf%2F2300541099.jpg"
       },
       {
-        "title": "Stephen Jones: Brian Schottenheimer \"absolutely\" has full support of ownership",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-jones-brian-schottenheimer-absolutely-has-full-support-of-ownership",
-        "summary": "The Cowboys have slumped to 2-4.",
+        "title": "Brock Purdy is the NFL's all-time record holder for highest career passer rating",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-is-the-nfls-all-time-record-holder-for-highest-career-passer-rating",
+        "summary": "The NFL has a new all-time record holder for highest career passer rating: Brock Purdy.",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 23:20:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d562104/2147483647/strip/false/crop/4168x2345+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Ff2%2F6db832a343379e2e8f8a825d9544%2F2300411168.jpg"
+        "date": "Tue, 20 Oct 2026 07:48:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e3a2ca/2147483647/strip/false/crop/5895x3316+0+308/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2Fa7%2Fce50ad41478d94ed89bb302bacd2%2F2300564252.jpg"
       },
       {
-        "title": "Jayden Daniels' second TD throw pulls Washington within 23-17",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-second-td-throw-pulls-wasington-within-23-17",
-        "summary": "The Commanders aren't dead yet.",
+        "title": "Terry McLaurin believed to have season-ending knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-believed-to-have-season-ending-knee-injury",
+        "summary": "Commanders wide receiver Terry McLaurin had to be carted off the field with an air cast on his left knee on Monday night and the image didn't do much to conjure up hopes of a quick…",
         "source": "nbcsports.com",
-        "date": "Mon, 19 Oct 2026 22:52:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fdcb3a1/2147483647/strip/false/crop/6328x3560+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F54%2Fa1821625469bb588a04ecb186784%2F2300555407.jpg"
+        "date": "Tue, 20 Oct 2026 07:17:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fbe41ab/2147483647/strip/false/crop/7082x3984+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2Ff0%2F067d9801401db00ee6a0af8cd757%2F2300555424.jpg"
       }
     ]
   }
