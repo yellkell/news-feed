@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-20T18:07:04.228Z",
+  "updated": "2026-10-20T21:33:54.011Z",
   "feed": {
     "VR": [
       {
-        "title": "Steam's beta client cannot see your games under /var because it now runs in a container",
-        "url": "https://mixed-news.com/en/steam-container-client-var-game-library-not-mounted-13743/",
-        "summary": "A Steam library kept under /var disappears from the Linux beta client, with its installed games showing an Install button instead of Play and the client's own log calling each…",
+        "title": "At least 42 VR games carry Valve's Next Fest banner, and five clash with their own demo",
+        "url": "https://mixed-news.com/en/steam-next-fest-42-vr-games-valve-fest-banner-demos/",
+        "summary": "Steam Next Fest is running until October 26, and 42 VR games carried Valve's own fest banner with an installable demo when their store pages were read on October 19 between 19:15…",
         "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 17:49:10 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_09a1e99c47ba7ffb2413c4708a9f5fbef1397652.1920x1080.jpg"
+        "date": "Tue, 20 Oct 2026 21:06:07 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_607a3ed056768f6e21e8a73fd6af88f85ed1b12d.1920x1080.jpg"
+      },
+      {
+        "title": "VR Co-Op Action Shooter Titan Isles Adds A New Combat Exo Suit In Latest Update",
+        "url": "https://www.uploadvr.com/vr-co-op-action-shooter-titan-isles-adds-a-new-combat-exo-suit-in-latest-update/",
+        "summary": "The latest update for VR co-op adventure Titan Isles adds a fifth exo suit style for the game's large scale combat action.",
+        "source": "uploadvr.com",
+        "date": "Tue, 20 Oct 2026 13:14:08 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/titan-isles-key-art.png"
       },
       {
         "title": "Steam Next Fest Hosts 40+ PC VR Game Demos Until October 26th",
@@ -19,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/steam-next-fest.jpg?resize=1024%2C576&quality=89&ssl=1"
       },
       {
-        "title": "Halloween 2026: Spooky-Themed VR Game Updates & Events",
-        "url": "https://www.uploadvr.com/halloween-themed-vr-game-updates-and-events-2026/",
-        "summary": "Here's our ongoing roundup of Halloween-themed VR updates available now. We will update this list throughout October.",
+        "title": "Meta Expands SDKs To Boost Spatial Apps On Quest & VR Glasses, Including NBA, Disney+",
+        "url": "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/",
+        "summary": "Meta announced several new SDKs and features to enhance spatial apps on Quest and Meta VR Glasses, alongside major spatial updates for the NBA and Disney+ apps.",
         "source": "uploadvr.com",
-        "date": "Mon, 19 Oct 2026 15:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/2026vrHalloweenUpdates.png"
+        "date": "Tue, 20 Oct 2026 13:13:53 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb22.png"
       },
       {
-        "title": "An unofficial RayNeo iO emulator runs the stock firmware on a Mac, but its core stays private",
-        "url": "https://mixed-news.com/en/rayneo-io-on-mac-emulator-stock-firmware-open-shell-closed-core/",
-        "summary": "An unofficial project published on October 19 boots the unmodified stock firmware of RayNeo’s iO glasses inside an emulator on a Mac and puts the glasses’ real display output in a…",
+        "title": "Three owners say a Steam Machine kills HDMI-CEC on the TV, and one of them blames Samsung",
+        "url": "https://mixed-news.com/en/steam-machine-breaks-hdmi-cec-other-devices-samsung-2817/",
+        "summary": "Turn a Steam Machine on and it stops HDMI-CEC working for every other device plugged into the television, three owners say in a report open on Valve's SteamOS tracker since…",
         "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 16:51:03 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2024/02/The-RayNeo-X2-AR-glasses-rest-in-front-of-the-X2-logo.jpg"
+        "date": "Tue, 20 Oct 2026 19:57:22 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_2b1478c28ebdf38b5f8d82de0d72227cdaaf7bbb.1920x1080.jpg"
       },
       {
         "title": "OpenXR Takes a Page From Apple With New Cross-Platform Spatial Multitasking API",
@@ -41,17 +49,25 @@
         "source": "roadtovr.com",
         "date": "Tue, 20 Oct 2026 08:19:36 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/openxr-spatial-container.jpg?resize=1812%2C1020&quality=89&ssl=1"
-      },
-      {
-        "title": "Payday: Aces High Releases In November - Demo Out Now For Quest & PC VR",
-        "url": "https://www.uploadvr.com/payday-aces-high-releases-in-november-demo-out-now-for-quest-pc-vr/",
-        "summary": "Payday: Aces High launches November 5 for PC VR & Quest, with a free demo available now through October 26 on both platforms.",
-        "source": "uploadvr.com",
-        "date": "Mon, 19 Oct 2026 10:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/payday-aces-high-key-art.jpg"
       }
     ],
     "AI": [
+      {
+        "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+        "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+        "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+        "source": "arstechnica.com",
+        "date": "Tue, 20 Oct 2026 19:47:35 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg"
+      },
+      {
+        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+        "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+        "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars…",
+        "source": "theverge.com",
+        "date": "2026-10-20T14:07:34-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
       {
         "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
         "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Mon, 19 Oct 2026 19:39:19 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp"
-      },
-      {
-        "title": "The fossil fuel comeback is here",
-        "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-        "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.",
-        "source": "theverge.com",
-        "date": "2026-10-19T17:48:01-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "ReactOS reaches major milestone with NTFS install support",
-        "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
-        "summary": "ReactOS gains NTFS install support with new driver.",
-        "source": "arstechnica.com",
-        "date": "Mon, 19 Oct 2026 18:30:56 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Dolphins sign Rodney McGraw to 53-man roster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-rodney-mcgraw-to-53-man-roster",
-        "summary": "The Dolphins have announced a few roster moves on Tuesday.",
+        "title": "Giants sign LB Trace Ford to active roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-lb-trace-ford-to-active-roster",
+        "summary": "The Giants announced a series of roster moves on Tuesday afternoon.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 13:55:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e968813/2147483647/strip/false/crop/7734x4350+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2F8d%2F4fe6c3084054bb130a958481370b%2F2298994976.jpg"
+        "date": "Tue, 20 Oct 2026 17:27:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bcc6dab/2147483647/strip/false/crop/3218x1810+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2Feb%2Ffadd2d8b42538ba2bd6583436ca2%2F2301028224.jpg"
       },
       {
-        "title": "Zach Sieler: I love it here, I want to win as a Dolphin",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zach-sieler-i-love-it-here-i-want-to-win-as-a-dolphin",
-        "summary": "The Dolphins parted ways with a lot of veteran players heading into the 2026 season, but defensive tackle Zach Sieler was not one of them.",
+        "title": "Owners approve Arctos purchasing a limited stake in the Falcons",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/owners-approve-arctos-purchasing-a-limited-stake-in-the-falcons",
+        "summary": "NFL owners approved Arctos' purchase of a limited stake in the Falcons on Tuesday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 13:36:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0669f25/2147483647/strip/false/crop/5211x2931+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2F10%2F82f45d0142e8b53c5da93e3d89a5%2F2300358934.jpg"
+        "date": "Tue, 20 Oct 2026 16:58:23 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b316b8e/2147483647/strip/false/crop/5200x2925+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F85%2F14f44c5f4ecdb2d0596a032e18d0%2F2299226389.jpg"
       },
       {
-        "title": "Brian Flores declines to discuss Korn Ferry document that was made public last week",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-flores-declines-to-discuss-korn-ferry-document-that-was-made-public-last-week",
-        "summary": "Vikings defensive coordinator wisely avoids talking about the case.",
+        "title": "Rams add K Brandon McManus",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-add-k-brandon-mcmanus",
+        "summary": "The Rams have found a new kicker.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 13:26:14 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ae7167/2147483647/strip/false/crop/7656x4307+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2Fa6%2F85753d1e4f4e90cac06767af46ea%2F2298052372.jpg"
+        "date": "Tue, 20 Oct 2026 16:56:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/449355b/2147483647/strip/false/crop/5554x3124+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2Fe0%2F8982f6df4dea9390172260a0b59b%2F2248437495.jpg"
       },
       {
-        "title": "The no-sleep issue is just another confusing part of the Jalen Hurts story",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-no-sleep-issue-is-just-another-confusing-part-of-the-jalen-hurts-story",
-        "summary": "The absence of complete information about the events that led to Eagles quarterback Jalen Hurts traveling to London with a blood clot in his leg, playing with a blood clot in his…",
+        "title": "League reportedly concludes Jalen Hurts's blood clot \"was handled appropriately\" before Week 5 game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/league-reportedly-concludes-jalen-hurtss-blood-clot-was-handled-appropriately-before-week-5-game",
+        "summary": "NFL, Eagles were and are in lockstep on situation that has many unanswered questions.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 13:08:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/094d8c3/2147483647/strip/false/crop/1424x801+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F85%2F83%2F2a4d084649279f729583c32d6589%2F2026-10-11t143739z-1163654882-up1emab14mqq8-rtrmadp-3-football-nfl-phi-jac.jpg"
+        "date": "Tue, 20 Oct 2026 16:56:20 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ab9ea8/2147483647/strip/false/crop/4929x2773+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2Fe2%2F18cf82fb4641a84a900e9c43af4c%2F2299178404.jpg"
       },
       {
-        "title": "Report: Umpire Larry Smith out for season after slipping on Wembley Stadium grass",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-umpire-larry-smith-out-for-season-after-slipping-on-wembley-stadium-grass",
-        "summary": "NFL official Larry Smith suffered a season-ending injury on Sunday in London.",
+        "title": "Caleb Williams has gone from 32nd last year to first this year in completion percentage",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-has-gone-from-32nd-last-year-to-first-this-year-in-completion-percentage",
+        "summary": "Bears quarterback Caleb Williams is a different player in 2026.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 12:51:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/17172e6/2147483647/strip/false/crop/5678x3194+0+251/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2Fb3%2F3f53ec044d23a4fe18acd80917d9%2F2300808831.jpg"
+        "date": "Tue, 20 Oct 2026 16:35:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/782a3f7/2147483647/strip/false/crop/5777x3250+0+301/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F1c%2F2068fc054a0a887c7f714287f746%2F2300536405.jpg"
       },
       {
-        "title": "Saints arrive in Paris for Sunday's game against Steelers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-arrive-in-paris-for-sundays-game-against-steelers",
-        "summary": "Amid ongoing local unrest that has sparked full-blown riots, the NFL is pushing forward with its first-ever game in Paris.",
+        "title": "Falcons release LB Bralen Trice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-release-lb-bralen-trice",
+        "summary": "With word emerging earlier on Tuesday that the Falcons were adding linebacker Charles Snowden, Atlanta has opened a roster spot.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 12:34:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1133963/2147483647/strip/false/crop/5450x3066+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F70%2Ffb5159fa4f3cb80a6a60d8778154%2F2300600503.jpg"
+        "date": "Tue, 20 Oct 2026 16:34:32 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d242c71/2147483647/strip/false/crop/6295x3541+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2F22%2Fbd610e8f423da625aaba4a0b39a7%2F2297808263.jpg"
       }
     ]
   }
