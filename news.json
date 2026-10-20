@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-20T13:44:47.398Z",
+  "updated": "2026-10-20T18:07:04.228Z",
   "feed": {
     "VR": [
+      {
+        "title": "Steam's beta client cannot see your games under /var because it now runs in a container",
+        "url": "https://mixed-news.com/en/steam-container-client-var-game-library-not-mounted-13743/",
+        "summary": "A Steam library kept under /var disappears from the Linux beta client, with its installed games showing an Install button instead of Play and the client's own log calling each…",
+        "source": "mixed-news.com",
+        "date": "Tue, 20 Oct 2026 17:49:10 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_09a1e99c47ba7ffb2413c4708a9f5fbef1397652.1920x1080.jpg"
+      },
       {
         "title": "Steam Next Fest Hosts 40+ PC VR Game Demos Until October 26th",
         "url": "https://roadtovr.com/steam-next-fest-vr-demos-oct-2026/",
@@ -9,14 +17,6 @@
         "source": "roadtovr.com",
         "date": "Tue, 20 Oct 2026 13:30:31 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/steam-next-fest.jpg?resize=1024%2C576&quality=89&ssl=1"
-      },
-      {
-        "title": "Reading all of Claude's output would take half an Anthropic worker's week",
-        "url": "https://mixed-news.com/en/anthropic-claude-output-half-work-week-meta-work/",
-        "summary": "Reading everything their Claude agents write would take Anthropic's non-technical employees more than half their working week, and the company has published the arithmetic behind…",
-        "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 11:53:01 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/042b829f8c8850b596dfb6feaa323d1e911b21bb-1920x1080-1.png"
       },
       {
         "title": "Halloween 2026: Spooky-Themed VR Game Updates & Events",
@@ -27,12 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/2026vrHalloweenUpdates.png"
       },
       {
-        "title": "Valve switched SteamOS's Wi-Fi backend for new installs, and your upgrade keeps the old one",
-        "url": "https://mixed-news.com/en/steamos-3-9-wifi-backend-wpa-supplicant-new-installs-iwd-13643/",
-        "summary": "SteamOS 3.9 hands a freshly installed machine a different Wi-Fi backend, and it does not touch a machine that got there by updating.",
+        "title": "An unofficial RayNeo iO emulator runs the stock firmware on a Mac, but its core stays private",
+        "url": "https://mixed-news.com/en/rayneo-io-on-mac-emulator-stock-firmware-open-shell-closed-core/",
+        "summary": "An unofficial project published on October 19 boots the unmodified stock firmware of RayNeo’s iO glasses inside an emulator on a Mac and puts the glasses’ real display output in a…",
         "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 10:52:56 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_9c500124c060f162f111afa679bf5d3a32b3fb40.1920x1080.jpg"
+        "date": "Tue, 20 Oct 2026 16:51:03 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2024/02/The-RayNeo-X2-AR-glasses-rest-in-front-of-the-X2-logo.jpg"
       },
       {
         "title": "OpenXR Takes a Page From Apple With New Cross-Platform Spatial Multitasking API",
@@ -53,28 +53,28 @@
     ],
     "AI": [
       {
+        "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+        "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+        "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year.",
+        "source": "theverge.com",
+        "date": "2026-10-20T10:18:37-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+        "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+        "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+        "source": "arstechnica.com",
+        "date": "Tue, 20 Oct 2026 12:33:13 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg"
+      },
+      {
         "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
         "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
         "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single…",
         "source": "theverge.com",
         "date": "2026-10-20T09:06:44-04:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-        "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-        "summary": "A single query is all that's required to find thousands of conversations listed by title.",
-        "source": "arstechnica.com",
-        "date": "Tue, 20 Oct 2026 12:33:13 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg"
-      },
-      {
-        "title": "The fossil fuel comeback is here",
-        "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-        "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.",
-        "source": "theverge.com",
-        "date": "2026-10-19T17:48:01-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PSA: Patch your Plex media server before someone hacks it",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp"
       },
       {
-        "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-        "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from…",
+        "title": "The fossil fuel comeback is here",
+        "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+        "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.",
         "source": "theverge.com",
-        "date": "2026-10-19T17:28:20-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-19T17:48:01-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "ReactOS reaches major milestone with NTFS install support",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "U2 to perform at halftime on Thanksgiving Eve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/u2-to-perform-at-halftime-on-thanksgiving-eve",
-        "summary": "U2 performed a memorable halftime show in New Orleans at Super Bowl XXXVI in 2002 and they will be back on a football field for a brief concert later this year.",
+        "title": "Dolphins sign Rodney McGraw to 53-man roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-rodney-mcgraw-to-53-man-roster",
+        "summary": "The Dolphins have announced a few roster moves on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 09:15:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9d4987e/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F8a%2Fb7ed022646b6ae4bf95f5a594f19%2F2286279772.jpg"
+        "date": "Tue, 20 Oct 2026 13:55:07 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e968813/2147483647/strip/false/crop/7734x4350+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9e%2F8d%2F4fe6c3084054bb130a958481370b%2F2298994976.jpg"
       },
       {
-        "title": "PFT's Week 7 2026 NFL power rankings",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-7-2026-nfl-power-rankings",
-        "summary": "The Niners stay on top.",
+        "title": "Zach Sieler: I love it here, I want to win as a Dolphin",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zach-sieler-i-love-it-here-i-want-to-win-as-a-dolphin",
+        "summary": "The Dolphins parted ways with a lot of veteran players heading into the 2026 season, but defensive tackle Zach Sieler was not one of them.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 09:11:56 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a909fc2/2147483647/strip/false/crop/3457x1945+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2F19%2Fe906a78f4b5a8d89aba36564af07%2F2301050053.jpg"
+        "date": "Tue, 20 Oct 2026 13:36:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0669f25/2147483647/strip/false/crop/5211x2931+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2F10%2F82f45d0142e8b53c5da93e3d89a5%2F2300358934.jpg"
       },
       {
-        "title": "John Harbaugh on RB timeshare: Someone has to \"do something\" to earn job",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-on-rb-timeshare-someone-has-to-do-something-to-earn-job",
-        "summary": "Giants running backs ran 14 times for 34 yards in last Sunday's loss to the Saints and one of their backs said after the game that he thinks the rotation of backs is working…",
+        "title": "Brian Flores declines to discuss Korn Ferry document that was made public last week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-flores-declines-to-discuss-korn-ferry-document-that-was-made-public-last-week",
+        "summary": "Vikings defensive coordinator wisely avoids talking about the case.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 08:38:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/678a613/2147483647/strip/false/crop/5453x3067+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Fcf%2F27bb63fc409f80a7e5552c59c1f0%2F2301027396.jpg"
+        "date": "Tue, 20 Oct 2026 13:26:14 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ae7167/2147483647/strip/false/crop/7656x4307+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4a%2Fa6%2F85753d1e4f4e90cac06767af46ea%2F2298052372.jpg"
       },
       {
-        "title": "Cardinals' two wins are the two biggest upsets in the NFL this season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-two-wins-are-the-two-biggest-upsets-in-the-nfl-this-season",
-        "summary": "The Cardinals are only 2-4, but their two wins have been big ones.",
+        "title": "The no-sleep issue is just another confusing part of the Jalen Hurts story",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-no-sleep-issue-is-just-another-confusing-part-of-the-jalen-hurts-story",
+        "summary": "The absence of complete information about the events that led to Eagles quarterback Jalen Hurts traveling to London with a blood clot in his leg, playing with a blood clot in his…",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 08:16:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c3270aa/2147483647/strip/false/crop/4000x2250+0+62/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Ff7%2F18a44f7243fb80dc0acf3ef67ccf%2F2300541099.jpg"
+        "date": "Tue, 20 Oct 2026 13:08:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/094d8c3/2147483647/strip/false/crop/1424x801+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F85%2F83%2F2a4d084649279f729583c32d6589%2F2026-10-11t143739z-1163654882-up1emab14mqq8-rtrmadp-3-football-nfl-phi-jac.jpg"
       },
       {
-        "title": "Brock Purdy is the NFL's all-time record holder for highest career passer rating",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-purdy-is-the-nfls-all-time-record-holder-for-highest-career-passer-rating",
-        "summary": "The NFL has a new all-time record holder for highest career passer rating: Brock Purdy.",
+        "title": "Report: Umpire Larry Smith out for season after slipping on Wembley Stadium grass",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-umpire-larry-smith-out-for-season-after-slipping-on-wembley-stadium-grass",
+        "summary": "NFL official Larry Smith suffered a season-ending injury on Sunday in London.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 07:48:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e3a2ca/2147483647/strip/false/crop/5895x3316+0+308/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2Fa7%2Fce50ad41478d94ed89bb302bacd2%2F2300564252.jpg"
+        "date": "Tue, 20 Oct 2026 12:51:45 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/17172e6/2147483647/strip/false/crop/5678x3194+0+251/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2Fb3%2F3f53ec044d23a4fe18acd80917d9%2F2300808831.jpg"
       },
       {
-        "title": "Terry McLaurin believed to have season-ending knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-believed-to-have-season-ending-knee-injury",
-        "summary": "Commanders wide receiver Terry McLaurin had to be carted off the field with an air cast on his left knee on Monday night and the image didn't do much to conjure up hopes of a quick…",
+        "title": "Saints arrive in Paris for Sunday's game against Steelers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-arrive-in-paris-for-sundays-game-against-steelers",
+        "summary": "Amid ongoing local unrest that has sparked full-blown riots, the NFL is pushing forward with its first-ever game in Paris.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 07:17:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fbe41ab/2147483647/strip/false/crop/7082x3984+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2Ff0%2F067d9801401db00ee6a0af8cd757%2F2300555424.jpg"
+        "date": "Tue, 20 Oct 2026 12:34:57 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1133963/2147483647/strip/false/crop/5450x3066+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2F70%2Ffb5159fa4f3cb80a6a60d8778154%2F2300600503.jpg"
       }
     ]
   }
