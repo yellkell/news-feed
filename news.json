@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-21T04:40:33.121Z",
+  "updated": "2026-10-21T09:38:07.464Z",
   "feed": {
     "VR": [
       {
-        "title": "SUBSUMED's developer added a free VR mode to the $4.99 horror game, but not Vive wands",
+        "title": "SUBSUMED adds a free VR mode for the whole game, though Vive wands are unsupported",
         "url": "https://mixed-news.com/en/subsumed-free-openxr-vr-mode-vive-wands-unsupported/",
-        "summary": "SUBSUMED is a first-person cave horror game that costs $4.99 in the US on Steam, and on October 19 it gained a VR mode that costs nothing on top.",
+        "summary": "The cave horror game SUBSUMED now has a VR mode, and it costs nothing extra.",
         "source": "mixed-news.com",
         "date": "Wed, 21 Oct 2026 01:47:49 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/fb93fa709617c55c8217924a9171fb81a97158be.png"
@@ -27,9 +27,9 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/steam-next-fest.jpg?resize=1024%2C576&quality=89&ssl=1"
       },
       {
-        "title": "The Last Clockwinder fixes Steam Frame achievements in its first post since February 2025",
+        "title": "The Last Clockwinder gets a Steam Frame patch that fixes achievements",
         "url": "https://mixed-news.com/en/last-clockwinder-steam-frame-achievements-fix-first-post-2025/",
-        "summary": "Steam achievements were not unlocking for The Last Clockwinder players on a Steam Frame, and Pontoco's patch note says they now do.",
+        "summary": "Steam achievements now unlock in The Last Clockwinder when it is played on a Steam Frame.",
         "source": "mixed-news.com",
         "date": "Wed, 21 Oct 2026 01:00:01 +0000",
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_2c8e3a0ab88599ca8d456bc9f7dd992eb81eaed0.1920x1080.jpg"
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Dan Quinn tells Jayden Daniels to \"take your shot\" even then there's a penalty flag on the field",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-tells-jayden-daniels-to-take-your-shot-even-then-theres-a-penalty-flag-on-the-field",
+        "summary": "One of the lingering questions from this week's Monday Night Football relates to the perception that Commanders coach Dan Quinn didn't know his team was facing a fourth-and-two…",
+        "source": "nbcsports.com",
+        "date": "Wed, 21 Oct 2026 05:31:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c559aa/2147483647/strip/false/crop/4200x2363+0+273/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2Fb5%2Ff2a37c884e3a8d7f08ed5bf02362%2F2301166998.jpg"
+      },
+      {
+        "title": "49ers are the heaviest division favorites in the NFL",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-are-the-heaviest-division-favorites-in-the-nfl",
+        "summary": "San Francisco's odds to win the NFC West are at -650",
+        "source": "nbcsports.com",
+        "date": "Wed, 21 Oct 2026 04:48:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/54f94e7/2147483647/strip/false/crop/6000x3375+0+413/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2Ff8%2F6b3ddafb4d06b49be85c521c33e9%2F2301166890.jpg"
+      },
+      {
         "title": "Report: Rams TE Terrance Ferguson not ready to come off IR",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rams-te-terrance-ferguson-not-ready-to-come-off-ir",
         "summary": "The Rams placed tight end Terrance Ferguson on injured reserve with an ankle injury on Oct. 2.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Tue, 20 Oct 2026 20:58:03 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6cd5a41/2147483647/strip/false/crop/8415x4733+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff4%2F1f%2F5ce5e85941fc8c5557b68f0dbc3a%2F2300970022.jpg"
-      },
-      {
-        "title": "Allen Sills dismisses concern about team physician bias as \"nonsense\" (it's not)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/allen-sills-dismisses-concern-about-team-physician-bias-as-nonsense-its-not",
-        "summary": "When it comes to whether the Eagles properly handled the health care provided to Eagles quarterback Jalen Hurts for his blood clots, the NFL is hardly a neutral, disinterested…",
-        "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 20:28:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69d3b16/2147483647/strip/false/crop/5952x3348+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F3f%2F1f4929964b32abeed2a42bf4e7ab%2F1240067346.jpg"
-      },
-      {
-        "title": "NFL will have heightened security for game in Paris after recent civil unrest",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-have-heightened-security-for-game-in-paris-after-recent-civil-unrest",
-        "summary": "The game in Paris between the Steelers and Saints will go on as scheduled Sunday.",
-        "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 20:15:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4029019/2147483647/strip/false/crop/6048x3402+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2F3e%2F53e2463940869e453928ea4256f2%2F2300606176.jpg"
       }
     ]
   }
