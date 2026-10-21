@@ -1,22 +1,22 @@
 {
-  "updated": "2026-10-21T18:54:19.566Z",
+  "updated": "2026-10-21T22:02:21.562Z",
   "feed": {
     "VR": [
       {
-        "title": "The New Supernatural Launches In Early Access On Quest",
-        "url": "https://www.uploadvr.com/the-new-supernatural-launches-in-early-access-on-quest/",
-        "summary": "The new independent version of VR fitness app Supernatural launched in Early Access on Meta Quest.",
-        "source": "uploadvr.com",
-        "date": "Wed, 21 Oct 2026 11:49:30 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/SN_EA_2560x1400_1020--1-.png"
+        "title": "Intel's Nova Lake chips will all reportedly be called Core Ultra 4000, laptops included",
+        "url": "https://mixed-news.com/en/intel-nova-lake-core-ultra-4000-naming-laptops-desktop-leak/",
+        "summary": "Intel's next desktop and laptop processors, Nova Lake, will reportedly share one name: Core Ultra 4000.",
+        "source": "mixed-news.com",
+        "date": "Wed, 21 Oct 2026 21:48:27 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Intel-Core-Ultra-Desktop-1.jpg"
       },
       {
-        "title": "Nvidia says its new DLSS 5 model is twice as fast and uses 20% less VRAM at 4K",
-        "url": "https://mixed-news.com/en/nvidia-dlss-5-model-twice-as-fast-20-percent-less-vram-4k/",
-        "summary": "Nvidia says the new model behind DLSS 5 is twice as fast as the version it shipped in September and needs 20% less VRAM at 4K.",
-        "source": "mixed-news.com",
-        "date": "Wed, 21 Oct 2026 18:37:02 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/dlss-3d-guided-neural-rendering-10x-faster-since-announce.jpg"
+        "title": "Co-op Space Adventure Sol Protocol Launches For PC VR In November - Demo Available Now",
+        "url": "https://www.uploadvr.com/co-op-space-adventure-sol-protocol-launches-for-pc-vr-in-november-demo-available-now/",
+        "summary": "Following its Early Access release on Quest, co-op space adventure Sol Protocol comes to PC VR on November 11 with crossplay support. A demo is available now for Steam Next Fest.",
+        "source": "uploadvr.com",
+        "date": "Wed, 21 Oct 2026 12:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/CoverImage_Landscape--2-.png"
       },
       {
         "title": "VR Fitness App ‘Supernatural’ Re-launches into Early Access on Quest Following Meta Spin-out",
@@ -27,12 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/supernatural-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Meta AI comes to Quest headsets in the UK, Australia, Japan and three more countries",
-        "url": "https://mixed-news.com/en/meta-ai-quest-uk-australia-japan-mexico-korea-singapore/",
-        "summary": "Quest owners in the UK, Australia, Japan, Mexico, South Korea and Singapore can now use Meta AI on their headset.",
+        "title": "Victoria bans smart glasses in every school from 2027, with stricter rules for adults",
+        "url": "https://mixed-news.com/en/victoria-bans-smart-glasses-all-schools-2027-teachers-parents/",
+        "summary": "Students at every school in Victoria will have to switch off and store smart glasses during school hours from the start of the 2027 school year.",
         "source": "mixed-news.com",
-        "date": "Wed, 21 Oct 2026 17:50:53 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2025/03/Meta-Quest-3-Horizon-Store-Games-2025.jpg"
+        "date": "Wed, 21 Oct 2026 21:02:10 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/05_KYLIE.jpg"
+      },
+      {
+        "title": "The New Supernatural Launches In Early Access On Quest",
+        "url": "https://www.uploadvr.com/the-new-supernatural-launches-in-early-access-on-quest/",
+        "summary": "The new independent version of VR fitness app Supernatural launched in Early Access on Meta Quest.",
+        "source": "uploadvr.com",
+        "date": "Wed, 21 Oct 2026 11:49:30 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/SN_EA_2560x1400_1020--1-.png"
       },
       {
         "title": "‘Gears of War: E-Day’ PC VR Mod is Coming with Support for Full Campaign",
@@ -41,24 +49,16 @@
         "source": "roadtovr.com",
         "date": "Wed, 21 Oct 2026 13:15:53 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/gears-of-war-e-day-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Traffix XR: Cities Of Tomorrow Review - A Relaxing & Challenging VR Puzzler",
-        "url": "https://www.uploadvr.com/traffix-xr-cities-of-tomorrow-review-a-relaxing-challenging-vr-puzzler/",
-        "summary": "Traffix XR: Cities of Tomorrow is a roadway management puzzler that's equal parts relaxing and confounding.",
-        "source": "uploadvr.com",
-        "date": "Wed, 21 Oct 2026 06:11:12 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/traffix-xr-review-screnshots-4.jpg"
       }
     ],
     "AI": [
       {
-        "title": "Conversational Gemini navigation comes to Apple CarPlay",
-        "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-        "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users.",
+        "title": "Meta to create a new class of shares to fund AI push",
+        "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+        "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives.",
         "source": "theverge.com",
-        "date": "2026-10-21T11:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-21T17:30:02-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PHP warns it plans to release 2 emergency patches imminently",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
       },
       {
-        "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-        "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks.",
+        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+        "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet.",
         "source": "theverge.com",
-        "date": "2026-10-21T09:57:43-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-21T15:53:20-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg"
       },
       {
-        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-        "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her…",
+        "title": "Walmart is inviting AI agents to shop for you",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+        "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve…",
         "source": "theverge.com",
-        "date": "2026-10-20T19:04:19-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-21T15:30:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Patriots rule Ben Brown, Alijah Vera-Tucker, Carlton Davis out for Thursday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-rule-ben-brown-alijah-vera-tucker-carlton-davis-out-for-thursday",
-        "summary": "Head coach Mike Vrabel said at his Wednesday press conference that the Patriots have ruled out five players for Thursday night's game against the Bears.",
+        "title": "Seven Texans sit out Wednesday's practice with injuries",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seven-texans-sit-out-wednesdays-practice-with-injuries",
+        "summary": "Seven key Texans players did not practice Wednesday as they began preparations for Sunday's game against the Giants.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 14:47:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/362b2be/2147483647/strip/false/crop/3900x2194+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6f%2Feb%2Fec1317174d3295c1c9c3cdef1fe2%2F2299422132.jpg"
+        "date": "Wed, 21 Oct 2026 17:51:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/08c1635/2147483647/strip/false/crop/4092x2302+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2Fda%2Fee788153466ebee4e2227e730ba0%2F2297059240.jpg"
       },
       {
-        "title": "Falcons designate A.J. Terrell for return from injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-designate-a-j-terrell-for-return-from-injured-reserve",
-        "summary": "Cornerback A.J.",
+        "title": "Cardinals claim OT Albert Reese off waivers from the Panthers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-claim-ot-albert-reese-off-waivers-from-the-panthers",
+        "summary": "The Cardinals claimed offensive tackle Albert Reese off waivers on Wednesday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 14:24:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a53fb30/2147483647/strip/false/crop/5815x3271+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2Ff6%2Fec15207a47fca1923a6ef0446981%2F2296489560.jpg"
+        "date": "Wed, 21 Oct 2026 17:36:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/992e336/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F58%2F4a65c8e34ec09a45f6d83d0b0aee%2F2292613796.jpg"
       },
       {
-        "title": "Rams put Kobie Turner on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-put-kobie-turner-on-injured-reserve",
-        "summary": "The Rams put a player on injured reserve for the fourth time this week on Wednesday.",
+        "title": "Malik Willis listed as full participant with right thumb injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-willis-listed-as-full-participant-with-right-thumb-injury",
+        "summary": "Dolphins quarterback Malik Willis was not spotted throwing last week during the team's off week.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 14:03:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6cdce0/2147483647/strip/false/crop/7914x4452+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffa%2Fbd%2F0e31d98e4e198162162769158ad1%2F2300268239.jpg"
+        "date": "Wed, 21 Oct 2026 17:28:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/273d0b1/2147483647/strip/false/crop/5248x2952+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Fe9%2F9bb0d4cc4b2181583245d13e5dbf%2F2300443499.jpg"
       },
       {
-        "title": "Todd Bowles plans to decide whether Baker Mayfield will start Week 7 on Friday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-plans-to-decide-whether-baker-mayfield-will-start-week-7-on-friday",
-        "summary": "As the practice week begins, it appears Baker Mayfield has a chance to return for Sunday’s game against the Panthers.",
+        "title": "Pat Surtain II returns to Broncos practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pat-surtain-ii-returns-to-broncos-practice",
+        "summary": "The Broncos welcomed a couple of defensive players back to practice on Wednesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 13:54:04 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5e42801/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2Fa0%2F089ce7ff4075b4152b476b0c2ea3%2F2300332744.jpg"
+        "date": "Wed, 21 Oct 2026 17:22:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5e7aa4b/2147483647/strip/false/crop/4499x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F61%2F0ca635ce4a25b81ad33fd0574631%2F2300554020.jpg"
       },
       {
-        "title": "Rashee Rice, Jaylon Moore out of Chiefs practice Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashee-rice-jaylon-moore-out-of-chiefs-practice-wednesday",
-        "summary": "The Chiefs will remain without wide receiver Rashee Rice as they kick off the practice week.",
+        "title": "Former Cowboys DB, Broncos scout Cornell Green dies at 86",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-cowboys-db-broncos-scout-cornell-green-dies-at-86",
+        "summary": "The Cowboys announced that former defensive back Cornell Green died Wednesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 13:36:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2641e00/2147483647/strip/false/crop/8362x4704+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F3d%2F9b179b254585b4aa9c2003e0f812%2F2297990705.jpg"
+        "date": "Wed, 21 Oct 2026 17:08:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b89825/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fb1%2F05516daa44398b8dc3700b9bbef7%2F80288980.jpg"
       },
       {
-        "title": "Lamar Jackson remains out of practice to start Week 7",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-remains-out-of-practice-to-start-week-7",
-        "summary": "As the practice week begins, Lamar Jackson is still not ready to practice.",
+        "title": "Jameis Winston on losing his starting job: I understand where I am now",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameis-winston-on-losing-his-starting-job-i-understand-where-i-am-now",
+        "summary": "The Giants benched Jameis Winston just 23 days after trading with the Vikings for J.J.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 13:19:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ccce40a/2147483647/strip/false/crop/4322x2431+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2Fb2%2F1f452b1a4a99bcf32cffc60c6a8b%2F2298586754.jpg"
+        "date": "Wed, 21 Oct 2026 16:40:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9a8b7ac/2147483647/strip/false/crop/2139x1203+0+219/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2Ffc%2Fe1e9da0c4bd790f22a560747c7ec%2F2301029930.jpg"
       }
     ]
   }
