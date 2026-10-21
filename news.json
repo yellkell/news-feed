@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-20T21:33:54.011Z",
+  "updated": "2026-10-21T00:07:27.282Z",
   "feed": {
     "VR": [
       {
-        "title": "At least 42 VR games carry Valve's Next Fest banner, and five clash with their own demo",
-        "url": "https://mixed-news.com/en/steam-next-fest-42-vr-games-valve-fest-banner-demos/",
-        "summary": "Steam Next Fest is running until October 26, and 42 VR games carried Valve's own fest banner with an installable demo when their store pages were read on October 19 between 19:15…",
+        "title": "An unofficial Android app blacks out your phone screen, but not your Xreal glasses",
+        "url": "https://mixed-news.com/en/glasses-mode-android-app-blacks-out-phone-screen-xreal-one/",
+        "summary": "An unofficial Android app blanks your phone’s own screen and stops it accepting touches while a pair of USB-C display glasses carries on showing the picture, triggered by a…",
         "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 21:06:07 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_607a3ed056768f6e21e8a73fd6af88f85ed1b12d.1920x1080.jpg"
+        "date": "Tue, 20 Oct 2026 23:00:28 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2025/05/Xreal-One-Xreal-Eye.jpg"
       },
       {
         "title": "VR Co-Op Action Shooter Titan Isles Adds A New Combat Exo Suit In Latest Update",
@@ -27,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/steam-next-fest.jpg?resize=1024%2C576&quality=89&ssl=1"
       },
       {
+        "title": "Nvidia's PC chief says the RTX 5090 is not discontinued, and supply is constrained",
+        "url": "https://mixed-news.com/en/nvidia-rtx-5090-not-discontinued-jeff-fisher-supply-constrained/",
+        "summary": "The GeForce RTX 5090 has not been discontinued and Nvidia will carry on shipping it, says the executive who runs the company's PC business, and in the same breath he calls the…",
+        "source": "mixed-news.com",
+        "date": "Tue, 20 Oct 2026 22:10:59 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2025/01/RTX-50-Nvidia.png"
+      },
+      {
         "title": "Meta Expands SDKs To Boost Spatial Apps On Quest & VR Glasses, Including NBA, Disney+",
         "url": "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/",
         "summary": "Meta announced several new SDKs and features to enhance spatial apps on Quest and Meta VR Glasses, alongside major spatial updates for the NBA and Disney+ apps.",
         "source": "uploadvr.com",
         "date": "Tue, 20 Oct 2026 13:13:53 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb22.png"
-      },
-      {
-        "title": "Three owners say a Steam Machine kills HDMI-CEC on the TV, and one of them blames Samsung",
-        "url": "https://mixed-news.com/en/steam-machine-breaks-hdmi-cec-other-devices-samsung-2817/",
-        "summary": "Turn a Steam Machine on and it stops HDMI-CEC working for every other device plugged into the television, three owners say in a report open on Valve's SteamOS tracker since…",
-        "source": "mixed-news.com",
-        "date": "Tue, 20 Oct 2026 19:57:22 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_2b1478c28ebdf38b5f8d82de0d72227cdaaf7bbb.1920x1080.jpg"
       },
       {
         "title": "OpenXR Takes a Page From Apple With New Cross-Platform Spatial Multitasking API",
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+        "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her…",
+        "source": "theverge.com",
+        "date": "2026-10-20T19:04:19-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
         "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
         "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
@@ -61,20 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg"
       },
       {
-        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-        "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-        "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars…",
+        "title": "Google’s more personalized Gemini AI is heading to your car",
+        "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+        "summary": "Google is bringing Personal Intelligence to Gemini AI in your car.",
         "source": "theverge.com",
-        "date": "2026-10-20T14:07:34-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-        "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-        "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year.",
-        "source": "theverge.com",
-        "date": "2026-10-20T10:18:37-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-20T18:11:34-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg"
       },
       {
-        "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-        "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-        "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single…",
+        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+        "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+        "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars…",
         "source": "theverge.com",
-        "date": "2026-10-20T09:06:44-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-20T14:07:34-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PSA: Patch your Plex media server before someone hacks it",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Giants sign LB Trace Ford to active roster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-sign-lb-trace-ford-to-active-roster",
-        "summary": "The Giants announced a series of roster moves on Tuesday afternoon.",
+        "title": "NFLPA calls for \"full investigation\" into Jalen Hurts situation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-calls-for-full-investigation-into-jalen-hurts-situation",
+        "summary": "Union issues statement regarding the NFL's handling of the case.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 17:27:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bcc6dab/2147483647/strip/false/crop/3218x1810+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2Feb%2Ffadd2d8b42538ba2bd6583436ca2%2F2301028224.jpg"
+        "date": "Tue, 20 Oct 2026 20:02:01 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/716f53f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1024%2F871%2Fnbc_pft_siriannionhurts_261020.jpg"
       },
       {
-        "title": "Owners approve Arctos purchasing a limited stake in the Falcons",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/owners-approve-arctos-purchasing-a-limited-stake-in-the-falcons",
-        "summary": "NFL owners approved Arctos' purchase of a limited stake in the Falcons on Tuesday, the team announced.",
+        "title": "Eagles-Commanders stays in prime time for Week 8",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-commanders-stays-in-prime-time-for-week-8",
+        "summary": "NFL reportedly \"strongly considered\" replacing it with Browns-Steelers.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 16:58:23 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b316b8e/2147483647/strip/false/crop/5200x2925+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F85%2F14f44c5f4ecdb2d0596a032e18d0%2F2299226389.jpg"
+        "date": "Tue, 20 Oct 2026 19:36:36 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f0d960b/2147483647/strip/false/crop/3373x1897+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F68%2Fb29636b54ce093f91440471043a2%2F2295475203.jpg"
       },
       {
-        "title": "Rams add K Brandon McManus",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-add-k-brandon-mcmanus",
-        "summary": "The Rams have found a new kicker.",
+        "title": "Sunday's late-afternoon window on CBS averaged 26.368 million viewers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sundays-late-afternoon-window-on-cbs-averaged-26-368-million-viewers",
+        "summary": "The late-afternoon window on Sunday continues to generate the biggest audiences for NFL viewing.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 16:56:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/449355b/2147483647/strip/false/crop/5554x3124+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2Fe0%2F8982f6df4dea9390172260a0b59b%2F2248437495.jpg"
+        "date": "Tue, 20 Oct 2026 19:01:05 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/db2d130/2147483647/strip/false/crop/4844x2725+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F99%2F6f0b6328489fb29f4685440b4cbd%2F2301034173.jpg"
       },
       {
-        "title": "League reportedly concludes Jalen Hurts's blood clot \"was handled appropriately\" before Week 5 game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/league-reportedly-concludes-jalen-hurtss-blood-clot-was-handled-appropriately-before-week-5-game",
-        "summary": "NFL, Eagles were and are in lockstep on situation that has many unanswered questions.",
+        "title": "Rams put Davante Adams, Poona Ford on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-put-davante-adams-poona-ford-on-ir",
+        "summary": "Wide receiver Davante Adams is expected to miss the next 6-10 weeks after rupturing his hamstring in last Sunday's loss to the Cardinals and the Rams moved him off of the active…",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 16:56:20 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ab9ea8/2147483647/strip/false/crop/4929x2773+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2Fe2%2F18cf82fb4641a84a900e9c43af4c%2F2299178404.jpg"
+        "date": "Tue, 20 Oct 2026 18:29:12 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/159746b/2147483647/strip/false/crop/5452x3067+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F3c%2F407c6e36409ba82bde75540704f2%2F2300553809.jpg"
       },
       {
-        "title": "Caleb Williams has gone from 32nd last year to first this year in completion percentage",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-has-gone-from-32nd-last-year-to-first-this-year-in-completion-percentage",
-        "summary": "Bears quarterback Caleb Williams is a different player in 2026.",
+        "title": "Eagles sign RB Elijah Mitchell to active roster, waive Jaydon Blue and Carson Steele",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sign-rb-elijah-mitchell-to-active-roster-waive-jaydon-blue-and-carson-steele",
+        "summary": "The Eagles made changes to the running back room on their 53-man roster on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 16:35:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/782a3f7/2147483647/strip/false/crop/5777x3250+0+301/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F1c%2F2068fc054a0a887c7f714287f746%2F2300536405.jpg"
+        "date": "Tue, 20 Oct 2026 18:18:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/716f53f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F1024%2F871%2Fnbc_pft_siriannionhurts_261020.jpg"
       },
       {
-        "title": "Falcons release LB Bralen Trice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-release-lb-bralen-trice",
-        "summary": "With word emerging earlier on Tuesday that the Falcons were adding linebacker Charles Snowden, Atlanta has opened a roster spot.",
+        "title": "Patriots CB Carlton Davis upgraded to limited practice participation on Tuesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-cb-carlton-davis-upgraded-to-limited-practice-participation-on-tuesday",
+        "summary": "The Patriots got cornerback Carlton Davis back at practice on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 20 Oct 2026 16:34:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d242c71/2147483647/strip/false/crop/6295x3541+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2F22%2Fbd610e8f423da625aaba4a0b39a7%2F2297808263.jpg"
+        "date": "Tue, 20 Oct 2026 18:01:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2ba0dc3/2147483647/strip/false/crop/6572x3697+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2F92%2F49309ecd4c5e9a3f693b12f86b07%2F2294808372.jpg"
       }
     ]
   }
