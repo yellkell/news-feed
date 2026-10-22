@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-22T19:19:25.544Z",
+  "updated": "2026-10-22T22:32:51.740Z",
   "feed": {
     "VR": [
+      {
+        "title": "Fabula Rasa asks you to talk your way out of an execution in VR",
+        "url": "https://mixed-news.com/en/fabula-rasa-ai-conversations-quest-november/",
+        "summary": "Fabula Rasa puts you in a medieval cage and asks you to persuade the surrounding townsfolk to save your life.",
+        "source": "mixed-news.com",
+        "date": "Thu, 22 Oct 2026 22:15:13 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Fabula-Rasa_Key-Art-1920x1080-1.webp"
+      },
       {
         "title": "RAID VR Demo Impressions: A Rock Solid Gameplay Loop With Peculiar Design Choices",
         "url": "https://www.uploadvr.com/raid-vr-demo-impressions-a-rock-solid-gameplay-loop-with-peculiar-design-choices/",
@@ -19,14 +27,6 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/HyperVisor.png?resize=1536%2C1024&quality=80&ssl=1"
       },
       {
-        "title": "Exclusive: Lenovo Yoga PC Edition Gen 2 earbuds pictured with Sound by Bose branding",
-        "url": "https://mixed-news.com/en/exclusive-lenovo-yoga-pc-edition-gen-2-earbuds-bose-images/",
-        "summary": "Images obtained by MIXED show Lenovo Yoga PC Edition Gen 2 earbuds in Seashell and Thunder Grey, with Sound by Bose branding on the dark charging case.",
-        "source": "mixed-news.com",
-        "date": "Thu, 22 Oct 2026 14:09:23 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/lenovo-yoga-gen2-exclusive-hero-mixed.webp"
-      },
-      {
         "title": "Daumier: Lila & Ghost Impressions - Good Premise, Bewildering Result",
         "url": "https://www.uploadvr.com/daumier-lila-ghost-impressions-good-premise-bewildering-result/",
         "summary": "Halfway through the second chapter of Daumier: Lila & Ghost, we stopped, looked around, and said \"What the hell are we doing?\"",
@@ -35,12 +35,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/daumier-gameplay-screen-2.jpg"
       },
       {
-        "title": "Nvidia's new Frame Generation mode is up to 35% faster, and RTX 40 cards get it too",
-        "url": "https://mixed-news.com/en/nvidia-frame-generation-preset-c-beta-35-percent-faster-rtx-40/",
-        "summary": "Nvidia has a faster mode for DLSS Frame Generation, and it works on RTX 40 cards as well as RTX 50.",
+        "title": "Exclusive: Lenovo Yoga PC Edition Gen 2 earbuds pictured with Sound by Bose branding",
+        "url": "https://mixed-news.com/en/exclusive-lenovo-yoga-pc-edition-gen-2-earbuds-bose-images/",
+        "summary": "Images obtained by MIXED show Lenovo Yoga PC Edition Gen 2 earbuds in Seashell and Thunder Grey, with Sound by Bose branding on the dark charging case.",
         "source": "mixed-news.com",
-        "date": "Thu, 22 Oct 2026 10:51:08 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/nvidia-app-dlss-frame-generation-preset-c-beta-performance-chart.png"
+        "date": "Thu, 22 Oct 2026 14:09:23 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/lenovo-yoga-gen2-exclusive-hero-mixed.webp"
       },
       {
         "title": "VRMMO ‘Zenith’ is Finally Pulling the Plug on Servers in December",
@@ -53,12 +53,28 @@
     ],
     "AI": [
       {
-        "title": "Discord now formats Markdown previews right",
-        "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-        "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company.",
+        "title": "Canva’s first AI image model plans designs before generating them",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+        "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.",
         "source": "theverge.com",
-        "date": "2026-10-22T14:58:19-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-22T17:51:25-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+        "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+        "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+        "source": "arstechnica.com",
+        "date": "Thu, 22 Oct 2026 20:17:52 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg"
+      },
+      {
+        "title": "Meta’s AI could still scrape news sites, legal experts say",
+        "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+        "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes…",
+        "source": "theverge.com",
+        "date": "2026-10-22T16:32:05-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg"
       },
       {
-        "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-        "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-        "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents…",
+        "title": "Meta turns Muse sharing back on",
+        "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+        "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find.",
         "source": "theverge.com",
-        "date": "2026-10-22T14:15:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-22T16:24:04-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Wed, 21 Oct 2026 21:48:52 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg"
-      },
-      {
-        "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-        "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives.",
-        "source": "theverge.com",
-        "date": "2026-10-22T14:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "PHP warns it plans to release 2 emergency patches imminently",
-        "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-        "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-        "source": "arstechnica.com",
-        "date": "Wed, 21 Oct 2026 02:12:18 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
       }
     ],
     "NFL": [
       {
-        "title": "Roger Goodell: NFL views the Australia game as a tremendous success on every level",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-nfl-views-the-australia-game-as-a-tremendous-success-on-every-level",
-        "summary": "Get ready for more NFL games in Australia.",
+        "title": "Patriots say Christian Gonzalez is questionable tonight with an illness",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-say-christian-gonzalez-is-questionable-tonight-with-an-illness",
+        "summary": "New England's star cornerback might not play tonight in Chicago.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 15:07:16 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6d4a952/2147483647/strip/false/crop/5616x3159+0+293/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F00%2F54f03a744d91a2f06fbf08cde911%2F2295024190.jpg"
+        "date": "Thu, 22 Oct 2026 18:20:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7185815/2147483647/strip/false/crop/5540x3116+0+288/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F71%2F2e8daccb4db2921cd521d1a30638%2F2301227079.jpg"
       },
       {
-        "title": "Baker Mayfield: Thumb is in a place where it’s strong enough to be able to play",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-thumb-is-in-a-place-where-its-strong-enough-to-be-able-to-play",
-        "summary": "Buccaneers quarterback Baker Mayfield appears on track to return from a dislocated right thumb in Week 7 when Tampa Bay plays Carolina.",
+        "title": "Tyler Warren, Sauce Gardner remain out of practice for Colts",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-warren-sauce-gardner-remain-out-of-practice-for-colts",
+        "summary": "The Colts got a few players back at practice on Thursday, but they remained without starters on both sides of the ball.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 14:33:09 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c1f4e4/2147483647/strip/false/crop/3770x2121+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2Fef%2Ff3b429a14ab1a7e8a28edd49f774%2F2297460484.jpg"
+        "date": "Thu, 22 Oct 2026 17:47:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b077c60/2147483647/strip/false/crop/5038x2834+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2F27%2Fdd872a9e4232a8a7105b9d7f226b%2F2299198450.jpg"
       },
       {
-        "title": "Seahawks activate Zach Charbonnet",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-activate-zach-charbonnet",
-        "summary": "Charbonnet is back just in time to face Kenneth Walker and the Chiefs on Sunday night.",
+        "title": "Nick Sirianni again says little about Jalen Hurts",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-again-says-little-about-jalen-hurts",
+        "summary": "The Eagles continue to make coach Nick Sirianni available for regular press conferences.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 14:20:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3dba52/2147483647/strip/false/crop/4500x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F34%2F52%2F3957389149e9ad71253d5b229106%2F2254829323.jpg"
+        "date": "Thu, 22 Oct 2026 17:46:31 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ff4f9a2/2147483647/strip/false/crop/6824x3839+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb0%2F61%2F6512a40a4f65b340adf34ceb9e8c%2F2300899012.jpg"
       },
       {
-        "title": "Lamar Jackson present, participating at start of Thursday practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-present-participating-at-start-of-thursday-practice",
-        "summary": "It looks like Lamar Jackson is on track to return from his ankle injury this weekend when the Ravens play the Bengals.",
+        "title": "Marlon Humphrey on Ja'Marr Chase: It would be cool if I didn't match up with him so much",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marlon-humphrey-on-jamarr-chase-it-would-be-cool-if-i-didnt-match-up-with-him-so-much",
+        "summary": "Humphrey and Chase have faced off nine times. In those games, Chase has torched the Ravens for 77 catches for 1,245 yards and eight touchdowns.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 13:56:40 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/98881bd/2147483647/strip/false/crop/4702x2645+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2F8f%2F7d8ecec345c0968285d948f057a3%2F2254985236.jpg"
+        "date": "Thu, 22 Oct 2026 17:15:00 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b2c2b1/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F17%2Fe37c30764c0c92dc4dfc4c2020d6%2F2183797401.jpg"
       },
       {
-        "title": "ABC affiliates aren't happy with Disney's plan for multiple Super Bowl options",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/abc-affiliates-arent-happy-with-disneys-plan-for-multiple-super-bowl-options",
-        "summary": "Disney plans, at last count, umpteen different ways to view Super Bowl LXI.",
+        "title": "Rashee Rice remains out of practice on Thursday, Travis Kelce limited",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashee-rice-remains-out-of-practice-on-thursday-travis-kelce-limited",
+        "summary": "Chiefs receiver Rashee Rice remains out of practice, putting his potential availability for Sunday's game against the Seahawks in jeopardy.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 13:53:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aec376d/2147483647/strip/false/crop/6000x3375+0+314/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F05%2F4fd854ba4afebc927235250dd0ea%2F2160341395.jpg"
+        "date": "Thu, 22 Oct 2026 17:05:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b4947f/2147483647/strip/false/crop/4942x2780+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F76%2F21%2F408fa335411dae6ef34f978c35bd%2F2297991039.jpg"
       },
       {
-        "title": "Chiefs placing LT Josh Simmons on IR with disc issue",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-placing-lt-josh-simmons-on-ir-with-disc-issue",
-        "summary": "Kansas City left tackle Josh Simmons is going to be placed on injured reserve with the back injury that has kept him sidelined all season.",
+        "title": "George Pickens limited in Thursday's practice with shoulder injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-pickens-limited-in-thursdays-practice-with-shoulder-injury",
+        "summary": "Cowboys wide receiver George Pickens popped up on the injury report for the first time this season.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 13:45:18 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/048398c/2147483647/strip/false/crop/5049x2840+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F95%2Fe2%2F45103ebc4b2eaaedf02a37dd6ff2%2F2235839031.jpg"
+        "date": "Thu, 22 Oct 2026 16:47:37 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e08e337/2147483647/strip/false/crop/3210x1806+0+167/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2Ff5%2F2a808e7d4b0cb44f3847625e53ef%2F2301189897.jpg"
       }
     ]
   }
