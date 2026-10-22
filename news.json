@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-21T22:02:21.562Z",
+  "updated": "2026-10-22T00:39:46.716Z",
   "feed": {
     "VR": [
       {
-        "title": "Intel's Nova Lake chips will all reportedly be called Core Ultra 4000, laptops included",
-        "url": "https://mixed-news.com/en/intel-nova-lake-core-ultra-4000-naming-laptops-desktop-leak/",
-        "summary": "Intel's next desktop and laptop processors, Nova Lake, will reportedly share one name: Core Ultra 4000.",
+        "title": "OpenAI says GPT-6.1 Sol now migrates COBOL correctly 86.6% of the time, up from 5.4%",
+        "url": "https://mixed-news.com/en/openai-gpt-6-1-sol-cobol-migration-86-percent/",
+        "summary": "OpenAI says GPT-6.1 Sol can now move old COBOL programs to modern languages with far fewer mistakes.",
         "source": "mixed-news.com",
-        "date": "Wed, 21 Oct 2026 21:48:27 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Intel-Core-Ultra-Desktop-1.jpg"
+        "date": "Thu, 22 Oct 2026 00:17:19 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/low_resource_programming__SEO_Card__3_.png"
       },
       {
         "title": "Co-op Space Adventure Sol Protocol Launches For PC VR In November - Demo Available Now",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/supernatural-vr.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Victoria bans smart glasses in every school from 2027, with stricter rules for adults",
-        "url": "https://mixed-news.com/en/victoria-bans-smart-glasses-all-schools-2027-teachers-parents/",
-        "summary": "Students at every school in Victoria will have to switch off and store smart glasses during school hours from the start of the 2027 school year.",
+        "title": "OpenXR's new spatial containers let several XR apps share one space",
+        "url": "https://mixed-news.com/en/openxr-spatial-containers-multiple-xr-apps-android-xr-godot/",
+        "summary": "XR apps built on OpenXR will be able to run side by side in one space.",
         "source": "mixed-news.com",
-        "date": "Wed, 21 Oct 2026 21:02:10 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/05_KYLIE.jpg"
+        "date": "Wed, 21 Oct 2026 23:26:50 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2024/04/OpenXR-1.1.jpg"
       },
       {
         "title": "The New Supernatural Launches In Early Access On Quest",
@@ -52,6 +52,22 @@
       }
     ],
     "AI": [
+      {
+        "title": "Data centers could erase decades of air quality gains",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+        "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind…",
+        "source": "theverge.com",
+        "date": "2026-10-21T18:33:44-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+        "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+        "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+        "source": "arstechnica.com",
+        "date": "Wed, 21 Oct 2026 21:48:52 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg"
+      },
       {
         "title": "Meta to create a new class of shares to fund AI push",
         "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Tue, 20 Oct 2026 19:47:35 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg"
-      },
-      {
-        "title": "Walmart is inviting AI agents to shop for you",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-        "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve…",
-        "source": "theverge.com",
-        "date": "2026-10-21T15:30:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-        "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-        "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-        "source": "arstechnica.com",
-        "date": "Tue, 20 Oct 2026 12:33:13 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Seven Texans sit out Wednesday's practice with injuries",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seven-texans-sit-out-wednesdays-practice-with-injuries",
-        "summary": "Seven key Texans players did not practice Wednesday as they began preparations for Sunday's game against the Giants.",
+        "title": "NFL could embrace replay review transparency by the end of the current season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-could-embrace-replay-review-transparency-by-the-end-of-the-current-season",
+        "summary": "Transparency apparently is coming, thanks to the UFL, the ACC, and the Big Ten.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 17:51:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/08c1635/2147483647/strip/false/crop/4092x2302+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2Fda%2Fee788153466ebee4e2227e730ba0%2F2297059240.jpg"
+        "date": "Wed, 21 Oct 2026 20:13:11 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6ff415f/2147483647/strip/false/crop/3000x1688+0+16/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe6%2F9b%2F7b313650496bab346b9c00d30d39%2F2274259335.jpg"
       },
       {
-        "title": "Cardinals claim OT Albert Reese off waivers from the Panthers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-claim-ot-albert-reese-off-waivers-from-the-panthers",
-        "summary": "The Cardinals claimed offensive tackle Albert Reese off waivers on Wednesday, the team announced.",
+        "title": "Cardinals RB Jeremiyah Love remains out of practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-rb-jeremiyah-love-remains-out-of-practice",
+        "summary": "Cardinals running back Jeremiyah Love is improving, Mike LaFleur said.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 17:36:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/992e336/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F58%2F4a65c8e34ec09a45f6d83d0b0aee%2F2292613796.jpg"
+        "date": "Wed, 21 Oct 2026 20:11:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dd97883/2147483647/strip/false/crop/5329x2998+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F1d%2F6a00c4b74b16bc4c6cd7238db683%2F2300850227.jpg"
       },
       {
-        "title": "Malik Willis listed as full participant with right thumb injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-willis-listed-as-full-participant-with-right-thumb-injury",
-        "summary": "Dolphins quarterback Malik Willis was not spotted throwing last week during the team's off week.",
+        "title": "Senator Lisa Blunt Rochester seeks answers from Roger Goodell regarding the Jalen Hurts situation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/senator-lisa-blunt-rochester-seeks-answers-from-roger-goodell-regarding-the-jalen-hurts-situation",
+        "summary": "The NFL and the Eagles hope to run out the clock as to the Jalen Hurts situation, in the hopes that the media and fans will turn their attention to the next story that grabs our…",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 17:28:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/273d0b1/2147483647/strip/false/crop/5248x2952+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Fe9%2F9bb0d4cc4b2181583245d13e5dbf%2F2300443499.jpg"
+        "date": "Wed, 21 Oct 2026 19:38:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/491836b/2147483647/strip/false/crop/7746x4357+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F8f%2Ff7488c7a45df95c1a03755b9948f%2F2272284570.jpg"
       },
       {
-        "title": "Pat Surtain II returns to Broncos practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pat-surtain-ii-returns-to-broncos-practice",
-        "summary": "The Broncos welcomed a couple of defensive players back to practice on Wednesday.",
+        "title": "Jonathon Cooper: Nobody's perfect, but no excuses; I do hold myself accountable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathon-cooper-nobodys-perfect-but-no-excuses-i-do-hold-myself-accountable",
+        "summary": "Broncos outside linebacker Jonathon Cooper returned to practice Wednesday after spending the first six weeks on the Commissioner's Exempt List.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 17:22:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5e7aa4b/2147483647/strip/false/crop/4499x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F61%2F0ca635ce4a25b81ad33fd0574631%2F2300554020.jpg"
+        "date": "Wed, 21 Oct 2026 19:23:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c2a093f/2147483647/strip/false/crop/6823x3838+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F36%2F2175df6749519ef7f9e82ed204aa%2F2287899404.jpg"
       },
       {
-        "title": "Former Cowboys DB, Broncos scout Cornell Green dies at 86",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/former-cowboys-db-broncos-scout-cornell-green-dies-at-86",
-        "summary": "The Cowboys announced that former defensive back Cornell Green died Wednesday.",
+        "title": "NFL fines Mike Vrabel, Aaron Glenn, Nick Sirianni $250,000 each for conduct toward officials",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-fines-mike-vrabel-aaron-glenn-nick-sirianni-250-000-each-for-conduct-toward-officials",
+        "summary": "Fines are currently being held in abeyance, and could be repealed.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 17:08:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3b89825/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fb1%2F05516daa44398b8dc3700b9bbef7%2F80288980.jpg"
+        "date": "Wed, 21 Oct 2026 19:10:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eeabc95/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F116%2F587%2Fnbc_pft_hurtsinternationalangle_261021.jpg"
       },
       {
-        "title": "Jameis Winston on losing his starting job: I understand where I am now",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameis-winston-on-losing-his-starting-job-i-understand-where-i-am-now",
-        "summary": "The Giants benched Jameis Winston just 23 days after trading with the Vikings for J.J.",
+        "title": "Josh Jacobs: I'm just trying to play ball, learn from this mistake and move forward",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobs-im-just-trying-to-play-ball-learn-from-this-mistake-and-move-forward",
+        "summary": "The Packers running back returned to the team this week after missing six games on the Commissioner's Exempt List.",
         "source": "nbcsports.com",
-        "date": "Wed, 21 Oct 2026 16:40:41 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9a8b7ac/2147483647/strip/false/crop/2139x1203+0+219/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2Ffc%2Fe1e9da0c4bd790f22a560747c7ec%2F2301029930.jpg"
+        "date": "Wed, 21 Oct 2026 19:01:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/372194a/2147483647/strip/false/crop/5816x3272+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2Fe2%2F1b0fdd754f20bfecfe19605f7fa0%2F2288505808.jpg"
       }
     ]
   }
