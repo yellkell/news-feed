@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-22T15:25:29.590Z",
+  "updated": "2026-10-22T19:19:25.544Z",
   "feed": {
     "VR": [
+      {
+        "title": "RAID VR Demo Impressions: A Rock Solid Gameplay Loop With Peculiar Design Choices",
+        "url": "https://www.uploadvr.com/raid-vr-demo-impressions-a-rock-solid-gameplay-loop-with-peculiar-design-choices/",
+        "summary": "RAID VR's Next Fest demo showcases a tight, enjoyable gameplay loop hamstrung by some peculiar design choices.",
+        "source": "uploadvr.com",
+        "date": "Thu, 22 Oct 2026 11:57:41 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/raid-vr-ss-1.jpg"
+      },
       {
         "title": "Google VR Studio Behind ‘Job Simulator’ Unveils ‘Hyper Visor’ Arcade Blaster for XREAL Aura",
         "url": "https://roadtovr.com/google-vr-studio-arcade-blaster-xreal-aura/",
@@ -19,12 +27,12 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/lenovo-yoga-gen2-exclusive-hero-mixed.webp"
       },
       {
-        "title": "Liminal's New Fear Arena Wants To Scare You, Just A Little",
-        "url": "https://www.uploadvr.com/liminals-new-fear-arena-wants-to-scare-you-just-a-little/",
-        "summary": "Liminal VR, the app known for its short immersive experiences designed to influence its users’ emotional states, is introducing a new series called Fear Arena.",
+        "title": "Daumier: Lila & Ghost Impressions - Good Premise, Bewildering Result",
+        "url": "https://www.uploadvr.com/daumier-lila-ghost-impressions-good-premise-bewildering-result/",
+        "summary": "Halfway through the second chapter of Daumier: Lila & Ghost, we stopped, looked around, and said \"What the hell are we doing?\"",
         "source": "uploadvr.com",
-        "date": "Thu, 22 Oct 2026 05:34:36 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/1---Welcome-to-the-Liminal-Fear-Arena---unified-1.png"
+        "date": "Thu, 22 Oct 2026 11:57:18 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/daumier-gameplay-screen-2.jpg"
       },
       {
         "title": "Nvidia's new Frame Generation mode is up to 35% faster, and RTX 40 cards get it too",
@@ -41,24 +49,16 @@
         "source": "roadtovr.com",
         "date": "Thu, 22 Oct 2026 08:18:01 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/zenith-vr-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Co-op Space Adventure Sol Protocol Launches For PC VR In November - Demo Available Now",
-        "url": "https://www.uploadvr.com/co-op-space-adventure-sol-protocol-launches-for-pc-vr-in-november-demo-available-now/",
-        "summary": "Following its Early Access release on Quest, co-op space adventure Sol Protocol comes to PC VR on November 11 with crossplay support. A demo is available now for Steam Next Fest.",
-        "source": "uploadvr.com",
-        "date": "Wed, 21 Oct 2026 12:00:00 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/CoverImage_Landscape--2-.png"
       }
     ],
     "AI": [
       {
-        "title": "PHP: The three little letters wreaking havoc across the web",
-        "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-        "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger.",
+        "title": "Discord now formats Markdown previews right",
+        "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+        "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company.",
         "source": "theverge.com",
-        "date": "2026-10-22T11:12:27-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-22T14:58:19-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg"
       },
       {
-        "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-        "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-        "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation.",
+        "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+        "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+        "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents…",
         "source": "theverge.com",
-        "date": "2026-10-22T10:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-22T14:15:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-832621336-1024x648.jpg"
       },
       {
-        "title": "1Password lets AI agents use your passwords without seeing them",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-        "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords.",
+        "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+        "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives.",
         "source": "theverge.com",
-        "date": "2026-10-22T09:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-22T14:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "PHP warns it plans to release 2 emergency patches imminently",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Roger Goodell says an increase in penalties is not a reflection on the NFL's officials",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-says-an-increase-in-penalties-is-not-a-reflection-on-the-nfls-officials",
-        "summary": "Penalties are up in the NFL this year, but Commissioner Roger Goodell says that isn't a reflection on the officials.",
+        "title": "Roger Goodell: NFL views the Australia game as a tremendous success on every level",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-nfl-views-the-australia-game-as-a-tremendous-success-on-every-level",
+        "summary": "Get ready for more NFL games in Australia.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 11:21:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d26d2dc/2147483647/strip/false/crop/5041x2836+0+263/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2F7b%2F85d3c5c749b1bae5c3d57551bf73%2F2254988331.jpg"
+        "date": "Thu, 22 Oct 2026 15:07:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6d4a952/2147483647/strip/false/crop/5616x3159+0+293/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F00%2F54f03a744d91a2f06fbf08cde911%2F2295024190.jpg"
       },
       {
-        "title": "C.J. Gardner-Johnson's one-game suspension upheld on appeal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-gardner-johnsons-one-game-suspension-upheld-on-appeal",
-        "summary": "Bills safety C.J.",
+        "title": "Baker Mayfield: Thumb is in a place where it’s strong enough to be able to play",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-thumb-is-in-a-place-where-its-strong-enough-to-be-able-to-play",
+        "summary": "Buccaneers quarterback Baker Mayfield appears on track to return from a dislocated right thumb in Week 7 when Tampa Bay plays Carolina.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 11:15:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/863318e/2147483647/strip/false/crop/3367x1894+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2F96%2F5ecb8f2441129316841d81121fe6%2F2301189658.jpg"
+        "date": "Thu, 22 Oct 2026 14:33:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6c1f4e4/2147483647/strip/false/crop/3770x2121+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2Fef%2Ff3b429a14ab1a7e8a28edd49f774%2F2297460484.jpg"
       },
       {
-        "title": "Klint Kubiak: Fernando Mendoza's doing more than what he's asked, putting in extra time",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/klint-kubiak-fernando-mendozas-doing-more-than-what-hes-asked-putting-in-extra-time",
-        "summary": "With the Raiders at 3-3, Kirk Cousins has played well enough to keep No. 1 overall pick Fernando Mendoza on the sidelines.",
+        "title": "Seahawks activate Zach Charbonnet",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-activate-zach-charbonnet",
+        "summary": "Charbonnet is back just in time to face Kenneth Walker and the Chiefs on Sunday night.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 10:49:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6c236d/2147483647/strip/false/crop/7539x4241+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F94%2Fb7%2Fce1232b24078bfc5457f9801c809%2F2301072530.jpg"
+        "date": "Thu, 22 Oct 2026 14:20:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3dba52/2147483647/strip/false/crop/4500x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F34%2F52%2F3957389149e9ad71253d5b229106%2F2254829323.jpg"
       },
       {
-        "title": "The McAfee alt cast underperforms in its debut",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-mcafee-alt-cast-underperforms-in-its-debut",
-        "summary": "When ESPN announced that it would produce a Pat McAfee-led alt cast during the Monday night games that don't feature a ManningCast, I sensed trouble on the horizon.",
+        "title": "Lamar Jackson present, participating at start of Thursday practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-present-participating-at-start-of-thursday-practice",
+        "summary": "It looks like Lamar Jackson is on track to return from his ankle injury this weekend when the Ravens play the Bengals.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 10:18:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/659c5cc/2147483647/strip/false/crop/7934x4463+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2F26%2F48cd8ffd4cff9fe7e94ce2ccedb7%2F2300268030.jpg"
+        "date": "Thu, 22 Oct 2026 13:56:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/98881bd/2147483647/strip/false/crop/4702x2645+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2F8f%2F7d8ecec345c0968285d948f057a3%2F2254985236.jpg"
       },
       {
-        "title": "Jordan Love dealing with sore back, but expects to play vs. Lions",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-love-dealing-with-sore-back-but-expects-to-play-vs-lions",
-        "summary": "Packers quarterback Jordan Love popped up on Wednesday's injury report as limited with a back injury.",
+        "title": "ABC affiliates aren't happy with Disney's plan for multiple Super Bowl options",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/abc-affiliates-arent-happy-with-disneys-plan-for-multiple-super-bowl-options",
+        "summary": "Disney plans, at last count, umpteen different ways to view Super Bowl LXI.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 09:47:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/891fad2/2147483647/strip/false/crop/3316x1865+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F19%2F6c9808da4c3caaa95f104152391d%2F2301190806.jpg"
+        "date": "Thu, 22 Oct 2026 13:53:29 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/aec376d/2147483647/strip/false/crop/6000x3375+0+314/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F05%2F4fd854ba4afebc927235250dd0ea%2F2160341395.jpg"
       },
       {
-        "title": "NFL cancels Steelers Fan House event in Paris",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-cancels-steelers-fan-house-event-in-paris",
-        "summary": "The NFL's approach to Sunday's game in Paris has been to shrug and say, \"fi des torpilles.\"",
+        "title": "Chiefs placing LT Josh Simmons on IR with disc issue",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-placing-lt-josh-simmons-on-ir-with-disc-issue",
+        "summary": "Kansas City left tackle Josh Simmons is going to be placed on injured reserve with the back injury that has kept him sidelined all season.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 09:43:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/07dbc5a/2147483647/strip/false/crop/5472x3078+0+285/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4b%2Fd6%2Fbfc5237a46a6a0d5410b36664ab2%2F2300718243.jpg"
+        "date": "Thu, 22 Oct 2026 13:45:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/048398c/2147483647/strip/false/crop/5049x2840+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F95%2Fe2%2F45103ebc4b2eaaedf02a37dd6ff2%2F2235839031.jpg"
       }
     ]
   }
