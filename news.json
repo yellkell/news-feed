@@ -1,14 +1,38 @@
 {
-  "updated": "2026-10-23T10:30:02.887Z",
+  "updated": "2026-10-23T15:23:03.359Z",
   "feed": {
     "VR": [
       {
-        "title": "Owlchemy’s new AR game lets you blast targets from your hands on Xreal Aura",
-        "url": "https://mixed-news.com/en/owlchemy-hyper-visor-xreal-aura-hand-blaster/",
-        "summary": "Owlchemy Labs has announced Hyper Visor, an arcade game for Xreal Aura that lets players fire energy streams from their hands.",
+        "title": "Anthropic says its automated jailbreak tester beat human entries in 23 of 24 tests",
+        "url": "https://mixed-news.com/en/anthropic-automated-jailbreak-testing-23-of-24-comparisons/",
+        "summary": "Anthropic says an automated system matched or beat the best human submissions in 24 comparisons designed to test biological-weapons safety classifiers.",
         "source": "mixed-news.com",
-        "date": "Fri, 23 Oct 2026 09:56:23 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2024/12/Android-XR-Owlchemy-Labs.png"
+        "date": "Fri, 23 Oct 2026 14:33:03 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/c6415447793f75ecceb45259b38a0c2213e75fcd-2000x1125-1.jpg"
+      },
+      {
+        "title": "Breaking Into China’s XR Market: A Starter Guide for Developers",
+        "url": "https://roadtovr.com/chinas-xr-starter-guide-antony-vitillo/",
+        "summary": "In the field of immersive realities, there are currently two countries leading: the United States and China.",
+        "source": "roadtovr.com",
+        "date": "Fri, 23 Oct 2026 13:18:09 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/pico-china-headset.png?resize=1671%2C941&quality=80&ssl=1"
+      },
+      {
+        "title": "VRChat Gets Native Face Tracking Support In Open Beta",
+        "url": "https://www.uploadvr.com/vrchat-gets-native-face-tracking-support-in-open-beta/",
+        "summary": "VRChat now offers native SDK-level Face Tracking support for avatars in the Open Beta client and Avatars SDK beta.",
+        "source": "uploadvr.com",
+        "date": "Fri, 23 Oct 2026 05:08:37 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb2.png"
+      },
+      {
+        "title": "Steam fixes disappearing shortcuts in beta and Vulkan freezes in stable",
+        "url": "https://mixed-news.com/en/steam-beta-missing-shortcuts-vulkan-alt-tab-stable-fix/",
+        "summary": "Valve has fixed non-Steam apps disappearing after a network reconnect in the Steam beta client.",
+        "source": "mixed-news.com",
+        "date": "Fri, 23 Oct 2026 13:36:38 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/lifestyle_dog.jpg"
       },
       {
         "title": "RAID VR Demo Impressions: A Rock Solid Gameplay Loop With Peculiar Design Choices",
@@ -25,40 +49,16 @@
         "source": "roadtovr.com",
         "date": "Thu, 22 Oct 2026 15:00:53 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/HyperVisor.png?resize=1536%2C1024&quality=80&ssl=1"
-      },
-      {
-        "title": "Gemini can remember your brand style for repeated marketing tasks",
-        "url": "https://mixed-news.com/en/gemini-business-hub-remembers-brand-style-connected-apps/",
-        "summary": "Google is adding a business hub to Gemini that can retain a company's visual style for future marketing work.",
-        "source": "mixed-news.com",
-        "date": "Fri, 23 Oct 2026 09:02:44 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/October_Gemini_VSB_hero.width-2200.format-webp.webp"
-      },
-      {
-        "title": "Daumier: Lila & Ghost Impressions - Good Premise, Bewildering Result",
-        "url": "https://www.uploadvr.com/daumier-lila-ghost-impressions-good-premise-bewildering-result/",
-        "summary": "Halfway through the second chapter of Daumier: Lila & Ghost, we stopped, looked around, and said \"What the hell are we doing?\"",
-        "source": "uploadvr.com",
-        "date": "Thu, 22 Oct 2026 11:57:18 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/daumier-gameplay-screen-2.jpg"
-      },
-      {
-        "title": "VRMMO ‘Zenith’ is Finally Pulling the Plug on Servers in December",
-        "url": "https://roadtovr.com/zenith-vrmmo-closing-servers-dec-2026-quest-pc-vr/",
-        "summary": "It’s been nearly two years since Ramen VR, the studio behind Zenith: The Last City (2022), announced it was ceasing development on the VR MMORPG due to difficulties in keeping…",
-        "source": "roadtovr.com",
-        "date": "Thu, 22 Oct 2026 08:18:01 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/01/zenith-vr-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Canva’s first AI image model plans designs before generating them",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-        "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.",
+        "title": "Meta delays new business terms after publisher pushback on AI scraping",
+        "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+        "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported…",
         "source": "theverge.com",
-        "date": "2026-10-22T17:51:25-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-23T10:47:41-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg"
       },
       {
-        "title": "Meta’s AI could still scrape news sites, legal experts say",
-        "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-        "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes…",
+        "title": "Retro gaming is being overrun with AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+        "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be.",
         "source": "theverge.com",
-        "date": "2026-10-22T16:32:05-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-23T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg"
       },
       {
-        "title": "Meta turns Muse sharing back on",
-        "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-        "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find.",
+        "title": "Canva’s first AI image model plans designs before generating them",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+        "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.",
         "source": "theverge.com",
-        "date": "2026-10-22T16:24:04-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-22T17:51:25-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Ben Johnson originally called a punt, but Cairo Santos asked to try a 58-yard field goal",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-originally-called-a-punt-but-cairo-santos-asked-to-try-a-58-yard-field-goal",
-        "summary": "After Bears head coach Ben Johnson initially called for a punt late in Thursday night's win over the Patriots, Bears kicker Cairo Santos convinced his coaches to let him try the…",
+        "title": "NFLPA names Laquon Treadwell their Community MVP for Week 7",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-names-laquon-treadwell-their-community-mvp-for-week-7",
+        "summary": "The NFL Players Association announced on Friday that Colts wide receiver Laquon Treadwell has been named their Community MVP for Week 7 of the 2026 season.",
         "source": "nbcsports.com",
-        "date": "Fri, 23 Oct 2026 05:42:27 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/daef88f/2147483647/strip/false/crop/3076x1730+0+160/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fba%2Fb6%2F09de18c9472ab6465a75c3b81ca4%2F2301019523.jpg"
+        "date": "Fri, 23 Oct 2026 11:08:58 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/774410b/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F01%2F9f%2F496a4a384e6ebaca38d99c1501ac%2F2299201543.jpg"
       },
       {
-        "title": "NFL tells teams that uncalled hip-drop tackle on Aaron Rodgers was clear example of penalty",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-tells-teams-that-uncalled-hip-drop-tackle-on-aaron-rodgers-was-clear-example-of-penalty",
-        "summary": "In Week 4, Browns defensive lineman Adin Huntington committed a textbook example of a hip-drop tackle on Steelers quarterback Aaron Rodgers.",
+        "title": "Steve Spagnuolo: Jaxon Smith-Njigba is \"really elite\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steve-spagnuolo-jaxon-smith-njigba-is-really-elite",
+        "summary": "With the Chiefs facing the Seahawks on Sunday night, Kansas City defensive coordinator Steve Spagnuolo has the unenviable task of scheming to slow down Jaxon Smith-Njigba.",
         "source": "nbcsports.com",
-        "date": "Fri, 23 Oct 2026 05:00:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/554e013/2147483647/strip/false/crop/5042x2836+0+263/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2Fe7%2F05e7cdb94a638cf4db8d6017084f%2F2298282920.jpg"
+        "date": "Fri, 23 Oct 2026 11:02:42 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bf70de5/2147483647/strip/false/crop/5404x3040+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fae%2Fab2be1014f4984e70e5ce473c557%2F2300851039.jpg"
       },
       {
-        "title": "Mike Vrabel's clock management included an intentional offside penalty",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabels-clock-management-included-an-intentional-offside-penalty",
-        "summary": "Vrabel has a long history of having his players commit penalties intentionally to manage the clock to his team's advantage.",
+        "title": "Sunday's match between PSG and Lyon in Paris is postponed at request of police",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sundays-match-between-psg-and-lyon-in-paris-is-postponed-at-request-of-police",
+        "summary": "The NFL continues to insist on playing in Paris on Sunday, despite local unrest that has sparked periodic riots.",
         "source": "nbcsports.com",
-        "date": "Fri, 23 Oct 2026 04:50:35 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/534e2f2/2147483647/strip/false/crop/4425x2489+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd5%2Fd5%2F6eb4b10f42ee895c24b413cf8848%2F2301020001.jpg"
+        "date": "Fri, 23 Oct 2026 11:02:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6ab919b/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F247%2F443%2Fnflparismpx.jpg"
       },
       {
-        "title": "Ben Johnson: Cole Kmet's knee injury doesn't look good",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-cole-kmets-knee-injury-doesnt-look-good",
-        "summary": "Caleb Williams said after the game, \"I don't have the words to describe what Cole is to me, to this team, to this organization.\"",
+        "title": "Jets to list Breece Hall as questionable, Adonai Mitchell set to play",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-to-list-breece-hall-as-questionable-adonai-mitchell-set-to-play",
+        "summary": "The Jets could have running back Breece Hall and wide receiver Adonai Mitchell back in the lineup for Sunday's game against the Dolphins.",
         "source": "nbcsports.com",
-        "date": "Fri, 23 Oct 2026 02:49:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ebc688b/2147483647/strip/false/crop/4980x2801+0+259/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2F48%2Fbe4464dc42a1955d763a17eeb940%2F2301570058.jpg"
+        "date": "Fri, 23 Oct 2026 10:56:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c93b4f6/2147483647/strip/false/crop/5762x3241+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2F28%2Fb7ba1a2942179fd24f2da4c2394e%2F2296958071.jpg"
       },
       {
-        "title": "Brian Schottenheimer: George Pickens \"needs to understand he impacts us in the run game\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-george-pickens-needs-to-understand-he-impacts-us-in-the-run-game",
-        "summary": "Cowboys receiver George Pickens was rewarded for a stellar contract year by being kept from getting a fair market deal.",
+        "title": "Anthony Richardson charged with misdemeanor marijuana possession",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-charged-with-misdemeanor-marijuana-possession",
+        "summary": "Colts quarterback Anthony Richardson faces a misdemeanor marijuana possession charge in Indiana.",
         "source": "nbcsports.com",
-        "date": "Fri, 23 Oct 2026 00:04:55 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d00bb8/2147483647/strip/false/crop/5371x3021+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb0%2Fec%2Fc5f73df0463bb79b733a37cfb20d%2F2301189935.jpg"
+        "date": "Fri, 23 Oct 2026 10:25:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33f169e/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2F00%2F008dbfb544a8880a03beadd21b44%2F2299697746.jpg"
       },
       {
-        "title": "Thursday Night Football: Bears fend off Patriots 30-24",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-bears-fend-off-patriots-30-24",
-        "summary": "Caleb Williams was 22-of-33 for 308 yards and two touchdowns.",
+        "title": "Aaron Rodgers isn't a fan of late travel for games in other countries",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-isnt-a-fan-of-late-travel-for-games-in-other-countries",
+        "summary": "The NFL's international experiment began in 2007, the year before Aaron Rodgers became an NFL starting quarterback.",
         "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 23:31:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3cd312b/2147483647/strip/false/crop/4024x2264+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2Fd0%2F51ad51fe40edac96cac8a2e40297%2F2301564326.jpg"
+        "date": "Fri, 23 Oct 2026 10:19:47 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ebbf4c/2147483647/strip/false/crop/3336x1877+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2F45%2Fc7e7afb84ba29ddce5754521a641%2F2026-10-18t185759z-23232621-mt1usatoday30124018-rtrmadp-3-nfl-pittsburgh-steelers-at-tampa-bay-buccaneers.jpg"
       }
     ]
   }
