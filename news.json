@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-23T05:39:50.703Z",
+  "updated": "2026-10-23T10:30:02.887Z",
   "feed": {
     "VR": [
       {
-        "title": "Xbox tests cloud gaming without Game Pass at $3.99 for ten hours",
-        "url": "https://mixed-news.com/en/xbox-cloud-playtime-hours-without-game-pass-insiders/",
-        "summary": "Microsoft is testing prepaid Xbox Cloud Gaming time without a Game Pass subscription, starting at $3.99 for ten hours in the US.",
+        "title": "Owlchemy’s new AR game lets you blast targets from your hands on Xreal Aura",
+        "url": "https://mixed-news.com/en/owlchemy-hyper-visor-xreal-aura-hand-blaster/",
+        "summary": "Owlchemy Labs has announced Hyper Visor, an arcade game for Xreal Aura that lets players fire energy streams from their hands.",
         "source": "mixed-news.com",
-        "date": "Fri, 23 Oct 2026 05:23:42 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2023/12/Xbox-Game-Pass-on-Meta-Quest.png"
+        "date": "Fri, 23 Oct 2026 09:56:23 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2024/12/Android-XR-Owlchemy-Labs.png"
       },
       {
         "title": "RAID VR Demo Impressions: A Rock Solid Gameplay Loop With Peculiar Design Choices",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/HyperVisor.png?resize=1536%2C1024&quality=80&ssl=1"
       },
       {
-        "title": "Claude Code fixes a bug that could send the same tool action twice",
-        "url": "https://mixed-news.com/en/claude-code-duplicate-mcp-tool-calls-fixed/",
-        "summary": "Anthropic has fixed a Claude Code bug that could send an HTTP-based MCP tool call twice when the connection closed partway through it.",
+        "title": "Gemini can remember your brand style for repeated marketing tasks",
+        "url": "https://mixed-news.com/en/gemini-business-hub-remembers-brand-style-connected-apps/",
+        "summary": "Google is adding a business hub to Gemini that can retain a company's visual style for future marketing work.",
         "source": "mixed-news.com",
-        "date": "Fri, 23 Oct 2026 04:28:41 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/50a00469e498d2c960d9e45f1a4a37d2d7a92f2e.jpg"
+        "date": "Fri, 23 Oct 2026 09:02:44 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/October_Gemini_VSB_hero.width-2200.format-webp.webp"
       },
       {
         "title": "Daumier: Lila & Ghost Impressions - Good Premise, Bewildering Result",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Ben Johnson originally called a punt, but Cairo Santos asked to try a 58-yard field goal",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-originally-called-a-punt-but-cairo-santos-asked-to-try-a-58-yard-field-goal",
+        "summary": "After Bears head coach Ben Johnson initially called for a punt late in Thursday night's win over the Patriots, Bears kicker Cairo Santos convinced his coaches to let him try the…",
+        "source": "nbcsports.com",
+        "date": "Fri, 23 Oct 2026 05:42:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/daef88f/2147483647/strip/false/crop/3076x1730+0+160/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fba%2Fb6%2F09de18c9472ab6465a75c3b81ca4%2F2301019523.jpg"
+      },
+      {
+        "title": "NFL tells teams that uncalled hip-drop tackle on Aaron Rodgers was clear example of penalty",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-tells-teams-that-uncalled-hip-drop-tackle-on-aaron-rodgers-was-clear-example-of-penalty",
+        "summary": "In Week 4, Browns defensive lineman Adin Huntington committed a textbook example of a hip-drop tackle on Steelers quarterback Aaron Rodgers.",
+        "source": "nbcsports.com",
+        "date": "Fri, 23 Oct 2026 05:00:55 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/554e013/2147483647/strip/false/crop/5042x2836+0+263/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2Fe7%2F05e7cdb94a638cf4db8d6017084f%2F2298282920.jpg"
+      },
+      {
+        "title": "Mike Vrabel's clock management included an intentional offside penalty",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabels-clock-management-included-an-intentional-offside-penalty",
+        "summary": "Vrabel has a long history of having his players commit penalties intentionally to manage the clock to his team's advantage.",
+        "source": "nbcsports.com",
+        "date": "Fri, 23 Oct 2026 04:50:35 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/534e2f2/2147483647/strip/false/crop/4425x2489+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd5%2Fd5%2F6eb4b10f42ee895c24b413cf8848%2F2301020001.jpg"
+      },
+      {
+        "title": "Ben Johnson: Cole Kmet's knee injury doesn't look good",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-cole-kmets-knee-injury-doesnt-look-good",
+        "summary": "Caleb Williams said after the game, \"I don't have the words to describe what Cole is to me, to this team, to this organization.\"",
+        "source": "nbcsports.com",
+        "date": "Fri, 23 Oct 2026 02:49:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ebc688b/2147483647/strip/false/crop/4980x2801+0+259/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2F48%2Fbe4464dc42a1955d763a17eeb940%2F2301570058.jpg"
+      },
+      {
         "title": "Brian Schottenheimer: George Pickens \"needs to understand he impacts us in the run game\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-george-pickens-needs-to-understand-he-impacts-us-in-the-run-game",
         "summary": "Cowboys receiver George Pickens was rewarded for a stellar contract year by being kept from getting a fair market deal.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Thu, 22 Oct 2026 23:31:21 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/3cd312b/2147483647/strip/false/crop/4024x2264+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2Fd0%2F51ad51fe40edac96cac8a2e40297%2F2301564326.jpg"
-      },
-      {
-        "title": "Marlon Humphrey complains about \"slander\" of Lamar Jackson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marlon-humphrey-complains-about-slander-of-qb-lamar-jackson",
-        "summary": "Ravens cornerback Marlon Humphrey isn't happy with the manner in which Ravens quarterback Lamar Jackson is treated.",
-        "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 23:13:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f4b93ab/2147483647/strip/false/crop/4265x2399+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F8f%2Fa9eea1f645c38bd2b7aee6faf889%2F2300040070.jpg"
-      },
-      {
-        "title": "Bears TE Kmet carted off with a knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-te-cole-kmet-carted-off-with-a-knee-injury",
-        "summary": "The Bears quickly ruled him out.",
-        "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 23:10:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a3b41b6/2147483647/strip/false/crop/4986x2805+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F89%2Fae%2F5eca37c548fea347022a487235d9%2F2301564929.jpg"
-      },
-      {
-        "title": "Bears DB Malik Muhammad doubtful to return with toe injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-db-malik-muhammad-doubtful-to-return-with-toe-injury",
-        "summary": "Bears rookie defensive back Malik Muhammad is doubtful to return tonight.",
-        "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 22:49:17 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a8149cf/2147483647/strip/false/crop/7458x4195+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2F6a%2Fcfe393414807a8e165eb81d20ed9%2F2300536138.jpg"
-      },
-      {
-        "title": "Drake Maye's second TD makes it a one-score game again",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-mayes-second-td-makes-it-a-one-score-game-again",
-        "summary": "Drake Maye's 30-yard touchdown pass to rookie tight end Eli Raridon has the Patriots back within one score of the Bears.",
-        "source": "nbcsports.com",
-        "date": "Thu, 22 Oct 2026 22:26:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5ff4275/2147483647/strip/false/crop/5808x3267+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F7d%2Fcdf0b6e64f97958943eec1c355ce%2F2301561129.jpg"
       }
     ]
   }
