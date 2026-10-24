@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-23T22:27:02.430Z",
+  "updated": "2026-10-24T00:54:48.319Z",
   "feed": {
     "VR": [
+      {
+        "title": "Final Fantasy VII Remake Intergrade joins Game Pass on October 29",
+        "url": "https://mixed-news.com/en/final-fantasy-vii-remake-intergrade-game-pass-october-29/",
+        "summary": "Final Fantasy VII Remake Intergrade is coming to Game Pass on October 29 for cloud, Xbox Series X|S and PC.",
+        "source": "mixed-news.com",
+        "date": "Sat, 24 Oct 2026 00:25:45 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_20a352a2c20dd4bfb08fa131dc4c2e763510f584.1920x1080.jpg"
+      },
       {
         "title": "The Rifted Skies Demo Is A Blood-Pumping Rush Of Roguelite Action",
         "url": "https://www.uploadvr.com/the-rifted-skies-demo-is-a-blood-pumping-rush-of-roguelite-action/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Fri, 23 Oct 2026 15:03:46 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/the-rifted-skies-ss-2.jpg"
-      },
-      {
-        "title": "Valve pauses Steam Deck hibernation in its latest SteamOS beta",
-        "url": "https://mixed-news.com/en/steamos-beta-steam-deck-hibernation-disabled-driver-bugs/",
-        "summary": "Valve has temporarily disabled hibernation on Steam Deck in the latest SteamOS beta because of unresolved driver bugs.",
-        "source": "mixed-news.com",
-        "date": "Fri, 23 Oct 2026 21:43:04 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/lifestyle_hammock.jpg"
       },
       {
         "title": "Breaking Into China’s XR Market: A Starter Guide for Developers",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/pico-china-headset.png?resize=1671%2C941&quality=80&ssl=1"
       },
       {
-        "title": "Good Morning puts a strange office mystery entirely within reach in seated VR",
-        "url": "https://mixed-news.com/en/good-morning-employee-name-seated-vr-office-mystery/",
-        "summary": "Good Morning [Employee Name] VR is an upcoming office mystery that can be played entirely while seated.",
+        "title": "Nvidia gives robot developers new tools to generate rare training scenarios",
+        "url": "https://mixed-news.com/en/nvidia-cosmos-tools-synthetic-training-robot-world-models/",
+        "summary": "Nvidia has expanded Cosmos with tools for generating training examples that would be difficult or unsafe to collect in the real world.",
         "source": "mixed-news.com",
-        "date": "Fri, 23 Oct 2026 20:46:18 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_1f2e5b1a4e7831487d02ecf39feb6f40d368436d.1920x1080.jpg"
+        "date": "Fri, 23 Oct 2026 23:32:49 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg"
       },
       {
         "title": "FlatOut 4: Total Insanity VR Leaves PC VR Early Access Today With New Features & A New Price",
