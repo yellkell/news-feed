@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-24T16:56:57.981Z",
+  "updated": "2026-10-24T19:14:04.463Z",
   "feed": {
     "VR": [
       {
-        "title": "Final Fantasy VII Remake Intergrade joins Game Pass on October 29",
-        "url": "https://mixed-news.com/en/final-fantasy-vii-remake-intergrade-game-pass-october-29/",
-        "summary": "Final Fantasy VII Remake Intergrade is coming to Game Pass on October 29 for cloud, Xbox Series X|S and PC.",
+        "title": "SteamOS 3.9 reaches all users with lower Steam Deck idle power use",
+        "url": "https://mixed-news.com/en/steamos-3-9-stable-steam-deck-idle-power-streaming-fixes/",
+        "summary": "SteamOS 3.9 is now available on the stable channel, bringing lower idle power consumption to Steam Deck when no audio is playing.",
         "source": "mixed-news.com",
-        "date": "Sat, 24 Oct 2026 00:25:45 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_20a352a2c20dd4bfb08fa131dc4c2e763510f584.1920x1080.jpg"
+        "date": "Sat, 24 Oct 2026 18:13:35 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_5535edca3f6c9844d301de3a88ed16a4575376ac.1920x1080-1.jpg"
       },
       {
         "title": "The Rifted Skies Demo Is A Blood-Pumping Rush Of Roguelite Action",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/pico-china-headset.png?resize=1671%2C941&quality=80&ssl=1"
       },
       {
-        "title": "Nvidia gives robot developers new tools to generate rare training scenarios",
-        "url": "https://mixed-news.com/en/nvidia-cosmos-tools-synthetic-training-robot-world-models/",
-        "summary": "Nvidia has expanded Cosmos with tools for generating training examples that would be difficult or unsafe to collect in the real world.",
+        "title": "Final Fantasy VII Remake Intergrade joins Game Pass on October 29",
+        "url": "https://mixed-news.com/en/final-fantasy-vii-remake-intergrade-game-pass-october-29/",
+        "summary": "Final Fantasy VII Remake Intergrade is coming to Game Pass on October 29 for cloud, Xbox Series X|S and PC.",
         "source": "mixed-news.com",
-        "date": "Fri, 23 Oct 2026 23:32:49 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg"
+        "date": "Sat, 24 Oct 2026 00:25:45 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_20a352a2c20dd4bfb08fa131dc4c2e763510f584.1920x1080.jpg"
       },
       {
         "title": "FlatOut 4: Total Insanity VR Leaves PC VR Early Access Today With New Features & A New Price",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI now trains its frontier AI models with no internet access",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-        "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads.",
         "source": "theverge.com",
-        "date": "2026-10-23T17:11:07-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-24T14:32:21-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg"
       },
       {
-        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-        "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had…",
+        "title": "OpenAI now trains its frontier AI models with no internet access",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+        "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents.",
         "source": "theverge.com",
-        "date": "2026-10-23T15:32:39-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-23T17:11:07-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg"
       },
       {
-        "title": "The iPhone Duo should have been an iPad",
-        "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-        "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a…",
+        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+        "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had…",
         "source": "theverge.com",
-        "date": "2026-10-23T13:00:18-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-23T15:32:39-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Without tight end Cole Kmet, Bears may run more jumbo six-lineman formations",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/without-tight-end-cole-kmet-bears-may-run-more-jumbo-six-lineman-formations",
-        "summary": "Bears tight end Cole Kmet suffered a season-ending knee injury on Thursday night, and the Bears' plan for replacing him could entail putting more offensive linemen on the field.",
+        "title": "Steelers activate S DeShon Elliott",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-activate-s-deshon-elliott",
+        "summary": "Safety DeShon Elliott is back on the Steelers' active roster.",
         "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 12:30:15 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eaa5f0f/2147483647/strip/false/crop/4687x2636+0+244/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F2d%2F90a554eb4a9f85f5bd2ebbdd081e%2F2297625643.jpg"
+        "date": "Sat, 24 Oct 2026 15:05:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec74554/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F38%2F1839ff8d4544bd34d204d0954188%2F2295123168.jpg"
       },
       {
-        "title": "The PFT 25th anniversary is coming next weekend",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-pft-25th-anniversary-is-coming-next-weekend",
-        "summary": "Twenty-five years ago this month, I had a decision to make.",
+        "title": "Questions linger regarding whether Jed York received preferential treatment",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/questions-linger-regarding-whether-jed-york-received-preferential-treatment",
+        "summary": "As it relates to the financial consequences of 49ers owner Jed York's suspension, relative to the financial consequences of a player suspension, there's no question that York…",
         "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 10:52:29 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/416cbbd/2147483647/strip/false/crop/2830x1592+0+368/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6f%2F18%2Fa7abe52d4b8aa8ec0d9fd4f4d089%2Ffullsizerender.jpeg"
+        "date": "Sat, 24 Oct 2026 15:04:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b8d4958/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F9f%2F321ca48440c2831e08ca514d185b%2F1671109131.jpg"
       },
       {
-        "title": "With Troy Aikman possibly exiting broadcasting, he extends an olive branch to Jerry Jones",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-troy-aikman-possibly-exiting-broadcasting-he-extends-an-olive-branch-to-jerry-jones",
-        "summary": "Hall of Fame quarterback Troy Aikman has talked openly for years about wanting to work in an NFL front office.",
+        "title": "Dolphins activate S Kyle Louis back to active roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-activate-s-kyle-louis-back-to-active-roster",
+        "summary": "The Dolphins activated safety Kyle Louis off injured reserve, the team announced Saturday.",
         "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 09:54:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96ea48f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F293%2F339%2Fnbc_pftpm_jjwattcbs_261022.jpg"
+        "date": "Sat, 24 Oct 2026 15:00:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ca04c65/2147483647/strip/false/crop/4498x2530+0+235/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F1d%2Fd4c74c7c4e1b83f7c12c116e3c20%2F2296988151.jpg"
       },
       {
-        "title": "Saints elevate WR Cedric Tillman, OT Easton Kilty",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-elevate-wr-cedric-tillman-ot-easton-kilty",
-        "summary": "The Saints announced that they have elevated a pair of players from the practice squad for Sunday's game against the Steelers.",
+        "title": "Chiefs put RB Brashard Smith on IR, activate LB Cooper McDonald",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-put-rb-brashard-smith-on-ir-activate-lb-cooper-mcdonald",
+        "summary": "The Chiefs made a change at running back ahead of Sunday's game against the Seahawks.",
         "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 09:43:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/263bd14/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F17%2F9c6df69f4a5f824ff7859e6806b7%2F2298456220.jpg"
+        "date": "Sat, 24 Oct 2026 14:58:15 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7c7bb58/2147483647/strip/false/crop/7004x3940+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2d%2Fe4%2Fcc56b8e646328e3356e91a0bacd1%2F2295927040.jpg"
       },
       {
-        "title": "CeeDee Lamb: We feel we have best roster in NFC East, so why not us?",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-we-feel-we-have-best-roster-in-nfc-east-so-why-not-us",
-        "summary": "The first six weeks of the season have not gone as hoped for the Cowboys, but they head into Week 7 with the NFC East well within their grasp.",
+        "title": "With Nick Bosa out longer than expected, 49ers may not have enough healthy players for roster spots on Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-nick-bosa-out-longer-than-expected-49ers-may-not-have-enough-healthy-players-for-roster-spots-on-sunday",
+        "summary": "Bosa will miss fifth game with calf injury.",
         "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 09:33:10 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/eaf68f2/2147483647/strip/false/crop/3326x1871+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2F55%2Fde5e722c46ad9358a34463cb5d2e%2F2301195517.jpg"
+        "date": "Sat, 24 Oct 2026 14:13:06 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f7ca92/2147483647/strip/false/crop/3111x1750+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F8d%2F8c66e20446d4b3f68fc17dc0cbec%2F2297316868.jpg"
       },
       {
-        "title": "The NFL should relocate the Steelers-Saints game in Paris to London",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-nfl-should-relocate-the-steelers-saints-game-in-paris-to-london",
-        "summary": "NFL scraps multiple Saturday events due to ongoing protests.",
+        "title": "Giants rule out S Jevon Holland, TE Theo Johnson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-rule-out-s-jevon-holland-te-theo-johnson",
+        "summary": "The Giants ruled out a pair of players for Week 7 on Saturday afternoon.",
         "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 09:01:51 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f8bb4c/2147483647/strip/false/crop/7488x4212+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2F9d%2Fb46cf980485c91280fb2dcc2b61a%2F2301094118.jpg"
+        "date": "Sat, 24 Oct 2026 13:55:17 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0d1cf77/2147483647/strip/false/crop/4501x2532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F64%2F064e817a4621bc4edce57f7ae1f9%2F2300208677.jpg"
       }
     ]
   }
