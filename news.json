@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-25T01:39:40.812Z",
+  "updated": "2026-10-25T06:50:57.564Z",
   "feed": {
     "VR": [
       {
-        "title": "iPhone Duo gets Apple Pencil support in beta but only the USB-C model works",
-        "url": "https://mixed-news.com/en/iphone-duo-apple-pencil-usb-c-ios-27-2-beta/",
-        "summary": "Apple Pencil support is working on iPhone Duo in the iOS 27.2 beta, but an existing Pencil Pro will not do the job.",
+        "title": "VRChat brings native face tracking to avatars in its open beta",
+        "url": "https://mixed-news.com/en/vrchat-native-avatar-face-tracking-open-beta/",
+        "summary": "VRChat is bringing native face-tracking support into its avatar tools through the open beta.",
         "source": "mixed-news.com",
-        "date": "Sun, 25 Oct 2026 00:52:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Apple-iPhone-Duo-display-sizes-260909_big.jpg.large_2x.jpg"
+        "date": "Sun, 25 Oct 2026 06:35:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_1577335ddadd96c338c16a747758290b4214eb85.1920x1080.jpg"
       },
       {
         "title": "The Rifted Skies Demo Is A Blood-Pumping Rush Of Roguelite Action",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/pico-china-headset.png?resize=1671%2C941&quality=80&ssl=1"
       },
       {
-        "title": "Dawn of War IV promises more than 70 missions across four campaigns",
-        "url": "https://mixed-news.com/en/dawn-of-war-4-four-campaigns-seventy-missions/",
-        "summary": "Dawn of War IV will offer more than 70 missions across four faction campaigns when it launches on December 3.",
+        "title": "Metro Redux gets modern graphics options and a way back for older PCs",
+        "url": "https://mixed-news.com/en/metro-redux-upgrade-dlss-fsr-legacy-branch/",
+        "summary": "Metro 2033 Redux and Metro Last Light Redux have received their next-generation PC update, adding modern upscaling and visual improvements.",
         "source": "mixed-news.com",
-        "date": "Sun, 25 Oct 2026 00:03:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_19b41acb35fbb7365edd1f2d79517e60d3bcd1b3.1920x1080.jpg"
+        "date": "Sun, 25 Oct 2026 05:44:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_112337526a32cfc5a14e73f739a880c00721d5c7.1920x1080.jpg"
       },
       {
         "title": "FlatOut 4: Total Insanity VR Leaves PC VR Early Access Today With New Features & A New Price",
@@ -103,6 +103,22 @@
     ],
     "NFL": [
       {
+        "title": "Bill Belichick, North Carolina fall to Syracuse in OT, 31-30",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-north-carolina-fall-to-syracuse-in-ot-31-30",
+        "summary": "After a pair of signature wins over Pitt and Duke, North Carolina and coach Bill Belichick have fallen to ACC rival Syracuse.",
+        "source": "nbcsports.com",
+        "date": "Sat, 24 Oct 2026 23:27:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12294ee/2147483647/strip/false/crop/5248x2952+0+274/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2Ffc%2F732b152844fb98b61d9ad321807b%2F2301848083.jpg"
+      },
+      {
+        "title": "Browns extend DT Maliek Collins by two years",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-extend-dt-maliek-collins-by-two-years",
+        "summary": "The contract year of veteran defensive tackle Maliek Collins has resulted after only six games in new contact.",
+        "source": "nbcsports.com",
+        "date": "Sat, 24 Oct 2026 23:14:41 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58e16b3/2147483647/strip/false/crop/3906x2197+0+203/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa4%2F4a%2F3f73e0764873a860cbef37e68700%2F2295469856.jpg"
+      },
+      {
         "title": "Chase Young, Christen Miller were fined for violent gestures on same play",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chase-young-christen-miller-were-fined-for-violent-gestures-on-same-play",
         "summary": "The NFL's sudden embrace of the \"No Fun League\" dynamic resulted in a rash of fines that were replaced with a new approach to discipline for celebrations.",
@@ -133,22 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 24 Oct 2026 19:37:50 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/c9c6ffc/2147483647/strip/false/crop/3795x2135+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9d%2Fd1%2F8f46e72e43168d9456aff98c0c91%2F2266574496.jpg"
-      },
-      {
-        "title": "Texans activate WR Tank Dell to the active roster",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-activate-wr-tank-dell-to-the-active-roster",
-        "summary": "Tank Dell will play his first game in nearly two years on Sunday when the Texans play the Giants.",
-        "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 17:14:52 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/65d0682/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F913%2F535%2Fnbc_pft_texans_jags_261019.jpg"
-      },
-      {
-        "title": "49ers activate WR Christian Kirk from IR",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-activate-wr-christian-kirk-from-ir",
-        "summary": "The 49ers made a procedural move on Friday, releasing defensive lineman Ogbo Okoronkwo to make room for wide receiver Christian Kirk.",
-        "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 17:00:39 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6ced688/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F516%2F987%2Fnbc_pftpm_troyaikman_261024.jpg"
       }
     ]
   }
