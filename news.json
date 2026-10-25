@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-25T12:14:26.732Z",
+  "updated": "2026-10-25T16:24:36.743Z",
   "feed": {
     "VR": [
       {
-        "title": "Claude Enterprise will combine chat and Cowork by default on November 16",
-        "url": "https://mixed-news.com/en/claude-enterprise-chat-cowork-unified-november-16/",
-        "summary": "Claude Enterprise customers can now use chat and Cowork in one conversation, and eligible organisations will get the combined experience by default on November 16.",
+        "title": "OpenAI paused frontier AI training for 11 days after a model reached the internet",
+        "url": "https://mixed-news.com/en/openai-frontier-training-eleven-day-pause-internet/",
+        "summary": "OpenAI paused frontier AI training for 11 days after a research model gained limited internet access through a configuration weakness.",
         "source": "mixed-news.com",
-        "date": "Sun, 25 Oct 2026 11:28:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/e0035a095d8888c9739f8acb305f517b25d469eb.jpg"
+        "date": "Sun, 25 Oct 2026 15:33:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/new-approach-to-research-model-containment-social.png"
       },
       {
         "title": "The Rifted Skies Demo Is A Blood-Pumping Rush Of Roguelite Action",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/pico-china-headset.png?resize=1671%2C941&quality=80&ssl=1"
       },
       {
-        "title": "The Rifted Skies lets you try its VR parkour before the demo ends October 26",
-        "url": "https://mixed-news.com/en/rifted-skies-vr-parkour-demo-october-26/",
-        "summary": "The Rifted Skies has a free PC VR demo available until October 26, giving players a limited window to try its parkour combat.",
+        "title": "RAID VR turns spaceship customs checks into a co-op boarding shooter",
+        "url": "https://mixed-news.com/en/raid-vr-free-demo-cargo-inspections-co-op/",
+        "summary": "RAID VR has a free Steam demo for players who like their space policing to involve both paperwork and gunfire.",
         "source": "mixed-news.com",
-        "date": "Sun, 25 Oct 2026 10:40:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_5065ebe1554040a670ac44b744000ad7a824779c.1920x1080.jpg"
+        "date": "Sun, 25 Oct 2026 14:45:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_300893ef74e9664850f81f643c8463c214f2f18e.1920x1080.jpg"
       },
       {
         "title": "FlatOut 4: Total Insanity VR Leaves PC VR Early Access Today With New Features & A New Price",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "Google’s AI search changes upended online publishing",
-        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
+        "title": "r/opensource just banned AI, non-English speakers, and more",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI.",
         "source": "theverge.com",
-        "date": "2026-10-25T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-25T09:25:32-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg"
       },
       {
-        "title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-        "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots.",
+        "title": "Google’s AI search changes upended online publishing",
+        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
         "source": "theverge.com",
-        "date": "2026-10-24T17:29:12-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-25T08:00:00-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg"
       },
       {
-        "title": "Pennsylvania will require labels on AI-generated ads",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-        "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads.",
+        "title": "Blue Planet III is keeping the rough edges in the age of AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+        "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots.",
         "source": "theverge.com",
-        "date": "2026-10-24T14:32:21-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-24T17:29:12-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Mark Sanchez's change-of-plea hearing has been rescheduled for January 25",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-sanchezs-change-of-plea-hearing-has-been-rescheduled-for-january-25",
-        "summary": "The confusion has been resolved regarding the status of former NFL quarterback and former Fox announcer Mark Sanchez's criminal case.",
+        "title": "J.J. McCarthy carries four-game winning streak into first start for Giants",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-carries-four-game-winning-streak-into-first-start-for-giants",
+        "summary": "The 3-2-1 Giants have made a quarterback change in advance of the city known for countdowns.",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 08:06:31 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6ced688/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F516%2F987%2Fnbc_pftpm_troyaikman_261024.jpg"
+        "date": "Sun, 25 Oct 2026 12:18:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e0a2c14/2147483647/strip/false/crop/4000x2250+0+209/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1b%2F68%2Fd9ddef644a0584a355d60aded4f8%2F2301938889.jpg"
       },
       {
-        "title": "Deion Sanders after Colorado's blowout loss to Oklahoma State: \"I really don't understand it\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-after-colorados-blowout-loss-to-oklahoma-state-i-really-dont-understand-it",
-        "summary": "Deion Sanders's fourth season as head coach of the Colorado Buffaloes started with an upset of Georgia Tech and a blowout of overmatched Weber State.",
+        "title": "Buccaneers have played in 12 straight one-score games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-have-played-in-12-straight-one-score-games",
+        "summary": "If the league office has a favorite team, it's currently the Buccaneers.",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 07:46:47 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/02b0f4c/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F0b%2Fe37620d94592bec547c63afeef44%2F2301440039.jpg"
+        "date": "Sun, 25 Oct 2026 12:03:53 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8bb3ec1/2147483647/strip/false/crop/3999x2249+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2Fc4%2F9507754a4cbb9cc42292eb9afaec%2F2300357539.jpg"
       },
       {
-        "title": "Report: Andy Reid and Patrick Mahomes told Josh Simmons to leave a team meeting",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-andy-reid-and-patrick-mahomes-told-josh-simmons-to-leave-a-team-meeting",
-        "summary": "The incident took place a day before Simmons was placed on injured reserve. Simmons later apologized.",
+        "title": "Jets RB Breece Hall is inactive for the third straight game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-rb-breece-hall-is-inactive-for-the-third-straight-game",
+        "summary": "Hall was listed as questionable with a quad injury, but the Jets will have to wait at least one more week.",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 07:40:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/24a0469/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F384%2F655%2Fnbc_pft_pmonwalker_261023.jpg"
+        "date": "Sun, 25 Oct 2026 11:34:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cc6409f/2147483647/strip/false/crop/2799x1574+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa3%2Fa3%2F4f2763c64b02acd5506788c00ade%2F2296306468.jpg"
       },
       {
-        "title": "NFLPA has yet to launch \"full investigation\" of Jalen Hurts situation",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-has-yet-to-launch-full-investigation-of-jalen-hurts-situation",
-        "summary": "Hurts still have the ability to launch the ultimate external investigation: Litigation.",
+        "title": "Steelers kick last-second field goal to take 13-10 lead over Saints at halftime in Paris",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-kick-last-second-field-goal-to-take-13-10-lead-over-saints-at-halftime-in-paris",
+        "summary": "It's been a back-and-forth battle today in France.",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 07:33:49 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/33c9055/2147483647/strip/false/crop/8640x4860+0+450/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F01%2F0e7530d3493780e9323ed2815405%2F2298509324.jpg"
+        "date": "Sun, 25 Oct 2026 11:06:21 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/20ff381/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F89%2Faefb133c41899fdcaa336f478868%2F2301509611.jpg"
       },
       {
-        "title": "Travis Kelce's receiving yardage total will soon break Tony Gonzalez's tight end record",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelces-receiving-yardage-total-will-soon-break-tony-gonzalezs-tight-end-record",
-        "summary": "Kelce needs just 35 receiving yards to have a career total higher than Gonzalez, counting the postseason.",
+        "title": "Saints benefit from questionable replay review on T.J. Watt strip sack of Tyler Shough",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-benefit-from-questionable-replay-review-on-t-j-watt-strip-sack-of-tyler-shough",
+        "summary": "What appeared to be a Saints turnover was overturned on replay, leading to a Saints field goal in Paris.",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 04:28:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6e573f0/2147483647/strip/false/crop/5010x2818+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2Fe8%2Fd28e230a4a079b96418ee6ff01a3%2F2301197340.jpg"
+        "date": "Sun, 25 Oct 2026 10:32:34 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/517143a/2147483647/strip/false/crop/7362x4141+0+383/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F6a%2F393d45194c3e84d510d9b4b5f7ed%2F2301496727.jpg"
       },
       {
-        "title": "Bill Belichick, North Carolina fall to Syracuse in OT, 31-30",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-north-carolina-fall-to-syracuse-in-ot-31-30",
-        "summary": "After a pair of signature wins over Pitt and Duke, North Carolina and coach Bill Belichick have fallen to ACC rival Syracuse.",
+        "title": "Ja'Marr Chase, who doesn't have a 100-yard game in 2026, averages 117.1 vs. Ravens",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-who-doesnt-have-a-100-yard-game-in-2026-averages-117-1-vs-ravens",
+        "summary": "There's a very good reason for Ravens cornerback Marlon Humphrey not wanting to cover Bengals receiver Ja'Marr Chase.",
         "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 23:27:43 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12294ee/2147483647/strip/false/crop/5248x2952+0+274/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2Ffc%2F732b152844fb98b61d9ad321807b%2F2301848083.jpg"
+        "date": "Sun, 25 Oct 2026 10:10:16 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ae19d92/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F299%2F694%2Fchase.jpg"
       }
     ]
   }
