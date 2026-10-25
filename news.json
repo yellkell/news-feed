@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-24T23:42:40.057Z",
+  "updated": "2026-10-25T01:39:40.812Z",
   "feed": {
     "VR": [
       {
-        "title": "Claude Duet keeps working when your laptop is off, but uses your plan's limits",
-        "url": "https://mixed-news.com/en/claude-duet-pro-max-background-agent-preview/",
-        "summary": "Claude can now come to you with a morning briefing and keep working after you close your laptop.",
+        "title": "iPhone Duo gets Apple Pencil support in beta but only the USB-C model works",
+        "url": "https://mixed-news.com/en/iphone-duo-apple-pencil-usb-c-ios-27-2-beta/",
+        "summary": "Apple Pencil support is working on iPhone Duo in the iOS 27.2 beta, but an existing Pencil Pro will not do the job.",
         "source": "mixed-news.com",
-        "date": "Sat, 24 Oct 2026 23:13:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/2ea9a7ae6dfe5a96c7e3e0fb759df5a0703704b1.png"
+        "date": "Sun, 25 Oct 2026 00:52:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Apple-iPhone-Duo-display-sizes-260909_big.jpg.large_2x.jpg"
       },
       {
         "title": "The Rifted Skies Demo Is A Blood-Pumping Rush Of Roguelite Action",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/pico-china-headset.png?resize=1671%2C941&quality=80&ssl=1"
       },
       {
-        "title": "Fading Light brings free co-op zombie survival to Quest on November 12",
-        "url": "https://mixed-news.com/en/fading-light-free-quest-zombie-survival-november-12/",
-        "summary": "Fading Light will launch on Meta Quest on November 12 as a free-to-play VR survival game.",
+        "title": "Dawn of War IV promises more than 70 missions across four campaigns",
+        "url": "https://mixed-news.com/en/dawn-of-war-4-four-campaigns-seventy-missions/",
+        "summary": "Dawn of War IV will offer more than 70 missions across four faction campaigns when it launches on December 3.",
         "source": "mixed-news.com",
-        "date": "Sat, 24 Oct 2026 22:25:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/491821796_1097728179298030_5301221471302096359_n.webp"
+        "date": "Sun, 25 Oct 2026 00:03:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_19b41acb35fbb7365edd1f2d79517e60d3bcd1b3.1920x1080.jpg"
       },
       {
         "title": "FlatOut 4: Total Insanity VR Leaves PC VR Early Access Today With New Features & A New Price",
@@ -103,6 +103,30 @@
     ],
     "NFL": [
       {
+        "title": "Chase Young, Christen Miller were fined for violent gestures on same play",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chase-young-christen-miller-were-fined-for-violent-gestures-on-same-play",
+        "summary": "The NFL's sudden embrace of the \"No Fun League\" dynamic resulted in a rash of fines that were replaced with a new approach to discipline for celebrations.",
+        "source": "nbcsports.com",
+        "date": "Sat, 24 Oct 2026 21:20:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/56a3198/2147483647/strip/false/crop/3999x2249+0+335/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F66%2Fcb%2Fb1ad734740178555e27c8a28aff1%2F2301029828.jpg"
+      },
+      {
+        "title": "After another day of Paris protests, NFL is on track to stage Steelers-Saints at Stade de France",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-another-day-of-paris-protests-nfl-is-on-track-to-stage-steelers-saints-at-stade-de-france",
+        "summary": "At this point, it's too late to turn back for Sunday's game.",
+        "source": "nbcsports.com",
+        "date": "Sat, 24 Oct 2026 20:47:59 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/589dc33/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F516%2F987%2Fnbc_pftpm_parisgame_261024.jpg"
+      },
+      {
+        "title": "Bears' trick play fell flat due to clear rules violation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-trick-play-fell-flat-due-to-clear-rules-violation",
+        "summary": "Thursday night's game between the Patriots and Bears included a trick play from Bears coach Ben Johnson.",
+        "source": "nbcsports.com",
+        "date": "Sat, 24 Oct 2026 20:19:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/91fbfff/2147483647/strip/false/crop/8256x4644+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2Fdf%2F239a2b994faca23dc67cefa454b3%2F2026-10-23t000512z-1093233470-mt1usatoday30157251-rtrmadp-3-nfl-new-england-patriots-at-chicago-bears.jpg"
+      },
+      {
         "title": "Report: Philip Rivers is \"expected to be in the mix\" for NC State job",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-philip-rivers-is-expected-to-be-in-the-mix-for-nc-state-job",
         "summary": "Former NFL quarterback Philip Rivers interviewed for the Bills' head-coaching job in January.",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 24 Oct 2026 17:00:39 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/6ced688/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F516%2F987%2Fnbc_pftpm_troyaikman_261024.jpg"
-      },
-      {
-        "title": "WR George Pickens, CB Joey Porter Jr. have no injury designation",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-george-pickens-cb-joey-porter-jr-have-no-injury-designation",
-        "summary": "The Cowboys will have wide receiver George Pickens (shoulder) and cornerback Joey Porter Jr.",
-        "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 16:46:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5947e48/2147483647/strip/false/crop/4755x2675+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F28%2Faf%2F86fe8881427ea6124de116c8470d%2F2026-10-10t081526z-358759654-mt1usatoday30045173-rtrmadp-3-nfl-tampa-bay-buccaneers-at-dallas-cowboys.jpg"
-      },
-      {
-        "title": "Three Panthers players fined for three separate incidents of taunting",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/three-panthers-players-fined-for-three-separate-incidents-of-taunting",
-        "summary": "Only four players across the NFL got fined for taunting in Week 6, and three of those four were on the Panthers.",
-        "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 16:37:03 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/20c94d9/2147483647/strip/false/crop/7582x4265+0+395/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2Fb9%2Fe7d937a247fa92a6b6f66ca9f24b%2F2301037839.jpg"
-      },
-      {
-        "title": "Lions activate Brian Branch, Cade Mays",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-activate-brian-branch-cade-mays",
-        "summary": "Safety Brian Branch will be back in the Lions' lineup on Sunday afternoon.",
-        "source": "nbcsports.com",
-        "date": "Sat, 24 Oct 2026 16:32:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/12229ef/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F292%2F862%2Fnbc_pft_packerslions_261022.jpg"
       }
     ]
   }
