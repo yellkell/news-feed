@@ -1,22 +1,46 @@
 {
-  "updated": "2026-10-26T06:58:52.207Z",
+  "updated": "2026-10-26T13:59:44.847Z",
   "feed": {
     "VR": [
       {
-        "title": "Project Zomboid draws a support line around Java mods that rewrite the game",
-        "url": "https://mixed-news.com/en/project-zomboid-java-mods-support-security-policy/",
-        "summary": "Project Zomboid’s developer has clarified that Java mods which alter the game’s underlying code are outside its official support.",
+        "title": "Your Apple Watch can unlock iPhone Duo without touching the fingerprint sensor",
+        "url": "https://mixed-news.com/en/unlock-iphone-duo-apple-watch-supported-models/",
+        "summary": "iPhone Duo owners can unlock their phone with a nearby Apple Watch instead of reaching for the Touch ID sensor.",
         "source": "mixed-news.com",
-        "date": "Mon, 26 Oct 2026 06:28:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_4c8860818ac52c685bbe0988aa137d52bad4aac5.1920x1080.jpg"
+        "date": "Mon, 26 Oct 2026 13:29:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Apple-Watch-Series-12-2up-260909_big.jpg.large_2x.jpg"
       },
       {
-        "title": "The Rifted Skies Demo Is A Blood-Pumping Rush Of Roguelite Action",
-        "url": "https://www.uploadvr.com/the-rifted-skies-demo-is-a-blood-pumping-rush-of-roguelite-action/",
-        "summary": "The Rifted Skies demo is a very promising teaser for the arm-swinging action roguelite.",
+        "title": "Meta Confirms Lower Quest Sales, Says New VR Headsets Must Deliver “major breakthroughs”",
+        "url": "https://roadtovr.com/meta-declining-quest-sales-major-breakthroughs/",
+        "summary": "According to Meta’s recent quarterly earnings report, Quest headset sales are declining, however AI glasses are growing fast enough to partially offset a slump in Reality Labs…",
+        "source": "roadtovr.com",
+        "date": "Mon, 26 Oct 2026 13:20:17 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/quest-3s-lifestyle-12.jpg?resize=1920%2C1080&quality=89&ssl=1"
+      },
+      {
+        "title": "Rustmourne Demo Impressions: A Terrifying Tease Of Great Things To Come",
+        "url": "https://www.uploadvr.com/rustmourne-demo-impressions-a-terrifying-tease-of-great-things-to-come/",
+        "summary": "Rustmourne's Next Fest demo was an excellent preview of what promises to be one of VR's top titles in 2027.",
         "source": "uploadvr.com",
-        "date": "Fri, 23 Oct 2026 15:03:46 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/the-rifted-skies-ss-2.jpg"
+        "date": "Mon, 26 Oct 2026 04:31:15 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/vlcsnap-2026-10-26-05h03m50s376-1.png"
+      },
+      {
+        "title": "Gigabyte’s RTX 5080 gaming laptop drops $454 with 32GB RAM, a 165Hz screen and a 1TB SSD at Newegg",
+        "url": "https://mixed-news.com/en/gigabyte-a16-pro-rtx-5080-32gb-newegg-deal/",
+        "summary": "Gigabyte’s Gaming A16 Pro with an RTX 5080 Laptop GPU, 32GB of memory and a 165Hz display is listed for $2,195.99 on Newegg in the US.",
+        "source": "mixed-news.com",
+        "date": "Mon, 26 Oct 2026 13:17:13 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/geforce-rtx-50-series-laptop_80c56d05-5bb3-4cb1-8acb-5aecc5304cc4-prv.png"
+      },
+      {
+        "title": "OpenXR Spatial Container Extensions Standardize Volumetric App Multitasking",
+        "url": "https://www.uploadvr.com/openxr-spatial-container-extensions-standardize-volumetric-app-multitasking/",
+        "summary": "The newly released OpenXR Spatial Container extensions standardize system-managed spaces for volumetric 3D apps, similar to how traditional systems place 2D content in desktop…",
+        "source": "uploadvr.com",
+        "date": "Mon, 26 Oct 2026 04:31:10 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb1-1.png"
       },
       {
         "title": "Breaking Into China’s XR Market: A Starter Guide for Developers",
@@ -25,30 +49,6 @@
         "source": "roadtovr.com",
         "date": "Fri, 23 Oct 2026 13:18:09 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/pico-china-headset.png?resize=1671%2C941&quality=80&ssl=1"
-      },
-      {
-        "title": "Apple’s iPhone Duo repair manual reveals two separate battery access routes",
-        "url": "https://mixed-news.com/en/iphone-duo-repair-manual-two-batteries-access/",
-        "summary": "Apple’s iPhone Duo repair manual documents two batteries with different access routes: one behind the back glass and another behind the outer display.",
-        "source": "mixed-news.com",
-        "date": "Mon, 26 Oct 2026 05:29:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Apple-iPhone-Duo-Ceramic-Shield-260909.jpg.large_2x.jpg"
-      },
-      {
-        "title": "FlatOut 4: Total Insanity VR Leaves PC VR Early Access Today With New Features & A New Price",
-        "url": "https://www.uploadvr.com/flatout-4-total-insanity-vr-leaves-pc-vr-early-access-today-with-new-features-a-new-price/",
-        "summary": "FlatOut 4: Total Insanity VR exits Early Access with new features, more vehicles, more maps, and a new price of $29.99.",
-        "source": "uploadvr.com",
-        "date": "Fri, 23 Oct 2026 11:47:44 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Main-capsule_1232x706-2.png"
-      },
-      {
-        "title": "Google VR Studio Behind ‘Job Simulator’ Unveils ‘Hyper Visor’ Arcade Blaster for XREAL Aura",
-        "url": "https://roadtovr.com/google-vr-studio-arcade-blaster-xreal-aura/",
-        "summary": "Owlchemy Labs, the Google-owned XR studio behind smash hit VR games Job Simulator and Vacation Simulator, today revealed Hyper Visor, a new arcade blaster arriving as a launch…",
-        "source": "roadtovr.com",
-        "date": "Thu, 22 Oct 2026 15:00:53 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/HyperVisor.png?resize=1536%2C1024&quality=80&ssl=1"
       }
     ],
     "AI": [
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Sunday Night Football: Jaxon Smith-Njigba, Seahawks defense dominate Chiefs, win 20-3",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxon-smith-njigba-seahawks-defense-dominate-chiefs-win-20-3",
-        "summary": "Smith-Njigba had 150 yards while Seattle's defense stifled QB Patrick Mahomes and Kansas City's offense all night.",
+        "title": "Jonathan Taylor: Trade rumors are out there, my wife discussing it doesn't change anything",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-taylor-trade-rumors-are-out-there-my-wife-discussing-it-doesnt-change-anything",
+        "summary": "The Colts' decision to fire General Manager Chris Ballard last week has led to speculation about what other moves are coming for the team and particular attention has been paid to…",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 23:21:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/415e258/2147483647/strip/false/crop/3992x2246+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffc%2Fa6%2F3ca64af444ea9679ba1e5dc0e60f%2F2302006396.jpg"
+        "date": "Mon, 26 Oct 2026 09:42:33 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69754de/2147483647/strip/false/crop/4406x2478+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2Fae%2F5634c8db472ab405c4c58832422b%2F2301974217.jpg"
       },
       {
-        "title": "Travis Kelce moves to No. 5 all-time in receptions, passes Marvin Harrison, Cris Carter",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-kelce-moves-to-no-5-all-time-in-receptions-passes-marvin-harrison-cris-carter",
-        "summary": "The Chiefs have been mostly stymied on offense throughout Sunday night’s matchup with the Seahawks.",
+        "title": "With games against the Bills and Jaguars looming, the Ravens need Lamar Jackson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-games-against-the-bills-and-jaguars-looming-the-ravens-need-lamar-jackson",
+        "summary": "There's no uncertainty as to whether the Ravens need quarterback Lamar Jackson.",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 22:50:44 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2ea1899/2147483647/strip/false/crop/3783x2128+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F9a%2F9e817c4949ffbbac86a9c158a558%2F2302010251.jpg"
+        "date": "Mon, 26 Oct 2026 09:38:48 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f223f89/2147483647/strip/false/crop/6282x3534+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fe2%2Ffc0325dd470abb4c6ed69795d1c0%2F2026-10-25t181613z-680488772-mt1usatoday30184188-rtrmadp-3-nfl-cincinnati-bengals-at-baltimore-ravens.jpg"
       },
       {
-        "title": "Vikings register highest blitz rate of Next Gen Stats era, at 85.2 percent",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-register-highest-blitz-rate-of-next-gen-stats-era-at-85-2-percent",
-        "summary": "The blitz-happy Vikings defense took their habit to the highest level on Sunday against the Colts.",
+        "title": "NFL kickers are 167-for-170 from inside 37 yards. Trey Smack had 2 of the 3 misses Sunday.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-kickers-are-167-for-170-from-inside-37-yards-trey-smack-had-2-of-the-3-misses-sunday",
+        "summary": "Once an NFL offense gets inside the 20-yard line, coming away with at least a field goal should be just about a sure thing.",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 22:34:36 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6c3d59/2147483647/strip/false/crop/4246x2388+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2F82%2F366a232441a6b95975d5e0324268%2F2301541262.jpg"
+        "date": "Mon, 26 Oct 2026 09:37:28 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f39aa6d/2147483647/strip/false/crop/4751x2672+0+247/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F3f%2F740ea0e44e04bd972766e8b1da97%2F2301994730.jpg"
       },
       {
-        "title": "Kirk Cousins: \"If I'm not the best option, I don't want to be out there\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-if-im-not-the-best-option-i-dont-want-to-be-out-there",
-        "summary": "As the Raiders were rattling off three straight wins to start the season, the decision to ride with veteran quarterback Kirk Cousins was looking like the right way to go.",
+        "title": "Christian McCaffrey not worried about thigh injury moving forward",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-not-worried-about-thigh-injury-moving-forward",
+        "summary": "The 49ers have dealt with a slew of injuries this season, so they were likely bracing for the worst when running back Christian McCaffrey was forced out of Sunday's game against…",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 22:12:21 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/30eb1fe/2147483647/strip/false/crop/6509x3661+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2Fc2%2Ff8532cae489197ffca9099293f77%2F2296906169.jpg"
+        "date": "Mon, 26 Oct 2026 09:02:25 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/891acde/2147483647/strip/false/crop/6204x3490+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F90%2Fcab1f9d24f4ab5af760d7a3b4a89%2F2301553536.jpg"
       },
       {
-        "title": "Rashid Shaheed questionable to return to Seahawks-Chiefs with knee injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashid-shaheed-questionable-to-return-to-seahawks-chiefs-with-knee-injury",
-        "summary": "The Seahawks have an injury concern with one of their key weapons.",
+        "title": "Baker Mayfield: Sunday's win was a statement of our potential",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-sundays-win-was-a-statement-of-our-potential",
+        "summary": "Buccaneers quarterback Baker Mayfield said his right thumb might be a little sore after Sunday's win over the Panthers moved the team to 2-5, but he did it with a smile because the…",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 22:09:06 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/42565e7/2147483647/strip/false/crop/4659x2621+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2Fdb%2F3b2472994ad5a98fc390e7bebf02%2F2302003205.jpg"
+        "date": "Mon, 26 Oct 2026 08:44:50 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6a66b0/2147483647/strip/false/crop/4964x2792+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F55%2Fbb7b7e1a4e42ba68a77ff393e071%2F2301974482.jpg"
       },
       {
-        "title": "Sunday Night Football: Jaxon Smith-Njigba has 129 yards, Seattle leads 10-0 at halftime",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jaxon-smith-njigba-has-129-yards-seattle-leads-10-0",
-        "summary": "Smith-Njigba and Seattle's defense have been dominant through 30 minutes against Kansas City.",
+        "title": "Mike Vrabel: No concern about A.J. Brown, just have to get into rhythm",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-no-concern-about-a-j-brown-just-have-to-get-into-rhythm",
+        "summary": "Patriots wide receiver A.J.",
         "source": "nbcsports.com",
-        "date": "Sun, 25 Oct 2026 21:50:32 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/744ad70/2147483647/strip/false/crop/3507x1973+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F65%2F4132af8f432f89c1583ca1a84a98%2F2302003513.jpg"
+        "date": "Mon, 26 Oct 2026 08:31:26 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/75aedf9/2147483647/strip/false/crop/8304x4671+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F03%2F67%2F22b3a87a414eb4cd70954529faa1%2F2301985674.jpg"
       }
     ]
   }
