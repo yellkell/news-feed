@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-26T13:59:44.847Z",
+  "updated": "2026-10-26T19:47:22.587Z",
   "feed": {
     "VR": [
       {
-        "title": "Your Apple Watch can unlock iPhone Duo without touching the fingerprint sensor",
-        "url": "https://mixed-news.com/en/unlock-iphone-duo-apple-watch-supported-models/",
-        "summary": "iPhone Duo owners can unlock their phone with a nearby Apple Watch instead of reaching for the Touch ID sensor.",
+        "title": "Into the Radius 2 makes gun cleaning more hands-on and lets Mimics wait in ambush",
+        "url": "https://mixed-news.com/en/into-the-radius-2-update-gun-cleaning-mimic-ambush/",
+        "summary": "Into the Radius 2’s latest update changes two habits worth checking before your next expedition: cleaning weapons and watching for enemies.",
         "source": "mixed-news.com",
-        "date": "Mon, 26 Oct 2026 13:29:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/Apple-Watch-Series-12-2up-260909_big.jpg.large_2x.jpg"
+        "date": "Mon, 26 Oct 2026 19:26:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_ea7713d0b5b179bbda1ef9e8ba20c368a9bf7d19.1920x1080-1.jpg"
       },
       {
         "title": "Meta Confirms Lower Quest Sales, Says New VR Headsets Must Deliver “major breakthroughs”",
@@ -27,12 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/vlcsnap-2026-10-26-05h03m50s376-1.png"
       },
       {
-        "title": "Gigabyte’s RTX 5080 gaming laptop drops $454 with 32GB RAM, a 165Hz screen and a 1TB SSD at Newegg",
-        "url": "https://mixed-news.com/en/gigabyte-a16-pro-rtx-5080-32gb-newegg-deal/",
-        "summary": "Gigabyte’s Gaming A16 Pro with an RTX 5080 Laptop GPU, 32GB of memory and a 165Hz display is listed for $2,195.99 on Newegg in the US.",
+        "title": "Star Wars Galaxies Restoration adds an experimental DirectX 12 renderer",
+        "url": "https://mixed-news.com/en/star-wars-galaxies-restoration-directx-12-a-new-dawn/",
+        "summary": "Star Wars Galaxies Restoration has added an experimental DirectX 12 renderer with DLSS, FSR and XeSS upscaling.",
         "source": "mixed-news.com",
-        "date": "Mon, 26 Oct 2026 13:17:13 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/geforce-rtx-50-series-laptop_80c56d05-5bb3-4cb1-8acb-5aecc5304cc4-prv.png"
+        "date": "Mon, 26 Oct 2026 18:29:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/1792860553984-webp.10466.webp"
       },
       {
         "title": "OpenXR Spatial Container Extensions Standardize Volumetric App Multitasking",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "r/opensource just banned AI, non-English speakers, and more",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-        "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI.",
+        "title": "The RealReal won’t let AI agents hog designer clothing",
+        "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+        "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site.",
         "source": "theverge.com",
-        "date": "2026-10-25T09:25:32-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-26T13:30:55-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg"
       },
       {
-        "title": "Google’s AI search changes upended online publishing",
-        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
+        "title": "Five weird details from Anthropic’s IPO filing",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making…",
         "source": "theverge.com",
-        "date": "2026-10-25T08:00:00-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-26T13:10:23-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg"
       },
       {
-        "title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-        "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots.",
+        "title": "Microsoft offers buyouts to 60,000 employees",
+        "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+        "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India.",
         "source": "theverge.com",
-        "date": "2026-10-24T17:29:12-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-26T11:58:27-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Jonathan Taylor: Trade rumors are out there, my wife discussing it doesn't change anything",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-taylor-trade-rumors-are-out-there-my-wife-discussing-it-doesnt-change-anything",
-        "summary": "The Colts' decision to fire General Manager Chris Ballard last week has led to speculation about what other moves are coming for the team and particular attention has been paid to…",
+        "title": "Ravens to sign DB Rayshawn Jenkins to the practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-to-sign-db-rayshawn-jenkins-to-the-practice-squad",
+        "summary": "The Ravens are signing veteran safety Rayshawn Jenkins to the practice squad, coach Jesse Minter announced.",
         "source": "nbcsports.com",
-        "date": "Mon, 26 Oct 2026 09:42:33 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/69754de/2147483647/strip/false/crop/4406x2478+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2Fae%2F5634c8db472ab405c4c58832422b%2F2301974217.jpg"
+        "date": "Mon, 26 Oct 2026 15:41:38 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/235c29c/2147483647/strip/false/crop/8191x4607+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2F16%2F4b99bf05430a83bfe862dcfc61ba%2F2298423878.jpg"
       },
       {
-        "title": "With games against the Bills and Jaguars looming, the Ravens need Lamar Jackson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-games-against-the-bills-and-jaguars-looming-the-ravens-need-lamar-jackson",
-        "summary": "There's no uncertainty as to whether the Ravens need quarterback Lamar Jackson.",
+        "title": "49ers-Raiders game in Week 9 moved to a 4:25 p.m. ET kickoff",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-raiders-game-in-week-9-moved-to-a-4-25-p-m-et-kickoff",
+        "summary": "The 49ers' bye week was extended by 20 minutes on Monday.",
         "source": "nbcsports.com",
-        "date": "Mon, 26 Oct 2026 09:38:48 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f223f89/2147483647/strip/false/crop/6282x3534+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fe2%2Ffc0325dd470abb4c6ed69795d1c0%2F2026-10-25t181613z-680488772-mt1usatoday30184188-rtrmadp-3-nfl-cincinnati-bengals-at-baltimore-ravens.jpg"
+        "date": "Mon, 26 Oct 2026 15:31:09 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/46635dd/2147483647/strip/false/crop/7365x4143+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F20%2F125dadbe4a0b98dcfe7e52d143eb%2F2301539575.jpg"
       },
       {
-        "title": "NFL kickers are 167-for-170 from inside 37 yards. Trey Smack had 2 of the 3 misses Sunday.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-kickers-are-167-for-170-from-inside-37-yards-trey-smack-had-2-of-the-3-misses-sunday",
-        "summary": "Once an NFL offense gets inside the 20-yard line, coming away with at least a field goal should be just about a sure thing.",
+        "title": "Seahawks plan to have Jadarian Price back at practice this week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-plan-to-have-jadarian-price-back-at-practice-this-week",
+        "summary": "The Seahawks are set to have first-round pick Jadarian Price back on the practice field.",
         "source": "nbcsports.com",
-        "date": "Mon, 26 Oct 2026 09:37:28 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f39aa6d/2147483647/strip/false/crop/4751x2672+0+247/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F3f%2F740ea0e44e04bd972766e8b1da97%2F2301994730.jpg"
+        "date": "Mon, 26 Oct 2026 15:09:04 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c90148/2147483647/strip/false/crop/5671x3190+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2F4f%2F87b4e10147f29b20eff0c49de186%2F2298281575.jpg"
       },
       {
-        "title": "Christian McCaffrey not worried about thigh injury moving forward",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-not-worried-about-thigh-injury-moving-forward",
-        "summary": "The 49ers have dealt with a slew of injuries this season, so they were likely bracing for the worst when running back Christian McCaffrey was forced out of Sunday's game against…",
+        "title": "Jahmyr Gibbs is on pace for 470 touches this season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-is-on-pace-for-470-touches-this-season",
+        "summary": "Lions running back Jahmyr Gibbs had 29 carries for 116 yards on Sunday against the Packers, and added five catches for 27 yards.",
         "source": "nbcsports.com",
-        "date": "Mon, 26 Oct 2026 09:02:25 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/891acde/2147483647/strip/false/crop/6204x3490+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F90%2Fcab1f9d24f4ab5af760d7a3b4a89%2F2301553536.jpg"
+        "date": "Mon, 26 Oct 2026 14:55:18 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ec4100d/2147483647/strip/false/crop/4438x2496+0+231/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2Fad%2F893e712d42eb8772265b455fc2ca%2F2301999948.jpg"
       },
       {
-        "title": "Baker Mayfield: Sunday's win was a statement of our potential",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-sundays-win-was-a-statement-of-our-potential",
-        "summary": "Buccaneers quarterback Baker Mayfield said his right thumb might be a little sore after Sunday's win over the Panthers moved the team to 2-5, but he did it with a smile because the…",
+        "title": "Shane Steichen reiterates Daniel Jones is QB1: \"He knows he's got to play better\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-reiterates-daniel-jones-is-qb1-he-knows-hes-got-to-play-better",
+        "summary": "It's been a rough stretch for Colts quarterback Daniel Jones.",
         "source": "nbcsports.com",
-        "date": "Mon, 26 Oct 2026 08:44:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f6a66b0/2147483647/strip/false/crop/4964x2792+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F55%2Fbb7b7e1a4e42ba68a77ff393e071%2F2301974482.jpg"
+        "date": "Mon, 26 Oct 2026 14:38:43 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/66a8b31/2147483647/strip/false/crop/3997x2248+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa8%2F86%2Fc2d01e334b3f8aede05905a5bf10%2F2301536632.jpg"
       },
       {
-        "title": "Mike Vrabel: No concern about A.J. Brown, just have to get into rhythm",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-no-concern-about-a-j-brown-just-have-to-get-into-rhythm",
-        "summary": "Patriots wide receiver A.J.",
+        "title": "49ers could be looking for an Eddy Piñiero replacement",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-could-be-looking-for-an-eddy-piniero-replacement",
+        "summary": "As the 49ers enter the bye week, they could be thinking about saying farewell to kicker Eddy Piñiero.",
         "source": "nbcsports.com",
-        "date": "Mon, 26 Oct 2026 08:31:26 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/75aedf9/2147483647/strip/false/crop/8304x4671+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F03%2F67%2F22b3a87a414eb4cd70954529faa1%2F2301985674.jpg"
+        "date": "Mon, 26 Oct 2026 13:55:52 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/71f690e/2147483647/strip/false/crop/5969x3358+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2Fb1%2Fc3ef3520450587d7281e121a6d84%2F2301553298.jpg"
       }
     ]
   }
