@@ -1,14 +1,22 @@
 {
-  "updated": "2026-10-30T15:00:55.975Z",
+  "updated": "2026-10-30T19:55:13.810Z",
   "feed": {
     "VR": [
       {
-        "title": "Meta explains when VR games work better with controllers than hand tracking",
-        "url": "https://mixed-news.com/en/meta-vr-glasses-hands-only-games-controllers-separately/",
-        "summary": "Meta's October 29 developer guidance sets out which VR interactions suit bare hands and which still benefit from controllers, including fast aiming, simultaneous inputs and…",
+        "title": "Corsair’s Void Wireless v2 headset is $89.99 for PC and PS5 with Bluetooth too",
+        "url": "https://mixed-news.com/en/corsair-void-wireless-v2-headset-89-amazon-deal/",
+        "summary": "Corsair’s Void Wireless v2 gaming headset is $89.99 at Amazon in the black Carbon finish, with both a USB wireless receiver for PC and PlayStation and Bluetooth for other devices.",
         "source": "mixed-news.com",
-        "date": "Fri, 30 Oct 2026 14:17:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/09/Introducing-Meta-VR-Glasses_-A-Cinema-Courtside-Seat-and-Workspace-in-Just-100-GramsIntroducing-Meta-VR-Glasses_-A-Cinema-Courtside-Seat-and-Workspace-in-Just-100-Grams_social.jpg"
+        "date": "Fri, 30 Oct 2026 19:06:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/VOID_WIRELESS_v2_10Sec_16x9_2K_PDP_Copyless.jpg"
+      },
+      {
+        "title": "Ultrawings 1 & 2 Get New Built-For-Quest-3 Editions Available Now",
+        "url": "https://www.uploadvr.com/ultrawings-1-2-get-new-built-for-quest-3-editions-available-now/",
+        "summary": "Bit Planet Games released new versions of both Ultrawings games rebuilt for Quest 3 headsets.",
+        "source": "uploadvr.com",
+        "date": "Fri, 30 Oct 2026 10:02:30 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/new-ultrawings.png"
       },
       {
         "title": "Halo-inspired Co-op Shooter ‘EXOSHOCK’ Launches on Quest & PC VR in Early Access",
@@ -19,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/exoshock.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Diablo-Inspired Dark Fantasy RPG Vaelorys Out Today For Quest In Early Access",
-        "url": "https://www.uploadvr.com/diablo-inspired-dark-fantasy-rpg-vaelorys-out-today-for-quest-in-early-access/",
-        "summary": "Vaelorys, out now in Early Access on Quest, is a dark fantasy co-op RPG heavily inspired by Diablo and Path of Exile.",
-        "source": "uploadvr.com",
-        "date": "Thu, 29 Oct 2026 12:34:45 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/vaelorys-key-art-1.png"
+        "title": "Sony patent proposes cutting holes in game images to reduce streaming data",
+        "url": "https://mixed-news.com/en/sony-cloud-gaming-patent-ai-image-holes-reconstruction/",
+        "summary": "Sony Interactive Entertainment Europe has filed a patent application for removing parts of game images before transmission and reconstructing them with machine learning.",
+        "source": "mixed-news.com",
+        "date": "Fri, 30 Oct 2026 17:29:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/567d2acd658f1833e156651be5f55c60a878c525.jpg"
       },
       {
-        "title": "Resonite adds Steam Frame eye tracking and controller support, but still needs a PC",
-        "url": "https://mixed-news.com/en/resonite-steam-frame-eye-tracking-controller-pc-vr-support/",
-        "summary": "Resonite now recognises Steam Frame controllers and supports the headset's eye tracking for PC VR streaming.",
-        "source": "mixed-news.com",
-        "date": "Fri, 30 Oct 2026 13:23:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_54fd882691a582c7717d2b73f34ea8b4ab4b1f9a.1920x1080-2.jpg"
+        "title": "Real VR Fishing's Next DLC Takes Players To The Great Lakes & Introduces Freshwater Monsters",
+        "url": "https://www.uploadvr.com/real-vr-fishings-next-dlc-takes-players-to-the-great-lakes-introduces-freshwater-monsters/",
+        "summary": "Real VR Fishing's latest DLC, Great Lakes & Oceans, adds 10 new North American fishing locations, 30 new species of fish, freshwater monster fish and new sharks.",
+        "source": "uploadvr.com",
+        "date": "Fri, 30 Oct 2026 10:00:00 -0700",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/GLO-DLC-2026_2560_1440.png"
       },
       {
         "title": "‘Titanfall 2’ VR Mod Gets Even More Intense with Open Multiplayer Beta, Now Live",
@@ -41,24 +49,16 @@
         "source": "roadtovr.com",
         "date": "Fri, 30 Oct 2026 10:49:52 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/titanfall-2-vr-mod-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Hitman: World Of Assassination's Latest Elusive Target Is Jacksepticeye",
-        "url": "https://www.uploadvr.com/hitman-world-of-assassinations-latest-elusive-target-is-jacksepticeye/",
-        "summary": "The Host, the newest limited-time Elusive Target mission for Hitman: World of Assassination featuring content creator Jacksepticeye, is available now.",
-        "source": "uploadvr.com",
-        "date": "Thu, 29 Oct 2026 12:33:52 -0700",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/hitman-woa-jacksepticeye.jpg"
       }
     ],
     "AI": [
       {
-        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-        "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal…",
+        "title": "Google’s satellite AI server transmits its first response to Earth",
+        "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+        "summary": "Google's AI chip-equipped satellite has generated its first response from space.",
         "source": "theverge.com",
-        "date": "2026-10-30T10:58:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-30T14:21:38-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg"
       },
       {
-        "title": "Silicon Valley wants you to invest in miracles",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-        "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance.",
+        "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+        "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru.",
         "source": "theverge.com",
-        "date": "2026-10-30T09:11:05-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-30T13:38:04-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg"
       },
       {
-        "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-        "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of…",
+        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+        "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal…",
         "source": "theverge.com",
-        "date": "2026-10-30T09:01:14-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-30T10:58:06-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "David Bailey doubtful, Breece Hall questionable for Sunday vs. Raiders",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-bailey-doubtful-breece-hall-questionable-for-sunday-vs-raiders",
-        "summary": "The Jets are unlikely to have one of their top young defensive players when they host the Raiders on Sunday.",
+        "title": "Video seems to contradict Josh Jacobs's explanation of TD celebration",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/video-seems-to-contradict-josh-jacobss-explanation-of-td-celebration",
+        "summary": "After Packers running back Josh Jacobs scored his first of two touchdowns on Thursday night, he seemed to celebrate by pretending to be in handcuffs.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 10:55:34 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1238cc3/2147483647/strip/false/crop/8113x4564+0+423/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2Fb0%2Ff4db9343476b9c1fbe1967a2254a%2F2295679116.jpg"
+        "date": "Fri, 30 Oct 2026 15:52:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0ee7960/2147483647/strip/false/crop/2590x1457+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff4%2Fdcc11b074878a238a721966733db%2F2302616098.jpg"
       },
       {
-        "title": "Panthers fire defensive coordinator Ejiro Evero",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-fire-defensive-coordinator-ejiro-evero",
-        "summary": "At 3-4, Carolina shakes up the defensive side of the ball.",
+        "title": "Kerby Joseph after return to practice: I'm still him; I hope you all ain't forgot",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kerby-joseph-after-return-to-practice-im-still-him-i-hope-yall-aint-forgot",
+        "summary": "The Lions added cornerback Roger McCreary to their injury report Friday.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 10:35:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/000f84f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F84%2F779%2Fnbc_pft_nfcsouth_261030.jpg"
+        "date": "Fri, 30 Oct 2026 15:45:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2375037/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F92%2F587%2Fnbc_pft_showmesomething_261030.jpg"
       },
       {
-        "title": "Ben Johnson is going for it on fourth down even more than Dan Campbell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-is-going-for-it-on-fourth-down-even-more-than-dan-campbell",
-        "summary": "Lions head coach Dan Campbell has earned a reputation as one of the NFL's most aggressive coaches on fourth downs, a reputation that he bolstered on Sunday with a surprising fourth…",
+        "title": "Rashee Rice set to play, Mansoor Delane questionable for Chiefs-Broncos",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashee-rice-set-to-play-mansoor-delane-questionable-for-chiefs-broncos",
+        "summary": "The Chiefs will have one of their key receivers back when they play the Broncos on Sunday.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 10:23:07 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a3daf1b/2147483647/strip/false/crop/3000x1688+0+207/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F15%2Fc6%2F40dd3da24b79a60ea0c9da98a7d9%2F2253965586.jpg"
+        "date": "Fri, 30 Oct 2026 15:44:30 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b4947f/2147483647/strip/false/crop/4942x2780+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F76%2F21%2F408fa335411dae6ef34f978c35bd%2F2297991039.jpg"
       },
       {
-        "title": "New report paints fuller picture of the Troy Aikman, Joe Buck rift",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-report-paints-fuller-picture-of-the-troy-aikman-joe-buck-rift",
-        "summary": "The inevitable Saturday Night Live skit should be very entertaining.",
+        "title": "Colston Loveland limited at Bears practice with a neck injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colston-loveland-limited-at-bears-practice-with-a-neck-injury",
+        "summary": "The Bears added an offensive starter to their injury report after Thursday's practice.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 10:22:57 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e4ecc9e/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2Ff8%2Fc9abcc24411ea83ef32ebe033955%2F2257614848.jpg"
+        "date": "Fri, 30 Oct 2026 15:41:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ad969a/2147483647/strip/false/crop/6937x3902+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F73%2Fd19b67d344cc85b4851e174d21a5%2F2301987055.jpg"
       },
       {
-        "title": "Grey Zabel: Move to right guard will be \"such a growing experience\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/grey-zabel-move-to-right-guard-will-be-such-a-growing-experience",
-        "summary": "The Seahawks hope their trade for Quenton Nelson will have an impact on their entire offense over the rest of the season and it will have an immediate impact on two of his new…",
+        "title": "New appeals court ruling could end Sunday Ticket",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-appeals-court-ruling-could-end-sunday-ticket",
+        "summary": "NFL will eventually need to come up with a new way to provide out-of-market games.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 08:45:46 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8fa1cc8/2147483647/strip/false/crop/8373x4710+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2Fde%2F39aa8418460d9674429e63426374%2F2300918609.jpg"
+        "date": "Fri, 30 Oct 2026 15:31:08 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38426c7/2147483647/strip/false/crop/7704x4334+0+401/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2F9b%2Fd40a3d0f41c998ecc20a2dce0685%2F2026-10-17t195058z-1236432781-mt1usatoday30112684-rtrmadp-3-nfl-london-games-city-scenes.jpg"
       },
       {
-        "title": "Jeffery Simmons, Quenton Nelson will renew their rivalry at Bears-Seahawks Monday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeffery-simmons-quenton-nelson-will-renew-their-rivalry-at-bears-seahawks-monday-night",
-        "summary": "Nelson vs. Simmons will be the most-watched offensive lineman vs. defensive lineman battle of this NFL season, as two All-Pros go at it again on new teams.",
+        "title": "Ravens G Vega Ioane ruled out for Week 8",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-g-vega-ioane-ruled-out-for-week-8",
+        "summary": "The Ravens expect to have quarterback Lamar Jackson back in the lineup for Sunday's game against the Bills, but they will be missing one of their starting offensive linemen.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 07:41:45 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d87c6eb/2147483647/strip/false/crop/3600x2025+0+188/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2Fb3%2F1bcc52d541c383cd8605e6d83f2f%2F1715805683.jpg"
+        "date": "Fri, 30 Oct 2026 15:26:02 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fdecf28/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2Fb7%2F044d7ce148c497b0b23431cbca14%2F2300865985.jpg"
       }
     ]
   }
