@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-30T19:55:13.810Z",
+  "updated": "2026-10-30T23:24:24.015Z",
   "feed": {
     "VR": [
       {
-        "title": "Corsair’s Void Wireless v2 headset is $89.99 for PC and PS5 with Bluetooth too",
-        "url": "https://mixed-news.com/en/corsair-void-wireless-v2-headset-89-amazon-deal/",
-        "summary": "Corsair’s Void Wireless v2 gaming headset is $89.99 at Amazon in the black Carbon finish, with both a USB wireless receiver for PC and PlayStation and Bluetooth for other devices.",
+        "title": "This $2,649 Skytech gaming PC pairs a Ryzen 7 9850X3D with an RX 9070 XT",
+        "url": "https://mixed-news.com/en/skytech-prism-5-9850x3d-rx-9070-xt-amazon-deal/",
+        "summary": "A white Skytech Prism 5 desktop with AMD’s Ryzen 7 9850X3D and Radeon RX 9070 XT is $2,649 at Amazon, paired with 32GB of DDR5 memory and a 2TB SSD.",
         "source": "mixed-news.com",
-        "date": "Fri, 30 Oct 2026 19:06:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/VOID_WIRELESS_v2_10Sec_16x9_2K_PDP_Copyless.jpg"
+        "date": "Fri, 30 Oct 2026 23:12:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/skytech-prism5-white.jpg"
       },
       {
         "title": "Ultrawings 1 & 2 Get New Built-For-Quest-3 Editions Available Now",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/exoshock.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Sony patent proposes cutting holes in game images to reduce streaming data",
-        "url": "https://mixed-news.com/en/sony-cloud-gaming-patent-ai-image-holes-reconstruction/",
-        "summary": "Sony Interactive Entertainment Europe has filed a patent application for removing parts of game images before transmission and reconstructing them with machine learning.",
+        "title": "ASRock’s 32-inch OLED gaming monitor is $596 with 4K 240Hz and a 480Hz mode",
+        "url": "https://mixed-news.com/en/asrock-pgo32ufs-596-oled-dual-mode-newegg-deal/",
+        "summary": "ASRock’s PGO32UFS is $596 at Newegg, bringing a 32-inch-class OLED monitor with two distinct gaming modes below $600.",
         "source": "mixed-news.com",
-        "date": "Fri, 30 Oct 2026 17:29:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/567d2acd658f1833e156651be5f55c60a878c525.jpg"
+        "date": "Fri, 30 Oct 2026 22:24:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/asrock-pgo32ufs-hero.jpg"
       },
       {
         "title": "Real VR Fishing's Next DLC Takes Players To The Great Lakes & Introduces Freshwater Monsters",
@@ -53,12 +53,28 @@
     ],
     "AI": [
       {
-        "title": "Google’s satellite AI server transmits its first response to Earth",
-        "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-        "summary": "Google's AI chip-equipped satellite has generated its first response from space.",
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+        "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors.",
         "source": "theverge.com",
-        "date": "2026-10-30T14:21:38-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-30T18:32:53-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+        "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+        "source": "arstechnica.com",
+        "date": "Fri, 30 Oct 2026 21:09:54 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
+      },
+      {
+        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+        "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data…",
+        "source": "theverge.com",
+        "date": "2026-10-30T16:48:43-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg"
       },
       {
-        "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-        "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru.",
+        "title": "The biggest names in AI are backing a new way to opt out of scraping",
+        "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+        "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine…",
         "source": "theverge.com",
-        "date": "2026-10-30T13:38:04-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-10-30T16:26:10-04:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Thu, 22 Oct 2026 20:17:52 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg"
-      },
-      {
-        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-        "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal…",
-        "source": "theverge.com",
-        "date": "2026-10-30T10:58:06-04:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-        "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-        "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-        "source": "arstechnica.com",
-        "date": "Thu, 22 Oct 2026 11:30:33 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Video seems to contradict Josh Jacobs's explanation of TD celebration",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/video-seems-to-contradict-josh-jacobss-explanation-of-td-celebration",
-        "summary": "After Packers running back Josh Jacobs scored his first of two touchdowns on Thursday night, he seemed to celebrate by pretending to be in handcuffs.",
+        "title": "Budda Baker says he's focused on the Cowboys, not trade talk",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/budda-baker-says-hes-focused-on-the-cowboys-not-trade-talk",
+        "summary": "The trade deadline is Nov. 10, and the Cardinals could be sellers.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 15:52:19 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0ee7960/2147483647/strip/false/crop/2590x1457+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff4%2Fdcc11b074878a238a721966733db%2F2302616098.jpg"
+        "date": "Fri, 30 Oct 2026 18:38:49 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/56928db/2147483647/strip/false/crop/4973x2797+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2F41%2Fc7dbf98e4f87bcfd30bc1c0d45bd%2F2301070521.jpg"
       },
       {
-        "title": "Kerby Joseph after return to practice: I'm still him; I hope you all ain't forgot",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kerby-joseph-after-return-to-practice-im-still-him-i-hope-yall-aint-forgot",
-        "summary": "The Lions added cornerback Roger McCreary to their injury report Friday.",
+        "title": "Cowboys list Kenny Clark, George Pickens as questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-list-kenny-clark-george-pickens-as-questionable",
+        "summary": "The Cowboys added defensive tackle Kenny Clark to the injury report on Friday.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 15:45:13 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2375037/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F92%2F587%2Fnbc_pft_showmesomething_261030.jpg"
+        "date": "Fri, 30 Oct 2026 17:09:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b23f0d6/2147483647/strip/false/crop/7176x4037+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F04%2Ffa%2F0e65c6ab463c89666a46eda6dcba%2F2301954929.jpg"
       },
       {
-        "title": "Rashee Rice set to play, Mansoor Delane questionable for Chiefs-Broncos",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashee-rice-set-to-play-mansoor-delane-questionable-for-chiefs-broncos",
-        "summary": "The Chiefs will have one of their key receivers back when they play the Broncos on Sunday.",
+        "title": "Jaylen Waddle questionable, RJ Harvey ruled out for Broncos-Chiefs",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaylen-waddle-questionable-rj-harvey-ruled-out-for-broncos-chiefs",
+        "summary": "At this point, it’s still unclear whether or not the Broncos will have receiver Jaylen Waddle for Sunday’s game against the Chiefs.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 15:44:30 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b4947f/2147483647/strip/false/crop/4942x2780+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F76%2F21%2F408fa335411dae6ef34f978c35bd%2F2297991039.jpg"
+        "date": "Fri, 30 Oct 2026 17:05:40 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c228b34/2147483647/strip/false/crop/3655x2056+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2F86%2F59eca95e49078cf18bafc122460f%2F2299756985.jpg"
       },
       {
-        "title": "Colston Loveland limited at Bears practice with a neck injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colston-loveland-limited-at-bears-practice-with-a-neck-injury",
-        "summary": "The Bears added an offensive starter to their injury report after Thursday's practice.",
+        "title": "Commanders add DT Daron Payne to injury report as questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-add-dt-daron-payne-to-injury-report-as-questionable",
+        "summary": "The Commanders had already ruled out defensive tackle Javon Kinlaw (knee).",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 15:41:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8ad969a/2147483647/strip/false/crop/6937x3902+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F73%2Fd19b67d344cc85b4851e174d21a5%2F2301987055.jpg"
+        "date": "Fri, 30 Oct 2026 16:52:27 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6e0b023/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fc1%2Fc0ccfe4b4660b75bae1318c711a1%2F2299379985.jpg"
       },
       {
-        "title": "New appeals court ruling could end Sunday Ticket",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-appeals-court-ruling-could-end-sunday-ticket",
-        "summary": "NFL will eventually need to come up with a new way to provide out-of-market games.",
+        "title": "Rams list Trent McDuffie, Coleman Shelton as questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-list-trent-mcduffie-coleman-shelton-as-questionable",
+        "summary": "The Rams didn't rule anyone out on their final injury report of the week, but they're not sure they'll have cornerback Trent McDuffie against the Chargers on Sunday.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 15:31:08 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/38426c7/2147483647/strip/false/crop/7704x4334+0+401/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2F9b%2Fd40a3d0f41c998ecc20a2dce0685%2F2026-10-17t195058z-1236432781-mt1usatoday30112684-rtrmadp-3-nfl-london-games-city-scenes.jpg"
+        "date": "Fri, 30 Oct 2026 16:36:39 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6770739/2147483647/strip/false/crop/4501x2532+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb7%2F3f%2Fc09a42f640be92285f3ad4380bcf%2F2302174756.jpg"
       },
       {
-        "title": "Ravens G Vega Ioane ruled out for Week 8",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-g-vega-ioane-ruled-out-for-week-8",
-        "summary": "The Ravens expect to have quarterback Lamar Jackson back in the lineup for Sunday's game against the Bills, but they will be missing one of their starting offensive linemen.",
+        "title": "Ladd McConkey set to play, Derwin James out vs. Rams",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ladd-mcconkey-set-to-play-derwin-james-out-vs-rams",
+        "summary": "The Chargers will have two of their key receivers for Sunday's game against the Rams.",
         "source": "nbcsports.com",
-        "date": "Fri, 30 Oct 2026 15:26:02 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fdecf28/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2Fb7%2F044d7ce148c497b0b23431cbca14%2F2300865985.jpg"
+        "date": "Fri, 30 Oct 2026 16:35:56 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8651c8/2147483647/strip/false/crop/8192x4608+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2F22%2F3fcb086348269d5ed95173f663fd%2F2299589044.jpg"
       }
     ]
   }
