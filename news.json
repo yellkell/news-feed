@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-01T01:11:55.390Z",
+  "updated": "2026-11-01T07:30:12.773Z",
   "feed": {
     "VR": [
       {
-        "title": "Steam’s experimental Proton update targets a Helldivers 2 crash after a game update",
-        "url": "https://mixed-news.com/en/steam-proton-experimental-helldivers-2-crash-witcher-3-fix/",
-        "summary": "Valve has updated Proton Experimental to address a random Helldivers 2 crash that appeared after a recent game update.",
+        "title": "“VR and PC players fight together”: EXOSHOCK launches cross-play co-op on Quest",
+        "url": "https://mixed-news.com/en/exoshock-quest-pc-vr-desktop-crossplay-early-access/",
+        "summary": "A new science-fiction shooter is letting Quest players join friends on PC VR or an ordinary monitor in the same squad.",
         "source": "mixed-news.com",
-        "date": "Sun, 01 Nov 2026 00:19:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_cb276fe9f0b09683bdbc496f82b405dbe0ffa1f1.1920x1080.jpg"
+        "date": "Sun, 01 Nov 2026 06:27:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_d9b0d8268d0fffe884161901507567ba4e99c15c.1920x1080.jpg"
       },
       {
         "title": "Schell Games Lays Off \"Large Portion\" Of Staff",
@@ -27,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/exoshock.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
+        "title": "Forefront adds a new VR battle mode and “improved foveated rendering” on Steam Frame",
+        "url": "https://mixed-news.com/en/forefront-sandstorm-vr-breakthrough-steam-frame-rendering/",
+        "summary": "VR shooter Forefront has a new attack-and-defend mode, support for bHaptics accessories and a rendering change for Valve’s Steam Frame.",
+        "source": "mixed-news.com",
+        "date": "Sun, 01 Nov 2026 05:14:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_10d8b55c10183767d12fa399655633a95e7852bd.1920x1080.jpg"
+      },
+      {
         "title": "Dungeons Of Eternity Monster Mash Update Adds A Fan-Favorite Realm & Halloween Decor",
         "url": "https://www.uploadvr.com/dungeons-of-eternity-monster-mash-update-adds-a-fan-favorite-realm-halloween-decor/",
         "summary": "Dungeons of Eternity's Halloween update brings back the Stormgrave realm & adds new monsters and features.",
         "source": "uploadvr.com",
         "date": "Sat, 31 Oct 2026 17:12:59 -0700",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/dungeons-of-eternity-halloween-update.png"
-      },
-      {
-        "title": "“Runs every game we tested”: Quest emulator targets Batman and other exclusives on PC VR",
-        "url": "https://mixed-news.com/en/venture-quest-emulator-batman-pc-vr-tested-games/",
-        "summary": "A new open-source emulator called Venture aims to bring games from a Meta Quest library to PC VR headsets, including Batman: Arkham Shadow and Asgard’s Wrath 2.",
-        "source": "mixed-news.com",
-        "date": "Sat, 31 Oct 2026 23:09:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2024/06/Batman-Arkham-Shadow-Artwork.jpeg"
       },
       {
         "title": "‘Titanfall 2’ VR Mod Gets Even More Intense with Open Multiplayer Beta, Now Live",
@@ -103,6 +103,30 @@
     ],
     "NFL": [
       {
+        "title": "Bill Belichick and UNC nearly upset No. 1 Miami",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-and-unc-nearly-upset-no-1-miami",
+        "summary": "Earlier this month, Bill Belichick and North Carolina got a signature win over previously-unbeaten Pitt.",
+        "source": "nbcsports.com",
+        "date": "Sat, 31 Oct 2026 23:19:19 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b407aa4/2147483647/strip/false/crop/4102x2307+0+481/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F19%2Fdaefee644bc6a6b0c828d864a188%2F2026-10-25t025947z-809362703-mt1usatoday30180664-rtrmadp-3-ncaa-football-syracuse-at-north-carolina.jpg"
+      },
+      {
+        "title": "Joe Burrow is one four-TD, no-INT game away from elite club",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-is-one-four-td-no-int-game-away-from-elite-club",
+        "summary": "The 2026 Bengals have won two, lost two, and then won two.",
+        "source": "nbcsports.com",
+        "date": "Sat, 31 Oct 2026 23:03:13 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/15e68c4/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9a%2Fad%2Fe04d8bb94016baf73d6d8c932612%2F2301992526.jpg"
+      },
+      {
+        "title": "Cowboys have a franchise-record 14 straight games with 20 or more points allowed",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-have-a-franchise-record-14-straight-games-with-20-or-more-points-allowed",
+        "summary": "The Dallas Cowboys have applied to themselves the nickname of \"greatest offense there is.\"",
+        "source": "nbcsports.com",
+        "date": "Sat, 31 Oct 2026 22:43:51 -0400",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8d90ac5/2147483647/strip/false/crop/5078x2856+0+264/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F4d%2Fe514fcb149a69af41e905302eab9%2F2301192432.jpg"
+      },
+      {
         "title": "With 88 yards on Sunday, Derrick Henry will jump to No. 7 all-time in rushing yards",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-88-yards-on-sunday-derrick-henry-will-jump-to-no-7-all-time-in-rushing-yards",
         "summary": "Ravens running back Derrick Henry, who turns 33 in early January, continues to get it done at a high level.",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 31 Oct 2026 18:05:39 -0400",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/48fb2a9/2147483647/strip/false/crop/4750x2672+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F4b%2Fdabf3b4b4c3cbd9d09cc9f71e34c%2F2301533624.jpg"
-      },
-      {
-        "title": "Seahawks RBs Zach Charbonnet, Jadarian Price will return Monday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-rbs-zach-charbonnet-jadarian-price-will-return-monday-night",
-        "summary": "The Seahawks will have veteran running back Zach Charbonnet and rookie running back Jadarian Price in the same game for the first time on Monday.",
-        "source": "nbcsports.com",
-        "date": "Sat, 31 Oct 2026 17:57:38 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b44e3bc/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F994%2F14%2Fnbc_pft_w8matchup_261028.jpg"
-      },
-      {
-        "title": "Deion Sanders and Colorado survive in overtime for first Big 12 win of the season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deion-sanders-and-colorado-survive-in-overtime-for-first-big-12-win-of-the-season",
-        "summary": "It was harder than it should have been, but Colorado and coach Deion Sanders finally have their first Big 12 win of the season, beating Kansas State 27-24 in overtime to snap a…",
-        "source": "nbcsports.com",
-        "date": "Sat, 31 Oct 2026 17:42:00 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/649af42/2147483647/strip/false/crop/4352x2448+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2F89%2F72e3eff44fd697a7185b194c2e41%2F2302398571.jpg"
-      },
-      {
-        "title": "Bears rule out RB Kyle Monangai",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-rule-out-rb-kyle-monangai",
-        "summary": "Bears running back Kyle Monangai will miss his fourth consecutive game.",
-        "source": "nbcsports.com",
-        "date": "Sat, 31 Oct 2026 17:26:50 -0400",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/664f5df/2147483647/strip/false/crop/2710x1524+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2F94%2F0c423d584bfc84c34763de503d48%2F2298685751.jpg"
       }
     ]
   }
