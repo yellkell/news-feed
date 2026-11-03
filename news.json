@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-03T16:31:25.301Z",
+  "updated": "2026-11-03T21:59:28.229Z",
   "feed": {
     "VR": [
+      {
+        "title": "Payday: Aces High & Assassin's Creed Nexus Join Meta Horizon+ Subscription",
+        "url": "https://www.uploadvr.com/payday-aces-high-assassins-creed-nexus-join-meta-horizon-subscription/",
+        "summary": "November 2026 brings heavy hitters to Meta's Horizon+ subscription, including Assassin's Creed Nexus VR and the brand-new Payday: Aces High.",
+        "source": "uploadvr.com",
+        "date": "Tue, 03 Nov 2026 09:38:08 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/horizon-plus-side-by-side-16x9.jpg"
+      },
       {
         "title": "Steam Deck disappears from Steam store, and Valve hasn't said what happened",
         "url": "https://mixed-news.com/en/steam-deck-store-page-redirects-valve-other-hardware-listed/",
@@ -17,14 +25,6 @@
         "source": "roadtovr.com",
         "date": "Tue, 03 Nov 2026 13:50:18 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/04/best-quest-2-games-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Meta Is Winding Down Quest 2 & Quest Pro Support Next Year",
-        "url": "https://www.uploadvr.com/meta-is-winding-down-quest-2-quest-pro-support-next-year/",
-        "summary": "Meta announced that Quest 2 and Quest Pro will receive their final OS update by March 2027, with new app submissions ending in December 2027.",
-        "source": "uploadvr.com",
-        "date": "Mon, 02 Nov 2026 15:27:42 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/869974061_1871020777432934_5182817991920541890_n.png"
       },
       {
         "title": "Save $30 on the HyperX Cloud III: a wired gaming headset for PC and consoles drops to $69.99 ahead of Black Friday",
@@ -43,22 +43,38 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2022/09/psvr-2-hands-on-1.jpg?resize=1480%2C832&quality=89&ssl=1"
       },
       {
-        "title": "November Upcoming VR Games 2026: Quest, PC VR, PS VR2 & More",
-        "url": "https://www.uploadvr.com/november-upcoming-vr-games-2026-quest-pc-vr-ps-vr2/",
-        "summary": "Here is our rundown of the new VR releases for November.",
+        "title": "Meta Is Winding Down Quest 2 & Quest Pro Support Next Year",
+        "url": "https://www.uploadvr.com/meta-is-winding-down-quest-2-quest-pro-support-next-year/",
+        "summary": "Meta announced that Quest 2 and Quest Pro will receive their final OS update by March 2027, with new app submissions ending in December 2027.",
         "source": "uploadvr.com",
-        "date": "Mon, 02 Nov 2026 06:59:23 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/uvr-novemberReleases.png"
+        "date": "Mon, 02 Nov 2026 15:27:42 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/869974061_1871020777432934_5182817991920541890_n.png"
       }
     ],
     "AI": [
       {
-        "title": "Midterm elections 2026: all the news",
-        "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-        "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028…",
+        "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+        "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+        "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch.",
         "source": "theverge.com",
-        "date": "2026-11-03T10:58:39-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-03T13:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIDiscover-Product-02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+        "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+        "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+        "source": "arstechnica.com",
+        "date": "Tue, 03 Nov 2026 16:03:13 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg"
+      },
+      {
+        "title": "Google is entirely disabling Search in schools that don’t want AI",
+        "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+        "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times.",
+        "source": "theverge.com",
+        "date": "2026-11-03T12:00:04-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
       },
       {
-        "title": "Apple is all in on AI — its own and everyone else’s",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-        "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors.",
+        "title": "Midterm elections 2026: all the news",
+        "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+        "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028…",
         "source": "theverge.com",
-        "date": "2026-11-03T10:24:51-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-03T10:58:39-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Tue, 27 Oct 2026 20:25:55 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg"
-      },
-      {
-        "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-        "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political…",
-        "source": "theverge.com",
-        "date": "2026-11-03T10:00:44-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2236733575.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-        "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-        "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-        "source": "arstechnica.com",
-        "date": "Thu, 22 Oct 2026 20:17:52 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Caleb Williams has arrived as a top-tier quarterback",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-has-arrived-as-a-top-tier-quarterback",
-        "summary": "Make room for the Bears QB in the Josh Allen, Patrick Mahomes, Joe Burrow club.",
+        "title": "Commanders place Daron Payne, Javon Kinlaw, Jeremy McNichols on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-place-daron-payne-javon-kinlaw-jeremy-mcnichols-on-ir",
+        "summary": "The Commanders have placed defensive lineman Daron Payne, defensive lineman Javon Kinlaw and running back Jeremy McNichols on injured reserve, the team announced Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 11:04:34 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d67b4f6/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F3d%2F9efa4215465b814f1dcef63ce885%2F2303240785.jpg"
+        "date": "Tue, 03 Nov 2026 16:53:44 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e097cf4/2147483647/strip/false/crop/5353x3011+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8a%2Fcd%2F7994ab874f06afddab75e5f4ce5a%2F2253073847.jpg"
       },
       {
-        "title": "Bengals place DE Cashius Howell on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-place-de-cashius-howell-on-injured-reserve",
-        "summary": "The Bengals announced that rookie defensive end Cashius Howell had wrist surgery on Monday, but head coach Zac Taylor said he didn't have a specific timeline for Howell's return to…",
+        "title": "Bills release S C.J. Gardner-Johnson after one-game suspension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-release-s-c-j-gardner-johnson-after-one-game-suspension",
+        "summary": "C.J.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 11:00:20 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/443d2a7/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2F70%2Fa5ed656b44b0bbcfcd5713205592%2F2301991049.jpg"
+        "date": "Tue, 03 Nov 2026 16:45:24 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6cdfbc6/2147483647/strip/false/crop/3576x2012+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4e%2F51%2F18630df245338b3f6c90c9137127%2F2301189655.jpg"
       },
       {
-        "title": "Ben Johnson: Jeffery Simmons has fit right in, he got a game ball",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-jeffery-simmons-has-fit-right-in-he-got-a-game-ball",
-        "summary": "Fresh off last week's trade from the Titans to the Bears, defensive tackle Jeffrey Simmons had a clear impact on Monday night's win over the Seahawks.",
+        "title": "Ravens put Tyler Loop on injured reserve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-put-tyler-loop-on-injured-reserve",
+        "summary": "The Ravens' kicker change will last longer than one game.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 10:39:09 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b2c8443/2147483647/strip/false/crop/3541x1992+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2F9f%2Fb24d16994ca8a8eb0601619fe3a0%2F2303240816.jpg"
+        "date": "Tue, 03 Nov 2026 16:35:49 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/630e2ee/2147483647/strip/false/crop/3654x2055+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fae%2F16%2Fb2e7bbd34aacbcef3d38b7b1b8b8%2F2302594825.jpg"
       },
       {
-        "title": "Aaron Glenn on job security: I understand the business, but only think about the team",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-glenn-on-job-security-i-understand-the-business-but-only-think-about-the-team",
-        "summary": "The Jets' loss to the Raiders in Week 8 dropped them to 2-6 and it left their record since hiring head coach Aaron Glenn at an unimpressive 5-20.",
+        "title": "Kyler Murray's hamstring issue could be cover for a soft benching",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murrays-hamstring-issue-could-be-cover-for-a-soft-benching",
+        "summary": "How can the Vikings bench Kyler Murray without benching Kyler Murray?",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 10:35:48 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/025c327/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa8%2Fe2%2Fb10f80ee4691bdb2bfc86c751043%2F2302732734.jpg"
+        "date": "Tue, 03 Nov 2026 16:30:10 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1088511/2147483647/strip/false/crop/4540x2554+0+295/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd5%2F56%2F4e8f8ce147ed8e8f7113757b8d7f%2F2026-11-01t211548z-12983297-mt1usatoday30249311-rtrmadp-3-nfl-minnesota-vikings-at-detroit-lions.jpg"
       },
       {
-        "title": "Jerry Jones wants to see more targets for George Pickens",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-wants-to-see-more-targets-for-george-pickens",
-        "summary": "The 3-5 Cowboys have plenty of problems.",
+        "title": "Cardinals officially place Jeremiyah Love, Kendrick Bourne on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-officially-place-jeremiyah-love-kendrick-bourne-on-ir",
+        "summary": "The Cardinals made the move of running back Jeremiyah Love to injured reserve official on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 10:35:21 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5812db5/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F42%2F6573b8ff452894a5b7d2c14a7cf7%2F2302578221.jpg"
+        "date": "Tue, 03 Nov 2026 16:26:50 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/be60451/2147483647/strip/false/crop/3306x1860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2F70%2F26b252ab4695b9bc492329c3cffe%2F2026-11-01t162642z-1385301954-mt1usatoday30247046-rtrmadp-3-nfl-arizona-cardinals-at-dallas-cowboys.jpg"
       },
       {
-        "title": "Teams are interested in Titans RB Tony Pollard, but Tennessee isn't talking (yet)",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/teams-are-interested-in-titans-rb-tony-pollard-but-tennessee-isnt-talking-yet",
-        "summary": "After consistently telling teams that defensive tackle Jeffery Simmons would not be traded, the Titans decided last Tuesday to listen to offers.",
+        "title": "Saints release Daniel Carlson, claim Audric Estime off waivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-release-daniel-carlson-claim-audric-estime-off-waivers",
+        "summary": "An offensive player is returning to New Orleans.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 10:08:23 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cf5161d/2147483647/strip/false/crop/3498x1968+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F01%2Fc1%2F80ae6485467d80d13774730ffe4c%2F2026-11-01t180539z-110278964-mt1usatoday30247203-rtrmadp-3-nfl-tennessee-titans-at-cincinnati-bengals.jpg"
+        "date": "Tue, 03 Nov 2026 16:26:10 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/43df7d4/2147483647/strip/false/crop/8173x4597+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2Ff5%2F2daca09c496ea1b0700430027c12%2F2026-10-25t162131z-1966782134-mt1usatoday30182528-rtrmadp-3-nfl-pittsburgh-steelers-at-new-orleans-saints.jpg"
       }
     ]
   }
