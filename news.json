@@ -1,14 +1,38 @@
 {
-  "updated": "2026-11-04T09:05:21.712Z",
+  "updated": "2026-11-04T17:10:46.499Z",
   "feed": {
     "VR": [
       {
-        "title": "This new VR shooter turns you into a teddy bear fighting off a little girl’s worst nightmares",
-        "url": "https://mixed-news.com/en/stuffed-two-foot-hero-vr-teddy-bear-shooter-steam-launch/",
-        "summary": "The monsters under the bed have a new problem: a heavily armed teddy bear.",
+        "title": "In Death: Unchained's Wave-Based Tower Defense Game Mode To Get A Standalone Release",
+        "url": "https://www.uploadvr.com/in-death-unchaineds-wave-based-tower-defense-game-mode-to-get-a-standalone-release/",
+        "summary": "Superbright to spinoff In Death: Unchained's tower defense mode Siege of Heaven into a separate app.",
+        "source": "uploadvr.com",
+        "date": "Wed, 04 Nov 2026 07:30:17 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/inDeath_SiegeOfHeaven_KeyArt_C_01.png"
+      },
+      {
+        "title": "SteamVR Update Improves Image Quality for All Steam Link Compatible Headsets",
+        "url": "https://roadtovr.com/steamvr-beta-update-image-quality-quest-frame-pico/",
+        "summary": "Valve has released a SteamVR beta update that brings improvements to streamed image quality to all supported standalone headsets.",
+        "source": "roadtovr.com",
+        "date": "Wed, 04 Nov 2026 13:00:28 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steamvr-logo-640x360-1.png?resize=640%2C360&quality=80&ssl=1"
+      },
+      {
+        "title": "Anthropic’s FlashProve checks AI model output without exposing its secret weights",
+        "url": "https://mixed-news.com/en/anthropic-flashprove-ai-model-response-cryptographic-proof/",
+        "summary": "Anthropic has released a research prototype that checks an AI model’s output without exposing the weights used to produce it.",
         "source": "mixed-news.com",
-        "date": "Wed, 04 Nov 2026 08:55:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/ss_d1777dd4fc5fed7d3357cde0f6d0724425484a57.1920x1080.jpg"
+        "date": "Wed, 04 Nov 2026 12:39:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/owner-nov4-evening-ai-flashprove-feature.jpg"
+      },
+      {
+        "title": "PAYDAY: Aces High joins Meta Horizon+ on November 5, bringing four-player VR heists to subscribers",
+        "url": "https://mixed-news.com/en/payday-aces-high-meta-horizon-plus-launch-november-5/",
+        "summary": "Quest owners with Meta Horizon+ will be able to play PAYDAY: Aces High when the VR heist shooter launches on November 5.",
+        "source": "mixed-news.com",
+        "date": "Wed, 04 Nov 2026 11:36:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/ss_7390271bd86080374aa51e9539bc572b7c0a936d.1920x1080.jpg"
       },
       {
         "title": "Payday: Aces High & Assassin's Creed Nexus Join Meta Horizon+ Subscription",
@@ -25,40 +49,32 @@
         "source": "roadtovr.com",
         "date": "Tue, 03 Nov 2026 13:50:18 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2021/04/best-quest-2-games-1.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "A $400 discount brings this RTX 5080 gaming PC with 32GB RAM and 2TB storage below $3,000",
-        "url": "https://mixed-news.com/en/ibuypower-rtx-5080-ultra-7-270k-plus-newegg-400-off/",
-        "summary": "High-end gaming PCs can swallow a big budget, but a $400 Newegg discount brings this iBUYPOWER desktop with an NVIDIA GeForce RTX 5080 under $3,000.",
-        "source": "mixed-news.com",
-        "date": "Wed, 04 Nov 2026 08:05:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/owner-nov4-deal-ibuypower-5080-feature.jpg"
-      },
-      {
-        "title": "Sony Removes PSVR 2 From PlayStation’s Web Store as Stock Dries Up at Online Retailers",
-        "url": "https://roadtovr.com/sony-psvr-2-out-of-stock-ps-store-amazon/",
-        "summary": "Sony appears to be winding down PSVR 2 sales, as the company has removed its PS5-compatible VR headset from the PlayStation web store.",
-        "source": "roadtovr.com",
-        "date": "Tue, 03 Nov 2026 10:32:57 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2022/09/psvr-2-hands-on-1.jpg?resize=1480%2C832&quality=89&ssl=1"
-      },
-      {
-        "title": "Meta Is Winding Down Quest 2 & Quest Pro Support Next Year",
-        "url": "https://www.uploadvr.com/meta-is-winding-down-quest-2-quest-pro-support-next-year/",
-        "summary": "Meta announced that Quest 2 and Quest Pro will receive their final OS update by March 2027, with new app submissions ending in December 2027.",
-        "source": "uploadvr.com",
-        "date": "Mon, 02 Nov 2026 15:27:42 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/869974061_1871020777432934_5182817991920541890_n.png"
       }
     ],
     "AI": [
       {
-        "title": "The biggest modding site in PC gaming is taking a stance on AI",
-        "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-        "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used…",
+        "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+        "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+        "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+        "source": "arstechnica.com",
+        "date": "Wed, 04 Nov 2026 16:06:03 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg"
+      },
+      {
+        "title": "Data centers lost the midterms",
+        "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+        "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that…",
         "source": "theverge.com",
-        "date": "2026-11-03T19:42:10-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-04T11:05:39-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+        "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+        "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an…",
+        "source": "theverge.com",
+        "date": "2026-11-04T10:58:45-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg"
       },
       {
-        "title": "Please stop asking me when the AI bubble will pop",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-        "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst.",
+        "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+        "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases.",
         "source": "theverge.com",
-        "date": "2026-11-03T18:37:45-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-04T09:46:01-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Fri, 30 Oct 2026 21:09:54 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
-      },
-      {
-        "title": "Those Jeff Bezos hair transplant photos are very fake",
-        "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-        "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days.",
-        "source": "theverge.com",
-        "date": "2026-11-03T16:01:07-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-        "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-        "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-        "source": "arstechnica.com",
-        "date": "Tue, 27 Oct 2026 20:25:55 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "2026 season could highlight the unfairness of the eight-division structure",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2026-season-could-highlight-the-unfairness-of-the-eight-division-structure",
-        "summary": "It's time to consider ditching the two-conference, eight-division approach.",
+        "title": "Tyler Allgeier wins first NFC offensive player of the week award",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-allgeier-wins-first-nfc-offensive-player-of-the-week-award",
+        "summary": "The Cardinals had injury concerns at running back during Sunday's comeback victory over the Cowboys.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 22:46:58 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7168ad6/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F90%2F135%2Fnbc_pft_realignmentproposal_261030.jpg"
+        "date": "Wed, 04 Nov 2026 12:05:21 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e0ad98/2147483647/strip/false/crop/5364x3017+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F55%2Fb6%2Fcdf4cf8740ad9d3b2b0dd0cde150%2F2302600930.jpg"
       },
       {
-        "title": "Vic Fangio: J.J. McCarthy was a \"steal\" for the Giants",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vic-fangio-j-j-mccarthy-was-a-steal-for-the-giants",
-        "summary": "In late September, the Vikings sent quarterback J.J.",
+        "title": "Tee Higgins named the AFC offensive player of the week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tee-higgins-named-the-afc-offensive-player-of-the-week",
+        "summary": "A pair of Bengals wide receivers had big games in Week 8, but only one of them could be named the AFC offensive player of the week.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 21:52:46 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0bf20ce/2147483647/strip/false/crop/4327x2434+0+226/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2F84%2Fbc6c8cf44c9ea0a55d648344d7bd%2F2302455476.jpg"
+        "date": "Wed, 04 Nov 2026 12:04:39 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e054af0/2147483647/strip/false/crop/5491x3089+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcd%2Fcd%2F79a10e684efebef0c6d7907fc872%2F2303367320.jpg"
       },
       {
-        "title": "Josh Jacobs needs to display more (or any) contrition",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobs-needs-to-display-more-or-any-contrition",
-        "summary": "In May 2026, Packers running back Josh Jacobs crossed a line that should never be crossed.",
+        "title": "KC Concepcion: Browns are confident, getting Shedeur Sanders ready for Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kc-concepcion-browns-are-confident-getting-shedeur-sanders-ready-for-sunday",
+        "summary": "The Browns haven't officially named Shedeur Sanders this week's starter, but with Deshaun Watson in the concussion protocol, all signs are pointing in that direction.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 21:19:41 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/943dc82/2147483647/strip/false/crop/6579x3701+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F16%2F4e%2Fc94030a04d33a8f74bbc7c1e7bf5%2F2302756949.jpg"
+        "date": "Wed, 04 Nov 2026 11:47:48 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4eaa176/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd3%2F28%2F3c616aeb4fd9937ad1f21634038c%2F2303011033.jpg"
       },
       {
-        "title": "Bills reverse course on \"high-maintenance\" C.J. Gardner-Johnson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-reverse-course-on-high-maintenance-c-j-gardner-johnson",
-        "summary": "The Bills said they'd be keeping safety C.J.",
+        "title": "Report: Jordyn Tyson will return to practice on Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jordyn-tyson-will-return-to-practice-on-wednesday",
+        "summary": "There is some positive news on the injury front for the Saints as they return from their bye week.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 20:40:06 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/de5fdc4/2147483647/strip/false/crop/5746x3232+0+299/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F11%2F115e073047a4aad8a8899af94a03%2F2300068433.jpg"
+        "date": "Wed, 04 Nov 2026 11:34:32 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a99856/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F78%2Fa89ba0a24e089693878c3637630c%2F2290339645.jpg"
       },
       {
-        "title": "Report: Russell Wilson interviews for NC State head-coaching job",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-russell-wilson-interviews-for-nc-state-head-coaching-job",
-        "summary": "\"Let Russ coach.\"",
+        "title": "Falcons list James Pearce as a full practice participant",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-list-james-pearce-as-a-full-practice-participant",
+        "summary": "The Falcons held a walkthrough upon arriving in Madrid on Wednesday and they release their estimated practice report for the day after that session came to an end.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 19:55:40 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6757217/2147483647/strip/false/crop/5000x2813+0+260/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2Fb5%2F3ce37c1d4a7c8f2aaaef51710ebf%2F2302616444.jpg"
+        "date": "Wed, 04 Nov 2026 11:15:04 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6fbd516/2147483647/strip/false/crop/4847x2726+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fd5%2F8b60d0c64447a69fb630032a9e67%2F2290766959.jpg"
       },
       {
-        "title": "Iowa coach Kirk Ferentz expresses support for former Hawkeyes LB Jack Campbell",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/iowa-coach-kirk-ferentz-expresses-support-for-former-hawkeyes-lb-jack-campbell",
-        "summary": "Anyone who follows football and who cares about the men who play the game remains deeply concerned about the health and well-being of Lions linebacker Jack Campbell, who remains…",
+        "title": "Nebraska voters say no to mobile sports betting",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nebraska-voters-say-no-to-mobile-sports-betting",
+        "summary": "If you haven't heard, Tuesday was election day.",
         "source": "nbcsports.com",
-        "date": "Tue, 03 Nov 2026 19:31:22 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4395fef/2147483647/strip/false/crop/5544x3119+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fae%2F1e%2F8fa6a7ea4f2d9bd8531419e610fc%2F1454422793.jpg"
+        "date": "Wed, 04 Nov 2026 10:21:22 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a571d93/2147483647/strip/false/crop/3840x2160+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2Fee%2Fa60fb4724d589e5a8743582c1e2b%2F2294512913.jpg"
       }
     ]
   }
