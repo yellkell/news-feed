@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-04T17:10:46.499Z",
+  "updated": "2026-11-04T22:36:31.936Z",
   "feed": {
     "VR": [
+      {
+        "title": "Steam game reviews can take 12 business days, and one horror developer has delayed its launch again",
+        "url": "https://mixed-news.com/en/valve-steam-game-build-review-12-business-days-checklist/",
+        "summary": "Valve says its reviews of game builds for Steam are currently taking up to 12 business days.",
+        "source": "mixed-news.com",
+        "date": "Wed, 04 Nov 2026 21:40:20 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/owner-nov5-steam-build-reviews-feature.jpg"
+      },
       {
         "title": "In Death: Unchained's Wave-Based Tower Defense Game Mode To Get A Standalone Release",
         "url": "https://www.uploadvr.com/in-death-unchaineds-wave-based-tower-defense-game-mode-to-get-a-standalone-release/",
@@ -27,14 +35,6 @@
         "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/owner-nov4-evening-ai-flashprove-feature.jpg"
       },
       {
-        "title": "PAYDAY: Aces High joins Meta Horizon+ on November 5, bringing four-player VR heists to subscribers",
-        "url": "https://mixed-news.com/en/payday-aces-high-meta-horizon-plus-launch-november-5/",
-        "summary": "Quest owners with Meta Horizon+ will be able to play PAYDAY: Aces High when the VR heist shooter launches on November 5.",
-        "source": "mixed-news.com",
-        "date": "Wed, 04 Nov 2026 11:36:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/ss_7390271bd86080374aa51e9539bc572b7c0a936d.1920x1080.jpg"
-      },
-      {
         "title": "Payday: Aces High & Assassin's Creed Nexus Join Meta Horizon+ Subscription",
         "url": "https://www.uploadvr.com/payday-aces-high-assassins-creed-nexus-join-meta-horizon-subscription/",
         "summary": "November 2026 brings heavy hitters to Meta's Horizon+ subscription, including Assassin's Creed Nexus VR and the brand-new Payday: Aces High.",
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "17 better ways Elon Musk could have wasted $446 million",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+        "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics.",
+        "source": "theverge.com",
+        "date": "2026-11-04T16:45:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Binance says hackers who stole billions in crypto spent months planning heist",
         "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
         "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
@@ -61,20 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg"
       },
       {
-        "title": "Data centers lost the midterms",
-        "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-        "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that…",
+        "title": "Gemini for Home now plugs into AT&T’s smart security system",
+        "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "summary": "AT&T's smart home security system now integrates with Gemini for Home.",
         "source": "theverge.com",
-        "date": "2026-11-04T11:05:39-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-        "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-        "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an…",
-        "source": "theverge.com",
-        "date": "2026-11-04T10:58:45-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-04T15:23:24-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg"
       },
       {
-        "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-        "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases.",
+        "title": "Nothing teases a screen-free AI device ahead of launch next month",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+        "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December.",
         "source": "theverge.com",
-        "date": "2026-11-04T09:46:01-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-04T13:26:07-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Tyler Allgeier wins first NFC offensive player of the week award",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-allgeier-wins-first-nfc-offensive-player-of-the-week-award",
-        "summary": "The Cardinals had injury concerns at running back during Sunday's comeback victory over the Cowboys.",
+        "title": "Kellen Moore confirms Charlie Smyth will kick for the Saints this week",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-confirms-charlie-smyth-will-kick-for-the-saints-this-week",
+        "summary": "The Saints released veteran kicker Daniel Carlson on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 12:05:21 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0e0ad98/2147483647/strip/false/crop/5364x3017+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F55%2Fb6%2Fcdf4cf8740ad9d3b2b0dd0cde150%2F2302600930.jpg"
+        "date": "Wed, 04 Nov 2026 17:29:14 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0cd3caf/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F79%2F053771a44423ac59dc0fe0e35390%2F2292513578.jpg"
       },
       {
-        "title": "Tee Higgins named the AFC offensive player of the week",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tee-higgins-named-the-afc-offensive-player-of-the-week",
-        "summary": "A pair of Bengals wide receivers had big games in Week 8, but only one of them could be named the AFC offensive player of the week.",
+        "title": "Jaylen Watson to undergo season-ending shoulder surgery",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaylen-watson-to-undergo-season-ending-shoulder-surgery",
+        "summary": "The Rams will not have one of their starting cornerbacks for the rest of the year.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 12:04:39 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e054af0/2147483647/strip/false/crop/5491x3089+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcd%2Fcd%2F79a10e684efebef0c6d7907fc872%2F2303367320.jpg"
+        "date": "Wed, 04 Nov 2026 17:06:08 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4ff7b04/2147483647/strip/false/crop/7909x4449+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F2a%2F6b5ed317478b966a201b0a059a41%2F2300268701.jpg"
       },
       {
-        "title": "KC Concepcion: Browns are confident, getting Shedeur Sanders ready for Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kc-concepcion-browns-are-confident-getting-shedeur-sanders-ready-for-sunday",
-        "summary": "The Browns haven't officially named Shedeur Sanders this week's starter, but with Deshaun Watson in the concussion protocol, all signs are pointing in that direction.",
+        "title": "David Bailey, Breece Hall listed as limited in Jets practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-bailey-breece-hall-listed-as-limited-in-jets-practice",
+        "summary": "The Jets played without rookie linebacker David Bailey in Week 8 after he missed practice all week with a groin injury, but Week 9's practice schedule got off to a better start.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 11:47:48 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4eaa176/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd3%2F28%2F3c616aeb4fd9937ad1f21634038c%2F2303011033.jpg"
+        "date": "Wed, 04 Nov 2026 16:55:23 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/93cad11/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2Fe2%2Fef3f7f1541b39ce6aceaf0d5d1fa%2F2301648283.jpg"
       },
       {
-        "title": "Report: Jordyn Tyson will return to practice on Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jordyn-tyson-will-return-to-practice-on-wednesday",
-        "summary": "There is some positive news on the injury front for the Saints as they return from their bye week.",
+        "title": "Cam Skattebo misses practice due to a hamstring injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-misses-practice-due-to-a-hamstring-injury",
+        "summary": "Giants running back Cam Skattebo said he felt something in his hamstring near the end of the team's Week 7 win over the Texans and it's still an issue coming out of the team's bye…",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 11:34:32 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a99856/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F78%2Fa89ba0a24e089693878c3637630c%2F2290339645.jpg"
+        "date": "Wed, 04 Nov 2026 16:46:05 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b3bedf7/2147483647/strip/false/crop/3262x1835+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F7c%2F39ce2af44088a0df60fd3ac06f73%2F2301800517.jpg"
       },
       {
-        "title": "Falcons list James Pearce as a full practice participant",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-list-james-pearce-as-a-full-practice-participant",
-        "summary": "The Falcons held a walkthrough upon arriving in Madrid on Wednesday and they release their estimated practice report for the day after that session came to an end.",
+        "title": "Buccaneers claim OL Trevor Keegan off waivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-claim-ol-trevor-keegan-off-waivers",
+        "summary": "The Buccaneers are adding some depth to their offensive line.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 11:15:04 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6fbd516/2147483647/strip/false/crop/4847x2726+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fd5%2F8b60d0c64447a69fb630032a9e67%2F2290766959.jpg"
+        "date": "Wed, 04 Nov 2026 16:40:40 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/63baf70/2147483647/strip/false/crop/7384x4154+0+385/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2F32%2F285ba3494eafa6a06140308d0a8f%2F2300176290.jpg"
       },
       {
-        "title": "Nebraska voters say no to mobile sports betting",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nebraska-voters-say-no-to-mobile-sports-betting",
-        "summary": "If you haven't heard, Tuesday was election day.",
+        "title": "Cardinals RG Isaiah Adams returns to practice",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-rg-isaiah-adams-returns-to-practice",
+        "summary": "The Cardinals designated right guard Isaiah Adams to return from injured reserve, the team announced Wednesday.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 10:21:22 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a571d93/2147483647/strip/false/crop/3840x2160+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F86%2Fee%2Fa60fb4724d589e5a8743582c1e2b%2F2294512913.jpg"
+        "date": "Wed, 04 Nov 2026 16:39:08 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ff19877/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F731%2FJacoby11-3PFTnew.jpg"
       }
     ]
   }
