@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-04T22:36:31.936Z",
+  "updated": "2026-11-05T02:45:57.951Z",
   "feed": {
     "VR": [
       {
-        "title": "Steam game reviews can take 12 business days, and one horror developer has delayed its launch again",
-        "url": "https://mixed-news.com/en/valve-steam-game-build-review-12-business-days-checklist/",
-        "summary": "Valve says its reviews of game builds for Steam are currently taking up to 12 business days.",
+        "title": "Helldivers 2 gets a memory leak fix in GE-Proton’s latest Linux gaming update",
+        "url": "https://mixed-news.com/en/ge-proton-11-12-helldivers-2-memory-leak-linux/",
+        "summary": "A new GE-Proton release targets a memory leak that could build up while playing Helldivers 2 on Linux.",
         "source": "mixed-news.com",
-        "date": "Wed, 04 Nov 2026 21:40:20 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/owner-nov5-steam-build-reviews-feature.jpg"
+        "date": "Thu, 05 Nov 2026 02:01:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/owner-nov5-ge-proton-helldivers-feature.jpg"
       },
       {
         "title": "In Death: Unchained's Wave-Based Tower Defense Game Mode To Get A Standalone Release",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steamvr-logo-640x360-1.png?resize=640%2C360&quality=80&ssl=1"
       },
       {
-        "title": "Anthropic’s FlashProve checks AI model output without exposing its secret weights",
-        "url": "https://mixed-news.com/en/anthropic-flashprove-ai-model-response-cryptographic-proof/",
-        "summary": "Anthropic has released a research prototype that checks an AI model’s output without exposing the weights used to produce it.",
+        "title": "Bayonetta joins Sonic Racing for free, and a new Duel Mode lets two players race head to head",
+        "url": "https://mixed-news.com/en/sonic-racing-crossworlds-year-two-bayonetta-duel-mode/",
+        "summary": "Bayonetta has joined Sonic Racing: CrossWorlds as a free unlock, while the kart racer’s Year Two update gives players a new way to settle rivalries one-on-one.",
         "source": "mixed-news.com",
-        "date": "Wed, 04 Nov 2026 12:39:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/owner-nov4-evening-ai-flashprove-feature.jpg"
+        "date": "Thu, 05 Nov 2026 01:04:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/ss_3d0d2e2f1ec38bc6e5cb19766f104bfe1442e3c3.1920x1080.jpg"
       },
       {
         "title": "Payday: Aces High & Assassin's Creed Nexus Join Meta Horizon+ Subscription",
@@ -53,6 +53,22 @@
     ],
     "AI": [
       {
+        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+        "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line.",
+        "source": "theverge.com",
+        "date": "2026-11-04T17:42:15-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Hackers exploited iOS and Android flaws to infect phones",
+        "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+        "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+        "source": "arstechnica.com",
+        "date": "Wed, 04 Nov 2026 22:26:49 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg"
+      },
+      {
         "title": "17 better ways Elon Musk could have wasted $446 million",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
         "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics.",
@@ -61,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-        "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-        "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+        "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+        "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+        "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
         "source": "arstechnica.com",
-        "date": "Wed, 04 Nov 2026 16:06:03 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg"
+        "date": "Wed, 04 Nov 2026 21:38:49 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-474325206-1152x648-1753374517.jpg"
       },
       {
         "title": "Gemini for Home now plugs into AT&T’s smart security system",
@@ -77,78 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-        "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-        "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+        "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+        "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+        "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
         "source": "arstechnica.com",
-        "date": "Tue, 03 Nov 2026 16:03:13 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg"
-      },
-      {
-        "title": "Nothing teases a screen-free AI device ahead of launch next month",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-        "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December.",
-        "source": "theverge.com",
-        "date": "2026-11-04T13:26:07-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-        "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-        "source": "arstechnica.com",
-        "date": "Fri, 30 Oct 2026 21:09:54 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg"
+        "date": "Wed, 04 Nov 2026 16:06:03 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Kellen Moore confirms Charlie Smyth will kick for the Saints this week",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-confirms-charlie-smyth-will-kick-for-the-saints-this-week",
-        "summary": "The Saints released veteran kicker Daniel Carlson on Tuesday.",
+        "title": "Bryce Young a full participant but with an ankle injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-young-a-full-participant-but-with-an-ankle-injury",
+        "summary": "Bryce Young was listed with a knee injury on the Panthers' practice reports over the past four weeks.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 17:29:14 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0cd3caf/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8b%2F79%2F053771a44423ac59dc0fe0e35390%2F2292513578.jpg"
+        "date": "Wed, 04 Nov 2026 21:31:51 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e03fbcb/2147483647/strip/false/crop/4815x2708+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F85%2Fed%2F4189f23f4ff4bfe30dcd77a672c9%2F2303370897.jpg"
       },
       {
-        "title": "Jaylen Watson to undergo season-ending shoulder surgery",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaylen-watson-to-undergo-season-ending-shoulder-surgery",
-        "summary": "The Rams will not have one of their starting cornerbacks for the rest of the year.",
+        "title": "Report: Jalen Hurts makes an appearance at team facility",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jalen-hurts-makes-an-appearance-at-team-facility",
+        "summary": "Eagles quarterback Jalen Hurts made an appearance at the team's practice facility on Wednesday, Tim McManus of ESPN reports.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 17:06:08 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4ff7b04/2147483647/strip/false/crop/7909x4449+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F2a%2F6b5ed317478b966a201b0a059a41%2F2300268701.jpg"
+        "date": "Wed, 04 Nov 2026 21:03:25 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d752bd/2147483647/strip/false/crop/3800x2138+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F55%2Fe9%2Fafe31b534c65b2126a494a39fb4f%2F2026-10-20t224306z-1196512155-mt1usatoday30139243-rtrmadp-3-nfl-philadelphia-eagles-at-jacksonville-jaguars.jpg"
       },
       {
-        "title": "David Bailey, Breece Hall listed as limited in Jets practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/david-bailey-breece-hall-listed-as-limited-in-jets-practice",
-        "summary": "The Jets played without rookie linebacker David Bailey in Week 8 after he missed practice all week with a groin injury, but Week 9's practice schedule got off to a better start.",
+        "title": "Josh Jacobs: \"There's a lot of stuff being said about me that's completely false\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobs-theres-a-lot-of-stuff-being-said-about-me-thats-completely-false",
+        "summary": "On Friday, Wisconsin authorities released documents in the Josh Jacobs criminal case that included three allegations against him from other women.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 16:55:23 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/93cad11/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2Fe2%2Fef3f7f1541b39ce6aceaf0d5d1fa%2F2301648283.jpg"
+        "date": "Wed, 04 Nov 2026 20:47:19 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/623a3f9/2147483647/strip/false/crop/3117x1753+0+162/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2Fc1%2Fb77528cb406391966c3201355af1%2F2302627646.jpg"
       },
       {
-        "title": "Cam Skattebo misses practice due to a hamstring injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-misses-practice-due-to-a-hamstring-injury",
-        "summary": "Giants running back Cam Skattebo said he felt something in his hamstring near the end of the team's Week 7 win over the Texans and it's still an issue coming out of the team's bye…",
+        "title": "Jim Harbaugh, Justin Herbert respond to Quentin Lake's \"seeing ghosts\" critique",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-justin-herbert-respond-to-quentin-lakes-seeing-ghosts-critique",
+        "summary": "As the football-following world tries to figure out the problem(s) with Chargers quarterback Justin Herbert, Rams safety Quentin Lake provided a scathing critique of Herbert's most…",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 16:46:05 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b3bedf7/2147483647/strip/false/crop/3262x1835+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2F7c%2F39ce2af44088a0df60fd3ac06f73%2F2301800517.jpg"
+        "date": "Wed, 04 Nov 2026 20:31:32 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/74ccda5/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F55%2F2aaed8b742678aa1c37b2daed931%2F2303026956.jpg"
       },
       {
-        "title": "Buccaneers claim OL Trevor Keegan off waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-claim-ol-trevor-keegan-off-waivers",
-        "summary": "The Buccaneers are adding some depth to their offensive line.",
+        "title": "Matthew Stafford has full participation with elbow injury; Myles Garrett limited in return",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-has-full-participation-wednesday-myles-garrett-limited-in-return",
+        "summary": "Rams coach Sean McVay wouldn't allow much about the ice pack on quarterback Matthew Stafford's arm after Sunday's win over the Chargers other than to say it was soreness.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 16:40:40 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/63baf70/2147483647/strip/false/crop/7384x4154+0+385/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2F32%2F285ba3494eafa6a06140308d0a8f%2F2300176290.jpg"
+        "date": "Wed, 04 Nov 2026 20:20:24 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/449979d/2147483647/strip/false/crop/3432x1931+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F59%2Fa3%2F092517d049449eb009cc96e56039%2F2303403455.jpg"
       },
       {
-        "title": "Cardinals RG Isaiah Adams returns to practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-rg-isaiah-adams-returns-to-practice",
-        "summary": "The Cardinals designated right guard Isaiah Adams to return from injured reserve, the team announced Wednesday.",
+        "title": "Christian McCaffrey says \"I feel great\" after hamstring injury, but he didn't practice on Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffrey-says-i-feel-great-after-hamstring-injury-but-he-didnt-practice-on-wednesday",
+        "summary": "Thigh injury that became hamstring problem keeps McCaffrey out of practice.",
         "source": "nbcsports.com",
-        "date": "Wed, 04 Nov 2026 16:39:08 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ff19877/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F461%2F731%2FJacoby11-3PFTnew.jpg"
+        "date": "Wed, 04 Nov 2026 19:57:46 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fee189a/2147483647/strip/false/crop/4500x2531+0+234/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F03%2F93%2F7ac3766e4a26af267b455b87f171%2F2302921115.jpg"
       }
     ]
   }
