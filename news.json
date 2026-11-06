@@ -1,14 +1,38 @@
 {
-  "updated": "2026-11-06T11:23:04.915Z",
+  "updated": "2026-11-06T18:09:15.417Z",
   "feed": {
     "VR": [
       {
-        "title": "Road Rash's 1996 PC version finally goes digital, with its soundtrack restored and a smoother ride",
-        "url": "https://mixed-news.com/en/road-rash-1996-pc-first-digital-release-30th-anniversary/",
-        "summary": "Road Rash's 1996 PC version is finally available as a digital release, and Electronic Arts has brought its music along for the ride.",
+        "title": "This 360Hz QD-OLED gaming monitor just dropped to $349, taking $296 off Newegg's price",
+        "url": "https://mixed-news.com/en/asrock-pgo27qfv-360hz-qd-oled-monitor-newegg-296-off/",
+        "summary": "ASRock's Phantom Gaming PGO27QFV combines a 27-inch QD-OLED panel with a 360Hz refresh rate, and Newegg has cut the monitor to $349.",
         "source": "mixed-news.com",
-        "date": "Fri, 06 Nov 2026 10:42:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-road-rash-restoration-0.jpg"
+        "date": "Fri, 06 Nov 2026 17:43:07 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-asrock-oled-0.jpg"
+      },
+      {
+        "title": "‘PAYDAY: Aces High’ Review – A Card Shy of a Royal Flush",
+        "url": "https://roadtovr.com/payday-aces-high-review-quest-steam-vr/",
+        "summary": "PAYDAY finally got its first VR-native entry into the storied franchise.",
+        "source": "roadtovr.com",
+        "date": "Fri, 06 Nov 2026 14:36:37 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/payday-vr.jpeg?resize=1534%2C863&quality=89&ssl=1"
+      },
+      {
+        "title": "Quest's Latest PTC Brings Streamlined OS Interface & Theater Environment",
+        "url": "https://www.uploadvr.com/quests-latest-ptc-brings-streamlined-interface-theater-environment/",
+        "summary": "Quest's Horizon OS 2.10 PTC update is rolling out now, introducing a new Theater environment for watching media and a streamlined redesign of the Navigator launcher.",
+        "source": "uploadvr.com",
+        "date": "Fri, 06 Nov 2026 05:31:01 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumbtheater-2.png"
+      },
+      {
+        "title": "$300 off this OLED Lenovo Legion 5 puts an RTX 5070 and 2TB of storage at a 30-day low on Amazon",
+        "url": "https://mixed-news.com/en/lenovo-legion-5-rtx-5070-oled-2tb-laptop-300-off-amazon/",
+        "summary": "The Lenovo Legion 5 pairs a 165Hz OLED screen with an Nvidia GeForce RTX 5070 Laptop GPU, and an Amazon seller has cut the price of the 2TB configuration by $300.",
+        "source": "mixed-news.com",
+        "date": "Fri, 06 Nov 2026 15:57:17 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-lenovo-legion-deal-0.jpg"
       },
       {
         "title": "Project Hail Mary: Journey Among The Stars Gets A Release Date",
@@ -25,40 +49,16 @@
         "source": "roadtovr.com",
         "date": "Thu, 05 Nov 2026 14:02:12 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/steam-frame-review-12.jpg?resize=1536%2C1024&quality=89&ssl=1"
-      },
-      {
-        "title": "Xbox Game Pass gets a new detective mystery on November 11, and your best tool is a sketchbook",
-        "url": "https://mixed-news.com/en/xbox-game-pass-hope-in-the-city-november-11-sketchbook-mystery/",
-        "summary": "Hope in the City arrives on November 11 for PC and Xbox Series X and S, with a day-one release on Xbox Game Pass Ultimate and PC Game Pass.",
-        "source": "mixed-news.com",
-        "date": "Fri, 06 Nov 2026 09:44:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-hope-city-0.jpg"
-      },
-      {
-        "title": "Synth Riders 'Vice Wave' 80s Mixtape Features Duran Duran, Bryan Adams & More",
-        "url": "https://www.uploadvr.com/synth-rider-vice-wave-80s-mixtape-features-duran-duran-bryan-adams-more/",
-        "summary": "Synth Riders dropped another 80s Mixtape. Subtitled Vice Wave, it has 8 tracks featuring Duran Duran, Bryan Adams, and more.",
-        "source": "uploadvr.com",
-        "date": "Thu, 05 Nov 2026 11:28:26 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/synth-riders-80s-mixtape.jpg"
-      },
-      {
-        "title": "SteamVR Update Improves Image Quality for All Steam Link Compatible Headsets",
-        "url": "https://roadtovr.com/steamvr-beta-update-image-quality-quest-frame-pico/",
-        "summary": "Valve has released a SteamVR beta update that brings improvements to streamed image quality to all supported standalone headsets.",
-        "source": "roadtovr.com",
-        "date": "Wed, 04 Nov 2026 13:00:28 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/steamvr-logo-640x360-1.png?resize=640%2C360&quality=80&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "OpenAI is stepping back from NDAs for data center projects",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-        "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working…",
+        "title": "AI is the new dating dealbreaker",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+        "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things…",
         "source": "theverge.com",
-        "date": "2026-11-05T19:37:56-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-06T12:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg"
       },
       {
-        "title": "Airbnb is working on an AI travel agent",
-        "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-        "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released…",
+        "title": "Big Tech lost big in the 2026 election",
+        "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+        "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI.",
         "source": "theverge.com",
-        "date": "2026-11-05T19:06:12-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-06T11:38:02-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg"
       },
       {
-        "title": "Perplexity launches its own take on AI agents for work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-        "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents.",
+        "title": "How Akai and Moog are embracing vibe-coded mods",
+        "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+        "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community.",
         "source": "theverge.com",
-        "date": "2026-11-05T17:26:50-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-06T11:34:39-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Derrick Henry's production has plummeted without Lamar Jackson this season",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henrys-production-has-plummeted-without-lamar-jackson-this-season",
-        "summary": "Without quarterback Lamar Jackson, the Ravens want to be able to rely on running back Derrick Henry.",
+        "title": "Report: Myles Garrett on track to be activated",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-myles-garrett-on-track-to-be-activated",
+        "summary": "Garrett has not played since Week 1 due to a knee injury.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 06:01:19 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a1b18dd/2147483647/strip/false/crop/5575x3136+0+290/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2F39%2F7daf16b240d5839c525ce39e0ca2%2F2303760512.jpg"
+        "date": "Fri, 06 Nov 2026 12:37:42 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ace8bda/2147483647/strip/false/crop/5614x3158+0+293/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F34%2F444a77384612bf2bde6fd1684056%2F2294592418.jpg"
       },
       {
-        "title": "Jaguars' point differential of +108 this season is 50 points better than any other team",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-point-differential-of-108-this-season-is-50-points-better-than-any-other-team",
-        "summary": "The Jaguars have won four games by more than 21 points this season; no other team has more than one win by more than 21 points.",
+        "title": "Tristan Wirfs to play Sunday, Emeka Egbuka questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tristan-wirfs-to-play-sunday-emeka-egbuka-questionable",
+        "summary": "The Bucs will have left tackle Tristan Wirfs in the lineup as they try to stretch their winning streak to three games on Sunday.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 03:52:36 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fd8ddb5/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F15%2F0f%2Fe72988094deba4eb510c2bfd3825%2F2303760766.jpg"
+        "date": "Fri, 06 Nov 2026 12:30:28 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b5127b/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc4%2F76%2Ff4df9d8a4d7fb6e1044ea2657b8c%2F2302028868.jpg"
       },
       {
-        "title": "Justin Jefferson says his frustration came from \"wanting to win\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-jefferson-says-his-frustration-came-from-wanting-to-win",
-        "summary": "Vikings receiver Justin Jefferson engaged in a rare display of frustration late in Sunday's 19-15 loss to the Lions.",
+        "title": "Deshaun Watson returns to practice Friday, remains in concussion protocol",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-returns-to-practice-friday-remains-in-concussion-protocol",
+        "summary": "Browns quarterback Deshaun Watson is showing signs of progress in his recovery from a concussion.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 00:22:55 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c9f85d5/2147483647/strip/false/crop/3721x2093+0+1326/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F13%2F144ba1354753b1c06b7df7d3b0ea%2F2302570584.jpg"
+        "date": "Fri, 06 Nov 2026 12:25:01 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c4bbd4f/2147483647/strip/false/crop/4543x2555+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Ffe%2F0454982d46bd93ad699d42b5af8b%2F2303697995.jpg"
       },
       {
-        "title": "George Kittle is skeptical that Brandon Aiyuk will \"get in\" the team facility",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-is-skeptical-that-brandon-aiyuk-will-get-in-the-team-facility",
-        "summary": "As 49ers receiver Brandon Aiyuk attempts to lay the foundation for a return to the NFL, at least one other 49ers player has expressed skepticism about Aiyuk's plan.",
+        "title": "DJ Turner set to play for Bengals, Kyle Dugger ruled out",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dj-turner-set-to-play-for-bengals-kyle-dugger-ruled-out",
+        "summary": "The Bengals have issued their injury designations for Sunday's game against the Falcons in Madrid.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 00:03:53 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a648daf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F720%2F1014%2Fnbc_pft_brandonaiyuk_261105.jpg"
+        "date": "Fri, 06 Nov 2026 11:46:47 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b9c084/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2F73%2F05d125354e729646770ecec02e0e%2F2241877935.jpg"
       },
       {
-        "title": "2026 NFL Trade Deadline live updates: Tracker, deals, news, rumors, analysis",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2026-nfl-trade-deadline-live-updates-tracker-deals-news-rumors-analysis",
-        "summary": "Jeffery Simmons, DeForest Buckner, Quenton Nelson and more big-name NFL players are on the move.",
+        "title": "Minkah Fitzpatrick: No controversy with my quote, everyone on the Jets knows what I meant",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/minkah-fitzpatrick-no-controversy-with-my-quote-everyone-on-the-jets-knows-what-i-meant",
+        "summary": "After Sunday's loss to the Raiders, Jets safety Minkah Fitzpatrick said something that caused a bit of a controversy, but Fitzpatrick says there was no controversy with the only…",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 00:01:00 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b2959d/2147483647/strip/false/crop/5861x3297+0+305/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F3a%2Fe5079aa343f786fbe47c726751e9%2F2295679410.jpg"
+        "date": "Fri, 06 Nov 2026 11:36:41 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d408e50/2147483647/strip/false/crop/5065x2849+0+296/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa0%2F6b%2F2051213745dbb8f4d64d9bb0ade5%2F2302148846.jpg"
       },
       {
-        "title": "Thursday Night Football: Jaguars blow out Ravens 33-10",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-jaguars-blow-out-ravens-33-10",
-        "summary": "The Jaguars outgained the Ravens 319 to 227 and forced three Baltimore turnovers.",
+        "title": "NFLPA names Steelers LS Christian Kuntz their Community MVP for Week 9",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-names-steelers-ls-christian-kuntz-their-community-mvp-for-week-9",
+        "summary": "The NFL Players Association announced on Friday that they have named Steelers long snapper Christian Kuntz their Community MVP for Week 9 of the 2026 season.",
         "source": "nbcsports.com",
-        "date": "Thu, 05 Nov 2026 23:21:24 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bb05ee4/2147483647/strip/false/crop/4009x2255+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7f%2F37%2Fc548167f4f0f8e0e19ce37e075d7%2F2303758138.jpg"
+        "date": "Fri, 06 Nov 2026 11:23:59 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/70b2d22/2147483647/strip/false/crop/2738x1540+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F9a%2F2cdfbc01464babebe5b7a362448d%2F2254484261.jpg"
       }
     ]
   }
