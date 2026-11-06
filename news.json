@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-05T17:58:52.524Z",
+  "updated": "2026-11-06T03:29:48.754Z",
   "feed": {
     "VR": [
       {
-        "title": "Payday Aces High Review: Lootin' & Scootin' In VR's Best New Co-Op Shooter",
-        "url": "https://www.uploadvr.com/payday-aces-high-review/",
-        "summary": "With Payday: Aces High, Fast Travel Games has combined the most thrilling parts of the best heist films with the most hectic parts of the Payday series to make a truly invigorating…",
+        "title": "Pillars of Eternity brings controller support to PC, and Steam Deck players can try the beta now",
+        "url": "https://mixed-news.com/en/pillars-of-eternity-controller-support-public-test-steam-deck/",
+        "summary": "Obsidian has opened a public test that lets PC players control both Pillars of Eternity games with a gamepad, from character creation through the end of each story.",
+        "source": "mixed-news.com",
+        "date": "Fri, 06 Nov 2026 02:56:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-pillars-controller-0.jpg"
+      },
+      {
+        "title": "Project Hail Mary: Journey Among The Stars Gets A Release Date",
+        "url": "https://www.uploadvr.com/project-hail-mary-journey-among-the-stars-gets-a-release-date/",
+        "summary": "The release date for Project Hail Mary: Journey Among the Stars has been revealed, and it's very soon.",
         "source": "uploadvr.com",
-        "date": "Thu, 05 Nov 2026 07:00:00 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/payday-aces-high-screen.png"
+        "date": "Thu, 05 Nov 2026 11:30:47 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/PHM_JATS_KEYARTWORK-16-9-_Text.png"
       },
       {
         "title": "Steam Frame Shows Strong Start as the 5th Most-used Headset on Steam",
@@ -19,28 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/09/steam-frame-review-12.jpg?resize=1536%2C1024&quality=89&ssl=1"
       },
       {
-        "title": "A new Steam horror game turns simple cubes into a four-player nightmare, and you can play it in VR",
-        "url": "https://mixed-news.com/en/scared-by-squares-steam-horror-coop-vr-launch/",
-        "summary": "Horror games have found plenty of ways to make dolls, clowns and abandoned buildings terrifying.",
+        "title": "Nvidia's free demo lets you unbox a GeForce 8800 GTX, but you'll need a much newer GPU to run it",
+        "url": "https://mixed-news.com/en/nvidia-free-geforce-8800-gtx-demo-rtx-4070-steam/",
+        "summary": "Nvidia is marking the GeForce 8800 GTX's 20th anniversary with a free Steam demo that lets you unbox the card and install it in a virtual gaming PC.",
         "source": "mixed-news.com",
-        "date": "Thu, 05 Nov 2026 04:49:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/ss_c781b03189002ecb75887022fe93f58303855476.1920x1080.jpg"
+        "date": "Fri, 06 Nov 2026 01:57:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-nvidia-8800-0.jpg"
       },
       {
-        "title": "YouTube Could Be Getting A Major Redesign On Quest & VR Glasses",
-        "url": "https://www.uploadvr.com/youtube-could-be-getting-a-major-redesign-on-quest-vr-glasses/",
-        "summary": "Google appears to be working on a major overhaul of the YouTube app's immersive view on Quest, bringing it closer to the experience on Android XR and visionOS.",
+        "title": "Synth Riders 'Vice Wave' 80s Mixtape Features Duran Duran, Bryan Adams & More",
+        "url": "https://www.uploadvr.com/synth-rider-vice-wave-80s-mixtape-features-duran-duran-bryan-adams-more/",
+        "summary": "Synth Riders dropped another 80s Mixtape. Subtitled Vice Wave, it has 8 tracks featuring Duran Duran, Bryan Adams, and more.",
         "source": "uploadvr.com",
-        "date": "Thu, 05 Nov 2026 03:58:14 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumbimmersive.jpg"
-      },
-      {
-        "title": "Lean into traffic on a VR hoverboard: this free Steam demo is racing toward a November launch",
-        "url": "https://mixed-news.com/en/hyperlane-highway-free-steam-vr-hoverboard-demo/",
-        "summary": "A hoverboard ride through robot-filled traffic sounds like the sort of thing VR was made for.",
-        "source": "mixed-news.com",
-        "date": "Thu, 05 Nov 2026 03:53:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/ss_0ef52514b018b2dde64b771943f4cf09f029fb47.1920x1080.jpg"
+        "date": "Thu, 05 Nov 2026 11:28:26 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/synth-riders-80s-mixtape.jpg"
       },
       {
         "title": "SteamVR Update Improves Image Quality for All Steam Link Compatible Headsets",
@@ -53,12 +53,28 @@
     ],
     "AI": [
       {
-        "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-        "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-        "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie.",
+        "title": "OpenAI is stepping back from NDAs for data center projects",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+        "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working…",
         "source": "theverge.com",
-        "date": "2026-11-05T12:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-05T19:37:56-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+        "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+        "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+        "source": "arstechnica.com",
+        "date": "Thu, 05 Nov 2026 23:09:36 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg"
+      },
+      {
+        "title": "Airbnb is working on an AI travel agent",
+        "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+        "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released…",
+        "source": "theverge.com",
+        "date": "2026-11-05T19:06:12-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg"
       },
       {
-        "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-        "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other…",
+        "title": "Perplexity launches its own take on AI agents for work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+        "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents.",
         "source": "theverge.com",
-        "date": "2026-11-05T12:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-05T17:26:50-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Wed, 04 Nov 2026 21:38:49 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-474325206-1152x648-1753374517.jpg"
-      },
-      {
-        "title": "The hidden supply chain costs of the AI boom",
-        "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-        "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From?",
-        "source": "theverge.com",
-        "date": "2026-11-05T10:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-        "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-        "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-        "source": "arstechnica.com",
-        "date": "Wed, 04 Nov 2026 16:06:03 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Bill Belichick, Tom Coughlin among five coaches to advance in Hall of Fame selection process",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-tom-coughlin-among-five-coaches-to-advance-in-hall-of-fame-selection-process",
-        "summary": "Bill Belichick fell short of the necessary votes to be elected to the Pro Football Hall of Fame in 2026, but he may have another chance in 2027.",
+        "title": "Derrick Henry moves to seventh on the NFL's all-time rushing list",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-moves-to-seventh-on-the-nfls-all-time-rushing-list",
+        "summary": "The Ravens running back passed Jerome Bettis (13,662) and LaDainian Tomlinson (13,684).",
         "source": "nbcsports.com",
-        "date": "Thu, 05 Nov 2026 12:52:14 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ac1ef2f/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F718%2F563%2Fnbc_pft_wk9draft_261105.jpg"
+        "date": "Thu, 05 Nov 2026 22:08:44 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/215d64f/2147483647/strip/false/crop/3814x2145+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F95%2F3b%2Fd32b853342238da43f7f227da738%2F2303751399.jpg"
       },
       {
-        "title": "Carnell Tate named the offensive rookie of the month for October",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carnell-tate-named-octobers-top-offensive-rookie-player",
-        "summary": "Titans wide receiver Carnell Tate's second month of NFL games went well for him.",
+        "title": "Thursday Night Football: Jaguars lead Ravens 17-3 at halftime",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-jaguars-lead-ravens-17-3-at-halftime",
+        "summary": "Jaguars QB Trevor Lawrence was 9-of-15 for 197 yards and a touchdown in the first half.",
         "source": "nbcsports.com",
-        "date": "Thu, 05 Nov 2026 12:44:53 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6cc263c/2147483647/strip/false/crop/5269x2964+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa1%2F72%2F1d0af0474c55b5b0303dd89a9e02%2F2301350163.jpg"
+        "date": "Thu, 05 Nov 2026 21:42:56 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/23d1329/2147483647/strip/false/crop/5463x3073+0+285/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F82%2Facf130f14fa7a171ba5288cf0a01%2F2303746618.jpg"
       },
       {
-        "title": "Brandon Cisse named defensive rookie of the month for October",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-cisse-named-defensive-rookie-of-the-month-for-october",
-        "summary": "Packers cornerback Brandon Cisse has been named defensive rookie of the month, the NFL announced on Thursday.",
+        "title": "Myles Garrett remains limited participant Thursday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-remains-limited-participant-thursday",
+        "summary": "Rams outside linebacker Myles Garrett remained a limited participant in Thursday's practice.",
         "source": "nbcsports.com",
-        "date": "Thu, 05 Nov 2026 12:39:15 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/747e4b8/2147483647/strip/false/crop/5025x2827+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2F5a%2F3ad0e0e34f46923d1156157663ed%2F2300401729.jpg"
+        "date": "Thu, 05 Nov 2026 20:55:29 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fe1411b/2147483647/strip/false/crop/7163x4029+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2F8a%2Fbd1448794b13946574046b28ba3c%2F2294592592.jpg"
       },
       {
-        "title": "Ka'imi Fairbairn is the AFC special teams player of the month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kaimi-fairbairn-is-the-afc-special-teams-player-of-the-month",
-        "summary": "It has not been a successful season for the Texans, but kicker Ka'imi Fairbairn is coming off of a strong October.",
+        "title": "Joe Milton on his first start: The NFL is about being ready when your number is called",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-milton-on-his-first-start-the-nfl-is-about-being-ready-when-your-number-is-called",
+        "summary": "Joe Milton has never started an NFL game.",
         "source": "nbcsports.com",
-        "date": "Thu, 05 Nov 2026 12:37:42 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/da8a602/2147483647/strip/false/crop/6510x3662+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb7%2F12%2F645d52fd45b4bc6971584bb0d6a8%2F2296900181.jpg"
+        "date": "Thu, 05 Nov 2026 20:34:33 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c9154f0/2147483647/strip/false/crop/5634x3169+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2F09%2F8e4d9cce4927ac54c3f2085d7363%2F2300968364.jpg"
       },
       {
-        "title": "Alex Singleton named the AFC defensive player of the month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alex-singleton-named-the-afc-defensive-player-of-the-month",
-        "summary": "Broncos linebacker Alex Singleton's strong play in October drew recognition from the NFL on Thursday.",
+        "title": "Jaguars score on opening drive for 7-0 lead on Ravens",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-score-on-opening-drive-for-7-0-lead-on-ravens",
+        "summary": "The Jaguars didn't waste any time in showing off on national television.",
         "source": "nbcsports.com",
-        "date": "Thu, 05 Nov 2026 12:32:34 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/84e018c/2147483647/strip/false/crop/5664x3186+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F09%2Fa5%2Fadb069df4f2780f1e51b19dbdf27%2F2303055081.jpg"
+        "date": "Thu, 05 Nov 2026 20:27:17 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0748450/2147483647/strip/false/crop/4262x2397+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F69%2F9d2524d24bc7b32035df102e1324%2F2303740131.jpg"
       },
       {
-        "title": "Chase McLaughlin named NFC special teams player of the month",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chase-mclaughlin-named-nfc-special-teams-player-of-the-month",
-        "summary": "Buccaneers kicker Chase McLaughlin had a strong October and has been named NFC special teams player of the month.",
+        "title": "Thursday Night Football: DE Travon Walker, RB Bhayshul Tuten active for Jaguars vs. Ravens",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-de-travon-walker-rb-bhayshul-tuten-active-for-jaguars-vs-ravens",
+        "summary": "The Jaguars will have running back Bhayshul Tuten and defensive end Travon Walker for Thursday Night Football against the Ravens.",
         "source": "nbcsports.com",
-        "date": "Thu, 05 Nov 2026 12:24:28 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e5a0a36/2147483647/strip/false/crop/4400x2475+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2Fdf%2F13acfa964abfa5fbd817ec851149%2F2303368544.jpg"
+        "date": "Thu, 05 Nov 2026 18:58:06 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9c322d9/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F35%2F41%2Fa8cfe5214aacb3e3b9f87d50145e%2F2294776168.jpg"
       }
     ]
   }
