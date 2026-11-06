@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-06T18:09:15.417Z",
+  "updated": "2026-11-06T23:04:39.702Z",
   "feed": {
     "VR": [
       {
-        "title": "This 360Hz QD-OLED gaming monitor just dropped to $349, taking $296 off Newegg's price",
-        "url": "https://mixed-news.com/en/asrock-pgo27qfv-360hz-qd-oled-monitor-newegg-296-off/",
-        "summary": "ASRock's Phantom Gaming PGO27QFV combines a 27-inch QD-OLED panel with a 360Hz refresh rate, and Newegg has cut the monitor to $349.",
+        "title": "Phantom Blade Zero's patch improves Steam Machine performance in one test, but Steam Deck still struggles",
+        "url": "https://mixed-news.com/en/phantom-blade-zero-patch-steam-machine-performance-deck/",
+        "summary": "Phantom Blade Zero's first post-launch patch changes shader compilation and improves performance in some areas.",
         "source": "mixed-news.com",
-        "date": "Fri, 06 Nov 2026 17:43:07 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-asrock-oled-0.jpg"
+        "date": "Fri, 06 Nov 2026 22:55:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-phantom-patch-0.jpg"
       },
       {
         "title": "‘PAYDAY: Aces High’ Review – A Card Shy of a Royal Flush",
@@ -27,12 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumbtheater-2.png"
       },
       {
-        "title": "$300 off this OLED Lenovo Legion 5 puts an RTX 5070 and 2TB of storage at a 30-day low on Amazon",
-        "url": "https://mixed-news.com/en/lenovo-legion-5-rtx-5070-oled-2tb-laptop-300-off-amazon/",
-        "summary": "The Lenovo Legion 5 pairs a 165Hz OLED screen with an Nvidia GeForce RTX 5070 Laptop GPU, and an Amazon seller has cut the price of the 2TB configuration by $300.",
+        "title": "Project Hail Mary is coming to mixed reality next week, and you'll work alongside Rocky",
+        "url": "https://mixed-news.com/en/project-hail-mary-mixed-reality-rocky-november-12/",
+        "summary": "Project Hail Mary: Journey Among the Stars will put players aboard the Hail Mary on November 12, with a new mixed-reality story about keeping the spacecraft alive alongside Rocky.",
         "source": "mixed-news.com",
-        "date": "Fri, 06 Nov 2026 15:57:17 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-lenovo-legion-deal-0.jpg"
+        "date": "Fri, 06 Nov 2026 22:00:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-hail-0.jpg"
       },
       {
         "title": "Project Hail Mary: Journey Among The Stars Gets A Release Date",
@@ -53,12 +53,28 @@
     ],
     "AI": [
       {
-        "title": "AI is the new dating dealbreaker",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-        "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things…",
+        "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+        "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+        "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+        "source": "arstechnica.com",
+        "date": "Fri, 06 Nov 2026 20:56:41 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png"
+      },
+      {
+        "title": "All the latest updates on AI data centers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+        "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
         "source": "theverge.com",
-        "date": "2026-11-06T12:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-06T15:02:22-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+        "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+        "summary": "Meta will now allow you to build customized, app-like experiences within Muse.",
+        "source": "theverge.com",
+        "date": "2026-11-06T13:10:10-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186"
       },
       {
         "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg"
       },
       {
-        "title": "Big Tech lost big in the 2026 election",
-        "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-        "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI.",
+        "title": "AI is the new dating dealbreaker",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+        "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things…",
         "source": "theverge.com",
-        "date": "2026-11-06T11:38:02-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-06T12:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Wed, 04 Nov 2026 22:26:49 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg"
-      },
-      {
-        "title": "How Akai and Moog are embracing vibe-coded mods",
-        "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-        "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community.",
-        "source": "theverge.com",
-        "date": "2026-11-06T11:34:39-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-        "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-        "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-        "source": "arstechnica.com",
-        "date": "Wed, 04 Nov 2026 21:38:49 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-474325206-1152x648-1753374517.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Report: Myles Garrett on track to be activated",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-myles-garrett-on-track-to-be-activated",
-        "summary": "Garrett has not played since Week 1 due to a knee injury.",
+        "title": "S Talanoa Hufanga questionable for Sunday's game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/s-talanoa-hufanga-questionable-for-sundays-game",
+        "summary": "Broncos safety Talanoa Hufanga (ankle) is questionable for Sunday's game against the Panthers.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 12:37:42 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ace8bda/2147483647/strip/false/crop/5614x3158+0+293/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6c%2F34%2F444a77384612bf2bde6fd1684056%2F2294592418.jpg"
+        "date": "Fri, 06 Nov 2026 17:57:01 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0eec612/2147483647/strip/false/crop/7270x4089+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2Feb%2Fa63513d140e3bbfd30643ecb9b75%2F2300752991.jpg"
       },
       {
-        "title": "Tristan Wirfs to play Sunday, Emeka Egbuka questionable",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tristan-wirfs-to-play-sunday-emeka-egbuka-questionable",
-        "summary": "The Bucs will have left tackle Tristan Wirfs in the lineup as they try to stretch their winning streak to three games on Sunday.",
+        "title": "Mike Evans, Deebo Samuel, Christian Kirk ruled out",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-evans-deebo-samuel-christian-kirk-ruled-out",
+        "summary": "The 49ers ruled out three wide receivers and have another who is questionable.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 12:30:28 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b5127b/2147483647/strip/false/crop/3600x2025+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc4%2F76%2Ff4df9d8a4d7fb6e1044ea2657b8c%2F2302028868.jpg"
+        "date": "Fri, 06 Nov 2026 17:40:45 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4eab2b4/2147483647/strip/false/crop/4500x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2f%2Fe1%2F490ad5ae4d9f93bb64f78adf537f%2F2298816045.jpg"
       },
       {
-        "title": "Deshaun Watson returns to practice Friday, remains in concussion protocol",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-returns-to-practice-friday-remains-in-concussion-protocol",
-        "summary": "Browns quarterback Deshaun Watson is showing signs of progress in his recovery from a concussion.",
+        "title": "Panthers rule out four players",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-rule-out-four-players",
+        "summary": "The Panthers ruled four players out for Sunday's game against the Broncos.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 12:25:01 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c4bbd4f/2147483647/strip/false/crop/4543x2555+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Ffe%2F0454982d46bd93ad699d42b5af8b%2F2303697995.jpg"
+        "date": "Fri, 06 Nov 2026 17:25:18 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4d6d22a/2147483647/strip/false/crop/7882x4434+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Fc6%2F7f558c8b483d8d2b5b06a55b99c4%2F2301037947.jpg"
       },
       {
-        "title": "DJ Turner set to play for Bengals, Kyle Dugger ruled out",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dj-turner-set-to-play-for-bengals-kyle-dugger-ruled-out",
-        "summary": "The Bengals have issued their injury designations for Sunday's game against the Falcons in Madrid.",
+        "title": "Kyle Shanahan on Brandon Aiyuk's meeting with 49ers: I couldn't care less",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-on-brandon-aiyuks-meeting-with-49ers-i-couldnt-care-less",
+        "summary": "The wide receiver and his agent will meet with team officials later today.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 11:46:47 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b9c084/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2F73%2F05d125354e729646770ecec02e0e%2F2241877935.jpg"
+        "date": "Fri, 06 Nov 2026 17:16:54 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a648daf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F720%2F1014%2Fnbc_pft_brandonaiyuk_261105.jpg"
       },
       {
-        "title": "Minkah Fitzpatrick: No controversy with my quote, everyone on the Jets knows what I meant",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/minkah-fitzpatrick-no-controversy-with-my-quote-everyone-on-the-jets-knows-what-i-meant",
-        "summary": "After Sunday's loss to the Raiders, Jets safety Minkah Fitzpatrick said something that caused a bit of a controversy, but Fitzpatrick says there was no controversy with the only…",
+        "title": "RB Cam Skattebo doubtful, but WR Malik Nabers has no injury designation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-cam-skattebo-doubtful-but-wr-malik-nabers-has-no-injury-designation",
+        "summary": "Giants wide receiver Malik Nabers said he would be ready to go despite missing Thursday's practice with a knee injury.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 11:36:41 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d408e50/2147483647/strip/false/crop/5065x2849+0+296/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa0%2F6b%2F2051213745dbb8f4d64d9bb0ade5%2F2302148846.jpg"
+        "date": "Fri, 06 Nov 2026 16:53:08 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4575fe0/2147483647/strip/false/crop/3255x1831+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2F74%2F02da58734da89eb125eeeaa48f05%2F2301970829.jpg"
       },
       {
-        "title": "NFLPA names Steelers LS Christian Kuntz their Community MVP for Week 9",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-names-steelers-ls-christian-kuntz-their-community-mvp-for-week-9",
-        "summary": "The NFL Players Association announced on Friday that they have named Steelers long snapper Christian Kuntz their Community MVP for Week 9 of the 2026 season.",
+        "title": "Brandon Aiyuk plans to meet with 49ers at team's business offices, not team facility",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-aiyuk-plans-to-meet-with-49ers-at-teams-business-offices-not-team-facility",
+        "summary": "49ers tight end George Kittle was right, sort of.",
         "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 11:23:59 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/70b2d22/2147483647/strip/false/crop/2738x1540+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F9a%2F2cdfbc01464babebe5b7a362448d%2F2254484261.jpg"
+        "date": "Fri, 06 Nov 2026 16:50:45 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fc0292d/2147483647/strip/false/crop/7750x4359+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8e%2F8b%2Fa39629b8481187a001fff2b55f7c%2F2176580658.jpg"
       }
     ]
   }
