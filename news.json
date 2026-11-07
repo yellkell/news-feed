@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-07T09:28:29.286Z",
+  "updated": "2026-11-07T15:50:15.370Z",
   "feed": {
     "VR": [
       {
-        "title": "ChatGPT can now make looping GIFs, and you can save reference images for later chats",
-        "url": "https://mixed-news.com/en/chatgpt-images-26-gifs-reference-images-openai/",
-        "summary": "ChatGPT Images 2.6 is rolling out GIF creation, letting users ask for a looping animation from a prompt or an uploaded sketch.",
+        "title": "Quest emulator Venture adds mixed reality and PC mirroring in a major update",
+        "url": "https://mixed-news.com/en/venture-quest-emulator-020-mixed-reality-pc-mirror-controls/",
+        "summary": "Venture, the unofficial PC VR emulator for Meta Quest games, has added mixed reality support across more headset setups.",
         "source": "mixed-news.com",
-        "date": "Sat, 07 Nov 2026 09:00:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-chatgpt-images-0.jpg"
+        "date": "Sat, 07 Nov 2026 15:36:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-venture-020-0.jpg"
       },
       {
         "title": "‘PAYDAY: Aces High’ Review – A Card Shy of a Royal Flush",
@@ -27,12 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumbtheater-2.png"
       },
       {
-        "title": "Torchlight II's new Steam beta tackles multiplayer reconnects and WASD controls after its Steam Deck update",
-        "url": "https://mixed-news.com/en/torchlight-2-steam-beta-november-multiplayer-wasd-deck/",
-        "summary": "Torchlight II has received another update on its optional Steam beta branch, with changes to multiplayer reconnections, save handling and keyboard controls.",
+        "title": "Rust finally adds gamepad support on PC, with a blueprint overhaul and a new weapon in the same update",
+        "url": "https://mixed-news.com/en/rust-november-update-pc-gamepad-support-blueprint-overhaul/",
+        "summary": "Rust players can now use a gamepad across the survival game’s core PC gameplay.",
         "source": "mixed-news.com",
-        "date": "Sat, 07 Nov 2026 08:05:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-torchlight-beta-0.jpg"
+        "date": "Sat, 07 Nov 2026 14:45:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-rust-gamepad-0.jpg"
       },
       {
         "title": "Project Hail Mary: Journey Among The Stars Gets A Release Date",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-        "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
+        "title": "AI broke the cybersecurity world. What’s next?",
+        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+        "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
         "source": "theverge.com",
-        "date": "2026-11-06T18:46:18-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-07T10:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg"
       },
       {
-        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-        "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-        "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
+        "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+        "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with…",
         "source": "theverge.com",
-        "date": "2026-11-06T18:00:44-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-07T07:30:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg"
       },
       {
-        "title": "All the latest updates on AI data centers",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-        "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+        "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
         "source": "theverge.com",
-        "date": "2026-11-06T15:02:22-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-06T18:46:18-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Ravens reportedly tell Derrick Henry they have \"no intention\" of trading him",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-reportedly-tell-derrick-henry-they-have-no-intention-of-trading-him",
+        "summary": "Ravens running back Derrick Henry's production has plummeted since quarterback Lamar Jackson was first injured before halftime in a Week 4 win over the Titans.",
+        "source": "nbcsports.com",
+        "date": "Sat, 07 Nov 2026 10:46:50 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/daf6f35/2147483647/strip/false/crop/5401x3038+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2f%2F46%2Fc35c7a524bddb603e3f6648d7ba1%2F2303842680.jpg"
+      },
+      {
+        "title": "Report: Colts are in trade talks regarding QB Daniel Jones",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-are-in-trade-talks-regarding-qb-daniel-jones",
+        "summary": "The list of \"multiple teams\" currently includes the Ravens (who pivoted elsewhere) and the Vikings.",
+        "source": "nbcsports.com",
+        "date": "Sat, 07 Nov 2026 09:54:01 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cf0a96a/2147483647/strip/false/crop/3424x1926+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2F85%2F3f0e2bb247578dc8851c3e2668ee%2F2302425782.jpg"
+      },
+      {
+        "title": "Report: Broncos are seeking a tight end trade, Cardinals rebuffed request for Trey McBride",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-broncos-are-seeking-a-tight-end-trade-cardinals-rebuffed-request-for-trey-mcbride",
+        "summary": "Denver would like to acquire a veteran tight end before Tuesday's trade deadline, but that tight end will apparently not be Arizona's Trey McBride.",
+        "source": "nbcsports.com",
+        "date": "Sat, 07 Nov 2026 09:15:03 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d87c951/2147483647/strip/false/crop/6978x3925+0+364/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2Faf%2F8cf4e73b4fdd9959c9699c25b898%2F2302600557.jpg"
+      },
+      {
+        "title": "After career-low numbers in 2025, Justin Jefferson's production is even lower in 2026",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-career-low-numbers-in-2025-justin-jeffersons-production-is-even-lower-in-2026",
+        "summary": "Vikings wide receiver Justin Jefferson had his worst season in 2025.",
+        "source": "nbcsports.com",
+        "date": "Sat, 07 Nov 2026 08:08:30 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/146483a/2147483647/strip/false/crop/4135x2326+0+216/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Fa1%2F808bf97f4e7181ed4649a4c5b4e2%2F2302319020.jpg"
+      },
+      {
+        "title": "Myles Garrett: Rams' opponents will have to pick their poison, me or Aaron Donald",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-rams-opponents-will-have-to-pick-their-poison-me-or-aaron-donald",
+        "summary": "Garrett and Donald will play together for the first time on Sunday against the Commanders.",
+        "source": "nbcsports.com",
+        "date": "Sat, 07 Nov 2026 05:19:22 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68bbfa4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F420%2F367%2Fnbc_pft_ramspressure_261014.jpg"
+      },
+      {
         "title": "Patrick Mahomes is closing in on the record for most TD passes in a QB's first 10 years",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-is-closing-in-on-the-record-for-most-td-passes-in-a-qbs-first-10-years",
         "summary": "Mahomes has 325 career touchdown passes, counting the playoffs. Peyton Manning had 327 in his first 10 seasons.",
         "source": "nbcsports.com",
         "date": "Sat, 07 Nov 2026 04:14:34 -0500",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/a17dd84/2147483647/strip/false/crop/4568x2570+0+238/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc8%2F64%2F54d2b18644c0ab4ce8d4bce88edc%2F2303180365.jpg"
-      },
-      {
-        "title": "The Vikings could be ready to make a trade for a quarterback, if they lose Monday night",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-vikings-could-be-ready-to-make-a-trade-for-a-quarterback-if-they-lose-monday-night",
-        "summary": "Tuesday could become very interesting, absent a Carson Wentz-led win vs. the Bills.",
-        "source": "nbcsports.com",
-        "date": "Sat, 07 Nov 2026 00:06:48 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ef0756d/2147483647/strip/false/crop/3500x1969+0+182/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2Fd9%2Ff2d3ee5949f68bd3a5e80150132a%2F2297602633.jpg"
-      },
-      {
-        "title": "The Protect College Sports Act could be dead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-protect-college-sports-act-could-be-dead",
-        "summary": "This week's midterm elections will dramatically reshuffle the deck in Congress.",
-        "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 23:22:40 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7360d62/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F762%2F506%2Fnbc_pftpm_collegesportsact_261105.jpg"
-      },
-      {
-        "title": "Rams listed Matthew Stafford with elbow injury because reporters asked about ice on it",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-listed-matthew-stafford-with-elbow-injury-because-reporters-asked-about-ice-on-it",
-        "summary": "On Monday, reporters asked Rams coach Sean McVay about quarterback Matthew Stafford having ice on his throwing arm after Sunday's win over the Chargers.",
-        "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 23:01:33 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/907a550/2147483647/strip/false/crop/4497x2530+0+235/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2F0c%2F64f8d5fa43b89b503351b47be5d0%2F2303601863.jpg"
-      },
-      {
-        "title": "Saints to have \"chip on our shoulder\" after Browns' \"chirping\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-to-have-chip-on-shoulder-after-browns-chirping",
-        "summary": "The Saints, like all teams, pay attention to the things said by their upcoming opponents.",
-        "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 20:22:02 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d435bef/2147483647/strip/false/crop/6732x3787+0+351/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F72%2Fd2f733aa42799cff05bea602b418%2F2299226238.jpg"
-      },
-      {
-        "title": "Drew Rosenhaus after Brandon Aiyuk's meeting with 49ers: \"To be continued\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-rosenhaus-after-brandon-aiyuks-meeting-with-49ers-to-be-continued",
-        "summary": "First session ends with no resolution.",
-        "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 19:58:00 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/35850f5/2147483647/strip/false/crop/8077x4543+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2F30%2Fe096f97445fbb4d8e474db8515d0%2F2178120455.jpg"
       }
     ]
   }
