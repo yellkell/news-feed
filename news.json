@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-07T02:45:43.734Z",
+  "updated": "2026-11-07T09:28:29.286Z",
   "feed": {
     "VR": [
       {
-        "title": "Duran Duran, Bryan Adams and six more 80s acts join Synth Riders in a new VR music pack",
-        "url": "https://mixed-news.com/en/synth-riders-vice-wave-80s-mixtape-duran-duran-bryan-adams/",
-        "summary": "Synth Riders has a new eight-song pack built around 1980s radio favorites, with tracks from Duran Duran, Bryan Adams and Kim Wilde among the additions.",
+        "title": "ChatGPT can now make looping GIFs, and you can save reference images for later chats",
+        "url": "https://mixed-news.com/en/chatgpt-images-26-gifs-reference-images-openai/",
+        "summary": "ChatGPT Images 2.6 is rolling out GIF creation, letting users ask for a looping animation from a prompt or an uploaded sketch.",
         "source": "mixed-news.com",
-        "date": "Sat, 07 Nov 2026 02:35:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-synth-0.jpg"
+        "date": "Sat, 07 Nov 2026 09:00:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-chatgpt-images-0.jpg"
       },
       {
         "title": "‘PAYDAY: Aces High’ Review – A Card Shy of a Royal Flush",
@@ -27,12 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumbtheater-2.png"
       },
       {
-        "title": "Teardown adds Nvidia DLSS and AMD FSR, giving PC players two new ways to smooth out the destruction",
-        "url": "https://mixed-news.com/en/teardown-pc-update-nvidia-dlss-amd-fsr-upscaling/",
-        "summary": "Teardown's latest PC update adds Nvidia DLSS and AMD FSR upscaling to the voxel destruction game.",
+        "title": "Torchlight II's new Steam beta tackles multiplayer reconnects and WASD controls after its Steam Deck update",
+        "url": "https://mixed-news.com/en/torchlight-2-steam-beta-november-multiplayer-wasd-deck/",
+        "summary": "Torchlight II has received another update on its optional Steam beta branch, with changes to multiplayer reconnections, save handling and keyboard controls.",
         "source": "mixed-news.com",
-        "date": "Sat, 07 Nov 2026 01:40:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-teardown-upscaling-0.jpg"
+        "date": "Sat, 07 Nov 2026 08:05:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-torchlight-beta-0.jpg"
       },
       {
         "title": "Project Hail Mary: Journey Among The Stars Gets A Release Date",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Patrick Mahomes is closing in on the record for most TD passes in a QB's first 10 years",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-is-closing-in-on-the-record-for-most-td-passes-in-a-qbs-first-10-years",
+        "summary": "Mahomes has 325 career touchdown passes, counting the playoffs. Peyton Manning had 327 in his first 10 seasons.",
+        "source": "nbcsports.com",
+        "date": "Sat, 07 Nov 2026 04:14:34 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a17dd84/2147483647/strip/false/crop/4568x2570+0+238/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc8%2F64%2F54d2b18644c0ab4ce8d4bce88edc%2F2303180365.jpg"
+      },
+      {
+        "title": "The Vikings could be ready to make a trade for a quarterback, if they lose Monday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-vikings-could-be-ready-to-make-a-trade-for-a-quarterback-if-they-lose-monday-night",
+        "summary": "Tuesday could become very interesting, absent a Carson Wentz-led win vs. the Bills.",
+        "source": "nbcsports.com",
+        "date": "Sat, 07 Nov 2026 00:06:48 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ef0756d/2147483647/strip/false/crop/3500x1969+0+182/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2Fd9%2Ff2d3ee5949f68bd3a5e80150132a%2F2297602633.jpg"
+      },
+      {
+        "title": "The Protect College Sports Act could be dead",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-protect-college-sports-act-could-be-dead",
+        "summary": "This week's midterm elections will dramatically reshuffle the deck in Congress.",
+        "source": "nbcsports.com",
+        "date": "Fri, 06 Nov 2026 23:22:40 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7360d62/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F762%2F506%2Fnbc_pftpm_collegesportsact_261105.jpg"
+      },
+      {
+        "title": "Rams listed Matthew Stafford with elbow injury because reporters asked about ice on it",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-listed-matthew-stafford-with-elbow-injury-because-reporters-asked-about-ice-on-it",
+        "summary": "On Monday, reporters asked Rams coach Sean McVay about quarterback Matthew Stafford having ice on his throwing arm after Sunday's win over the Chargers.",
+        "source": "nbcsports.com",
+        "date": "Fri, 06 Nov 2026 23:01:33 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/907a550/2147483647/strip/false/crop/4497x2530+0+235/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2F0c%2F64f8d5fa43b89b503351b47be5d0%2F2303601863.jpg"
+      },
+      {
         "title": "Saints to have \"chip on our shoulder\" after Browns' \"chirping\"",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-to-have-chip-on-shoulder-after-browns-chirping",
         "summary": "The Saints, like all teams, pay attention to the things said by their upcoming opponents.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 06 Nov 2026 19:58:00 -0500",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/35850f5/2147483647/strip/false/crop/8077x4543+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2F30%2Fe096f97445fbb4d8e474db8515d0%2F2178120455.jpg"
-      },
-      {
-        "title": "NFC North has 17-3 record against non-NFC North teams",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfc-north-has-17-3-record-against-non-nfc-north-teams",
-        "summary": "The NFC North is the best division in the NFL.",
-        "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 19:40:26 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a91fb85/2147483647/strip/false/crop/3603x2027+0+221/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd6%2F44%2Fd986686d4f899625d8b7bbd1b324%2F2302781374.jpg"
-      },
-      {
-        "title": "In defending his willingness to spend, Jerry Jones may have admitted to tampering",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-defending-his-willingness-to-spend-jerry-jones-may-have-admitted-to-tampering",
-        "summary": "On Friday, Cowboys owner Jerry Jones tried to reverse the perception/reality that he deliberately underspends on coaches.",
-        "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 19:13:26 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1d3bcda/2147483647/strip/false/crop/6650x3741+0+346/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff2%2Fcf%2Fe8f15a944e2e8d60ac6ae8a2aeb8%2F2301769430.jpg"
-      },
-      {
-        "title": "Rams unexpectedly rule out TE Terrance Ferguson",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-unexpectedly-rule-out-te-terrance-ferguson",
-        "summary": "Rams coach Sean McVay said Friday that Terrance Ferguson would return Sunday barring a setback.",
-        "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 18:42:44 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bc4d509/2147483647/strip/false/crop/4908x2761+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc8%2Fcc%2F41688f6246be9f908382e37e2a73%2F2300209011.jpg"
-      },
-      {
-        "title": "Brandon Aiyuk: I’m back to 100 percent and looking to get reinstated",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-aiyuk-im-back-to-100-percent-and-looking-to-get-reinstated",
-        "summary": "The wide receiver and his agent are meeting with the 49ers about Aiyuk's future.",
-        "source": "nbcsports.com",
-        "date": "Fri, 06 Nov 2026 18:24:08 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a648daf/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F720%2F1014%2Fnbc_pft_brandonaiyuk_261105.jpg"
       }
     ]
   }
