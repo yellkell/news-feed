@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-07T15:50:15.370Z",
+  "updated": "2026-11-07T19:45:20.343Z",
   "feed": {
     "VR": [
       {
-        "title": "Quest emulator Venture adds mixed reality and PC mirroring in a major update",
-        "url": "https://mixed-news.com/en/venture-quest-emulator-020-mixed-reality-pc-mirror-controls/",
-        "summary": "Venture, the unofficial PC VR emulator for Meta Quest games, has added mixed reality support across more headset setups.",
+        "title": "Google Vids is rolling out three free 15-second AI videos a month",
+        "url": "https://mixed-news.com/en/google-vids-omni-1-2-flash-free-15-second-videos/",
+        "summary": "Google Vids is getting a longer AI video option: people with a Google account or Workspace subscription can generate up to three 15-second videos a month at no additional cost,…",
         "source": "mixed-news.com",
-        "date": "Sat, 07 Nov 2026 15:36:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-venture-020-0.jpg"
+        "date": "Sat, 07 Nov 2026 18:57:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-google-vids-omni-0.jpg"
       },
       {
         "title": "‘PAYDAY: Aces High’ Review – A Card Shy of a Royal Flush",
@@ -27,12 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumbtheater-2.png"
       },
       {
-        "title": "Rust finally adds gamepad support on PC, with a blueprint overhaul and a new weapon in the same update",
-        "url": "https://mixed-news.com/en/rust-november-update-pc-gamepad-support-blueprint-overhaul/",
-        "summary": "Rust players can now use a gamepad across the survival game’s core PC gameplay.",
+        "title": "Path of Exile 2 reveals two new classes and a massive campaign expansion for its free 1.0 launch",
+        "url": "https://mixed-news.com/en/path-of-exile-2-1-0-shadow-duelist-acts-reveal/",
+        "summary": "Path of Exile 2’s full release will add two classes, finish its campaign and introduce a new endgame league when the action RPG goes free-to-play on December 11, Pacific time.",
         "source": "mixed-news.com",
-        "date": "Sat, 07 Nov 2026 14:45:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-rust-gamepad-0.jpg"
+        "date": "Sat, 07 Nov 2026 18:06:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-poe2-launch-0.jpg"
       },
       {
         "title": "Project Hail Mary: Journey Among The Stars Gets A Release Date",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "AI broke the cybersecurity world. What’s next?",
-        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-        "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
+        "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+        "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I…",
         "source": "theverge.com",
-        "date": "2026-11-07T10:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-07T10:50:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg"
       },
       {
-        "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-        "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with…",
+        "title": "The US let Nvidia sell chips to an empty office in China",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+        "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200…",
         "source": "theverge.com",
-        "date": "2026-11-07T07:30:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-07T10:43:45-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg"
       },
       {
-        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-        "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
+        "title": "AI broke the cybersecurity world. What’s next?",
+        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+        "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
         "source": "theverge.com",
-        "date": "2026-11-06T18:46:18-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-07T10:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Ravens reportedly tell Derrick Henry they have \"no intention\" of trading him",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-reportedly-tell-derrick-henry-they-have-no-intention-of-trading-him",
-        "summary": "Ravens running back Derrick Henry's production has plummeted since quarterback Lamar Jackson was first injured before halftime in a Week 4 win over the Titans.",
+        "title": "Commanders activate DT Johnny Newton from injured reserve",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-activate-dt-johnny-newton-from-injured-reserve",
+        "summary": "The Commanders are activating defensive tackle Johnny Newton from injured reserve, Ian Rapoport of NFL Media reports.",
         "source": "nbcsports.com",
-        "date": "Sat, 07 Nov 2026 10:46:50 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/daf6f35/2147483647/strip/false/crop/5401x3038+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2f%2F46%2Fc35c7a524bddb603e3f6648d7ba1%2F2303842680.jpg"
+        "date": "Sat, 07 Nov 2026 14:33:43 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e65da81/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F119%2F1015%2FDanQUinnPFT10-21Neww.jpg"
       },
       {
-        "title": "Report: Colts are in trade talks regarding QB Daniel Jones",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-colts-are-in-trade-talks-regarding-qb-daniel-jones",
-        "summary": "The list of \"multiple teams\" currently includes the Ravens (who pivoted elsewhere) and the Vikings.",
+        "title": "Joe Burrow can become third quarterback with four or more TD passes in four straight games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-can-become-third-quarterback-with-four-or-more-td-passes-in-four-straight-games",
+        "summary": "Bengals quarterback Joe Burrow had seven touchdown passes in his team's first four games of the season.",
         "source": "nbcsports.com",
-        "date": "Sat, 07 Nov 2026 09:54:01 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cf0a96a/2147483647/strip/false/crop/3424x1926+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2F85%2F3f0e2bb247578dc8851c3e2668ee%2F2302425782.jpg"
+        "date": "Sat, 07 Nov 2026 14:32:26 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/14e92b9/2147483647/strip/false/crop/7639x4297+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F69%2F4443858740bf8c564edcf962d02f%2F2303368775.jpg"
       },
       {
-        "title": "Report: Broncos are seeking a tight end trade, Cardinals rebuffed request for Trey McBride",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-broncos-are-seeking-a-tight-end-trade-cardinals-rebuffed-request-for-trey-mcbride",
-        "summary": "Denver would like to acquire a veteran tight end before Tuesday's trade deadline, but that tight end will apparently not be Arizona's Trey McBride.",
+        "title": "Saints release RB Kendre Miller",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-release-rb-kendre-miller",
+        "summary": "The Saints, on the last day before their first game since Week 7, have made a change.",
         "source": "nbcsports.com",
-        "date": "Sat, 07 Nov 2026 09:15:03 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d87c951/2147483647/strip/false/crop/6978x3925+0+364/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2Faf%2F8cf4e73b4fdd9959c9699c25b898%2F2302600557.jpg"
+        "date": "Sat, 07 Nov 2026 14:15:02 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d13163/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F95%2F68%2Fc6b6c88f4daba1ab182b0bf55159%2F2299430310.jpg"
       },
       {
-        "title": "After career-low numbers in 2025, Justin Jefferson's production is even lower in 2026",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-career-low-numbers-in-2025-justin-jeffersons-production-is-even-lower-in-2026",
-        "summary": "Vikings wide receiver Justin Jefferson had his worst season in 2025.",
+        "title": "Rams activate Myles Garrett, put Jaylen Watson on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-activate-myles-garrett-put-jaylen-watson-on-ir",
+        "summary": "Myles Garrett is officially back on the Rams' active roster.",
         "source": "nbcsports.com",
-        "date": "Sat, 07 Nov 2026 08:08:30 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/146483a/2147483647/strip/false/crop/4135x2326+0+216/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Fa1%2F808bf97f4e7181ed4649a4c5b4e2%2F2302319020.jpg"
+        "date": "Sat, 07 Nov 2026 13:52:34 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d373a77/2147483647/strip/false/crop/8192x4608+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fc2%2F187ca84d4b67bd5c0edca49c3f6a%2F2302621863.jpg"
       },
       {
-        "title": "Myles Garrett: Rams' opponents will have to pick their poison, me or Aaron Donald",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-rams-opponents-will-have-to-pick-their-poison-me-or-aaron-donald",
-        "summary": "Garrett and Donald will play together for the first time on Sunday against the Commanders.",
+        "title": "Deshaun Watson clears concussion protocol, remains questionable for Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-clears-concussion-protocol-remains-questionable-for-sunday",
+        "summary": "Shedeur Sanders will start against the Saints.",
         "source": "nbcsports.com",
-        "date": "Sat, 07 Nov 2026 05:19:22 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/68bbfa4/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F420%2F367%2Fnbc_pft_ramspressure_261014.jpg"
+        "date": "Sat, 07 Nov 2026 13:39:38 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4930c07/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F23%2Fb46b742a426f9f974e7e644fc88d%2F2303698815.jpg"
       },
       {
-        "title": "Patrick Mahomes is closing in on the record for most TD passes in a QB's first 10 years",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-is-closing-in-on-the-record-for-most-td-passes-in-a-qbs-first-10-years",
-        "summary": "Mahomes has 325 career touchdown passes, counting the playoffs. Peyton Manning had 327 in his first 10 seasons.",
+        "title": "Quentin Lake apologized to Justin Herbert for \"deli meat\" and \"seeing ghosts\" comments",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/quentin-lake-apologized-to-justin-herbert-for-deli-meat-and-seeing-ghosts-comments",
+        "summary": "Rams safety Quentin Lake got plenty of attention for comments he made about intercepting a pass thrown by Chargers quarterback Justin Herbert, but on reflection, Lake didn't like…",
         "source": "nbcsports.com",
-        "date": "Sat, 07 Nov 2026 04:14:34 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a17dd84/2147483647/strip/false/crop/4568x2570+0+238/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc8%2F64%2F54d2b18644c0ab4ce8d4bce88edc%2F2303180365.jpg"
+        "date": "Sat, 07 Nov 2026 10:55:14 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b2a3e9a/2147483647/strip/false/crop/4835x2720+0+251/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2F3b%2F47e2ac9045da9b8e4bfdbcf49fd4%2F2302621786.jpg"
       }
     ]
   }
