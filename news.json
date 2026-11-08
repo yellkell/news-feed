@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-08T16:09:17.249Z",
+  "updated": "2026-11-08T20:26:38.075Z",
   "feed": {
     "VR": [
       {
-        "title": "This RTX 5070 gaming PC pairs a Ryzen 7 9700F with 32GB RAM for $400 less",
-        "url": "https://mixed-news.com/en/ibuypower-rtx-5070-9700f-gaming-pc-1799-best-buy/",
-        "summary": "A Ryzen 7 9700F, RTX 5070 and 32GB of memory are the standout parts in this white iBUYPOWER Element gaming PC.",
+        "title": "Samsung Galaxy S26 Ultra falls to $949.99 as Amazon cuts $450 off its listed price",
+        "url": "https://mixed-news.com/en/samsung-galaxy-s26-ultra-256gb-black-amazon-949/",
+        "summary": "Amazon has the unlocked Samsung Galaxy S26 Ultra in black with 256GB of storage for $949.99.",
         "source": "mixed-news.com",
-        "date": "Sun, 08 Nov 2026 15:37:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-ibuypower-element-5070-0.jpg"
+        "date": "Sun, 08 Nov 2026 20:13:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-samsung-0.jpg"
+      },
+      {
+        "title": "UPDATED: Fabula Rasa Is An Improv-Driven Experience Coming To Quest In December",
+        "url": "https://www.uploadvr.com/fabula-rasa-is-an-interactive-improv-driven-experience-coming-to-quest-in-november/",
+        "summary": "Fabula Rasa, an award-winning interactive VR experience from the makers of the Pixel Ripped games, comes to Quest on December 3.",
+        "source": "uploadvr.com",
+        "date": "Sun, 08 Nov 2026 11:00:00 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/fabula-rasa-header.png"
       },
       {
         "title": "‘PAYDAY: Aces High’ Review – A Card Shy of a Royal Flush",
@@ -19,28 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/payday-vr.jpeg?resize=1534%2C863&quality=89&ssl=1"
       },
       {
+        "title": "Claude can now read your bank transactions, but disconnecting the account leaves a trail",
+        "url": "https://mixed-news.com/en/claude-personal-finance-plaid-bank-data-unlink-privacy/",
+        "summary": "Claude can now answer questions about spending and bills using data from linked financial accounts.",
+        "source": "mixed-news.com",
+        "date": "Sun, 08 Nov 2026 19:27:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-claude-personal-finance-0.jpg"
+      },
+      {
         "title": "Quest's Latest PTC Brings Streamlined OS Interface & Theater Environment",
         "url": "https://www.uploadvr.com/quests-latest-ptc-brings-streamlined-interface-theater-environment/",
         "summary": "Quest's Horizon OS 2.10 PTC update is rolling out now, introducing a new Theater environment for watching media and a streamlined redesign of the Navigator launcher.",
         "source": "uploadvr.com",
         "date": "Fri, 06 Nov 2026 05:31:01 -0800",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumbtheater-2.png"
-      },
-      {
-        "title": "“fundamental changes to how loot drops”: Path of Exile’s free expansion arrives November 13",
-        "url": "https://mixed-news.com/en/path-of-exile-covens-of-umbra-november-13-loot-endgame/",
-        "summary": "Path of Exile’s next free expansion, Covens of Umbra, will arrive November 13 Pacific time with a new challenge league and major changes to its endgame.",
-        "source": "mixed-news.com",
-        "date": "Sun, 08 Nov 2026 14:51:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-poe1-covens-0.jpg"
-      },
-      {
-        "title": "Project Hail Mary: Journey Among The Stars Gets A Release Date",
-        "url": "https://www.uploadvr.com/project-hail-mary-journey-among-the-stars-gets-a-release-date/",
-        "summary": "The release date for Project Hail Mary: Journey Among the Stars has been revealed, and it's very soon.",
-        "source": "uploadvr.com",
-        "date": "Thu, 05 Nov 2026 11:30:47 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/PHM_JATS_KEYARTWORK-16-9-_Text.png"
       },
       {
         "title": "Steam Frame Shows Strong Start as the 5th Most-used Headset on Steam",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-        "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I…",
+        "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+        "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's…",
         "source": "theverge.com",
-        "date": "2026-11-07T10:50:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-08T15:22:39-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg"
       },
       {
-        "title": "The US let Nvidia sell chips to an empty office in China",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-        "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200…",
+        "title": "Apple is racing to make Siri more agentic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+        "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's…",
         "source": "theverge.com",
-        "date": "2026-11-07T10:43:45-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-08T14:18:19-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg"
       },
       {
-        "title": "AI broke the cybersecurity world. What’s next?",
-        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-        "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
+        "title": "Elvis and Eminem rights holders are suing Suno",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+        "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music…",
         "source": "theverge.com",
-        "date": "2026-11-07T10:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-08T12:23:19-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Raiders return to Bay Area — and the jail at Levi's Stadium could be busy",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-return-to-bay-area-and-the-jail-at-levis-stadium-could-be-busy",
-        "summary": "The Raiders left Oakland, for the second time, after the 2019 season.",
+        "title": "J.J. McCarthy, Zack Baun questionable to return in Philadelphia",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-zack-baun-questionable-to-return-in-philadelphia",
+        "summary": "McCarthy and Baun were injured on the same play in the third quarter.",
         "source": "nbcsports.com",
-        "date": "Sun, 08 Nov 2026 11:04:08 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/48f1aec/2147483647/strip/false/crop/2600x1463+0+166/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2F29%2Ff15fa6b449008350ef7c200c7020%2F1172235582.jpg"
+        "date": "Sun, 08 Nov 2026 15:16:08 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f3a7fc4/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F48%2Fd1%2Fcb3e3f1844e1b4762eabf312780a%2F2304168508.jpg"
       },
       {
-        "title": "Ja'Marr Chase explodes for 142 receiving yards in first 25 minutes of play in Madrid",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-explodes-for-142-receiving-yards-in-first-25-minutes-of-play-in-madrid",
-        "summary": "The Bengals' star wide receiver is having the best first half of his career.",
+        "title": "Hunter Henry, Keisean Nixon are active for Patriots-Packers clash",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hunter-henry-keisean-nixon-are-active-for-patriots-packers-clash",
+        "summary": "The Patriots will be missing wide receivers A.J.",
         "source": "nbcsports.com",
-        "date": "Sun, 08 Nov 2026 10:42:04 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a45d809/2147483647/strip/false/crop/4268x2401+0+222/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F0c%2F451878b24026a2b8224f81e669b3%2F2303697233.jpg"
+        "date": "Sun, 08 Nov 2026 15:11:27 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1c70c04/2147483647/strip/false/crop/4649x2615+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd4%2F77%2F7545d7d7448ea0b84ee8d69db69d%2F2302418123.jpg"
       },
       {
-        "title": "Cowboys have ideal chance to end streak of allowing 20 or more points",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-have-ideal-chance-to-end-streak-of-allowing-20-or-more-points",
-        "summary": "It's been nearly a year since the Cowboys held an opponent under 20 points.",
+        "title": "Dan Campbell goes for it on fourth down, Jahmyr Gibbs finds the end zone",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-goes-for-it-on-fourth-down-jahmyr-gibbs-finds-the-end-zone",
+        "summary": "Lions coach Dan Campbell loves to go for it on fourth down, and it's paying off today.",
         "source": "nbcsports.com",
-        "date": "Sun, 08 Nov 2026 10:19:09 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/966cc1e/2147483647/strip/false/crop/4533x2550+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2F1b%2Faf80f07f4ed4a51aedf72a3cb411%2F2248109954.jpg"
+        "date": "Sun, 08 Nov 2026 15:08:18 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ee2e1cc/2147483647/strip/false/crop/3737x2102+0+195/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2F47%2F430df02a48a1b3e1b513f9df9d58%2F2304165906.jpg"
       },
       {
-        "title": "Offensive fireworks in Madrid: Joe Burrow hits Ja'Marr Chase for 47-yard touchdown",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/offensive-fireworks-in-madrid-joe-burrow-hits-jamarr-chase-for-47-yard-touchdown",
-        "summary": "The Falcons' and Bengals' offensive stars are off to a hot start in Madrid.",
+        "title": "J.J. McCarthy heads to locker room after Zack Baun hit in third quarter",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-heads-to-locker-room-after-zach-baun-hit-in-third-quarter",
+        "summary": "Jameis Winston may be back in the saddle for the Giants.",
         "source": "nbcsports.com",
-        "date": "Sun, 08 Nov 2026 09:53:55 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3937d62/2147483647/strip/false/crop/3345x1882+0+174/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2Fcc%2F842b57f446e18b0608f23bd4ac15%2F2304126340.jpg"
+        "date": "Sun, 08 Nov 2026 15:04:58 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0f18558/2147483647/strip/false/crop/3665x2062+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fef%2F3d%2F10564c8c402b8090371fff443003%2F2304168843.jpg"
       },
       {
-        "title": "Falcons take early lead over Bengals in Madrid",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-take-early-lead-over-bengals-in-madrid",
-        "summary": "The Falcons drove into the red zone on the strength of Bijan Robinson's legs, then Michael Penix threw a TD pass.",
+        "title": "Chiefs stretch lead to 21-12 on Travis Kelce TD on fourth down",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-stretch-lead-to-21-12-on-travis-kelce-td-on-fourth-down",
+        "summary": "The Chiefs couldn't get the job done near the end zone at the end of last Sunday's loss to the Broncos, but they had more success early in the third quarter this Sunday.",
         "source": "nbcsports.com",
-        "date": "Sun, 08 Nov 2026 09:45:42 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/71e17c3/2147483647/strip/false/crop/6000x3375+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb2%2F9d%2F073cd881464ebdf48e307657e068%2F2303692907.jpg"
+        "date": "Sun, 08 Nov 2026 14:59:27 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/569edde/2147483647/strip/false/crop/4508x2536+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F87%2F3a4f32364666952f0ec5bbc601bf%2F2304168971.jpg"
       },
       {
-        "title": "Daniel Jones has several million reasons to want to be traded to a contender",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/daniel-jones-has-several-million-reasons-to-want-to-be-traded-to-a-contender",
-        "summary": "A trade would be a financial win-win for Colts and Jones.",
+        "title": "Panthers take 14-13 lead on Bryce Young's second TD pass",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-take-14-13-lead-on-bryce-youngs-second-td-pass",
+        "summary": "The Panthers lead the Broncos 14-13 after the first drive of the second half.",
         "source": "nbcsports.com",
-        "date": "Sun, 08 Nov 2026 09:45:01 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cdf63fe/2147483647/strip/false/crop/4587x2580+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdf%2F9d%2Ffbb9f6ba495f8ee5ac49563c3ecb%2F2302318725.jpg"
+        "date": "Sun, 08 Nov 2026 14:59:22 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/05403a0/2147483647/strip/false/crop/4088x2300+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2Fe1%2F4fc2e11b44bf986473750a357dfa%2F2304166805.jpg"
       }
     ]
   }
