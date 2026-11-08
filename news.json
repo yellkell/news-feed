@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-08T02:36:22.584Z",
+  "updated": "2026-11-08T09:27:34.969Z",
   "feed": {
     "VR": [
       {
-        "title": "YouTube could get a new way to browse while watching videos on Quest",
-        "url": "https://mixed-news.com/en/youtube-quest-immersive-view-redesign-uploadvr-report/",
-        "summary": "YouTube’s immersive view on Meta Quest could eventually let people browse for another video in a separate window while one is playing.",
+        "title": "“including Fedora, SteamOS”: Epic outlines Linux plans for its new games launcher",
+        "url": "https://mixed-news.com/en/epic-games-launcher-steamos-fedora-linux-support-plans/",
+        "summary": "Epic Games plans to support SteamOS with its new Epic Games Launcher, giving Steam Deck users a potential official route to their Epic libraries on Valve’s operating system.",
         "source": "mixed-news.com",
-        "date": "Sat, 07 Nov 2026 20:19:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-youtube-quest-redesign-0.jpg"
+        "date": "Sun, 08 Nov 2026 08:43:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-epic-steamos-0.jpg"
       },
       {
         "title": "‘PAYDAY: Aces High’ Review – A Card Shy of a Royal Flush",
@@ -27,12 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumbtheater-2.png"
       },
       {
-        "title": "Google Vids is rolling out three free 15-second AI videos a month",
-        "url": "https://mixed-news.com/en/google-vids-omni-1-2-flash-free-15-second-videos/",
-        "summary": "Google Vids is getting a longer AI video option: people with a Google account or Workspace subscription can generate up to three 15-second videos a month at no additional cost,…",
+        "title": "Logitech’s PRO X SUPERLIGHT mouse drops to $64.99, with a sub-63-gram design and 70-hour battery claim",
+        "url": "https://mixed-news.com/en/logitech-pro-x-superlight-gaming-mouse-6499-best-buy/",
+        "summary": "Logitech’s PRO X SUPERLIGHT gaming mouse weighs less than 63 grams and connects wirelessly through a USB receiver.",
         "source": "mixed-news.com",
-        "date": "Sat, 07 Nov 2026 18:57:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-google-vids-omni-0.jpg"
+        "date": "Sun, 08 Nov 2026 07:57:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-logitech-superlight-0.jpg"
       },
       {
         "title": "Project Hail Mary: Journey Among The Stars Gets A Release Date",
@@ -103,6 +103,14 @@
     ],
     "NFL": [
       {
+        "title": "Cam Jordan will become third defensive player to play 250 games with same team",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-jordan-will-become-third-defensive-player-to-play-250-games-with-same-team",
+        "summary": "When the Saints host the Browns on Sunday, New Orleans defensive end Cam Jordan will reach a rare milestone.",
+        "source": "nbcsports.com",
+        "date": "Sat, 07 Nov 2026 22:05:36 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8e9008f/2147483647/strip/false/crop/7910x4449+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff3%2F6a%2Fbd618c84442e92c4ef042b020c34%2F2297465126.jpg"
+      },
+      {
         "title": "Broncos and Bo Nix have won 16 straight one-score games",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-and-bo-nix-have-won-16-straight-one-score-games",
         "summary": "The Broncos keep finding ways to win games — especially close games.",
@@ -141,14 +149,6 @@
         "source": "nbcsports.com",
         "date": "Sat, 07 Nov 2026 16:45:57 -0500",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/09eb490/2147483647/strip/false/crop/8256x4644+0+430/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff4%2Fa2%2F35ca030b4486abd58ae42a9a1a1d%2F2299400832.jpg"
-      },
-      {
-        "title": "49ers activate Demarcus Robinson, elevate KhaDarel Hodge",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-activate-demarcus-robinson-elevate-khadarel-hodge",
-        "summary": "The 49ers will have two of their Week 1 wideouts back in the lineup for Sunday's game against the Raiders.",
-        "source": "nbcsports.com",
-        "date": "Sat, 07 Nov 2026 16:40:22 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f4d01fa/2147483647/strip/false/crop/7144x4019+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb7%2F64%2Ff07e52ff4b5ea49e3f1ab27455fe%2F2296296037.jpg"
       }
     ]
   }
