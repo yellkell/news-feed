@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-10T20:07:06.657Z",
+  "updated": "2026-11-11T00:37:57.911Z",
   "feed": {
     "VR": [
       {
-        "title": "Save $350 on this RTX 5070 Ti gaming PC with 32GB RAM and 360mm liquid cooling",
-        "url": "https://mixed-news.com/en/stormcraft-phantom-rtx-5070-ti-ultra-7-amazon-deal/",
-        "summary": "Amazon lists the STORMCRAFT Phantom gaming desktop with an RTX 5070 Ti, Intel Core Ultra 7 265F and 32GB of DDR5 RAM for $2,749.99.",
+        "title": "Steam now shows how fast thousands of games run on Steam Deck before you buy",
+        "url": "https://mixed-news.com/en/steam-deck-game-frame-rates-store-pages-player-data/",
+        "summary": "Steam now lets you check how fast thousands of games actually run on Steam Deck before buying or installing them.",
         "source": "mixed-news.com",
-        "date": "Tue, 10 Nov 2026 19:46:13 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-storm-0.jpg"
+        "date": "Wed, 11 Nov 2026 00:17:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-discover-steamdeck-fps-0.jpg"
+      },
+      {
+        "title": "Adults-Only Virtual World Somnium Space Is Returning To Steam",
+        "url": "https://www.uploadvr.com/adults-only-virtual-world-somnium-space-is-returning-to-steam/",
+        "summary": "Somnium Space is returning to Steam after being removed from the platform years ago.",
+        "source": "uploadvr.com",
+        "date": "Tue, 10 Nov 2026 10:28:16 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/somnium-1.jpg"
       },
       {
         "title": "Meta Reportedly Rebranding Horizon+ to ‘Meta VR+’, Adding Popular 3D Films to Game Service",
@@ -19,28 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/disney-plus-star-wars.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
+        "title": "Meta asks smart glasses owners to update after moisture raises overheating concerns",
+        "url": "https://mixed-news.com/en/meta-glasses-software-update-moisture-overheating/",
+        "summary": "Meta is asking owners of several Meta Glasses styles to install a software update after warning that excessive moisture or sweat could cause the glasses to get too warm.",
+        "source": "mixed-news.com",
+        "date": "Tue, 10 Nov 2026 23:15:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-discover-meta-safety-0.jpg"
+      },
+      {
         "title": "Meta Begins Listing 3D Movies On Quest, Could Become A Horizon+ Benefit",
         "url": "https://www.uploadvr.com/meta-begins-listing-3d-movies-on-quest-could-become-a-horizon-benefit/",
         "summary": "A limited selection of 3D movies has begun appearing in the TV app on Quest, and may become a benefit of the Horizon+ subscription service, which could be rebranded VR+.",
         "source": "uploadvr.com",
         "date": "Tue, 10 Nov 2026 05:21:46 -0800",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumb.jpg"
-      },
-      {
-        "title": "This RTX 5070 gaming PC gets $400 off with a Core i7 and 32GB of RAM",
-        "url": "https://mixed-news.com/en/abs-flux-ii-rtx-5070-i7-14700f-newegg-deal/",
-        "summary": "Newegg has reduced an ABS Flux II Aqua gaming PC with an RTX 5070 and Intel Core i7-14700F to $1,799.99.",
-        "source": "mixed-news.com",
-        "date": "Tue, 10 Nov 2026 19:39:40 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-flux-0.jpg"
-      },
-      {
-        "title": "Payday: Aces High Gets Update, Roadmap, & All Future Heists Will Be Free",
-        "url": "https://www.uploadvr.com/payday-aces-high-gets-update-roadmap-all-future-heists-will-be-free/",
-        "summary": "Payday: Aces High got an update, roadmap, and news that all future heists will be released for free.",
-        "source": "uploadvr.com",
-        "date": "Mon, 09 Nov 2026 08:56:47 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/payday-aces-high-key-art-1.jpg"
       },
       {
         "title": "Gentle Monster Teases December Release for Android XR Smart Glasses with Joaquin Phoenix",
@@ -53,20 +53,20 @@
     ],
     "AI": [
       {
+        "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+        "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+        "source": "arstechnica.com",
+        "date": "Tue, 10 Nov 2026 21:12:59 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp"
+      },
+      {
         "title": "The US is winning the AI race. Jensen Huang could have blown it",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
         "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth.",
         "source": "theverge.com",
         "date": "2026-11-10T14:04:05-05:00",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-        "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-        "summary": "\"*sshole\" poses a serious threat to Internet security.",
-        "source": "arstechnica.com",
-        "date": "Mon, 09 Nov 2026 19:41:34 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
         "title": "ChatGPT is getting verified AI ‘Business Agents’",
@@ -77,12 +77,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-        "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-        "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+        "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+        "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+        "summary": "\"*sshole\" poses a serious threat to Internet security.",
         "source": "arstechnica.com",
-        "date": "Fri, 06 Nov 2026 20:56:41 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg"
+        "date": "Mon, 09 Nov 2026 19:41:34 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
         "title": "The indie game community is in disarray over AI and Big Walk",
@@ -93,62 +93,62 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
-        "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-        "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-        "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+        "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+        "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+        "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
         "source": "arstechnica.com",
-        "date": "Thu, 05 Nov 2026 23:09:36 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg"
+        "date": "Fri, 06 Nov 2026 20:56:41 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Vikings bring Kirk Cousins back to Minnesota",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-bring-kirk-cousins-back-to-minnesota",
-        "summary": "Raiders get a 2027 third-round pick for Cousins.",
+        "title": "Commanders upgrade WR Treylon Burks to limited practice participation",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-upgrade-wr-treylon-burks-to-full-practice-participation",
+        "summary": "Commanders wide receiver Treylon Burks missed last Sunday's loss to the Rams with a foot injury, but he's moving toward a return to the lineup.",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 14:48:14 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/03e1fc0/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F131%2F575%2Fnbc_pft_vikingsproblemss_261110.jpg"
+        "date": "Tue, 10 Nov 2026 19:02:25 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a19d36d/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdf%2Fa6%2Fa071ada54ac3bae0be949e7895c4%2F2303342246.jpg"
       },
       {
-        "title": "2026 NFL Trade Deadline live updates: Tracker, deals, news, rumors, analysis",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/2026-nfl-trade-deadline-live-updates-tracker-deals-news-rumors-analysis",
-        "summary": "Jordan Davis, Jeffery Simmons, DeForest Buckner, Quenton Nelson and more big-name NFL players are on the move.",
+        "title": "Malik Nabers: I felt like it was a lie for Fox broadcast to attack my character",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-nabers-i-felt-like-it-was-a-lie-to-attack-my-character",
+        "summary": "\"Don't tell the world something that's not me.\"",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 14:40:00 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b2959d/2147483647/strip/false/crop/5861x3297+0+305/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F3a%2Fe5079aa343f786fbe47c726751e9%2F2295679410.jpg"
+        "date": "Tue, 10 Nov 2026 18:48:57 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2405a31/2147483647/strip/false/crop/4955x2787+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2Ff3%2Fe0bf09c8410b877046440e05bc13%2F2303764667.jpg"
       },
       {
-        "title": "Titans agree to trade S Amani Hooker to Bills",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-agree-to-trade-s-amani-hooker-to-bills",
-        "summary": "The Bills are bringing in some help for their secondary.",
+        "title": "Cardinals place QB Gardner Minshew and WR Michael Wilson on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-place-qb-gardner-minshew-and-wr-michael-wilson-on-ir",
+        "summary": "The Cardinals placed quarterback Gardner Minshew and wide receiver Michael Wilson on injured reserve Tuesday, the team announced.",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 14:20:46 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f8f9bab/2147483647/strip/false/crop/6853x3855+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2Fd9%2F098b33cf4c499d973b3882d0a3cb%2F2303037508.jpg"
+        "date": "Tue, 10 Nov 2026 17:32:29 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b865d65/2147483647/strip/false/crop/5154x2899+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F55%2Fa6%2F5957d79d408ab8abd9aebbf9cad2%2F2026-11-08t222216z-1092315711-mt1usatoday30316263-rtrmadp-3-nfl-arizona-cardinals-at-seattle-seahawks.jpg"
       },
       {
-        "title": "Raiders-49ers game at Levi's Stadium resulted in 11 arrests and 45 ejections",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-49ers-game-at-levis-stadium-resulted-in-11-arrests-and-45-ejections",
-        "summary": "Technically, it counts as progress.",
+        "title": "Ravens release TE Nick Vannett, waive G Kyle Hergel",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-release-te-nick-vannett-waive-g-kyle-hergel",
+        "summary": "The Ravens parted ways with guard Andrew Vorhees in a trade with the Falcons on Tuesday and they also cut a couple of other players from the active roster.",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 14:18:40 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1f6142e/2147483647/strip/false/crop/6000x3375+0+315/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2Fd4%2Fb87377b54790a8cebd88d4734a4d%2F1347939797.jpg"
+        "date": "Tue, 10 Nov 2026 17:27:04 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e64ed6a/2147483647/strip/false/crop/4979x2801+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2F8e%2Ff09462e4453ca84420caef14a7a2%2F2299368014.jpg"
       },
       {
-        "title": "Colts agree to trade Keenan Allen to 49ers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-agree-to-trade-keenan-allen-to-49ers",
-        "summary": "Dealing with several of injuries at the position, San Francisco is adding depth at receiver.",
+        "title": "49ers put DT Gracen Halton on IR",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-put-dt-gracen-halton-on-ir",
+        "summary": "49ers rookie defensive tackle Gracen Halton was placed on injured reserve on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 13:47:29 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f98caa5/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F3a%2Fe89b8b9049bf8b6cc7fd64c26c48%2F2302711141.jpg"
+        "date": "Tue, 10 Nov 2026 17:21:19 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f9bbd1a/2147483647/strip/false/crop/8640x4860+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F27%2F98090f5a4da29a4ac1c471424839%2F2302119523.jpg"
       },
       {
-        "title": "Report: Vikings \"have identified\" Kirk Cousins as \"prime trade candidate\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-vikings-have-identified-kirk-cousins-as-prime-trade-candidate",
-        "summary": "Yes, the Vikings will be adding a quarterback today.",
+        "title": "Cam Skattebo on Giants not adding a running back: They know what I can do",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-on-giants-not-adding-a-running-back-they-know-what-i-can-do",
+        "summary": "Cam Skattebo is set to return to the Giants lineup for Thursday night's game against the Commanders and he won't be looking over his shoulder at any new additions to the team's…",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 13:38:35 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/bc100e7/2147483647/strip/false/crop/6576x3699+0+344/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Fc5%2Fcc629e184b13bd5c430060252e23%2F2294590541.jpg"
+        "date": "Tue, 10 Nov 2026 17:06:06 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0137f83/2147483647/strip/false/crop/4768x2682+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F46%2Fb80c2362427d90173fb1dd0c201c%2F2302160001.jpg"
       }
     ]
   }
