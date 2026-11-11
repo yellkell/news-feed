@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-11T07:06:45.012Z",
+  "updated": "2026-11-11T15:07:25.289Z",
   "feed": {
     "VR": [
       {
-        "title": "Death Stranding 2 joins PlayStation Plus as Sony sets a date to end its PC streaming app",
-        "url": "https://mixed-news.com/en/playstation-plus-november-death-stranding-2-pc-streaming-end/",
-        "summary": "Death Stranding 2: On the Beach and Atomfall are heading to the PlayStation Plus Game Catalog in November.",
+        "title": "Acer’s RTX 5070 Predator laptop gets a $1,000 cut, with a 180Hz display and 1TB SSD",
+        "url": "https://mixed-news.com/en/acer-n82e16834360449-newegg-deal-nov11/",
+        "summary": "Acer Predator Helios Neo 16 AI RTX 5070 laptop is $1,999.99 at Newegg, $1,000 below the retailer’s displayed $2,999.99 comparison price.",
         "source": "mixed-news.com",
-        "date": "Wed, 11 Nov 2026 07:01:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-discover-playstation-plus-0.jpg"
+        "date": "Wed, 11 Nov 2026 15:00:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov11-hardware12-acer-0.jpg"
+      },
+      {
+        "title": "VR Bowshooter ‘In Death’ Spins Out ‘Siege of Heaven’ DLC to Full Game on Quest Today",
+        "url": "https://roadtovr.com/quest-in-death-shooter-siege-of-heaven-dlc-standalone/",
+        "summary": "‘Siege of Heaven’ was a DLC for VR bowshooter In Death: Unchained (2020), but starting today, it’s getting its own game.",
+        "source": "roadtovr.com",
+        "date": "Wed, 11 Nov 2026 14:25:34 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/in-death-vr.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Adults-Only Virtual World Somnium Space Is Returning To Steam",
@@ -19,20 +27,20 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/somnium-1.jpg"
       },
       {
-        "title": "Meta Reportedly Rebranding Horizon+ to ‘Meta VR+’, Adding Popular 3D Films to Game Service",
-        "url": "https://roadtovr.com/meta-rebrand-horizon-plus-meta-vr-glasses/",
-        "summary": "Meta may soon rebrand Horizon+, its VR game subscription service for Quest, to ‘Meta VR+’, as the company appears to be bundling a number of 3D films to better appeal to Meta VR…",
-        "source": "roadtovr.com",
-        "date": "Tue, 10 Nov 2026 14:06:30 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/disney-plus-star-wars.jpg?resize=1800%2C1200&quality=89&ssl=1"
+        "title": "Hisense’s 85-inch Mini-LED TV is half price at Best Buy, saving you $1,000",
+        "url": "https://mixed-news.com/en/hisense-85-u6-pro-miniled-tv-1000-off-best-buy/",
+        "summary": "An 85-inch Hisense U6 Pro Mini-LED TV is $999.99 at Best Buy, a $1,000 saving against the retailer's displayed $1,999.99 comparable value.",
+        "source": "mixed-news.com",
+        "date": "Wed, 11 Nov 2026 14:31:53 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-hisense-0.jpg"
       },
       {
-        "title": "Gemini 4 Carbon arrives for AI Ultra subscribers, with a new way to coordinate coding agents",
-        "url": "https://mixed-news.com/en/google-gemini-4-carbon-ai-ultra-antigravity-swarm/",
-        "summary": "Google has released Gemini 4 Carbon, its latest AI model, to AI Ultra subscribers in the Gemini app and AI Mode in Search.",
-        "source": "mixed-news.com",
-        "date": "Wed, 11 Nov 2026 06:08:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-discover-gemini-carbon-0.jpg"
+        "title": "Social VR Platform ‘Somnium Space’ Returns to Steam Next Month Following Crypto Purge",
+        "url": "https://roadtovr.com/social-vr-somnium-space-steam-return/",
+        "summary": "Somnium Space, the adult-only social VR platform, was delisted from Steam during Valve’s crypto games purge in 2021.",
+        "source": "roadtovr.com",
+        "date": "Wed, 11 Nov 2026 13:21:29 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/somnium-space-vr.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Meta Begins Listing 3D Movies On Quest, Could Become A Horizon+ Benefit",
@@ -41,17 +49,17 @@
         "source": "uploadvr.com",
         "date": "Tue, 10 Nov 2026 05:21:46 -0800",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumb.jpg"
-      },
-      {
-        "title": "Gentle Monster Teases December Release for Android XR Smart Glasses with Joaquin Phoenix",
-        "url": "https://roadtovr.com/gentle-monster-android-xr-joaquin-phoenix-trailer/",
-        "summary": "South Korean eyewear giant Gentle Monster announced its long-awaited Android XR smart glasses are on their way this December, which are built in collaboration with Samsung and…",
-        "source": "roadtovr.com",
-        "date": "Mon, 09 Nov 2026 12:18:51 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/joaquin-phoenix-gentle-monster-k.jpg?resize=1800%2C1200&quality=89&ssl=1"
       }
     ],
     "AI": [
+      {
+        "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+        "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a…",
+        "source": "theverge.com",
+        "date": "2026-11-11T10:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
       {
         "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
         "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
@@ -61,20 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp"
       },
       {
-        "title": "The US is winning the AI race. Jensen Huang could have blown it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-        "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth.",
+        "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+        "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+        "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being…",
         "source": "theverge.com",
-        "date": "2026-11-10T14:04:05-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "ChatGPT is getting verified AI ‘Business Agents’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-        "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping.",
-        "source": "theverge.com",
-        "date": "2026-11-10T13:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-11T09:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
-        "title": "The indie game community is in disarray over AI and Big Walk",
-        "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-        "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the…",
+        "title": "The US is winning the AI race. Jensen Huang could have blown it",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+        "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth.",
         "source": "theverge.com",
-        "date": "2026-11-10T12:32:47-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-10T14:04:05-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "CBA allows 49ers to not pay Brandon Aiyuk during two-week roster exemption",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cba-allows-49ers-to-not-pay-brandon-aiyuk-during-two-week-roster-exemption",
-        "summary": "When unusual situations emerge in the NFL, it becomes a piece-by-piece exercise in figuring out the specific rules that apply.",
+        "title": "Kirk Cousins isn't officially back in No. 8, yet",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-isnt-officially-back-in-no-8-yet",
+        "summary": "Kirk Cousins is back in Minnesota.",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 22:12:24 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/af35a50/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F133%2F27%2Fnbc_pft_brandonaiyuk_261110.jpg"
+        "date": "Wed, 11 Nov 2026 09:45:39 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dfac690/2147483647/strip/false/crop/4441x2498+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F2c%2Fc7fb63af4eba9cb60f53e2bb4525%2F1237516046.jpg"
       },
       {
-        "title": "Nick Sirianni denies giving subtle middle finger to fans",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-denies-giving-subtle-middle-finger-to-fans",
-        "summary": "After Sunday's loss to the Giants — Philadelphia's seventh loss in a row — a video emerged of Eagles coach Nick Sirianni leaving the field, along with Dom DiSandro.",
+        "title": "Browns plan on starting Deshaun Watson against Texans",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-browns-still-plan-on-starting-deshaun-watson-against-texans",
+        "summary": "Head coach Todd Monken declined to announce a decision earlier this week.",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 21:47:22 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/44b0c4c/2147483647/strip/false/crop/7971x4484+0+415/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F90%2Fdc%2Fb68de7cc4a28b0b3f9f1d3529382%2F2302185414.jpg"
+        "date": "Wed, 11 Nov 2026 09:20:12 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5d0c899/2147483647/strip/false/crop/4153x2336+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2F6b%2F2c4be8d246c3a2e9504fe71442ab%2F2303026105.jpg"
       },
       {
-        "title": "In Kirk Cousins, the Vikings landed their first choice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-kirk-cousins-the-vikings-landed-their-first-choice",
-        "summary": "After last night's abysmal performance by the offense against the Bills, the Vikings mobilized to trade for a quarterback.",
+        "title": "Commanders GM Adam Peters: Ball needs to go in the end zone on final play",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-gm-adam-peters-ball-needs-to-go-in-the-end-zone-on-final-play",
+        "summary": "The Commanders' operation at the end of games came under the microscope again in Week 9.",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 21:09:30 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d8e338e/2147483647/strip/false/crop/5301x2982+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2F63%2F1247d7034939bb62a021922e7adb%2F1832866271.jpg"
+        "date": "Wed, 11 Nov 2026 08:42:41 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5e8140f/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fe1%2F6400b0ad4cd7b074fca7cc1564a6%2F2290427781.jpg"
       },
       {
-        "title": "Jaguars-Ravens averages 13.96 million on Prime Video",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-ravens-averages-13-96-million-on-prime-video",
-        "summary": "When it comes to interpreting press releases regarding the audiences for sporting events, there's a rule of thumb.",
+        "title": "Jaguars GM James Gladstone: We value draft picks, but don't always use them in April",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-gm-james-gladstone-we-value-draft-picks-but-dont-always-use-them-in-april",
+        "summary": "Jaguars General Manager James Gladstone doesn't view this week's moves to acquire safety Jessie Bates, defensive tackle Jordan Davis, and defensive tackle Davon Godchaux in the…",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 20:51:32 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/95b1a42/2147483647/strip/false/crop/7338x4128+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F74%2F45%2F67ce262e4e7488a37a9a4d32e0c7%2F2304108852.jpg"
+        "date": "Wed, 11 Nov 2026 08:28:13 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ff715fa/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe8%2F11%2F132cfa044a42b20225fc5e4cdcb7%2F2287517329.jpg"
       },
       {
-        "title": "John Spytek: First \"real\" call on Kirk Cousins came this morning",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-spytek-first-real-call-on-kirk-cousins-came-this-morning",
-        "summary": "As NFL trades slip into hibernation until March, it's important to remember something the next time players can be sent from one team to another.",
+        "title": "John Spytek: Fernando Mendoza passed every test, allowed us to make a hard decision",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-spytek-fernando-mendoza-passed-every-test-allowed-us-to-make-a-hard-decision",
+        "summary": "It took longer than it has for most quarterbacks drafted first overall, but Fernando Mendoza's time has come in Las Vegas.",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 20:25:01 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc5500e/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F183%2F827%2Fnbc_pftpm_cousinstrade_261110.jpg"
+        "date": "Wed, 11 Nov 2026 07:01:43 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b4fa2c/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2Fa6%2F5f96c19a4df3aa1611db684385a2%2F2304345501.jpg"
       },
       {
-        "title": "Raiders sign DL Tim Keenan to the active roster from the practice squad",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-sign-dl-tim-keenan-to-the-active-roster-from-the-practice-squad",
-        "summary": "The Raiders traded quarterback Kirk Cousins to the Vikings, leaving an open roster spot.",
+        "title": "Fran Tarkenton raves about Kirk Cousins's return to Minnesota",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fran-tarkenton-raves-about-kirk-cousinss-return-to-minnesota",
+        "summary": "On Monday night, I was explaining to my wife the bizarre situation in Minnesota, where a championship-caliber defense has been paired with an offense that would have trouble…",
         "source": "nbcsports.com",
-        "date": "Tue, 10 Nov 2026 19:52:56 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b78f322/2147483647/strip/false/crop/5309x2986+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F24%2F65%2F448910c7472594947056f8420c7f%2F2303056499.jpg"
+        "date": "Wed, 11 Nov 2026 06:55:00 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/037a403/2147483647/strip/false/crop/2430x1367+0+506/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe1%2Feb%2Fbb0d1ec44ffc82b7f8078a679e94%2F494975675.jpg"
       }
     ]
   }
