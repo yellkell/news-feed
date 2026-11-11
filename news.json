@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-11T15:07:25.289Z",
+  "updated": "2026-11-11T21:54:13.465Z",
   "feed": {
     "VR": [
       {
-        "title": "Acer’s RTX 5070 Predator laptop gets a $1,000 cut, with a 180Hz display and 1TB SSD",
-        "url": "https://mixed-news.com/en/acer-n82e16834360449-newegg-deal-nov11/",
-        "summary": "Acer Predator Helios Neo 16 AI RTX 5070 laptop is $1,999.99 at Newegg, $1,000 below the retailer’s displayed $2,999.99 comparison price.",
+        "title": "GTA 6 preorders reach “unprecedented levels,” Take-Two CEO says ahead of launch",
+        "url": "https://mixed-news.com/en/gta-6-preorders-unprecedented-levels-take-two-ceo/",
+        "summary": "GTA 6 preorders have reached “unprecedented levels” ahead of its November 19 launch, according to Take-Two Interactive CEO Strauss Zelnick.",
         "source": "mixed-news.com",
-        "date": "Wed, 11 Nov 2026 15:00:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov11-hardware12-acer-0.jpg"
+        "date": "Wed, 11 Nov 2026 21:26:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov12-1600-gta-preorders-0.jpg"
+      },
+      {
+        "title": "Experience Audi's Journey To F1 On Apple Vision Pro",
+        "url": "https://www.uploadvr.com/6af314c933c4610001083e4d/",
+        "summary": "Entering Formula 1 Racing takes you behind the scenes of Audi's journey to its F1 debut in a new immersive documentary on Apple Vision Pro.",
+        "source": "uploadvr.com",
+        "date": "Wed, 11 Nov 2026 10:00:00 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/EF1_SCREENSHOT_12_GARAGE.jpg"
       },
       {
         "title": "VR Bowshooter ‘In Death’ Spins Out ‘Siege of Heaven’ DLC to Full Game on Quest Today",
@@ -19,20 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/in-death-vr.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Adults-Only Virtual World Somnium Space Is Returning To Steam",
-        "url": "https://www.uploadvr.com/adults-only-virtual-world-somnium-space-is-returning-to-steam/",
-        "summary": "Somnium Space is returning to Steam after being removed from the platform years ago.",
-        "source": "uploadvr.com",
-        "date": "Tue, 10 Nov 2026 10:28:16 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/somnium-1.jpg"
-      },
-      {
-        "title": "Hisense’s 85-inch Mini-LED TV is half price at Best Buy, saving you $1,000",
-        "url": "https://mixed-news.com/en/hisense-85-u6-pro-miniled-tv-1000-off-best-buy/",
-        "summary": "An 85-inch Hisense U6 Pro Mini-LED TV is $999.99 at Best Buy, a $1,000 saving against the retailer's displayed $1,999.99 comparable value.",
+        "title": "Frostpunk drops to $2.99 on Steam, taking 90% off the city survival game",
+        "url": "https://mixed-news.com/en/frostpunk-steam-90-percent-off-299/",
+        "summary": "Frostpunk is $2.99 on Steam, down 90% from its usual $29.99 store price.",
         "source": "mixed-news.com",
-        "date": "Wed, 11 Nov 2026 14:31:53 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-hisense-0.jpg"
+        "date": "Wed, 11 Nov 2026 20:26:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov12-1600-frostpunk-0.jpg"
       },
       {
         "title": "Social VR Platform ‘Somnium Space’ Returns to Steam Next Month Following Crypto Purge",
@@ -43,22 +43,22 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/somnium-space-vr.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Meta Begins Listing 3D Movies On Quest, Could Become A Horizon+ Benefit",
-        "url": "https://www.uploadvr.com/meta-begins-listing-3d-movies-on-quest-could-become-a-horizon-benefit/",
-        "summary": "A limited selection of 3D movies has begun appearing in the TV app on Quest, and may become a benefit of the Horizon+ subscription service, which could be rebranded VR+.",
+        "title": "Adults-Only Virtual World Somnium Space Is Returning To Steam",
+        "url": "https://www.uploadvr.com/adults-only-virtual-world-somnium-space-is-returning-to-steam/",
+        "summary": "Somnium Space is returning to Steam after being removed from the platform years ago.",
         "source": "uploadvr.com",
-        "date": "Tue, 10 Nov 2026 05:21:46 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/thumb.jpg"
+        "date": "Tue, 10 Nov 2026 10:28:16 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/somnium-1.jpg"
       }
     ],
     "AI": [
       {
-        "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-        "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a…",
+        "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+        "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+        "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends.",
         "source": "theverge.com",
-        "date": "2026-11-11T10:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-11T11:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp"
       },
       {
-        "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-        "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-        "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being…",
+        "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+        "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a…",
         "source": "theverge.com",
-        "date": "2026-11-11T09:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-11T10:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
-        "title": "The US is winning the AI race. Jensen Huang could have blown it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-        "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth.",
+        "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+        "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+        "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being…",
         "source": "theverge.com",
-        "date": "2026-11-10T14:04:05-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-11T09:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Kirk Cousins isn't officially back in No. 8, yet",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-isnt-officially-back-in-no-8-yet",
-        "summary": "Kirk Cousins is back in Minnesota.",
+        "title": "Micah Parsons has limited practice Wednesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-has-limited-practice-wednesday",
+        "summary": "Packers edge rusher Micah Parsons had limited work in Wednesday's practice.",
         "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 09:45:39 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dfac690/2147483647/strip/false/crop/4441x2498+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2F2c%2Fc7fb63af4eba9cb60f53e2bb4525%2F1237516046.jpg"
+        "date": "Wed, 11 Nov 2026 16:47:07 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e554037/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F131%2F575%2Fnbc_pft_reportcards_261110.jpg"
       },
       {
-        "title": "Browns plan on starting Deshaun Watson against Texans",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-browns-still-plan-on-starting-deshaun-watson-against-texans",
-        "summary": "Head coach Todd Monken declined to announce a decision earlier this week.",
+        "title": "J.J. McCarthy, Cam Skattebo have no injury designations for Thursday night",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-cam-skattebo-have-no-injury-designations-for-thursday-night",
+        "summary": "The Giants opened the week with confidence that quarterback J.J.",
         "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 09:20:12 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5d0c899/2147483647/strip/false/crop/4153x2336+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2F6b%2F2c4be8d246c3a2e9504fe71442ab%2F2303026105.jpg"
+        "date": "Wed, 11 Nov 2026 16:29:40 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/690f231/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2F76%2Fc07a8d264d5497abdfe3faa6ed97%2F2304603227.jpg"
       },
       {
-        "title": "Commanders GM Adam Peters: Ball needs to go in the end zone on final play",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-gm-adam-peters-ball-needs-to-go-in-the-end-zone-on-final-play",
-        "summary": "The Commanders' operation at the end of games came under the microscope again in Week 9.",
+        "title": "Puka Nacua won't be placed on IR, but will still be out for an extended period",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-wont-be-placed-on-ir-but-will-still-be-out-for-an-extended-period",
+        "summary": "The Rams have experienced a bevy of injuries so far this season.",
         "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 08:42:41 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5e8140f/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fe1%2F6400b0ad4cd7b074fca7cc1564a6%2F2290427781.jpg"
+        "date": "Wed, 11 Nov 2026 16:26:38 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c586279/2147483647/strip/false/crop/5783x3253+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2Fc9%2F72669fb44bbca65a12ef7f68ebe6%2F2303601270.jpg"
       },
       {
-        "title": "Jaguars GM James Gladstone: We value draft picks, but don't always use them in April",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-gm-james-gladstone-we-value-draft-picks-but-dont-always-use-them-in-april",
-        "summary": "Jaguars General Manager James Gladstone doesn't view this week's moves to acquire safety Jessie Bates, defensive tackle Jordan Davis, and defensive tackle Davon Godchaux in the…",
+        "title": "Nolan Teasley: This roster has \"earned the right\" to maximize its potential with Kirk Cousins",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nolan-teasley-this-roster-has-earned-the-right-to-maximize-its-potential-with-kirk-cousins",
+        "summary": "\"We didn't acquire Kirk to not play,\" the Vikings G.M. said.",
         "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 08:28:13 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ff715fa/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe8%2F11%2F132cfa044a42b20225fc5e4cdcb7%2F2287517329.jpg"
+        "date": "Wed, 11 Nov 2026 16:26:25 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8917697/2147483647/strip/false/crop/5700x3206+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F20%2F29%2F3f921e394d64aa8f644950db954e%2F2304153072.jpg"
       },
       {
-        "title": "John Spytek: Fernando Mendoza passed every test, allowed us to make a hard decision",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-spytek-fernando-mendoza-passed-every-test-allowed-us-to-make-a-hard-decision",
-        "summary": "It took longer than it has for most quarterbacks drafted first overall, but Fernando Mendoza's time has come in Las Vegas.",
+        "title": "Jared Goff listed as limited at Lions practice due to chest injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jared-goff-listed-as-limited-at-lions-practice-due-to-chest-injury",
+        "summary": "Quarterback Jared Goff landed on the Lions' first injury report of the week.",
         "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 07:01:43 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6b4fa2c/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2Fa6%2F5f96c19a4df3aa1611db684385a2%2F2304345501.jpg"
+        "date": "Wed, 11 Nov 2026 16:17:16 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/78c3012/2147483647/strip/false/crop/3484x1960+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F86%2F6c67ef8b49dfa1e58773df0bb659%2F2304645854.jpg"
       },
       {
-        "title": "Fran Tarkenton raves about Kirk Cousins's return to Minnesota",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fran-tarkenton-raves-about-kirk-cousinss-return-to-minnesota",
-        "summary": "On Monday night, I was explaining to my wife the bizarre situation in Minnesota, where a championship-caliber defense has been paired with an offense that would have trouble…",
+        "title": "Joey Porter Jr. did not practice Wednesday, but George Pickens was limited",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-did-not-practice-wednesday-but-george-pickens-was-limited",
+        "summary": "Cowboys cornerback Joey Porter Jr.",
         "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 06:55:00 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/037a403/2147483647/strip/false/crop/2430x1367+0+506/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe1%2Feb%2Fbb0d1ec44ffc82b7f8078a679e94%2F494975675.jpg"
+        "date": "Wed, 11 Nov 2026 16:15:56 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dad7ab8/2147483647/strip/false/crop/6542x3680+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F71%2F9d%2F47d10bb1404b93104109681ad8ab%2F2303504445.jpg"
       }
     ]
   }
