@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-12T02:37:13.252Z",
+  "updated": "2026-11-12T10:17:53.799Z",
   "feed": {
     "VR": [
       {
-        "title": "ASUS ROG 240Hz OLED gaming monitor drops to $399.99 with $150 Newegg discount",
-        "url": "https://mixed-news.com/en/asus-rog-xg27aqdmes-240hz-oled-monitor-150-off-newegg/",
-        "summary": "Newegg has cut $150 off the ASUS ROG Strix OLED XG27AQDMES, bringing the 27-inch-class gaming monitor to $399.99 from a displayed $549.99.",
+        "title": "Sniper Elite 5 falls to $4.99 on Steam as Rebellion cuts 90% off the PC game",
+        "url": "https://mixed-news.com/en/sniper-elite-5-steam-499-90-percent-off/",
+        "summary": "Sniper Elite 5 has dropped to $4.99 on the US Steam store, a 90% reduction from its displayed $49.99 price.",
         "source": "mixed-news.com",
-        "date": "Thu, 12 Nov 2026 02:26:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov12-1600-asus-0.jpg"
+        "date": "Thu, 12 Nov 2026 09:26:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov12-1600-sniper-0.jpg"
       },
       {
         "title": "Experience Audi's Journey To F1 On Apple Vision Pro",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/in-death-vr.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "The Outer Worlds 2 is getting a $14.99 expansion, and its next story depends on your choices",
-        "url": "https://mixed-news.com/en/outer-worlds-2-side-effects-guaranteed-december-2/",
-        "summary": "The Outer Worlds 2 is getting its first story expansion on December 2, and Obsidian says the choices players make in it will carry into a second DLC planned for spring 2027.",
+        "title": "Steam Deck mystery Loco Motive gets touchscreen controls and native Linux support",
+        "url": "https://mixed-news.com/en/loco-motive-steam-deck-update-november-2026/",
+        "summary": "Loco Motive has received a 1.1 update that gives Steam Deck players another way to investigate its train-bound murder mystery: touchscreen controls.",
         "source": "mixed-news.com",
-        "date": "Thu, 12 Nov 2026 01:26:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov12-1600-outer-0.jpg"
+        "date": "Thu, 12 Nov 2026 08:26:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov12-1600-loco-0.jpg"
       },
       {
         "title": "Social VR Platform ‘Somnium Space’ Returns to Steam Next Month Following Crypto Purge",
@@ -103,6 +103,38 @@
     ],
     "NFL": [
       {
+        "title": "Broncos, Chargers announce Daiyan Henley will not be traded after all",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-chargers-announce-daiyan-henley-will-not-be-traded-after-all",
+        "summary": "More than 24 hours after the NFL trade deadline, the trade of Henley from the Charges to the Broncos was canceled.",
+        "source": "nbcsports.com",
+        "date": "Thu, 12 Nov 2026 04:23:38 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cd55225/2147483647/strip/false/crop/4916x2765+0+256/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbd%2Fde%2F707be99f462692c89e3f2ee577aa%2F2178279646.jpg"
+      },
+      {
+        "title": "Keenan Allen says his beef with Mike Evans is in the past",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keenan-allen-says-his-beef-with-mike-evans-is-in-the-past",
+        "summary": "Keenan Allen says his beef with Mike Evans is in the past.",
+        "source": "nbcsports.com",
+        "date": "Wed, 11 Nov 2026 23:04:53 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c4f24cb/2147483647/strip/false/crop/2000x1125+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2F0d%2F8c15b5f94a4ab669d8280fe132f2%2F2026-10-15t011538z-562677161-mt1usatoday30085224-rtrmadp-3-indianapolis-colts-wide-receiver-keenan-allen-10-pulls-in.jpg"
+      },
+      {
+        "title": "Dianna Russini's return includes no specifics about multiple controversies",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dianna-russinis-return-includes-no-specifics-about-multiple-controversies",
+        "summary": "As expected, Dianna Russini made her return to sports media on Wednesday, with a one-hour show platformed by an illegal offshore sports book.",
+        "source": "nbcsports.com",
+        "date": "Wed, 11 Nov 2026 22:44:18 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/75d6638/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F959%2F279%2Fnbc_pftpm_russinireturnsv2_261107.jpg"
+      },
+      {
+        "title": "NC State moves even closer to hiring Philip Rivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nc-state-moves-even-closer-to-hiring-philip-rivers",
+        "summary": "Rivers, who played for the Wolfpack from 1999 through 2003, is now poised to coach them.",
+        "source": "nbcsports.com",
+        "date": "Wed, 11 Nov 2026 22:31:20 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/02e3ba8/2147483647/strip/false/crop/8298x4668+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2F8e%2F003c2f814ade91b79078716051f7%2F2254056340.jpg"
+      },
+      {
         "title": "Vikings are in the four-quarterback club, for now",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-are-in-the-four-quarterback-club-for-now",
         "summary": "The Vikings' addition of quarterback Kirk Cousins comes with a surprising decision on the back end.",
@@ -117,38 +149,6 @@
         "source": "nbcsports.com",
         "date": "Wed, 11 Nov 2026 20:21:40 -0500",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e6dc2b7/2147483647/strip/false/crop/3000x1688+0+313/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8c%2F5b%2Fecc5db3944ba9ed9a60c12555beb%2F2298979725.jpg"
-      },
-      {
-        "title": "Bills-Vikings racks up 21.7 million for Monday Night Football",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-vikings-racks-up-21-7-million-for-monday-night-football",
-        "summary": "The game itself was not much fun to watch, except for Bills fans.",
-        "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 19:56:34 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ccc43e0/2147483647/strip/false/crop/3000x1688+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2F7d%2F2b24e5524618a5cc6dc0acf2d2ec%2F2304358013.jpg"
-      },
-      {
-        "title": "Matthew Stafford a full participant Wednesday; Myles Garrett limited",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matthew-stafford-a-full-participant-wednesday-myles-garrett-limited",
-        "summary": "Rams quarterback Matthew Stafford (right elbow) had full participation on Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 19:38:13 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5937a2b/2147483647/strip/false/crop/2592x1458+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F10%2Ff0c2449f4bd28094b668553d76c1%2F2026-11-08t200754z-2004122495-mt1usatoday30313198-rtrmadp-3-nfl-los-angeles-rams-at-washington-commanders.jpg"
-      },
-      {
-        "title": "Daniel Jones is \"not happy\" with Colts' roster purge",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/daniel-jones-is-not-happy-with-colts-roster-purge",
-        "summary": "The Colts had a mini-fire sale in recent weeks, trading away four starters for future assets.",
-        "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 19:23:04 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/358a1ef/2147483647/strip/false/crop/4699x2643+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6f%2F53%2Fa79b1a7c4d98a7c96c9b4d07a35f%2F2304157402.jpg"
-      },
-      {
-        "title": "Sam Darnold did not practice Wednesday; Drew Lock was limited",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-did-not-practice-drew-lock-was-limited",
-        "summary": "The Seahawks have already ruled out Sam Darnold for Week 10, with the starting quarterback's return potentially coming in Week 12 after the bye.",
-        "source": "nbcsports.com",
-        "date": "Wed, 11 Nov 2026 19:18:57 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/306fef4/2147483647/strip/false/crop/4000x2250+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F26%2F09%2Fc12f580c43debcc49fb0ff5cb3b4%2F2281115364.jpg"
       }
     ]
   }
