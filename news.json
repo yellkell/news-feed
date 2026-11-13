@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-13T04:25:20.124Z",
+  "updated": "2026-11-13T12:26:33.474Z",
   "feed": {
     "VR": [
       {
-        "title": "Borderlands 4 drops to $34.99 on Steam, cutting the co-op looter shooter by 50%",
-        "url": "https://mixed-news.com/en/borderlands-4-steam-sale-half-price-3499/",
-        "summary": "Borderlands 4 is half price on Steam, giving PC players a chance to pick up Gearbox’s co-op looter shooter for $34.99 instead of the store’s displayed $69.99 price.",
+        "title": "Save $230 on Acer’s Predator X27U W2, a 240Hz QD-OLED monitor now $319.99",
+        "url": "https://mixed-news.com/en/acer-predator-x27u-w2-240hz-qd-oled-newegg-319-deal/",
+        "summary": "Newegg has the Acer Predator X27U W2 for $319.99, down $230 from its displayed $549.99 reference price.",
         "source": "mixed-news.com",
-        "date": "Fri, 13 Nov 2026 02:55:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov12-night20-audit07-0.jpg"
+        "date": "Fri, 13 Nov 2026 12:10:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov13-deals-acer-x27u-w2-0.png"
+      },
+      {
+        "title": "Blackmagic Announces Ambisonic Microphone for Immersive Audio on Apple Vision Pro",
+        "url": "https://roadtovr.com/blackmagic-ambisonic-mic-vision-pro/",
+        "summary": "Blackmagic Design today announced a new pro-level microphone designed to capture spatial audio for immersive video production, including built-in support for Apple Vision Pro.",
+        "source": "roadtovr.com",
+        "date": "Fri, 13 Nov 2026 09:51:52 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/blackmagic-ambisonic.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
         "title": "Project Hail Mary: Journey Among The Stars Review - A Squandered Star",
@@ -19,20 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/AHA_MOMENT.webp"
       },
       {
-        "title": "‘Hot Dogs, Horseshoes & Hand Grenades 2’ Review – VR’s Smartest, Most Hardcore Roguelike",
-        "url": "https://roadtovr.com/hot-dogs-horsehoes-2-review-quest-steam-vr/",
-        "summary": "Hot Dogs, Horseshoes & Hand Grenades 2 is here, bringing a heaping dose of the shooting range fun and gun realism you’re used to from the original.",
-        "source": "roadtovr.com",
-        "date": "Thu, 12 Nov 2026 17:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/wiener.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Google’s new Gemini model can score 1,000 questions at once without writing an answer",
-        "url": "https://mixed-news.com/en/google-gemini-decisions-api-1000-questions-model/",
-        "summary": "Google has introduced a Gemini model designed to assess up to 1,000 questions about the same input in one request.",
+        "title": "A $350 price cut brings Gigabyte’s 4K 240Hz QD-OLED gaming monitor down to $649.99",
+        "url": "https://mixed-news.com/en/gigabyte-mo27u2-4k-240hz-qd-oled-newegg-649-deal/",
+        "summary": "Newegg is offering the Gigabyte MO27U2 for $649.99, a $350 saving against its displayed $999.99 reference price.",
         "source": "mixed-news.com",
-        "date": "Fri, 13 Nov 2026 02:25:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov12-night20-ai05-0.webp"
+        "date": "Fri, 13 Nov 2026 11:40:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov13-deals-gigabyte-mo27u2-0.jpg"
       },
       {
         "title": "Hot Dogs, Horseshoes & Hand Grenades 2 Review: Some Sense Of Humor Required",
@@ -43,22 +43,22 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/h3vr2-banner.png"
       },
       {
-        "title": "Android XR Glasses from Warby Parker & Gentle Monster Coming Dec. 10th, Pre-orders Now Live",
-        "url": "https://roadtovr.com/android-xr-warby-parker-gentle-monster-release-date-price/",
-        "summary": "Eyewear giants Gentle Monster and Warby Parker are set to launch their first Android XR smart glasses next month, built in collaboration with Samsung and Google.",
+        "title": "‘Hot Dogs, Horseshoes & Hand Grenades 2’ Review – VR’s Smartest, Most Hardcore Roguelike",
+        "url": "https://roadtovr.com/hot-dogs-horsehoes-2-review-quest-steam-vr/",
+        "summary": "Hot Dogs, Horseshoes & Hand Grenades 2 is here, bringing a heaping dose of the shooting range fun and gun realism you’re used to from the original.",
         "source": "roadtovr.com",
-        "date": "Thu, 12 Nov 2026 13:59:00 +0000",
-        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/android-xr-glasses.jpg?resize=1920%2C1082&quality=89&ssl=1"
+        "date": "Thu, 12 Nov 2026 17:59:00 +0000",
+        "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/wiener.jpg?resize=1920%2C1080&quality=89&ssl=1"
       }
     ],
     "AI": [
       {
-        "title": "Google’s new Gemini model is better at understanding complicated questions",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-        "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly…",
+        "title": "Let’s talk about Jensen Huang’s many affairs!",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+        "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia.",
         "source": "theverge.com",
-        "date": "2026-11-12T16:55:32-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-13T07:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp"
       },
       {
-        "title": "No, AI agents did not discover a previously unknown Maya site",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-        "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico.",
+        "title": "Google’s new Gemini model is better at understanding complicated questions",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+        "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly…",
         "source": "theverge.com",
-        "date": "2026-11-12T14:42:40-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-12T16:55:32-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
       },
       {
-        "title": "Oh, Palantir is ‘progressive’ now, is it?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-        "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold.",
+        "title": "No, AI agents did not discover a previously unknown Maya site",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+        "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico.",
         "source": "theverge.com",
-        "date": "2026-11-12T13:06:54-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-12T14:42:40-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Isaiah Likely's 66-yard TD has Giants leading, puts him over 100 yards",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/isaiah-likelys-66-yard-td-has-giants-leading-puts-him-over-100-yards",
-        "summary": "Isaiah Likely has a career high, with 127 yards on nine catches.",
+        "title": "Bruce Arians says he wants to be a head coach in the NFL next season",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bruce-arians-says-he-wants-to-be-a-head-coach-in-the-nfl-next-season",
+        "summary": "Bruce Arians is thinking about coming out of retirement.",
         "source": "nbcsports.com",
-        "date": "Thu, 12 Nov 2026 22:49:08 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/03c5174/2147483647/strip/false/crop/7920x4455+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2F2d%2Faca606824b83816ee054967231b9%2F2304867014.jpg"
+        "date": "Fri, 13 Nov 2026 06:28:15 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5f8b130/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F458%2F227%2Fnbc_pftpm_steelersbengals_261112.jpg"
       },
       {
-        "title": "Justin Jefferson: It's a joy to see Kirk Cousins take over as a leader",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-jefferson-its-a-joy-to-see-kirk-cousins-take-over-as-a-leader",
-        "summary": "Kirk Cousins is back in Minnesota, and perhaps no one is more excited about that than Justin Jefferson.",
+        "title": "Luke McCaffrey knew the rules and made a heads-up play, causing a kickoff out of bounds",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/luke-mccaffrey-knew-the-rules-and-made-a-heads-up-play-causing-a-kickoff-out-of-bounds",
+        "summary": "Commanders kickoff returner Luke McCaffrey made the smartest play of the game by not returning a kick in Thursday night's win over the Giants.",
         "source": "nbcsports.com",
-        "date": "Thu, 12 Nov 2026 22:26:44 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/10c7b87/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F457%2F751%2Fnbc_pftpm_vikingspackers_261112.jpg"
+        "date": "Fri, 13 Nov 2026 05:06:19 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e82a274/2147483647/strip/false/crop/4822x2712+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F46%2F9f%2F90541a4e415cb1e9ef9106d17c08%2F2303421228.jpg"
       },
       {
-        "title": "Commanders back in front of Giants, 17-14",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-back-in-front-of-giants-17-14",
-        "summary": "The Commanders answered the Giants with a six-play, 77-yard drive.",
+        "title": "Dan Quinn: We needed that, we needed every bit of it",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-we-needed-that-we-needed-every-bit-of-it",
+        "summary": "After the win, the Commanders are 3-5-1, two games behind the division-leading Giants.",
         "source": "nbcsports.com",
-        "date": "Thu, 12 Nov 2026 22:14:26 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/96eb21f/2147483647/strip/false/crop/4308x2423+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2Fde%2Fd1bbf99745a7af12954b0491ee27%2F2304869470.jpg"
+        "date": "Fri, 13 Nov 2026 04:30:39 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8afee19/2147483647/strip/false/crop/4309x2424+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2Fd6%2F9bb07a5b458492c9983725c2437e%2F2304342087.jpg"
       },
       {
-        "title": "Cam Skattebo gives Giants a 14-10 lead",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-gives-giants-a-14-10-lead",
-        "summary": "Cam Skattebo has his second touchdown, and the Giants lead for the second time.",
+        "title": "John Harbaugh expresses confidence in K Dominic Zvada",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-expresses-confidence-in-k-dominic-zvada",
+        "summary": "Giants rookie kicker Dominic Zvada has missed six field goals in nine games.",
         "source": "nbcsports.com",
-        "date": "Thu, 12 Nov 2026 22:06:50 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fdfbd9a/2147483647/strip/false/crop/5022x2825+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F85%2Fba%2Fc852b55e4b88b2ffbea0c2c94bcc%2F2304863617.jpg"
+        "date": "Fri, 13 Nov 2026 00:26:40 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/56e7652/2147483647/strip/false/crop/5870x3302+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5e%2F24%2Faecbeaf8493bbfdce2f6b5a6dfe5%2F2304859933.jpg"
       },
       {
-        "title": "Report: Rex Ryan incident was captured on camera",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rex-ryan-incident-was-captured-on-camera",
-        "summary": "The recent news that Rex Ryan, of all people, allegedly ran over, of all the things, the feet of a pair of pedestrians in Nashville seems too crazy to be true, absent visual…",
+        "title": "Thursday Night Football: Stefon Diggs' late TD gives Commanders 24-21 win",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-stefon-diggs-late-td-gives-commanders-24-21-win",
+        "summary": "The wide receiver caught a 32-yard touchdown pass from Jayden Daniels with 57 seconds left.",
         "source": "nbcsports.com",
-        "date": "Thu, 12 Nov 2026 22:02:24 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0319ba4/2147483647/strip/false/crop/4684x2635+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F0b%2F5b9f2be745ed86bd5866595c7beb%2F823212948.jpg"
+        "date": "Thu, 12 Nov 2026 23:29:09 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/976bffd/2147483647/strip/false/crop/3384x1904+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2Fbc%2F85538b6941558078239e936018e9%2F2304876440.jpg"
       },
       {
-        "title": "Thursday Night Football: Commanders lead Giants 10-7 at halftime",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-commanders-lead-giants-10-7-at-halftime",
-        "summary": "Ben Sinnott caught a 1-yard touchdown pass from Jayden Daniels with 5 seconds remaining in the first half.",
+        "title": "Aaron Donald on having no sacks: \"They come in bunches\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-on-having-no-sacks-they-come-in-bunches",
+        "summary": "Rams defensive tackle Aaron Donald has played seven games this season.",
         "source": "nbcsports.com",
-        "date": "Thu, 12 Nov 2026 21:40:35 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ea557b2/2147483647/strip/false/crop/4377x2462+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F58%2Fe71b0f2743849fc456b7f4f12a8d%2F2304859378.jpg"
+        "date": "Thu, 12 Nov 2026 23:26:01 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ce81dec/2147483647/strip/false/crop/5622x3162+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbf%2F26%2F8ababe874ed4828b30dc07eaf170%2F2304635698.jpg"
       }
     ]
   }
