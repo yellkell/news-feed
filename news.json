@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-14T00:35:28.452Z",
+  "updated": "2026-11-14T07:00:09.504Z",
   "feed": {
     "VR": [
+      {
+        "title": "Lenovo’s 240Hz OLED gaming laptop packs an RTX 5070 Ti for $2,099.99",
+        "url": "https://mixed-news.com/en/lenovo-legion-pro-5i-oled-rtx-5070-ti-laptop-2099/",
+        "summary": "Lenovo’s Legion Pro 5i combines a 240Hz OLED screen with an RTX 5070 Ti laptop GPU for $2,099.99 in the US.",
+        "source": "mixed-news.com",
+        "date": "Sat, 14 Nov 2026 03:39:28 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-lenovo-eNzpyhBP.jpg"
+      },
       {
         "title": "Co-Op Roguelike Space Explorer Sol Protocol Out For PC VR",
         "url": "https://www.uploadvr.com/co-op-roguelike-space-explorer-sol-protocol-out-for-pc-vr/",
@@ -9,14 +17,6 @@
         "source": "uploadvr.com",
         "date": "Fri, 13 Nov 2026 14:40:35 -0800",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/sol-protocol-steam-cover-art.png"
-      },
-      {
-        "title": "ASUS’s 360Hz QD-OLED monitor is $549 at Amazon, $210 off list",
-        "url": "https://mixed-news.com/en/asus-rog-strix-xg27acdng-360hz-oled-monitor-amazon-deal/",
-        "summary": "ASUS’s ROG Strix OLED XG27ACDNG gaming monitor is down to $549 at Amazon, a $210 saving against the retailer’s displayed $759 list price.",
-        "source": "mixed-news.com",
-        "date": "Fri, 13 Nov 2026 20:03:17 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-334-monitor-0.jpg"
       },
       {
         "title": "Apple: We’re Still Committed to VisionOS Platform",
@@ -27,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-video-conference-4.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
+        "title": "Acer’s 32-inch 4K OLED gaming monitor is $649.99, with a 240Hz refresh rate",
+        "url": "https://mixed-news.com/en/acer-predator-x32-4k-oled-240hz-649-newegg/",
+        "summary": "Acer’s Predator X32 X brings a curved 4K QD-OLED screen and a 240Hz refresh rate to $649.99 at Newegg.",
+        "source": "mixed-news.com",
+        "date": "Sat, 14 Nov 2026 02:41:44 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-acer-PD1zNlK5.jpg"
+      },
+      {
         "title": "Mothergunship: Forge Is Available Now On PlayStation VR2",
         "url": "https://www.uploadvr.com/mothergunship-forge-is-available-now-on-playstation-vr2/",
         "summary": "Impact Inked and Flat2VR Studios have surprise-launched Mothergunship: Forge for PlayStation VR2, the latest title in their ongoing initiative to bring established VR games to…",
         "source": "uploadvr.com",
         "date": "Fri, 13 Nov 2026 14:39:33 -0800",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/mother-gunship-forge.jpg"
-      },
-      {
-        "title": "Hisense’s 75-inch 165Hz Mini-LED TV is under $1,000 with $1,002 off list",
-        "url": "https://mixed-news.com/en/hisense-75u7sg-mini-led-tv-amazon-deal-under-1000/",
-        "summary": "Hisense’s 75-inch U7SG Mini-LED TV is available for $997.99 at Amazon, putting the 2026 Google TV model $1,002 below the retailer’s displayed $1,999.99 list price.",
-        "source": "mixed-news.com",
-        "date": "Fri, 13 Nov 2026 19:14:24 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-hisense-0-1.jpg"
       },
       {
         "title": "Blackmagic Announces Ambisonic Microphone for Immersive Audio on Apple Vision Pro",
@@ -103,6 +103,30 @@
     ],
     "NFL": [
       {
+        "title": "At least 50 different quarterbacks will have started games through Week 10",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/at-least-50-different-quarterbacks-will-have-started-games-through-week-10",
+        "summary": "Raiders quarterback Fernando Mendoza will make his first career start on Sunday.",
+        "source": "nbcsports.com",
+        "date": "Fri, 13 Nov 2026 22:00:34 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/162f3bc/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2F8c%2Fc05975a84fb9a938b6d63ff4dfd4%2F2304344756.jpg"
+      },
+      {
+        "title": "FAA lifts ground stop, clearing the way for NFL teams to travel on Saturday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/faa-lifts-ground-stop-clearing-the-way-for-nfl-teams-to-travel-on-saturday",
+        "summary": "Eleven teams will be flying for Sunday games.",
+        "source": "nbcsports.com",
+        "date": "Fri, 13 Nov 2026 21:27:01 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3c8d560/2147483647/strip/false/crop/4852x2729+0+250/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F41%2F183e6c3c425fb52cf8fc556c6c65%2F2304504407.jpg"
+      },
+      {
+        "title": "Victims claim Rex Ryan \"almost killed\" them with truck in Nasvhille",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/victims-claim-rex-ryan-almost-killed-them-with-truck-in-nasvhille",
+        "summary": "The victims in last week's Nashville incident involving former NFL coach Rex Ryan have come forward.",
+        "source": "nbcsports.com",
+        "date": "Fri, 13 Nov 2026 21:10:27 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9f1e38b/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbe%2F95%2Ff991d5b74f5cbc0288a9a65950aa%2F823212962.jpg"
+      },
+      {
         "title": "Drew Lock has another limited practice but does not have an injury designation",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-lock-has-another-limited-practice-but-does-not-have-an-injury-designation",
         "summary": "Drew Lock was limited in practice Friday, his sixth consecutive practice without team drills.",
@@ -125,30 +149,6 @@
         "source": "nbcsports.com",
         "date": "Fri, 13 Nov 2026 17:16:26 -0500",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/e10b1f6/2147483647/strip/false/crop/4421x2487+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F0f%2Fbdee89d24c25a073e3c2438959c5%2F2300563832.jpg"
-      },
-      {
-        "title": "John Harbaugh: Cam Skattebo was not supposed to push on Jameis Winston sneak",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-cam-skattebo-was-not-supposed-to-push-on-jameis-winston-sneak",
-        "summary": "Giants coach John Harbaugh defended running back Cam Skattebo, who stayed in his stance on a crucial Jameis Winston quarterback sneak during Thursday night's loss to the…",
-        "source": "nbcsports.com",
-        "date": "Fri, 13 Nov 2026 17:16:00 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/774a5a2/2147483647/strip/false/crop/5267x2963+0+274/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2Ff3%2F16557aec495fb3fc696312af2c83%2F2305004523.jpg"
-      },
-      {
-        "title": "Nationwide ground stop potentially complicates NFL, college games",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nationwide-ground-stop-potentially-complicates-nfl-college-games",
-        "summary": "Some teams could get to game locations by ground. Many would have a hard time.",
-        "source": "nbcsports.com",
-        "date": "Fri, 13 Nov 2026 17:05:53 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/faed1aa/2147483647/strip/false/crop/5139x2891+0+535/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2Fae%2Fd9311d5e48d6889b4fa7c4016972%2F2255951197.jpg"
-      },
-      {
-        "title": "C Hjalte Froholdt will miss his first game since joining the Cardinals",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-hjalte-froholdt-will-miss-his-first-game-since-joining-the-cardinals",
-        "summary": "Center Hjalte Froholdt will miss his first start since joining the Cardinals in 2023.",
-        "source": "nbcsports.com",
-        "date": "Fri, 13 Nov 2026 16:57:10 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0450559/2147483647/strip/false/crop/4500x2531+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2F97%2F6cfd612b450f9e5e8772a39ae46d%2F2304374092.jpg"
       }
     ]
   }
