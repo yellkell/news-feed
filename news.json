@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-15T09:41:01.817Z",
+  "updated": "2026-11-15T16:35:07.388Z",
   "feed": {
     "VR": [
       {
-        "title": "Pikmin 4’s Switch 2 upgrade brings 72 new challenges, but not all at once",
-        "url": "https://mixed-news.com/en/pikmin-4-switch-2-dandori-academy-launch-upgrade/",
-        "summary": "Pikmin 4 is back on Nintendo Switch 2 with a new challenge mode, sharper visuals and a way to talk to Oatchi.",
+        "title": "God of War Sons of Sparta is coming to PS4 with two new ways to play",
+        "url": "https://mixed-news.com/en/god-of-war-sons-of-sparta-ps4-hermes-erebus-modes/",
+        "summary": "God of War Sons of Sparta is coming to PS4 on November 16, giving players on Sony’s older console a way to experience the 2D adventure.",
         "source": "mixed-news.com",
-        "date": "Sun, 15 Nov 2026 09:17:11 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-nov15-pikmin-dandori-0.jpg"
+        "date": "Sun, 15 Nov 2026 16:05:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-nov15-next17-01-00.jpg"
       },
       {
         "title": "Co-Op Roguelike Space Explorer Sol Protocol Out For PC VR",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/apple-vision-pro-video-conference-4.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "Bambu Lab's P1S Combo 3D printer is $479, $70 below Amazon's typical price",
-        "url": "https://mixed-news.com/en/bambu-lab-p1s-combo-ams-479-amazon/",
-        "summary": "Bambu Lab's P1S Combo is available for $479 at Amazon in the US, bringing the enclosed 3D printer and its Automatic Material System into one package.",
+        "title": "Monster Hunter Wilds' free Switch 2 demo fixes a frustrating black-screen delay",
+        "url": "https://mixed-news.com/en/monster-hunter-wilds-switch-2-demo-black-screen-fix-102/",
+        "summary": "The free Monster Hunter Wilds demo on Nintendo Switch 2 has a new update that should make returning to the HOME Menu less troublesome for some players.",
         "source": "mixed-news.com",
-        "date": "Sun, 15 Nov 2026 09:12:43 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/bambu-p1s-combo-ams-feature.jpg"
+        "date": "Sun, 15 Nov 2026 15:17:11 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-nov15-topup-03-00.jpg"
       },
       {
         "title": "Mothergunship: Forge Is Available Now On PlayStation VR2",
@@ -53,12 +53,12 @@
     ],
     "AI": [
       {
-        "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-        "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University.",
+        "title": "An overview of Jensen Huang’s messy days",
+        "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world.",
         "source": "theverge.com",
-        "date": "2026-11-14T10:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-15T08:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg"
       },
       {
-        "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-        "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-        "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last.",
+        "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+        "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University.",
         "source": "theverge.com",
-        "date": "2026-11-14T07:00:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-14T10:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp"
       },
       {
-        "title": "Amazon has a plan to index the world’s online shopping data",
-        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-        "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own…",
+        "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+        "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+        "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last.",
         "source": "theverge.com",
-        "date": "2026-11-13T18:49:11-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-14T07:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Arch Manning shakes off 3 interceptions, throws game-winning TD pass as Texas beats LSU",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/arch-manning-shakes-off-3-interceptions-throws-game-winning-td-pass-as-texas-beats-lsu",
-        "summary": "As he has been throughout his college football career, Texas quarterback Arch Manning was a mixed bag on Saturday.",
+        "title": "Dolphins, Colts will stage a \"someone has to win\" game",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-colts-will-stage-a-someone-has-to-win-game",
+        "summary": "The Colts need a lot more than a horseshoe to turn their season around.",
         "source": "nbcsports.com",
-        "date": "Sun, 15 Nov 2026 04:17:11 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6509095/2147483647/strip/false/crop/5148x2896+0+268/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdb%2F1d%2F3934b21a45c2b4381f75e8c28132%2F2304679961.jpg"
+        "date": "Sun, 15 Nov 2026 11:18:43 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c0db2d1/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F456%2F775%2Fnbc_pftpm_miavsind_261112.jpg"
       },
       {
-        "title": "Inactives watch: Who's in and who's out?",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active",
-        "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-        "source": "espn.com",
-        "date": "Sat, 14 Nov 2026 21:10:42 EST",
-        "image": ""
-      },
-      {
-        "title": "Lions, Jets renegotiated Andre Cisco trade after concerns arose about his physical",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-jets-renegotiated-andre-cisco-trade-after-concerns-arose-about-his-physical",
-        "summary": "The Broncos-Chargers Daiyan Henley trade wasn't the only one affected by the player's physical.",
+        "title": "Report: Baker Mayfield uncertain for Week 11 due to lower-leg injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-uncertain-for-week-11-due-to-lower-leg-injury",
+        "summary": "The Buccaneers are on their bye week and they're hoping that quarterback Baker Mayfield will be able to play when they return to action in Week 11.",
         "source": "nbcsports.com",
-        "date": "Sun, 15 Nov 2026 03:40:30 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2eac52c/2147483647/strip/false/crop/5338x3003+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F10%2Fd4%2F532580e24ee5a95acd769ea7b6c2%2F2304036769.jpg"
+        "date": "Sun, 15 Nov 2026 11:15:32 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b3bc0a0/2147483647/strip/false/crop/5127x2884+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2F94%2F0d47dc6f49f1baa7440804836ce3%2F2303946984.jpg"
       },
       {
-        "title": "Love throws for 5K yards? Mendoza shines in Vegas? Don't be surprised!",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/50463616/fantasy-football-start-sit-sleepers-breakouts-week-10",
-        "summary": "Elite WRs compensate for the lack of a running game in Green Bay, while there's unwarranted caution for Vegas' QB.",
-        "source": "espn.com",
-        "date": "Sat, 14 Nov 2026 21:10:42 EST",
-        "image": ""
-      },
-      {
-        "title": "Three referees will be working in other roles on Sunday, due to the ground stop",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/three-referees-will-be-working-in-other-roles-on-sunday-due-to-the-ground-stop",
-        "summary": "The full scope of the adjustments to the usual officiating crews isn't officially known.",
+        "title": "Four officials in all will make the road trip from Indy to Cincinnati",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/four-officials-in-all-will-make-the-road-trip-from-indy-to-cincinnati",
+        "summary": "It's officially a road trip.",
         "source": "nbcsports.com",
-        "date": "Sat, 14 Nov 2026 23:50:40 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ae10ca2/2147483647/strip/false/crop/5112x2876+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F70%2Fe8%2F026ddff44b64996fe9a593068071%2F2251325103.jpg"
+        "date": "Sun, 15 Nov 2026 11:06:59 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5e09685/2147483647/strip/false/crop/3576x2012+0+186/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F07%2Ffd4448aa4362a8bc1561f096318f%2F1234698102.jpg"
       },
       {
-        "title": "Chiefs RB Walker (groin) to miss game vs. Bijan, Falcons",
-        "url": "https://www.espn.com/nfl/story/_/id/50480529/chiefs-kenneth-walker-iii-groin-sit-sources-say",
-        "summary": "Chiefs running back Kenneth Walker III will miss Sunday's game due to a groin injury.",
-        "source": "espn.com",
-        "date": "Sat, 14 Nov 2026 21:02:02 EST",
-        "image": ""
+        "title": "Jahmyr Gibbs totals 171 yards in first half as Lions roll over Patriots",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-totals-171-yards-in-first-half-as-lions-roll-over-patriots",
+        "summary": "For the second consecutive week, the Patriots' defense is having a rough game.",
+        "source": "nbcsports.com",
+        "date": "Sun, 15 Nov 2026 11:06:22 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/03f9f31/2147483647/strip/false/crop/3897x2192+0+202/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2F18%2F9bdfa78d4831a0ec617a584d1b31%2F2305231527.jpg"
+      },
+      {
+        "title": "Drake Maye out for game with ankle injury after getting sacked by Aidan Hutchinson",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-out-for-game-with-ankle-injury-after-getting-sacked-by-aidan-hutchinson",
+        "summary": "Hutchinson was also injured after he got up and celebrated.",
+        "source": "nbcsports.com",
+        "date": "Sun, 15 Nov 2026 10:45:47 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/570b048/2147483647/strip/false/crop/3120x1755+0+267/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Fee%2F9f91730246a5946b96ae357bae90%2F2305227459.jpg"
+      },
+      {
+        "title": "Drake Maye limps to locker room, Tommy DeVito in at QB for Patriots in Germany",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-limps-to-locker-room-tommy-devito-in-at-qb-for-patriots-in-germany",
+        "summary": "Maye was injured when Aidan Hutchinson sacked him. Hutchinson was also injured while celebrating the sack.",
+        "source": "nbcsports.com",
+        "date": "Sun, 15 Nov 2026 10:00:28 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/89c944a/2147483647/strip/false/crop/3743x2105+0+219/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6d%2Fd2%2Fb358ede5452b81b2b0f6ae92781d%2F2305227463.jpg"
       }
     ]
   }
