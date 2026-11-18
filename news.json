@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-17T18:55:40.770Z",
+  "updated": "2026-11-18T01:27:41.366Z",
   "feed": {
     "VR": [
       {
-        "title": "GTA 6 brings Vice City to NBA 2K27, with a new season and a GTA+ perk",
-        "url": "https://mixed-news.com/en/gta-6-nba-2k27-vice-city-season-3-gta-plus/",
-        "summary": "Vice City is coming to NBA 2K27, with a themed season, new courts and a special edition arriving shortly after the launch of Grand Theft Auto VI.",
+        "title": "Logitech’s G305 wireless gaming mouse is $29.49 at Amazon, $20.50 under list",
+        "url": "https://mixed-news.com/en/logitech-g305-wireless-gaming-mouse-29-amazon-deal/",
+        "summary": "Logitech’s black G305 LIGHTSPEED wireless gaming mouse is $29.49 at Amazon, putting a 12,000 DPI sensor and a wireless USB receiver within reach for less than $30.",
         "source": "mixed-news.com",
-        "date": "Tue, 17 Nov 2026 18:38:31 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-nov17-gta-6-nba-2k27-vice-city-season-3-gta-pl-0.jpg"
+        "date": "Tue, 17 Nov 2026 21:41:15 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-g305hz-XFYtThXx.jpg"
       },
       {
         "title": "The First $100 You Should Spend on Meta Quest Games",
@@ -27,12 +27,12 @@
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/coltrane-1.png"
       },
       {
-        "title": "Linus Tech Tips calls Titanfall 2 mod “the best experience I’ve ever had in VR”",
-        "url": "https://mixed-news.com/en/linus-tech-tips-titanfall-2-vr-mod-best-experience/",
-        "summary": "Titanfall 2 was not designed as a virtual reality game, but Linus Tech Tips has been trying it in a headset thanks to an unofficial mod.",
+        "title": "Warhammer 40,000: Rogue Trader’s final expansion adds a flame-wielding companion",
+        "url": "https://mixed-news.com/en/warhammer-rogue-trader-stella-processional-of-the-damned-expansion/",
+        "summary": "A woman who can see the future and summon flames is joining the crew in Warhammer 40,000: Rogue Trader’s final expansion.",
         "source": "mixed-news.com",
-        "date": "Tue, 17 Nov 2026 17:54:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/10/ss_9ed56a85aef47554156999dfbd4091d225da2a47.1920x1080-1.jpg"
+        "date": "Tue, 17 Nov 2026 20:43:17 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-nov17-warhammer-rogue-trader-stella-procession-0.jpg"
       },
       {
         "title": "Apple Reportedly Finalizes Smart Glasses Hardware, Puts Siri at Strategic Center",
@@ -53,12 +53,28 @@
     ],
     "AI": [
       {
-        "title": "The DOJ says it’s investigating Megaspeed",
-        "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-        "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen…",
+        "title": "Satya Nadella says he’s AGI-pilled now",
+        "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+        "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change…",
         "source": "theverge.com",
-        "date": "2026-11-17T11:19:03-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-17T18:41:18-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+        "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+        "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+        "source": "arstechnica.com",
+        "date": "Tue, 17 Nov 2026 22:32:16 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg"
+      },
+      {
+        "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+        "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+        "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible…",
+        "source": "theverge.com",
+        "date": "2026-11-17T16:40:59-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -69,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg"
       },
       {
-        "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-        "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-        "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The…",
+        "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+        "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+        "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.",
         "source": "theverge.com",
-        "date": "2026-11-17T11:09:57-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-17T16:00:55-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Mon, 16 Nov 2026 20:37:47 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg"
-      },
-      {
-        "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-        "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-        "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry.",
-        "source": "theverge.com",
-        "date": "2026-11-16T18:17:34-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-        "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-        "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-        "source": "arstechnica.com",
-        "date": "Fri, 13 Nov 2026 16:26:32 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Brian Flores: Vikings plan to rotate players in order to deal with altitude in Mexico City",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-flores-vikings-plan-to-rotate-players-in-order-to-deal-with-altitude-in-mexico-city",
-        "summary": "The 49ers are spending the week in Colorado in order to acclimate to the altitude at which their Week 11 game in Mexico City will be played.",
+        "title": "Chiefs worked out K Matt Prater on Tuesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-worked-out-k-matt-prater-on-tuesday",
+        "summary": "The Chiefs worked out free agent kicker Matt Prater on Tuesday, according to the NFL's personnel notice.",
         "source": "nbcsports.com",
-        "date": "Tue, 17 Nov 2026 13:50:09 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5ace4ed/2147483647/strip/false/crop/5067x2850+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F66%2F9a%2F632d0b264fbf8829fbc635bd19d4%2F2301662052.jpg"
+        "date": "Tue, 17 Nov 2026 19:10:37 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/dc6a412/2147483647/strip/false/crop/8286x4661+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F67%2Fd2c0557549e981f7ddc5e1678710%2F2257216527.jpg"
       },
       {
-        "title": "CB Nazeeh Johnson visited the Steelers Tuesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-nazeeh-johnson-visited-steelers-tuesday",
-        "summary": "Cornerback Nazeeh Johnson is trying to find a way back into the NFL.",
+        "title": "Texans CB Kamari Lassiter downgraded to a non-participant Tuesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-cb-kamari-lassiter-downgraded-to-a-non-participant-tuesday",
+        "summary": "The Texans' injury report on Tuesday had only one change from the estimated report on Monday.",
         "source": "nbcsports.com",
-        "date": "Tue, 17 Nov 2026 13:11:04 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/2d3a37f/2147483647/strip/false/crop/5876x3305+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F51%2F5c%2F84da1fe84c388ae624f4790838ef%2F2290074231.jpg"
+        "date": "Tue, 17 Nov 2026 17:48:05 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4814b53/2147483647/strip/false/crop/7161x4028+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F21%2Fc2%2F38b395e049798e7303171c6be5d3%2F2304354914.jpg"
       },
       {
-        "title": "Chargers' win puts Titans in the driver's seat for the first pick in the 2027 NFL draft",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-win-puts-titans-in-the-drivers-seat-for-the-first-pick-in-the-2027-nfl-draft",
-        "summary": "There are no winless teams in the NFL after the Chargers won on Monday night.",
+        "title": "Sauce Gardner, Charvarius Ward listed as out of Colts practice Tuesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sauce-gardner-charvarius-ward-listed-as-out-of-colts-practice-tuesday",
+        "summary": "The Colts listed both of their starting cornerbacks as out of practice on Tuesday.",
         "source": "nbcsports.com",
-        "date": "Tue, 17 Nov 2026 12:36:08 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3c2e946/2147483647/strip/false/crop/3000x1688+0+156/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2F8c%2Fd920b3454d3a97b7cb7bcb19e0f4%2F2305311220.jpg"
+        "date": "Tue, 17 Nov 2026 17:47:02 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ffcdb0b/2147483647/strip/false/crop/8097x4555+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdb%2F0d%2F65be6dc04a51b39028cb59a23f7b%2F2305404143.jpg"
       },
       {
-        "title": "Texans place Azeez Al-Shaair on injured reserve",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-place-azeez-al-shaair-on-injured-reserve",
-        "summary": "The Texans played without linebacker Azeez Al-Shaair in last Sunday's loss to the Browns and they'll remain without him for the next month.",
+        "title": "Cardinals sign Jared Harrison-Hunte, Wydett Williams to 53-man roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-sign-jared-harrison-hunte-wydett-williams-to-53-man-roster",
+        "summary": "The Cardinals announced on Tuesday that they’ve made a series of roster moves.",
         "source": "nbcsports.com",
-        "date": "Tue, 17 Nov 2026 11:47:41 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/6dd71b5/2147483647/strip/false/crop/4596x2585+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F12%2Fa259b9f740d389298b2c1622ff5e%2F2302472353.jpg"
+        "date": "Tue, 17 Nov 2026 17:08:10 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/daf5eab/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F99%2Fe4%2F1a100a364b56a16a8b73aa247b8a%2F2294574875.jpg"
       },
       {
-        "title": "All four NFC South teams are terrible at home, and one will get a home playoff game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/all-four-nfc-south-teams-are-terrible-at-home-and-one-will-get-a-home-playoff-game",
-        "summary": "The NFL's playoff seeding procedures guarantee that an NFC South team will host a playoff game.",
+        "title": "Dan Campbell won't wallow in \"what ifs\" arising from injuries",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-wont-wallow-in-what-ifs-arising-from-injuries",
+        "summary": "The Lions have, in recent weeks, lost both linebacker Jack Campbell (neck) and defensive end Aidan Hutchinson (knee) to significant injuries.",
         "source": "nbcsports.com",
-        "date": "Tue, 17 Nov 2026 11:22:32 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/fb37394/2147483647/strip/false/crop/4145x2332+0+216/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffe%2Fcd%2F67bb5c024a6882c2316e4d593bf4%2F2304776297.jpg"
+        "date": "Tue, 17 Nov 2026 17:05:21 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/45985d3/2147483647/strip/false/crop/7162x4029+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F20%2Fed%2F685d45ce4a1fa7dfc19495a6bcda%2F2026-11-15t155508z-2023717521-mt1usatoday30357725-rtrmadp-3-nfl-new-england-patriots-at-detroit-lions.jpg"
       },
       {
-        "title": "The prediction markets are questioning Mike Vrabel's job security, again",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-prediction-markets-are-questioning-mike-vrabels-job-security-again",
-        "summary": "During the offseason, the leading prediction markets were calling into question the future of Patriots coach Mike Vrabel.",
+        "title": "Chiefs sign RB E.J. Smith, Emmitt's son, to the practice squad",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-sign-rb-e-j-smith-emmitts-son-to-the-practice-squad",
+        "summary": "The Chiefs signed running back E.J.",
         "source": "nbcsports.com",
-        "date": "Tue, 17 Nov 2026 11:11:47 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b630bfc/2147483647/strip/false/crop/8017x4510+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff5%2F46%2Fd8df90f446f6b33ec32881343924%2F2026-11-15t172859z-1348482822-mt1usatoday30358067-rtrmadp-3-nfl-new-england-patriots-at-detroit-lions.jpg"
+        "date": "Tue, 17 Nov 2026 16:57:02 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/421132e/2147483647/strip/false/crop/4189x2356+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffc%2F0b%2Fbe15b8e543479168d632fcad6aff%2F2291948328.jpg"
       }
     ]
   }
