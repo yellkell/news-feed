@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-18T23:35:07.926Z",
+  "updated": "2026-11-19T04:30:12.114Z",
   "feed": {
     "VR": [
       {
-        "title": "This PlayStation adventure puts you in the paws of a dog looking for his missing owner",
-        "url": "https://mixed-news.com/en/hounded-border-collie-adventure-ps5-pc-2027/",
-        "summary": "There are plenty of games that ask you to save the world. Hounded starts with a more personal mission: you are a Border Collie trying to find your missing owner. Developer IMPRNT…",
+        "title": "SteamOS preview adds Nvidia and HDMI upgrades, then fixes two problems in the first build",
+        "url": "https://mixed-news.com/en/steamos-preview-nvidia-hdmi-3-10-1-forza-display-fix/",
+        "summary": "Valve's latest SteamOS preview gives PC players several reasons to pay attention: Nvidia graphics cards based on Turing and newer architectures gain mesh shader support, while AMD…",
         "source": "mixed-news.com",
-        "date": "Wed, 18 Nov 2026 23:17:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-nov17-hounded-border-collie-adventure-ps5-pc-2-0.jpg"
+        "date": "Thu, 19 Nov 2026 03:59:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-nov17-steamos-preview-nvidia-hdmi-3-10-1-forza-0.jpg"
+      },
+      {
+        "title": "Testing Apexinno's F3 Woven Fabric Head Strap For Quest 3 & 3S",
+        "url": "https://www.uploadvr.com/testing-apexinnos-f3-woven-fabric-head-strap-for-quest-3-3s/",
+        "summary": "We tested the Apexinno F3 Woven Fabric Head Strap for Quest 3 and 3S, finding it a comfortable and versatile soft strap option for both laying down and general VR use.",
+        "source": "uploadvr.com",
+        "date": "Wed, 18 Nov 2026 16:21:04 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/IMG_0087.JPEG"
       },
       {
         "title": "The First $100 You Should Spend on Meta Quest Games",
@@ -19,20 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/04/quest-3s-lifestyle-3.jpg?resize=1920%2C1080&quality=89&ssl=1"
       },
       {
-        "title": "New Trailer Reveals First Look At Coltrane, A New Immersive VR Series",
-        "url": "https://www.uploadvr.com/new-trailer-coltrane-a-new-immersive-vr-series/",
-        "summary": "A new teaser trailer gives us a first look at Coltrane, a VR narrative experience from the makers of VR Noir.",
-        "source": "uploadvr.com",
-        "date": "Tue, 17 Nov 2026 07:21:51 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/coltrane-1.png"
+        "title": "“We hope you have fun”: Rockstar boss Sam Houser welcomes players to GTA 6",
+        "url": "https://mixed-news.com/en/rockstar-sam-houser-message-gta-6-launch-players/",
+        "summary": "After years of anticipation, Grand Theft Auto VI is beginning to reach players around the world.",
+        "source": "mixed-news.com",
+        "date": "Thu, 19 Nov 2026 03:07:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov12-requested-gta-unboxing-1.jpg"
       },
       {
-        "title": "Samsung’s 57-inch 240Hz Odyssey Neo G9 is $650 off at Amazon",
-        "url": "https://mixed-news.com/en/samsung-57-inch-odyssey-neo-g9-240hz-amazon-650-off/",
-        "summary": "A 57-inch gaming monitor is a serious commitment to desk space, but Samsung’s curved Odyssey Neo G9 is available at a substantial discount.",
-        "source": "mixed-news.com",
-        "date": "Wed, 18 Nov 2026 22:30:10 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-nov17-samsung-57-inch-odyssey-neo-g9-240hz-ama-0.jpg"
+        "title": "Town-Building Strategy Game Outlanders Comes To Quest & PC VR In December",
+        "url": "https://www.uploadvr.com/town-building-strategy-game-outlanders-comes-to-quest-pc-vr-in-december/",
+        "summary": "Outlanders VR, a port of the original town-building strategy game, comes to PC VR & Quest on December 10.",
+        "source": "uploadvr.com",
+        "date": "Wed, 18 Nov 2026 16:18:07 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/outlanders-vr.png"
       },
       {
         "title": "Apple Reportedly Finalizes Smart Glasses Hardware, Puts Siri at Strategic Center",
@@ -41,24 +49,16 @@
         "source": "roadtovr.com",
         "date": "Tue, 17 Nov 2026 13:25:27 +0000",
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2023/05/apple-wwdc-2023.jpg?resize=1920%2C1080&quality=89&ssl=1"
-      },
-      {
-        "title": "Android XR Gets Spatial Container Support To Add Volumes To 2D Apps",
-        "url": "https://www.uploadvr.com/android-xr-gets-spatial-container-support-to-enable-multi-engine-apps/",
-        "summary": "Android XR now supports the OpenXR Spatial Container extensions to enable multi-engine apps, though notably limited to Full Space mode.",
-        "source": "uploadvr.com",
-        "date": "Mon, 16 Nov 2026 08:35:55 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/ThumbNBA-1.png"
       }
     ],
     "AI": [
       {
-        "title": "Trump’s latest land grab is an AI hub in the Philippines",
-        "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-        "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler.",
+        "title": "The nation’s largest school districts consider ditching Google Search",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+        "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according…",
         "source": "theverge.com",
-        "date": "2026-11-18T14:40:36-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-18T18:18:35-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
@@ -69,12 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg"
       },
       {
-        "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
-        "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-        "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have…",
+        "title": "Trump’s latest land grab is an AI hub in the Philippines",
+        "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+        "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler.",
         "source": "theverge.com",
-        "date": "2026-11-18T14:30:00-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/acastro_STK083_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-18T14:40:36-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg"
       },
       {
-        "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-        "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-        "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms…",
+        "title": "Nvidia’s rise, visualized",
+        "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+        "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have…",
         "source": "theverge.com",
-        "date": "2026-11-18T14:07:29-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-18T14:30:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002526/acastro_STK083_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
+        "title": "Kyle Shanahan on the Brian Flores defense: \"It's not just a fad\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-on-the-brian-flores-defense-its-not-just-a-fad",
+        "summary": "49ers coach says the Minnesota defense puts pressure on everyone involved.",
+        "source": "nbcsports.com",
+        "date": "Wed, 18 Nov 2026 23:02:34 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cb089fb/2147483647/strip/false/crop/3942x2217+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2Ffc%2Fdbd8728d4437a8020cb446d03974%2F2301881678.jpg"
+      },
+      {
+        "title": "Nick Bosa: I don't think I've played my best football",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-i-dont-think-ive-played-my-best-football",
+        "summary": "49ers defensive end Nick Bosa's only stats in Sunday's 46-40 win over the Cowboys were one quarterback hit, four pressures and three penalties in 34 snaps.",
+        "source": "nbcsports.com",
+        "date": "Wed, 18 Nov 2026 22:25:46 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c386a01/2147483647/strip/false/crop/3484x1960+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2F48%2Fc8c3cb014c2880324ffaa5cfce5b%2F2305728594.jpg"
+      },
+      {
+        "title": "Brock Bowers did not practice Wednesday with ankle, quad injuries",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-bowers-did-not-practice-wednesday-with-ankle-quad-injuries",
+        "summary": "Raiders coach Klint Kubiak called tight end Brock Bowers \"day-to-day\" earlier this week, but Wednesday was not the day.",
+        "source": "nbcsports.com",
+        "date": "Wed, 18 Nov 2026 21:57:02 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1ec0c33/2147483647/strip/false/crop/5395x3035+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9b%2F3e%2Fbfdedc11404bb1276a52fb13b6ce%2F2304797076.jpg"
+      },
+      {
+        "title": "Diego Pavia is the first pick in the UFL draft",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/diego-pavia-is-the-first-pick-in-the-ufl-draft",
+        "summary": "Quarterback Diego Pavia went unselected in the 2026 NFL draft.",
+        "source": "nbcsports.com",
+        "date": "Wed, 18 Nov 2026 21:44:41 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5b09256/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F32%2F874%2Fnbc_pft_stateofcowboys_261118.jpg"
+      },
+      {
+        "title": "Mike Evans, Dre Greenlaw don't practice Wednesday, 49ers hope they can on Thursday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-evans-dre-greenlaw-dont-practice-wednesday-49ers-hope-they-can-on-thursday",
+        "summary": "Wide receiver Mike Evans didn't travel with the 49ers for last Sunday's game in Dallas, but he was in Colorado Springs with the team as they prepare for their game against the…",
+        "source": "nbcsports.com",
+        "date": "Wed, 18 Nov 2026 18:30:36 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/9b758f7/2147483647/strip/false/crop/7712x4338+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2F91%2F8d3911ba4c7f9e78792f3b0ce8d0%2F2301575760.jpg"
+      },
+      {
         "title": "Steelers-Bengals on Sunday Night Football draws 21.519 million viewers",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-bengals-on-sunday-night-football-draws-21-519-million-viewers",
         "summary": "The game was never competitive.",
         "source": "nbcsports.com",
         "date": "Wed, 18 Nov 2026 18:06:18 -0500",
         "image": "https://nbcsports.brightspotcdn.com/dims4/default/db4261b/2147483647/strip/false/crop/5472x3078+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fee%2F0f%2F745675844aab8a042e4a2979c5c0%2F2305144282.jpg"
-      },
-      {
-        "title": "Marlon Humphrey apologizes for saying Baltimore is \"best at making criminals\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marlon-humphrey-apologizes-for-saying-baltimore-is-best-at-making-criminals",
-        "summary": "Ravens cornerback Marlon Humphrey found himself in some hot water for comments he made about Baltimore on Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 18 Nov 2026 18:05:41 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/c9891c9/2147483647/strip/false/crop/6296x3542+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2Fe3%2F8574416c4be6bbc8e26d92e24741%2F2305651215.jpg"
-      },
-      {
-        "title": "T.J. Hockenson, Andrew Van Ginkel listed as limited participants on Wednesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/t-j-hockenson-andrew-van-ginkel-listed-as-limited-participants-on-wednesday",
-        "summary": "Vikings tight end T.J.",
-        "source": "nbcsports.com",
-        "date": "Wed, 18 Nov 2026 17:40:09 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d7d598d/2147483647/strip/false/crop/7435x4182+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F08%2F96%2F52675f0b4959a3a42a1488ef8e8c%2F2304973190.jpg"
-      },
-      {
-        "title": "Dalton Kincaid, Christian Benford listed as out of Bills practice",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dalton-kincaid-christian-benford-listed-as-out-of-bills-practice",
-        "summary": "The Bills listed starters on both sides of the ball as out of practice on Wednesday.",
-        "source": "nbcsports.com",
-        "date": "Wed, 18 Nov 2026 17:02:43 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/67b72c6/2147483647/strip/false/crop/5303x2983+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa2%2F7b%2F8adefc8a479c8e333382ae5a29de%2F2304970918.jpg"
-      },
-      {
-        "title": "Eagles claim OL Ajani Cornelius off waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-claim-ol-ajani-cornelius-off-waivers",
-        "summary": "The Eagles have added an offensive lineman.",
-        "source": "nbcsports.com",
-        "date": "Wed, 18 Nov 2026 16:56:49 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e031ff1/2147483647/strip/false/crop/6500x3656+0+226/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2Fab%2F3378f6a040dab73022f30bdbe3c2%2F2301037738.jpg"
-      },
-      {
-        "title": "Cam Skattebo says he's done doing backflips after Aidan Hutchinson injury",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-says-hes-done-doing-backflips-after-aidan-hutchinson-injury",
-        "summary": "Giants running back Cam Skattebo's penchant for backflips became a talking point during his recovery from last season's ankle injury, but he resumed doing them after touchdowns…",
-        "source": "nbcsports.com",
-        "date": "Wed, 18 Nov 2026 16:49:33 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b782f7f/2147483647/strip/false/crop/7908x4448+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdd%2F22%2Fa3a75fec42789393d281b08bc0be%2F2305004831.jpg"
       }
     ]
   }
