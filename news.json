@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-20T18:55:34.902Z",
+  "updated": "2026-11-21T00:31:48.281Z",
   "feed": {
     "VR": [
       {
-        "title": "HyperX's Cloud III S wireless gaming headset drops by $80 to $99.69 at Amazon",
-        "url": "https://mixed-news.com/en/hyperx-cloud-iii-s-wireless-gaming-headset-amazon-80-off/",
-        "summary": "The HyperX Cloud III S Wireless brings both a gaming dongle and Bluetooth to the same headset, and it is now easier on the budget.",
+        "title": "RTX 5080 and Ryzen 9 X3D laptop with 240Hz OLED is $200 below list",
+        "url": "https://mixed-news.com/en/gigabyte-aorus-master-16-rtx-5080-9955hx3d-oled-amazon-200-off/",
+        "summary": "A high-end gaming laptop with an OLED screen usually asks a lot of your budget, but Amazon has a $200 saving on the GIGABYTE AORUS Master 16 Gen 2.",
         "source": "mixed-news.com",
-        "date": "Fri, 20 Nov 2026 18:35:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/ra6ycjFYHLWnndRxRMNKe9.jpg"
+        "date": "Fri, 20 Nov 2026 23:22:38 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/tQqhXHx3zrSg5DGbWSB3WB.jpg"
       },
       {
         "title": "Gucci's Vision Pro Runway Show Offers Immersive Access, But The Luxury Experience Falls Short",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vr-mod-titanfall-2.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "Save $40 on Corsair's Scimitar RGB Elite MMO mouse with 12 adjustable side buttons",
-        "url": "https://mixed-news.com/en/corsair-scimitar-rgb-elite-wired-mmo-mouse-amazon-40-off/",
-        "summary": "If your favorite MMO has more abilities than your keyboard shortcuts can comfortably handle, Corsair's Scimitar RGB Elite is worth a look.",
+        "title": "Amazon has AOC’s 260Hz IPS gaming monitor for $93.08",
+        "url": "https://mixed-news.com/en/aoc-24g51ze-260hz-gaming-monitor-amazon-under-95/",
+        "summary": "If you want a fast screen for PC games without spending a fortune, Amazon has the AOC 24G51ZE for $93.08.",
         "source": "mixed-news.com",
-        "date": "Fri, 20 Nov 2026 18:05:00 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/j5xeVRHL4UwGC7w6sb6c94.jpg"
+        "date": "Fri, 20 Nov 2026 23:13:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/d3Ex7HYAP5wMThJLtWHoBX.jpg"
       },
       {
         "title": "Quest Gets 3D Movie Rentals & Purchases In The US, Including Billie Eilish Concert Film",
@@ -52,6 +52,22 @@
       }
     ],
     "AI": [
+      {
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+        "source": "arstechnica.com",
+        "date": "Fri, 20 Nov 2026 20:59:08 +0000",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg"
+      },
+      {
+        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing…",
+        "source": "theverge.com",
+        "date": "2026-11-20T13:50:19-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
       {
         "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
@@ -83,72 +99,56 @@
         "source": "arstechnica.com",
         "date": "Thu, 19 Nov 2026 11:13:01 +0000",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg"
-      },
-      {
-        "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-        "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
-        "source": "theverge.com",
-        "date": "2026-11-20T07:30:47-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-        "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-        "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-        "source": "arstechnica.com",
-        "date": "Tue, 17 Nov 2026 22:32:16 +0000",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg"
       }
     ],
     "NFL": [
       {
-        "title": "Ravens rule out Nnamdi Madubuike, Jaylinn Hawkins",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-rule-out-nnamdi-madubuike-jaylinn-hawkins",
-        "summary": "Ravens head coach Jesse Minter ruled out a pair of players for Sunday's road game against the Panthers.",
+        "title": "Carson Beck listed as questionable, but Josh Johnson is expected to start",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-listed-as-questionable-but-josh-johnson-is-expected-to-start",
+        "summary": "Josh Johnson is expected to start Sunday's game against the Chiefs, but the Cardinals have not ruled out Carson Beck.",
         "source": "nbcsports.com",
-        "date": "Fri, 20 Nov 2026 13:48:58 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/142d47d/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F12%2F3908ae5b45c089ecd15ab3864887%2F2298234718.jpg"
+        "date": "Fri, 20 Nov 2026 19:08:19 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0b6af95/2147483647/strip/false/crop/7604x4277+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Fd8%2Fcbef4cfb43a0941f16ae3c3c0ca1%2F2305308453.jpg"
       },
       {
-        "title": "Colts release QB Jones, turn to Richardson for next start",
-        "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
-        "summary": "The Colts have released quarterback Daniel Jones and are turning to Anthony Richardson Sr. to start going forward, coach Shane Steichen announced.",
-        "source": "espn.com",
-        "date": "Fri, 20 Nov 2026 13:32:24 EST",
-        "image": ""
-      },
-      {
-        "title": "NFL Week 11 best bets for Sunday's games",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
-        "summary": "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays.",
-        "source": "espn.com",
-        "date": "Fri, 20 Nov 2026 13:30:15 EST",
-        "image": ""
-      },
-      {
-        "title": "Christian Benford and Dorian Williams ruled out, Dalton Kincaid doubtful for Bills",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-benford-and-dorian-williams-ruled-out-dalton-kincaid-doubtful-for-bills",
-        "summary": "The Bills will be missing a couple of defensive players for Sunday's game against the Dolphins.",
+        "title": "Brock Bowers doesn't know whether he will play Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-bowers-doesnt-know-whether-he-will-play-sunday",
+        "summary": "Raiders tight end Brock Bowers is listed as questionable for Sunday's game against the Broncos.",
         "source": "nbcsports.com",
-        "date": "Fri, 20 Nov 2026 13:24:08 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/b6ce2af/2147483647/strip/false/crop/4839x2722+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F01%2F32%2F36cf26e74fd5b38f7b0468796240%2F2303585914.jpg"
+        "date": "Fri, 20 Nov 2026 18:37:57 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/51b57ff/2147483647/strip/false/crop/5534x3113+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F94%2F58%2F5a367f2f4d9b829e6cbf71e2115e%2F2305481919.jpg"
       },
       {
-        "title": "Burrow odds-on favorite for MVP, Gibbs and JSN in tight race for OPOY",
-        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
-        "summary": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
-        "source": "espn.com",
-        "date": "Fri, 20 Nov 2026 13:30:14 EST",
-        "image": ""
-      },
-      {
-        "title": "Justin Reid posts farewell message to Saints, New Orleans",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-reid-posts-farewell-message-to-saints-new-orleans",
-        "summary": "The Saints have not announced any move involving safety Justin Reid, but it seems one is coming soon.",
+        "title": "S Talanoa Hufanga, WR Jaylen Waddle, CB Riley Moss set to return Sunday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/s-talanoa-hufanga-wr-jaylen-waddle-cb-riley-moss-set-to-return-sunday",
+        "summary": "The Broncos' injury report Friday was not about who has a status, but who doesn't.",
         "source": "nbcsports.com",
-        "date": "Fri, 20 Nov 2026 13:14:40 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/88fd091/2147483647/strip/false/crop/5624x3164+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2F76%2F5818e567485d982be651a0fbd8ca%2F2304701409.jpg"
+        "date": "Fri, 20 Nov 2026 17:03:13 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b737a1/2147483647/strip/false/crop/7467x4200+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2Ff6%2F08942f7a43a6951cdea118acc9d0%2F2300753865.jpg"
+      },
+      {
+        "title": "Colts officially place Daniel Jones on waivers",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-officially-place-daniel-jones-on-waivers",
+        "summary": "Daniel Jones is officially on the waiver wire.",
+        "source": "nbcsports.com",
+        "date": "Fri, 20 Nov 2026 17:00:57 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5fc6943/2147483647/strip/false/crop/4729x2660+0+246/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2F45%2Fb248521348b096a6ad8702bec9b6%2F2305397973.jpg"
+      },
+      {
+        "title": "Chargers rule out LB Daiyan Henley, list WR Ladd McConkey as questionable",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-rule-out-lb-daiyan-henley-list-wr-ladd-mcconkey-as-questionable",
+        "summary": "Chargers linebacker Daiyan Henley missed practice this week with knee soreness, and the team has ruled him out for Sunday's game against the Jets.",
+        "source": "nbcsports.com",
+        "date": "Fri, 20 Nov 2026 16:48:59 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/58c34a6/2147483647/strip/false/crop/7506x4222+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2d%2F73%2Fcacf9ea44d6abe88f38c830b5231%2F2305925709.jpg"
+      },
+      {
+        "title": "NFL will consider requiring minimum-night stays for international games",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-consider-requiring-minimum-night-stays-for-international-games",
+        "summary": "After the 49ers and the Rams took dramatically different approaches to their arrival in Melbourne for the first-ever Australia game, we raised the question of whether the league…",
+        "source": "nbcsports.com",
+        "date": "Fri, 20 Nov 2026 16:36:00 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/8484e59/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2Fd3%2F8b1f551b42f696b0099d780706d1%2F2297954333.jpg"
       }
     ]
   }
