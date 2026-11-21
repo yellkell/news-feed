@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-21T07:41:25.585Z",
+  "updated": "2026-11-21T15:37:10.446Z",
   "feed": {
     "VR": [
       {
-        "title": "Gigabyte’s 27-inch 240Hz OLED gaming monitor is $297.49 at Amazon",
-        "url": "https://mixed-news.com/en/gigabyte-go27q24g-240hz-oled-gaming-monitor-amazon-297/",
-        "summary": "A 27-inch OLED gaming monitor for less than $300 is worth a look if you have been waiting to upgrade your display.",
+        "title": "Meta Quest owners can watch LSU vs Tennessee live in VR without an ESPN subscription",
+        "url": "https://mixed-news.com/en/meta-quest-lsu-tennessee-free-vr-college-football-stream/",
+        "summary": "Meta Quest 3 and Quest 3S owners in the US can watch LSU take on Tennessee live in immersive 180-degree video on November 21.",
         "source": "mixed-news.com",
-        "date": "Sat, 21 Nov 2026 06:59:10 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/SXdT9YB7MVBunJ5gE5J78V.jpg"
+        "date": "Sat, 21 Nov 2026 15:07:00 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2024/11/Meta-Quest-3S-Headset-Controllers.jpg"
       },
       {
         "title": "Gucci's Vision Pro Runway Show Offers Immersive Access, But The Luxury Experience Falls Short",
@@ -27,12 +27,12 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/11/vr-mod-titanfall-2.jpg?resize=1800%2C1200&quality=89&ssl=1"
       },
       {
-        "title": "WD’s 20TB desktop hard drive is $330 below list at Amazon",
-        "url": "https://mixed-news.com/en/wd-elements-20tb-desktop-hard-drive-amazon-330-off/",
-        "summary": "If your PC is running out of room for games, videos or backups, Amazon has a sizeable storage deal worth a look.",
+        "title": "MSI’s RTX 5070 Ti Vector laptop is $300 off, with another offer at Walmart",
+        "url": "https://mixed-news.com/en/msi-vector-16-rtx-5070-ti-laptop-300-off-msi-walmart/",
+        "summary": "If you have been waiting for an RTX 5070 Ti gaming laptop to come down in price, MSI has taken $300.99 off the Vector 16 HX AI.",
         "source": "mixed-news.com",
-        "date": "Sat, 21 Nov 2026 06:49:02 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/1659345921_IMG_1480915.jpg"
+        "date": "Sat, 21 Nov 2026 15:04:29 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/MSI-Vector-16-144Hz-Gaming-Laptop-Intel-Core-Ultra-7-255HX-NVIDIA-GeForce-RTX-5070-Ti-16GB-RAM-512GB-SSD-2026_3fed6288-3915-44e3-880b-2319d3abdcae.1ec0f6979e52fac0f762e37f1e9fa31f.jpg"
       },
       {
         "title": "Quest Gets 3D Movie Rentals & Purchases In The US, Including Billie Eilish Concert Film",
@@ -53,6 +53,14 @@
     ],
     "AI": [
       {
+        "title": "Can Anthropic afford to put safety first?",
+        "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+        "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.",
+        "source": "theverge.com",
+        "date": "2026-11-21T10:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
         "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
         "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
         "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
@@ -61,20 +69,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg"
       },
       {
-        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-        "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-        "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing…",
+        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+        "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+        "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon,…",
         "source": "theverge.com",
-        "date": "2026-11-20T13:50:19-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-      },
-      {
-        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-        "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a…",
-        "source": "theverge.com",
-        "date": "2026-11-20T11:34:13-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-21T09:00:00-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
@@ -85,12 +85,12 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg"
       },
       {
-        "title": "The week everything fell apart",
-        "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-        "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running.…",
+        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing…",
         "source": "theverge.com",
-        "date": "2026-11-20T09:06:59-05:00",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+        "date": "2026-11-20T13:50:19-05:00",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "title": "How to tell a cyberattack from a plain old outage",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "Bud Dupree requests release from Chargers, who haven't granted it",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bud-dupree-requests-release-from-chargers-who-havent-granted-it",
-        "summary": "As the season continues to unfold — and as the trade deadline fades into the rear-view mirror — unhappy players have only one option: To request a release.",
+        "title": "The first 21 chapters of Quarterback of the Future are available",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-first-21-chapters-of-quarterback-of-the-future-are-available",
+        "summary": "For the 25th anniversary of the launch of PFT, I decided to post the rewritten Quarterback of the Future — one chapter per day.",
         "source": "nbcsports.com",
-        "date": "Fri, 20 Nov 2026 23:03:43 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/ccc2dec/2147483647/strip/false/crop/7760x4365+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F41%2F02%2Fb94dc43b4153b1b48d8862b10055%2F2025-10-06t033543z-1179227710-mt1usatoday27257698-rtrmadp-3-nfl-washington-commanders-at-los-angeles-chargers.jpg"
+        "date": "Sat, 21 Nov 2026 10:23:01 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/74b165d/2147483647/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2F84%2F0cf0c4114a35a301548542828ca8%2Fqotf-1920x1080-1012.JPG"
       },
       {
-        "title": "Nicolas Cage on his John Madden misfire: \"I'm not Frank Caliendo\"",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nicolas-cage-on-his-john-madden-misfire-im-not-frank-caliendo",
-        "summary": "This whole thing is antithetical to my identity.",
+        "title": "Jerry Jones on fan's death after fight at 49ers-Cowboys game: \"We had no record of an incident\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-on-fans-death-after-fight-at-49ers-cowboys-game-we-had-no-record-of-an-incident",
+        "summary": "This week, a fan died after falling during a fight at AT&T Stadium.",
         "source": "nbcsports.com",
-        "date": "Fri, 20 Nov 2026 21:58:24 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d4da4c3/2147483647/strip/false/crop/4200x2363+0+322/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2F45%2F1859ae404528b22e101822f7402b%2F2303112929.jpg"
+        "date": "Sat, 21 Nov 2026 09:52:21 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/cd59672/2147483647/strip/false/crop/4664x2624+0+243/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2F83%2Fb014643b420ba235a6c28713fefb%2F2305266803.jpg"
       },
       {
-        "title": "Carson Beck listed as questionable, but Josh Johnson is expected to start",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-listed-as-questionable-but-josh-johnson-is-expected-to-start",
-        "summary": "Josh Johnson is expected to start Sunday's game against the Chiefs, but the Cardinals have not ruled out Carson Beck.",
+        "title": "Tom Brady, after selling Birmingham City stake, buys piece of Chelsea",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-after-selling-birmingham-city-stake-buys-piece-of-chelsea",
+        "summary": "Tom Brady's exit from the English soccer business was only temporary.",
         "source": "nbcsports.com",
-        "date": "Fri, 20 Nov 2026 19:08:19 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0b6af95/2147483647/strip/false/crop/7604x4277+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4d%2Fd8%2Fcbef4cfb43a0941f16ae3c3c0ca1%2F2305308453.jpg"
+        "date": "Sat, 21 Nov 2026 09:30:15 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4985b63/2147483647/strip/false/crop/6000x3375+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fb5%2Fd3b1b45c4891b655b8bdd11eb4a7%2F2305738920.jpg"
       },
       {
-        "title": "Brock Bowers doesn't know whether he will play Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brock-bowers-doesnt-know-whether-he-will-play-sunday",
-        "summary": "Raiders tight end Brock Bowers is listed as questionable for Sunday's game against the Broncos.",
+        "title": "Daiyan Henley being out with a knee injury changes nothing about the failed trade to Broncos",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/daiyan-henley-being-out-with-a-knee-injury-changes-nothing-about-the-failed-trade-to-broncos",
+        "summary": "The failed trade of Chargers linebacker Daiyan Henley returned to the front burner on Friday, with the news that Henley will miss Sunday's game against the Jets due to a knee…",
         "source": "nbcsports.com",
-        "date": "Fri, 20 Nov 2026 18:37:57 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/51b57ff/2147483647/strip/false/crop/5534x3113+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F94%2F58%2F5a367f2f4d9b829e6cbf71e2115e%2F2305481919.jpg"
+        "date": "Sat, 21 Nov 2026 08:58:19 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/00b540f/2147483647/strip/false/crop/7001x3938+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc4%2F5e%2F6a007c6948d3aee7d80f9af29129%2F2305651376.jpg"
       },
       {
-        "title": "S Talanoa Hufanga, WR Jaylen Waddle, CB Riley Moss set to return Sunday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/s-talanoa-hufanga-wr-jaylen-waddle-cb-riley-moss-set-to-return-sunday",
-        "summary": "The Broncos' injury report Friday was not about who has a status, but who doesn't.",
+        "title": "Raiders owner Mark Davis hated the Madden movie",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-owner-mark-davis-hated-the-madden-movie",
+        "summary": "Did anyone read the script before allowing the Raiders' name and logo to be used?",
         "source": "nbcsports.com",
-        "date": "Fri, 20 Nov 2026 17:03:13 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/7b737a1/2147483647/strip/false/crop/7467x4200+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb9%2Ff6%2F08942f7a43a6951cdea118acc9d0%2F2300753865.jpg"
+        "date": "Sat, 21 Nov 2026 08:12:50 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/d6db4d9/2147483647/strip/false/crop/5813x3270+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3f%2Fcc%2F2ff990db43338d3d9681d2dbbe74%2F2305841725.jpg"
       },
       {
-        "title": "Colts officially place Daniel Jones on waivers",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-officially-place-daniel-jones-on-waivers",
-        "summary": "Daniel Jones is officially on the waiver wire.",
+        "title": "NFL didn't know Puka Nacua had surgery when agreeing to suspension",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-didnt-know-puka-nacua-had-surgery-when-agreeing-to-suspension",
+        "summary": "The sudden decision of the NFL to suspend receiver Puka Nacua three games raises plenty of relevant questions.",
         "source": "nbcsports.com",
-        "date": "Fri, 20 Nov 2026 17:00:57 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/5fc6943/2147483647/strip/false/crop/4729x2660+0+246/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2F45%2Fb248521348b096a6ad8702bec9b6%2F2305397973.jpg"
+        "date": "Sat, 21 Nov 2026 07:40:34 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/edee033/2147483647/strip/false/crop/5077x2856+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F7f%2F574edd74489d81e8f4a05882eaf2%2F2304966658.jpg"
       }
     ]
   }
