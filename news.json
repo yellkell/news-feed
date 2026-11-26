@@ -1,14 +1,22 @@
 {
-  "updated": "2026-11-26T11:28:49.569Z",
+  "updated": "2026-11-26T20:26:08.360Z",
   "feed": {
     "VR": [
       {
-        "title": "MSI’s 320Hz QD-OLED gaming monitor is $90 off at Amazon, though delivery could take weeks",
-        "url": "https://mixed-news.com/en/msi-mag-oled-271qpx32-320hz-gaming-monitor-amazon-deal/",
-        "summary": "MSI’s MAG OLED 271QPX32 brings a 320Hz QD-OLED screen down to $429.99 at Amazon.",
+        "title": "VR Souls-like Grimlord Launches On PlayStation VR2 With The Definitive Edition Update",
+        "url": "https://www.uploadvr.com/vr-souls-like-grimlord-launches-on-playstation-vr2-with-the-definitive-edition-update/",
+        "summary": "Grimlord is out on PlayStation VR2 with a new definitive edition adding more gore, better visuals, improved performance, and many other features.",
+        "source": "uploadvr.com",
+        "date": "Thu, 26 Nov 2026 12:22:57 -0800",
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/grimlord.jpg"
+      },
+      {
+        "title": "INNOCN’s 40-inch ultrawide gaming monitor is $200 off for Prime members, with a 3440×1440 IPS screen",
+        "url": "https://mixed-news.com/en/innocn-40-inch-ultrawide-monitor-prime-deal/",
+        "summary": "Amazon Prime members can pick up INNOCN’s 40C1R Max, a 40-inch ultrawide IPS monitor with a 3440×1440 resolution, for $399.99 at Amazon.",
         "source": "mixed-news.com",
-        "date": "Thu, 26 Nov 2026 09:42:51 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/81nByP9b0zL._SR19201080_.jpg"
+        "date": "Thu, 26 Nov 2026 19:43:30 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/90223-392-145079009512136c8bd06d7da48292fb-3900x1560-1.jpg"
       },
       {
         "title": "VR Design Unpacked: This 2019 Game Still Sets the Bar for Open World VR",
@@ -19,28 +27,20 @@
         "image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2024/03/stormland-inside-xr-design.jpg?resize=1280%2C720&quality=89&ssl=1"
       },
       {
+        "title": "MSI’s 12GB RTX 3060 costs $413.99 at Amazon, saving $78 on its list price",
+        "url": "https://mixed-news.com/en/msi-rtx-3060-ventus-12gb-amazon-graphics-card-deal/",
+        "summary": "MSI’s GeForce RTX 3060 Ventus 2X OC V1, a dual-fan graphics card with 12GB of video memory, is $413.99 at Amazon.",
+        "source": "mixed-news.com",
+        "date": "Thu, 26 Nov 2026 18:09:14 +0000",
+        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/71JfLA4oJmL._SR19201080_.jpg"
+      },
+      {
         "title": "Talking Success In VR Gaming With Dungeons Of Eternity's Ryan Rutherford",
         "url": "https://www.uploadvr.com/vr-spotlight-interview-ryan-rutherford-dungeons-of-eternity/",
         "summary": "On VR Spotlight, our live interview series, we spoke with Othergate co-founder Ryan Rutherford about Dungeons of Eternity's sustainable success in VR, PlayStation VR2, Steam Frame,…",
         "source": "uploadvr.com",
         "date": "Wed, 25 Nov 2026 11:24:48 -0800",
         "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/vr-spotlight-interview-ryan-rutherford-dungeons-of-eternity.jpg"
-      },
-      {
-        "title": "Alienware’s RTX 5050 gaming laptop with a 1TB SSD and 1600p screen is nearly $120 off at Amazon",
-        "url": "https://mixed-news.com/en/alienware-16-aurora-rtx-5050-1tb-gaming-laptop-amazon-deal/",
-        "summary": "If you have been looking for an Alienware laptop without paying for its higher-end graphics options, Amazon has a saving on the 16-inch Aurora.",
-        "source": "mixed-news.com",
-        "date": "Thu, 26 Nov 2026 09:32:17 +0000",
-        "image": "https://mixed-news.com/en/wp-content/uploads/2026/11/71oM7NX7yL._SR19201080_.jpg"
-      },
-      {
-        "title": "Real VR Fishing Winter Shark Frenzy Event Kicks Off Today",
-        "url": "https://www.uploadvr.com/real-vr-fishing-winter-shark-frenzy-event-kicks-off-today/",
-        "summary": "Real VR Fishing kicks off its annual Winter Shark Frenzy event today with the community hunting a White Megalodon.",
-        "source": "uploadvr.com",
-        "date": "Tue, 24 Nov 2026 10:51:05 -0800",
-        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/11/Winter-Shark-Frenzy-2026_2560_1440-1.png"
       },
       {
         "title": "The Best Early Black Friday XR Deals",
@@ -103,52 +103,52 @@
     ],
     "NFL": [
       {
-        "title": "James Jones: I'm on text threads with former Packers, none are on Aaron Rodgers' side",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/james-jones-im-on-text-threads-with-former-packers-none-are-on-aaron-rodgers-side",
-        "summary": "In the dispute between Steelers coach Mike McCarthy and ex-Steelers quarterback Aaron Rodgers, players who were with both of them in Green Bay are squarely on McCarthy's side.",
+        "title": "Bears cut Lions lead to 19-17 on Kyle Monangai's second TD",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-cut-lions-lead-to-19-17-on-kyle-monangais-second-td",
+        "summary": "The Bears opened the second half with a touchdown drive.",
         "source": "nbcsports.com",
-        "date": "Thu, 26 Nov 2026 05:57:56 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/3ae60f8/2147483647/strip/false/crop/3406x1916+0+178/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fad%2F38%2Fd8e926b34c9bb6fe417e3b33cd2b%2F488045066.jpg"
+        "date": "Thu, 26 Nov 2026 15:12:41 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/1b17133/2147483647/strip/false/crop/4804x2702+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2F2b%2Fbb3809b14c51bdbf7c70c3cdd826%2F2306438277.jpg"
       },
       {
-        "title": "Jayden Daniels: Brandon Aiyuk and I put the past behind us",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-brandon-aiyuk-and-i-put-the-past-behind-us",
-        "summary": "Commanders quarterback Jayden Daniels and Brandon Aiyuk were once Arizona State teammates and close friends, but Aiyuk seemed to burn those bridges this year, when he posted…",
+        "title": "Lions score nine quick points before halftime, lead Bears 19-10",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-up-19-10-on-bears-at-halftime",
+        "summary": "A safety and a touchdown have the home team up after 30 minutes of play.",
         "source": "nbcsports.com",
-        "date": "Thu, 26 Nov 2026 04:42:18 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/24fd57e/2147483647/strip/false/crop/5132x2887+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fca%2F38%2F8c28aa08430899edf5d72d110553%2F1180681169.jpg"
+        "date": "Thu, 26 Nov 2026 14:38:15 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/347dbe0/2147483647/strip/false/crop/5295x2978+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F60%2F33%2F3ee14e484eb88ce79d5c4f659c80%2F2307022733.jpg"
       },
       {
-        "title": "T.J. Lang blasts \"despicable\" Aaron Rodgers comments about Mike McCarthy",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/t-j-lang-blasts-despicable-aaron-rodgers-comments-about-mike-mccarthy",
-        "summary": "T.J.",
+        "title": "Steelers activate Michael Pittman Jr., sign Max Hurleman to active roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-activate-michael-pittman-jr-sign-max-hurleman-to-active-roster",
+        "summary": "Mason Rudolph will have wide receiver Michael Pittman Jr. available as a target in his first start of the 2026 season.",
         "source": "nbcsports.com",
-        "date": "Thu, 26 Nov 2026 00:24:31 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/953ff68/2147483647/strip/false/crop/5184x2916+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F10%2F68%2F984f26564fcaa9b65b586b58939e%2F504367732.jpg"
+        "date": "Thu, 26 Nov 2026 14:24:54 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/de7dea8/2147483647/strip/false/crop/8640x4860+0+450/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2Fb7%2Ffaeb08bf4650ae85dd0a97e6ac60%2F2298386495.jpg"
       },
       {
-        "title": "NFL Playoff Picture 2026: Updated AFC and NFC standings, bracket, tiebreakers for Week 12",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-playoff-picture-2026-updated-afc-and-nfc-standings-bracket-tiebreakers-for-week-12",
-        "summary": "The five-game football feast surrounding Thanksgiving has major playoff implications for all 10 teams playing around the holiday, and it started with the Rams moving into playoff…",
+        "title": "Bears tie Lions 10-10 on Kyle Monangai TD",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-tie-lions-10-10-on-kyle-monangai-td",
+        "summary": "The Bears spotted the Lions a 10-point lead in the second quarter, but they've wiped it out with four minutes to go in the first half.",
         "source": "nbcsports.com",
-        "date": "Thu, 26 Nov 2026 00:01:00 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/4de09aa/2147483647/strip/false/crop/8192x4608+0+428/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F53%2F17%2Fa2473c824eca8c0323ceb0d6315b%2F2306382960.jpg"
+        "date": "Thu, 26 Nov 2026 14:10:42 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/f541e93/2147483647/strip/false/crop/5711x3212+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff7%2F4d%2Fb10000434359ae096d149133ef65%2F2307016213.jpg"
       },
       {
-        "title": "Rams shut down Packers in second half for a 26-13 win in NFL's first Thanksgiving Eve game",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-shut-down-packers-in-second-half-for-a-26-13-win",
-        "summary": "The Rams running game powered them to their fifth straight win.",
+        "title": "Chargers sign Jake Browning to active roster",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-sign-jake-browning-to-active-roster",
+        "summary": "The Chargers' starting quarterback is in the concussion protocol, so they moved to add another healthy one to the active roster on Thursday.",
         "source": "nbcsports.com",
-        "date": "Wed, 25 Nov 2026 23:30:48 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/0c80188/2147483647/strip/false/crop/5147x2895+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2Fa4%2Fb8df20074e8ebe93daaf5ccfd390%2F2306919499.jpg"
+        "date": "Thu, 26 Nov 2026 13:58:18 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/a3b7b6e/2147483647/strip/false/crop/3500x1969+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2Ffd%2F3a8ba3a443fdb942087a1cfd810c%2F2292888285.jpg"
       },
       {
-        "title": "On Our Way Home is free on Thursday and Friday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-our-way-home-is-free-on-thursday-and-friday",
-        "summary": "The holiday season is here.",
+        "title": "Jahmyr Gibbs puts Lions up 10-0, Colston Loveland out with knee injury",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-puts-lions-up-10-0-colston-loveland-out-with-knee-injury",
+        "summary": "Loveland left the game on a cart in the first quarter.",
         "source": "nbcsports.com",
-        "date": "Wed, 25 Nov 2026 23:09:04 -0500",
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/e8f626c/2147483647/strip/false/crop/1164x655+0+28/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F01%2F08%2Fd11bbcfc47fbb3373f594e6fbea1%2Fimg-4701.jpeg"
+        "date": "Thu, 26 Nov 2026 13:47:43 -0500",
+        "image": "https://nbcsports.brightspotcdn.com/dims4/default/31b3229/2147483647/strip/false/crop/7081x3983+0+0/resize/1920x1080!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff9%2F0c%2Fcf2a649f4be98bfed0b6525a8c0f%2F2307017695.jpg"
       }
     ]
   }
